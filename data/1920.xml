@@ -1,0 +1,30 @@
+<ann><anime id="1920" gid="2636424553" type="special" name="Doraemon: It's New Year!" precision="special" generated-on="2016-03-27T05:59:39Z">
+<related-prev rel="sequel of" id="1318"/>
+<related-next id="1921" rel="sequel"/>
+<related-next id="1922" rel="sequel"/>
+<related-next id="1923" rel="sequel"/>
+<related-next id="1924" rel="sequel"/>
+<related-next id="1925" rel="sequel"/>
+<related-next id="1926" rel="sequel"/>
+<related-next id="1927" rel="sequel"/>
+<related-next id="1928" rel="sequel"/>
+<related-next id="1929" rel="sequel"/>
+<related-next id="1930" rel="sequel"/>
+<related-next id="1931" rel="sequel"/>
+<related-next id="9160" rel="sequel"/>
+<info gid="1310406640" type="Main title" lang="EN">Doraemon: It's New Year!</info>
+<info gid="705376003" type="Alternative title" lang="JA">Oshōgatsu da yo! Doraemon</info>
+<info gid="2513356716" type="Alternative title" lang="JA">お正月だよ！ドラえもん</info>
+<info gid="2236555451" type="Running time">one hour</info>
+<info gid="2815543559" type="Vintage">1979-01</info>
+<ratings nb_votes="1" weighted_score="10"/>
+<staff gid="2046256441"><task>Original creator</task><person id="6677">Hiroshi Fujimoto</person></staff>
+<staff gid="3417367177"><task>Original creator</task><person id="40302">Motoo Abiko</person></staff>
+<cast gid="2883961456" lang="JA"><role>Nobita Nobi</role><person id="3410">Noriko Ohara</person></cast>
+<cast gid="1574427639" lang="JA"><role>Shizuka</role><person id="4633">Michiko Nomura</person></cast>
+<cast gid="2860380255" lang="JA"><role>Suneo</role><person id="7237">Kaneta Kimotsuki</person></cast>
+<cast gid="819520010" lang="JA"><role>Doraemon</role><person id="7244">Nobuyo Oyama</person></cast>
+<cast gid="2132959334" lang="JA"><role>Gian</role><person id="7247">Kazuya Tatekabe</person></cast>
+<credit gid="672786887"><task>Production</task><company id="160">TV Asahi</company></credit>
+<credit gid="2456172654"><task>Production</task><company id="1240">Asatsu DK</company></credit>
+<credit gid="4210312829"><task>Production</task><company id="8779">Shin-Ei Animation</company></credit></anime></ann>

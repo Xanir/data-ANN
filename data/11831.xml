@@ -1,0 +1,51 @@
+<ann><anime id="11831" gid="2969883857" type="OAV" name="Nichijō" precision="OAV" generated-on="2016-03-27T03:27:08Z">
+<related-prev rel="adapted from" id="11586"/>
+<info gid="853504808" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A11831-13.jpg" width="129" height="200"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A11831-13.jpg" width="129" height="200"/></info>
+<info gid="3049119164" type="Main title" lang="JA">Nichijō</info>
+<info gid="1776608307" type="Alternative title" lang="EN">Nichijō Episode 0</info>
+<info gid="1857436881" type="Alternative title" lang="JA">Nichijou no 0-wa</info>
+<info gid="1443685786" type="Alternative title" lang="JA">日常</info>
+<info gid="2273983337" type="Genres">comedy</info>
+<info gid="2040255530" type="Genres">slice of life</info>
+<info gid="1567738902" type="Themes">school</info>
+<info gid="881235369" type="Themes">school life</info>
+<info gid="2055032358" type="Objectionable content">AA</info>
+<info gid="4005032050" type="Plot Summary">A small glimpse into the lives of the peculiar individuals that inhabit class 1-Q and the few odd individuals who are next to them.</info>
+<info gid="3959110573" type="Running time">23</info>
+<info gid="2324738815" type="Number of episodes">1</info>
+<info gid="3420680421" type="Vintage">2011-03-12</info>
+<ratings nb_votes="190" weighted_score="6.6321" bayesian_score="6.68915"/>
+<episode num="1">
+<title part="A" gid="1503139536" lang="EN">Everyday Compliments</title>
+<title part="B" gid="2543541918" lang="EN">An Everyday Cold</title>
+<title part="C" gid="3422064769" lang="EN">Everyday Reserving</title></episode>
+<news datetime="2010-05-24T03:34:51Z" href="http://www.animenewsnetwork.com/news/2010-05-23/nichijou-manga-6th-volume-to-bundle-anime-episode-0">&lt;cite&gt;Nichijou&lt;/cite&gt; Manga's 6th Volume to Bundle Anime Episode 0</news>
+<news datetime="2010-11-26T15:14:07Z" href="http://www.animenewsnetwork.com/news/2010-11-26/nichijou-freezing-ashita-no-joe-mitsudomoe-2-promos-streamed">&lt;cite&gt;Nichijou, Freezing, Ashita no Joe, Mitsudomoe 2&lt;/cite&gt; Promos Streamed</news>
+<news datetime="2011-07-31T02:45:00Z" href="http://www.animenewsnetwork.com/news/2011-07-30/bandai-entertainment-adds-nichijou-gosick-anime">Bandai Entertainment Adds &lt;cite&gt;Nichijou, Gosick&lt;/cite&gt; Anime</news>
+<staff gid="2481598519"><task>Director</task><person id="9087">Tatsuya Ishihara</person></staff>
+<staff gid="326362277"><task>Series Composition</task><person id="16408">Jukki Hanada</person></staff>
+<staff gid="2699324085"><task>Script</task><person id="16408">Jukki Hanada</person></staff>
+<staff gid="2545262528"><task>Storyboard</task><person id="9087">Tatsuya Ishihara</person></staff>
+<staff gid="1286286204"><task>Episode Director</task><person id="37454">Kazuya Sakamoto</person></staff>
+<staff gid="2427186165"><task>Music</task><person id="4769">Yuuji Nomi</person></staff>
+<staff gid="878719828"><task>Original creator</task><person id="90238">Keiichi Arawi</person></staff>
+<staff gid="2213036209"><task>Character Design</task><person id="37457">Futoshi Nishiya</person></staff>
+<staff gid="3022488616"><task>Art Director</task><person id="86445">Joji Unoguchi</person></staff>
+<staff gid="1987030265"><task>Animation Director</task><person id="37457">Futoshi Nishiya</person></staff>
+<staff gid="3386084065"><task>Sound Director</task><person id="254">Yota Tsuruoka</person></staff>
+<staff gid="2109678193"><task>Director of Photography</task><person id="49310">Kazuya Takao</person></staff>
+<staff gid="3574413007"><task>Executive producer</task><person id="13740">Takeshi Yasuda</person></staff>
+<staff gid="2840320604"><task>Producer</task><person id="10470">Atsushi Itou</person></staff>
+<staff gid="2983494873"><task>Producer</task><person id="28845">Hideaki Hatta</person></staff>
+<cast gid="2044885356" lang="JA"><role>Hakase</role><person id="8217">Hiromi Konno</person></cast>
+<cast gid="1792532250" lang="JA"><role>Sakamoto-san</role><person id="14922">Minoru Shiraishi</person></cast>
+<cast gid="3250179319" lang="JA"><role>Mio Naganohara</role><person id="29877">Mai Aizawa</person></cast>
+<cast gid="1997336913" lang="JA"><role>Yūko Aioi</role><person id="70862">Mariko Honda</person></cast>
+<cast gid="2110884051" lang="JA"><role>Misato Tachibana</role><person id="73926">Chika Horikawa</person></cast>
+<cast gid="2339180862" lang="JA"><role>Mai Minakami</role><person id="76670">Misuzu Togashi</person></cast>
+<cast gid="2783652944" lang="JA"><role>Nano Shinonome</role><person id="96559">Shizuka Furuya</person></cast>
+<cast gid="2634000216" lang="JA"><role>Annaka</role><person id="96615">Kaori Sadohara</person></cast>
+<cast gid="953612869" lang="JA"><role>Ueboshii</role><person id="96616">Yōko Tamaoki</person></cast>
+<cast gid="2578880714" lang="JA"><role>Kenzaburō Daiku</role><person id="96617">Ryōta Yoshizaki</person></cast>
+<credit gid="2053316749"><task>Animation Production</task><company id="235">Kyoto Animation</company></credit>
+<credit gid="2868368454"><task>Production</task><company id="11396">Shinonome Lab</company></credit></anime></ann>

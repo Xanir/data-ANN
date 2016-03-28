@@ -1,0 +1,465 @@
+<ann><anime id="11132" gid="4230043421" type="TV" name="Miracle! Mimika" precision="TV" generated-on="2016-03-27T02:16:50Z">
+<info gid="890367626" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A11132-6.jpg" width="200" height="200"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A11132-6.jpg" width="200" height="200"/><img src="http://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A11132-6.jpg" width="240" height="240"/></info>
+<info gid="2396173906" type="Main title" lang="JA">Miracle! Mimika</info>
+<info gid="1355647268" type="Alternative title" lang="JA">味楽る！ミミカ</info>
+<info gid="2766372361" type="Running time">10</info>
+<info gid="2963491321" type="Number of episodes">225</info>
+<info gid="1496388729" type="Vintage">2006-04-03 to 2009-03-13</info>
+<info gid="2895265835" type="Opening Theme">&quot;Miracle! Mimika Number One&quot; (味楽る! ミミカ ナンバーワン) by Mayuko Omimura</info>
+<episode num="1">
+<title gid="3056293838" lang="JA">ojousama ☆ toujou</title></episode>
+<episode num="2">
+<title gid="2582033188" lang="JA">omoide no ☆ tamago ryouri</title></episode>
+<episode num="3">
+<title gid="1312182166" lang="JA">yude tamago no ☆ himitsu</title></episode>
+<episode num="4">
+<title gid="2061851667" lang="JA">mou hitori no ☆ KURASUMEETO</title></episode>
+<episode num="5">
+<title gid="2651873012" lang="JA">UFU.A.RA.NEEJU ICHIGO SOUSU</title></episode>
+<episode num="6">
+<title gid="2522888713" lang="JA">futari wa ☆ mai KONBI ☆</title></episode>
+<episode num="7">
+<title gid="1539669352" lang="JA">shinsen na ☆ ryouri</title></episode>
+<episode num="8">
+<title gid="1734749456" lang="JA">futari no ☆ HAAMONII</title></episode>
+<episode num="9">
+<title gid="3499777099" lang="JA">shin MENYUU ☆ DEBYUU</title></episode>
+<episode num="10">
+<title gid="1842355722" lang="JA">PURIPURI donburi</title></episode>
+<episode num="11">
+<title gid="2584115753" lang="JA">nazo no ☆ otakara</title></episode>
+<episode num="12">
+<title gid="2651211765" lang="JA">dentou no ☆ RESHIPI</title></episode>
+<episode num="13">
+<title gid="1640426189" lang="JA">kaitoo ☆ ☆ arawaru</title></episode>
+<episode num="14">
+<title gid="820601132" lang="JA">TAMA-chan no ☆ onedari</title></episode>
+<episode num="15">
+<title gid="3290431020" lang="JA">assari sawayaka otoufu AISU</title></episode>
+<episode num="16">
+<title gid="2227931817" lang="JA">mirakuru na ☆ omatsuri</title></episode>
+<episode num="17">
+<title gid="2125705089" lang="JA">chiisana ☆ okyaku-sama</title></episode>
+<episode num="18">
+<title gid="915670972" lang="JA">onigiri no ☆ dai henshin</title></episode>
+<episode num="19">
+<title gid="2942924254" lang="JA">ichiban no ☆ gohoubi</title></episode>
+<episode num="20">
+<title gid="2182507567" lang="JA">nana iro onigiri</title></episode>
+<episode num="21">
+<title gid="2401277430" lang="JA">gekitotsu ☆ KURASUMEETO</title></episode>
+<episode num="22">
+<title gid="2965714886" lang="JA">arashi no ☆ men taiketsu!</title></episode>
+<episode num="23">
+<title gid="3459774633" lang="JA">RAAMEN ? ☆ PIZA ?</title></episode>
+<episode num="24">
+<title gid="874357286" lang="JA">KOIN ni ☆ negai wo</title></episode>
+<episode num="25">
+<title gid="1352173865" lang="JA">RAAMEN PIZA</title></episode>
+<episode num="26">
+<title gid="3483937733" lang="JA">akogare no ☆ PATISHIEERU</title></episode>
+<episode num="27">
+<title gid="2716682310" lang="JA">utsukushisa to ☆ aji to ☆</title></episode>
+<episode num="28">
+<title gid="1779065517" lang="JA">DEZAATO no AN ☆ DOU ☆ TOROWA</title></episode>
+<episode num="29">
+<title gid="3486943109" lang="JA">KEIKO sensei no ☆ ichi nichi</title></episode>
+<episode num="30">
+<title gid="1792510143" lang="JA">REMONSUKASSHUZERII</title></episode>
+<episode num="31">
+<title gid="617042005" lang="JA">gakuen no ☆ kaidan</title></episode>
+<episode num="32">
+<title gid="3600840870" lang="JA">akazu no ☆ heya</title></episode>
+<episode num="33">
+<title gid="2219731557" lang="JA">kurekure no ☆ himitsu</title></episode>
+<episode num="34">
+<title gid="1971899770" lang="JA">kurekure ☆ futatabi</title></episode>
+<episode num="35">
+<title gid="2264309092" lang="JA">hanataba KUREEPU</title></episode>
+<episode num="36">
+<title gid="816636469" lang="JA">fukkura ☆ dai PINCHI</title></episode>
+<episode num="37">
+<title gid="696679141" lang="JA">sekaiichi no ☆ KAREEPAN</title></episode>
+<episode num="38">
+<title gid="759744852" lang="JA">sekaiichi ☆ yori mo...</title></episode>
+<episode num="39">
+<title gid="838133690" lang="JA">PURO no ☆ himitsu</title></episode>
+<episode num="40">
+<title gid="4147503517" lang="JA">KAREERAISU PAN</title></episode>
+<episode num="41">
+<title gid="3197720132" lang="JA">aki no ☆ bimi~</title></episode>
+<episode num="42">
+<title gid="1225784843" lang="JA">masayukikai no ☆ yakusoku</title></episode>
+<episode num="43">
+<title gid="1561858326" lang="JA">maboroshi no ☆ MATSUTAKE</title></episode>
+<episode num="44">
+<title gid="2027264131" lang="JA">wasurerarenai ☆ ano aji</title></episode>
+<episode num="45">
+<title gid="2882170086" lang="JA">aki no mikaku kinoko SUUPU chazuke</title></episode>
+<episode num="46">
+<title gid="3275922810" lang="JA">i gumi no ☆ joou</title></episode>
+<episode num="47">
+<title gid="1299229297" lang="JA">atsui ☆ BATORU</title></episode>
+<episode num="48">
+<title gid="2778675424" lang="JA">♪ MI ☆ ♪ SO</title></episode>
+<episode num="49">
+<title gid="1523034685" lang="JA">a gumi ☆ dai PINCHI</title></episode>
+<episode num="50">
+<title gid="3533469232" lang="JA">MIRUKU miso RAAMEN</title></episode>
+<episode num="51">
+<title gid="1840017543" lang="JA">kururi ☆ bimi~</title></episode>
+<episode num="52">
+<title gid="3288153698" lang="JA">wakadanna ☆ dai PINCHI</title></episode>
+<episode num="53">
+<title gid="990862356" lang="JA">kurukuru ☆ MIRAKURU PAATII</title></episode>
+<episode num="54">
+<title gid="3042257155" lang="JA">danna no ☆ suki na mono</title></episode>
+<episode num="55">
+<title gid="1475145282" lang="JA">MIRAKURU ☆ kururi sushi</title></episode>
+<episode num="56">
+<title gid="1297716019" lang="JA">chichi kara no ☆ tegami</title></episode>
+<episode num="57">
+<title gid="3179548828" lang="JA">mirakurai wa ☆ MIRAKURU</title></episode>
+<episode num="58">
+<title gid="2035131163" lang="JA">chichi e no ☆ tegami</title></episode>
+<episode num="59">
+<title gid="2800536654" lang="JA">ouji shokudou ☆ dai isogashi</title></episode>
+<episode num="60">
+<title gid="1960340493" lang="JA">MIRAKURU ☆ tamago HANBAAGU</title></episode>
+<episode num="61">
+<title gid="3171218841" lang="JA">KEIKO sensei no ☆ KEEKI</title></episode>
+<episode num="62">
+<title gid="1526166184" lang="JA">himitsu no ☆ PAATII</title></episode>
+<episode num="63">
+<title gid="1061558821" lang="JA">AJIMARU ☆ kangeki ☆</title></episode>
+<episode num="64">
+<title gid="1720880422" lang="JA">ringo no ☆ kimochi</title></episode>
+<episode num="65">
+<title gid="2561952001" lang="JA">ringo to hachimitsu toro~ri KEEKI</title></episode>
+<episode num="66">
+<title gid="2422351998" lang="JA">MARUKO to ☆ wakadanna</title></episode>
+<episode num="67">
+<title gid="1842015591" lang="JA">sayonara ☆ MARUKO</title></episode>
+<episode num="68">
+<title gid="2117642140" lang="JA">MIMIKA no ☆ negai</title></episode>
+<episode num="69">
+<title gid="2995758031" lang="JA">oishii ☆ egao</title></episode>
+<episode num="70">
+<title gid="725040362" lang="JA">ichigo ☆ TIRAMISU</title></episode>
+<episode num="71">
+<title gid="1550087037" lang="JA">MISUTAA D no ☆ chousenjou</title></episode>
+<episode num="72">
+<title gid="3216981326" lang="JA">2 bai umai ☆ maru maru RAISU</title></episode>
+<episode num="73">
+<title gid="1376419579" lang="JA">umai de ☆ shoubu</title></episode>
+<episode num="74">
+<title gid="2428197778" lang="JA">MIMIKA no ☆ himitsu ryouri</title></episode>
+<episode num="75">
+<title gid="1558640112" lang="JA">MIRAKURU ☆ OMURAISU onigiri</title></episode>
+<episode num="76">
+<title gid="1796104376" lang="JA">bimikou no ☆ shin gakki</title></episode>
+<episode num="77">
+<title gid="882433164" lang="JA">MORIRIN no ☆ tokubetsu MENYUU</title></episode>
+<episode num="78">
+<title gid="2410800412" lang="JA">mahou no ☆ kakushi aji</title></episode>
+<episode num="79">
+<title gid="1862637473" lang="JA">MIRAKURU ☆ dai henshin</title></episode>
+<episode num="80">
+<title gid="2518968152" lang="JA">ojousama wa ☆ nemuri hime ?</title></episode>
+<episode num="81">
+<title gid="1287103441" lang="JA">masayuki kai ☆ no PASUTA</title></episode>
+<episode num="82">
+<title gid="1793108099" lang="JA">ikari no ☆ MARUKO!</title></episode>
+<episode num="83">
+<title gid="1560368879" lang="JA">nakanaori ☆ dai sakusen</title></episode>
+<episode num="84">
+<title gid="3314408750" lang="JA">NAPORITAN to ☆ KARUBONAARA</title></episode>
+<episode num="85">
+<title gid="2094098661" lang="JA">ouji shokudou no ☆ demae</title></episode>
+<episode num="86">
+<title gid="1834992888" lang="JA">KAPAKKUN ☆ densetsu</title></episode>
+<episode num="87">
+<title gid="2560527053" lang="JA">otakara no ☆ tame ni</title></episode>
+<episode num="88">
+<title gid="2215084121" lang="JA">oyatsu de ☆ PINCHI</title></episode>
+<episode num="89">
+<title gid="2349124013" lang="JA">PURIN de ☆ PURIN ?</title></episode>
+<episode num="90">
+<title gid="2212196567" lang="JA">PURIN no ☆ himitsu</title></episode>
+<episode num="91">
+<title gid="3329772514" lang="JA">wakadanna ☆ dai dai dai PINCHI</title></episode>
+<episode num="92">
+<title gid="1880834738" lang="JA">UME ☆ obaa-chan no negai</title></episode>
+<episode num="93">
+<title gid="1791666118" lang="JA">omiyage ☆ dai sakusen</title></episode>
+<episode num="94">
+<title gid="2611819910" lang="JA">KITSUNE ga ☆ kururi</title></episode>
+<episode num="95">
+<title gid="562789266" lang="JA">hajimete no ☆ DEETO</title></episode>
+<episode num="96">
+<title gid="1626437905" lang="JA">yume no ☆ AIRANDO</title></episode>
+<episode num="97">
+<title gid="597135823" lang="JA">nazo no ☆ angou</title></episode>
+<episode num="98">
+<title gid="2707023073" lang="JA">mezase! ☆ saigo no FURUUTSU</title></episode>
+<episode num="99">
+<title gid="2710999266" lang="JA">oishii ☆ GOURU</title></episode>
+<episode num="100">
+<title gid="1159723515" lang="JA">umi no ☆ MORIRIN</title></episode>
+<episode num="101">
+<title gid="2796372031" lang="JA">nazo no ☆ RINGO</title></episode>
+<episode num="102">
+<title gid="1541754042" lang="JA">koko natsu ☆ KOKONATSU!</title></episode>
+<episode num="103">
+<title gid="3671445114" lang="JA">yokubari na ☆ ryouri</title></episode>
+<episode num="104">
+<title gid="954422544" lang="JA">HOTTO ni ☆ amami</title></episode>
+<episode num="105">
+<title gid="2265776837" lang="JA">nana nin ☆ no ☆ sasurai</title></episode>
+<episode num="106">
+<title gid="1809946219" lang="JA">arashi no ☆ taiiku sai</title></episode>
+<episode num="107">
+<title gid="1679663936" lang="JA">a. i. no ☆ RAIBARU</title></episode>
+<episode num="108">
+<title gid="2023597411" lang="JA">i gumi no ☆ sakusen</title></episode>
+<episode num="109">
+<title gid="2734215328" lang="JA">atsuki ☆ BATORU</title></episode>
+<episode num="110">
+<title gid="1335577300" lang="JA">tenshi no ☆ AIDEA</title></episode>
+<episode num="111">
+<title gid="1872678697" lang="JA">obentou no ☆ a i u e o</title></episode>
+<episode num="112">
+<title gid="1767372264" lang="JA">irodori wa ☆ MIRAKURU</title></episode>
+<episode num="113">
+<title gid="280094037" lang="JA">KARAFURU ☆ tai ☆ KINKIRA</title></episode>
+<episode num="114">
+<title gid="1104700715" lang="JA">MIMIKA no ☆ kakushi waza</title></episode>
+<episode num="115">
+<title gid="2012749156" lang="JA">amai ☆ WANA</title></episode>
+<episode num="116">
+<title gid="3527016720" lang="JA">PAPA to MAMA no ☆ IBENTO</title></episode>
+<episode num="117">
+<title gid="2376149082" lang="JA">omoide no ☆ gyouza</title></episode>
+<episode num="118">
+<title gid="2255416015" lang="JA">3つで☆ひとつ</title></episode>
+<episode num="119">
+<title gid="3109972968" lang="JA">ai no ☆ chikara</title></episode>
+<episode num="120">
+<title gid="1422655323" lang="JA">dare ga ☆ NANBAAWAN ?</title></episode>
+<episode num="121">
+<title gid="488202873" lang="JA">MIRAKURU ☆ HAROWIN</title></episode>
+<episode num="122">
+<title gid="1209922985" lang="JA">nana nin no ☆ HACHI</title></episode>
+<episode num="123">
+<title gid="1142698662" lang="JA">KABOCHA no ☆ dai henshin</title></episode>
+<episode num="124">
+<title gid="2182591930" lang="JA">mahou no ☆ okashi</title></episode>
+<episode num="125">
+<title gid="658707702" lang="JA">KEIKO sensei no ☆ ITAZURA</title></episode>
+<episode num="126">
+<title gid="3877300247" lang="JA">arasoi ☆ futatabi</title></episode>
+<episode num="127">
+<title gid="4126869194" lang="JA">FUTSUU to ☆ honkaku</title></episode>
+<episode num="128">
+<title gid="3142493877" lang="JA">HIMITSU no ☆ kakushi aji?</title></episode>
+<episode num="129">
+<title gid="3370240436" lang="JA">oishisa ☆ 3 kai</title></episode>
+<episode num="130">
+<title gid="2925425888" lang="JA">TEREBI ☆ DEBYUU</title></episode>
+<episode num="131">
+<title gid="2060709942" lang="JA">ICHIGO to ☆ CHOKOREETO</title></episode>
+<episode num="132">
+<title gid="1409714526" lang="JA">nakanaori ☆ dai sakusen</title></episode>
+<episode num="133">
+<title gid="2727940055" lang="JA">KEEKI no ☆ zairyou</title></episode>
+<episode num="134">
+<title gid="2530569667" lang="JA">yuujou ☆ KEEKI</title></episode>
+<episode num="135">
+<title gid="2228647956" lang="JA">kyou ha ☆ nani no hi?</title></episode>
+<episode num="136">
+<title gid="2032225982" lang="JA">a gumi ☆ SOS!</title></episode>
+<episode num="137">
+<title gid="3545034843" lang="JA">samu~i ☆ kyoushitsu</title></episode>
+<episode num="138">
+<title gid="3052640084" lang="JA">ATSUATSU ha ☆ minna wo sukuu</title></episode>
+<episode num="139">
+<title gid="3961564019" lang="JA">GURATAN no ☆ HIMITSU</title></episode>
+<episode num="140">
+<title gid="2738992155" lang="JA">a gumi no ☆ chousen</title></episode>
+<episode num="141">
+<title gid="2158292897" lang="JA">NAZO no ☆ PAATII</title></episode>
+<episode num="142">
+<title gid="1543221294" lang="JA">MIMIKA no ☆ shiren</title></episode>
+<episode num="143">
+<title gid="1820917330" lang="JA">ATSUATSU ☆ gu wa GU~!</title></episode>
+<episode num="144">
+<title gid="1123149611" lang="JA">oishii ☆ kimochi</title></episode>
+<episode num="145">
+<title gid="1612513886" lang="JA">kibou no ☆ hoshi</title></episode>
+<episode num="146">
+<title gid="2308798952" lang="JA">MIMIKA no ☆ kimochi</title></episode>
+<episode num="147">
+<title gid="1529917822" lang="JA">kansha no ☆ CHOKOREETO</title></episode>
+<episode num="148">
+<title gid="1872849335" lang="JA">an an ☆ mochi mochi</title></episode>
+<episode num="149">
+<title gid="1006099710" lang="JA">nakami de ☆ shoubu</title></episode>
+<episode num="150">
+<title gid="908286735" lang="JA">AJIMARU no ☆ kimochi</title></episode>
+<episode num="151">
+<title gid="723119383" lang="JA">dentou no ☆ kyuushoku</title></episode>
+<episode num="152">
+<title gid="2945807752" lang="JA">MIRAKURU na ☆ kyuushoku</title></episode>
+<episode num="153">
+<title gid="1290520581" lang="JA">saigo no ☆ POINTO</title></episode>
+<episode num="154">
+<title gid="763035072" lang="JA">MIMIKA no ☆ chikara</title></episode>
+<episode num="155">
+<title gid="2111955989" lang="JA">kyuushoku ☆ BANZAI</title></episode>
+<episode num="156">
+<title gid="3369609491" lang="JA">ouji shokudou ☆ dai PINCHI</title></episode>
+<episode num="157">
+<title gid="1584405404" lang="JA">PURASU no ☆ AIDEA</title></episode>
+<episode num="158">
+<title gid="805917852" lang="JA">kouun no ☆ ya</title></episode>
+<episode num="159">
+<title gid="2551819872" lang="JA">miryou ☆ MAJIKKU</title></episode>
+<episode num="160">
+<title gid="1769161832" lang="JA">MISU ☆ okaa-san</title></episode>
+<episode num="161">
+<title gid="2389226664" lang="JA">obaa-chan no ☆ tame ni</title></episode>
+<episode num="162">
+<title gid="160476917" lang="JA">A no ☆ MAAKU</title></episode>
+<episode num="163">
+<title gid="1613808918" lang="JA">obake no ☆ shoutai</title></episode>
+<episode num="164">
+<title gid="2973252833" lang="JA">UME no ☆ aji</title></episode>
+<episode num="165">
+<title gid="4032314869" lang="JA">nazo no ☆ raikyaku</title></episode>
+<episode num="166">
+<title gid="1308668944" lang="JA">isshou no ☆ owakare !?</title></episode>
+<episode num="167">
+<title gid="1269303689" lang="JA">amakute ☆ suppai</title></episode>
+<episode num="168">
+<title gid="3639390406" lang="JA">yamada-kun no ☆ hitokoto</title></episode>
+<episode num="169">
+<title gid="1901188055" lang="JA">TO.MA.TO ☆ daisuki!</title></episode>
+<episode num="170">
+<title gid="2399632981" lang="JA">shin ni ☆ ana ☆</title></episode>
+<episode num="171">
+<title gid="2845314780" lang="JA">orihime to ☆ hikoboshi</title></episode>
+<episode num="172">
+<title gid="3630152359" lang="JA">gekiryuu ☆ soumen</title></episode>
+<episode num="173">
+<title gid="3468847017" lang="JA">kaette kita ☆ orihime</title></episode>
+<episode num="174">
+<title gid="3323487229" lang="JA">tanabata no ☆ negaigoto</title></episode>
+<episode num="175">
+<title gid="3406827356" lang="JA">shingata ☆ MASHIN !?</title></episode>
+<episode num="176">
+<title gid="527776126" lang="JA">ouji ka no ☆ natsu matsuri</title></episode>
+<episode num="177">
+<title gid="2934241791" lang="JA">RAIBARU no ☆ mokuteki</title></episode>
+<episode num="178">
+<title gid="2492806460" lang="JA">kaori no ☆ CHIKARA</title></episode>
+<episode num="179">
+<title gid="1085179996" lang="JA">shoubu wa ☆ yuugure</title></episode>
+<episode num="180">
+<title gid="2452813186" lang="JA">mou hitotsu no ☆ riyuu</title></episode>
+<episode num="181">
+<title gid="2087447256" lang="JA">asa no ☆ shukudai ! ☆</title></episode>
+<episode num="182">
+<title gid="1598060697" lang="JA">tonda ☆ asa gohan</title></episode>
+<episode num="183">
+<title gid="497241830" lang="JA">sakusen ☆ dai shippai</title></episode>
+<episode num="184">
+<title gid="1998603728" lang="JA">negoto wa ☆ GUU!</title></episode>
+<episode num="185">
+<title gid="2240912548" lang="JA">haya oki wa ☆ oTOKU</title></episode>
+<episode num="186">
+<title gid="2966686452" lang="JA">ouji shokudou no ☆ HIMITSU</title></episode>
+<episode num="187">
+<title gid="1703489965" lang="JA">okaa-san no ☆ tokui WAZA</title></episode>
+<episode num="188">
+<title gid="2514973536" lang="JA">RENJI no ☆ POINTO</title></episode>
+<episode num="189">
+<title gid="2234702631" lang="JA">MIMIKA no ☆ kakushi aji</title></episode>
+<episode num="190">
+<title gid="2411998523" lang="JA">amakute ☆ ATSUATSU</title></episode>
+<episode num="191">
+<title gid="3324434209" lang="JA">unmei no ☆ futari</title></episode>
+<episode num="192">
+<title gid="2189592002" lang="JA">marugoto ☆ ryouri</title></episode>
+<episode num="193">
+<title gid="1354370844" lang="JA">PEA ? ☆ RAIBARU ?</title></episode>
+<episode num="194">
+<title gid="2315419794" lang="JA">kaori to ☆ HOKUHOKU</title></episode>
+<episode num="195">
+<title gid="1571488686" lang="JA">suki ☆ dakara...</title></episode>
+<episode num="196">
+<title gid="558839725" lang="JA">are no ☆ shuukaku</title></episode>
+<episode num="197">
+<title gid="2538574968" lang="JA">himenoyama no ☆ jinenjo</title></episode>
+<episode num="198">
+<title gid="3702144916" lang="JA">MORIRIN ☆ KUKKINGU</title></episode>
+<episode num="199">
+<title gid="2391225188" lang="JA">NEBANEBA ☆ ZURUZURU</title></episode>
+<episode num="200">
+<title gid="4015837400" lang="JA">MORIRIN no ☆ ongaeshi</title></episode>
+<episode num="201">
+<title gid="3115309697" lang="JA">ohada to ☆ ohoshi-sama</title></episode>
+<episode num="202">
+<title gid="1170277325" lang="JA">ohada kaifuku ☆ dai sakusen!</title></episode>
+<episode num="203">
+<title gid="2154891522" lang="JA">biyou na ☆ AIDEA</title></episode>
+<episode num="204">
+<title gid="479789113" lang="JA">MARUKO + wafuu = ☆</title></episode>
+<episode num="205">
+<title gid="2585155028" lang="JA">boshi ni ☆ ni negai wo!</title></episode>
+<episode num="206">
+<title gid="2043905429" lang="JA">sorezore no ☆ KURISUMASU</title></episode>
+<episode num="207">
+<title gid="2869077772" lang="JA">yamada ryuu ☆ KURISUMASU</title></episode>
+<episode num="208">
+<title gid="2813637495" lang="JA">yappari ☆ KEEKI ☆</title></episode>
+<episode num="209">
+<title gid="3403699825" lang="JA">GOUJASU na ☆ TSURII</title></episode>
+<episode num="210">
+<title gid="3004047339" lang="JA">ookina ☆ ana</title></episode>
+<episode num="211">
+<title gid="2086326753" lang="JA">furusato no ☆ ichidaiji</title></episode>
+<episode num="212">
+<title gid="3450141519" lang="JA">mura wo sukuu ☆ ryouri</title></episode>
+<episode num="213">
+<title gid="1520094246" lang="JA">ringo no ☆ kakushi aji</title></episode>
+<episode num="214">
+<title gid="1890586946" lang="JA">kudamono ☆ MAJIKKU</title></episode>
+<episode num="215">
+<title gid="729661539" lang="JA">ureshii ☆ tayori</title></episode>
+<episode num="216">
+<title gid="2290019955" lang="JA">ONI no ☆ UWASA</title></episode>
+<episode num="217">
+<title gid="1955239460" lang="JA">ONI yori kowai ☆ sensei</title></episode>
+<episode num="218">
+<title gid="1781179079" lang="JA">ONI ga kirau ☆ sakana</title></episode>
+<episode num="219">
+<title gid="1460319163" lang="JA">ONI no ☆ egao</title></episode>
+<episode num="220">
+<title gid="978523413" lang="JA">too~i ☆ haru</title></episode>
+<episode num="221">
+<title gid="1082479869" lang="JA">magatama ☆ futatabi</title></episode>
+<episode num="222">
+<title gid="1578778532" lang="JA">ji-tama no ☆ koubutsu</title></episode>
+<episode num="223">
+<title gid="1762338997" lang="JA">kurukuru no ☆ himitsu</title></episode>
+<episode num="224">
+<title gid="3411429787" lang="JA">sayounara ☆ TAMA-chan</title></episode>
+<episode num="225">
+<title gid="2408139064" lang="JA">MIRAKURU ☆ MIMIKA</title></episode>
+<news datetime="2011-06-20T12:30:00Z" href="http://www.animenewsnetwork.com/news/2011-06-20/viz-adds-sanrio-fluffy-fluffy-cinnamoroll-manga">Viz Adds Sanrio's &lt;cite&gt;Fluffy Fluffy Cinnamoroll&lt;/cite&gt; Manga</news>
+<staff gid="1761686061"><task>Storyboard</task><person id="12328">Yumi Tsukirino</person></staff>
+<staff gid="1643611988"><task>Music</task><person id="8551">Takeshi Ike</person></staff>
+<staff gid="2146040306"><task>Original creator</task><person id="83277">Akane Kasuga</person></staff>
+<staff gid="1433227146"><task>Character Design</task><person id="83277">Akane Kasuga</person></staff>
+<cast gid="2802072578" lang="JA"><role>Mimika Himeno</role><person id="4685">Mayuko Omimura</person></cast>
+<cast gid="813541784" lang="JA"><role>LinLin</role><person id="9813">Masako Joh</person></cast></anime></ann>

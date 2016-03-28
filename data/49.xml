@@ -1,0 +1,927 @@
+<ann><anime id="49" gid="2884089475" type="TV" name="Neon Genesis Evangelion" precision="TV" generated-on="2016-03-26T10:23:26Z">
+<related-next id="418" rel="remix"/>
+<related-next id="419" rel="alternate ending"/>
+<related-next id="2440" rel="alternate retelling"/>
+<related-next id="3123" rel="remake"/>
+<related-next id="3984" rel="alternate retelling"/>
+<related-next id="8420" rel="alternate retelling"/>
+<related-next id="8539" rel="related"/>
+<related-next id="10760" rel="related"/>
+<info gid="2785747332" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A49-16.jpg" width="168" height="200"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A49-16.jpg" width="168" height="200"/></info>
+<info gid="3326802833" type="Main title" lang="EN">Neon Genesis Evangelion</info>
+<info gid="3789743962" type="Alternative title" lang="EN">Evangelion</info>
+<info gid="2747711326" type="Alternative title" lang="PL">Ewangelia nowego stworzenia</info>
+<info gid="1640896436" type="Alternative title" lang="ES">Neo Genesis Evangelion</info>
+<info gid="2665050241" type="Alternative title" lang="JA">Shinseiki Evangelion</info>
+<info gid="2791138122" type="Alternative title" lang="RU">Евангелион</info>
+<info gid="2008221536" type="Alternative title" lang="RU">Евангелион Нового Поколения</info>
+<info gid="3183071436" type="Alternative title" lang="JA">新世紀エヴァンゲリオン</info>
+<info gid="976716572" type="Alternative title" lang="ZH-TW">新世紀福音戰士</info>
+<info gid="2696812762" type="Alternative title" lang="ZH-CN">新世纪福音战士</info>
+<info gid="2538626241" type="Alternative title" lang="KO">신세기 에반게리온</info>
+<info gid="1944584236" type="Genres">action</info>
+<info gid="2831668024" type="Genres">drama</info>
+<info gid="2457593509" type="Genres">psychological</info>
+<info gid="2516249192" type="Genres">science fiction</info>
+<info gid="590539492" type="Themes">mecha</info>
+<info gid="3451056902" type="Themes">military</info>
+<info gid="1781784215" type="Themes">post-apocalyptic</info>
+<info gid="2335743422" type="Themes">super robot</info>
+<info gid="1928325213" type="Themes">tragedy</info>
+<info gid="3165167922" type="Objectionable content">TA</info>
+<info gid="3216720083" type="Plot Summary">At the age of 14 Shinji Ikari is summoned by his father to the city of Neo Tokyo-3 after several years of separation. There he unwillingly accepts the task of becoming the pilot of a giant robot by the name EVA01 and protect the world from the enigmatic invaders known as &quot;angels.&quot; Even though he repeatedly questions why he has accepted this mission from his estranged and cold father, his doing so helps him to gradually accept himself. However, why exactly are the angels attacking and what are his father’s true intentions are yet to be unraveled.</info>
+<info gid="1282219409" type="Running time">25</info>
+<info gid="613154574" type="Number of episodes">26</info>
+<info gid="2145692790" type="Vintage">1995-10-04 to 1996-03-27</info>
+<info gid="1702065026" type="Vintage">1997-10-25 (France)</info>
+<info gid="1541744895" type="Vintage">1999-01-02 to 1999-03-27 (AUS - SBS Channel, Series 1st Run)</info>
+<info gid="1194558565" type="Vintage">1999-03-22 to 1999-06-14 (AUS - SBS Channel, Series 2nd Run)</info>
+<info gid="1677733942" type="Vintage">1999-11-01 (Latin America, Locomotion)</info>
+<info gid="1832851341" type="Vintage">1999-12-06 (Philippines)</info>
+<info gid="2275819025" type="Vintage">2000 (Latin America - Locomotion)</info>
+<info gid="2178063598" type="Vintage">2000-11-27 to 2001-01-01 (Germany, TV-Channel: VOX)</info>
+<info gid="3023722815" type="Vintage">2003-02-24 to 2003-02-25 (USA - Eps. 1-2 on Cartoon Network)</info>
+<info gid="873769588" type="Vintage">2005-10-21 to 2006-04-21 (U.S. Broadcast - AdultSwim)</info>
+<info gid="1956658107" type="Vintage">2007-01-30 (Spain, Cuatroº)</info>
+<info gid="2802981061" type="Vintage">2007-07-02 (Mexico - XEIMT Canal 22)</info>
+<info gid="1744306212" type="Vintage">2008-05-06 (Animax Latin America)</info>
+<info gid="1702064356" type="Vintage">2008-05-06 (Animax Latin America, Renewal Version)</info>
+<info gid="2117121684" type="Opening Theme">&quot;Zankoku na Tenshi no Thesis&quot; (残酷な天使のテーゼ; &quot;A Cruel Angel's Thesis&quot;) by Yoko Takahashi</info>
+<info gid="2637706392" type="Ending Theme">#01: &quot;Fly Me to the Moon&quot; by Claire</info>
+<info gid="2175207660" type="Ending Theme">#02: &quot;Fly Me to the Moon (Rei #5 Version)&quot; by Megumi Hayashibara (ep 5)</info>
+<info gid="451754017" type="Ending Theme">#03: &quot;Fly Me to the Moon (Rei #6 Version)&quot; by Megumi Hayashibara (ep 6)</info>
+<info gid="3959682904" type="Ending Theme">#04: &quot;Fly Me to the Moon -4 Beat Version-&quot; by Yoko Takahashi (eps 7,12)</info>
+<info gid="1240017730" type="Ending Theme">#05: &quot;Fly Me to the Moon (Aya Bossa Techno Version)&quot; by Aya (eps 8,22)</info>
+<info gid="2464187206" type="Ending Theme">#06: &quot;Fly Me to the Moon (Yoko Takahashi Acid Bossa Version)&quot; by Yoko Takahashi (eps 9,13)</info>
+<info gid="428241181" type="Ending Theme">#07: &quot;Fly Me to the Moon (Yoko Takahashi Version)&quot; by Yoko Takahashi (eps 10,14,21)</info>
+<info gid="1887170332" type="Ending Theme">#08: &quot;Fly Me to the Moon -4 Beat Version (Off-Vocal)-&quot; by [Instrumental] (ep 15)</info>
+<info gid="1898198547" type="Ending Theme">#09: &quot;Fly Me to the Moon (Off-Vocal Version)&quot; by [Instrumental] (eps 16,24)</info>
+<info gid="980074295" type="Ending Theme">#10: &quot;Fly Me to the Moon (Aki Jungle Version)&quot; by Aki (ep 17)</info>
+<info gid="2193772439" type="Ending Theme">#11: &quot;Fly Me to the Moon -B22 (A-Type)-&quot; by [Instrumental] (ep 20)</info>
+<info gid="3936054889" type="Ending Theme">#12: &quot;Fly Me to the Moon (Rei #23 Version)&quot; by Megumi Hayashibara (ep 23)</info>
+<info gid="1808873922" type="Ending Theme">#13: &quot;Fly Me to the Moon (Rei #25 Version)&quot; by Megumi Hayashibara (ep 25)</info>
+<info gid="2004555294" type="Ending Theme">#14: &quot;Fly Me to the Moon (Rei #26 Version)&quot; by Megumi Hayashibara (ep 26)</info>
+<info gid="3300284397" type="Official website" lang="JA" href="http://www.gainax.co.jp/anime/eva/">Gainax's Neon Genesis Evangelion site</info>
+<info gid="1382562857" type="Official website" lang="EN" href="http://www.kingrecords.co.jp/SCR_CATALOG/068.html">King Records' official Neon Genesis Evangelion pages</info>
+<info gid="788790478" type="Official website" lang="EN" href="http://www.madman.com.au/nge">Madman Entertainment's Official Neon Genesis Evangelion Homepage (Australia)</info>
+<info gid="3907056341" type="Official website" lang="JA" href="http://www.evangelion.co.jp/">Official Neon Genesis Evangelion Homepage</info>
+<info gid="2220062845" type="Official website" lang="JA" href="http://www.wowow.co.jp/drama_anime/eva/contents.html">WOWOW's Official Neon Genesis Evangelion Homepage</info>
+<ratings nb_votes="9971" weighted_score="8.213" bayesian_score="8.2121"/>
+<episode num="1">
+<title gid="830401468" lang="EN">Angel Attack</title></episode>
+<episode num="2">
+<title gid="452286335" lang="EN">The Beast</title></episode>
+<episode num="3">
+<title gid="1950786092" lang="EN">A Transfer</title></episode>
+<episode num="4">
+<title gid="2140096437" lang="EN">Hedgehog's Dilemma</title></episode>
+<episode num="5">
+<title gid="806427310" lang="EN">Rei I</title></episode>
+<episode num="6">
+<title gid="238592463" lang="EN">Rei II</title></episode>
+<episode num="7">
+<title gid="2772573126" lang="EN">A Human Work</title></episode>
+<episode num="8">
+<title gid="1146988361" lang="EN">Asuka Strikes!</title></episode>
+<episode num="9">
+<title gid="2179678399" lang="EN">Both of You, Dance Like You Want To Win!</title></episode>
+<episode num="10">
+<title gid="1842448916" lang="EN">Magma Diver</title></episode>
+<episode num="11">
+<title gid="3855915872" lang="EN">The Day Tokyo-3 Stood Still</title></episode>
+<episode num="12">
+<title gid="1417122554" lang="EN">She Said, &quot;Don't Make Others Suffer For Your Personal Hatred.&quot;</title></episode>
+<episode num="13">
+<title gid="479010190" lang="EN">Liliputian Hitcher</title></episode>
+<episode num="14">
+<title gid="3644547807" lang="EN">Weaving a Story</title></episode>
+<episode num="15">
+<title gid="1971271496" lang="EN">Those women longed for the touch of others' lips and thus invited their kisses</title></episode>
+<episode num="16">
+<title gid="2922614184" lang="EN">Splitting of the Breast</title></episode>
+<episode num="17">
+<title gid="699156555" lang="EN">Fourth Children</title></episode>
+<episode num="18">
+<title gid="2727840346" lang="EN">Ambivalence</title></episode>
+<episode num="19">
+<title gid="3541632188" lang="EN">Introjection</title></episode>
+<episode num="20">
+<title gid="1524540025" lang="EN">Weaving a Story II: Oral Stage</title></episode>
+<episode num="21">
+<title gid="997703686" lang="EN">He Was Aware That He Was Still a Child</title></episode>
+<episode num="22">
+<title gid="414798474" lang="EN">Don't Be</title></episode>
+<episode num="23">
+<title gid="3080781439" lang="EN">Rei III</title></episode>
+<episode num="24">
+<title gid="2159411893" lang="EN">The Beginning and the End, or &quot;Knockin' on Heaven's Door&quot;</title></episode>
+<episode num="25">
+<title gid="1554615270" lang="EN">Do You Love Me?</title></episode>
+<episode num="26">
+<title gid="1294740796" lang="EN">Take Care of Yourself</title></episode>
+<review href="http://www.animenewsnetwork.com/review/neon-genesis-evangelion/dvd-4">Neon Genesis Evangelion DVD 4</review>
+<review href="http://www.animenewsnetwork.com/review/neon-genesis-evangelion/dvd-3">Neon Genesis Evangelion DVD 3</review>
+<review href="http://www.animenewsnetwork.com/review/neon-genesis-evangelion/dvd-1/by-mike-crandol">Neon Genesis Evangelion DVD 1</review>
+<review href="http://www.animenewsnetwork.com/review/neon-genesis-evangelion-resurrection">Neon Genesis Evangelion: Resurrection</review>
+<review href="http://www.animenewsnetwork.com/review/evangelion-collection-0-7-dvd">Evangelion Collection 0:7 DVD</review>
+<review href="http://www.animenewsnetwork.com/review/neon-genesis-evangelion/dvd-1/by-matt-jong">Neon Genesis Evangelion DVD 1</review>
+<release date="2012-12-11" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=23195">Evangelion Chronicle Illustrations (Artbook)</release>
+<release date="2006-08-22" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=7073">Neon Genesis Evangelion - 10th Anniversary Set (DVD)</release>
+<release date="2005-11-22" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=5490">Neon Genesis Evangelion - Platinum Complete Collection (DVD 1-7)</release>
+<release date="2007-11-27" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=9556">Neon Genesis Evangelion - Platinum Perfect Collection (Tin) (DVD 1-7)</release>
+<release date="2008-11-18" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=12530">Neon Genesis Evangelion - Platinum Complete Collection Holiday Edition (DVD 1-8)</release>
+<release date="2004-03-09" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2448">Neon Genesis Evangelion -  Genesis Reborn DVD (DVD)</release>
+<release date="2004-07-27" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2976">Neon Genesis Evangelion - Platinum Edition w/box (DVD 1)</release>
+<release date="2004-09-21" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2936">Neon Genesis Evangelion - Platinum Edition (DVD 2)</release>
+<release date="2004-07-27" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2799">Neon Genesis Evangelion - Platinum Edition (DVD 1)</release>
+<release date="2004-11-16" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=3245">Neon Genesis Evangelion - Platinum Edition (DVD 3)</release>
+<release date="2004-12-28" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=3303">Neon Genesis Evangelion - Platinum Edition (DVD 4)</release>
+<release date="2005-02-08" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=3636">Neon Genesis Evangelion - Platinum Edition (DVD 5)</release>
+<release date="2005-03-15" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=4021">Neon Genesis Evangelion - Platinum Edition (DVD 6)</release>
+<release date="2005-04-19" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=4242">Neon Genesis Evangelion - Platinum Edition (DVD 7)</release>
+<release date="2000-05-16" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=834">Neon Genesis Evangelion (DVD 1)</release>
+<release date="2000-11-21" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1676">Neon Genesis Evangelion (DVD 2)</release>
+<release date="2001-01-23" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1677">Neon Genesis Evangelion (DVD 3)</release>
+<release date="2001-02-13" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1678">Neon Genesis Evangelion (DVD 4)</release>
+<release date="2001-03-27" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1679">Neon Genesis Evangelion (DVD 5)</release>
+<release date="2001-04-17" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1680">Neon Genesis Evangelion (DVD 6)</release>
+<release date="2001-05-29" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=473">Neon Genesis Evangelion (DVD 7)</release>
+<release date="2004-01-13" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2248">Neon Genesis Evangelion - Director's Cut: Resurrection (DVD 7)</release>
+<release date="2001-06-26" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1681">Neon Genesis Evangelion (DVD 8)</release>
+<release date="2002-04-09" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=538">Neon Genesis Evangelion [Perfect Collection Box Set] (DVD 1-8)</release>
+<release date="2015-07-07" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=28439">The Essential Evangelion Chronicle: Side A (Fanbook)</release>
+<release date="2004-01-20" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=14424">Neon Genesis Evangelion (OST)</release>
+<release date="2004-09-07" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=4455">Neon Genesis Evangelion - The Day of Second Impact (OST)</release>
+<release date="2004-03-16" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=17047">Neon Genesis Evangelion (OST 2)</release>
+<release date="2004-07-06" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=17075">Neon Genesis Evangelion (OST 3)</release>
+<release date="2004-11-09" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=17057">Refrain of Evangelion (OST)</release>
+<news datetime="1998-07-27T04:00:00Z" href="http://www.animenewsnetwork.com/news/1998-07-27/adv-does-180-on-eva-movies">ADV does 180 on Eva movies</news>
+<news datetime="1998-07-27T04:00:00Z" href="http://www.animenewsnetwork.com/news/1998-07-27/gainax-releases-evangelion-and-good-friends-majjong-game">Gainax releases &quot;evangelion and Good Friends&quot; Majjong game</news>
+<news datetime="1998-08-09T04:00:00Z" href="http://www.animenewsnetwork.com/news/1998-08-09/evangelion-to-show-on-australia-tv">Evangelion to Show on Australia TV</news>
+<news datetime="1998-08-15T04:00:00Z" href="http://www.animenewsnetwork.com/news/1998-08-15/otakon-98-wrap-up">Otakon 98 Wrap-Up</news>
+<news datetime="1999-01-09T05:00:00Z" href="http://www.animenewsnetwork.com/news/1999-01-09/japan-society-to-present-two-day-anime-event">Japan Society to present Two-Day anime event</news>
+<news datetime="1999-01-14T05:00:00Z" href="http://www.animenewsnetwork.com/news/1999-01-14/japan-society-to-premiere-jinrou">Japan Society to premiere Jinrou</news>
+<news datetime="1999-04-16T04:00:00Z" href="http://www.animenewsnetwork.com/news/1999-04-16/adv-announces-gasaraki-festival">ADV announces Gasaraki, festival</news>
+<news datetime="1999-06-10T04:00:00Z" href="http://www.animenewsnetwork.com/news/1999-06-10/companies-make-announcements-at-a-kon">Companies make announcements at A-kon</news>
+<news datetime="1999-07-18T04:00:00Z" href="http://www.animenewsnetwork.com/news/1999-07-18/ax-99-wrap-up">AX '99 Wrap-up</news>
+<news datetime="1999-07-18T04:00:00Z" href="http://www.animenewsnetwork.com/news/1999-07-18/misc-ghibli">Misc Ghibli News</news>
+<news datetime="1999-07-28T04:00:00Z" href="http://www.animenewsnetwork.com/news/1999-07-28/news-briefs">News Briefs</news>
+<news datetime="2000-01-11T05:00:00Z" href="http://www.animenewsnetwork.com/news/2000-01-11/adv-announces-new-aquisitions-further-delays-eva-dvd">ADV Announces new aquisitions, further delays Eva DVD</news>
+<news datetime="2000-03-01T18:04:02Z" href="http://www.animenewsnetwork.com/news/2000-03-01/viz-series-goes-brodcast">Viz Series Goes Brodcast</news>
+<news datetime="2000-06-21T08:13:57Z" href="http://www.animenewsnetwork.com/news/2000-06-21/viz-items-shipping-in-october">Viz Items Shipping in October</news>
+<news datetime="2000-07-05T04:43:50Z" href="http://www.animenewsnetwork.com/news/2000-07-04/fantasia-2000-holds-press-conference">Fantasia 2000 holds press conference</news>
+<news datetime="2000-07-15T06:44:59Z" href="http://www.animenewsnetwork.com/news/2000-07-15/new-otakon-guests">New Otakon Guests!</news>
+<news datetime="2000-09-12T04:12:42Z" href="http://www.animenewsnetwork.com/news/2000-09-11/gundam-tops-anime-poll">Gundam Tops Anime Poll</news>
+<news datetime="2000-12-02T19:42:44Z" href="http://www.animenewsnetwork.com/news/2000-12-02/more-aka-kon">More AKA-KON News</news>
+<news datetime="2001-01-16T03:56:48Z" href="http://www.animenewsnetwork.com/news/2001-01-15/animage-top-100-anime-listing">Animage Top-100 Anime Listing</news>
+<news datetime="2001-01-19T20:53:35Z" href="http://www.animenewsnetwork.com/news/2001-01-19/adv-films-febuary-and-march-releases">ADV Films Febuary and March Releases</news>
+<news datetime="2001-01-24T03:55:49Z" href="http://www.animenewsnetwork.com/news/2001-01-23/nan-desu-kan-2001">Nan Desu Kan 2001</news>
+<news datetime="2001-02-07T00:07:21Z" href="http://www.animenewsnetwork.com/news/2001-02-06/adv-aquisitions-coming-releases-and-dates">ADV aquisitions, coming releases and dates</news>
+<news datetime="2001-03-12T04:06:34Z" href="http://www.animenewsnetwork.com/news/2001-03-11/evangelion-fan-poster">Evangelion Fan Poster</news>
+<news datetime="2001-03-31T00:40:55Z" href="http://www.animenewsnetwork.com/news/2001-03-30/flcl-and-i'm-gonna-be-an-angel-acquisition-announcement">FLCL and I'm Gonna Be An Angel Acquisition Announcement</news>
+<news datetime="2001-04-04T14:35:44Z" href="http://www.animenewsnetwork.com/news/2001-04-04/upcoming-releases">Upcoming releases</news>
+<news datetime="2001-04-10T16:45:26Z" href="http://www.animenewsnetwork.com/news/2001-04-10/adv-press-release">ADV Press Release (Sailor Moon)</news>
+<news datetime="2001-05-08T21:28:20Z" href="http://www.animenewsnetwork.com/news/2001-05-08/july-anime-merchandise-list">July Anime Merchandise list</news>
+<news datetime="2001-07-17T01:06:34Z" href="http://www.animenewsnetwork.com/news/2001-07-16/wizard-lists-top-50-anime">Wizard lists Top 50 Anime</news>
+<news datetime="2001-08-13T12:38:34Z" href="http://www.animenewsnetwork.com/news/2001-08-13/a-dub-in-life">A Dub in Life</news>
+<news datetime="2001-10-16T02:14:30Z" href="http://www.animenewsnetwork.com/news/2001-10-15/december-merchandise-releases">December Merchandise Releases</news>
+<news datetime="2001-10-31T00:03:04Z" href="http://www.animenewsnetwork.com/news/2001-10-30/new-information-on-the-sakura-taisen-movie">New Information on the Sakura Taisen Movie</news>
+<news datetime="2001-11-18T03:21:18Z" href="http://www.animenewsnetwork.com/news/2001-11-17/january-merchandise-releases">January Merchandise Releases</news>
+<news datetime="2002-02-25T17:22:13Z" href="http://www.animenewsnetwork.com/news/2002-02-25/anime-central-guest-announcement">Anime Central Guest Announcement</news>
+<news datetime="2002-03-02T16:58:21Z" href="http://www.animenewsnetwork.com/news/2002-03-02/sakura-con-guest-announcements">Sakura Con Guest Announcements</news>
+<news datetime="2002-03-07T19:55:31Z" href="http://www.animenewsnetwork.com/news/2002-03-07/new-anime-mid-atlantic-guests">New Anime Mid-Atlantic Guests</news>
+<news datetime="2002-04-19T04:27:18Z" href="http://www.animenewsnetwork.com/news/2002-04-19/anime-expo-updates">Anime Expo Updates</news>
+<news datetime="2002-05-02T21:12:28Z" href="http://www.animenewsnetwork.com/news/2002-05-02/fanime-con-manga-entertainment">Fanime Con - Manga Entertainment</news>
+<news datetime="2002-05-09T01:58:48Z" href="http://www.animenewsnetwork.com/news/2002-05-08/anime-boston-guests-and-pr">Anime Boston Guests and PR</news>
+<news datetime="2002-06-28T12:41:44Z" href="http://www.animenewsnetwork.com/news/2002-06-28/more-manga-pr">More Manga PR</news>
+<news datetime="2002-07-06T11:36:58Z" href="http://www.animenewsnetwork.com/news/2002-07-06/ax-2002-anime-expo-opening-ceremonies">AX 2002: Anime Expo Opening Ceremonies</news>
+<news datetime="2002-07-29T12:43:29Z" href="http://www.animenewsnetwork.com/news/2002-07-29/otakon-2002-opening-ceremonies">Otakon 2002: Opening Ceremonies</news>
+<news datetime="2002-07-29T12:56:43Z" href="http://www.animenewsnetwork.com/news/2002-07-29/otakon-2002-adv-panel">Otakon 2002: ADV Panel</news>
+<news datetime="2002-08-09T03:15:22Z" href="http://www.animenewsnetwork.com/news/2002-08-08/evangelion-movie">Evangelion Movie News</news>
+<news datetime="2002-08-14T23:10:56Z" href="http://www.animenewsnetwork.com/news/2002-08-14/acen-2003-guests-of-honor">ACen 2003 Guests of Honor</news>
+<news datetime="2002-09-21T00:50:17Z" href="http://www.animenewsnetwork.com/news/2002-09-20/adv-lists-properties">ADV Lists Properties</news>
+<news datetime="2002-09-26T14:33:09Z" href="http://www.animenewsnetwork.com/news/2002-09-26/virus-on-dvd">Virus on DVD</news>
+<news datetime="2002-10-08T03:09:09Z" href="http://www.animenewsnetwork.com/news/2002-10-07/anime-at-mipcom">Anime at Mipcom</news>
+<news datetime="2002-10-22T14:40:20Z" href="http://www.animenewsnetwork.com/news/2002-10-22/overlays-and-hard-subs-on-trouble-chocolate">Overlays and Hard Subs on Trouble Chocolate</news>
+<news datetime="2002-12-08T21:47:59Z" href="http://www.animenewsnetwork.com/news/2002-12-08/renewal-of-evangelion-and-more">&quot;Renewal of Evangelion&quot; and More</news>
+<news datetime="2002-12-13T21:57:47Z" href="http://www.animenewsnetwork.com/news/2002-12-13/the-anime-network-american-launch">The Anime Network American Launch</news>
+<news datetime="2003-03-08T00:15:20Z" href="http://www.animenewsnetwork.com/news/2003-03-07/new-tokyopop-manga-aquisitions">New Tokyopop Manga Aquisitions</news>
+<news datetime="2003-04-16T23:00:37Z" href="http://www.animenewsnetwork.com/news/2003-04-16/los-angeles-anime-festival">Los Angeles Anime Festival</news>
+<news datetime="2003-04-21T02:57:49Z" href="http://www.animenewsnetwork.com/news/2003-04-20/anime-boston-acquisition-announcements">Anime Boston Acquisition Announcements</news>
+<news datetime="2003-05-21T15:43:39Z" href="http://www.animenewsnetwork.com/news/2003-05-21/live-action-eva-press-release">Live Action Eva Press Release</news>
+<news datetime="2003-06-27T00:58:35Z" href="http://www.animenewsnetwork.com/news/2003-06-26/anime-network-joins-cablevision">Anime Network joins Cablevision</news>
+<news datetime="2003-07-11T06:34:51Z" href="http://www.animenewsnetwork.com/news/2003-07-11/miami-guns-official-press-release">Miami Guns Official Press Release</news>
+<news datetime="2003-11-27T16:32:39Z" href="http://www.animenewsnetwork.com/news/2003-11-27/adv-films-uk-acquisitions">ADV Films UK Acquisitions</news>
+<news datetime="2004-01-19T12:29:19Z" href="http://www.animenewsnetwork.com/news/2004-01-19/live-action-eva-sketches-online">Live Action Eva Sketches Online</news>
+<news datetime="2004-12-20T23:47:09Z" href="http://www.animenewsnetwork.com/news/2004-12-20/new-adv-manga">New ADV Manga</news>
+<news datetime="2005-01-01T20:56:33Z" href="http://www.animenewsnetwork.com/news/2005-01-01/march-2005-adv-releases">March 2005 ADV Releases</news>
+<news datetime="2005-02-08T17:59:48Z" href="http://www.animenewsnetwork.com/news/2005-02-08/super-robot-wars-alpha-3-for-ps2">Super Robot Wars Alpha 3 for PS2</news>
+<news datetime="2005-03-21T21:50:47Z" href="http://www.animenewsnetwork.com/news/2005-03-21/anime-at-cen-awards">Anime at CEN Awards</news>
+<news datetime="2005-09-23T17:39:30Z" href="http://www.animenewsnetwork.com/news/2005-09-23/tv-asahi-top-100-anime">TV Asahi Top 100 Anime</news>
+<news datetime="2005-09-23T20:38:14Z" href="http://www.animenewsnetwork.com/news/2005-09-23/tv-asahi-top-100-anime-part-2">TV Asahi Top 100 Anime Part 2</news>
+<news datetime="2006-07-22T22:03:37Z" href="http://www.animenewsnetwork.com/news/2006-07-22/comic-con-mid-con-update">Comic-Con Mid-Con Update</news>
+<news datetime="2006-07-24T16:31:20Z" href="http://www.animenewsnetwork.com/news/2006-07-24/comic-con-news-wrap">Comic-Con News Wrap</news>
+<news datetime="2006-09-08T02:19:31Z" href="http://www.animenewsnetwork.com/news/2006-09-07/new-evangelion-movies">New Evangelion Movies</news>
+<news datetime="2006-09-13T13:57:48Z" href="http://www.animenewsnetwork.com/news/2006-09-13/upcoming-viz-artbooks">Upcoming Viz Artbooks</news>
+<news datetime="2006-10-12T21:45:00Z" href="http://www.animenewsnetwork.com/news/2006-10-13/japans-favorite-tv-anime">Japan's Favorite TV Anime</news>
+<news datetime="2007-01-09T19:48:59Z" href="http://www.animenewsnetwork.com/news/2007-01-09/japan-post-evangelion-stamps">Japan Post Announces Evangelion Stamp Series</news>
+<news datetime="2007-02-13T21:18:00Z" href="http://www.animenewsnetwork.com/news/2007-02-14/gainax-and-animate-introduce-evangelion-drinks">Gainax and Animate Introduce Evangelion Drinks</news>
+<news datetime="2007-02-20T14:33:45Z" href="http://www.animenewsnetwork.com/news/2007-02-20/hideaki-anno-releases-statement-about-new-evangelion-movies">Hideaki Anno Releases Statement About New Evangelion Movies</news>
+<news datetime="2007-04-16T19:51:12Z" href="http://www.animenewsnetwork.com/news/2007-04-16/japan-post-anime-stamp">Japan Post Announces Next Anime Stamp Series</news>
+<news datetime="2007-05-03T03:57:36Z" href="http://www.animenewsnetwork.com/news/2007-05-02/denno-coil-manga-to-print-in-ciao's-august-issue-extra">&lt;cite&gt;Dennō Coil&lt;/cite&gt; Manga to Print in &lt;cite&gt;Ciao's&lt;/cite&gt; August Issue Extra</news>
+<news datetime="2007-05-07T13:44:28Z" href="http://www.animenewsnetwork.com/news/2007-05-07/evangelion-movie-remakes-chapter-titles-confirmed">&lt;cite&gt;Evangelion&lt;/cite&gt; Movie Remakes' Chapter Titles Confirmed</news>
+<news datetime="2007-05-13T21:57:37Z" href="http://www.animenewsnetwork.com/news/2007-05-13/hideaki-anno-danish-film">Hideaki Anno Directs Japanese Dub of Danish Puppet Film</news>
+<news datetime="2007-05-14T14:30:04Z" href="http://www.animenewsnetwork.com/news/2007-05-14/anime-network-expands-into-uk-with-two-weekly-hours">Anime Network Expands into UK with Two Weekly Hours</news>
+<news datetime="2007-05-31T08:28:13Z" href="http://www.animenewsnetwork.com/news/2007-05-31/survey-roots-otaku">Survey about &quot;Roots&quot; of Otaku Lifestyle Published</news>
+<news datetime="2007-06-11T15:36:12Z" href="http://www.animenewsnetwork.com/news/2007-06-11/new-movies-mark-return-of-evangelion-coffee-in-japan">New Movies Mark Return of &lt;cite&gt;Evangelion&lt;/cite&gt; Coffee in Japan</news>
+<news datetime="2007-06-12T21:08:06Z" href="http://www.animenewsnetwork.com/news/2007-06-12/cg-evangelion-model">CG &lt;cite&gt;Evangelion&lt;/cite&gt; Model Provided by Software Developer</news>
+<news datetime="2007-06-14T20:49:19Z" href="http://www.animenewsnetwork.com/news/2007-06-14/nyaf-contest-extended-new-prize-added">NYAF Contest Extended, New Prize Added</news>
+<news datetime="2007-06-23T01:25:09Z" href="http://www.animenewsnetwork.com/news/2007-06-22/japan's-cultural-affairs-agency-ranks-top-anime-manga">Japan's Cultural Affairs Agency Ranks Top Anime, Manga</news>
+<news datetime="2007-06-25T16:43:37Z" href="http://www.animenewsnetwork.com/news/2007-06-25/final-fantasy-xii-scorer-eminence-show-otakon-2007">Otakon Hosts &lt;cite&gt;Final Fantasy XII&lt;/cite&gt; Composer, Eminence Show</news>
+<news datetime="2007-07-16T18:50:23Z" href="http://www.animenewsnetwork.com/news/2007-07-16/stranger-yes-pre-cure-5-movie-trailers-posted-online">&lt;cite&gt;Stranger&lt;/cite&gt;, &lt;cite&gt;Yes! Pre-Cure 5&lt;/cite&gt; Movie Trailers Posted Online</news>
+<news datetime="2007-07-20T19:40:45Z" href="http://www.animenewsnetwork.com/news/2007-07-20/clannad-movie-and-eva-1.0-trailers-geass-no.1-23-online">&lt;cite&gt;Clannad&lt;/cite&gt; Movie and &lt;cite&gt;Eva:1.0&lt;/cite&gt; Trailers, &lt;cite&gt;Geass&lt;/cite&gt; #1-23 Online</news>
+<news datetime="2007-07-23T11:07:31Z" href="http://www.animenewsnetwork.com/news/2007-07-23/human-sized-evangelion-spear-exhibited-auctioned">Human-Sized &lt;cite&gt;Evangelion&lt;/cite&gt; Spear Exhibited, Auctioned</news>
+<news datetime="2007-07-31T20:56:01Z" href="http://www.animenewsnetwork.com/news/2007-07-31/director-kobun-shizuno-at-new-york-anime-festival">Director Kobun Shizuno at New York Anime Festival</news>
+<news datetime="2007-08-06T15:35:10Z" href="http://www.animenewsnetwork.com/news/2007-08-06/petit-eva-super-deformed-series-to-be-made-into-video">&lt;cite&gt;Petit Eva&lt;/cite&gt; Super-Deformed Series to Be Made into Video</news>
+<news datetime="2007-08-08T13:03:01Z" href="http://www.animenewsnetwork.com/news/2007-08-08/petit-eva-computer-graphics-video-details-revealed">&lt;cite&gt;Petit Eva&lt;/cite&gt; Computer-Graphics Video Details Revealed</news>
+<news datetime="2007-08-09T13:43:32Z" href="http://www.animenewsnetwork.com/news/2007-08-09/japan-tour-offers-evangelion-film-showing-in-september">Japan Tour Offers &lt;cite&gt;Evangelion&lt;/cite&gt; Film Showing in September</news>
+<news datetime="2007-08-11T19:02:18Z" href="http://www.animenewsnetwork.com/news/2007-08-11/evangelion-on-cover-of-rolling-stone-mag-in-japan">&lt;cite&gt;Evangelion&lt;/cite&gt; on Cover of &lt;cite&gt;Rolling Stone&lt;/cite&gt; Mag…in Japan</news>
+<news datetime="2007-08-23T14:39:11Z" href="http://www.animenewsnetwork.com/news/2007-08-23/moyoco-anno's-hataraki-man-to-be-made-into-live-action">Moyoco Anno's &lt;cite&gt;Hataraki Man&lt;/cite&gt; to be Made into Live-Action</news>
+<news datetime="2007-08-28T13:24:18Z" href="http://www.animenewsnetwork.com/news/2007-08-28/votoms-model-gundam-balloon-float-at-japan's-c3">1/1 &lt;cite&gt;Votoms&lt;/cite&gt; Model, &lt;cite&gt;Gundam&lt;/cite&gt; Balloon Float at Japan's C3</news>
+<news datetime="2007-08-30T14:01:17Z" href="http://www.animenewsnetwork.com/news/2007-08-30/evangelion-1.0-international-premiere-announced">Evangelion 1.0 International Premiere Announced</news>
+<news datetime="2007-09-01T17:29:44Z" href="http://www.animenewsnetwork.com/news/2007-09-01/2nd-eva-film-remake-to-add-redesigned-evas-new-girl">2nd &lt;cite&gt;Eva&lt;/cite&gt; Film Remake to Add Redesigned EVAs, New Girl</news>
+<news datetime="2007-09-03T12:57:32Z" href="http://www.animenewsnetwork.com/news/2007-09-03/japanese-box-office-august-25-26-september-1-2">Japanese Box Office: August 25-26, September 1-2</news>
+<news datetime="2007-09-05T18:17:53Z" href="http://www.animenewsnetwork.com/news/2007-09-05/jump-square-manga-mag's-2nd-promo-video-posted-online">&lt;cite&gt;Jump Square&lt;/cite&gt; Manga Mag's 2nd Promo Video Posted Online</news>
+<news datetime="2007-09-06T17:24:21Z" href="http://www.animenewsnetwork.com/news/2007-09-06/pizza-hut-launches-evangelion-movie-campaign-in-japan">Pizza Hut Launches &lt;cite&gt;Evangelion&lt;/cite&gt; Movie Campaign in Japan</news>
+<news datetime="2007-09-08T20:52:17Z" href="http://www.animenewsnetwork.com/news/2007-09-09/human-sized-eva-spear-auctioned-for-13.7-million-yen">Human-Sized &lt;cite&gt;Eva&lt;/cite&gt; Spear Auctioned for 13.7 Million Yen</news>
+<news datetime="2007-09-08T17:09:10Z" href="http://www.animenewsnetwork.com/news/2007-09-08/human-sized-eva-spear-auctioned-for-13.7-million-yen/2">Human-Sized &lt;cite&gt;Eva&lt;/cite&gt; Spear Auctioned for 13.7 Million Yen</news>
+<news datetime="2007-09-10T11:09:04Z" href="http://www.animenewsnetwork.com/news/2007-09-10/japanese-box-office-september-8-9-eva-drops-to-no.2">Japanese Box Office, September 8–9: &lt;cite&gt;Eva&lt;/cite&gt; Drops to #2</news>
+<news datetime="2007-09-13T13:15:35Z" href="http://www.animenewsnetwork.com/news/2007-09-13/uk's-propeller-tv-expands-anime-network-to-daily-block">UK's Propeller TV Expands Anime Network to Daily Block</news>
+<news datetime="2007-09-24T13:48:23Z" href="http://www.animenewsnetwork.com/news/2007-09-24/viz-pictures-licenses-1st-film-from-funky-forest-trio">Viz Pictures Licenses 1st Film from Funky Forest Trio</news>
+<news datetime="2007-09-26T08:28:25Z" href="http://www.animenewsnetwork.com/news/2007-09-26/image-launches-color-comic-from-petit-eva-creator">Image Launches Color Comic from &lt;cite&gt;Petit Eva&lt;/cite&gt; Creator</news>
+<news datetime="2007-09-25T22:28:19Z" href="http://www.animenewsnetwork.com/news/2007-09-25/japanese-box-office-september-15-16-22-23-eva-drops">Japanese Box Office, September 15–16, 22-23: &lt;cite&gt;Eva&lt;/cite&gt; Drops</news>
+<news datetime="2007-09-27T16:23:07Z" href="http://www.animenewsnetwork.com/news/2007-09-27/1st-new-evangelion-remake-seen-over-1-million-times">1st of New &lt;cite&gt;Evangelion&lt;/cite&gt; Remakes Seen Over 1 Million Times</news>
+<news datetime="2007-10-01T21:06:56Z" href="http://www.animenewsnetwork.com/news/2007-10-01/japanese-box-office-september-29-30-eva-down-to-no.8">Japanese Box Office, September 29-30: &lt;cite&gt;Eva&lt;/cite&gt; Down to #8</news>
+<news datetime="2007-10-03T15:59:05Z" href="http://www.animenewsnetwork.com/news/2007-10-03/anime-pitched-for-distribution-at-american-film-market">Anime Pitched for Distribution at American Film Market</news>
+<news datetime="2007-10-03T18:04:45Z" href="http://www.animenewsnetwork.com/news/2007-10-03/evangelion-1.0-is-now-top-grossing-eva-movie">&lt;cite&gt;Evangelion: 1.0&lt;/cite&gt; is Now Top Grossing &lt;cite&gt;Eva&lt;/cite&gt; Movie</news>
+<news datetime="2007-10-05T08:34:57Z" href="http://www.animenewsnetwork.com/news/2007-10-05/utada's-record-breaking-downloads-broken-down-by-song">Utada's Record-Breaking Downloads Broken Down by Song</news>
+<news datetime="2007-10-10T10:22:26Z" href="http://www.animenewsnetwork.com/news/2007-10-10/japanese-box-office-october-6-7-eva-stays-at-no.8">Japanese Box Office, October 6-7: &lt;cite&gt;Eva&lt;/cite&gt; Stays at #8</news>
+<news datetime="2007-10-11T17:26:38Z" href="http://www.animenewsnetwork.com/news/2007-10-11/eva-1.0-gundam-game-win-in-digital-contents-grand-prix">&lt;cite&gt;Eva: 1.0&lt;/cite&gt;, &lt;cite&gt;Gundam&lt;/cite&gt; Game Win in Digital Contents Grand Prix</news>
+<news datetime="2007-10-16T14:55:42Z" href="http://www.animenewsnetwork.com/news/2007-10-16/japanese-box-office-october-13-14-eva-hangs-on-at-no.9">Japanese Box Office, October 13-14: &lt;cite&gt;Eva&lt;/cite&gt; Hangs on at #9</news>
+<news datetime="2007-10-24T11:47:01Z" href="http://www.animenewsnetwork.com/news/2007-10-24/japanese-box-office-october-20-21-eva-lingers-at-no.10">Japanese Box Office, October 20-21: &lt;cite&gt;Eva&lt;/cite&gt; Lingers at #10</news>
+<news datetime="2007-10-30T18:06:15Z" href="http://www.animenewsnetwork.com/news/2007-10-30/le-chevalier-author-production-i.g-start-sci-fi-manga">&lt;cite&gt;Le Chevalier&lt;/cite&gt; Author, Production I.G Start Sci-Fi Manga</news>
+<news datetime="2007-11-01T14:11:05Z" href="http://www.animenewsnetwork.com/news/2007-11-01/anime-fashion-show-to-be-held-at-japan's-kobe-airport">Anime Fashion Show to be Held at Japan's Kobe Airport</news>
+<news datetime="2007-11-11T15:00:00Z" href="http://www.animenewsnetwork.com/news/2007-11-12/a-night-in-fantasia-2007-anime-edition-this-sunday">A Night in Fantasia 2007: Anime Edition THIS SUNDAY</news>
+<news datetime="2007-11-16T19:00:18Z" href="http://www.animenewsnetwork.com/news/2007-11-16/literature-professors-to-publish-book-on-sci-fi-anime">Literature Professors to Publish Book on Sci-Fi, Anime</news>
+<news datetime="2007-11-19T22:41:02Z" href="http://www.animenewsnetwork.com/news/2007-11-19/hawaii's-kawaii-kon-to-host-eva-actress-yuko-miyamura">Hawaii's Kawaii Kon to Host &lt;cite&gt;Eva&lt;/cite&gt; Actress Yuko Miyamura</news>
+<news datetime="2007-11-29T12:08:52Z" href="http://www.animenewsnetwork.com/news/2007-11-29/tokyo-anime-center-to-hold-life-size-figure-party">Tokyo Anime Center to Hold 'Life-Size Figure Party'</news>
+<news datetime="2007-12-04T00:33:28Z" href="http://www.animenewsnetwork.com/news/2007-12-03/anime-network-at-new-york-anime-festival">Anime News Network at New York Anime Festival</news>
+<news datetime="2007-12-19T19:53:06Z" href="http://www.animenewsnetwork.com/news/2007-12-19/free-gurren-lagann-stream-subtitled">&lt;cite&gt;Gurren Lagann&lt;/cite&gt; Streamed with English Subtitles for Free</news>
+<news datetime="2007-12-24T18:34:42Z" href="http://www.animenewsnetwork.com/news/2007-12-24/space-battleship-yamato-helmet-to-be-sold-in-japan">&lt;cite&gt;Space Battleship Yamato&lt;/cite&gt; Helmet to be Sold in Japan</news>
+<news datetime="2007-12-26T23:57:30Z" href="http://www.animenewsnetwork.com/news/2007-12-26/petit-eva-gundam-00-get-nintendo-ds-games-in-japan">&lt;cite&gt;Petit Eva, Gundam 00&lt;/cite&gt; Get Nintendo DS Games in Japan</news>
+<news datetime="2007-12-27T19:23:00Z" href="http://www.animenewsnetwork.com/news/2007-12-27/gundam-characters-hawk-instant-noodles-in-japan">&lt;cite&gt;Gundam&lt;/cite&gt; Characters Hawk Instant Noodles in Japan</news>
+<news datetime="2007-12-31T18:06:53Z" href="http://www.animenewsnetwork.com/news/2007-12-31/hello-kitty-men">Hello Kitty Takes on Men for Next Conquest</news>
+<news datetime="2008-01-16T00:32:05Z" href="http://www.animenewsnetwork.com/news/2008-01-15/gainax-co-founder's-sinking-of-japan-comes-to-uk-dvd">Gainax Co-Founder's &lt;cite&gt;Sinking of Japan&lt;/cite&gt; Comes to UK DVD</news>
+<news datetime="2008-01-30T19:45:30Z" href="http://www.animenewsnetwork.com/news/2008-01-30/adv-films-removes-titles-from-website-update">ADV Films Removes Titles from Website - Update</news>
+<news datetime="2008-02-01T18:35:50Z" href="http://www.animenewsnetwork.com/news/2008-02-01/city-hunter-hammer-tops-yahoo-japan-charity-auctions">&lt;cite&gt;City Hunter&lt;/cite&gt; Hammer Tops Yahoo! Japan Charity Auctions</news>
+<news datetime="2008-02-04T23:46:49Z" href="http://www.animenewsnetwork.com/news/2008-02-04/evangelion-film-remakes-begin-global-campaign-in-korea">&lt;cite&gt;Evangelion&lt;/cite&gt; Film Remakes Begin Global Campaign in Korea</news>
+<news datetime="2008-02-05T18:37:35Z" href="http://www.animenewsnetwork.com/news/2008-02-05/gainax-hints-at-new-project-in-staff-recruitment-ad">Gainax Hints at New Project in Staff Recruitment Ad</news>
+<news datetime="2008-02-09T09:44:37Z" href="http://www.animenewsnetwork.com/news/2008-02-09/australias-red-ant-to-release-evangelion-1.0-on-dvd">Australia's Red Ant to Release &lt;cite&gt;Evangelion: 1.0&lt;/cite&gt; on DVD</news>
+<news datetime="2008-02-12T09:36:37Z" href="http://www.animenewsnetwork.com/news/2008-02-12/ucc-brings-eva-pachinko-maids-and-caffeine-together">UCC Brings &lt;cite&gt;Eva&lt;/cite&gt;, Pachinko,&lt;/cite&gt; Maids, &amp; Caffeine Together</news>
+<news datetime="2008-02-13T19:12:32Z" href="http://www.animenewsnetwork.com/news/2008-02-13/hello-kitty-mmorpg-closed-beta-now-accepting-players">&lt;cite&gt;Hello Kitty&lt;/cite&gt; MMORPG's Closed Beta Now Accepting Players</news>
+<news datetime="2008-02-15T19:58:31Z" href="http://www.animenewsnetwork.com/news/2008-02-15/tekkonkinkreet-wins-japan-academy-award-for-animation">&lt;cite&gt;Tekkonkinkreet&lt;/cite&gt; Wins Japan's Academy Award for Animation</news>
+<news datetime="2008-02-26T12:12:08Z" href="http://www.animenewsnetwork.com/news/2008-02-26/eva-1.0-wins-tokyo-anime-fair-animation-of-the-year">&lt;cite&gt;Eva 1.0&lt;/cite&gt; Wins Tokyo Anime Fair's Animation of the Year</news>
+<news datetime="2008-03-26T08:50:28Z" href="http://www.animenewsnetwork.com/news/2008-03-26/eva-movie-remake-gets-theatrical-remake-of-its-own">&lt;cite&gt;Eva&lt;/cite&gt; Movie Remake Gets Theatrical Remake of Its Own</news>
+<news datetime="2008-04-08T20:27:03Z" href="http://www.animenewsnetwork.com/news/2008-04-08/clannad-shuffle-d.c-ii-to-launch-3d-virtual-world">&lt;cite&gt;Clannad, Shuffle, D.C. II&lt;/cite&gt; to Launch 3D Virtual World</news>
+<news datetime="2008-04-28T08:29:48Z" href="http://www.animenewsnetwork.com/news/2008-04-28/macross-frontier-pizza-hut-join-forces-in-new-campaign">&lt;cite&gt;Macross Frontier&lt;/cite&gt;, Pizza Hut Join Forces in New Campaign</news>
+<news datetime="2008-04-29T09:05:14Z" href="http://www.animenewsnetwork.com/news/2008-04-29/eva-1.0-film-sells-record-219000-dvds-in-first-week">&lt;cite&gt;Eva:1.0&lt;/cite&gt; Film Sells Record 219,000 DVDs in First Week</news>
+<news datetime="2008-05-06T21:04:18Z" href="http://www.animenewsnetwork.com/news/2008-05-06/tokyo-restaurants-offer-limited-evangelion-menu-items">Tokyo Restaurants Offer Limited &lt;cite&gt;Evangelion&lt;/cite&gt; Menu Items</news>
+<news datetime="2008-05-10T09:14:31Z" href="http://www.animenewsnetwork.com/news/2008-05-10/namco-bandai-holdings-releases-2007-08-financials">Namco Bandai Holdings Releases 2007-08 Financials</news>
+<news datetime="2008-05-19T20:08:20Z" href="http://www.animenewsnetwork.com/news/2008-05-19/hello-kitty-named-japan-tourism-ambassador-to-china">&lt;cite&gt;Hello Kitty&lt;/cite&gt; Named Japan's Tourism Ambassador to China</news>
+<news datetime="2008-06-10T10:28:05Z" href="http://www.animenewsnetwork.com/news/2008-06-10/1st-anime-album-in-11-years-to-rank-in-japan-top-3">1st Anime Album in 11 Years to Rank in Japan's Top 3</news>
+<news datetime="2008-06-24T14:53:26Z" href="http://www.animenewsnetwork.com/news/2008-06-24/japan-post-service-to-issue-patlabor-stamps-in-august">Japan Post Service to Issue &lt;cite&gt;Patlabor&lt;/cite&gt; Stamps in August</news>
+<news datetime="2008-07-01T01:38:14Z" href="http://www.animenewsnetwork.com/news/2008-06-30/amazon-japan-dvd-ranking-december-2007-may-2008">Amazon Japan DVD Ranking, December 2007—May 2008</news>
+<news datetime="2008-07-09T01:50:44Z" href="http://www.animenewsnetwork.com/news/2008-07-08/1/2-scale-fighter-model-promotes-oshii-sky-crawlers">1/2-Scale Fighter Model Promotes Oshii's &lt;cite&gt;Sky Crawlers&lt;/cite&gt;</news>
+<news datetime="2008-07-10T09:50:55Z" href="http://www.animenewsnetwork.com/news/2008-07-10/new-zealand-film-fest-eva-vexille">New Zealand Film Fest to Screen &lt;cite&gt;Eva:1.0, Vexille&lt;/cite&gt;</news>
+<news datetime="2008-07-23T05:01:52Z" href="http://www.animenewsnetwork.com/news/2008-07-23/for-sale-scale-fighter-from-oshii-sky-crawlers">For Sale: 1/2-Scale Fighter from Oshii's &lt;cite&gt;Sky Crawlers&lt;/cite&gt;</news>
+<news datetime="2008-08-01T11:21:00Z" href="http://www.animenewsnetwork.com/news/2008-08-01/pizza-hut-pitches-oshii-sky-crawlers-film-in-japan">Pizza Hut Pitches Oshii's &lt;cite&gt;Sky Crawlers&lt;/cite&gt; Film in Japan</news>
+<news datetime="2008-08-07T09:51:24Z" href="http://www.animenewsnetwork.com/news/2008-08-07/store-sells-pundam-epangelion-cosplay-for-dogs">Store Sells 'Pundam,' 'Epangelion' Cosplay for Dogs</news>
+<news datetime="2008-08-08T10:08:43Z" href="http://www.animenewsnetwork.com/news/2008-08-08/eva-1.0-l-afro-samurai-to-run-in-german-film-fest">&lt;cite&gt;Eva:1.0, L, Afro Samurai&lt;/cite&gt; to Run in German Film Fest</news>
+<news datetime="2008-08-21T20:42:59Z" href="http://www.animenewsnetwork.com/news/2008-08-21/the-girl-who-leapt-through-time-opens-in-boston-on-friday">&lt;cite&gt;The Girl Who Leapt Through Time&lt;/cite&gt; Opens in Boston on Friday</news>
+<news datetime="2008-08-28T13:36:17Z" href="http://www.animenewsnetwork.com/news/2008-08-28/sf-japantown-to-screen-girl-who-leapt-through-time-for-free">SF Japantown to Screen &lt;cite&gt;Girl Who Leapt Through Time&lt;/cite&gt; for Free</news>
+<news datetime="2008-09-10T09:45:30Z" href="http://www.animenewsnetwork.com/news/2008-09-10/evangelion-entry-plug-usb-drives-in-japan">&lt;cite&gt;Evangelion&lt;/cite&gt; Entry Plug USB Drives in Japan</news>
+<news datetime="2008-09-22T18:50:35Z" href="http://www.animenewsnetwork.com/news/2008-09-22/girl-who-leapt-through-time-at-pennsylvania-in-october">&lt;cite&gt;Girl Who Leapt Through Time&lt;/cite&gt; at Pennsylvania in October</news>
+<news datetime="2008-09-23T16:48:29Z" href="http://www.animenewsnetwork.com/news/2008-09-23/ann-panels-at-new-york-anime-festival">Anime News Network Panels at New York Anime Festival</news>
+<news datetime="2008-09-27T09:21:10Z" href="http://www.animenewsnetwork.com/news/2008-09-27/losses-expected-to-mount-at-japanese-channel-wowow">Profits Continue to Drop at Japanese Channel WOWOW (Update 2)</news>
+<news datetime="2008-10-06T00:11:23Z" href="http://www.animenewsnetwork.com/news/2008-10-05/evangelion-2.0-film-set-for-early-summer-of-2009">&lt;cite&gt;Evangelion 2.0&lt;/cite&gt; Film Set for Early Summer of 2009</news>
+<news datetime="2008-10-12T12:56:42Z" href="http://www.animenewsnetwork.com/news/2008-10-12/oshii-sky-crawlers-picks-up-3-awards-at-sitges-fest">Oshii's &lt;cite&gt;Sky Crawlers&lt;/cite&gt; Picks Up 3 Awards at Sitges Fest</news>
+<news datetime="2008-10-14T17:14:20Z" href="http://www.animenewsnetwork.com/news/2008-10-14/oshii-develops-writes-musashi-miyamoto-samurai-film">Oshii Develops, Writes &lt;cite&gt;Musashi Miyamoto&lt;/cite&gt; Samurai Film (Update 2)</news>
+<news datetime="2008-10-16T02:58:03Z" href="http://www.animenewsnetwork.com/news/2008-10-15/kannagi-is-latest-anime-to-order-pizza-hut">&lt;cite&gt;Kannagi&lt;/cite&gt; is Latest Anime to Order Pizza Hut</news>
+<news datetime="2008-11-09T21:55:52Z" href="http://www.animenewsnetwork.com/news/2008-11-09/theatrical-evangelion-remake-eva-02-design-previewed">Theatrical &lt;cite&gt;Evangelion&lt;/cite&gt; Remake's EVA-02 Design Previewed</news>
+<news datetime="2008-11-30T15:17:29Z" href="http://www.animenewsnetwork.com/news/2008-11-30/medicom-develops-1-meter-tall-evangelion-mecha-figure">Medicom Develops 1-Meter-Tall Evangelion Mecha Figure</news>
+<news datetime="2008-12-02T18:14:01Z" href="http://www.animenewsnetwork.com/news/2008-12-02/denno-coil-wins-award-from-japanese-sci-fi-writers">&lt;cite&gt;Dennō Coil&lt;/cite&gt; Wins Award from Japanese Sci-Fi Writers</news>
+<news datetime="2008-12-06T11:57:40Z" href="http://www.animenewsnetwork.com/news/2008-12-06/leapt-through-time-hosoda-to-direct-summer-wars-film">&lt;cite&gt;Leapt Through Time's&lt;/cite&gt; Hosoda to Direct &lt;cite&gt;Summer Wars&lt;/cite&gt; Film</news>
+<news datetime="2008-12-12T16:29:02Z" href="http://www.animenewsnetwork.com/news/2008-12-12/mamoru-oshii-musashi-samurai-film-teaser-streamed">Mamoru Oshii's &lt;cite&gt;Musashi&lt;/cite&gt; Samurai Film Teaser Streamed</news>
+<news datetime="2008-12-20T15:40:15Z" href="http://www.animenewsnetwork.com/news/2008-12-20/2008-top-selling-dvds-in-japan-overall">2008's Top-Selling DVDs in Japan (Overall) - Updated</news>
+<news datetime="2008-12-24T13:47:25Z" href="http://www.animenewsnetwork.com/news/2008-12-24/funimation-adds-vandread-science-fiction-anime">FUNimation Adds &lt;cite&gt;Vandread&lt;/cite&gt; Science-Fiction Anime (Update 2)</news>
+<news datetime="2009-01-01T00:00:39Z" href="http://www.animenewsnetwork.com/news/2008-12-31/funimation-picks-up-evangelion-1.0-anime-film-remake">FUNimation Picks Up &lt;cite&gt;Evangelion:1.0&lt;/cite&gt; Anime Film Remake</news>
+<news datetime="2009-01-03T04:46:40Z" href="http://www.animenewsnetwork.com/news/2009-01-02/evangelion-eva-00-snowboard-rei-snowboard-uniform">&lt;cite&gt;Evangelion&lt;/cite&gt; EVA-00 Snowboard, Rei Snowboard Uniform</news>
+<news datetime="2009-01-12T15:06:47Z" href="http://www.animenewsnetwork.com/news/2009-01-12/gainax-animates-new-shuriken-girls-promo-video-for-ces">Gainax Animates New &lt;cite&gt;Shuriken Girls&lt;/cite&gt; Promo Video for CES</news>
+<news datetime="2009-01-14T12:45:19Z" href="http://www.animenewsnetwork.com/news/2009-01-14/20th-century-boys-eva-1.0-at-santa-barbara-film-fest">&lt;cite&gt;20th Century Boys, Eva:1.0&lt;/cite&gt; at Santa Barbara Film Fest</news>
+<news datetime="2009-01-29T11:26:12Z" href="http://www.animenewsnetwork.com/news/2009-01-29/tv-tokyo-iwata-discusses-anime-road-to-survival">TV Tokyo's Iwata Discusses Anime's 'Road to Survival'</news>
+<news datetime="2009-01-31T09:58:37Z" href="http://www.animenewsnetwork.com/news/2009-01-31/evangelion-one-piece-dresses-offered-in-japan">&lt;cite&gt;Evangelion&lt;/cite&gt; One-Piece Dresses Offered in Japan</news>
+<news datetime="2009-02-17T13:03:56Z" href="http://www.animenewsnetwork.com/news/2009-02-17/evangelion-1.0-to-screen-at-afi-dallas-2009">&lt;cite&gt;Evangelion 1.0&lt;/cite&gt; to Screen at AFI Dallas 2009</news>
+<news datetime="2009-02-19T15:32:38Z" href="http://www.animenewsnetwork.com/news/2009-02-19/ponyo-wins-tokyo-anime-fair-animation-of-the-year">&lt;cite&gt;Ponyo&lt;/cite&gt; Wins Tokyo Anime Fair's Animation of the Year</news>
+<news datetime="2009-02-19T21:45:25Z" href="http://www.animenewsnetwork.com/news/2009-02-19/anno-evangelion-2.0-film-slated-for-june-27-in-japan">Anno's &lt;cite&gt;Evangelion 2.0&lt;/cite&gt; Film Slated for June 27 in Japan (Update 2)</news>
+<news datetime="2009-02-21T03:12:10Z" href="http://www.animenewsnetwork.com/news/2009-02-20/diamond-cancels-some-march-anime/manga-related-orders">Diamond Cancels Some March Anime/Manga Related Orders</news>
+<news datetime="2009-02-24T17:31:10Z" href="http://www.animenewsnetwork.com/news/2009-02-24/eva-clock-picture-stamp-iphone-apps-posted-online">&lt;cite&gt;Eva&lt;/cite&gt; Clock, Picture Stamp iPhone Apps Posted Online</news>
+<news datetime="2009-02-27T10:34:51Z" href="http://www.animenewsnetwork.com/news/2009-02-27/tv-tokyo-to-establish-new-anime-department">TV Tokyo to Establish New Anime Department</news>
+<news datetime="2009-03-07T19:57:37Z" href="http://www.animenewsnetwork.com/news/2009-03-07/hello-kitty-character-x-japan-rock-band-join-forces">Hello Kitty Character, X Japan Rock Band Join Forces</news>
+<news datetime="2009-03-11T17:14:39Z" href="http://www.animenewsnetwork.com/news/2009-03-11/eva/1.0-vexille-films-to-play-in-d.c-on-march-28">&lt;cite&gt;Eva: 1.0, Vexille&lt;/cite&gt; Films to Play in D.C. on March 28</news>
+<news datetime="2009-03-12T12:02:51Z" href="http://www.animenewsnetwork.com/news/2009-03-12/evangelion-underpants-for-sale-in-japan">&lt;cite&gt;Evangelion&lt;/cite&gt; Underpants for Sale in Japan</news>
+<news datetime="2009-03-12T23:11:18Z" href="http://www.animenewsnetwork.com/news/2009-03-12/director-wes-anderson-lists-eva-among-favorite-dvds">Director Wes Anderson Lists &lt;cite&gt;Eva&lt;/cite&gt; Among Favorite DVDs</news>
+<news datetime="2009-03-18T15:52:59Z" href="http://www.animenewsnetwork.com/news/2009-03-18/miyamoto-musashi/soken-ni-haseru-yume-english-trailer">&lt;cite&gt;Musashi: The Dream of the Last Samurai&lt;/cite&gt; English Trailer Posted</news>
+<news datetime="2009-03-25T00:21:29Z" href="http://www.animenewsnetwork.com/news/2009-03-24/funimation-adds-live-action-ichi-remake-of-zatoichi">Funimation Adds Live-Action &lt;cite&gt;Ichi&lt;/cite&gt; Remake of &lt;cite&gt;Zatoichi&lt;/cite&gt;</news>
+<news datetime="2009-03-28T04:24:54Z" href="http://www.animenewsnetwork.com/news/2009-03-28/hello-kitty-online-mmorpg-to-launch-in-north-america">&lt;cite&gt;Hello Kitty Online&lt;/cite&gt; MMORPG to Launch in North America</news>
+<news datetime="2009-03-31T15:20:58Z" href="http://www.animenewsnetwork.com/news/2009-03-31/japan-anime-game-studios-celebrate-april-fool-day">Japan's Anime, Game Studios Celebrate April Fool's Day (Update 7)</news>
+<news datetime="2009-04-01T12:47:21Z" href="http://www.animenewsnetwork.com/news/2009-04-01/n-america-2007-anime-market-pegged-at-us$2.8-billion">N. America's 2007 Anime Market Pegged at US$2.8 Billion (Update 3)</news>
+<news datetime="2009-04-02T07:48:10Z" href="http://www.animenewsnetwork.com/news/2009-04-02/2-evangelion/2.0-film-teasers-streamed-by-yahoo-site">2 &lt;cite&gt;Evangelion: 2.0&lt;/cite&gt; Film Teasers Streamed by Yahoo! Site (Update 2)</news>
+<news datetime="2009-04-02T16:53:31Z" href="http://www.animenewsnetwork.com/news/2009-04-02/former-gonzo-head-shouji-murahama-launches-lambda-film">Former Gonzo Head Shouji Murahama Launches Lambda Film</news>
+<news datetime="2009-04-03T23:28:29Z" href="http://www.animenewsnetwork.com/news/2009-04-03/hawaii-fest-screens-eva/1.0-sky-crawlers-ichi-20th-century-boys">Hawaii Fest Screens &lt;cite&gt;Eva: 1.0, Sky Crawlers, Ichi, 20th Century Boys&lt;/cite&gt;</news>
+<news datetime="2009-04-07T11:19:09Z" href="http://www.animenewsnetwork.com/news/2009-04-07/halko-momoi-hiroyuki-yamaga-reportedly-going-to-fanime">Hiroyuki Yamaga, Halko Momoi Going to Fanime</news>
+<news datetime="2009-04-08T04:44:27Z" href="http://www.animenewsnetwork.com/news/2009-04-08/sky-crawlers-eva/1.0-more-at-japan-film-fest-l.a">&lt;cite&gt;Sky Crawlers, Eva: 1.0&lt;/cite&gt;, More at Japan Film Fest L.A.</news>
+<news datetime="2009-04-08T11:32:38Z" href="http://www.animenewsnetwork.com/news/2009-04-08/mamoru-hosoda-summer-wars-hd-teaser-trailer-streamed">Mamoru Hosoda's &lt;cite&gt;Summer Wars&lt;/cite&gt; HD Teaser Trailer Streamed</news>
+<news datetime="2009-04-17T10:11:00Z" href="http://www.animenewsnetwork.com/news/2009-04-17/maaya-sakamoto-to-play-new-character-in-eva/2.0-film">Maaya Sakamoto to Play New Character in &lt;cite&gt;Eva: 2.0&lt;/cite&gt; Film</news>
+<news datetime="2009-04-23T05:28:56Z" href="http://www.animenewsnetwork.com/news/2009-04-23/evangelion/2.0-evangelion-unit-05-design-confirmed">&lt;cite&gt;Evangelion: 2.0's&lt;/cite&gt; Evangelion Unit-05 Design Confirmed (Update 2)</news>
+<news datetime="2009-05-01T20:51:12Z" href="http://www.animenewsnetwork.com/news/2009-05-01/college-lecturer-pretending-to-be-eva/2.0-honda-resigns">College Lecturer Pretending to Be &lt;cite&gt;Eva: 2.0's&lt;/cite&gt; Honda Resigns</news>
+<news datetime="2009-05-07T21:22:27Z" href="http://www.animenewsnetwork.com/news/2009-05-07/adv-posts-eva-tv-and-appleseed-film-on-xbox-kiba-on-itunes">ADV Posts &lt;cite&gt;Eva&lt;/cite&gt; TV &amp; &lt;cite&gt;Appleseed&lt;/cite&gt; Film on Xbox, &lt;cite&gt;Kiba&lt;/cite&gt; on iTunes</news>
+<news datetime="2009-05-08T16:17:43Z" href="http://www.animenewsnetwork.com/news/2009-05-08/evangelion-2.0/you-can-not-advance-trailer-streamed">&lt;cite&gt;Evangelion 2.0: You Can (Not) Advance&lt;/cite&gt; Trailer Streamed</news>
+<news datetime="2009-05-08T22:01:20Z" href="http://www.animenewsnetwork.com/news/2009-05-08/adv-funimation-add-new-anime-titles-online">ADV, Funimation Add New Anime Titles Online</news>
+<news datetime="2009-05-09T18:02:22Z" href="http://www.animenewsnetwork.com/news/2009-05-09/report/moribito-to-return-to-adult-swim-tv-in-summer">Report: &lt;cite&gt;Moribito&lt;/cite&gt; to Return to Adult Swim TV in Summer</news>
+<news datetime="2009-05-14T13:34:22Z" href="http://www.animenewsnetwork.com/news/2009-05-14/young-gangan-to-reveal-project-with-mizushima-gainax">&lt;cite&gt;Young Gangan&lt;/cite&gt; to Reveal Project with Mizushima, Gainax</news>
+<news datetime="2009-05-16T03:57:00Z" href="http://www.animenewsnetwork.com/news/2009-05-15/hikaru-utada-to-sing-theme-of-evangelion/2.0-film">Hikaru Utada to Sing Theme of &lt;cite&gt;Evangelion: 2.0&lt;/cite&gt; Film</news>
+<news datetime="2009-05-18T02:39:21Z" href="http://www.animenewsnetwork.com/news/2009-05-17/evangelion-films-nerv-only-phone-to-be-sold-in-japan">&lt;cite&gt;Evangelion&lt;/cite&gt; Films' 'Nerv Only' Phone to Be Sold in Japan</news>
+<news datetime="2009-05-18T19:37:16Z" href="http://www.animenewsnetwork.com/news/2009-05-18/fullmetal-alchemist/gundam-00-seiji-mizushima-at-ax">&lt;cite&gt;Fullmetal Alchemist/Gundam 00's&lt;/cite&gt; Seiji Mizushima at AX</news>
+<news datetime="2009-05-19T15:24:52Z" href="http://www.animenewsnetwork.com/news/2009-05-19/evangelion/1.11-bd-and-dvd-commercial-streamed-in-japan">&lt;cite&gt;Evangelion: 1.11&lt;/cite&gt; BD &amp; DVD Commercial Streamed in Japan (Update 2)</news>
+<news datetime="2009-05-23T22:13:57Z" href="http://www.animenewsnetwork.com/news/2009-05-23/evangelion/1.0-english-dub-cast-announced">&lt;cite&gt;Evangelion: 1.0's&lt;/cite&gt; English Dub Cast Announced</news>
+<news datetime="2009-05-27T09:03:40Z" href="http://www.animenewsnetwork.com/news/2009-05-27/eva-misato-hosts-realtime-show-on-ps3s-in-japan">&lt;cite&gt;Eva's&lt;/cite&gt; Misato Hosts Realtime News Show on PS3s in Japan</news>
+<news datetime="2009-06-02T14:06:26Z" href="http://www.animenewsnetwork.com/news/2009-06-02/lucky-star-underpants-for-sale-in-japan">&lt;cite&gt;Lucky Star&lt;/cite&gt; Underpants for Sale in Japan</news>
+<news datetime="2009-06-03T03:57:00Z" href="http://www.animenewsnetwork.com/news/2009-06-02/japanese-animation-dvd-ranking-may-25-31">Japanese Animation DVD Ranking, May 25-31</news>
+<news datetime="2009-06-03T03:58:00Z" href="http://www.animenewsnetwork.com/news/2009-06-02/eva-1.11-sells-49000-in-1st-week-as-no.1-bd-so-far">&lt;cite&gt;Eva:1.11&lt;/cite&gt; Sells 49,000 in 1st Week as #1 BD So Far</news>
+<news datetime="2009-06-03T12:19:33Z" href="http://www.animenewsnetwork.com/news/2009-06-03/hanamaru-kindergarten-anime-green-lit-with-gainax">&lt;cite&gt;Hanamaru Kindergarten&lt;/cite&gt; Anime Green-Lit with Gainax</news>
+<news datetime="2009-06-05T16:07:12Z" href="http://www.animenewsnetwork.com/news/2009-06-05/20000-evangelion-mobile-phones-sell-out-in-5-hours">20,000 &lt;cite&gt;Evangelion&lt;/cite&gt; Mobile Phones Sell Out in 5 Hours</news>
+<news datetime="2009-06-10T15:20:11Z" href="http://www.animenewsnetwork.com/news/2009-06-10/japanese-animation-dvd-ranking-june-1-7">Japanese Animation DVD Ranking, June 1-7</news>
+<news datetime="2009-06-12T13:42:28Z" href="http://www.animenewsnetwork.com/news/2009-06-12/survey/k-on-mio-reborn-hibari-are-no.1-bride-and-groom">Survey: &lt;cite&gt;K-ON's&lt;/cite&gt; Mio, &lt;cite&gt;Reborn's&lt;/cite&gt; Hibari are #1 Bride, Groom</news>
+<news datetime="2009-06-12T14:28:17Z" href="http://www.animenewsnetwork.com/news/2009-06-12/eva-phone-supplies-increased-by-7500-to-meet-demand">&lt;cite&gt;Eva&lt;/cite&gt; Phone Supplies Increased by 7,500 to Meet Demand</news>
+<news datetime="2009-06-13T00:29:03Z" href="http://www.animenewsnetwork.com/news/2009-06-12/eva-1.0-film-on-70+n-american-screens-this-summer">&lt;cite&gt;Eva:1.0&lt;/cite&gt; Film on 70+ N. American Screens This Summer</news>
+<news datetime="2009-06-16T15:47:11Z" href="http://www.animenewsnetwork.com/news/2009-06-16/summer-wars-trailer-streamed-from-tokikake-director">&lt;cite&gt;Summer Wars&lt;/cite&gt; Trailer Streamed from &lt;cite&gt;TokiKake&lt;/cite&gt; Director</news>
+<news datetime="2009-06-17T16:01:10Z" href="http://www.animenewsnetwork.com/news/2009-06-17/2nd-bakemonogatari-promo-summers-wars-tv-ad-posted">2nd &lt;cite&gt;Bakemonogatari&lt;/cite&gt; Promo, &lt;cite&gt;Summers Wars&lt;/cite&gt; TV Ad Posted</news>
+<news datetime="2009-06-21T16:41:07Z" href="http://www.animenewsnetwork.com/news/2009-06-22/supanova-sydney-on-next-weekend">Supanova Sydney on next weekend!</news>
+<news datetime="2009-06-27T20:35:08Z" href="http://www.animenewsnetwork.com/news/2009-06-27/3rd-eva-remake-film-to-be-titled-q-quickening">3rd &lt;cite&gt;Evangelion&lt;/cite&gt; Remake Film to be Titled &lt;cite&gt;Q quickening&lt;/cite&gt;</news>
+<news datetime="2009-06-29T16:45:34Z" href="http://www.animenewsnetwork.com/news/2009-06-29/evangelion-2.0-opens-at-no.1-with-510-million-yen">&lt;cite&gt;Evangelion:2.0&lt;/cite&gt; Opens at #1 with 512 Million Yen</news>
+<news datetime="2009-06-30T01:05:54Z" href="http://www.animenewsnetwork.com/news/2009-06-29/director-ishiguro-designer-matsubara-to-attend-otakon">Director Ishiguro, Designer Matsubara to attend Otakon</news>
+<news datetime="2009-07-01T03:57:00Z" href="http://www.animenewsnetwork.com/news/2009-06-30/unique-tv-ver-of-eva-1.0-to-air-in-japan-on-friday">Unique &quot;TV Ver.&quot; of &lt;cite&gt;Eva:1.0&lt;/cite&gt; to Air in Japan on Friday</news>
+<news datetime="2009-07-03T17:22:51Z" href="http://www.animenewsnetwork.com/news/2009-07-03/eva-1.0-in-n-american-theaters-eva-1.01-on-dvd-in-fall">&lt;cite&gt;Eva:1.0&lt;/cite&gt; in N. American Theaters, &lt;cite&gt;Eva:1.01&lt;/cite&gt; on DVD in Fall</news>
+<news datetime="2009-07-04T20:04:20Z" href="http://www.animenewsnetwork.com/news/2009-07-04/funimation-to-release-sengoku-basara">Funimation Adds &lt;cite&gt;Sengoku Basara&lt;/cite&gt; TV Anime Series (Update 2)</news>
+<news datetime="2009-07-06T17:03:19Z" href="http://www.animenewsnetwork.com/news/2009-07-06/haruhi-suzumiya-no.8-12-streamed-with-english-subs">&lt;cite&gt;Haruhi Suzumiya&lt;/cite&gt; #8-12 Streamed with English Subs</news>
+<news datetime="2009-07-08T15:51:46Z" href="http://www.animenewsnetwork.com/news/2009-07-08/japanese-box-office-june-27-28">Japanese Box Office, June 27-28</news>
+<news datetime="2009-07-14T01:58:40Z" href="http://www.animenewsnetwork.com/news/2009-07-13/japan-animation-tv-ranking-june-29-july-5">Japan's Animation TV Ranking, June 29-July 5</news>
+<news datetime="2009-07-15T00:54:53Z" href="http://www.animenewsnetwork.com/news/2009-07-14/japanese-box-office-july-4-5">Japanese Box Office, July 4-5</news>
+<news datetime="2009-07-15T02:10:48Z" href="http://www.animenewsnetwork.com/news/2009-07-14/japanese-animation-dvd-ranking-july-6-12">Japanese Animation DVD Ranking, July 6-12</news>
+<news datetime="2009-07-20T19:12:12Z" href="http://www.animenewsnetwork.com/news/2009-07-20/japanese-box-office-july-11-12">Japanese Box Office, July 11-12</news>
+<news datetime="2009-07-29T12:05:22Z" href="http://www.animenewsnetwork.com/news/2009-07-29/summer-wars-anime-film-1st-five-minutes-streamed">&lt;cite&gt;Summer Wars&lt;/cite&gt; Anime Film's 1st Five Minutes Streamed</news>
+<news datetime="2009-07-31T08:43:59Z" href="http://www.animenewsnetwork.com/news/2009-07-31/summer-wars-film-1st-5-minutes-streamed-on-youtube">&lt;cite&gt;Summer Wars&lt;/cite&gt; Film's 1st 5 Minutes Streamed on YouTube</news>
+<news datetime="2009-08-11T03:57:00Z" href="http://www.animenewsnetwork.com/news/2009-08-10/japanese-box-office-july-25-26">Japanese Box Office, July 25-26</news>
+<news datetime="2009-08-14T10:55:52Z" href="http://www.animenewsnetwork.com/news/2009-08-14/18m-eva-poster-akemi-takada-sketch-on-charity-auction">18-m &lt;cite&gt;Eva&lt;/cite&gt; Poster, Akemi Takada Sketch on Charity Auction</news>
+<news datetime="2009-08-20T19:01:23Z" href="http://www.animenewsnetwork.com/news/2009-08-20/first-squad-summer-wars-english-subbed-promos-posted">&lt;cite&gt;First Squad, Summer Wars'&lt;/cite&gt; English-Subbed Promos Posted</news>
+<news datetime="2009-08-24T03:57:00Z" href="http://www.animenewsnetwork.com/news/2009-08-23/japanese-box-office-august-1-2">Japanese Box Office, August 1-2</news>
+<news datetime="2009-08-25T13:14:21Z" href="http://www.animenewsnetwork.com/news/2009-08-25/free-evangelion/1.0-screenings-in-texas-and-d.c">Free &lt;cite&gt;Evangelion: 1.0&lt;/cite&gt; Screenings in Texas &amp; D.C.</news>
+<news datetime="2009-08-27T03:57:00Z" href="http://www.animenewsnetwork.com/news/2009-08-26/japanese-box-office-august-8-9">Japanese Box Office, August 8-9</news>
+<news datetime="2009-09-14T20:09:35Z" href="http://www.animenewsnetwork.com/news/2009-09-14/king-of-thorn-film-to-hold-world-premiere-in-spain">&lt;cite&gt;King of Thorn&lt;/cite&gt; Film to Hold World Premiere in Spain</news>
+<news datetime="2009-09-22T03:57:00Z" href="http://www.animenewsnetwork.com/news/2009-09-21/hearjapan-adds-433-live-recordings-of-anime-related-songs">HearJapan Adds 433 Live Recordings of Anime-Related Songs</news>
+<news datetime="2009-09-23T20:12:12Z" href="http://www.animenewsnetwork.com/news/2009-09-23/japanese-animation-blu-ray-disc-ranking-september-7-13">Japanese Animation Blu-ray Disc Ranking, September 7-13</news>
+<news datetime="2009-09-29T22:29:41Z" href="http://www.animenewsnetwork.com/news/2009-09-29/japanese-animation-blu-ray-disc-ranking-september-14-20">Japanese Animation Blu-ray Disc Ranking, September 14-20</news>
+<news datetime="2009-10-01T17:34:21Z" href="http://www.animenewsnetwork.com/news/2009-10-01/japanese-animation-blu-ray-disc-ranking-september-21-27">Japanese Animation Blu-ray Disc Ranking, September 21-27</news>
+<news datetime="2009-10-08T14:12:32Z" href="http://www.animenewsnetwork.com/news/2009-10-08/japanese-animation-blu-ray-disc-ranking-september-28-october-4">Japanese Animation Blu-ray Disc Ranking, September 28-October 4</news>
+<news datetime="2009-10-12T21:22:29Z" href="http://www.animenewsnetwork.com/news/2009-10-12/summer-wars-sky-crawlers-1st-squad-get-asia-pacific-screen-award-nods">&lt;cite&gt;Summer Wars, Sky Crawlers, 1st Squad&lt;/cite&gt; Get Asia Pacific Screen Award Nods</news>
+<news datetime="2009-10-14T18:32:40Z" href="http://www.animenewsnetwork.com/news/2009-10-14/summer-wars-life-size-gundam-statue-win-awards">&lt;cite&gt;Summer Wars&lt;/cite&gt;, Life-Size &lt;cite&gt;Gundam&lt;/cite&gt; Statue Win Awards</news>
+<news datetime="2009-10-15T19:27:00Z" href="http://www.animenewsnetwork.com/news/2009-10-15/upper-deck-licenses-hello-kitty-trading-card-game">Upper Deck Licenses &lt;cite&gt;Hello Kitty&lt;/cite&gt; Trading Card Game</news>
+<news datetime="2009-10-16T16:39:59Z" href="http://www.animenewsnetwork.com/news/2009-10-16/nodame-cantabile/finale-hanamaru-promos-streamed">&lt;cite&gt;Nodame Cantabile: Finale, Hanamaru&lt;/cite&gt; Promos Streamed</news>
+<news datetime="2009-11-02T13:48:28Z" href="http://www.animenewsnetwork.com/news/2009-11-02/eva-metal-gear-creators-judge-twilight-art-contest">&lt;cite&gt;Eva, Metal Gear&lt;/cite&gt; Creators Judge &lt;cite&gt;Twilight&lt;/cite&gt; Art Contest</news>
+<news datetime="2009-11-04T06:39:58Z" href="http://www.animenewsnetwork.com/news/2009-11-04/charity-eva-1.0-showing-in-ny-metropolis-in-dc">Charity &lt;cite&gt;Eva 1.0&lt;/cite&gt; Showing in NY, &lt;cite&gt;Metropolis&lt;/cite&gt; in DC</news>
+<news datetime="2009-11-04T16:38:22Z" href="http://www.animenewsnetwork.com/news/2009-11-04/eva-2.0-musashi-first-squad-to-premiere-in-waterloo">&lt;cite&gt;Eva 2.0, Musashi, First Squad&lt;/cite&gt; to Premiere in Waterloo</news>
+<news datetime="2009-11-05T04:57:00Z" href="http://www.animenewsnetwork.com/news/2009-11-04/japanese-animation-blu-ray-disc-ranking-october-26-november-1">Japanese Animation Blu-ray Disc Ranking, October 26-November 1</news>
+<news datetime="2009-11-12T19:16:41Z" href="http://www.animenewsnetwork.com/news/2009-11-12/eva-1.0-1st-9-minutes-1st-4-dubbed-soul-eater-episodes-online">&lt;cite&gt;Eva 1.0's&lt;/cite&gt; 1st 8 Minutes, 1st 4 Dubbed &lt;cite&gt;Soul Eater&lt;/cite&gt; Episodes Online</news>
+<news datetime="2009-11-13T10:20:54Z" href="http://www.animenewsnetwork.com/news/2009-11-13/eva-2.0-wins-1st-in-animation-at-lyon-asian-film-fest">&lt;cite&gt;Eva 2.0&lt;/cite&gt; Wins 1st in Animation at Lyon Asian Film Fest</news>
+<news datetime="2009-11-13T16:54:31Z" href="http://www.animenewsnetwork.com/news/2009-11-13/hikaru-utada-to-tour-u.s-u.k-in-january-february">Hikaru Utada to Tour U.S., U.K. in January, February</news>
+<news datetime="2009-11-20T05:50:45Z" href="http://www.animenewsnetwork.com/news/2009-11-20/space-battleship-yamato-underpants-for-sale-in-japan">&lt;cite&gt;Space Battleship Yamato&lt;/cite&gt; Underpants for Sale in Japan</news>
+<news datetime="2009-11-27T20:48:40Z" href="http://www.animenewsnetwork.com/news/2009-11-27/official-yamato-sasameki-koto-magazines-to-go-on-sale">Official &lt;cite&gt;Yamato, Sasameki Koto&lt;/cite&gt; Magazines to Go on Sale</news>
+<news datetime="2009-11-29T17:09:23Z" href="http://www.animenewsnetwork.com/news/2009-11-29/japan-animation-blu-ray-disc-ranking-november-16-22">Japan's Animation Blu-ray Disc Ranking, November 16-22</news>
+<news datetime="2009-12-04T17:57:16Z" href="http://www.animenewsnetwork.com/news/2009-12-04/sentai-adds-skull-man-maria-holic-anime-in-february">Sentai Adds &lt;cite&gt;Skull Man, Maria Holic&lt;/cite&gt; Anime in February</news>
+<news datetime="2009-12-07T20:56:01Z" href="http://www.animenewsnetwork.com/news/2009-12-07/japanese-box-office-november-28-29">Japanese Box Office, November 28-29</news>
+<news datetime="2009-12-08T12:58:50Z" href="http://www.animenewsnetwork.com/news/2009-12-08/2-eva-fender-guitars-auctioned-for-17-million-yen">2 &lt;cite&gt;Eva&lt;/cite&gt; Fender Guitars Auctioned for 17 Million Yen</news>
+<news datetime="2009-12-12T06:34:30Z" href="http://www.animenewsnetwork.com/news/2009-12-12/funimation-opens-rin-site-announces-2nd-online-panel">Funimation Opens &lt;cite&gt;Rin&lt;/cite&gt; Site, Announces 2nd Online Panel</news>
+<news datetime="2009-12-13T19:44:15Z" href="http://www.animenewsnetwork.com/news/2009-12-13/bokurano-last-volume-to-bundle-unpublished-spinoff">&lt;cite&gt;Bokurano's&lt;/cite&gt; Last Volume to Bundle Unpublished Spinoff</news>
+<news datetime="2009-12-16T10:12:46Z" href="http://www.animenewsnetwork.com/news/2009-12-16/evangelion-chronicle-magazine-to-re-launch-in-january">&lt;cite&gt;Evangelion Chronicle&lt;/cite&gt; Magazine to Re-Launch in January</news>
+<news datetime="2009-12-19T04:13:05Z" href="http://www.animenewsnetwork.com/news/2009-12-18/eva-2.0-to-premiere-in-uk-on-february-15">&lt;cite&gt;Eva 2.0&lt;/cite&gt; to Premiere in UK on February 15</news>
+<news datetime="2009-12-19T16:22:35Z" href="http://www.animenewsnetwork.com/news/2009-12-19/evangelion-2.0-dvd-has-retakes-in-the-works-for-spring">&lt;cite&gt;Evangelion 2.0&lt;/cite&gt; DVD Has Retakes in the Works for Spring</news>
+<news datetime="2009-12-22T16:40:55Z" href="http://www.animenewsnetwork.com/news/2009-12-22/eva-2.0-summer-wars-win-japan-academy-awards">&lt;cite&gt;Eva 2.0, Summer Wars&lt;/cite&gt; Win Japan Academy Awards</news>
+<news datetime="2009-12-24T21:52:14Z" href="http://www.animenewsnetwork.com/news/2009-12-24/2009-top-selling-blu-ray-discs-in-japan-overall">2009's Top-Selling Blu-ray Discs in Japan (Overall)</news>
+<news datetime="2009-12-26T17:08:23Z" href="http://www.animenewsnetwork.com/news/2009-12-26/2009-top-selling-blu-ray-discs-in-japan-continued">2009's Top-Selling Blu-ray Discs in Japan (Continued)</news>
+<news datetime="2010-01-02T16:40:16Z" href="http://www.animenewsnetwork.com/news/2010-01-02/top-10-anime-business-of-2009-by-animeanime.jp">Top 10 Anime Business News of 2009 by animeanime.jp</news>
+<news datetime="2010-01-03T04:57:00Z" href="http://www.animenewsnetwork.com/news/2010-01-02/2009-top-movies-at-japanese-box-office">2009's Top Movies at Japanese Box Office</news>
+<news datetime="2010-01-04T08:16:05Z" href="http://www.animenewsnetwork.com/news/2010-01-04/2009-top-anime-movies-at-japanese-box-office">2009's Top Anime Movies at Japanese Box Office</news>
+<news datetime="2010-01-05T15:38:09Z" href="http://www.animenewsnetwork.com/news/2010-01-05/manga-to-release-summer-wars-kamui-in-united-kingdom">Manga to Release &lt;cite&gt;Summer Wars, Kamui&lt;/cite&gt; in United Kingdom</news>
+<news datetime="2010-01-06T20:01:34Z" href="http://www.animenewsnetwork.com/news/2010-01-06/funimation-licenses-gainax-flcl-anime">Funimation Adds Gainax, I.G's &lt;cite&gt;FLCL&lt;/cite&gt; Anime on Blu-ray/DVD</news>
+<news datetime="2010-01-07T20:01:36Z" href="http://www.animenewsnetwork.com/news/2010-01-07/crunchyroll-streams-hanamaru-kindergarten-anime">Crunchyroll to Simulcast &lt;cite&gt;Hanamaru Kindergarten&lt;/cite&gt; Anime</news>
+<news datetime="2010-01-11T18:34:29Z" href="http://www.animenewsnetwork.com/news/2010-01-11/nico-nico-douga-launches-dvd-commenting-service">Nico Nico Douga Launches DVD Commenting Service</news>
+<news datetime="2010-01-11T20:46:42Z" href="http://www.animenewsnetwork.com/news/2010-01-11/loveplus-gundam-shaft-win-japan-otaku-awards">&lt;cite&gt;Loveplus&lt;/cite&gt;, 1/1 &lt;cite&gt;Gundam&lt;/cite&gt;, Shaft Win Japan Otaku Awards</news>
+<news datetime="2010-01-20T18:33:43Z" href="http://www.animenewsnetwork.com/news/2010-01-20/yen-to-print-350k-of-twilight-graphic-novel-in-march">Yen to Print 350K of &lt;cite&gt;Twilight&lt;/cite&gt; Graphic Novel in March (Update 2)</news>
+<news datetime="2010-01-29T03:13:30Z" href="http://www.animenewsnetwork.com/news/2010-01-28/ny-intl-children-film-fest-hosts-3-anime-u.s-premieres">NY Int'l Children's Film Fest Hosts 3 Anime's U.S. Premieres</news>
+<news datetime="2010-01-31T18:52:41Z" href="http://www.animenewsnetwork.com/news/2010-01-31/japan-animation-blu-ray-disc-ranking-january-11-17">Japan's Animation Blu-ray Disc Ranking, January 11-17</news>
+<news datetime="2010-02-09T05:00:35Z" href="http://www.animenewsnetwork.com/news/2010-02-09/2-california-exhibits-1-in-nyc-highlight-anime/manga">2 California Exhibits, 1 in NYC Highlight Anime/Manga</news>
+<news datetime="2010-02-02T20:31:10Z" href="http://www.animenewsnetwork.com/news/2010-02-02/bakemonogatari-vol-4-blu-ray-sells-48000-in-1st-week">&lt;cite&gt;Bakemonogatari&lt;/cite&gt; Vol. 4 Blu-ray Sells 48,000 in 1st Week</news>
+<news datetime="2010-02-03T17:29:59Z" href="http://www.animenewsnetwork.com/news/2010-02-03/evangelion-2.22-film-digitally-remastered-dvd-listed">&lt;cite&gt;Evangelion 2.22&lt;/cite&gt; Film's Digitally Mastered DVD Listed (Update 2)</news>
+<news datetime="2010-02-04T21:42:11Z" href="http://www.animenewsnetwork.com/news/2010-02-04/japan-animation-blu-ray-disc-ranking-january-25-31">Japan's Animation Blu-ray Disc Ranking, January 25-31</news>
+<news datetime="2010-02-05T02:26:01Z" href="http://www.animenewsnetwork.com/news/2010-02-04/producer/live-action-evangelion-project-still-active">Producer: Live-Action &lt;cite&gt;Evangelion&lt;/cite&gt; Project Still Active</news>
+<news datetime="2010-02-07T19:43:21Z" href="http://www.animenewsnetwork.com/news/2010-02-07/japan-makes-english-evangelion-tourism-map-poster">Japan Makes English &lt;cite&gt;Evangelion&lt;/cite&gt; Tourism Map, Poster</news>
+<news datetime="2010-02-09T12:59:02Z" href="http://www.animenewsnetwork.com/news/2010-02-09/king-of-thorn-senko-no-night-raid-promos-streamed">&lt;cite&gt;King of Thorn, Senkō no Night Raid&lt;/cite&gt; Promos Streamed</news>
+<news datetime="2010-02-09T18:06:19Z" href="http://www.animenewsnetwork.com/news/2010-02-09/haruhi-film-in-top-10-with-estimated-100-million-yen">&lt;cite&gt;Haruhi&lt;/cite&gt; Film in Top 10 with 89,010,100 yen</news>
+<news datetime="2010-02-10T05:18:30Z" href="http://www.animenewsnetwork.com/news/2010-02-10/evangelion-spandex-bicycle-shorts-for-sale">&lt;cite&gt;Evangelion&lt;/cite&gt; Spandex Bicycle Shorts for Sale</news>
+<news datetime="2010-02-11T08:33:44Z" href="http://www.animenewsnetwork.com/news/2010-02-11/japanese-box-office-february-6-7">Japanese Box Office, February 6-7</news>
+<news datetime="2010-02-12T00:05:37Z" href="http://www.animenewsnetwork.com/news/2010-02-11/mit-to-host-mamoru-hosoda-free-summer-wars-screening">MIT to Host Mamoru Hosoda, Free &lt;cite&gt;Summer Wars&lt;/cite&gt; Screening</news>
+<news datetime="2010-02-12T12:48:20Z" href="http://www.animenewsnetwork.com/news/2010-02-12/japan-animation-blu-ray-disc-ranking-february-1-7">Japan's Animation Blu-ray Disc Ranking, February 1-7</news>
+<news datetime="2010-02-16T01:47:47Z" href="http://www.animenewsnetwork.com/news/2010-02-16/smash-announces-venue-dates-and-guests">SMASH announces Venue, Dates and Guests!</news>
+<news datetime="2010-02-15T21:26:48Z" href="http://www.animenewsnetwork.com/news/2010-02-15/ny-intl-children-film-fest-to-host-director-hosoda">NY Int'l Children's Film Fest to Host Director Hosoda</news>
+<news datetime="2010-02-16T00:04:51Z" href="http://www.animenewsnetwork.com/news/2010-02-15/amazon-jp-gets-88000-eva-2.22-pre-orders">Amazon JP Gets 88,000 &lt;cite&gt;Evangelion 2.22&lt;/cite&gt; BD/DVD Pre-Orders</news>
+<news datetime="2010-02-16T08:42:16Z" href="http://www.animenewsnetwork.com/news/2010-02-16/summer-wars-wins-tokyo-anime-fair-top-award-6-more">&lt;cite&gt;Summer Wars&lt;/cite&gt; Wins Tokyo Anime Fair's Top Award, 6 More</news>
+<news datetime="2010-02-17T18:18:17Z" href="http://www.animenewsnetwork.com/news/2010-02-17/n-carolina-animazement-hosts-utena-saito-chika-sakamoto">N. Carolina's Animazement Hosts &lt;cite&gt;Utena's&lt;/cite&gt; Saito, Chika Sakamoto</news>
+<news datetime="2010-02-18T11:23:38Z" href="http://www.animenewsnetwork.com/news/2010-02-18/ponyo-bakemonogatari-conan-win-japanese-bd-prizes">&lt;cite&gt;Ponyo, Bakemonogatari, Conan&lt;/cite&gt; Win Japanese BD Prizes</news>
+<news datetime="2010-02-20T04:33:36Z" href="http://www.animenewsnetwork.com/news/2010-02-19/sydney-manga-and-anime-show-hosts-actress-yuko-miyamura">Sydney Manga and Anime Show Hosts Actress Yuko Miyamura</news>
+<news datetime="2010-02-22T23:52:01Z" href="http://www.animenewsnetwork.com/news/2010-02-22/couple-arrested-for-swindling-eva-phones-off-auction">Couple Arrested for Swindling &lt;cite&gt;Eva&lt;/cite&gt; Phones off Auction</news>
+<news datetime="2010-02-24T11:00:00Z" href="http://www.animenewsnetwork.com/news/2010-02-24/japan-animation-blu-ray-disc-ranking-february-8-14">Japan's Animation Blu-ray Disc Ranking, February 8-14</news>
+<news datetime="2010-02-26T21:00:00Z" href="http://www.animenewsnetwork.com/news/2010-02-26/angel-beats-eva-1.11-tailenders-videos-streamed">&lt;cite&gt;Angel Beats, Eva 1.11, Tailenders&lt;/cite&gt; Videos Streamed</news>
+<news datetime="2010-02-28T08:00:00Z" href="http://www.animenewsnetwork.com/news/2010-02-28/eva-2.0-summer-wars-to-be-screened-in-dublin-in-march">&lt;cite&gt;Eva 2.0, Summer Wars&lt;/cite&gt; to Be Screened in Dublin in March</news>
+<news datetime="2010-02-27T19:45:33Z" href="http://www.animenewsnetwork.com/news/2010-02-27/funimation-lists-bds-for-guyver-rin-black-cat-more">Funimation Lists BDs for &lt;cite&gt;Guyver, Rin, Black Cat&lt;/cite&gt;, More</news>
+<news datetime="2010-03-02T21:13:59Z" href="http://www.animenewsnetwork.com/news/2010-03-02/japan-animation-blu-ray-disc-ranking-february-15-21">Japan's Animation Blu-ray Disc Ranking, February 15-21</news>
+<news datetime="2010-03-02T22:45:06Z" href="http://www.animenewsnetwork.com/news/2010-03-02/bakemonogatari-vol-5-blu-ray-sells-46000-in-1st-week">&lt;cite&gt;Bakemonogatari&lt;/cite&gt; Vol. 5 Blu-ray Sells 46,000 in 1st Week</news>
+<news datetime="2010-03-05T16:27:24Z" href="http://www.animenewsnetwork.com/news/2010-03-05/summer-wars-wins-japan-academy-animation-of-the-year">&lt;cite&gt;Summer Wars&lt;/cite&gt; Wins Japan Academy's Animation of the Year</news>
+<news datetime="2010-03-07T04:57:00Z" href="http://www.animenewsnetwork.com/news/2010-03-06/japan-animation-blu-ray-disc-ranking-february-22-28">Japan's Animation Blu-ray Disc Ranking, February 22-28</news>
+<news datetime="2010-03-09T19:40:31Z" href="http://www.animenewsnetwork.com/news/2010-03-09/summers-wars-tops-eva-as-no.1-anime-bd-in-1st-week-sales">&lt;cite&gt;Summer Wars&lt;/cite&gt; Tops &lt;cite&gt;Eva&lt;/cite&gt; as #1 Anime BD in 1st-Week Sales</news>
+<news datetime="2010-03-14T20:08:28Z" href="http://www.animenewsnetwork.com/news/2010-03-14/japan-animation-blu-ray-disc-ranking-march-1-7">Japan's Animation Blu-ray Disc Ranking, March 1-7</news>
+<news datetime="2010-03-16T19:58:02Z" href="http://www.animenewsnetwork.com/news/2010-03-16/gundam-uc-1-is-new-no.1-anime-bd-in-1st-week-sales">&lt;cite&gt;Gundam UC 1&lt;/cite&gt; is New #1 Anime BD in 1st-Week Sales</news>
+<news datetime="2010-03-23T04:00:00Z" href="http://www.animenewsnetwork.com/news/2010-03-23/japan-animation-blu-ray-disc-ranking-march-8-14">Japan's Animation Blu-ray Disc Ranking, March 8-14</news>
+<news datetime="2010-03-28T11:08:13Z" href="http://www.animenewsnetwork.com/news/2010-03-28/eva-2.22-bd/dvd-to-be-long-version-with-deleted-scenes">&lt;cite&gt;Eva:2.22&lt;/cite&gt; BD/DVD to Be Long Version with Deleted Scenes</news>
+<news datetime="2010-05-04T03:52:40Z" href="http://www.animenewsnetwork.com/news/2010-05-03/anime-manga-industry-members-interviewed">Anime, Manga Industry Members Interviewed</news>
+<news datetime="2010-03-31T05:38:16Z" href="http://www.animenewsnetwork.com/news/2010-03-31/disney-bandai-aniplex-top-japan-2009-animation-sales">Disney, Bandai, Aniplex Top Japan's 2009 Animation Sales</news>
+<news datetime="2010-04-08T03:44:11Z" href="http://www.animenewsnetwork.com/news/2010-04-07/professor-layton-space-show-to-premiere-in-uk-in-may">&lt;cite&gt;Professor Layton, Space Show&lt;/cite&gt; to Premiere in UK in May</news>
+<news datetime="2010-04-10T03:12:33Z" href="http://www.animenewsnetwork.com/news/2010-04-09/remastered-eva-2.22-gets-screening-in-new-tokyo-iii">Remastered &lt;cite&gt;Eva 2.22&lt;/cite&gt; Gets Screenings in 'New Tokyo-III'</news>
+<news datetime="2010-04-10T21:45:00Z" href="http://www.animenewsnetwork.com/news/2010-04-10/chicago-c2e2-to-screen-both-gurren-lagann-films">Chicago's C2E2 to Screen Both &lt;cite&gt;Gurren Lagann&lt;/cite&gt; Films</news>
+<news datetime="2010-04-12T10:30:34Z" href="http://www.animenewsnetwork.com/news/2010-04-12/nausicaa-bd-confirmed-to-have-multiple-dubs-subs">&lt;cite&gt;Nausicaä&lt;/cite&gt; BD Confirmed to Have Multiple Dubs, Subs</news>
+<news datetime="2010-04-14T19:33:45Z" href="http://www.animenewsnetwork.com/news/2010-04-14/evangelion-sponsors-super-gt300-car-racing-team">&lt;cite&gt;Evangelion&lt;/cite&gt; Co-Sponsors Super GT300 Car Racing Team (Update 2)</news>
+<news datetime="2010-04-15T11:30:00Z" href="http://www.animenewsnetwork.com/news/2010-04-15/afro-samurai-eva/2.22-twin-spica-previews-posted">&lt;cite&gt;Afro Samurai, Eva: 2.22, Twin Spica&lt;/cite&gt; Previews Posted</news>
+<news datetime="2010-04-16T01:36:27Z" href="http://www.animenewsnetwork.com/news/2010-04-15/japan-animation-blu-ray-disc-ranking-march-29-april-4">Japan's Animation Blu-ray Disc Ranking, March 29-April 4</news>
+<news datetime="2010-04-21T10:00:00Z" href="http://www.animenewsnetwork.com/news/2010-04-21/gurren-lagann-iphone-app-lands-in-u.s-eva-apps-planned">&lt;cite&gt;Gurren Lagann&lt;/cite&gt; iPhone App Lands in U.S., &lt;cite&gt;Eva&lt;/cite&gt; Apps Planned</news>
+<news datetime="2010-04-22T14:00:00Z" href="http://www.animenewsnetwork.com/news/2010-04-22/japan-animation-blu-ray-disc-ranking-april-5-11">Japan's Animation Blu-ray Disc Ranking, April 5-11</news>
+<news datetime="2010-04-23T10:24:26Z" href="http://www.animenewsnetwork.com/news/2010-04-23/anison-mate-mag-to-debut-in-may-fanroad-mag-to-return">&lt;cite&gt;AniSon Mate&lt;/cite&gt; Mag to Debut in May, &lt;cite&gt;Fanroad&lt;/cite&gt; Mag to Return</news>
+<news datetime="2010-04-26T10:00:00Z" href="http://www.animenewsnetwork.com/news/2010-04-26/california-fanimecon-hosts-gainax-hiroyuki-yamaga">California's FanimeCon Hosts Gainax's Hiroyuki Yamaga</news>
+<news datetime="2010-04-25T09:32:07Z" href="http://www.animenewsnetwork.com/news/2010-04-25/eva-virtual/real-life-makeover-of-neighborhood-halted">&lt;cite&gt;Eva&lt;/cite&gt; Virtual/Real-Life Makeover of Neighborhood Halted</news>
+<news datetime="2010-04-27T23:39:23Z" href="http://www.animenewsnetwork.com/news/2010-04-27/japan-animation-blu-ray-disc-ranking-april-12-18">Japan's Animation Blu-ray Disc Ranking, April 12-18</news>
+<news datetime="2010-05-01T15:51:47Z" href="http://www.animenewsnetwork.com/news/2010-05-01/evangelion-race-car-team-debuts-with-plug-suit-cosplay">&lt;cite&gt;Evangelion&lt;/cite&gt; Race Car Team Debuts with Plug Suit Cosplay</news>
+<news datetime="2010-05-02T17:30:39Z" href="http://www.animenewsnetwork.com/news/2010-05-02/tokyo-reps/nonexistent-youth-bill-may-still-pass-in-june">Tokyo Reps: 'Nonexistent Youth' Bill May Still Pass in June</news>
+<news datetime="2010-05-03T22:43:30Z" href="http://www.animenewsnetwork.com/news/2010-05-03/evangelion/2.22-film-dvd/bd-pre-orders-top-800000">&lt;cite&gt;Evangelion: 2.22&lt;/cite&gt; Film's DVD/BD Pre-Orders Top 800,000</news>
+<news datetime="2010-05-06T01:00:00Z" href="http://www.animenewsnetwork.com/news/2010-05-05/10th-one-piece-film-summer-wars-to-compete-at-annecy">10th &lt;cite&gt;One Piece&lt;/cite&gt; Film, &lt;cite&gt;Summer Wars&lt;/cite&gt; to Compete at Annecy</news>
+<news datetime="2010-05-09T13:50:13Z" href="http://www.animenewsnetwork.com/news/2010-05-09/japan-animation-blu-ray-disc-ranking-april-26-may-2">Japan's Animation Blu-ray Disc Ranking, April 26-May 2</news>
+<news datetime="2010-05-12T06:39:52Z" href="http://www.animenewsnetwork.com/news/2010-05-12/life-size-evangelion-bust-built-at-foot-of-mt-fuji">Life-Size Evangelion Bust Built Near Foot of Mt. Fuji</news>
+<news datetime="2010-05-14T02:40:00Z" href="http://www.animenewsnetwork.com/news/2010-05-13/japan-animation-blu-ray-disc-ranking-may-3-9">Japan's Animation Blu-ray Disc Ranking, May 3-9</news>
+<news datetime="2010-05-20T11:00:00Z" href="http://www.animenewsnetwork.com/news/2010-05-20/japan-surveyed-on-anime-manga-other-cultural-exports">Japan Surveyed on Anime, Manga, Other Cultural Exports</news>
+<news datetime="2010-05-21T03:14:11Z" href="http://www.animenewsnetwork.com/news/2010-05-20/japan-animation-blu-ray-disc-ranking-may-10-16">Japan's Animation Blu-ray Disc Ranking, May 10-16</news>
+<news datetime="2010-05-23T18:35:50Z" href="http://www.animenewsnetwork.com/news/2010-05-23/manga-uk-indicates-plans-for-eva/2.0-eden-of-the-east">Manga UK Indicates &lt;cite&gt;Eva: 2.0, Eden of the East&lt;/cite&gt; Film Plans</news>
+<news datetime="2010-05-26T17:02:50Z" href="http://www.animenewsnetwork.com/news/2010-05-26/eva/2.22-sells-124000-dvds-195000-bds-on-tuesday">&lt;cite&gt;Eva: 2.22&lt;/cite&gt; Sells 124,000 DVDs, 195,000 BDs on Tuesday</news>
+<news datetime="2010-05-27T15:52:47Z" href="http://www.animenewsnetwork.com/news/2010-05-27/life-size-evangelion-bust-progress-report-no.1-streamed">Life-Size Evangelion Bust's Progress Report #1 Streamed</news>
+<news datetime="2010-06-01T03:57:00Z" href="http://www.animenewsnetwork.com/news/2010-05-31/japan-animation-blu-ray-disc-ranking-may-17-23">Japan's Animation Blu-ray Disc Ranking, May 17-23</news>
+<news datetime="2010-06-01T22:50:36Z" href="http://www.animenewsnetwork.com/news/2010-06-01/eva-2.22-bd-1st-week-tops-this-it-it-sales-to-date">&lt;cite&gt;Eva:2.22&lt;/cite&gt; BD's 1st Week Tops &lt;cite&gt;This Is It's&lt;/cite&gt; Sales to Date</news>
+<news datetime="2010-06-03T21:22:29Z" href="http://www.animenewsnetwork.com/news/2010-06-03/japan-animation-dvd-ranking-may-24-30">Japan's Animation DVD Ranking, May 24-30</news>
+<news datetime="2010-06-07T03:57:00Z" href="http://www.animenewsnetwork.com/news/2010-06-06/politician-cosplays-as-evangelion-gendo-for-election">Politician Cosplays as &lt;cite&gt;Evangelion's&lt;/cite&gt; Gendō for Election</news>
+<news datetime="2010-06-08T19:50:41Z" href="http://www.animenewsnetwork.com/news/2010-06-08/evangelion-2.22-1.11-rank-no.1-no.2-on-weekly-bd-chart">&lt;cite&gt;Evangelion 2.22, 1.11&lt;/cite&gt; Rank #1, #2 on Weekly BD Chart</news>
+<news datetime="2010-06-09T02:24:41Z" href="http://www.animenewsnetwork.com/news/2010-06-08/japan-animation-dvd-ranking-may-31-june-6">Japan's Animation DVD Ranking, May 31-June 6</news>
+<news datetime="2010-06-14T02:19:52Z" href="http://www.animenewsnetwork.com/news/2010-06-13/japan-animation-blu-ray-disc-ranking-may-31-june-6">Japan's Animation Blu-ray Disc Ranking, May 31-June 6</news>
+<news datetime="2010-06-14T19:51:23Z" href="http://www.animenewsnetwork.com/news/2010-06-14/moyashimon-sekirei-evangelion-redline-videos-posted">&lt;cite&gt;Moyashimon, Sekirei, Evangelion, Redline&lt;/cite&gt; Videos Posted</news>
+<news datetime="2010-06-15T04:07:59Z" href="http://www.animenewsnetwork.com/news/2010-06-15/over-1-million-evangelion-2.22-bds/dvds-shipped">Over 1 Million &lt;cite&gt;Evangelion:2.22&lt;/cite&gt; BDs/DVDs Shipped</news>
+<news datetime="2010-06-16T02:21:25Z" href="http://www.animenewsnetwork.com/news/2010-06-15/japan-animation-dvd-ranking-june-7-13">Japan's Animation DVD Ranking, June 7-13</news>
+<news datetime="2010-06-16T09:37:05Z" href="http://www.animenewsnetwork.com/news/2010-06-16/evangelion-2.22-is-japan-no.1-bd-for-3rd-week-in-a-row">&lt;em&gt;Evangelion:2.22&lt;/em&gt; is Japan's #1 BD for 3rd Week in a Row</news>
+<news datetime="2010-06-20T20:17:34Z" href="http://www.animenewsnetwork.com/news/2010-06-20/japan-animation-blu-ray-disc-ranking-june-7-13">Japan's Animation Blu-ray Disc Ranking, June 7-13</news>
+<news datetime="2010-06-23T02:47:42Z" href="http://www.animenewsnetwork.com/news/2010-06-22/japan-animation-dvd-ranking-june-14-20">Japan's Animation DVD Ranking, June 14-20</news>
+<news datetime="2010-06-23T19:20:42Z" href="http://www.animenewsnetwork.com/news/2010-06-23/eva-2-is-no.1-bd-in-4th-week-angel-beats-sells-15k+on-1st-day">&lt;cite&gt;Eva:2&lt;/cite&gt; is #1 BD in 4th Week, &lt;cite&gt;Angel Beats&lt;/cite&gt; Sells 15K+ on 1st Day</news>
+<news datetime="2010-06-24T23:01:19Z" href="http://www.animenewsnetwork.com/news/2010-06-24/top-selling-animation-dvds/bds-in-japan/1st-half-of-2010">Top-Selling Animation DVDs/BDs in Japan: 1st Half of 2010</news>
+<news datetime="2010-06-29T03:57:00Z" href="http://www.animenewsnetwork.com/news/2010-06-28/japan-animation-blu-ray-disc-ranking-june-14-20">Japan's Animation Blu-ray Disc Ranking, June 14-20</news>
+<news datetime="2010-06-30T00:48:58Z" href="http://www.animenewsnetwork.com/news/2010-06-29/eva-voice-actress-megumi-ogata-to-perform-at-cnanime">&lt;cite&gt;Eva&lt;/cite&gt; Voice Actress Megumi Ogata to Perform at CNAnime</news>
+<news datetime="2010-06-30T03:41:40Z" href="http://www.animenewsnetwork.com/news/2010-06-29/japan-animation-dvd-ranking-june-21-27">Japan's Animation DVD Ranking, June 21-27</news>
+<news datetime="2010-06-30T02:16:17Z" href="http://www.animenewsnetwork.com/news/2010-06-29/angel-beats-no.1-sells-23000-to-top-weekly-bd-chart">&lt;cite&gt;Angel Beats!&lt;/cite&gt; #1 Sells 23,000 to Top Weekly BD Chart</news>
+<news datetime="2010-06-30T05:18:02Z" href="http://www.animenewsnetwork.com/news/2010-06-30/evangelion-racing-motorcycle-to-compete-in-july">&lt;cite&gt;Evangelion&lt;/cite&gt; Racing Motorcycle to Compete in July</news>
+<news datetime="2010-07-06T01:15:21Z" href="http://www.animenewsnetwork.com/news/2010-07-05/colorful-arrietty-stitch-evangelion-promos-streamed">&lt;cite&gt;Colorful, Arrietty, Stitch, Evangelion&lt;/cite&gt; Promos Streamed</news>
+<news datetime="2010-07-06T03:39:49Z" href="http://www.animenewsnetwork.com/news/2010-07-05/japan-animation-blu-ray-disc-ranking-june-21-27">Japan's Animation Blu-ray Disc Ranking, June 21-27</news>
+<news datetime="2010-07-07T02:24:30Z" href="http://www.animenewsnetwork.com/news/2010-07-06/japan-animation-dvd-ranking-june-28-july-4">Japan's Animation DVD Ranking, June 28-July 4</news>
+<news datetime="2010-07-08T01:07:46Z" href="http://www.animenewsnetwork.com/news/2010-07-07/earthsea-kaminomi-umasou-evangelion-promos-streamed">&lt;cite&gt;Earthsea, KamiNomi, Umasou, Evangelion&lt;/cite&gt; Promos Streamed</news>
+<news datetime="2010-07-11T03:59:00Z" href="http://www.animenewsnetwork.com/news/2010-07-10/japan-animation-blu-ray-disc-ranking-june-28-july-4">Japan's Animation Blu-ray Disc Ranking, June 28-July 4</news>
+<news datetime="2010-07-14T02:48:08Z" href="http://www.animenewsnetwork.com/news/2010-07-13/japan-animation-dvd-ranking-july-5-11">Japan's Animation DVD Ranking, July 5-11</news>
+<news datetime="2010-07-15T11:48:06Z" href="http://www.animenewsnetwork.com/news/2010-07-15/life-size-evangelion-bust-grand-opening-streamed-live">Life-Size Evangelion Bust's Grand Opening to Be Streamed Live</news>
+<news datetime="2010-07-26T02:48:03Z" href="http://www.animenewsnetwork.com/news/2010-07-25/japanese-english-actresses-at-australian-eva-2-debut">Japanese, English Actresses at Australian &lt;cite&gt;Eva 2&lt;/cite&gt; Debut</news>
+<news datetime="2010-07-18T03:57:00Z" href="http://www.animenewsnetwork.com/news/2010-07-17/japan-animation-blu-ray-disc-ranking-july-5-11">Japan's Animation Blu-ray Disc Ranking, July 5-11</news>
+<news datetime="2010-07-22T22:34:51Z" href="http://www.animenewsnetwork.com/news/2010-07-22/life-size-evangelion-bust-grand-opening-streamed-live">Life-Size &lt;cite&gt;Evangelion&lt;/cite&gt; Bust's Grand Opening Streamed Live</news>
+<news datetime="2010-07-26T20:15:22Z" href="http://www.animenewsnetwork.com/news/2010-07-26/japan-animation-dvd-ranking-july-5-11">Japan's Animation DVD Ranking, July 5-11</news>
+<news datetime="2010-07-27T16:00:00Z" href="http://www.animenewsnetwork.com/news/2010-07-27/japan-animation-blu-ray-disc-ranking-july-12-18">Japan's Animation Blu-ray Disc Ranking, July 12-18</news>
+<news datetime="2010-07-30T22:40:14Z" href="http://www.animenewsnetwork.com/news/2010-07-30/funimation-adds-eva-2.0-hetalia-film-summer-wars">Funimation Adds &lt;cite&gt;Eva 2.0, Hetalia&lt;/cite&gt; Film, &lt;cite&gt;Summer Wars&lt;/cite&gt;</news>
+<news datetime="2010-08-01T23:21:54Z" href="http://www.animenewsnetwork.com/news/2010-08-02/smash-countdown-five-days-to-go">SMASH countdown - five days to go!</news>
+<news datetime="2010-08-09T03:57:00Z" href="http://www.animenewsnetwork.com/news/2010-08-08/japan-animation-blu-ray-disc-ranking-july-26-august-1">Japan's Animation Blu-ray Disc Ranking, July 26-August 1</news>
+<news datetime="2010-08-09T14:35:18Z" href="http://www.animenewsnetwork.com/news/2010-08-09/singer-hikaru-utada-to-go-on-indefinite-break-in-2011">Singer Hikaru Utada to Go on Indefinite Break in 2011</news>
+<news datetime="2010-08-18T02:19:56Z" href="http://www.animenewsnetwork.com/news/2010-08-17/japan-animation-dvd-ranking-august-9-15">Japan's Animation DVD Ranking, August 9-15</news>
+<news datetime="2010-08-21T00:59:13Z" href="http://www.animenewsnetwork.com/news/2010-08-21/report/domestic/intl-animation-market-in-japan-grew-1.6-percent-in-09">Report: Domestic/Int'l Animation Market in Japan Grew 1.6% in '09</news>
+<news datetime="2010-08-22T03:57:00Z" href="http://www.animenewsnetwork.com/news/2010-08-21/japan-animation-blu-ray-disc-ranking-august-9-15">Japan's Animation Blu-ray Disc Ranking, August 9-15</news>
+<news datetime="2010-08-23T03:04:20Z" href="http://www.animenewsnetwork.com/news/2010-08-22/japan-animation-tv-ranking-august-2-8">Japan's Animation TV Ranking, August 2-8</news>
+<news datetime="2010-08-29T03:15:39Z" href="http://www.animenewsnetwork.com/news/2010-08-28/japan-animation-blu-ray-disc-ranking-august-16-22">Japan's Animation Blu-ray Disc Ranking, August 16-22</news>
+<news datetime="2010-09-01T04:16:27Z" href="http://www.animenewsnetwork.com/news/2010-09-01/go-nagai-dororon-enma-kun-gets-new-anime">Go Nagai's &lt;cite&gt;Dororon Enma-kun&lt;/cite&gt; Gets New Anime</news>
+<news datetime="2010-09-11T02:54:18Z" href="http://www.animenewsnetwork.com/news/2010-09-10/japan-animation-blu-ray-disc-ranking-august-30-september-5">Japan's Animation Blu-ray Disc Ranking, August 30-September 5</news>
+<news datetime="2010-10-22T13:04:00Z" href="http://www.animenewsnetwork.com/news/2010-10-22/au-gold-coast-fest-hosts-voice-actress-yuko-miyamura">AU's Gold Coast Fest Hosts Voice Actress Yuko Miyamura</news>
+<news datetime="2010-10-24T04:04:59Z" href="http://www.animenewsnetwork.com/news/2010-10-24/japan-animation-blu-ray-disc-ranking-october-11-17">Japan's Animation Blu-ray Disc Ranking, October 11-17</news>
+<news datetime="2010-10-26T05:46:11Z" href="http://www.animenewsnetwork.com/news/2010-10-26/appleseed-xiii-anime-series-image-details-released">&lt;em&gt;Appleseed XIII&lt;/em&gt; Anime Series' Image, Details Released (Update 2)</news>
+<news datetime="2010-11-01T14:34:15Z" href="http://www.animenewsnetwork.com/news/2010-11-01/funimation-to-submit-summer-wars-for-oscar-nomination">Funimation to Submit &lt;cite&gt;Summer Wars&lt;/cite&gt; for Oscar Nomination</news>
+<news datetime="2010-11-14T13:07:55Z" href="http://www.animenewsnetwork.com/news/2010-11-15/summer-wars-submitted-for-oscar-nominations">&lt;cite&gt;Summer Wars&lt;/cite&gt; Submitted for Oscar Nominations</news>
+<news datetime="2010-11-22T09:17:52Z" href="http://www.animenewsnetwork.com/news/2010-11-22/nausicaa-moribito-eden-of-the-east-other-u.s-bds-dated">&lt;cite&gt;Nausicaa, Moribito, Eden of the East,&lt;/cite&gt; Other U.S. BDs Dated</news>
+<news datetime="2010-11-23T04:56:52Z" href="http://www.animenewsnetwork.com/news/2010-11-22/eva-2.0-n-american-theatrical-run-dated-for-january">&lt;cite&gt;Eva:2.0's &lt;/cite&gt; N. American Theatrical Run Dated for January</news>
+<news datetime="2010-12-06T21:38:30Z" href="http://www.animenewsnetwork.com/news/2010-12-06/smap-shingo-katori-kouichi-yamadera-in-friends-3d-anime">Smap's Shingo Katori, &lt;cite&gt;Bebop's&lt;/cite&gt; Yamadera in &lt;cite&gt;Friends&lt;/cite&gt; 3D Anime</news>
+<news datetime="2010-12-11T02:35:28Z" href="http://www.animenewsnetwork.com/news/2010-12-10/evangelion/2.0-canadian-run-dated-for-january-20">&lt;cite&gt;Evangelion: 2.0's&lt;/cite&gt; Canadian Run Dated for January 20</news>
+<news datetime="2010-12-11T02:34:00Z" href="http://www.animenewsnetwork.com/news/2010-12-11/tokyo-youth-ordinance-bill-committee-vote-on-monday">Tokyo's Youth Ordinance Bill Committee Vote on Monday</news>
+<news datetime="2010-12-14T00:04:59Z" href="http://www.animenewsnetwork.com/news/2010-12-13/1st-live-action-gantz-film-u.s-theaters-listed">1st Live-Action &lt;cite&gt;Gantz&lt;/cite&gt; Film's U.S. Theaters Listed</news>
+<news datetime="2010-12-14T18:51:51Z" href="http://www.animenewsnetwork.com/news/2010-12-14/verizon-fios-adds-the-anime-network-channel">Verizon FiOS Adds The Anime Network Channel</news>
+<news datetime="2010-12-17T22:43:57Z" href="http://www.animenewsnetwork.com/news/2010-12-17/manga-uk-to-release-eva-2.22-dvd/bd-by-end-of-june">Manga UK to Release &lt;cite&gt;Eva:2.22&lt;/cite&gt; DVD/BD by End of June</news>
+<news datetime="2010-12-20T02:13:34Z" href="http://www.animenewsnetwork.com/news/2010-12-19/top-selling-animation-dvds-in-japan/2010">Top-Selling Animation DVDs in Japan: 2010</news>
+<news datetime="2010-12-22T20:53:35Z" href="http://www.animenewsnetwork.com/news/2010-12-22/top-selling-animation-blu-ray-discs-in-japan/2010-part-1">Top-Selling Animation Blu-ray Discs in Japan: 2010 (Part 1, Updated)</news>
+<news datetime="2010-12-28T01:50:36Z" href="http://www.animenewsnetwork.com/news/2010-12-27/eva/2.0-english-asuka-mari-kaji-casted">&lt;cite&gt;Eva: 2.0's&lt;/cite&gt; English Asuka, Mari, Kaji Cast</news>
+<news datetime="2010-12-29T08:56:50Z" href="http://www.animenewsnetwork.com/news/2010-12-29/kyojin-no-hoshi-kawasaki-refuses-tokyo-anime-award">&lt;cite&gt;Kyojin no Hoshi's&lt;/cite&gt; Kawasaki Refuses Tokyo Anime Award</news>
+<news datetime="2011-01-05T02:58:35Z" href="http://www.animenewsnetwork.com/news/2011-01-04/funi-works-put-on-vod-with-eva-2.0-on-vod-before-dvd/bd">Funi Works Put on VOD with &lt;cite&gt;Eva 2.0&lt;/cite&gt; on VOD Before DVD/BD</news>
+<news datetime="2011-01-06T02:48:43Z" href="http://www.animenewsnetwork.com/news/2011-01-05/eva-2.0-adds-more-theaters-in-s-california-dallas">&lt;cite&gt;Eva 2.0&lt;/cite&gt; Adds More Theaters in S. California, Dallas</news>
+<news datetime="2011-01-14T04:10:29Z" href="http://www.animenewsnetwork.com/news/2011-01-13/chicago-comic-and-entertainment-expo-to-show-eva/1.11-2.22">Chicago Comic &amp; Entertainment Expo to Show &lt;cite&gt;Eva: 1.11, 2.22&lt;/cite&gt;</news>
+<news datetime="2011-01-14T15:20:41Z" href="http://www.animenewsnetwork.com/news/2011-01-14/18-arrested-in-japan-for-uploading-via-share-program">18 Arrested in Japan for Uploading via Share Program</news>
+<news datetime="2011-01-30T17:01:00Z" href="http://www.animenewsnetwork.com/news/2011-01-30/blue-exorcist-eva-2.22-k-on-durarara-promos-streamed">&lt;cite&gt;Blue Exorcist, Eva 2.22, K-ON, Durarara&lt;/cite&gt; Promos Streamed</news>
+<news datetime="2011-02-06T16:13:25Z" href="http://www.animenewsnetwork.com/news/2011-02-06/fireball-charming-english-eva/2.22-promos-streamed">&lt;cite&gt;Fireball Charming&lt;/cite&gt;, English &lt;cite&gt;Eva: 2.22&lt;/cite&gt; Promos Streamed</news>
+<news datetime="2011-02-10T23:27:56Z" href="http://www.animenewsnetwork.com/news/2011-02-10/tiger-mask-manga/anime-gets-live-action-film-in-2011">&lt;cite&gt;Tiger Mask&lt;/cite&gt; Manga/Anime Gets Live-Action Film in 2011</news>
+<news datetime="2011-02-12T03:27:13Z" href="http://www.animenewsnetwork.com/news/2011-02-11/eva-2.0-opens-in-minnesota-boston-detroit-pittsburgh">&lt;cite&gt;Eva 2.0&lt;/cite&gt; Opens in Minnesota, Boston, Detroit, Pittsburgh</news>
+<news datetime="2011-02-15T15:57:20Z" href="http://www.animenewsnetwork.com/news/2011-02-15/onigamiden-bandai-funimation-promo-videos-streamed">&lt;cite&gt;Onigamiden&lt;/cite&gt;, Bandai, Funimation Promo Videos Streamed</news>
+<news datetime="2011-03-01T12:51:46Z" href="http://www.animenewsnetwork.com/news/2011-03-01/new-look-manga-site-with-articles-plus-dvd-images">New Manga Blog, plus DVD Images</news>
+<news datetime="2011-03-02T11:57:41Z" href="http://www.animenewsnetwork.com/news/2011-03-02/sadamoto-evangelion-manga-to-resume-in-april">Sadamoto's &lt;cite&gt;Evangelion&lt;/cite&gt; Manga to Resume in April</news>
+<news datetime="2011-03-07T23:55:54Z" href="http://www.animenewsnetwork.com/news/2011-03-07/eva-2.0-tekkonkinkreet-to-be-screened-in-atlanta">&lt;cite&gt;Eva 2.0&lt;/cite&gt;, &lt;cite&gt;Tekkonkinkreet&lt;/cite&gt; to Be Screened in Atlanta</news>
+<news datetime="2011-03-11T11:33:53Z" href="http://www.animenewsnetwork.com/news/2011-03-11/anime/manga/game-events-cancelled-after-march-11-quake">Anime/Manga/Game Events Cancelled After March 11 Quake</news>
+<news datetime="2011-03-29T14:37:03Z" href="http://www.animenewsnetwork.com/news/2011-03-30/japan-foundation-sydney-hosting-japan/kingdom-of-characters-exhibit">Japan Foundation Sydney hosting Japan: Kingdom of Characters exhibit</news>
+<news datetime="2011-03-30T17:03:46Z" href="http://www.animenewsnetwork.com/news/2011-03-31/madman-announces-supanova-brisbane-evangelion-2.22-premiere">Madman announces Supanova Brisbane's Evangelion 2.22 Premiere</news>
+<news datetime="2011-04-18T12:30:00Z" href="http://www.animenewsnetwork.com/news/2011-04-18/evangelion/2.22-bd-ranks-no.10-in-1st-week-in-u.s">&lt;cite&gt;Evangelion: 2.22&lt;/cite&gt; BD Ranks #10 in 1st Week in U.S.</news>
+<news datetime="2011-04-18T18:00:00Z" href="http://www.animenewsnetwork.com/news/2011-04-18/animazement-hosts-satoshi-kon-widow-and-madhouse-head">Animazement Hosts Satoshi Kon's Widow &amp; Madhouse Head</news>
+<news datetime="2011-04-25T15:45:00Z" href="http://www.animenewsnetwork.com/news/2011-04-25/to-aru-hikushi-e-no-tsuioku-priest-promos-streamed">&lt;cite&gt;To Aru Hikūshi e no Tsuioku, Priest&lt;/cite&gt; Promos Streamed</news>
+<news datetime="2011-04-28T00:30:00Z" href="http://www.animenewsnetwork.com/news/2011-04-27/fanimecon-to-host-petit-eva-designer-ryusuke-hamamoto">FanimeCon to Host &lt;cite&gt;Petit Eva&lt;/cite&gt; Designer Ryusuke Hamamoto</news>
+<news datetime="2011-04-28T22:00:00Z" href="http://www.animenewsnetwork.com/news/2011-04-28/california-fanime-hosts-fma/gundam-00-seiji-mizushima">California's Fanime Hosts &lt;cite&gt;FMA/Gundam 00's&lt;/cite&gt; Seiji Mizushima</news>
+<news datetime="2011-04-29T07:00:00Z" href="http://www.animenewsnetwork.com/news/2011-04-29/california-kintoki-con-hosts-ryu-moto-an-cafe-teruki">California's Kintoki-Con Hosts Ryu Moto, An Café's Teruki</news>
+<news datetime="2011-04-29T21:45:00Z" href="http://www.animenewsnetwork.com/news/2011-04-29/california-fanime-to-host-trigun-designer-takahiro-yoshimatsu">California's Fanime to Host &lt;cite&gt;Trigun&lt;/cite&gt; Designer Takahiro Yoshimatsu</news>
+<news datetime="2011-05-02T14:45:16Z" href="http://www.animenewsnetwork.com/news/2011-05-03/anime-guests-to-also-attend-supanova-sydney-and-perth">Anime guests to also attend Supanova Sydney and Perth</news>
+<news datetime="2011-05-03T16:38:43Z" href="http://www.animenewsnetwork.com/news/2011-05-04/madman-vampire-knight-fanart-competition-winners-announced">Madman's Vampire Knight fanart competition winners announced</news>
+<news datetime="2011-05-04T13:00:00Z" href="http://www.animenewsnetwork.com/news/2011-05-04/black-rock-shooter-gets-manga-in-young-ace-this-june">&lt;cite&gt;Black Rock Shooter&lt;/cite&gt; Gets Manga in &lt;cite&gt;Young Ace&lt;/cite&gt; This June</news>
+<news datetime="2011-05-05T06:45:00Z" href="http://www.animenewsnetwork.com/news/2011-05-05/california-fanime-to-host-voice-actor-tohru-furuya">California's Fanime to Host Voice Actor Tohru Furuya</news>
+<news datetime="2011-05-08T00:30:00Z" href="http://www.animenewsnetwork.com/news/2011-05-07/sunrise-horizon-takashi-yamazaki-friends-promos-streamed">Sunrise's &lt;cite&gt;Horizon&lt;/cite&gt;, Takashi Yamazaki's &lt;cite&gt;Friends&lt;/cite&gt; Promos Streamed</news>
+<news datetime="2011-05-10T23:30:00Z" href="http://www.animenewsnetwork.com/news/2011-05-10/california-fanime-hosts-hiroyuki-yamaga-halko-momoi">California's Fanime Hosts Hiroyuki Yamaga, Halko Momoi</news>
+<news datetime="2011-05-11T07:30:00Z" href="http://www.animenewsnetwork.com/news/2011-05-11/digital-frontier-animates-tekken-3d-cg-anime-film">Digital Frontier Animates 1st &lt;cite&gt;Tekken&lt;/cite&gt; 3D CG Anime Film</news>
+<news datetime="2011-05-25T15:15:00Z" href="http://www.animenewsnetwork.com/news/2011-05-25/songs-from-evangelion-other-anime-win-jasrac-awards">Songs From &lt;cite&gt;Evangelion,&lt;/cite&gt; Other Anime Win JASRAC Awards</news>
+<news datetime="2011-06-07T15:00:00Z" href="http://www.animenewsnetwork.com/news/2011-06-07/tekken/blood-vengeance-to-run-in-u.s-theaters-in-3d">&lt;cite&gt;Tekken: Blood Vengeance&lt;/cite&gt; to Run in U.S. Theaters in 3D</news>
+<news datetime="2011-06-09T11:10:20Z" href="http://www.animenewsnetwork.com/news/2011-06-09/we-love-anime-in-dundee-friday-to-sunday">We Love Anime In Dundee Friday to Sunday</news>
+<news datetime="2011-06-10T01:30:00Z" href="http://www.animenewsnetwork.com/news/2011-06-09/anime-expo-to-host-director-seiji-mizushima">Anime Expo to Host Director Seiji Mizushima</news>
+<news datetime="2011-06-16T14:06:00Z" href="http://www.animenewsnetwork.com/news/2011-06-17/supanova-sydney-this-weekend">Supanova Sydney This Weekend</news>
+<news datetime="2011-06-17T11:30:00Z" href="http://www.animenewsnetwork.com/news/2011-06-17/japanese-govt-prints-english-map-to-anime-locales">Japanese Gov't Prints English Map to Anime Locales</news>
+<news datetime="2011-06-19T20:30:00Z" href="http://www.animenewsnetwork.com/news/2011-06-20/weekly-wrapup-12/jun-18/jun">Weekly Wrapup  12/Jun - 18/Jun</news>
+<news datetime="2011-06-19T22:40:49Z" href="http://www.animenewsnetwork.com/news/2011-06-19/evangelion-2.22-debuts-on-dvd/br">&lt;cite&gt;Evangelion 2.22&lt;/cite&gt; Debuts on DVD/BR</news>
+<news datetime="2011-06-23T23:15:00Z" href="http://www.animenewsnetwork.com/news/2011-06-23/petit-eva-designer-ryusuke-hamamoto-launches-new-manga">&lt;cite&gt;Petit Eva&lt;/cite&gt; Designer Ryusuke Hamamoto Launches New Manga</news>
+<news datetime="2011-07-28T07:00:39Z" href="http://www.animenewsnetwork.com/news/2011-07-28/science-fiction-novelist-sakyo-komatsu-passes-away">Science-Fiction Novelist Sakyo Komatsu Passes Away</news>
+<news datetime="2011-07-30T09:16:45Z" href="http://www.animenewsnetwork.com/news/2011-07-30/tekken-blood-vengeance-coming-to-u.k-cinemas-dvd-and-br">Tekken Blood Vengeance Coming to U.K. Cinemas, DVD and BR.</news>
+<news datetime="2011-08-05T16:00:50Z" href="http://www.animenewsnetwork.com/news/2011-08-05/to-aru-hikushi-e-no-tsuioku-anime-film-trailer-posted">&lt;cite&gt;To Aru Hikūshi e no Tsuioku&lt;/cite&gt; Anime Film Trailer Posted</news>
+<news datetime="2011-08-14T16:11:21Z" href="http://www.animenewsnetwork.com/news/2011-08-15/weekend-wrapup/7/aug-13/aug">Weekend Wrapup: 7/Aug - 13/Aug</news>
+<news datetime="2011-08-13T01:00:16Z" href="http://www.animenewsnetwork.com/news/2011-08-12/adv-sues-gainax-over-live-action-evangelion-option">ADV Sues Gainax Over Live-Action &lt;cite&gt;Evangelion&lt;/cite&gt; Option</news>
+<news datetime="2011-08-16T03:57:00Z" href="http://www.animenewsnetwork.com/news/2011-08-15/viz-releases-evangelion-manga-on-site-in-ios-app">Viz Releases &lt;cite&gt;Evangelion&lt;/cite&gt; Manga on Site, in iOS App</news>
+<news datetime="2011-08-22T15:30:00Z" href="http://www.animenewsnetwork.com/news/2011-08-22/new-eva-films-khara-animates-virtual-duo-meaw-video">New &lt;cite&gt;Eva&lt;/cite&gt; Films' Khara Animates Virtual Duo Meaw's Video</news>
+<news datetime="2011-08-26T14:01:15Z" href="http://www.animenewsnetwork.com/news/2011-08-26/3rd-evangelion-remake-film-to-open-fall-2012">3rd &lt;cite&gt;Evangelion&lt;/cite&gt; Remake Film to Open Fall 2012</news>
+<news datetime="2011-08-29T04:00:00Z" href="http://www.animenewsnetwork.com/news/2011-08-29/evangelion/2.0-film-tv-debut-garners-13.1-rating">&lt;cite&gt;Evangelion: 2.0&lt;/cite&gt; Film's TV Debut Garners 13.1 Rating</news>
+<news datetime="2011-09-05T02:57:00Z" href="http://www.animenewsnetwork.com/news/2011-09-04/japan-animation-tv-ranking-august-22-28">Japan's Animation TV Ranking, August 22-28</news>
+<news datetime="2011-09-19T11:00:43Z" href="http://www.animenewsnetwork.com/news/2011-09-19/to-aru-hikushi-e-no-tsuioku-1st-12-minutes-streamed">&lt;cite&gt;To Aru Hikūshi e no Tsuioku's&lt;/cite&gt; 1st 12 Minutes Streamed</news>
+<news datetime="2011-09-19T22:42:29Z" href="http://www.animenewsnetwork.com/news/2011-09-19/friends/mononoke-shima-no-naki-film-promos-streamed">&lt;cite&gt;Friends: Mononoke Shima no Naki&lt;/cite&gt; Film's Promos Streamed</news>
+<news datetime="2011-10-13T23:46:37Z" href="http://www.animenewsnetwork.com/news/2011-10-13/kami-voice-film-to-have-anime-sequence-by-production-i.g">&lt;cite&gt;Kami Voice&lt;/cite&gt; Film to Have Anime Sequence by Production I.G</news>
+<news datetime="2011-10-17T20:00:39Z" href="http://www.animenewsnetwork.com/news/2011-10-17/shoji-kawamori-anohana-okada-macross-f-satelight-make-akb48-anime">Shoji Kawamori, &lt;cite&gt;Anohana's&lt;/cite&gt; Okada, &lt;cite&gt;Macross F's&lt;/cite&gt; Satelight Make AKB48 Anime</news>
+<news datetime="2011-10-31T11:45:00Z" href="http://www.animenewsnetwork.com/news/2011-10-31/madoka-magica-nominated-for-nihon-sf-taisho-award">&lt;cite&gt;Madoka Magica&lt;/cite&gt; Nominated for Nihon SF Taishō Award</news>
+<news datetime="2011-11-09T16:45:37Z" href="http://www.animenewsnetwork.com/news/2011-11-09/canada-waterloo-shows-madhouse-recollections-of-a-certain-pilot">Canada's Waterloo Shows Madhouse's &lt;cite&gt;Recollections of a Certain Pilot&lt;/cite&gt;</news>
+<news datetime="2011-11-30T02:54:06Z" href="http://www.animenewsnetwork.com/news/2011-11-29/u.s-evangelion-tv-dvd-release-going-out-of-print">U.S. &lt;cite&gt;Evangelion&lt;/cite&gt; TV DVD Release Going Out of Print</news>
+<news datetime="2011-12-08T19:00:00Z" href="http://www.animenewsnetwork.com/news/2011-12-08/the-princess-and-the-pilot-9-minute-digest-streamed">&lt;cite&gt;The Princess and the Pilot's&lt;/cite&gt; 9-Minute Digest Streamed</news>
+<news datetime="2011-12-12T04:30:54Z" href="http://www.animenewsnetwork.com/news/2011-12-11/karyu-no-miya-wins-japanese-sci-fi-award-over-madoka-magica">&lt;cite&gt;Karyu no Miya&lt;/cite&gt; Wins Japanese Sci-Fi Award Over &lt;cite&gt;Madoka Magica&lt;/cite&gt;</news>
+<news datetime="2011-12-22T01:54:11Z" href="http://www.animenewsnetwork.com/news/2011-12-22/manga-entertainment-top-anime-sellers-of-2011">Manga Entertainment's Top Anime Sellers of 2011</news>
+<news datetime="2012-01-02T23:00:00Z" href="http://www.animenewsnetwork.com/news/2012-01-02/japanese-box-office-december-17-18">Japanese Box Office, December 17-18</news>
+<news datetime="2011-12-31T15:45:48Z" href="http://www.animenewsnetwork.com/news/2011-12-31/final-evangelion-remake-film-to-open-in-2013">Final &lt;cite&gt;Evangelion&lt;/cite&gt; Remake Film to Open in 2013</news>
+<news datetime="2012-01-04T20:26:54Z" href="http://www.animenewsnetwork.com/news/2012-01-04/manga-confirms-release-dates-for-tekken/blood-vengeance-fairy-tail-mardock-scramble">Manga Confirms Release Dates for &lt;i&gt;Tekken: Blood Vengeance&lt;/i&gt;, &lt;i&gt;Fairy Tail&lt;/i&gt;, &lt;i&gt;Mardock Scramble&lt;/i&gt;</news>
+<news datetime="2012-01-09T03:00:25Z" href="http://www.animenewsnetwork.com/news/2012-01-08/japanese-box-office-december-24-25">Japanese Box Office, December 24-25</news>
+<news datetime="2012-01-10T18:35:00Z" href="http://www.animenewsnetwork.com/news/2012-01-10/top-selling-anime-films-in-u.k-2011">Top Selling Anime Films in U.K. 2011</news>
+<news datetime="2012-01-16T01:05:00Z" href="http://www.animenewsnetwork.com/news/2012-01-15/japanese-box-office-december-31-january-1">Japanese Box Office, December 31-January 1</news>
+<news datetime="2012-01-16T23:30:00Z" href="http://www.animenewsnetwork.com/news/2012-01-16/japanese-box-office-january-7-8">Japanese Box Office, January 7-8</news>
+<news datetime="2012-01-21T21:00:00Z" href="http://www.animenewsnetwork.com/news/2012-01-21/cloth-road-okama-to-launch-tail-star-manga">&lt;cite&gt;Cloth Road's&lt;/cite&gt; okama to Launch &lt;cite&gt;Tail Star&lt;/cite&gt; Manga</news>
+<news datetime="2012-01-23T03:05:47Z" href="http://www.animenewsnetwork.com/news/2012-01-22/japanese-box-office-january-14-15">Japanese Box Office, January 14-15</news>
+<news datetime="2012-01-29T02:45:00Z" href="http://www.animenewsnetwork.com/news/2012-01-28/japanese-box-office-january-21-22">Japanese Box Office, January 21-22</news>
+<news datetime="2012-02-05T03:00:00Z" href="http://www.animenewsnetwork.com/news/2012-02-04/japanese-box-office-january-28-29">Japanese Box Office, January 28-29</news>
+<news datetime="2012-02-11T16:45:00Z" href="http://www.animenewsnetwork.com/news/2012-02-11/goro-miyazaki-hideaki-anno-ghibli-projects-outlined">Goro Miyazaki, Hideaki Anno's Ghibli Projects Outlined</news>
+<news datetime="2012-02-20T17:00:00Z" href="http://www.animenewsnetwork.com/news/2012-02-20/twilight-new-moon/the-graphic-novel-listed-by-retailer">&lt;cite&gt;Twilight's New Moon: The Graphic Novel&lt;/cite&gt; Listed by Retailer</news>
+<news datetime="2012-03-07T04:32:40Z" href="http://www.animenewsnetwork.com/news/2012-03-06/japan-t-joy-to-release-evangelion-009-tiger-and-bunny-films">Japan's T-Joy to Release &lt;cite&gt;Evangelion, 009, Tiger &amp; Bunny&lt;/cite&gt; Films</news>
+<news datetime="2012-05-03T17:30:53Z" href="http://www.animenewsnetwork.com/news/2012-05-03/evangelion-smartphone-to-include-3d-short-from-khara">&lt;cite&gt;Evangelion&lt;/cite&gt; Smartphone to Include 3D Short From Khara</news>
+<news datetime="2012-05-08T14:15:00Z" href="http://www.animenewsnetwork.com/news/2012-05-08/agency/ghibli-makes-live-action-giant-god-warrior-short">Agency: Ghibli Makes Live-Action 'Giant God Warrior' Short</news>
+<news datetime="2012-05-10T17:39:21Z" href="http://www.animenewsnetwork.com/news/2012-05-11/madman-entertainment-top-twenty-anime-poll-reaches-number-one">Madman Entertainment's Top Twenty Anime Poll reaches Number One</news>
+<news datetime="2012-07-14T00:00:00Z" href="http://www.animenewsnetwork.com/news/2012-07-13/udon-ent-establishes-anime-art-book-line-adds-disgaea-manga">Udon Ent. Establishes Anime Art Book Line, Adds &lt;cite&gt;Disgaea 3&lt;/cite&gt; Manga</news>
+<news datetime="2012-07-25T18:35:00Z" href="http://www.animenewsnetwork.com/news/2012-07-25/studio-trigger-evangelion-yoko-takahashi-work-on-project-x-zone-opening">Studio Trigger, &lt;cite&gt;Evangelion's&lt;/cite&gt; Yoko Takahashi Work on &lt;cite&gt;Project X Zone&lt;/cite&gt; Opening</news>
+<news datetime="2012-10-09T05:15:00Z" href="http://www.animenewsnetwork.com/news/2012-10-09/evangelion-horse-hybrid-unveiled-in-new-horse-racing-tv-ads">Evangelion Horse Hybrid Unveiled in New Horse-Racing TV Ads</news>
+<news datetime="2012-11-11T17:31:21Z" href="http://www.animenewsnetwork.com/news/2012-11-12/evangelion-exhibition-to-tour-australia-in-2013">Evangelion Exhibition to Tour Australia in 2013</news>
+<news datetime="2012-11-15T06:55:31Z" href="http://www.animenewsnetwork.com/news/2012-11-15/production-i.g-makes-original-anime-with-mercedes-benz">Production I.G Makes Original Anime with Mercedes-Benz</news>
+<news datetime="2013-02-18T11:54:05Z" href="http://www.animenewsnetwork.com/news/2013-02-18/some-of-the-7th-annual-seiyu-award-winners-announced">Some of the 7th Annual Seiyū Award Winners Announced</news>
+<news datetime="2013-03-12T01:50:45Z" href="http://www.animenewsnetwork.com/news/2013-03-12/madman-entertainment-launches-website-for-evangelion-art-exhibition">Madman Entertainment Launches Website for Evangelion Art Exhibition</news>
+<news datetime="2013-04-26T10:16:52Z" href="http://www.animenewsnetwork.com/news/2013-04-26/quick-reminder/gcff-events-including-garden-of-words-premiere-this-saturday">Quick Reminder: GCFF Events Including Garden of Words Premiere this Sunday!</news>
+<news datetime="2013-04-30T01:46:52Z" href="http://www.animenewsnetwork.com/news/2013-04-29/evangelion-3.0-ends-theatrical-run-with-5.26-billion-yen">&lt;cite&gt;Evangelion 3.0&lt;/cite&gt; Ends Theatrical Run with 5.26 Billion Yen</news>
+<news datetime="2013-05-21T09:15:00Z" href="http://www.animenewsnetwork.com/news/2013-05-21/japan-animation-dvd-ranking-may-13-19">Japan's Animation DVD Ranking, May 13-19</news>
+<news datetime="2013-07-13T07:30:00Z" href="http://www.animenewsnetwork.com/news/2013-07-13/hayao-miyazaki-the-wind-rises-film-ads-aired">Hayao Miyazaki's &lt;cite&gt;The Wind Rises&lt;/cite&gt; Film Ads Aired</news>
+<news datetime="2013-07-11T20:30:00Z" href="http://www.animenewsnetwork.com/news/2013-07-12/avcon-2013-starts-today-in-adelaide">AVCon 2013 Starts Today in Adelaide</news>
+<news datetime="2013-09-20T16:39:58Z" href="http://www.animenewsnetwork.com/news/2013-09-20/tickets-available-for-anime-all-nighter-october-12">Tickets Available for Anime All-Nighter October 12</news>
+<news datetime="2014-04-04T03:30:00Z" href="http://www.animenewsnetwork.com/news/2014-04-03/after-school-midnighters-english-trailer-streamed">&lt;i&gt;After School Midnighters&lt;/i&gt; English Trailer Streamed</news>
+<news datetime="2014-05-01T08:58:10Z" href="http://www.animenewsnetwork.com/news/2014-05-01/smash-announces-kotono-mitsuishi-to-attend-2014-event">SMASH Announces Kotono Mitsuishi to Attend 2014 Event</news>
+<news datetime="2014-05-18T16:48:05Z" href="http://www.animenewsnetwork.com/news/2014-05-19/toshihiro-kawamoto-to-attend-smash-as-special-guest">Toshihiro Kawamoto to attend SMASH as special guest</news>
+<news datetime="2014-07-04T06:24:25Z" href="http://www.animenewsnetwork.com:/news/2014-07-04/evangelion-3.33-delayed-to-february-2015/.76301">&lt;i&gt;Evangelion 3.33&lt;/i&gt; Delayed to February 2015</news>
+<news datetime="2014-11-04T04:57:00Z" href="http://www.animenewsnetwork.com:/news/2014-11-03/universal-studios-japan-evangelion-page-lists-evangelion-4d/.80614">Universal Studios Japan's &lt;cite&gt;Evangelion&lt;/cite&gt; Page Lists 'Evangelion:4D'</news>
+<news datetime="2014-12-01T16:40:35Z" href="http://www.animenewsnetwork.com:/news/2014-12-01/evangelion-gets-new-japanese-blu-ray-dvd-boxes/.81620">&lt;cite&gt;Evangelion&lt;/cite&gt; Gets New Japanese Blu-ray, DVD Boxes</news>
+<news datetime="2015-09-01T08:55:00Z" href="http://www.animenewsnetwork.com:/news/2015-09-01/japan-animation-blu-ray-disc-ranking-august-24-30/.92377">Japan's Animation Blu-ray Disc Ranking, August 24-30</news>
+<news datetime="2015-09-14T18:45:00Z" href="http://www.animenewsnetwork.com:/news/2015-09-14/32nd-animator-expo-short-is-neon-genesis-impacts/.92931">32nd Animator Expo Short is 'Neon Genesis Impacts'</news>
+<staff gid="980624012"><task>Director</task><person id="15">Hideaki Anno</person></staff>
+<staff gid="2133904826"><task>Script</task><person id="15">Hideaki Anno</person></staff>
+<staff gid="1782166242"><task>Script</task><person id="3448">Hiroshi Yamaguchi</person></staff>
+<staff gid="211192495"><task>Script</task><person id="3695">Mitsuo Iso</person></staff>
+<staff gid="3941670722"><task>Script</task><person id="4290">Yoji Enokido</person></staff>
+<staff gid="1240021120"><task>Script</task><person id="6058">Akio Satsukawa</person></staff>
+<staff gid="1101078251"><task>Script</task><person id="7731">Shinji Higuchi</person></staff>
+<staff gid="2317929071"><task>Script</task><person id="15906">Yoji Enoto</person></staff>
+<staff gid="233488055"><task>Storyboard</task><person id="15">Hideaki Anno</person></staff>
+<staff gid="1060937836"><task>Storyboard</task><person id="172">Kazuya Tsurumaki</person></staff>
+<staff gid="2927060482"><task>Storyboard</task><person id="3682">Masayuki</person></staff>
+<staff gid="3451154736"><task>Storyboard</task><person id="4143">Tensai Okamura</person></staff>
+<staff gid="3049086479"><task>Storyboard</task><person id="7731">Shinji Higuchi</person></staff>
+<staff gid="1770268748"><task>Storyboard</task><person id="10505">Keiichi Sugiyama</person></staff>
+<staff gid="3560258889"><task>Storyboard</task><person id="10892">Tsuyoshi Kaga</person></staff>
+<staff gid="3435210986"><task>Storyboard</task><person id="15912">Hiroyuki Ishido</person></staff>
+<staff gid="1146245021"><task>Storyboard</task><person id="34674">Kiichi Hadame</person></staff>
+<staff gid="275949570"><task>Episode Director</task><person id="172">Kazuya Tsurumaki</person></staff>
+<staff gid="1970101136"><task>Episode Director</task><person id="1619">Shoichi Masuo</person></staff>
+<staff gid="3562629883"><task>Episode Director</task><person id="3682">Masayuki</person></staff>
+<staff gid="747575994"><task>Episode Director</task><person id="3722">Ken Ando</person></staff>
+<staff gid="3395909344"><task>Episode Director</task><person id="3891">Seiji Mizushima</person></staff>
+<staff gid="2676250671"><task>Episode Director</task><person id="4143">Tensai Okamura</person></staff>
+<staff gid="3093849241"><task>Episode Director</task><person id="5844">Akira Takamura</person></staff>
+<staff gid="1969557058"><task>Episode Director</task><person id="7588">Tetsuya Watanabe</person></staff>
+<staff gid="1854337517"><task>Episode Director</task><person id="7736">Masahiko Otsuka</person></staff>
+<staff gid="1583584152"><task>Episode Director</task><person id="10505">Keiichi Sugiyama</person></staff>
+<staff gid="2011061866"><task>Episode Director</task><person id="10892">Tsuyoshi Kaga</person></staff>
+<staff gid="1684586901"><task>Episode Director</task><person id="15912">Hiroyuki Ishido</person></staff>
+<staff gid="3482995038"><task>Episode Director</task><person id="35485">Naoyasu Hanyu</person></staff>
+<staff gid="2036974452"><task>Episode Director</task><person id="54335">Naoyasu Habu</person></staff>
+<staff gid="2254732516"><task>Unit Director</task><person id="172">Kazuya Tsurumaki</person></staff>
+<staff gid="3744134991"><task>Music</task><person id="15">Hideaki Anno</person></staff>
+<staff gid="748574944"><task>Music</task><person id="643">Shiro Sagisu</person></staff>
+<staff gid="2723711780"><task>Music</task><person id="4506">Yoko Takahashi</person></staff>
+<staff gid="1778888890"><task>Music</task><person id="6365">Toshiyuki Omori</person></staff>
+<staff gid="303754361"><task>Music</task><person id="6736">Neko Oikawa</person></staff>
+<staff gid="3663616992"><task>Music</task><person id="13699">Claire</person></staff>
+<staff gid="2090124002"><task>Music</task><person id="13862">Junko Miyagi</person></staff>
+<staff gid="1669106585"><task>Music</task><person id="18412">Hidetoshi Sato</person></staff>
+<staff gid="2431445548"><task>Music</task><person id="22176">Hijiri Kuwano</person></staff>
+<staff gid="2148541223"><task>Music</task><person id="27824">Yuuichi Tokashiki</person></staff>
+<staff gid="3424314975"><task>Music</task><person id="27825">Akira Okazawa</person></staff>
+<staff gid="3263471433"><task>Music</task><person id="27826">Yasuyuki Watanabe</person></staff>
+<staff gid="3157199899"><task>Music</task><person id="27827">Kiyoshi Saitoh</person></staff>
+<staff gid="2788963239"><task>Music</task><person id="27828">Eric Miyashiro</person></staff>
+<staff gid="1404087758"><task>Music</task><person id="27829">Masahiko Sugasaka</person></staff>
+<staff gid="1421385909"><task>Music</task><person id="27830">Hitoshi Yokoyama</person></staff>
+<staff gid="4064344897"><task>Music</task><person id="27831">Kohji Nishimura</person></staff>
+<staff gid="3132376601"><task>Music</task><person id="27832">Norio Koyama</person></staff>
+<staff gid="1690593712"><task>Music</task><person id="27833">Michio Kagiwada</person></staff>
+<staff gid="2041951158"><task>Music</task><person id="27834">Smio Okada</person></staff>
+<staff gid="2246977603"><task>Music</task><person id="27835">Tsutomu Maruyama</person></staff>
+<staff gid="2594805843"><task>Music</task><person id="27836">Keiko Yamakawa</person></staff>
+<staff gid="1293327859"><task>Music</task><person id="27837">Isao Kaneyama</person></staff>
+<staff gid="1948137515"><task>Music</task><person id="27838">Tomoko Kusakari</person></staff>
+<staff gid="2193226445"><task>Music</task><person id="27839">Kayako Ishuh</person></staff>
+<staff gid="1440225026"><task>Music</task><person id="27840">Bart Howard</person></staff>
+<staff gid="2394919899"><task>Music</task><person id="27841">Fujimaru Yoshino</person></staff>
+<staff gid="2235984731"><task>Music</task><person id="27842">Hiroyuki Minami</person></staff>
+<staff gid="3483416041"><task>Music</task><person id="27843">Sumiharu Arima</person></staff>
+<staff gid="1946340872"><task>Music</task><person id="27844">Tatsuya Ikeda</person></staff>
+<staff gid="1894726855"><task>Music</task><person id="27845">Osamu Matsuyama</person></staff>
+<staff gid="2166111946"><task>Music</task><person id="27846">Masahiro Itami</person></staff>
+<staff gid="2775748953"><task>Music</task><person id="27847">Obawo Nakajima</person></staff>
+<staff gid="1699022108"><task>Music</task><person id="27848">Masairo Itami</person></staff>
+<staff gid="1164425143"><task>Music</task><person id="27849">Shigehiko Saito</person></staff>
+<staff gid="2335123913"><task>Music</task><person id="27850">Makoto Kuriya</person></staff>
+<staff gid="3279889248"><task>Music</task><person id="27851">Rolf Wilson</person></staff>
+<staff gid="2051523490"><task>Music</task><person id="27853">Tony Orly</person></staff>
+<staff gid="1894474551"><task>Music</task><person id="27854">J.J. Key</person></staff>
+<staff gid="481484494"><task>Character Design</task><person id="17">Yoshiyuki Sadamoto</person></staff>
+<staff gid="3884691281"><task>Art Director</task><person id="16">Hiroshi Kato</person></staff>
+<staff gid="2675826508"><task>Animation Director</task><person id="172">Kazuya Tsurumaki</person></staff>
+<staff gid="1499874844"><task>Animation Director</task><person id="469">Kazuchika Kise</person></staff>
+<staff gid="1265365240"><task>Animation Director</task><person id="1163">Takeshi Honda</person></staff>
+<staff gid="2022673249"><task>Animation Director</task><person id="1730">Toshio Kawaguchi</person></staff>
+<staff gid="3873334134"><task>Animation Director</task><person id="2786">Nobuhiro Hosoi</person></staff>
+<staff gid="798276215"><task>Animation Director</task><person id="3682">Masayuki</person></staff>
+<staff gid="2019714148"><task>Animation Director</task><person id="3691">Shunji Suzuki</person></staff>
+<staff gid="4175708978"><task>Animation Director</task><person id="4289">Shinya Hasegawa</person></staff>
+<staff gid="2616474391"><task>Animation Director</task><person id="15813">Satoshi Shigeta</person></staff>
+<staff gid="1389711681"><task>Mecha design</task><person id="15">Hideaki Anno</person></staff>
+<staff gid="2649157480"><task>Mecha design</task><person id="3734">Ikuto Yamashita</person></staff>
+<staff gid="2400781452"><task>Director of Photography</task><person id="6067">Yoichi Kuroda</person></staff>
+<staff gid="2353344915"><task>Producer</task><person id="815">Noriko Kobayashi</person></staff>
+<staff gid="2540773264"><task>Producer</task><person id="3995">Yutaka Sugiyama</person></staff>
+<staff gid="3485361780"><task>Producer</task><person id="33998">Akiko Odawara</person></staff>
+<staff gid="1493543237"><task>Producer</task><person id="91385">Teruaki Sanematsu</person></staff>
+<cast gid="465758882" lang="DE"><role>Kensuke Aida</role><person id="22724">Gerrit Schmidt-Foss</person></cast>
+<cast gid="1493098646" lang="DE"><role>Hikari Horaki</role><person id="22747">Ilona Otto</person></cast>
+<cast gid="3333876624" lang="DE"><role>Toji Suzuhara</role><person id="22754">Julien Haggege</person></cast>
+<cast gid="2701436996" lang="DE"><role>Asuka Langley Sohryu</role><person id="22936">Julia Ziffer</person></cast>
+<cast gid="1879700277" lang="DE"><role>Shinji Ikari</role><person id="22969">Hannes Maurer</person></cast>
+<cast gid="2564985459" lang="DE"><role>Shigeru Aoba</role><person id="22972">Rainer Fritzsche</person></cast>
+<cast gid="955611848" lang="DE"><role>Ritsuko Akagi</role><person id="22975">Peggy Sander</person></cast>
+<cast gid="2538215602" lang="DE"><role>Maya Ibuki</role><person id="22976">Maria Koschny</person></cast>
+<cast gid="3708731145" lang="DE"><role>Misato Katsuragi</role><person id="22978">Julia Kaufmann</person></cast>
+<cast gid="2028737312" lang="DE"><role>Rei Ayanami</role><person id="28547">Marie Bierstedt</person></cast>
+<cast gid="1192843334" lang="DE"><role>Gendo Ikari</role><person id="30221">Erich Räuker</person></cast>
+<cast gid="776042987" lang="DE"><role>Keel Lorenz</role><person id="30223">Horst Lampe</person></cast>
+<cast gid="1948101147" lang="DE"><role>Ryouji Kaji</role><person id="39870">Marcel Collé</person></cast>
+<cast gid="1636044880" lang="DE"><role>Kouzou Fuyutsuki</role><person id="40713">Hans-Werner Bussinger</person></cast>
+<cast gid="3035518826" lang="EN"><role>Asuka Langley Soryu</role><person id="902">Tiffany Grant</person></cast>
+<cast gid="522698580" lang="EN"><role>Shigeru Aoba</role><person id="904">Jason Lee</person></cast>
+<cast gid="1364551622" lang="EN"><role>Gendou Ikari</role><person id="905">Tristan MacAvery</person></cast>
+<cast gid="2660400492" lang="EN"><role>Shinji Ikari</role><person id="906">Spike Spencer</person></cast>
+<cast gid="996728367" lang="EN"><role>Touji Suzuhara</role><person id="907">Brett Weaver</person></cast>
+<cast gid="1852593299" lang="EN"><role>Maya Ibuki</role><person id="2074">Monica Rial</person></cast>
+<cast gid="1753108155" lang="EN"><role>Ritsuko Akagi</role><person id="2328">Sue Ulu</person></cast>
+<cast gid="3751240030" lang="EN"><role>Yui Ikari</role><person id="2329">Kim Sevier</person></cast>
+<cast gid="2048272655" lang="EN"><role>Kouzou Fuyutsuki</role><person id="2331">Guil Lunde</person></cast>
+<cast gid="593124809" lang="EN"><role>Makoto Hyuga</role><person id="2372">Brian Granveldt</person></cast>
+<cast gid="1946881902" lang="EN"><role>Misato Katsuragi</role><person id="2479">Allison Keith</person></cast>
+<cast gid="2140678733" lang="EN"><role>Ryoji Kaji</role><person id="2480">Aaron Krohn</person></cast>
+<cast gid="834018595" lang="EN"><role>Keel Lorenz</role><person id="2483">Rick Peeples</person></cast>
+<cast gid="1180582761" lang="EN"><role>Kensuke Aida</role><person id="2486">Kurt Stoll</person></cast>
+<cast gid="445421976" lang="EN"><role>Shigeru Aoba</role><person id="2516">Vic Mignogna</person></cast>
+<cast gid="336243031" lang="EN"><role>Gendo Ikari</role><person id="2525">John Swasey</person></cast>
+<cast gid="3591754855" lang="EN"><role>Pen-Pen</role><person id="3683">Amanda Winn</person></cast>
+<cast gid="2924795193" lang="EN"><role>Rei Ayanami</role><person id="3683">Amanda Winn</person></cast>
+<cast gid="2147608530" lang="EN"><role>Maya Ibuki</role><person id="3684">Kendra Benham</person></cast>
+<cast gid="529916207" lang="EN"><role>Toji Suzuhara</role><person id="3765">Joe Pisano</person></cast>
+<cast gid="1708534897" lang="EN"><role>Pen-Pen</role><person id="3831">Mandy Clark</person></cast>
+<cast gid="1429293815" lang="EN"><role>Kaworu Nagisa</role><person id="7734">Greg Ayres</person></cast>
+<cast gid="1202274907" lang="EN"><role>Toji Suzuhara</role><person id="9102">Michael O'Connor</person></cast>
+<cast gid="974985174" lang="EN"><role>Kaworu Nagisa</role><person id="18258">Kyle Sturdivant</person></cast>
+<cast gid="1391263472" lang="ES"><role>Gendo Ikari</role><person id="3751">Humberto Solorzano</person></cast>
+<cast gid="2767904600" lang="ES"><role>Ritsuko Akagi</role><person id="3752">Maru Guerrero</person></cast>
+<cast gid="293620048" lang="ES"><role>Rei Ayanami</role><person id="3753">Circe Luna</person></cast>
+<cast gid="591563640" lang="ES"><role>Shinji Ikari</role><person id="3754">Victor Ugarte</person></cast>
+<cast gid="2200646170" lang="ES"><role>Toji Suzuhara</role><person id="3755">Enrique Mederos</person></cast>
+<cast gid="1339415244" lang="ES"><role>Misato Katsuragi</role><person id="3756">Tony Rodriguez</person></cast>
+<cast gid="2153236382" lang="ES"><role>Hikari Horaki</role><person id="3757">Sarah Souza</person></cast>
+<cast gid="2253572807" lang="ES"><role>Asuka Langley Sohryu</role><person id="3758">Norma Echevarria</person></cast>
+<cast gid="1643430572" lang="ES"><role>Ryoji Kaji</role><person id="3759">Enrique Cervantes</person></cast>
+<cast gid="850978264" lang="ES"><role>Shigeru Aoba</role><person id="3760">Ricardo Tejedo</person></cast>
+<cast gid="2083976156" lang="ES"><role>Kensuke Aida</role><person id="3761">Irwin Daayan</person></cast>
+<cast gid="1770497859" lang="ES"><role>Asuka Langley Sohryu</role><person id="23448">Georgina Sanchez</person></cast>
+<cast gid="3135859421" lang="ES"><role>Makoto Hyuga</role><person id="23531">Enzo Fortuny</person></cast>
+<cast gid="2238190090" lang="ES"><role>Maya Ibuki</role><person id="23804">Mariana Ortiz</person></cast>
+<cast gid="2429643213" lang="ES"><role>Toji Suzuhara</role><person id="23805">Luis Daniel Ramirez</person></cast>
+<cast gid="3106141504" lang="ES"><role>Rei Ayanami</role><person id="23810">Gaby Ugarte</person></cast>
+<cast gid="2118821760" lang="ES"><role>Kouzou Fuyutsuki</role><person id="24148">Rolando de Castro</person></cast>
+<cast gid="3596500358" lang="ES"><role>Kaworu Nagisa</role><person id="24149">Ernesto Lezama</person></cast>
+<cast gid="1974138030" lang="ES"><role>Kensuke Aida</role><person id="24155">Gabriel Ortiz</person></cast>
+<cast gid="3913764139" lang="ES"><role>Keel Lorenz</role><person id="31513">Esteban Siller</person></cast>
+<cast gid="878291320" lang="ES"><role>Asuka Langley Sôryû</role><person id="31688">Núria Trifol</person></cast>
+<cast gid="3030705603" lang="ES"><role>Asuka Langley</role><person id="32820">Ana Pallejà</person></cast>
+<cast gid="1911949280" lang="ES"><role>Asuka Langley Soryu</role><person id="32820">Ana Pallejà</person></cast>
+<cast gid="2555409526" lang="ES"><role>Maya Ibuki</role><person id="36660">Alma Wilhelme</person></cast>
+<cast gid="1431216202" lang="ES"><role>Kouzou Fuyutsuki</role><person id="48572">Jesse Conde</person></cast>
+<cast gid="4130828425" lang="ES"><role>Tôji Suzuhara</role><person id="50365">José Posada</person></cast>
+<cast gid="1874436953" lang="ES"><role>Rei Ayanami</role><person id="50488">Joel Mulachs</person></cast>
+<cast gid="2907094495" lang="ES"><role>Shinji Ikari</role><person id="50493">Albert Trifol Segarra</person></cast>
+<cast gid="2242280671" lang="ES"><role>Maya Ibuki</role><person id="50738">Nuria Doménech</person></cast>
+<cast gid="1978033763" lang="ES"><role>Kensuke Aida</role><person id="50790">Raúl Llorens</person></cast>
+<cast gid="1645303444" lang="ES"><role>Misato Katsuragi</role><person id="55630">Maria Moscardó</person></cast>
+<cast gid="2536229931" lang="ES"><role>Shigeru Aoba</role><person id="62923">Josep Maria Mas</person></cast>
+<cast gid="1310414733" lang="ES"><role>Makoto Hyûga</role><person id="62932">Gal Soler</person></cast>
+<cast gid="1412513665" lang="ES"><role>Gendô Ikari</role><person id="62934">Francesc Figuerola</person></cast>
+<cast gid="809517544" lang="ES"><role>Ritsuko Akagi</role><person id="62969">TERESA MANRESA</person></cast>
+<cast gid="2320985347" lang="ES"><role>Misato Katsuragi</role><person id="62976">Maria Josep Guasch</person></cast>
+<cast gid="3651150126" lang="ES"><role>Kaworu Nagisa</role><person id="63115">Claudi Domingo</person></cast>
+<cast gid="2413692907" lang="ES"><role>Kaworu Naguisa</role><person id="63115">Claudi Domingo</person></cast>
+<cast gid="2399773940" lang="ES"><role>Rei Ayanami</role><person id="63133">Maria Lluïsa Maganya</person></cast>
+<cast gid="2803186129" lang="ES"><role>Ryôji Kaji</role><person id="63185">Antoni Forteza</person></cast>
+<cast gid="2234256044" lang="ES"><role>Kôzô Fuyutsuki</role><person id="63186">Santi Lorenz</person></cast>
+<cast gid="3540687007" lang="ES"><role>Misato Katsuragi</role><person id="71291">Marisol Romero</person></cast>
+<cast gid="2189435137" lang="FR"><role>Shinji Ikari</role><person id="3735">Donald Reignoux</person></cast>
+<cast gid="1596246528" lang="FR"><role>Rei Ayanami</role><person id="3736">Stéphanie Lafforgue</person></cast>
+<cast gid="3309607390" lang="FR"><role>Yui Ikari</role><person id="3736">Stéphanie Lafforgue</person></cast>
+<cast gid="3132875009" lang="FR"><role>Asuka Langley Sohryu</role><person id="3737">Marjolaine Poulain</person></cast>
+<cast gid="282451162" lang="FR"><role>Misato Katsuragi</role><person id="3738">Laurence Bréheret</person></cast>
+<cast gid="1104771996" lang="FR"><role>Ritsuko Akagi</role><person id="3739">Marie-Annick Mahé</person></cast>
+<cast gid="1338636042" lang="FR"><role>Gendo Ikari</role><person id="3740">Michel Roy</person></cast>
+<cast gid="1892616104" lang="FR"><role>Makoto Hyuga</role><person id="3741">Cyril Aubin</person></cast>
+<cast gid="409878350" lang="FR"><role>Maya Ibuki</role><person id="3742">Ariane Devièque</person></cast>
+<cast gid="1903766488" lang="FR"><role>Kouzou Fuyutsuki</role><person id="3743">Mathieu Rivolier</person></cast>
+<cast gid="2491333362" lang="FR"><role>Shigeru Aoba</role><person id="3744">Tony Joudrier</person></cast>
+<cast gid="805246597" lang="FR"><role>Keel Lorenz</role><person id="3745">Gérard Boucaron</person></cast>
+<cast gid="1676525880" lang="FR"><role>Maya Ibuki</role><person id="53662">Arianne Deviègue</person></cast>
+<cast gid="2443173537" lang="IT"><role>Ritsuko Akagi</role><person id="8995">Liliana Sorrentino</person></cast>
+<cast gid="1903832600" lang="IT"><role>Kozo Fuyutsuki</role><person id="15625">Oliviero Dinelli</person></cast>
+<cast gid="1553008816" lang="IT"><role>Asuka Soryu Langley</role><person id="15784">Ilaria Latini</person></cast>
+<cast gid="2617879411" lang="IT"><role>Misato Katsuragi</role><person id="25900">Stella Musy</person></cast>
+<cast gid="1280079163" lang="IT"><role>Maya Ibuki</role><person id="25917">Barbara De Bortoli</person></cast>
+<cast gid="1819506031" lang="IT"><role>Toji Suzuhara</role><person id="26003">Corrado Conforti</person></cast>
+<cast gid="2362511758" lang="IT"><role>Kensuke Aida</role><person id="26054">Stefano Crescentini</person></cast>
+<cast gid="1855213405" lang="IT"><role>Hikari Horaki</role><person id="26057">Federica De Bortoli</person></cast>
+<cast gid="667254402" lang="IT"><role>Shigeru Aoba</role><person id="26060">Vittorio Guerrieri</person></cast>
+<cast gid="2675527370" lang="IT"><role>Ryoji Kaji</role><person id="26121">Francesco Prando</person></cast>
+<cast gid="1627104264" lang="IT"><role>Shinji Ikari</role><person id="26241">Daniele Raffaelli</person></cast>
+<cast gid="2520382760" lang="IT"><role>Gendo Ikari</role><person id="26582">Massimo Corvo</person></cast>
+<cast gid="1806866495" lang="IT"><role>Maya Ibuki</role><person id="26583">Cinzia Villari</person></cast>
+<cast gid="1253721524" lang="IT"><role>Keele Lorenz</role><person id="26587">Gianni Musy</person></cast>
+<cast gid="3405164310" lang="IT"><role>Rei Ayanami</role><person id="26588">Valentina Mari</person></cast>
+<cast gid="3486275280" lang="JA"><role>Pen Pen</role><person id="391">Megumi Hayashibara</person></cast>
+<cast gid="3708568586" lang="JA"><role>Rei Ayanami</role><person id="391">Megumi Hayashibara</person></cast>
+<cast gid="3961281659" lang="JA"><role>Yui Ikari</role><person id="391">Megumi Hayashibara</person></cast>
+<cast gid="325089509" lang="JA"><role>Kaworu Nagisa</role><person id="443">Akira Ishida</person></cast>
+<cast gid="2183129661" lang="JA"><role>Keel Lorentz</role><person id="445">Mugihito</person></cast>
+<cast gid="1663453411" lang="JA"><role>Touji Suzuhara</role><person id="529">Tomokazu Seki</person></cast>
+<cast gid="2778961741" lang="JA"><role>Shigeru Aoba</role><person id="662">Takehito Koyasu</person></cast>
+<cast gid="2410315615" lang="JA"><role>Misato Katsuragi</role><person id="720">Kotono Mitsuishi</person></cast>
+<cast gid="1466457162" lang="JA"><role>Hikari Horaki</role><person id="777">Junko Iwao</person></cast>
+<cast gid="1180316720" lang="JA"><role>Shinji Ikari</role><person id="790">Megumi Ogata</person></cast>
+<cast gid="3021444831" lang="JA"><role>Asuka Langley Sohryu</role><person id="828">Yuko Miyamura</person></cast>
+<cast gid="2012584955" lang="JA"><role>Maya Ibuki</role><person id="847">Miki Nagasawa</person></cast>
+<cast gid="3893184627" lang="JA"><role>Kouzou Fuyutsuki</role><person id="950">Motomu Kiyokawa</person></cast>
+<cast gid="688703752" lang="JA"><role>Kensuke Aida</role><person id="955">Tetsuya Iwanaga</person></cast>
+<cast gid="3106533659" lang="JA"><role>Ryouji Kaji</role><person id="1009">Kouichi Yamadera</person></cast>
+<cast gid="402001693" lang="JA"><role>Ritsuko Akagi</role><person id="1072">Yuriko Yamaguchi</person></cast>
+<cast gid="2406601463" lang="JA"><role>Makoto Hyuuga</role><person id="1097">Hiro Yuuki</person></cast>
+<cast gid="2279412315" lang="JA"><role>Gendou Ikari</role><person id="1465">Fumihiko Tachiki</person></cast>
+<cast gid="1900319495" lang="KO"><role>Asuka Langley Sohryu</role><person id="96336">Ji Miae</person></cast>
+<cast gid="2705408708" lang="KO"><role>Kaworu Nagisa</role><person id="96336">Ji Miae</person></cast>
+<cast gid="3575446786" lang="KO"><role>Yui Ikari</role><person id="96336">Ji Miae</person></cast>
+<cast gid="1741097931" lang="KO"><role>Makoto Hyuuga</role><person id="96466">Yu Jesang</person></cast>
+<cast gid="2988829134" lang="KO"><role>Ryouji Kaji</role><person id="96469">Hwan-Jin Kim</person></cast>
+<cast gid="3512319961" lang="KO"><role>Shinji Ikari</role><person id="96471">An Gyeongjin</person></cast>
+<cast gid="2470977919" lang="KO"><role>Maya Ibuki</role><person id="96472">Lee Jinhwa</person></cast>
+<cast gid="1520954673" lang="KO"><role>Rei Ayanami</role><person id="96472">Lee Jinhwa</person></cast>
+<cast gid="1923702809" lang="KO"><role>Touji Suzuhara</role><person id="96472">Lee Jinhwa</person></cast>
+<cast gid="3214295130" lang="KO"><role>Kensuke Aida</role><person id="96473">Mun-Ja Choi</person></cast>
+<cast gid="2740896196" lang="KO"><role>Ritsuko Akagi</role><person id="96473">Mun-Ja Choi</person></cast>
+<cast gid="693129246" lang="KO"><role>Misato Katsuragi</role><person id="98943">Lee Nami</person></cast>
+<cast gid="1865853594" lang="KO"><role>Gendou Ikari</role><person id="98944">An Jongguk</person></cast>
+<cast gid="1611205936" lang="KO"><role>Kouzou Fuyutsuki</role><person id="98945">Jeong Dongyeol</person></cast>
+<cast gid="3299181207" lang="KO"><role>Shigeru Aoba</role><person id="98946">Sin Heungcheol</person></cast>
+<cast gid="2174845899" lang="PT"><role>Shinji Ikari</role><person id="48732">Fábio Lucindo</person></cast>
+<cast gid="3739843108" lang="PT"><role>Hikari Horaki</role><person id="48733">Márcia Regina</person></cast>
+<cast gid="3323913277" lang="PT"><role>Gendou Ikari</role><person id="48740">Fábio Moura</person></cast>
+<cast gid="1772021118" lang="PT"><role>Shigeru Aoba</role><person id="48741">Wellington Lima</person></cast>
+<cast gid="2312111221" lang="PT"><role>Maya Ibuki</role><person id="48742">Fátima Noya</person></cast>
+<cast gid="3520857474" lang="PT"><role>Misato Katsuragi</role><person id="48746">Vanessa Alves</person></cast>
+<cast gid="1895772038" lang="PT"><role>Asuka Langley Sohryu</role><person id="48756">Fernanda Bulara</person></cast>
+<cast gid="2669790306" lang="PT"><role>Touji Suzuhara</role><person id="48765">Vagner Fagundes</person></cast>
+<cast gid="1874671561" lang="PT"><role>Rei Ayanami</role><person id="48782">Priscila Concépcion</person></cast>
+<cast gid="2065086335" lang="PT"><role>Kouzou Fuyutsuki</role><person id="48787">João Batista</person></cast>
+<cast gid="2578367746" lang="PT"><role>Kaji Ryouji</role><person id="48788">Cassius Romero</person></cast>
+<cast gid="2254794321" lang="PT"><role>Ritsuko Akagi</role><person id="48817">Suzy Pereira</person></cast>
+<cast gid="1450227805" lang="PT"><role>Kensuke Aida</role><person id="48870">Rafael Meira</person></cast>
+<cast gid="2596714978" lang="PT"><role>Ritsuko Akagi</role><person id="48871">Cecília Lemes</person></cast>
+<cast gid="471605905" lang="PT"><role>Kaworu Nagisa</role><person id="48872">Yuri Chesman</person></cast>
+<cast gid="1185092289" lang="PT"><role>Makoto Hyuga</role><person id="48873">Alexandre Marconato</person></cast>
+<cast gid="2317939121" lang="PT"><role>Kouzou Fuyutsuki</role><person id="48887">Sidney Lilla</person></cast>
+<cast gid="3600983430" lang="PT"><role>Keel Lorenz</role><person id="48928">Antônio Moreno</person></cast>
+<cast gid="1378443476" lang="PT"><role>Misato Katsuragi</role><person id="48942">Lene Bastos</person></cast>
+<cast gid="3214932122" lang="PT"><role>Hikari Horaki</role><person id="49237">Tatiane Keplermaier</person></cast>
+<cast gid="580593977" lang="PT"><role>Kensuke Aida</role><person id="50314">Thiago Barione</person></cast>
+<cast gid="2700626484" lang="PT"><role>Kaji Ryouji</role><person id="58298">Marco Antonio Abreu</person></cast>
+<cast gid="1783451376" lang="TL"><role>Kaworu Nagisa</role><person id="38923">Arnold Abad</person></cast>
+<cast gid="2330543413" lang="TL"><role>Ryouji Kaji</role><person id="38923">Arnold Abad</person></cast>
+<cast gid="1647238704" lang="TL"><role>Hikari Horaki</role><person id="38930">Maripette Narvasa</person></cast>
+<cast gid="2119619436" lang="TL"><role>Maya Ibuki</role><person id="38930">Maripette Narvasa</person></cast>
+<cast gid="3762314468" lang="TL"><role>Makoto Hyuuga</role><person id="38933">Alexx Agcaoili</person></cast>
+<cast gid="1889999099" lang="TL"><role>Kensuke Aida</role><person id="38937">Jonel Bituin</person></cast>
+<cast gid="2741113434" lang="TL"><role>Rei Ayanami</role><person id="38939">Amy Aguirre</person></cast>
+<cast gid="323743139" lang="TL"><role>Shinji Ikari</role><person id="38940">Lucky Mark Santos</person></cast>
+<cast gid="2180521751" lang="TL"><role>Asuka Langley Sohryu</role><person id="38941">Minna Bernales</person></cast>
+<cast gid="1836059112" lang="TL"><role>Touji Suzuhara</role><person id="39337">Erie Resurreccion</person></cast>
+<cast gid="1086166731" lang="TL"><role>Gendo Ikari</role><person id="46629">Phil Cruz</person></cast>
+<cast gid="2432985967" lang="TL"><role>Makoto Hyuuga</role><person id="58345">Noel Magat</person></cast>
+<credit gid="311496668"><task>Animation Production</task><company id="54">GAINAX</company></credit>
+<credit gid="1076402617"><task>Animation Production</task><company id="591">Tatsunoko Production</company></credit>
+<credit gid="3687873395"><task>Production</task><company id="54">GAINAX</company></credit>
+<credit gid="3635947403"><task>Production</task><company id="82">Kadokawa Shoten</company></credit>
+<credit gid="3622739402"><task>Production</task><company id="262">TV Tokyo</company></credit>
+<credit gid="3222087686"><task>Production</task><company id="316">NAS</company></credit></anime></ann>

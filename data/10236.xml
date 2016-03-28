@@ -1,0 +1,935 @@
+<ann><anime id="10236" gid="1439529035" type="TV" name="Inazuma Eleven" precision="TV" generated-on="2016-03-27T03:34:11Z">
+<related-prev rel="related to" id="10235"/>
+<related-next id="11686" rel="sequel"/>
+<related-next id="12877" rel="sequel"/>
+<info gid="1342121822" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A10236-3.jpg" width="180" height="200"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A10236-3.jpg" width="180" height="200"/><img src="http://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A10236-3.jpg" width="270" height="300"/></info>
+<info gid="3356902227" type="Main title" lang="EN">Inazuma Eleven</info>
+<info gid="756487375" type="Alternative title" lang="ES">Los Superonce</info>
+<info gid="1280888968" type="Alternative title" lang="PT">Os Super Onze</info>
+<info gid="2407154273" type="Alternative title" lang="EN">Súper Once</info>
+<info gid="1446145821" type="Alternative title" lang="ES">Super Once</info>
+<info gid="2226785965" type="Alternative title" lang="AR">أبطال الكرة</info>
+<info gid="931496444" type="Alternative title" lang="JA">イナズマイレブン</info>
+<info gid="706793598" type="Alternative title" lang="ZH-TW">閃電十一人</info>
+<info gid="1544947116" type="Genres">tournament</info>
+<info gid="1550497801" type="Themes">sports</info>
+<info gid="598022693" type="Plot Summary">The main character, Endou Mamoru, is a very talented goalkeeper and the grandson of one of the strongest goalkeepers in Japan, who died before he was born. Even though his skills are incredible, his school lacks a real soccer club as the 6 other members don't appear very interested even in training. But as soon as a mysterious forward called Gouenji moves to Endou's town, and the club receives a challenge by the 40-year Football Frontier championship holder, Teikoku Academy, the young goalkeeper sets out to find and recruit members for his soccer team.</info>
+<info gid="1026591558" type="Number of episodes">127</info>
+<info gid="1148261062" type="Vintage">2008-10-05 to 2011-04-27</info>
+<info gid="2537495398" type="Vintage">2010-01-04 (Latin America, ZAZ)</info>
+<info gid="2644896372" type="Vintage">2010-04-12 (Honduras, Telecadena 7/4)</info>
+<info gid="2368691412" type="Vintage">2010-05-22 (Teleamazonas - Ecuador)</info>
+<info gid="2850757029" type="Vintage">2010-05-23 (Spain, FDF)</info>
+<info gid="2457172961" type="Vintage">2010-05-24 (Chile, ETC...TV)</info>
+<info gid="2807791144" type="Vintage">2010-05-24 (Spain, Disney XD)</info>
+<info gid="2530784017" type="Vintage">2010-06-07 (Brazil, RedeTV! - TVKids)</info>
+<info gid="2267774994" type="Vintage">2010-06-08 (Mexico, Canal 5)</info>
+<info gid="1120868528" type="Vintage">2010-06-20 (Venezuela, Televen)</info>
+<info gid="2537601227" type="Vintage">2010-08-07 (Megavision - Chile)</info>
+<info gid="2521173003" type="Vintage">2010-12-02 (Portugal, Panda Biggs)</info>
+<info gid="2167897483" type="Vintage">2011-11-14 (Philippines, ABS-CBN - Team Animazing)</info>
+<info gid="1998448134" type="Vintage">2012-05-28 (Poland - Cartoon Network Polska)</info>
+<info gid="3260641577" type="Vintage">2012-10-09 to 2012-11-21 (Mexico - Mixplay.tv; 26 eps.)</info>
+<info gid="2032881386" type="Vintage">2012-11-10 (México, TV3)</info>
+<info gid="3270051274" type="Vintage">2013-03 (Argentina, ZTV-Telefe)</info>
+<info gid="1676115611" type="Vintage">2013-04-23 to 2013-05-24 (Mexico - Mixplay.tv; eps. 27-78)</info>
+<info gid="2250249716" type="Vintage">2015-07-10 (Philippines, HERO TV)</info>
+<info gid="1963951150" type="Opening Theme">#1: &quot;Tachiagariyo&quot; by T-Pistonz (eps 1-26)</info>
+<info gid="2271456876" type="Opening Theme">#2: &quot;Maji de kansha!&quot; by T-Pistonz+KMC (eps 27-54)</info>
+<info gid="3220719611" type="Opening Theme">#3: &quot;Tsunagariyo&quot; by T-Pistonz+KMC (eps 55-67)</info>
+<info gid="2356976650" type="Opening Theme">#4: &quot;Katte nakou ze!&quot; by T-Pistonz+KMC (eps 68-87)</info>
+<info gid="2033235278" type="Opening Theme">#5: &quot;GOOD Kita!&quot; by T-Pistonz+KMC (eps 88-107)</info>
+<info gid="1819702671" type="Opening Theme">#6: &quot;Bokura no Goal!&quot; by T-Pistonz+KMC (eps 108-127)</info>
+<info gid="2915489534" type="Ending Theme">#1: &quot;Seishun oden&quot; by Twe'lv (eps 1-26)</info>
+<info gid="1015061552" type="Ending Theme">#2: &quot;Seishun Bus Guide&quot; by Berryz Kobo</info>
+<info gid="385817434" type="Ending Theme">#2: &quot;Seishun bus guide&quot; by Berryz Kobo (eps 27-50)</info>
+<info gid="1724947260" type="Ending Theme">#3: &quot;Ryuusei boy&quot; by Berryz Kobo (eps 51-67)</info>
+<info gid="1616840944" type="Ending Theme">#4: &quot;Otakebi boy WAO!&quot; by Berryz Kobo (eps 68-87)</info>
+<info gid="2889276795" type="Ending Theme">#5: &quot;Maji Bomber!!&quot; by Berryz Kobo (eps 88-101)</info>
+<info gid="1547846373" type="Ending Theme">#6: &quot;Shining Power&quot; by Berryz Kobo (eps 102-112)</info>
+<info gid="1849607700" type="Ending Theme">#7: &quot;Mata ne... no Kisetsu&quot; by Inazuma All-Stars (eps 113-127)</info>
+<info gid="1042695795" type="Official website" lang="ES" href="http://www.inazumaeleven.tv/">Inazuma Eleven.tv</info>
+<info gid="2144181831" type="Official website" lang="JA" href="http://www.tv-tokyo.co.jp/anime/inazuma/">テレビ東京・あにてれ イナズマイレブン</info>
+<ratings nb_votes="76" weighted_score="6.8069" bayesian_score="6.91148"/>
+<episode num="1">
+<title gid="3507299351" lang="EN">Let`s Play Soccer</title></episode>
+<episode num="2">
+<title gid="3043974896" lang="EN">Teikoku Is Here!</title></episode>
+<episode num="3">
+<title gid="2084177603" lang="EN">Call Out the Killer Technique!</title></episode>
+<episode num="4">
+<title gid="1887895636" lang="EN">Here Comes the Dragon!</title></episode>
+<episode num="5">
+<title gid="2445008624" lang="EN">Where is the Secret Technique Note!</title></episode>
+<episode num="6">
+<title gid="946128506" lang="EN">This is the Inazuma Drop!</title></episode>
+<episode num="7">
+<title gid="1615027489" lang="EN">Confrontation at the River Bank!</title></episode>
+<episode num="8">
+<title gid="1849508386" lang="EN">The Fearful Soccer Cyborgs!</title></episode>
+<episode num="9">
+<title gid="1244978987" lang="EN">Megane Takes a Stand</title></episode>
+<episode num="10">
+<title gid="2760759440" lang="EN">Teikoku's Spy!</title></episode>
+<episode num="11">
+<title gid="2229008126" lang="EN">Find a New Coach!</title></episode>
+<episode num="12">
+<title gid="836246198" lang="EN">The Finals! Teikoku Academy - First Half!</title></episode>
+<episode num="13">
+<title gid="1824232372" lang="EN">The Finals! Teikoku Academy - Second Half!</title></episode>
+<episode num="14">
+<title gid="2199655552" lang="EN">The Legendary Eleven!</title></episode>
+<episode num="15">
+<title gid="703008178" lang="EN">It's Here! The Nationals Tournament!!</title></episode>
+<episode num="16">
+<title gid="3871353470" lang="EN">Breakthrough! Ninja Soccer!!</title></episode>
+<episode num="17">
+<title gid="2373153331" lang="EN">Kidou's Decision!</title></episode>
+<episode num="18">
+<title gid="1351827120" lang="EN">Break it Down! The Infinite Wall!!</title></episode>
+<episode num="19">
+<title gid="2284097418" lang="EN">The Genius Brought Back to Life!</title></episode>
+<episode num="20">
+<title gid="1465977716" lang="EN">The Hissatsu Triangle Z!</title></episode>
+<episode num="21">
+<title gid="2163420440" lang="EN">Fierce Battle! Kidokawa Seishuu!!</title></episode>
+<episode num="22">
+<title gid="3012719214" lang="EN">Go Beyond God Hand!</title></episode>
+<episode num="23">
+<title gid="775194350" lang="EN">A Challenge From The Gods!</title></episode>
+<episode num="24">
+<title gid="737931820" lang="EN">Let's Go to Training Camp!</title></episode>
+<episode num="25">
+<title gid="1107011854" lang="EN">The Last Play-Off!</title></episode>
+<episode num="26">
+<title gid="823765824" lang="EN">Clash! God Vs Devil!!</title></episode>
+<episode num="27">
+<title gid="1724929412" lang="EN">Aliens Are Here!</title></episode>
+<episode num="28">
+<title gid="951318478" lang="EN">Head on Out! Raimon Eleven!!</title></episode>
+<episode num="29">
+<title gid="3024761639" lang="EN">Take Them Down! The 11 in Black!!</title></episode>
+<episode num="30">
+<title gid="2873141648" lang="EN">Menace! Aliea Academy!!</title></episode>
+<episode num="31">
+<title gid="2540349908" lang="EN">Find The Legendary Striker!</title></episode>
+<episode num="32">
+<title gid="3073111395" lang="EN">The Prince of the Snowfield!</title></episode>
+<episode num="33">
+<title gid="3043905014" lang="EN">Who's the Ace Striker!</title></episode>
+<episode num="34">
+<title gid="1461442306" lang="EN">Clash! Aliea Academy!!</title></episode>
+<episode num="35">
+<title gid="720788235" lang="EN">Epsilon Attacks!</title></episode>
+<episode num="36">
+<title gid="2067868119" lang="EN">The Hidden Power!</title></episode>
+<episode num="37">
+<title gid="3151562919" lang="EN">Teikoku Strikes Back - First Half!!</title></episode>
+<episode num="38">
+<title gid="1502139181" lang="EN">Teikoku Strikes Back - Second Half!!</title></episode>
+<episode num="39">
+<title gid="3612835214" lang="EN">The Last Wyvern Blizzard!</title></episode>
+<episode num="40">
+<title gid="1654558382" lang="EN">Ichinose! The Greatest Crisis!!</title></episode>
+<episode num="41">
+<title gid="2374977576" lang="EN">Desarm's Trap!</title></episode>
+<episode num="42">
+<title gid="2290789581" lang="EN">Bitter Struggle! The Strongest Evil, Epsilon!!</title></episode>
+<episode num="43">
+<title gid="747392173" lang="EN">Grandpa's Ultimate Secret Technique!</title></episode>
+<episode num="44">
+<title gid="3076311742" lang="EN">Another Majin the Hand!</title></episode>
+<episode num="45">
+<title gid="2020246658" lang="EN">Seismic! The Strongest Team, Genesis!!</title></episode>
+<episode num="46">
+<title gid="2673892855" lang="EN">The Captain's Trial!</title></episode>
+<episode num="47">
+<title gid="1874686195" lang="EN">Big Showdown at the Southern Seas!</title></episode>
+<episode num="48">
+<title gid="2763026076" lang="EN">The Flame Striker!</title></episode>
+<episode num="49">
+<title gid="2933128970" lang="EN">Ride the Beat! Rhythm Soccer!!</title></episode>
+<episode num="50">
+<title gid="1750118344" lang="EN">Howl! The Fist of Justice!!</title></episode>
+<episode num="51">
+<title gid="1203136772" lang="EN">Counterattack! Epsilon Remastered!!</title></episode>
+<episode num="52">
+<title gid="1559660701" lang="EN">The Explosive Flames of Revival!!</title></episode>
+<episode num="53">
+<title gid="1936055699" lang="EN">The Freezing Darkness - Diamond Dust!</title></episode>
+<episode num="54">
+<title gid="3583029174" lang="EN">The Strongest Assist, Aphrodi!</title></episode>
+<episode num="55">
+<title gid="3590220409" lang="EN">Endou's Newest Challenge</title></episode>
+<episode num="56">
+<title gid="3024769130" lang="EN">Showdown! Endou vs. Gouenji!!</title></episode>
+<episode num="57">
+<title gid="2256054669" lang="EN">The Miracle Team! The Chaos!!</title></episode>
+<episode num="58">
+<title gid="1726263408" lang="EN">Torn Asunder! Fire Blizzard!!</title></episode>
+<episode num="59">
+<title gid="2205321498" lang="EN">We're Finally Here! Aliea Academy!!</title></episode>
+<episode num="60">
+<title gid="1550776127" lang="EN">Aliea Academy's True Identity!</title></episode>
+<episode num="61">
+<title gid="1795302178" lang="EN">The Last Play-Off! The Genesis - The First Half</title></episode>
+<episode num="62">
+<title gid="2310555083" lang="EN">The Last Play-Off! The Genesis - The Second Half</title></episode>
+<episode num="63">
+<title gid="3927018895" lang="EN">The Neverending Menace!</title></episode>
+<episode num="64">
+<title gid="1224465047" lang="EN">Clash! Raimon VS. Raimon!!</title></episode>
+<episode num="65">
+<title gid="1247252073" lang="EN">Ultimate mystery of friendship!</title></episode>
+<episode num="66">
+<title gid="3330969205" lang="EN">The Strongest Team! Blizzard Edition!</title></episode>
+<episode num="67">
+<title gid="2714482983" lang="EN">The Strongest Team! Hen Fire!</title></episode>
+<episode num="68">
+<title gid="2872790368" lang="EN">Assembled! Japanese team!</title></episode>
+<episode num="69">
+<title gid="2406481433" lang="EN">A New Birth! Inazuma Japan!!</title></episode>
+<episode num="70">
+<title gid="2572281663" lang="EN">Directed by the cursed!</title></episode>
+<episode num="71">
+<title gid="385780322" lang="EN">Opening! Challenge to the world!</title></episode>
+<episode num="72">
+<title gid="3539664365" lang="EN">The Big Wave!</title></episode>
+<episode num="73">
+<title gid="2257631793" lang="EN">Scorching warrior! Desert Lion!</title></episode>
+<episode num="74">
+<title gid="2925046501" lang="EN">Sleeping Tiger! Wake up time!!</title></episode>
+<episode num="75">
+<title gid="3088207643" lang="EN">Hardball! Hawk and flying!</title></episode>
+<episode num="76">
+<title gid="141182536" lang="EN">Replacing Representatives!? The Toughest Challengers!!</title></episode>
+<episode num="77">
+<title gid="2392672405" lang="EN">The Ultimate Face-off! Kudou Japan VS. Hitomiko Japan!!</title></episode>
+<episode num="78">
+<title gid="2903503202" lang="EN">Battle of the ultimate mystery of Winter Flowers!</title></episode>
+<episode num="79">
+<title gid="1957301839" lang="EN">Gouenji's Decision!</title></episode>
+<episode num="80">
+<title gid="520861749" lang="EN">The Last Match</title></episode>
+<episode num="81">
+<title gid="1253687122" lang="EN">Asia's Strongest! Fire Dragon!!</title></episode>
+<episode num="82">
+<title gid="2711684855" lang="EN">Strategy perfect! Press Zone Perfect!</title></episode>
+<episode num="83">
+<title gid="1613388996" lang="EN">Stand Up, Captain!</title></episode>
+<episode num="84">
+<title gid="2446076629" lang="EN">Get It! Our Ticket to the Internationals!!</title></episode>
+<episode num="85">
+<title gid="1259616147" lang="EN">We're Here! The World Tournament!!</title></episode>
+<episode num="86">
+<title gid="1224602132" lang="EN">Shock! This is World Level!!</title></episode>
+<episode num="87">
+<title gid="1241118788" lang="EN">The English Knights! Knights of Queen!!</title></episode>
+<episode num="88">
+<title gid="2568119917" lang="EN">It's Complete! My Own Hissatsu Technique!!</title></episode>
+<episode num="89">
+<title gid="2604902940" lang="EN">Go Beyond Mugen the Hand!</title></episode>
+<episode num="90">
+<title gid="2081428622" lang="EN">Spell of the Empire! Part! !</title></episode>
+<episode num="91">
+<title gid="1868213009" lang="EN">Spell of the Empire! Part ! !</title></episode>
+<episode num="92">
+<title gid="2729284938" lang="EN">Horror! Another road &quot;demon&quot;! !</title></episode>
+<episode num="93">
+<title gid="2823889364" lang="EN">Strongest confrontation! VS Penguin Penguin! !</title></episode>
+<episode num="94">
+<title gid="1915405109" lang="EN">Fortress stand</title></episode>
+<episode num="95">
+<title gid="3143508913" lang="EN">Absolute Despair! Inazuma Japan Loses?!</title></episode>
+<episode num="96">
+<title gid="1943272494" lang="EN">Fuyuppe's Secret</title></episode>
+<episode num="97">
+<title gid="1632066243" lang="EN">Ichinose's Final Kickoff!!</title></episode>
+<episode num="98">
+<title gid="2350884059" lang="EN">All-Out Friendship! Ichinose VS Endou!!</title></episode>
+<episode num="99">
+<title gid="1422331252" lang="EN">The Phoenix's Determination!</title></episode>
+<episode num="100">
+<title gid="989653830" lang="EN">Miracle! A Kappa Encounter!?</title></episode>
+<episode num="101">
+<title gid="2842556873" lang="EN">Clash! Tiger and Hawk!!</title></episode>
+<episode num="102">
+<title gid="781509260" lang="EN">Reviving Memories! The Truth About Fuyuka!!</title></episode>
+<episode num="103">
+<title gid="2397381959" lang="EN">The Finals At Last! Fidio's Determination</title></episode>
+<episode num="104">
+<title gid="1119144601" lang="EN">The Strongest Hissatsu Tactics! Catennacio Counter!!</title></episode>
+<episode num="105">
+<title gid="3780248591" lang="EN">Fierce Fight! Endou VS Fidio!!</title></episode>
+<episode num="106">
+<title gid="2055747854" lang="EN">The Last Play-Off! Kageyama Reiji!!</title></episode>
+<episode num="107">
+<title gid="1009302407" lang="EN">Grandpa's Last Notebook!</title></episode>
+<episode num="108">
+<title gid="2088477045" lang="EN">The Legend of Liocott Island!</title></episode>
+<episode num="109">
+<title gid="613305432" lang="EN">Messengers of the Sky!</title></episode>
+<episode num="110">
+<title gid="2056524764" lang="EN">Hell's Army Z</title></episode>
+<episode num="111">
+<title gid="1568648641" lang="EN">Descent of the Demon Lord! Dark Angel!!</title></episode>
+<episode num="112">
+<title gid="1628509405" lang="EN">The Kingdom's Darkness</title></episode>
+<episode num="113">
+<title gid="3835737567" lang="EN">Garshield's Conspiracy!</title></episode>
+<episode num="114">
+<title gid="2046585308" lang="EN">Inazuma Japan VS The Kingdom</title></episode>
+<episode num="115">
+<title gid="2614173119" lang="EN">Counterattack of the Soccer Kingdom</title></episode>
+<episode num="116">
+<title gid="1924244131" lang="EN">Extraordinary! Little Gigant!!</title></episode>
+<episode num="117">
+<title gid="846726394" lang="EN">Attack of the Ultimate Enhanced Humans!!</title></episode>
+<episode num="118">
+<title gid="2971720231" lang="EN">The Fearsome Team Garshield!</title></episode>
+<episode num="119">
+<title gid="552860622" lang="EN">The Strongest Rival!</title></episode>
+<episode num="120">
+<title gid="1301814419" lang="EN">Fidio's Intense Friendship Training!</title></episode>
+<episode num="121">
+<title gid="2273546137" lang="EN">To Best in the World! The 11 Words!</title></episode>
+<episode num="122">
+<title gid="1574533336" lang="EN">Inazuma Japan's Last Battle!</title></episode>
+<episode num="123">
+<title gid="3220239396" lang="EN">Championship Finals!! Little Gigant - Part 1</title></episode>
+<episode num="124">
+<title gid="1657093710" lang="EN">Championship Finals!! Little Gigant - Part 2</title></episode>
+<episode num="125">
+<title gid="2890735460" lang="EN">Conclusion at Last! Number One in the World!</title></episode>
+<episode num="126">
+<title gid="1658588613" lang="EN">The Tearful Graduation Ceremony!</title></episode>
+<episode num="127">
+<title gid="842330804" lang="EN">The Kickoff Towards Tomorrow!</title></episode>
+<news datetime="2008-05-14T17:37:54Z" href="http://www.animenewsnetwork.com/news/2008-05-14/manga-anime-cards-announced-for-inazuma-11-videogame">Manga, Anime, Cards Announced for &lt;cite&gt;Inazuma 11&lt;/cite&gt; Videogame</news>
+<news datetime="2008-09-13T16:17:53Z" href="http://www.animenewsnetwork.com/news/2008-09-13/inazuma-eleven-site-launched-with-promo-video">&lt;cite&gt;Inazuma Eleven&lt;/cite&gt; Site Launched with Promo Video</news>
+<news datetime="2009-01-19T04:57:00Z" href="http://www.animenewsnetwork.com/news/2009-01-18/japanese-anime-tv-ranking-december-29-january-4">Japanese Anime TV Ranking, December 29-January 4</news>
+<news datetime="2009-03-30T03:37:47Z" href="http://www.animenewsnetwork.com/news/2009-03-29/japanese-anime-tv-ranking-march-16-22">Japanese Anime TV Ranking, March 16-22</news>
+<news datetime="2009-05-12T20:39:46Z" href="http://www.animenewsnetwork.com/news/2009-05-12/japanese-anime-tv-ranking-april-27-may-3">Japanese Anime TV Ranking, April 27-May 3</news>
+<news datetime="2009-07-14T01:58:40Z" href="http://www.animenewsnetwork.com/news/2009-07-13/japan-animation-tv-ranking-june-29-july-5">Japan's Animation TV Ranking, June 29-July 5</news>
+<news datetime="2009-08-14T02:13:55Z" href="http://www.animenewsnetwork.com/news/2009-08-13/japan-animation-tv-ranking-july-20-26">Japan's Animation TV Ranking, July 20-26</news>
+<news datetime="2009-08-25T06:18:53Z" href="http://www.animenewsnetwork.com/news/2009-08-25/level-5-danboru-senki-robot-game-to-get-tv-anime">Level 5's &lt;cite&gt;Danbōru Senki&lt;/cite&gt; Robot Game to Get TV Anime (Update 2)</news>
+<news datetime="2009-08-25T07:52:05Z" href="http://www.animenewsnetwork.com/news/2009-08-25/level-5-inazuma-eleven-anime-confirmed-for-2nd-year">Level 5's &lt;cite&gt;Inazuma Eleven&lt;/cite&gt; Anime Confirmed for 2nd Year</news>
+<news datetime="2009-10-05T03:57:00Z" href="http://www.animenewsnetwork.com/news/2009-10-04/japan-animation-tv-ranking-september-21-27">Japan's Animation TV Ranking, September 21-27</news>
+<news datetime="2009-10-13T03:57:00Z" href="http://www.animenewsnetwork.com/news/2009-10-12/japan-animation-tv-ranking-september-28-october-4">Japan's Animation TV Ranking, September 28-October 4</news>
+<news datetime="2009-10-17T18:12:38Z" href="http://www.animenewsnetwork.com/news/2009-10-17/japan-animation-tv-ranking-october-5-11">Japan's Animation TV Ranking, October 5-11</news>
+<news datetime="2009-11-10T23:07:11Z" href="http://www.animenewsnetwork.com/news/2009-11-10/japan-animation-tv-ranking-october-26-november-1">Japan's Animation TV Ranking, October 26-November 1</news>
+<news datetime="2009-11-16T14:23:19Z" href="http://www.animenewsnetwork.com/news/2009-11-16/1st-kingrun-anime-songs-kohaku-tv-event-announced">1st &lt;cite&gt;Kingrun Anime Songs Kōhaku&lt;/cite&gt; TV Event Announced</news>
+<news datetime="2009-11-20T04:57:00Z" href="http://www.animenewsnetwork.com/news/2009-11-19/arashi-my-girl-cd-debuts-on-top-of-weekly-chart">Arashi's &lt;cite&gt;My Girl&lt;/cite&gt; CD Debuts on Top of Weekly Chart</news>
+<news datetime="2009-12-29T02:21:16Z" href="http://www.animenewsnetwork.com/news/2009-12-28/japan-animation-tv-ranking-december-14-20">Japan's Animation TV Ranking, December 14-20</news>
+<news datetime="2010-01-12T04:13:04Z" href="http://www.animenewsnetwork.com/news/2010-01-11/japan-animation-tv-ranking-december-21-27">Japan's Animation TV Ranking, December 21-27</news>
+<news datetime="2010-01-26T21:33:53Z" href="http://www.animenewsnetwork.com/news/2010-01-26/japan-animation-tv-ranking-january-4-10">Japan's Animation TV Ranking, January 4-10</news>
+<news datetime="2010-02-01T04:45:48Z" href="http://www.animenewsnetwork.com/news/2010-01-31/japan-animation-tv-ranking-january-11-17">Japan's Animation TV Ranking, January 11-17</news>
+<news datetime="2010-02-10T16:10:58Z" href="http://www.animenewsnetwork.com/news/2010-02-10/level-5-inazuma-11-anime-extended-until-march-2011">Level 5's &lt;cite&gt;Inazuma 11&lt;/cite&gt; Anime Extended Until March 2011</news>
+<news datetime="2010-04-26T21:50:48Z" href="http://www.animenewsnetwork.com/news/2010-04-26/japan-animation-tv-ranking-march-29-april-4">Japan's Animation TV Ranking, March 29-April 4</news>
+<news datetime="2010-05-04T03:38:08Z" href="http://www.animenewsnetwork.com/news/2010-05-03/japan-animation-tv-ranking-april-5-11">Japan's Animation TV Ranking, April 5-11</news>
+<news datetime="2010-06-09T05:24:05Z" href="http://www.animenewsnetwork.com/news/2010-06-09/inazuma-eleven-soccer-rpg-gets-movie-this-winter">&lt;cite&gt;Inazuma Eleven&lt;/cite&gt; Soccer RPG Gets Movie This Winter</news>
+<news datetime="2010-07-06T15:36:34Z" href="http://www.animenewsnetwork.com/news/2010-07-06/japan-animation-tv-ranking-june-14-20">Japan's Animation TV Ranking, June 14-20</news>
+<news datetime="2010-07-13T03:57:00Z" href="http://www.animenewsnetwork.com/news/2010-07-12/japan-animation-tv-ranking-june-28-july-5">Japan's Animation TV Ranking, June 28-July 4</news>
+<news datetime="2010-07-19T02:20:21Z" href="http://www.animenewsnetwork.com/news/2010-07-18/japan-animation-tv-ranking-july-5-11">Japan's Animation TV Ranking, July 5-11</news>
+<news datetime="2010-08-06T01:05:10Z" href="http://www.animenewsnetwork.com/news/2010-08-05/japan-animation-tv-ranking-july-19-25">Japan's Animation TV Ranking, July 19-25</news>
+<news datetime="2010-08-16T17:14:20Z" href="http://www.animenewsnetwork.com/news/2010-08-16/japan-animation-tv-ranking-july-26-august-1">Japan's Animation TV Ranking, July 26-August 1</news>
+<news datetime="2010-08-23T03:04:20Z" href="http://www.animenewsnetwork.com/news/2010-08-22/japan-animation-tv-ranking-august-2-8">Japan's Animation TV Ranking, August 2-8</news>
+<news datetime="2010-09-06T23:35:31Z" href="http://www.animenewsnetwork.com/news/2010-09-06/japan-animation-tv-ranking-august-23-29">Japan's Animation TV Ranking, August 23-29</news>
+<news datetime="2010-09-08T00:48:59Z" href="http://www.animenewsnetwork.com/news/2010-09-08/panty-and-stocking-inazuma-11-agukaru-promos-streamed">&lt;cite&gt;Panty &amp; Stocking, Inazuma 11&lt;/cite&gt;, &lt;cite&gt;Agukaru&lt;/cite&gt; Promos Streamed</news>
+<news datetime="2010-09-13T00:44:17Z" href="http://www.animenewsnetwork.com/news/2010-09-12/japan-animation-tv-ranking-august-30-september-5">Japan's Animation TV Ranking, August 30-September 5</news>
+<news datetime="2010-10-14T12:06:00Z" href="http://www.animenewsnetwork.com/news/2010-10-14/inazuma-eleven-3d-film-tailenders-promos-streamed">&lt;cite&gt;Inazuma Eleven&lt;/cite&gt; 3D Film, &lt;cite&gt;Tailenders&lt;/cite&gt; Promos Streamed</news>
+<news datetime="2010-10-16T20:38:14Z" href="http://www.animenewsnetwork.com/news/2010-10-16/japan-animation-tv-ranking-september-20-26">Japan's Animation TV Ranking, September 20-26</news>
+<news datetime="2010-11-02T03:57:00Z" href="http://www.animenewsnetwork.com/news/2010-11-01/japan-animation-tv-ranking-october-4-10">Japan's Animation TV Ranking, October 4-10</news>
+<news datetime="2010-11-08T05:16:26Z" href="http://www.animenewsnetwork.com/news/2010-11-08/japan-animation-tv-ranking-october-18-24">Japan's Animation TV Ranking, October 18-24</news>
+<news datetime="2010-12-20T17:51:57Z" href="http://www.animenewsnetwork.com/news/2010-12-20/seattle-sakura-con-hosts-idol-group-berryz-kobo">Seattle's Sakura-Con Hosts Idol Group Berryz Kobo</news>
+<news datetime="2011-01-06T04:57:00Z" href="http://www.animenewsnetwork.com/news/2011-01-05/japanese-box-office-december-25-26">Japanese Box Office, December 25-26</news>
+<news datetime="2011-01-08T20:04:41Z" href="http://www.animenewsnetwork.com/news/2011-01-08/inazuma-eleven-to-continue-past-march-in-new-timeslot">&lt;cite&gt;Inazuma Eleven&lt;/cite&gt; to Continue Past March in New Timeslot</news>
+<news datetime="2011-01-12T04:55:24Z" href="http://www.animenewsnetwork.com/news/2011-01-11/japanese-box-office-january-1-2">Japanese Box Office, January 1-2</news>
+<news datetime="2011-01-17T04:57:00Z" href="http://www.animenewsnetwork.com/news/2011-01-16/japanese-box-office-january-8-9">Japanese Box Office, January 8-9</news>
+<news datetime="2011-01-18T04:45:08Z" href="http://www.animenewsnetwork.com/news/2011-01-17/japan-animation-tv-ranking-january-3-9">Japan's Animation TV Ranking, January 3-9</news>
+<news datetime="2011-01-23T04:57:00Z" href="http://www.animenewsnetwork.com/news/2011-01-22/japanese-box-office-january-15-16">Japanese Box Office, January 15-16</news>
+<news datetime="2011-01-25T15:27:01Z" href="http://www.animenewsnetwork.com/news/2011-01-25/level-5-danboru-senki-anime-promo-video-streamed">Level 5's &lt;cite&gt;Danbōru Senki&lt;/cite&gt; Anime Promo Video Streamed</news>
+<news datetime="2011-02-01T03:43:48Z" href="http://www.animenewsnetwork.com/news/2011-01-31/japan-animation-tv-ranking-january-17-23">Japan's Animation TV Ranking, January 17-23</news>
+<news datetime="2011-03-08T04:17:14Z" href="http://www.animenewsnetwork.com/news/2011-03-07/japan-animation-tv-ranking-february-21-27">Japan's Animation TV Ranking, February 21-27</news>
+<news datetime="2011-03-24T03:03:29Z" href="http://www.animenewsnetwork.com/news/2011-03-23/japan-animation-tv-ranking-march-7-13">Japan's Animation TV Ranking, March 7-13</news>
+<news datetime="2011-04-08T02:36:32Z" href="http://www.animenewsnetwork.com/news/2011-04-07/japan-animation-tv-ranking-march-21-27">Japan's Animation TV Ranking, March 21-27</news>
+<news datetime="2011-04-29T03:30:00Z" href="http://www.animenewsnetwork.com/news/2011-04-28/japan-animation-tv-ranking-april-11-17">Japan's Animation TV Ranking, April 11-17</news>
+<news datetime="2011-05-02T23:30:00Z" href="http://www.animenewsnetwork.com/news/2011-05-02/japan-animation-tv-ranking-april-18-24">Japan's Animation TV Ranking, April 18-24</news>
+<news datetime="2011-05-15T03:57:00Z" href="http://www.animenewsnetwork.com/news/2011-05-14/japan-animation-tv-ranking-april-25-may-1">Japan's Animation TV Ranking, April 25-May 1</news>
+<news datetime="2011-06-09T04:45:00Z" href="http://www.animenewsnetwork.com/news/2011-06-09/level-5-to-help-create-gundam-age-anime-this-fall">Level 5 to Help Create &lt;cite&gt;Gundam AGE&lt;/cite&gt; Anime This Fall</news>
+<news datetime="2011-06-12T16:38:01Z" href="http://www.animenewsnetwork.com/news/2011-06-13/weeklywrapup5jun11jun">Weekly Wrapup 5/Jun - 11/Jun</news>
+<news datetime="2011-06-13T04:55:00Z" href="http://www.animenewsnetwork.com/news/2011-06-13/sgt-frog-susumu-yamaguchi-to-direct-gundam-age">&lt;cite&gt;Sgt. Frog's&lt;/cite&gt; Susumu Yamaguchi to Direct &lt;cite&gt;Gundam AGE&lt;/cite&gt;</news>
+<news datetime="2011-06-15T14:00:00Z" href="http://www.animenewsnetwork.com/news/2011-06-15/inazuma-eleven-go-soccer-rpg-film-to-open-in-december">&lt;cite&gt;Inazuma Eleven Go&lt;/cite&gt; Soccer RPG Film to Open in December</news>
+<news datetime="2011-07-27T01:18:15Z" href="http://www.animenewsnetwork.com/news/2011-07-26/inazuma-eleven-anime-runs-on-uk-disney-xd-channel">&lt;cite&gt;Inazuma Eleven&lt;/cite&gt; Anime Runs on UK's Disney XD Channel</news>
+<news datetime="2011-07-29T01:33:18Z" href="http://www.animenewsnetwork.com/news/2011-07-28/level-5-files-u.s-trademark-for-little-battlers-franchise">Level-5 Files U.S. Trademark for &lt;cite&gt;Little Battlers&lt;/cite&gt; Franchise</news>
+<news datetime="2011-08-01T19:30:00Z" href="http://www.animenewsnetwork.com/news/2011-08-01/little-battlers-experience/danbo-senki-anime-offered-in-u.s">&lt;cite&gt;Little Battlers eXperience/Danbōru Senki&lt;/cite&gt; Anime Offered in U.S.</news>
+<news datetime="2011-08-11T02:15:21Z" href="http://www.animenewsnetwork.com/news/2011-08-10/gundam-age-premiere-slated-for-october-9">&lt;cite&gt;Gundam AGE's&lt;/cite&gt; Premiere Slated for October 9</news>
+<news datetime="2011-08-13T04:01:00Z" href="http://www.animenewsnetwork.com/news/2011-08-13/newtype-ufotable-to-host-anime-awards">Newtype, Ufotable to Host Anime Awards</news>
+<news datetime="2011-08-29T14:30:37Z" href="http://www.animenewsnetwork.com/news/2011-08-29/gundam-age-promotional-videos-streamed">&lt;cite&gt;Gundam AGE's&lt;/cite&gt; Promotional Videos Streamed</news>
+<news datetime="2011-09-22T00:00:00Z" href="http://www.animenewsnetwork.com/interest/2011-09-21/gundam-age-anime-tv-ad-streamed">&lt;cite&gt;Gundam AGE&lt;/cite&gt; Anime's TV Ad Streamed</news>
+<news datetime="2011-10-08T17:30:07Z" href="http://www.animenewsnetwork.com/news/2011-10-08/nikkei/gundam-age-anime-to-stream-in-5-languages">&lt;cite&gt;Nikkei:&lt;/cite&gt; &lt;cite&gt;Gundam AGE&lt;/cite&gt; to Stream in 5 Languages as It Airs</news>
+<news datetime="2011-10-17T13:57:57Z" href="http://www.animenewsnetwork.com/news/2011-10-18/weekly-wrapup-9/oct-15/oct">Weekly Wrapup - 9/Oct - 15/Oct</news>
+<news datetime="2011-10-18T16:00:29Z" href="http://www.animenewsnetwork.com/news/2011-10-18/zetman-tv-anime-staff-at-tms-entertainment-confirmed">&lt;cite&gt;Zetman&lt;/cite&gt; TV Anime's Staff at TMS Entertainment Confirmed</news>
+<news datetime="2012-01-09T03:00:25Z" href="http://www.animenewsnetwork.com/news/2012-01-08/japanese-box-office-december-24-25">Japanese Box Office, December 24-25</news>
+<news datetime="2012-01-10T21:30:00Z" href="http://www.animenewsnetwork.com/news/2012-01-10/inazuma-eleven-go-film-1st-11-minutes-streamed">&lt;cite&gt;Inazuma Eleven GO&lt;/cite&gt; Film's 1st 11 Minutes Streamed</news>
+<news datetime="2012-01-16T01:05:00Z" href="http://www.animenewsnetwork.com/news/2012-01-15/japanese-box-office-december-31-january-1">Japanese Box Office, December 31-January 1</news>
+<news datetime="2012-01-16T23:30:00Z" href="http://www.animenewsnetwork.com/news/2012-01-16/japanese-box-office-january-7-8">Japanese Box Office, January 7-8</news>
+<news datetime="2012-01-16T21:45:00Z" href="http://www.animenewsnetwork.com/news/2012-01-16/japanese-anime-tv-ranking/december-26-january-1">Japanese Animation TV Ranking, December 26-January 1</news>
+<news datetime="2012-01-23T03:05:47Z" href="http://www.animenewsnetwork.com/news/2012-01-22/japanese-box-office-january-14-15">Japanese Box Office, January 14-15</news>
+<news datetime="2012-01-29T02:45:00Z" href="http://www.animenewsnetwork.com/news/2012-01-28/japanese-box-office-january-21-22">Japanese Box Office, January 21-22</news>
+<news datetime="2012-02-05T03:00:00Z" href="http://www.animenewsnetwork.com/news/2012-02-04/japanese-box-office-january-28-29">Japanese Box Office, January 28-29</news>
+<news datetime="2012-03-11T00:50:00Z" href="http://www.animenewsnetwork.com/news/2012-03-10/inazuma-eleven-new-series-is-a-time-travel-adventure">&lt;cite&gt;Inazuma Eleven's&lt;/cite&gt; New Series Is a Time Travel Adventure</news>
+<news datetime="2012-03-12T19:28:48Z" href="http://www.animenewsnetwork.com/news/2012-03-12/inazuma-eleven-go-chrono-anime-to-premiere-on-april-18">&lt;cite&gt;Inazuma Eleven Go 2: Chrono Stone&lt;/cite&gt; Anime to Premiere on April 18</news>
+<news datetime="2012-05-30T03:28:09Z" href="http://www.animenewsnetwork.com/news/2012-05-29/inazuma-eleven-strikers-trademarked-in-europe">&lt;cite&gt;Inazuma Eleven Strikers&lt;/cite&gt; Trademarked in Europe</news>
+<news datetime="2012-08-09T01:18:50Z" href="http://www.animenewsnetwork.com/news/2012-08-09/inazuma-eleven-screening-on-citv-digital-channel">&lt;i&gt;Inazuma Eleven&lt;/i&gt; Screening on CITV Digital Channel</news>
+<news datetime="2012-09-11T22:30:00Z" href="http://www.animenewsnetwork.com/news/2012-09-11/japan-animation-dvd-ranking-september-3-9">Japan's Animation DVD Ranking, September 3-9</news>
+<news datetime="2012-11-07T19:00:00Z" href="http://www.animenewsnetwork.com/news/2012-11-07/japan-animation-dvd-ranking-october-29-november-4">Japan's Animation DVD Ranking, October 29-November 4</news>
+<news datetime="2012-12-11T14:50:00Z" href="http://www.animenewsnetwork.com/news/2012-12-11/sega-sues-level-5-seeks-to-block-inazuma-eleven-game-sales">Sega Sues Level 5, Seeks to Block &lt;cite&gt;Inazuma Eleven&lt;/cite&gt; Game Sales</news>
+<news datetime="2013-08-14T16:00:00Z" href="http://www.animenewsnetwork.com/news/2013-08-14/little-battlers-experience/danboru-senki-english-dub-previewed-in-video">&lt;cite&gt;Little Battlers eXperience/Danbōru Senki's&lt;/cite&gt; English Dub Previewed in Video</news>
+<news datetime="2013-12-13T17:00:00Z" href="http://www.animenewsnetwork.com/news/2013-12-13/inazuma-eleven-now-streaming-on-hulu-with-english-spanish-dubs">&lt;cite&gt;Inazuma Eleven&lt;/cite&gt; Now Streaming on Hulu with English, Spanish Dubs</news>
+<news datetime="2014-02-14T06:00:00Z" href="http://www.animenewsnetwork.com/news/2014-02-14/inazuma-eleven-soccer-rpg-for-3ds-debuts-in-n-america">&lt;cite&gt;Inazuma Eleven&lt;/cite&gt; Soccer RPG for 3DS Debuts in N. America</news>
+<news datetime="2014-03-19T14:00:00Z" href="http://www.animenewsnetwork.com/news/2014-03-19/inazuma-eleven-ends-5.5-year-tv-run-but-new-film-is-coming">&lt;cite&gt;Inazuma Eleven&lt;/cite&gt; Ends 5.5-Year TV Run, But New Film Is Coming</news>
+<staff gid="2684001258"><task>Chief Director</task><person id="991">Katsuhito Akiyama</person></staff>
+<staff gid="1142763839"><task>Director</task><person id="991">Katsuhito Akiyama</person></staff>
+<staff gid="1672578016"><task>Director</task><person id="16436">Yoshikazu Miyao</person></staff>
+<staff gid="1466945003"><task>Director</task><person id="29498">Norio Nitta</person></staff>
+<staff gid="2345696797"><task>Series Composition</task><person id="1623">Atsuhiro Tomioka</person></staff>
+<staff gid="2835458838"><task>Script</task><person id="1623">Atsuhiro Tomioka</person></staff>
+<staff gid="2201759313"><task>Script</task><person id="10424">Masashi Sogo</person></staff>
+<staff gid="481099836"><task>Screenplay</task><person id="402">Hiroshi Ohnogi</person></staff>
+<staff gid="3775499003"><task>Screenplay</task><person id="1623">Atsuhiro Tomioka</person></staff>
+<staff gid="2576662618"><task>Screenplay</task><person id="1723">Kenichi Yamada</person></staff>
+<staff gid="837971058"><task>Screenplay</task><person id="10039">Akihiko Inari</person></staff>
+<staff gid="2103992924"><task>Screenplay</task><person id="46001">Tatsuto Higuchi</person></staff>
+<staff gid="2508248664"><task>Screenplay</task><person id="50891">Yukinori Fukushima</person></staff>
+<staff gid="2156087505"><task>Storyboard</task><person id="991">Katsuhito Akiyama</person></staff>
+<staff gid="1700817150"><task>Storyboard</task><person id="1560">Naohito Takahashi</person></staff>
+<staff gid="2777683050"><task>Storyboard</task><person id="4093">Michio Fukuda</person></staff>
+<staff gid="1935519393"><task>Storyboard</task><person id="5027">Hitoyuki Matsui</person></staff>
+<staff gid="3145764190"><task>Storyboard</task><person id="6704">Toru Yoshida</person></staff>
+<staff gid="2555453472"><task>Storyboard</task><person id="7343">Jun'ichi Sakata</person></staff>
+<staff gid="2069566327"><task>Storyboard</task><person id="8042">Shinichi Yoshino</person></staff>
+<staff gid="4030116382"><task>Storyboard</task><person id="8237">Ken Koyama</person></staff>
+<staff gid="2103223888"><task>Storyboard</task><person id="11260">Toshifumi Takizawa</person></staff>
+<staff gid="3567898104"><task>Storyboard</task><person id="11374">Hiroyuki Yano</person></staff>
+<staff gid="1528412911"><task>Storyboard</task><person id="12542">Noriyoshi Nakamura</person></staff>
+<staff gid="2386258379"><task>Storyboard</task><person id="13011">Toshiaki Hontani</person></staff>
+<staff gid="3093349712"><task>Storyboard</task><person id="16034">Masato Sato</person></staff>
+<staff gid="1631418920"><task>Storyboard</task><person id="16180">Jouji Shimura</person></staff>
+<staff gid="1511931970"><task>Storyboard</task><person id="16436">Yoshikazu Miyao</person></staff>
+<staff gid="1869038815"><task>Storyboard</task><person id="19534">Noboru Misawa</person></staff>
+<staff gid="1815599546"><task>Storyboard</task><person id="21261">Shuichi Hirokawa</person></staff>
+<staff gid="2371916954"><task>Storyboard</task><person id="30647">Roku Iwata</person></staff>
+<staff gid="1390586228"><task>Storyboard</task><person id="31476">Atsushi Nigorikawa</person></staff>
+<staff gid="3156959263"><task>Storyboard</task><person id="31718">Yumi Kamakura</person></staff>
+<staff gid="1707813481"><task>Storyboard</task><person id="32692">Hideaki Uehara</person></staff>
+<staff gid="1091159319"><task>Storyboard</task><person id="35200">Masatoshi Hakada</person></staff>
+<staff gid="650319744"><task>Storyboard</task><person id="41843">Kentaro Yamaguchi</person></staff>
+<staff gid="2438506967"><task>Storyboard</task><person id="67843">Daisuke Chikushi</person></staff>
+<staff gid="359624993"><task>Storyboard</task><person id="88202">Tomoko Iwasaki</person></staff>
+<staff gid="2017593049"><task>Episode Director</task><person id="991">Katsuhito Akiyama</person></staff>
+<staff gid="465587133"><task>Episode Director</task><person id="5858">Atsushi Yano</person></staff>
+<staff gid="1138205279"><task>Episode Director</task><person id="6704">Toru Yoshida</person></staff>
+<staff gid="2711830613"><task>Episode Director</task><person id="8237">Ken Koyama</person></staff>
+<staff gid="2239675867"><task>Episode Director</task><person id="8561">Hiroshi Ishiodori</person></staff>
+<staff gid="2860315277"><task>Episode Director</task><person id="8926">Jiro Fujimoto</person></staff>
+<staff gid="3425385831"><task>Episode Director</task><person id="13830">Hirokazu Yamada</person></staff>
+<staff gid="1663626794"><task>Episode Director</task><person id="14475">Takeshi Yoshimoto</person></staff>
+<staff gid="1080092692"><task>Episode Director</task><person id="16436">Yoshikazu Miyao</person></staff>
+<staff gid="1635957432"><task>Episode Director</task><person id="21261">Shuichi Hirokawa</person></staff>
+<staff gid="1396563758"><task>Episode Director</task><person id="29498">Norio Nitta</person></staff>
+<staff gid="537241123"><task>Episode Director</task><person id="31476">Atsushi Nigorikawa</person></staff>
+<staff gid="2743445199"><task>Episode Director</task><person id="31718">Yumi Kamakura</person></staff>
+<staff gid="1916580213"><task>Episode Director</task><person id="32691">Tomoko Hiramuki</person></staff>
+<staff gid="920551591"><task>Episode Director</task><person id="32692">Hideaki Uehara</person></staff>
+<staff gid="2100985037"><task>Episode Director</task><person id="33153">Keizo Nakamura</person></staff>
+<staff gid="1570172980"><task>Episode Director</task><person id="41843">Kentaro Yamaguchi</person></staff>
+<staff gid="2163542218"><task>Episode Director</task><person id="49351">Akiko Honda</person></staff>
+<staff gid="1394110364"><task>Episode Director</task><person id="73001">Naokatsu Tsuda</person></staff>
+<staff gid="4050459725"><task>Episode Director</task><person id="74100">Shunsuke Fukui</person></staff>
+<staff gid="2329131105"><task>Episode Director</task><person id="75295">Geisei Morita</person></staff>
+<staff gid="1973529271"><task>Episode Director</task><person id="88202">Tomoko Iwasaki</person></staff>
+<staff gid="1365292773"><task>Episode Director</task><person id="90386">Takechika Narikawa</person></staff>
+<staff gid="2280761715"><task>Episode Director</task><person id="93196">Daiki Tomiyasu</person></staff>
+<staff gid="2386388925"><task>Music</task><person id="46751">Yasunori Mitsuda</person></staff>
+<staff gid="1449357750"><task>Original story</task><person id="75629">Akihiro Hino</person></staff>
+<staff gid="3268217781"><task>Character Design</task><person id="13">Yuji Ikeda</person></staff>
+<staff gid="1173184083"><task>Character Design</task><person id="8115">Yuko Inoue</person></staff>
+<staff gid="472579444"><task>Art Director</task><person id="80311">Tsutomu Nishikura</person></staff>
+<staff gid="1686140118"><task>Chief Animation Director</task><person id="13">Yuji Ikeda</person></staff>
+<staff gid="1688117152"><task>Chief Animation Director</task><person id="8115">Yuko Inoue</person></staff>
+<staff gid="2050679176"><task>Animation Director</task><person id="62">Yoshiaki Yanagida</person></staff>
+<staff gid="945947491"><task>Animation Director</task><person id="183">Jun Yukawa</person></staff>
+<staff gid="2005958807"><task>Animation Director</task><person id="653">Koichi Kikuchi</person></staff>
+<staff gid="1769714663"><task>Animation Director</task><person id="4089">Hiroyuki Okuno</person></staff>
+<staff gid="1461832532"><task>Animation Director</task><person id="5113">Atsushi Aono</person></staff>
+<staff gid="2854227640"><task>Animation Director</task><person id="5879">Akira Takeuchi</person></staff>
+<staff gid="1698145304"><task>Animation Director</task><person id="8115">Yuko Inoue</person></staff>
+<staff gid="2017180146"><task>Animation Director</task><person id="8828">Chizuko Kusakabe</person></staff>
+<staff gid="2993693417"><task>Animation Director</task><person id="10852">Takahiko Yoshida</person></staff>
+<staff gid="666448383"><task>Animation Director</task><person id="11235">Haruo Sotozaki</person></staff>
+<staff gid="2493953798"><task>Animation Director</task><person id="11719">Yukio Okano</person></staff>
+<staff gid="1004658560"><task>Animation Director</task><person id="11819">Hiroyuki Terada</person></staff>
+<staff gid="3541313439"><task>Animation Director</task><person id="14866">Masahiro Kase</person></staff>
+<staff gid="2600554176"><task>Animation Director</task><person id="15694">Ichiro Ogawa</person></staff>
+<staff gid="2633628292"><task>Animation Director</task><person id="19531">Masami Abe</person></staff>
+<staff gid="2511525567"><task>Animation Director</task><person id="20521">Hajime Matsuzaki</person></staff>
+<staff gid="315988991"><task>Animation Director</task><person id="21362">Kumiko Shishido</person></staff>
+<staff gid="1677246821"><task>Animation Director</task><person id="22620">Sadatoshi Matsuzaka</person></staff>
+<staff gid="4060704637"><task>Animation Director</task><person id="23179">Takashi Yokoyama</person></staff>
+<staff gid="711707709"><task>Animation Director</task><person id="25200">Konomi Sakurai</person></staff>
+<staff gid="1567869775"><task>Animation Director</task><person id="29599">Takuji Yoshimoto</person></staff>
+<staff gid="2245649305"><task>Animation Director</task><person id="34469">Yosuke Yabumoto</person></staff>
+<staff gid="1863322191"><task>Animation Director</task><person id="35674">Taeko Oda</person></staff>
+<staff gid="3814929323"><task>Animation Director</task><person id="40242">Akihide Muraji</person></staff>
+<staff gid="1521089164"><task>Animation Director</task><person id="41204">Kiyotaka Iida</person></staff>
+<staff gid="2440838617"><task>Animation Director</task><person id="45777">Shuji Tanaka</person></staff>
+<staff gid="1720973305"><task>Animation Director</task><person id="48040">Chizuru Mori</person></staff>
+<staff gid="1942166167"><task>Animation Director</task><person id="49647">Sang-Jin Park</person></staff>
+<staff gid="1847376212"><task>Animation Director</task><person id="49910">Ryou Kodama</person></staff>
+<staff gid="3863536283"><task>Animation Director</task><person id="55764">Mai Ishii</person></staff>
+<staff gid="2112503309"><task>Animation Director</task><person id="56292">Takashi Narikawa</person></staff>
+<staff gid="1340906365"><task>Animation Director</task><person id="65270">Shou Kawashima</person></staff>
+<staff gid="2335276993"><task>Animation Director</task><person id="72870">Yuki Nishioka</person></staff>
+<staff gid="734036041"><task>Animation Director</task><person id="79232">Mayuko Nakano</person></staff>
+<staff gid="1778580405"><task>Animation Director</task><person id="79530">Yasukazu Tōkairin</person></staff>
+<staff gid="1644305286"><task>Animation Director</task><person id="81184">Kōnosuke Yoshihara</person></staff>
+<staff gid="2544223955"><task>Animation Director</task><person id="97509">Yōsuke Dan</person></staff>
+<staff gid="1867038802"><task>Animation Director</task><person id="101964">Mitsuki Takeuchi</person></staff>
+<staff gid="1965294853"><task>Sound Director</task><person id="317">Masafumi Mima</person></staff>
+<staff gid="2279861985"><task>Producer</task><person id="4879">Fukashi Azuma</person></staff>
+<staff gid="2773081637"><task>Producer</task><person id="88942">Sayako Muramatsu</person></staff>
+<staff gid="1767248083"><task>Producer</task><person id="88943">Kiyofumi Kajiwara</person></staff>
+<cast gid="3163108942" lang="AR"><role>Natsumi Raimon</role><person id="82172">Faten Eido</person></cast>
+<cast gid="2100590380" lang="AR"><role>Ryugo Someoka</role><person id="85301">Adel Abu-Hassoun</person></cast>
+<cast gid="2835389367" lang="AR"><role>Shiro Fubuki</role><person id="91913">Ayas Abu Ghazaleh</person></cast>
+<cast gid="3667752451" lang="DE"><role>Nelly Raimon</role><person id="21775">Caroline Combrinck</person></cast>
+<cast gid="1728406748" lang="DE"><role>Timmy Sanders</role><person id="21775">Caroline Combrinck</person></cast>
+<cast gid="1353781478" lang="DE"><role>Kevin Dragonfly</role><person id="22962">Dirk Meyer</person></cast>
+<cast gid="2632618941" lang="DE"><role>Bobby Shearer</role><person id="25567">Daniel Schlauch</person></cast>
+<cast gid="1640989308" lang="DE"><role>Mawell &quot;Max&quot; Carson</role><person id="28897">Angela Wiederhut</person></cast>
+<cast gid="245758307" lang="DE"><role>Seymour Hillman</role><person id="30109">Reinhard Brock</person></cast>
+<cast gid="832723864" lang="DE"><role>Ray Dark</role><person id="30170">Crock Krumbiegel</person></cast>
+<cast gid="1485491773" lang="DE"><role>Seymour Hillman</role><person id="30170">Crock Krumbiegel</person></cast>
+<cast gid="2148560882" lang="DE"><role>Jack Wallside</role><person id="33226">Benedikt Gutjan</person></cast>
+<cast gid="4217756029" lang="DE"><role>Nathan Swift</role><person id="45818">Roman Wolko</person></cast>
+<cast gid="604118518" lang="DE"><role>Chester Horse. Jr</role><person id="48379">Gerhard Jilka</person></cast>
+<cast gid="2536994836" lang="DE"><role>Mark Evans</role><person id="49566">Maximilian Belle</person></cast>
+<cast gid="1077010673" lang="DE"><role>Steve Grim</role><person id="61329">Tobias John von Freyend</person></cast>
+<cast gid="1722878287" lang="DE"><role>Jim Wraith</role><person id="69878">Max Felder</person></cast>
+<cast gid="1470875332" lang="DE"><role>Jude Sharp</role><person id="69878">Max Felder</person></cast>
+<cast gid="1140584702" lang="DE"><role>Willy Glass</role><person id="69878">Max Felder</person></cast>
+<cast gid="365314772" lang="DE"><role>Celia Hills</role><person id="70466">Farina Brock</person></cast>
+<cast gid="2113581546" lang="DE"><role>Silvia Woods</role><person id="71009">Gabrielle Pietermann</person></cast>
+<cast gid="2401882803" lang="DE"><role>Byron Love</role><person id="71855">Patrick Roche</person></cast>
+<cast gid="1686581560" lang="DE"><role>Tod Ironside</role><person id="71855">Patrick Roche</person></cast>
+<cast gid="2601191557" lang="DE"><role>Axel Blaze</role><person id="99629">Paul Sedlmeir</person></cast>
+<cast gid="2433517475" lang="EN"><role>Axel Blaze</role><person id="14137">Bryce Papenbrook</person></cast>
+<cast gid="2074973910" lang="EN"><role>Jude Sharp</role><person id="62696">Lucien Dodge</person></cast>
+<cast gid="2829600654" lang="EN"><role>Axel Blaze</role><person id="64567">David Lee Mckinney</person></cast>
+<cast gid="3561073526" lang="EN"><role>Byron Love</role><person id="64567">David Lee Mckinney</person></cast>
+<cast gid="2351900891" lang="EN"><role>Joseph King</role><person id="64567">David Lee Mckinney</person></cast>
+<cast gid="2540632622" lang="EN"><role>Willy Glass</role><person id="64567">David Lee Mckinney</person></cast>
+<cast gid="1427083948" lang="EN"><role>Scotty Banyan</role><person id="67791">Andrea Kwan</person></cast>
+<cast gid="1453049891" lang="EN"><role>Sue Heartland</role><person id="67791">Andrea Kwan</person></cast>
+<cast gid="3018240734" lang="EN"><role>Timmy Sanders</role><person id="67791">Andrea Kwan</person></cast>
+<cast gid="1798853075" lang="EN"><role>Tori Vanguard</role><person id="67791">Andrea Kwan</person></cast>
+<cast gid="3065523385" lang="EN"><role>Mark Evans</role><person id="69084">Sarah Hauser</person></cast>
+<cast gid="1150081100" lang="EN"><role>Nelly Raimon</role><person id="69084">Sarah Hauser</person></cast>
+<cast gid="2577691049" lang="EN"><role>Silvia Woods</role><person id="69084">Sarah Hauser</person></cast>
+<cast gid="1640418674" lang="EN"><role>Claude Beacons</role><person id="70284">Dave Bridges</person></cast>
+<cast gid="1364796999" lang="EN"><role>Hurley Kane</role><person id="70284">Dave Bridges</person></cast>
+<cast gid="2620326782" lang="EN"><role>Jude Sharp</role><person id="70284">Dave Bridges</person></cast>
+<cast gid="1130797730" lang="EN"><role>Sam Kincaid</role><person id="70284">Dave Bridges</person></cast>
+<cast gid="2537191651" lang="EN"><role>Seymour Hillman</role><person id="70284">Dave Bridges</person></cast>
+<cast gid="2505259860" lang="EN"><role>Shawn Frost</role><person id="70284">Dave Bridges</person></cast>
+<cast gid="3844583137" lang="EN"><role>Steve Grim</role><person id="70284">Dave Bridges</person></cast>
+<cast gid="1396030504" lang="EN"><role>Silvia Woods</role><person id="70467">Kira Buckland</person></cast>
+<cast gid="3554703535" lang="EN"><role>Caleb Stonewall</role><person id="73062">Scott Evans</person></cast>
+<cast gid="1686737018" lang="EN"><role>Erik Eagle</role><person id="73062">Scott Evans</person></cast>
+<cast gid="2412221219" lang="EN"><role>Kevin Dragonfly</role><person id="73062">Scott Evans</person></cast>
+<cast gid="2513877689" lang="EN"><role>Mark Evans</role><person id="104711">Erik Kimerer</person></cast>
+<cast gid="477418183" lang="EN"><role>Astram Schiller</role><person id="111881">Michael Pizzuto</person></cast>
+<cast gid="2328154915" lang="EN"><role>Bobby Shearer</role><person id="111881">Michael Pizzuto</person></cast>
+<cast gid="2374427934" lang="EN"><role>Chester Horse Jr.</role><person id="111881">Michael Pizzuto</person></cast>
+<cast gid="835612546" lang="EN"><role>David Samford</role><person id="111881">Michael Pizzuto</person></cast>
+<cast gid="1268049498" lang="EN"><role>Jordan Greenway</role><person id="111881">Michael Pizzuto</person></cast>
+<cast gid="3779793923" lang="EN"><role>Xavier Foster</role><person id="111881">Michael Pizzuto</person></cast>
+<cast gid="2533570132" lang="EN"><role>Scotty Banyan</role><person id="112027">Gloria Ansell</person></cast>
+<cast gid="3790399604" lang="EN"><role>Sue Heartland</role><person id="112027">Gloria Ansell</person></cast>
+<cast gid="2095392065" lang="EN"><role>Darren LaChance</role><person id="112029">Richard Magarey</person></cast>
+<cast gid="3201208825" lang="EN"><role>Dave Quagmire</role><person id="112029">Richard Magarey</person></cast>
+<cast gid="2973331211" lang="EN"><role>Jack Wallside</role><person id="112029">Richard Magarey</person></cast>
+<cast gid="2346392344" lang="EN"><role>Ray Dark</role><person id="112029">Richard Magarey</person></cast>
+<cast gid="2909054680" lang="EN"><role>Tod Ironside</role><person id="112029">Richard Magarey</person></cast>
+<cast gid="1812748064" lang="ES"><role>Kakuma Keita</role><person id="23486">Mario Castañeda</person></cast>
+<cast gid="1957456703" lang="ES"><role>Natsumi Raimon</role><person id="24147">Erika Rendón</person></cast>
+<cast gid="3950014770" lang="ES"><role>Kurimatsu Teppei</role><person id="24149">Ernesto Lezama</person></cast>
+<cast gid="2572292765" lang="ES"><role>Burn / Nagumo Haruya</role><person id="24155">Gabriel Ortiz</person></cast>
+<cast gid="1697835336" lang="ES"><role>Handa Shinichi</role><person id="24155">Gabriel Ortiz</person></cast>
+<cast gid="3298342395" lang="ES"><role>Furukabu</role><person id="24161">Eduardo Fonseca</person></cast>
+<cast gid="2118575858" lang="ES"><role>Matsuno Kusuuke</role><person id="24163">Ricardo Bautista</person></cast>
+<cast gid="446409387" lang="ES"><role>Someoka Ryugo</role><person id="24164">Luis Alfonso Padilla</person></cast>
+<cast gid="3869071260" lang="ES"><role>Reiji Kageyama</role><person id="24168">Jorge Santos</person></cast>
+<cast gid="1287638637" lang="ES"><role>Lika Urabe</role><person id="31130">Ana Lucia Ramos</person></cast>
+<cast gid="912348578" lang="ES"><role>Kudou Michiya Coach</role><person id="31134">Rolando De la Fuente</person></cast>
+<cast gid="2283295236" lang="ES"><role>Erik Eagle</role><person id="32149">Carmen Podio</person></cast>
+<cast gid="874345330" lang="ES"><role>Claude Beacons/Torch</role><person id="32151">Jorge Saudinós</person></cast>
+<cast gid="1934314661" lang="ES"><role>Nathan Swift</role><person id="32151">Jorge Saudinós</person></cast>
+<cast gid="1375222496" lang="ES"><role>Kazemaru Ichirouta</role><person id="36891">Mireya Mendoza</person></cast>
+<cast gid="1229447945" lang="ES"><role>Kogure Yuuya</role><person id="40617">Igor Cruz</person></cast>
+<cast gid="1753935390" lang="ES"><role>Hide Nakata</role><person id="47700">José Carabias</person></cast>
+<cast gid="824032787" lang="ES"><role>Jack Wallside</role><person id="47700">José Carabias</person></cast>
+<cast gid="1575340872" lang="ES"><role>Nelly Raimon</role><person id="47702">Marta Sáinz</person></cast>
+<cast gid="2145471622" lang="ES"><role>William &quot;Willy&quot; Glass</role><person id="47702">Marta Sáinz</person></cast>
+<cast gid="892168241" lang="ES"><role>Caleb Stonewall</role><person id="47708">Alex Saudinós</person></cast>
+<cast gid="1739835850" lang="ES"><role>Dylan Keats</role><person id="47708">Alex Saudinós</person></cast>
+<cast gid="2418306057" lang="ES"><role>Darren LaChance</role><person id="47714">Diana Torres</person></cast>
+<cast gid="1433338935" lang="ES"><role>Lina Schiller</role><person id="47714">Diana Torres</person></cast>
+<cast gid="3948934923" lang="ES"><role>Steve Grim</role><person id="47714">Diana Torres</person></cast>
+<cast gid="1160665830" lang="ES"><role>Bobby Shearer</role><person id="47737">Jaime Roca</person></cast>
+<cast gid="3649581043" lang="ES"><role>Edgar Partinus</role><person id="47738">Alfredo Martínez</person></cast>
+<cast gid="391381971" lang="ES"><role>Godric Wyles</role><person id="47738">Alfredo Martínez</person></cast>
+<cast gid="4187900594" lang="ES"><role>Kevin Dragonfly</role><person id="47738">Alfredo Martínez</person></cast>
+<cast gid="2399087411" lang="ES"><role>Zoolan Rice</role><person id="47738">Alfredo Martínez</person></cast>
+<cast gid="1453597687" lang="ES"><role>Paolo Bianchi</role><person id="47739">Pepa Agudo</person></cast>
+<cast gid="2887120610" lang="ES"><role>Suzette &quot;Sue&quot; Hartland</role><person id="47739">Pepa Agudo</person></cast>
+<cast gid="2362414350" lang="ES"><role>Tim &quot;Timmy&quot; Saunders</role><person id="47739">Pepa Agudo</person></cast>
+<cast gid="1758069623" lang="ES"><role>Ray Dark</role><person id="47742">Eugenio Barona</person></cast>
+<cast gid="2562558848" lang="ES"><role>Astram Schiller</role><person id="47744">José María Carrero</person></cast>
+<cast gid="1452557468" lang="ES"><role>Hurley Kane</role><person id="47744">José María Carrero</person></cast>
+<cast gid="1763610062" lang="ES"><role>Styleen Vanguard</role><person id="47744">José María Carrero</person></cast>
+<cast gid="2112766444" lang="ES"><role>Celia Hills</role><person id="47746">Carolina Tak</person></cast>
+<cast gid="2821398368" lang="ES"><role>Tod Ironside</role><person id="47746">Carolina Tak</person></cast>
+<cast gid="2465624926" lang="ES"><role>Erik Eagle</role><person id="47768">Amalia Cantarero</person></cast>
+<cast gid="2087250024" lang="ES"><role>Isabelle Trick/Bellatrix</role><person id="47768">Amalia Cantarero</person></cast>
+<cast gid="2893479903" lang="ES"><role>Matsuno Kusuuke</role><person id="48551">Arturo Castañeda</person></cast>
+<cast gid="1314867889" lang="ES"><role>Gazelle/Fuusuke Suzuno</role><person id="48608">Rebeca Gómez</person></cast>
+<cast gid="2941058802" lang="ES"><role>Haruna Otonashi</role><person id="48608">Rebeca Gómez</person></cast>
+<cast gid="540539328" lang="ES"><role>Mark Krueger</role><person id="50381">Emilio García</person></cast>
+<cast gid="2063232503" lang="ES"><role>Seymour Hillman</role><person id="50387">Angel Amorós</person></cast>
+<cast gid="2782053992" lang="ES"><role>Scott &quot;Scotty&quot; Banyan</role><person id="50570">Pilar Puebla</person></cast>
+<cast gid="1996518629" lang="ES"><role>Percival Travis</role><person id="50577">José Padilla</person></cast>
+<cast gid="706612281" lang="ES"><role>Axel Blaze</role><person id="50622">Blanca Rada</person></cast>
+<cast gid="764048184" lang="ES"><role>Austin Hobbes</role><person id="50623">Miriam Valencia</person></cast>
+<cast gid="2398656877" lang="ES"><role>Lesse / Ryuuji Midorikawa</role><person id="50673">Javier Olguín</person></cast>
+<cast gid="1075194385" lang="ES"><role>Mark Evans</role><person id="50683">Rosa Vivas</person></cast>
+<cast gid="2308680896" lang="ES"><role>Bryce Withingale/Gazelle</role><person id="50702">Ricardo Escobar</person></cast>
+<cast gid="807945528" lang="ES"><role>Paolo Bianchi</role><person id="50748">Ana Plaza</person></cast>
+<cast gid="2920002778" lang="ES"><role>Archer Hawkins</role><person id="52349">Luis Manuel Martín Díaz</person></cast>
+<cast gid="1982104323" lang="ES"><role>Sonny Raimon</role><person id="52350">Miguel Ángel Del Hoyo</person></cast>
+<cast gid="3129711717" lang="ES"><role>Yuuki Tachimukai</role><person id="52835">Alan Prieto</person></cast>
+<cast gid="765510702" lang="ES"><role>Aphrodi (Afuro Terumi)</role><person id="53112">Arturo Mercado Jr.</person></cast>
+<cast gid="2286457816" lang="ES"><role>Byron Love/Aphrodite</role><person id="62599">Silvia Sarmentera</person></cast>
+<cast gid="866119719" lang="ES"><role>Dylan Keats</role><person id="69355">Sergio Garcia</person></cast>
+<cast gid="832945652" lang="ES"><role>Jude Sharp</role><person id="69363">Javier Lorca</person></cast>
+<cast gid="927191314" lang="ES"><role>Edgar Partinus</role><person id="69366">Juan Navarro Torello</person></cast>
+<cast gid="2500765779" lang="ES"><role>Jim Wraith</role><person id="69366">Juan Navarro Torello</person></cast>
+<cast gid="2597120951" lang="ES"><role>Shawn Froste</role><person id="69446">Mercedes Espinosa</person></cast>
+<cast gid="938648855" lang="ES"><role>Xavier Foster/Xene</role><person id="69505">Miguel Angel Poison</person></cast>
+<cast gid="1179201680" lang="ES"><role>Sam Kincaid</role><person id="69520">Carmen Tellez</person></cast>
+<cast gid="1787941491" lang="ES"><role>Silvia Woods</role><person id="69520">Carmen Tellez</person></cast>
+<cast gid="2740428864" lang="ES"><role>Coach Hitomiko Kira</role><person id="71081">Toni Rodriguez</person></cast>
+<cast gid="2499003298" lang="ES"><role>Desarm / Osamu Saginuma</role><person id="71564">Hugo Nuñez</person></cast>
+<cast gid="2004212673" lang="ES"><role>Kabeyama Heigoro</role><person id="73146">Bruno Coronel</person></cast>
+<cast gid="1284817973" lang="ES"><role>Satoru Endo</role><person id="73146">Bruno Coronel</person></cast>
+<cast gid="2250799763" lang="ES"><role>Victoria &quot;Tori&quot; Vanguard</role><person id="73948">Marta Méndez</person></cast>
+<cast gid="721656533" lang="ES"><role>Maxwell &quot;Max&quot; Carson</role><person id="75344">Guiomar Alburquerque Durán</person></cast>
+<cast gid="1564483027" lang="ES"><role>Yuuto Kido</role><person id="80457">Miguel Angel Ruiz</person></cast>
+<cast gid="605723766" lang="ES"><role>Jousuke Tsunami</role><person id="81913">Ricardo Mendez</person></cast>
+<cast gid="3174895235" lang="ES"><role>Jordan Greenway/Janus</role><person id="86277">Adrián Viador</person></cast>
+<cast gid="1078205887" lang="ES"><role>Camellia Travis</role><person id="89563">Ana de Castro</person></cast>
+<cast gid="1531079404" lang="ES"><role>Scott &quot;Scotty&quot; Banyan</role><person id="89563">Ana de Castro</person></cast>
+<cast gid="915220353" lang="ES"><role>Satoru Endo</role><person id="98157">Carlo Vázquez</person></cast>
+<cast gid="2090949802" lang="ES"><role>Shorinji Ayumo</role><person id="98158">Angélica Villa</person></cast>
+<cast gid="1795140113" lang="ES"><role>Zaizen Touko</role><person id="98159">Cecilia Gómez</person></cast>
+<cast gid="1125195145" lang="ES"><role>Aki Kino</role><person id="98162">Cynthia de Pando</person></cast>
+<cast gid="2684275233" lang="ES"><role>Shishido Sakichi</role><person id="98217">Eduardo Ramírez</person></cast>
+<cast gid="3229752105" lang="ES"><role>Domon Azuka</role><person id="98218">Emmanuel Bernal</person></cast>
+<cast gid="3192503014" lang="ES"><role>Ichinose Kazuya</role><person id="98219">Enrique Horiuchi</person></cast>
+<cast gid="1183995614" lang="ES"><role>Zaizen Touko</role><person id="98220">Nayeli Mendoza</person></cast>
+<cast gid="2921379446" lang="ES"><role>Fudo Akio</role><person id="98223">Héctor Cuevas Ireta</person></cast>
+<cast gid="2992040491" lang="ES"><role>David Samford</role><person id="105770">Miguel Ángel Pérez</person></cast>
+<cast gid="2227247226" lang="ES"><role>Detective Gregory Smith</role><person id="105770">Miguel Ángel Pérez</person></cast>
+<cast gid="1690297381" lang="ES"><role>Mark Krueger</role><person id="105770">Miguel Ángel Pérez</person></cast>
+<cast gid="546422285" lang="ES"><role>Chester Horse Jr.</role><person id="119149">César Díaz Capilla</person></cast>
+<cast gid="2743031992" lang="ES"><role>Joseph &quot;Joe&quot; King</role><person id="119149">César Díaz Capilla</person></cast>
+<cast gid="2300736476" lang="ES"><role>Thor Stoutberg</role><person id="119149">César Díaz Capilla</person></cast>
+<cast gid="2468355322" lang="ES"><role>Dave Quagmire/Dvalin</role><person id="120276">Paco Vaquero</person></cast>
+<cast gid="923742916" lang="FR"><role>Austin Hobbes</role><person id="39961">Julie Basecqz</person></cast>
+<cast gid="207546251" lang="FR"><role>Silvia Woods</role><person id="39961">Julie Basecqz</person></cast>
+<cast gid="2603788841" lang="FR"><role>Steve Grim</role><person id="39963">Aurélien Ringelheim</person></cast>
+<cast gid="2033056953" lang="FR"><role>Dave Quagmire</role><person id="49087">Thierry Janssen</person></cast>
+<cast gid="2979198530" lang="FR"><role>Jude Sharp</role><person id="49088">Christophe Hespel</person></cast>
+<cast gid="2389306201" lang="FR"><role>Thor Stawberg</role><person id="52193">Martin Spinhayer</person></cast>
+<cast gid="2249295654" lang="FR"><role>Erik Eagle</role><person id="52982">Alexandre Crépet</person></cast>
+<cast gid="2500519187" lang="FR"><role>Hurley Kane</role><person id="52984">Mathieu Moreau</person></cast>
+<cast gid="1685694679" lang="FR"><role>Shawn Frost</role><person id="53852">Tony Beck</person></cast>
+<cast gid="1997144118" lang="FR"><role>Bobby Shearer</role><person id="53857">Xavier Percy</person></cast>
+<cast gid="1882380922" lang="FR"><role>Jack Wallside</role><person id="58716">Jean-Paul Clerbois</person></cast>
+<cast gid="705304200" lang="FR"><role>Jordan Greenway</role><person id="59336">Delphine Moriau</person></cast>
+<cast gid="2229996257" lang="FR"><role>Kevin Dragonfly</role><person id="68470">Sébastien Hebrant</person></cast>
+<cast gid="1301285833" lang="FR"><role>Claude Beacons</role><person id="68536">Yvan Reekmans</person></cast>
+<cast gid="2279498514" lang="FR"><role>Paolo Bianchi</role><person id="68536">Yvan Reekmans</person></cast>
+<cast gid="1424398081" lang="FR"><role>Nelly Raimon</role><person id="69327">Marcha Van Boven</person></cast>
+<cast gid="3436063695" lang="FR"><role>Tori Vanguard</role><person id="69819">Géraldine Frippiat</person></cast>
+<cast gid="2799985068" lang="FR"><role>Axel Blaze</role><person id="72787">Maxime Donnay</person></cast>
+<cast gid="2917330144" lang="FR"><role>Mark Evans</role><person id="74951">Pablo Hertsen</person></cast>
+<cast gid="2017393075" lang="IT"><role>Bryce Withingale</role><person id="15788">Laura Latini</person></cast>
+<cast gid="606523879" lang="IT"><role>Axel Blaze</role><person id="25641">Davide Garbolino</person></cast>
+<cast gid="2634681937" lang="IT"><role>Celia Hills</role><person id="25901">Perla Liberatori</person></cast>
+<cast gid="2892150060" lang="IT"><role>Timmy Sanders</role><person id="25912">Alessio Cigliano</person></cast>
+<cast gid="710501814" lang="IT"><role>Dave Quagmire</role><person id="26054">Stefano Crescentini</person></cast>
+<cast gid="1122055434" lang="IT"><role>Steve Grim</role><person id="26195">Alessio De Filippis</person></cast>
+<cast gid="3900232719" lang="IT"><role>Paolo Bianchi</role><person id="26198">Stefano De Filippis</person></cast>
+<cast gid="2510410318" lang="IT"><role>Willy Glass</role><person id="26246">Monica Bertolotti</person></cast>
+<cast gid="2671383936" lang="IT"><role>Hurley Kane</role><person id="26370">Paolo Vivio</person></cast>
+<cast gid="1024508463" lang="IT"><role>Ray Dark</role><person id="26610">Pasquale Anselmo</person></cast>
+<cast gid="2087150022" lang="IT"><role>Xavier Foster</role><person id="26612">Simone Crisari</person></cast>
+<cast gid="2290563362" lang="IT"><role>Seymour Hillman</role><person id="26617">Paolo Marchese</person></cast>
+<cast gid="2865307331" lang="IT"><role>Mac Robingo</role><person id="27001">Marco Vivio</person></cast>
+<cast gid="1613036951" lang="IT"><role>Hector Helio</role><person id="27281">Davide Chevalier</person></cast>
+<cast gid="2977530168" lang="IT"><role>Byron Love</role><person id="27583">Alessio Puccio</person></cast>
+<cast gid="1395922952" lang="IT"><role>Jordan Greenway</role><person id="27583">Alessio Puccio</person></cast>
+<cast gid="2829623290" lang="IT"><role>Todd Ironside</role><person id="28459">Paola Majano</person></cast>
+<cast gid="2319503278" lang="IT"><role>Sam Kincaid</role><person id="38012">Davide Perino</person></cast>
+<cast gid="3148965688" lang="IT"><role>Axel Blaze</role><person id="38106">Leonardo Graziano</person></cast>
+<cast gid="1323882937" lang="IT"><role>Suzette &quot;Sue&quot; Heartland</role><person id="40726">Eleonora Reti</person></cast>
+<cast gid="2230085896" lang="IT"><role>Victoria Vanguard</role><person id="44700">Eva Padoan</person></cast>
+<cast gid="2289891728" lang="IT"><role>Joe King</role><person id="44701">Fabrizio De Flaviis</person></cast>
+<cast gid="2303318704" lang="IT"><role>Silvia Woods</role><person id="46997">Veronica Puccio</person></cast>
+<cast gid="2203438841" lang="IT"><role>Maxwell &quot;Max&quot; Carson</role><person id="47035">Gabriele Patriarca</person></cast>
+<cast gid="2856703568" lang="IT"><role>Lina Schiller</role><person id="51059">Daniela Calò</person></cast>
+<cast gid="3343140326" lang="IT"><role>Eric Eagle</role><person id="51106">Alessio Nissolino</person></cast>
+<cast gid="2833270612" lang="IT"><role>Shawn Frost</role><person id="51269">Flavio Aquilone</person></cast>
+<cast gid="1152412566" lang="IT"><role>Nathan Swift</role><person id="53524">Gabriele Lopez</person></cast>
+<cast gid="2440487022" lang="IT"><role>Archer Hawkins</role><person id="53697">Emiliano Coltorti</person></cast>
+<cast gid="715937086" lang="IT"><role>Claude Beacons</role><person id="53698">Gianluca Crisafi</person></cast>
+<cast gid="2491431514" lang="IT"><role>Darren Lachance</role><person id="57531">Alex Polidori</person></cast>
+<cast gid="1224972885" lang="IT"><role>Mark Evans</role><person id="58334">Lorenzo De Angelis</person></cast>
+<cast gid="675814763" lang="IT"><role>Thiago Torres</role><person id="58343">Emiliano Ragno</person></cast>
+<cast gid="3052325443" lang="IT"><role>Jude Sharp</role><person id="59722">Manuel Meli</person></cast>
+<cast gid="2670951202" lang="IT"><role>Jack Wallside</role><person id="59728">Mirko Cannella</person></cast>
+<cast gid="3656136101" lang="IT"><role>Dylan Keith</role><person id="61365">Andrea Mete</person></cast>
+<cast gid="1140751326" lang="IT"><role>Camelia Travis</role><person id="70851">Joy Saltarelli</person></cast>
+<cast gid="3288171406" lang="IT"><role>Kevin Dragonfly</role><person id="74592">Andrea Lavagnino</person></cast>
+<cast gid="3633032609" lang="IT"><role>Bobby Shearer</role><person id="95872">Marco Bassetti</person></cast>
+<cast gid="2771903565" lang="IT"><role>Nelly Raimon</role><person id="104708">CHIARA GIONCARDI</person></cast>
+<cast gid="3462820780" lang="JA"><role>Kidou Yuuto</role><person id="507">Hiroyuki Yoshino</person></cast>
+<cast gid="2898099093" lang="JA"><role>Yuuto Kidou</role><person id="507">Hiroyuki Yoshino</person></cast>
+<cast gid="896791332" lang="JA"><role>Raimon Souichirou</role><person id="797">Koichi Sakaguchi</person></cast>
+<cast gid="891252868" lang="JA"><role>Utsunomiya Toramaru</role><person id="808">Rie Kugimiya</person></cast>
+<cast gid="3253524807" lang="JA"><role>Edgar Valtinas</role><person id="910">Tomokazu Sugita</person></cast>
+<cast gid="2881780167" lang="JA"><role>Aki Kino</role><person id="912">Fumiko Orikasa</person></cast>
+<cast gid="3650325797" lang="JA"><role>Heigoro Kabeyama</role><person id="948">Megumi Tano</person></cast>
+<cast gid="2701434786" lang="JA"><role>Sakuma Jirou</role><person id="948">Megumi Tano</person></cast>
+<cast gid="2963507734" lang="JA"><role>Furukabu</role><person id="953">Tomohisa Asou</person></cast>
+<cast gid="3126764798" lang="JA"><role>Onigawara Gengorou</role><person id="953">Tomohisa Asou</person></cast>
+<cast gid="2389115528" lang="JA"><role>Demonio Strada</role><person id="1447">Chihiro Suzuki</person></cast>
+<cast gid="2143363914" lang="JA"><role>Dylan Keith</role><person id="1447">Chihiro Suzuki</person></cast>
+<cast gid="1736105063" lang="JA"><role>Daisuke Endou</role><person id="1473">Yuzuru Fujimoto</person></cast>
+<cast gid="1077392977" lang="JA"><role>Suzuno Fuusuke/Gazel</role><person id="1552">Fujiko Takimoto</person></cast>
+<cast gid="833002632" lang="JA"><role>Urabe Rika</role><person id="1552">Fujiko Takimoto</person></cast>
+<cast gid="2051954363" lang="JA"><role>Someoka Ryuugo</role><person id="2052">Yasuyuki Kase</person></cast>
+<cast gid="1236119061" lang="JA"><role>Endou Mamoru</role><person id="2130">Junko Takeuchi</person></cast>
+<cast gid="2716866411" lang="JA"><role>Mamoru Endou</role><person id="2130">Junko Takeuchi</person></cast>
+<cast gid="2184259944" lang="JA"><role>Seijirou Kira</role><person id="2153">Katsuhisa Houki</person></cast>
+<cast gid="2408636673" lang="JA"><role>Garshield Bayhan</role><person id="2383">Yousuke Akimoto</person></cast>
+<cast gid="2568310958" lang="JA"><role>Natsumi Raimon</role><person id="3160">Sanae Kobayashi</person></cast>
+<cast gid="2465381883" lang="JA"><role>Gouenji Shuuya</role><person id="3173">Hirofumi Nojima</person></cast>
+<cast gid="3034501982" lang="JA"><role>Shuuya Gouenji</role><person id="3173">Hirofumi Nojima</person></cast>
+<cast gid="1701220968" lang="JA"><role>Hibiki Seigou</role><person id="5041">Kinryuu Arimoto</person></cast>
+<cast gid="2061662712" lang="JA"><role>Kogure Yuuya</role><person id="5686">Nami Miyahara</person></cast>
+<cast gid="1872935259" lang="JA"><role>Megane Kakeru</role><person id="6732">Nanae Katou</person></cast>
+<cast gid="907116616" lang="JA"><role>Rococo Ulpa</role><person id="7347">Yuki Kaida</person></cast>
+<cast gid="2074543481" lang="JA"><role>Sain</role><person id="7347">Yuki Kaida</person></cast>
+<cast gid="1338906072" lang="JA"><role>Fidio Aldena</role><person id="7636">Hiro Shimono</person></cast>
+<cast gid="1894438589" lang="JA"><role>Handa Shin'ichi</role><person id="7636">Hiro Shimono</person></cast>
+<cast gid="2814149403" lang="JA"><role>Kageyama Reiji</role><person id="8862">Seiji Sasaki</person></cast>
+<cast gid="3230145552" lang="JA"><role>Shourinji Ayumu</role><person id="9813">Masako Joh</person></cast>
+<cast gid="923571636" lang="JA"><role>Kiyama Hiroto/Gran</role><person id="9815">Takahiro Mizushima</person></cast>
+<cast gid="1786776079" lang="JA"><role>Fubuki Shirou</role><person id="10397">Mamoru Miyano</person></cast>
+<cast gid="2622665958" lang="JA"><role>Genda Koujirou</role><person id="15878">Yūichi Nakamura</person></cast>
+<cast gid="1381774982" lang="JA"><role>Mark Kluger</role><person id="15878">Yūichi Nakamura</person></cast>
+<cast gid="4043466439" lang="JA"><role>Prime Minister Zaizen Sousuke</role><person id="15878">Yūichi Nakamura</person></cast>
+<cast gid="2678032889" lang="JA"><role>Hide Nakata</role><person id="17695">Hiroshi Tsuchida</person></cast>
+<cast gid="1359047715" lang="JA"><role>Luca</role><person id="18644">Shinnosuke Tachibana</person></cast>
+<cast gid="3154985532" lang="JA"><role>Tachimukai Yuuki</role><person id="18644">Shinnosuke Tachibana</person></cast>
+<cast gid="1293033256" lang="JA"><role>Kudou Michiya</role><person id="20365">Hiroki Touchi</person></cast>
+<cast gid="2174840037" lang="JA"><role>Matsuno Kuusuke/Max</role><person id="20573">Yuki Kodaira</person></cast>
+<cast gid="3964606742" lang="JA"><role>Midorikawa Ryuuji/Reize</role><person id="20573">Yuki Kodaira</person></cast>
+<cast gid="1822553473" lang="JA"><role>Teres Tolue</role><person id="21903">Junji Majima</person></cast>
+<cast gid="215350909" lang="JA"><role>Afuro Terumi/Aphrodi</role><person id="22150">Yuko Sanpei</person></cast>
+<cast gid="2284502367" lang="JA"><role>Mac Roniejo</role><person id="22535">Shuuhei Sakaguchi</person></cast>
+<cast gid="500111093" lang="JA"><role>Tsunami Jousuke</role><person id="22535">Shuuhei Sakaguchi</person></cast>
+<cast gid="1281262972" lang="JA"><role>Kakuma Keita</role><person id="23816">Kiyotaka Furushima</person></cast>
+<cast gid="2330649609" lang="JA"><role>Nagumo Haruya/Burn</role><person id="23816">Kiyotaka Furushima</person></cast>
+<cast gid="2562640913" lang="JA"><role>Saginuma Osamu/Desarm</role><person id="46367">Takashi Hikida</person></cast>
+<cast gid="2904574895" lang="JA"><role>Kazemaru Ichirouta</role><person id="46655">Yuka Nishigaki</person></cast>
+<cast gid="1708612916" lang="JA"><role>Shishido Sakichi</role><person id="50440">Tooru Nara</person></cast>
+<cast gid="2760184612" lang="JA"><role>Haruna Otonashi</role><person id="52197">Hinako Sasaki</person></cast>
+<cast gid="3234316964" lang="JA"><role>Touko Zaizen</role><person id="56455">Ayahi Takagaki</person></cast>
+<cast gid="3003203067" lang="JA"><role>Zaizen Touko</role><person id="56455">Ayahi Takagaki</person></cast>
+<cast gid="2773842836" lang="JA"><role>Fudou Akio</role><person id="58051">Yuuki Kaji</person></cast>
+<cast gid="3389152640" lang="JA"><role>Ichinose Kazuya</role><person id="58051">Yuuki Kaji</person></cast>
+<cast gid="2935178285" lang="JA"><role>Fuyuka Kudou</role><person id="63126">Haruka Tomatsu</person></cast>
+<cast gid="1444150932" lang="JA"><role>Kudou Fuyuka</role><person id="63126">Haruka Tomatsu</person></cast>
+<cast gid="2078387667" lang="JA"><role>Kira Hitomiko</role><person id="66288">Junko Kitanishi</person></cast>
+<cast gid="3192767444" lang="JA"><role>Teppei Kurimatsu</role><person id="66664">Miho Hino</person></cast>
+<cast gid="2383969801" lang="JA"><role>Domon Asuka</role><person id="69348">Jun Konno</person></cast>
+<cast gid="1143928772" lang="JA"><role>Deasta</role><person id="70673">Kensuke Satou</person></cast>
+<cast gid="2125637261" lang="JA"><role>Tobitaka Seiya</role><person id="76447">Nobuya Mine</person></cast>
+<cast gid="3350432629" lang="KO"><role>Akio Fudou</role><person id="73366">Jeong-Mi Bae</person></cast>
+<cast gid="3754582154" lang="KO"><role>Fuusuke Suzuno/Gazel</role><person id="73366">Jeong-Mi Bae</person></cast>
+<cast gid="1706895649" lang="KO"><role>Ichirouta Kazemaru</role><person id="73366">Jeong-Mi Bae</person></cast>
+<cast gid="1225573301" lang="KO"><role>Natsumi Raimon</role><person id="73366">Jeong-Mi Bae</person></cast>
+<cast gid="3607151005" lang="KO"><role>Edgar Valtinas</role><person id="73370">Sang-Hyeon Eom</person></cast>
+<cast gid="3197053812" lang="KO"><role>Michiya Kudou</role><person id="73370">Sang-Hyeon Eom</person></cast>
+<cast gid="2752293711" lang="KO"><role>Osamu Saginuma</role><person id="73370">Sang-Hyeon Eom</person></cast>
+<cast gid="1352600962" lang="KO"><role>Raiden Hijikata</role><person id="73370">Sang-Hyeon Eom</person></cast>
+<cast gid="1770184906" lang="KO"><role>Aki Kino</role><person id="73374">Ju-Yeong Bae</person></cast>
+<cast gid="2104411370" lang="KO"><role>Matsuno Kuusuke/Max</role><person id="73374">Ju-Yeong Bae</person></cast>
+<cast gid="2901011367" lang="KO"><role>Ryuuji Midorikawa/Reize</role><person id="73374">Ju-Yeong Bae</person></cast>
+<cast gid="2029323092" lang="KO"><role>Gengorou Onigawara</role><person id="90678">Song Junseok</person></cast>
+<cast gid="1670206862" lang="KO"><role>Jousuke Tsunami</role><person id="90678">Song Junseok</person></cast>
+<cast gid="2253351510" lang="KO"><role>Reiji Kageyama</role><person id="90678">Song Junseok</person></cast>
+<cast gid="341933326" lang="KO"><role>Ryuugo Someoka</role><person id="90678">Song Junseok</person></cast>
+<cast gid="2104848964" lang="KO"><role>Akio Fudou</role><person id="96256">Gwak Yunsang</person></cast>
+<cast gid="883890306" lang="KO"><role>Mark Kruger</role><person id="96256">Gwak Yunsang</person></cast>
+<cast gid="2205077931" lang="KO"><role>Sosuke Zaizen</role><person id="96256">Gwak Yunsang</person></cast>
+<cast gid="3283165779" lang="KO"><role>Jirou Sakuma</role><person id="96260">Hyeon-Seo An</person></cast>
+<cast gid="2613860517" lang="KO"><role>Teppei Kurimatsu</role><person id="96260">Hyeon-Seo An</person></cast>
+<cast gid="1699744100" lang="KO"><role>Terumi Afuro/Aphrodi</role><person id="96260">Hyeon-Seo An</person></cast>
+<cast gid="946108345" lang="KO"><role>Toramaru Utsunomiya</role><person id="96260">Hyeon-Seo An</person></cast>
+<cast gid="3721472465" lang="KO"><role>Touko Zaizen</role><person id="96260">Hyeon-Seo An</person></cast>
+<cast gid="605441740" lang="KO"><role>Mamoru Endou</role><person id="96271">Suk-Gyeong Jeon</person></cast>
+<cast gid="1501230177" lang="KO"><role>Haruya Nagumo/Burn</role><person id="96272">Jae-Heon Jeong</person></cast>
+<cast gid="2224199507" lang="KO"><role>Kazuya Ichinose</role><person id="96272">Jae-Heon Jeong</person></cast>
+<cast gid="2601697272" lang="KO"><role>Ryuuichi Kenzaki</role><person id="96272">Jae-Heon Jeong</person></cast>
+<cast gid="1881618894" lang="KO"><role>Sakichi Shishido</role><person id="96272">Jae-Heon Jeong</person></cast>
+<cast gid="2129683472" lang="KO"><role>Seiya Tobitaka</role><person id="96272">Jae-Heon Jeong</person></cast>
+<cast gid="3935411103" lang="KO"><role>Keita Kakuma</role><person id="96309">Jang Kim</person></cast>
+<cast gid="3326323005" lang="KO"><role>Osamu Saginuma/Desarm</role><person id="96309">Jang Kim</person></cast>
+<cast gid="1624990767" lang="KO"><role>Raiden Hijikata</role><person id="96309">Jang Kim</person></cast>
+<cast gid="1757094230" lang="KO"><role>Shin'ichi Handa</role><person id="96309">Jang Kim</person></cast>
+<cast gid="2017189654" lang="KO"><role>Souichirou Raimon</role><person id="96326">Tae-Yeol Jeon</person></cast>
+<cast gid="2034624636" lang="KO"><role>Yuuto Kidou</role><person id="96326">Tae-Yeol Jeon</person></cast>
+<cast gid="1180967750" lang="KO"><role>Asuka Domon</role><person id="96354">Im Chaeheon</person></cast>
+<cast gid="2062566184" lang="KO"><role>Koujirou Genda</role><person id="96354">Im Chaeheon</person></cast>
+<cast gid="1926687610" lang="KO"><role>Seigou Hibiki</role><person id="96354">Im Chaeheon</person></cast>
+<cast gid="1865491833" lang="KO"><role>Shirou Fubuki</role><person id="96354">Im Chaeheon</person></cast>
+<cast gid="2927615203" lang="KO"><role>Fuusuke Suzuno/Gazel</role><person id="96484">Eun-Jin Ha</person></cast>
+<cast gid="2434181965" lang="KO"><role>Haruna Otonashi</role><person id="96484">Eun-Jin Ha</person></cast>
+<cast gid="2726602329" lang="KO"><role>Hitomiko Kira</role><person id="96484">Eun-Jin Ha</person></cast>
+<cast gid="3233406978" lang="KO"><role>Kakeru Megane</role><person id="96484">Eun-Jin Ha</person></cast>
+<cast gid="2733355938" lang="KO"><role>Yuuki Tachimukai</role><person id="96484">Eun-Jin Ha</person></cast>
+<cast gid="1741410255" lang="KO"><role>Ayumu Shourinji</role><person id="96572">An Yeonga</person></cast>
+<cast gid="2094054775" lang="KO"><role>Rika Urabe</role><person id="96572">An Yeonga</person></cast>
+<cast gid="2542259432" lang="KO"><role>Yuuya Kogure</role><person id="96572">An Yeonga</person></cast>
+<cast gid="3194335025" lang="KO"><role>Fuyuka Kudou</role><person id="96573">Seung-Hui Yun</person></cast>
+<cast gid="2144792472" lang="KO"><role>Heigoro Kabeyama</role><person id="96573">Seung-Hui Yun</person></cast>
+<cast gid="2315893591" lang="KO"><role>Hiroto Kiyama/Gran</role><person id="96574">Lee Hosan</person></cast>
+<cast gid="1654653773" lang="KO"><role>Seijirou Kira</role><person id="96574">Lee Hosan</person></cast>
+<cast gid="1916415499" lang="KO"><role>Shuuya Gouenji</role><person id="96574">Lee Hosan</person></cast>
+<cast gid="2556454267" lang="KO"><role>Rika Urabe</role><person id="124304">Jeong-Ah Kim</person></cast>
+<cast gid="1702749357" lang="KO"><role>Yuuya Kogure</role><person id="124304">Jeong-Ah Kim</person></cast>
+<cast gid="2540690143" lang="NL"><role>Victoria 'Tori' Vanguard</role><person id="29135">Melise de Winter</person></cast>
+<cast gid="1756392156" lang="NL"><role>Seymour Hillman</role><person id="29137">Leo Richardson</person></cast>
+<cast gid="2426420342" lang="NL"><role>Axel Blaze</role><person id="72921">Thijs van Aken</person></cast>
+<cast gid="1387539803" lang="NL"><role>Todd Ironside</role><person id="72921">Thijs van Aken</person></cast>
+<cast gid="2608420617" lang="NL"><role>Kevin Dragonfly</role><person id="72926">Levi van Kempen</person></cast>
+<cast gid="2358498518" lang="NL"><role>Silvia Woods</role><person id="95206">Pip Pellens</person></cast>
+<cast gid="892169331" lang="NL"><role>Lina Schiller</role><person id="99748">Nathalie Haneveld</person></cast>
+<cast gid="1704225721" lang="NL"><role>Mark Evans</role><person id="100041">Jeroen van Wijngaarden</person></cast>
+<cast gid="1433049764" lang="NL"><role>Celia Hills</role><person id="102699">Robin Virginie</person></cast>
+<cast gid="3727990045" lang="NL"><role>Nelly Raimon</role><person id="102961">Daphne Groot</person></cast>
+<cast gid="2657235717" lang="PL"><role>Celia Hills</role><person id="62494">Beata Wyrąbkiewicz</person></cast>
+<cast gid="2530602287" lang="PL"><role>Sonny Raimon</role><person id="67250">Artur Kaczmarski</person></cast>
+<cast gid="448477184" lang="PL"><role>William &quot;Willy&quot; Glass</role><person id="67290">Grzegorz Drojewski</person></cast>
+<cast gid="1331874825" lang="PL"><role>Chester Horse</role><person id="67294">Krzysztof Szczerbinski</person></cast>
+<cast gid="1811502566" lang="PL"><role>Timmy Sanders</role><person id="67305">Brygida Turowska</person></cast>
+<cast gid="3581047255" lang="PL"><role>Byron Love</role><person id="70312">Adam Pluciński</person></cast>
+<cast gid="2244911023" lang="PL"><role>Nelly Raimon</role><person id="70906">Katarzyna Laska</person></cast>
+<cast gid="3766136731" lang="PL"><role>Seymour Hillman</role><person id="70913">Robert Tondera</person></cast>
+<cast gid="590237807" lang="PL"><role>Nathan Swift</role><person id="112714">Maksymilian Rogacki</person></cast>
+<cast gid="1498778784" lang="PL"><role>Moe Manga</role><person id="112774">Artur Pontek</person></cast>
+<cast gid="3010253024" lang="PL"><role>Kevin Dragonfly</role><person id="112816">Robert Kuraś</person></cast>
+<cast gid="1644710068" lang="PL"><role>Jude Sharp</role><person id="112842">Kamil Kula</person></cast>
+<cast gid="1144854951" lang="PL"><role>Jack Wallside</role><person id="112849">Bartosz Martyna</person></cast>
+<cast gid="1501665506" lang="PL"><role>Bobby Shearer</role><person id="113121">Klaudiusz Kaufmann</person></cast>
+<cast gid="3176150472" lang="PL"><role>Tod Ironside</role><person id="113183">Lukasz Węgrzynowski</person></cast>
+<cast gid="682792660" lang="PL"><role>Silvia Woods</role><person id="113188">Milena Suszyńska</person></cast>
+<cast gid="1439542889" lang="PL"><role>Maxwell &quot;Max&quot; Carson</role><person id="113199">Beniamin Lewandowski</person></cast>
+<cast gid="1895632047" lang="PL"><role>Mark Evans</role><person id="113343">Miłosz Konkel</person></cast>
+<cast gid="2316414735" lang="PL"><role>Axel Blaze</role><person id="113344">Michał Podsiadło</person></cast>
+<cast gid="2194196870" lang="PL"><role>Ray Dark</role><person id="113474">Robert Jarociński</person></cast>
+<cast gid="2535606242" lang="PL"><role>Eric Eagle</role><person id="113570">Jakub Mróz</person></cast>
+<cast gid="2430300186" lang="PT"><role>Axel Blaze</role><person id="48156">Vítor Emanuel</person></cast>
+<cast gid="3722048047" lang="PT"><role>Caleb Stonewall</role><person id="48156">Vítor Emanuel</person></cast>
+<cast gid="1549572920" lang="PT"><role>Percival Travis</role><person id="48156">Vítor Emanuel</person></cast>
+<cast gid="2636799706" lang="PT"><role>Zoolan Rice</role><person id="48156">Vítor Emanuel</person></cast>
+<cast gid="2100809903" lang="PT"><role>David Evans</role><person id="48565">Sérgio Calvinho</person></cast>
+<cast gid="1678029187" lang="PT"><role>Erik Eagle</role><person id="48565">Sérgio Calvinho</person></cast>
+<cast gid="1756844177" lang="PT"><role>Jude Sharp</role><person id="48565">Sérgio Calvinho</person></cast>
+<cast gid="2022856279" lang="PT"><role>Asuka Domon</role><person id="48735">Márcio Araújo</person></cast>
+<cast gid="1613903727" lang="PT"><role>Terumi Aphrodi Afuro</role><person id="48753">Francisco Freitas</person></cast>
+<cast gid="1096223065" lang="PT"><role>Toramaru Utsunomiya</role><person id="48753">Francisco Freitas</person></cast>
+<cast gid="1834016006" lang="PT"><role>Lika Urabe</role><person id="48756">Fernanda Bulara</person></cast>
+<cast gid="1467310630" lang="PT"><role>Haruna Otonashi</role><person id="48759">Samira Fernandes</person></cast>
+<cast gid="964003664" lang="PT"><role>Kazemaru Ichirota</role><person id="48761">Letícia Quinto</person></cast>
+<cast gid="1556990184" lang="PT"><role>Fidio Aldena</role><person id="48763">Thiago Longo</person></cast>
+<cast gid="2277667919" lang="PT"><role>Seiya Tobitaka</role><person id="48763">Thiago Longo</person></cast>
+<cast gid="2140223285" lang="PT"><role>Shinichi Handa</role><person id="48763">Thiago Longo</person></cast>
+<cast gid="175613050" lang="PT"><role>Matsuno Kusuke</role><person id="48783">Rita Almeida</person></cast>
+<cast gid="470195835" lang="PT"><role>Heigoro Kabeyama</role><person id="48789">Ivo Roberto</person></cast>
+<cast gid="990896488" lang="PT"><role>Natsumi Raimon</role><person id="48818">Luciana Baroli</person></cast>
+<cast gid="1364762188" lang="PT"><role>Keita Kakuma</role><person id="48836">Felipe Grinnan</person></cast>
+<cast gid="1820671456" lang="PT"><role>Satoru Endo</role><person id="48872">Yuri Chesman</person></cast>
+<cast gid="1914106287" lang="PT"><role>Kiyama Hiroto</role><person id="48898">Douglas Guedes</person></cast>
+<cast gid="2367754275" lang="PT"><role>Michiya Kudou</role><person id="48898">Douglas Guedes</person></cast>
+<cast gid="3206306462" lang="PT"><role>Gengorou Onigawara</role><person id="48939">Dráusio de Oliveira</person></cast>
+<cast gid="2409931966" lang="PT"><role>Fuusuke Suzuno</role><person id="48942">Lene Bastos</person></cast>
+<cast gid="1294637415" lang="PT"><role>Claude Beacons</role><person id="49044">Quimbé</person></cast>
+<cast gid="2651652115" lang="PT"><role>Shuya Goenji</role><person id="49195">Gabriel Noya</person></cast>
+<cast gid="2785184395" lang="PT"><role>Aki Kino</role><person id="49237">Tatiane Keplermaier</person></cast>
+<cast gid="3442660512" lang="PT"><role>Kira Hitomiko</role><person id="49487">Gilmara Sanches</person></cast>
+<cast gid="2478389013" lang="PT"><role>Jousuke Tsunami</role><person id="49716">Dado Monteiro</person></cast>
+<cast gid="3088710290" lang="PT"><role>Yuuki Tachimukai</role><person id="50220">Alex Minei</person></cast>
+<cast gid="682366282" lang="PT"><role>Ryuugo Someoka</role><person id="50292">Ricardo Sawaya</person></cast>
+<cast gid="1889598883" lang="PT"><role>Nathan Swift</role><person id="52389">Mário Bomba</person></cast>
+<cast gid="2257592897" lang="PT"><role>Reiji Kageyama</role><person id="53957">Renato Márcio</person></cast>
+<cast gid="1490559544" lang="PT"><role>Yuto Kido</role><person id="55664">Robson Kumode</person></cast>
+<cast gid="957028926" lang="PT"><role>Hibiki Seigou</role><person id="58298">Marco Antonio Abreu</person></cast>
+<cast gid="1172677889" lang="PT"><role>Zaizen Toko</role><person id="60847">Priscila Ferreira</person></cast>
+<cast gid="712659693" lang="PT"><role>Shirou Fubuki</role><person id="64731">Raphael Ferreira</person></cast>
+<cast gid="2928453888" lang="PT"><role>Kakeru Megane</role><person id="67152">Bruno Marçal</person></cast>
+<cast gid="1585223955" lang="PT"><role>Austin Hobbes</role><person id="72722">Sofia Brito</person></cast>
+<cast gid="1347745213" lang="PT"><role>Byron Love</role><person id="72890">Nara Madeira</person></cast>
+<cast gid="1595457207" lang="PT"><role>Mark Evans</role><person id="72959">Raquel Ferreira</person></cast>
+<cast gid="1592673643" lang="PT"><role>Ryuji Midorikawa</role><person id="80942">Felipe Zilse</person></cast>
+<cast gid="1110163563" lang="PT"><role>Haruya Nagumo</role><person id="81747">Bruno Dias</person></cast>
+<cast gid="2090819914" lang="PT"><role>Sakuma Jiro</role><person id="84360">Rodrigo Araújo</person></cast>
+<cast gid="1443923099" lang="PT"><role>Osamu Saginuma</role><person id="86145">Fábio de Castro</person></cast>
+<cast gid="613107491" lang="PT"><role>Teppei Kurimatsu</role><person id="89761">Diego Lima</person></cast>
+<cast gid="2792280603" lang="PT"><role>Yuuya Kogure</role><person id="94172">Matheus Ferreira</person></cast>
+<cast gid="2425653374" lang="PT"><role>Kazuya Ichinose</role><person id="97908">Daniel Figueira</person></cast>
+<cast gid="2673637789" lang="TL"><role>Reiji Kageyama</role><person id="38933">Alexx Agcaoili</person></cast>
+<cast gid="3292657649" lang="TL"><role>Ryuugo Someoka</role><person id="38933">Alexx Agcaoili</person></cast>
+<cast gid="2177519768" lang="TL"><role>Someoka Ryuugo</role><person id="38933">Alexx Agcaoili</person></cast>
+<cast gid="2066473290" lang="TL"><role>Heigorō Kabeyama</role><person id="50902">Noel Escondo</person></cast>
+<cast gid="1303041840" lang="TL"><role>Endou Mamoru</role><person id="60845">Christian Velarde</person></cast>
+<cast gid="1550619404" lang="TL"><role>Ryuugo Someoka</role><person id="66659">Mark Muñoz</person></cast>
+<cast gid="1583316199" lang="TL"><role>Shourinji Ayumu </role><person id="75019">Kathlynn Tolentino</person></cast>
+<cast gid="1215043387" lang="TL"><role>Kidou Yuuto</role><person id="95901">Nelieza Magauay</person></cast>
+<cast gid="791975078" lang="TL"><role>Yuuya Kogure </role><person id="95901">Nelieza Magauay</person></cast>
+<cast gid="3189105774" lang="TL"><role>Haruna Otonashi</role><person id="107891">Karen Mendoza</person></cast>
+<cast gid="1585606197" lang="TL"><role>Gouenji Shuuya</role><person id="107892">Rean Delos Reyes</person></cast>
+<cast gid="656816131" lang="TL"><role>Kūsuke Matsuno</role><person id="107892">Rean Delos Reyes</person></cast>
+<cast gid="3838874857" lang="TL"><role>Kurimatsu Teppei</role><person id="107893">Mark Ivan Uy</person></cast>
+<cast gid="1728949818" lang="TL"><role>Kakuma Keita</role><person id="107894">Don Melvin Boongaling</person></cast>
+<cast gid="1581713574" lang="TL"><role>Aki Kino</role><person id="107895">Princess Poe</person></cast>
+<cast gid="2162581983" lang="TL"><role>Raimon Natsumi</role><person id="107896">Vgay Mortiz</person></cast>
+<cast gid="1297690352" lang="TL"><role>Hibiki Seigou</role><person id="107897">Felipe Ronnie Martinez</person></cast>
+<cast gid="1200812269" lang="TL"><role>Raimon Natsumi </role><person id="125464">Rikki Quiapon</person></cast>
+<credit gid="3325866086"><task>Animation Production</task><company id="1211">Oriental Light and Magic</company></credit>
+<credit gid="2233597572"><task>Production</task><company id="249">Dentsu Inc.</company></credit></anime></ann>

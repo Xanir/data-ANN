@@ -1,0 +1,130 @@
+<ann><anime id="1212" gid="2318179146" type="TV" name="Chō Seimeitai Transformers: Beast Wars Neo" precision="TV" generated-on="2016-03-27T02:10:42Z">
+<related-prev rel="sequel of" id="1213"/>
+<related-prev rel="part of" id="5959"/>
+<info gid="1202352385" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A1212-55.jpg" width="200" height="146"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A1212-55.jpg" width="200" height="146"/><img src="http://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A1212-55.jpg" width="260" height="190"/></info>
+<info gid="150983742" type="Main title" lang="JA">Chō Seimeitai Transformers: Beast Wars Neo</info>
+<info gid="3411921965" type="Alternative title" lang="EN">Beast Wars Neo</info>
+<info gid="3220184368" type="Alternative title" lang="EN">Super Lifeform Transformers Beat Wars Neo</info>
+<info gid="1912932713" type="Alternative title" lang="JA">Transformers: Beast Wars Neo</info>
+<info gid="3700033692" type="Alternative title" lang="JA">超生命体トランスフォーマー ビーストウォーズ・ネオ</info>
+<info gid="3456028746" type="Genres">action</info>
+<info gid="903908043" type="Genres">science fiction</info>
+<info gid="2905264852" type="Themes">mecha</info>
+<info gid="2638108858" type="Objectionable content">OC</info>
+<info gid="1512107854" type="Plot Summary">Although Lioconvoy managed to stop Galvatron's plans for exploiting the powerful Angolmois energy, the Destrons refused to be deterred. Rallied by their new leader, the Destrons are attacking entire galactic quadrants in a hunt for the scattered capsules of Angolmois. In response, the Cybertron elders appoint a powerful leader to gather a team of heroes and stop the Destrons' plans. However, both sides of the conflict are being manipulated by the agents of Unicron, who desire the Angolmois energy in order to revive their fallen master.</info>
+<info gid="2462863327" type="Running time">half hour</info>
+<info gid="1877899754" type="Number of episodes">35</info>
+<info gid="1871391829" type="Vintage">1999-02-03 to 1999-09-29</info>
+<info gid="1601818346" type="Opening Theme">&quot;Love For Ever: Kimi o Mamoru Tame ni&quot; by M.C.R</info>
+<info gid="2704896103" type="Ending Theme">&quot;Te no Naka no Uchū&quot; by Hitomi Yūki</info>
+<info gid="2504012709" type="Insert song">&quot;Da Da Da&quot; by M.C.R (ep 35)</info>
+<info gid="2359228004" type="Official website" lang="EN" href="http://www.pro-reed.com/works/tv_series/w036a.html">Production Reed</info>
+<ratings nb_votes="46" weighted_score="5.6596" bayesian_score="6.07016"/>
+<episode num="1">
+<title gid="3752147341" lang="EN">Move Out, Big Convoy!</title></episode>
+<episode num="2">
+<title gid="449124011" lang="EN">Get the Mysterious Capsule!</title></episode>
+<episode num="3">
+<title gid="2989078154" lang="EN">Burning Spirit Below Freezing</title></episode>
+<episode num="4">
+<title gid="1597918860" lang="EN">Hang in There, Stampy!</title></episode>
+<episode num="5">
+<title gid="3022259963" lang="EN">Mirage in the Sand</title></episode>
+<episode num="6">
+<title gid="2317443356" lang="EN">Dinosaur Combiner Magmatron</title></episode>
+<episode num="7">
+<title gid="2520337016" lang="EN">Duel in the Midst of the Labyrinth</title></episode>
+<episode num="8">
+<title gid="1649255134" lang="EN">Danger of the Black Hole</title></episode>
+<episode num="9">
+<title gid="685164745" lang="EN">Sub-commander Longrack</title></episode>
+<episode num="10">
+<title gid="2477958445" lang="EN">Whoa! He Got Eaten</title></episode>
+<episode num="11">
+<title gid="2334198114" lang="EN">Planet of Time</title></episode>
+<episode num="12">
+<title gid="237015358" lang="EN">Hydra Alone</title></episode>
+<episode num="13">
+<title gid="2182382569" lang="EN">Break is a Predacon?</title></episode>
+<episode num="14">
+<title gid="2200766895" lang="EN">Ship's Log</title></episode>
+<episode num="15">
+<title gid="456586892" lang="EN">Mach Kick Enlists!?</title></episode>
+<episode num="16">
+<title gid="3680533899" lang="EN">Planet of the Ultimate Weapons</title></episode>
+<episode num="17">
+<title gid="1032808940" lang="EN">Troubled DNAVI</title></episode>
+<episode num="18">
+<title gid="2122343127" lang="EN">Attack! Randy</title></episode>
+<episode num="19">
+<title gid="3513188937" lang="EN">Physicist Bump</title></episode>
+<episode num="20">
+<title gid="3198815429" lang="EN">Hardhead is Hardheaded</title></episode>
+<episode num="21">
+<title gid="1454410456" lang="EN">Deep-Sea Personal Combat</title></episode>
+<episode num="22">
+<title gid="1675506115" lang="EN">The Stolen Gung-Ho</title></episode>
+<episode num="23">
+<title gid="14199330" lang="EN">Hot-Blooded Instructor Survive</title></episode>
+<episode num="24">
+<title gid="3044378427" lang="EN">Assemble, New Warriors!</title></episode>
+<episode num="25">
+<title gid="3179194269" lang="EN">The Mysterious Beast Warrior!?</title></episode>
+<episode num="26">
+<title gid="2762736187" lang="EN">The Stolen Capsule</title></episode>
+<episode num="27">
+<title gid="275998252" lang="EN">Pursue the Blentrons</title></episode>
+<episode num="28">
+<title gid="1091682821" lang="EN">Angered Magmatron</title></episode>
+<episode num="29">
+<title gid="630319471" lang="EN">Illusion? Lio Convoy</title></episode>
+<episode num="30">
+<title gid="3876449017" lang="EN">Unicron Revived!</title></episode>
+<episode num="31">
+<title gid="1491186794" lang="EN">Unicron's Ambition</title></episode>
+<episode num="32">
+<title gid="3826487040" lang="EN">Fight, Maximals!</title></episode>
+<episode num="33">
+<title gid="2658774943" lang="EN">The End of the Maximals!?</title></episode>
+<episode num="34">
+<title gid="1814313717" lang="EN">The Last Battle</title></episode>
+<episode num="35">
+<title gid="1095143880" lang="EN">Graduation!!</title></episode>
+<staff gid="2043842594"><task>Series Director</task><person id="3154">Osamu Sekita</person></staff>
+<staff gid="2276747386"><task>Script</task><person id="4526">Yukiyoshi Ohashi</person></staff>
+<staff gid="1445684953"><task>Script</task><person id="7856">Junki Takegami</person></staff>
+<staff gid="1635092755"><task>Script</task><person id="9001">Katsuyuki Sumisawa</person></staff>
+<staff gid="2464198896"><task>Script</task><person id="10231">Kazuhiko Gôdo</person></staff>
+<staff gid="2708139164"><task>Music</task><person id="16246">Yuzo Hayashi</person></staff>
+<staff gid="2112028052"><task>Character Design</task><person id="5829">Takahiro Yamada</person></staff>
+<staff gid="1865566008"><task>Character Design</task><person id="32409">Hiroyuki Taiga</person></staff>
+<staff gid="1948828932"><task>Chief Animation Director</task><person id="7463">Munetaka Abe</person></staff>
+<staff gid="1039604776"><task>Animation Director</task><person id="7463">Munetaka Abe</person></staff>
+<staff gid="920650024"><task>Animation Director</task><person id="7726">Masahiro Yamane</person></staff>
+<staff gid="1427756443"><task>Animation Director</task><person id="8029">Hirokazu Ishino</person></staff>
+<staff gid="3158328441"><task>Animation Director</task><person id="8236">Mikio Tsuchiya</person></staff>
+<staff gid="3033098442"><task>Animation Director</task><person id="23221">Tsutomu Murakami</person></staff>
+<staff gid="2631230081"><task>Animation Director</task><person id="25317">Yutaka Arai</person></staff>
+<staff gid="3084048066"><task>Animation Director</task><person id="27542">Saburou Tanaka</person></staff>
+<staff gid="1523366304"><task>Animation Director</task><person id="27641">Natsumi Ogawa</person></staff>
+<staff gid="2011989783"><task>Sound Director</task><person id="5458">Kazuya Tanaka</person></staff>
+<cast gid="1437652415" lang="EN"><role>Longrack**</role><person id="56580">Kris Stemmer</person></cast>
+<cast gid="1812136433" lang="EN"><role>Big Convoy</role><person id="56581">Brandon Williams</person></cast>
+<cast gid="2602562533" lang="JA"><role>Saberback</role><person id="932">Kazuki Yao</person></cast>
+<cast gid="3173100555" lang="JA"><role>NAVI</role><person id="2127">Kaori Tagami</person></cast>
+<cast gid="2146799213" lang="JA"><role>Break</role><person id="2130">Junko Takeuchi</person></cast>
+<cast gid="3939130098" lang="JA"><role>Magmatron</role><person id="5603">Sho Ryuzanji</person></cast>
+<cast gid="1503731217" lang="JA"><role>Heinrad</role><person id="6032">Yoji Ietomi</person></cast>
+<cast gid="2115301202" lang="JA"><role>Guiledart</role><person id="6353">Harî Kaneko</person></cast>
+<cast gid="725224492" lang="JA"><role>Mach Kick</role><person id="8343">Teruaki Ogawa</person></cast>
+<cast gid="3175355905" lang="JA"><role>Big Convoy</role><person id="17598">Junichi Inoue</person></cast>
+<cast gid="2204910339" lang="JA"><role>Colada</role><person id="18801">Makoto Ueki</person></cast>
+<cast gid="2386100797" lang="JA"><role>Stampy</role><person id="19442">Mika Ishibashi</person></cast>
+<cast gid="2912403691" lang="JA"><role>Longrack</role><person id="27745">Jun Uemoto</person></cast>
+<cast gid="2329885744" lang="JA"><role>Narration</role><person id="46846">Monster Maezuka</person></cast>
+<cast gid="2212111430" lang="JA"><role>Sling</role><person id="46846">Monster Maezuka</person></cast>
+<cast gid="1999211034" lang="JA"><role>Dead End</role><person id="46847">Seiji Mizutani</person></cast>
+<cast gid="1337698009" lang="JA"><role>Archadis</role><person id="46848">Ren Tamura</person></cast>
+<cast gid="2000910171" lang="JA"><role>DNAVI</role><person id="46853">Maki Miyamae</person></cast>
+<credit gid="2371437330"><task>Production</task><company id="262">TV Tokyo</company></credit>
+<credit gid="1428610287"><task>Production</task><company id="509">Ashi Productions</company></credit></anime></ann>

@@ -1,0 +1,69 @@
+<ann><anime id="2362" gid="2033404708" type="movie" name="Mobile Suit Gundam 0083: The Last Blitz of Zeon" precision="movie" generated-on="2016-03-27T05:54:04Z">
+<related-prev rel="compilation of" id="23"/>
+<related-prev rel="part of" id="4189"/>
+<info gid="1403158935" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A2362-20.jpg" width="200" height="200"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A2362-20.jpg" width="200" height="200"/><img src="http://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A2362-20.jpg" width="255" height="255"/></info>
+<info gid="3122029706" type="Main title" lang="JA">Mobile Suit Gundam 0083: The Last Blitz of Zeon</info>
+<info gid="2239307657" type="Alternative title" lang="EN">Gundam 0083: The Last Blitz of Zeon</info>
+<info gid="3511419918" type="Alternative title" lang="JA">Kidō Senshi Gundam 0083: Jion no Zankō</info>
+<info gid="2313632467" type="Alternative title" lang="IT">Mobile Suit Gundam 0083: L'Ultima Scintilla di Zeon</info>
+<info gid="2550979993" type="Alternative title" lang="EN">Mobile Suit Gundam 0083: The Afterglow of Zeon</info>
+<info gid="119668646" type="Alternative title" lang="EN">Mobile Suit Gundam 0083: The Fading Light of Zeon</info>
+<info gid="2496929479" type="Alternative title" lang="JA">機動戦士ガンダム0083 －ジオンの残光－</info>
+<info gid="2294732661" type="Alternative title" lang="ZH-TW">機動戰士鋼彈0083：吉翁的殘光</info>
+<info gid="1989462033" type="Genres">action</info>
+<info gid="2960727339" type="Genres">science fiction</info>
+<info gid="3018382893" type="Themes">mecha</info>
+<info gid="3465321364" type="Themes">military</info>
+<info gid="939338247" type="Objectionable content">OC</info>
+<info gid="3721871632" type="Plot Summary">U.C. 0083: Three years after the One Year War, a rogue Zeon armada known as the Delaz Fleet make their move by stealing the top-secret prototype Gundam GP02A. Rookie pilot Kou Uraki takes control of Gundam GP01 to pursue Zeon ace veteran Anavel Gato in hopes of recovering the stolen Gundam prototype.</info>
+<info gid="1588092223" type="Running time">120</info>
+<info type="Vintage">1992-08-29</info>
+<info gid="2496131857" type="Premiere date">1992-08-29 (Japan)</info>
+<info gid="3138928213" type="Ending Theme">&quot;True Shining&quot; by Rumiko Wada</info>
+<info gid="1031206777" type="Insert song">&quot;Mon etoil&quot; by Rumiko Wada</info>
+<info gid="2703393754" type="Official website" lang="JA" href="http://www.b-ch.com/contents/gundam0083/index.html">Bandai Channel Stardust Memory Official Site</info>
+<info gid="1998048961" type="Official website" lang="EN" href="http://www.gundamofficial.com/">Gundam Official Homepage</info>
+<ratings nb_votes="104" weighted_score="6.2502" bayesian_score="6.39161"/>
+<staff gid="3341094953"><task>Director</task><person id="3481">Takashi Imanishi</person></staff>
+<staff gid="1582839083"><task>Music</task><person id="4315">Mitsuo Hagita</person></staff>
+<staff gid="17983521"><task>Original creator</task><person id="19">Hajime Yatate</person></staff>
+<staff gid="3330476721"><task>Original creator</task><person id="100">Yoshiyuki Tomino</person></staff>
+<staff gid="273963931"><task>Character Design</task><person id="96">Toshihiro Kawamoto</person></staff>
+<staff gid="2974142552"><task>Animation Director</task><person id="96">Toshihiro Kawamoto</person></staff>
+<staff gid="2853097131"><task>Mechanical design</task><person id="31">Shoji Kawamori</person></staff>
+<staff gid="69456389"><task>Mechanical design</task><person id="123">Kunio Okawara</person></staff>
+<staff gid="2212313235"><task>Mechanical design</task><person id="124">Hajime Katoki</person></staff>
+<staff gid="2278613888"><task>Mechanical design</task><person id="6998">Mika Akitaka</person></staff>
+<staff gid="3628446070"><task>Mechanical design</task><person id="7494">Koji Sugiura</person></staff>
+<staff gid="2066532865"><task>Mechanical design</task><person id="8763">Yasushi Ishizu</person></staff>
+<staff gid="1028757326"><task>Producer</task><person id="181">Masuo Ueda</person></staff>
+<staff gid="395169503"><task>Producer</task><person id="472">Minoru Takanashi</person></staff>
+<cast gid="3084287378" lang="IT"><role>Jacqueline Simone</role><person id="26246">Monica Bertolotti</person></cast>
+<cast gid="3544639433" lang="IT"><role>Anavel Gato</role><person id="26309">Fabrizio Pucci</person></cast>
+<cast gid="3321952126" lang="IT"><role>Eyphar Synaps</role><person id="26609">Saverio Indrio</person></cast>
+<cast gid="911393875" lang="IT"><role>Aguille Delaz</role><person id="26617">Paolo Marchese</person></cast>
+<cast gid="1681318438" lang="IT"><role>Chuck Keith</role><person id="27001">Marco Vivio</person></cast>
+<cast gid="1151415815" lang="IT"><role>Nina Purpleton</role><person id="27002">Francesca Manicone</person></cast>
+<cast gid="685854696" lang="IT"><role>Maura Baschit</role><person id="27158">Silvia Tognoloni</person></cast>
+<cast gid="2326789475" lang="IT"><role>South Burning</role><person id="50863">Ennio Coltorti</person></cast>
+<cast gid="1993871950" lang="IT"><role>Peatar Scott</role><person id="52623">Sacha De Toni</person></cast>
+<cast gid="1482680008" lang="IT"><role>Cima Garahau</role><person id="56080">Laura Romano</person></cast>
+<cast gid="2819384553" lang="IT"><role>Kou Uraki</role><person id="105179">Daniele Chevalier</person></cast>
+<cast gid="2320270375" lang="JA"><role>Mora Bascht</role><person id="303">Kazue Ikura</person></cast>
+<cast gid="2391511150" lang="JA"><role>Scott</role><person id="543">Masami Kikuchi</person></cast>
+<cast gid="411000232" lang="JA"><role>Simone</role><person id="657">Kae Araki</person></cast>
+<cast gid="3950268841" lang="JA"><role>Anavel Gato</role><person id="832">Akio Ohtsuka</person></cast>
+<cast gid="2688844112" lang="JA"><role>Nina Purpleton</role><person id="853">Rei Sakuma</person></cast>
+<cast gid="3707950102" lang="JA"><role>Kou Uraki</role><person id="1104">Ryo Horikawa</person></cast>
+<cast gid="2933040270" lang="JA"><role>Alpha Bate</role><person id="2069">Kouji Totani</person></cast>
+<cast gid="714982963" lang="JA"><role>Aguille Delaz</role><person id="2170">Kiyoshi Kobayashi</person></cast>
+<cast gid="3587552810" lang="JA"><role>Adm. Eiphar Synapse</role><person id="2171">Chikao Ohtsuka</person></cast>
+<cast gid="901125952" lang="JA"><role>South Burning</role><person id="2326">Masashi Sugawara</person></cast>
+<cast gid="3819123572" lang="JA"><role>Cima Garahau</role><person id="2417">Mari Mashiba</person></cast>
+<cast gid="2081721377" lang="JA"><role>Bernard Monsha</role><person id="4885">Chafurin</person></cast>
+<cast gid="1339712355" lang="JA"><role>Chap Adel</role><person id="7159">Yuji Mikimoto</person></cast>
+<cast gid="259921628" lang="JA"><role>Ivan Pasarov</role><person id="7673">Kazuhiko Kishino</person></cast>
+<cast gid="910359527" lang="JA"><role>Chuck Keith</role><person id="13664">Yoshiharu Yamada</person></cast>
+<credit gid="1194054026"><task>Production</task><company id="18">Bandai Visual</company></credit>
+<credit gid="1224348802"><task>Production</task><company id="34">Sunrise</company></credit>
+<credit gid="2297123846"><task>Production</task><company id="9991">Sotsu Co., Ltd.</company></credit></anime></ann>

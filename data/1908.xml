@@ -1,0 +1,53 @@
+<ann><anime id="1908" gid="2367163726" type="movie" name="Doraemon: Nobita's Tin-Plate Labyrinth" precision="movie" generated-on="2016-03-27T05:23:52Z">
+<related-prev rel="sequel of" id="1887"/>
+<info gid="2315980185" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A1908-9.jpg" width="200" height="162"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A1908-9.jpg" width="200" height="162"/><img src="http://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A1908-9.jpg" width="350" height="283"/></info>
+<info gid="1748064496" type="Main title" lang="EN">Doraemon: Nobita's Tin-Plate Labyrinth</info>
+<info gid="2324705480" type="Alternative title" lang="ES">Doraemon y el secreto del laberinto</info>
+<info gid="2296400065" type="Alternative title" lang="JA">ドラえもん のび太とブリキの迷宮</info>
+<info gid="1603942292" type="Alternative title" lang="ZH-TW">哆啦A夢 迷宮之旅</info>
+<info gid="2503398400" type="Genres">adventure</info>
+<info gid="871133802" type="Genres">fantasy</info>
+<info gid="2167669610" type="Genres">science fiction</info>
+<info gid="997042463" type="Themes">aliens</info>
+<info gid="3099129568" type="Themes">robots</info>
+<info gid="245368316" type="Objectionable content">AA</info>
+<info gid="713102117" type="Plot Summary">Nobita's dad stumbled upon a strange advertisement of a fantastic resort on television at midnight. Sleepy as he was, he made a reservation even though he didn't even realize he was talking to the advertisement. The next day he discussed with the family their holiday plans, only to realize he could not find the place anywhere on earth. All of a sudden though, there was a suitcase in Nobita's room and intrigued as he was, he opened it only to find a portal to a beautiful resort managed by tin robots. Better still, it's absolutely free. However, it seems that there is a hidden agenda behind the person who invites them there.</info>
+<info gid="2989055122" type="Running time">100</info>
+<info type="Vintage">1993-03-06</info>
+<info gid="3504595577" type="Vintage">2002-04-24 (Spain)</info>
+<info gid="1898133124" type="Premiere date">1993-03-06 (Japan)</info>
+<ratings nb_votes="13" weighted_score="7.7243" bayesian_score="7.6236"/>
+<staff gid="2155647042"><task>Director</task><person id="7245">Tsutomu Shibayama</person></staff>
+<staff gid="2543637587"><task>Screenplay</task><person id="5417">Fujiko F. Fujio</person></staff>
+<staff gid="2074193523"><task>Unit Director</task><person id="71923">Minetarō Hirai</person></staff>
+<staff gid="2999568504"><task>Unit Director</task><person id="72746">Shoei Tsukada</person></staff>
+<staff gid="2729026565"><task>Unit Director</task><person id="88594">Michinari Watanabe</person></staff>
+<staff gid="2418925247"><task>Music</task><person id="118">Shunsuke Kikuchi</person></staff>
+<staff gid="2801277846"><task>Original creator</task><person id="6677">Hiroshi Fujimoto</person></staff>
+<staff gid="3203882660"><task>Original creator</task><person id="40302">Motoo Abiko</person></staff>
+<staff gid="2904484399"><task>Art Director</task><person id="8929">Shigeru Morimoto</person></staff>
+<staff gid="688383824"><task>Animation Director</task><person id="5408">Sadayoshi Tominaga</person></staff>
+<staff gid="2157517906"><task>Art design</task><person id="3372">Shôhei Kawamoto</person></staff>
+<staff gid="1694997327"><task>Director of Photography</task><person id="6537">Hideko Takahashi</person></staff>
+<staff gid="2602647992"><task>Director of Photography</task><person id="101876">Tohru Osakabe</person></staff>
+<staff gid="2815639621"><task>Producer</task><person id="2951">Yoshiaki Koizumi</person></staff>
+<staff gid="2384933220"><task>Producer</task><person id="64350">Toshihide Yamada</person></staff>
+<staff gid="685714217"><task>Producer</task><person id="65005">Soichi Besshi</person></staff>
+<staff gid="2615094206"><task>Producer</task><person id="102641">Morihiro Katō</person></staff>
+<cast gid="2092020685" lang="ES"><role>Gian</role><person id="32387">Nacho de Porrata</person></cast>
+<cast gid="2368352989" lang="ES"><role>Suneo</role><person id="41724">Noemi Bayarri</person></cast>
+<cast gid="1460380104" lang="ES"><role>Dr. Napojistra</role><person id="47719">Vicente Gil</person></cast>
+<cast gid="475509679" lang="ES"><role>Doraemon</role><person id="50502">Eduard Itchart</person></cast>
+<cast gid="2345746270" lang="ES"><role>Nonita Nobi</role><person id="50630">Assumpta Navascues</person></cast>
+<cast gid="1447590629" lang="ES"><role>Suneo Honekawa</role><person id="59607">María Rosa Gil</person></cast>
+<cast gid="3293805438" lang="ES"><role>Gegant</role><person id="63119">Josep Sobrevia</person></cast>
+<cast gid="847335168" lang="ES"><role>Shizuka</role><person id="71097">Olga Supervia</person></cast>
+<cast gid="1619584409" lang="ES"><role>Shizuka Minamoto</role><person id="71097">Olga Supervia</person></cast>
+<cast gid="2731674417" lang="JA"><role>Nobita</role><person id="3410">Noriko Ohara</person></cast>
+<cast gid="2519051244" lang="JA"><role>Shizuka</role><person id="4633">Michiko Nomura</person></cast>
+<cast gid="2795906732" lang="JA"><role>Suneo</role><person id="7237">Kaneta Kimotsuki</person></cast>
+<cast gid="230788527" lang="JA"><role>Doraemon</role><person id="7244">Nobuyo Oyama</person></cast>
+<cast gid="1603357331" lang="JA"><role>Jyaian</role><person id="7247">Kazuya Tatekabe</person></cast>
+<credit gid="2218469100"><task>Production</task><company id="160">TV Asahi</company></credit>
+<credit gid="2643925233"><task>Production</task><company id="580">Shogakukan, Inc.</company></credit>
+<credit gid="1486071006"><task>Production</task><company id="8779">Shin-Ei Animation</company></credit></anime></ann>

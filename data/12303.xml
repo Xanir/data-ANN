@@ -1,0 +1,386 @@
+<ann><anime id="12303" gid="2405568540" type="TV" name="Yu-Gi-Oh! Zexal" precision="TV" generated-on="2016-03-27T04:03:10Z">
+<related-prev rel="related to" id="5074"/>
+<related-prev rel="related to" id="13752"/>
+<related-next id="14736" rel="sequel"/>
+<info gid="2939473383" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A12303-6.jpg" width="200" height="200"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A12303-6.jpg" width="200" height="200"/><img src="http://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A12303-6.jpg" width="256" height="256"/></info>
+<info gid="2082685335" type="Main title" lang="JA">Yu-Gi-Oh! Zexal</info>
+<info gid="3910174533" type="Alternative title" lang="JA">遊☆戯☆王ゼアル</info>
+<info gid="780310396" type="Genres">action</info>
+<info gid="2427328110" type="Genres">comedy</info>
+<info gid="2445918689" type="Genres">science fiction</info>
+<info gid="3146501810" type="Genres">supernatural</info>
+<info gid="1955695779" type="Genres">tournament</info>
+<info gid="2214805002" type="Themes">card games</info>
+<info gid="1501543260" type="Themes">monsters</info>
+<info gid="1588705886" type="Objectionable content">OC</info>
+<info gid="1463790998" type="Plot Summary">The story takes place in the distant future and focuses on a boy named Yuma Tsukumo, the number one bad boy at his school. Something unexpected happens when Ryoga challenges him to a Duel as the mysterious ghost of Astral appears before them, a new legend begins.</info>
+<info gid="2351316524" type="Running time">half hour</info>
+<info gid="1431747545" type="Number of episodes">74</info>
+<info gid="4153903530" type="Vintage">2011-04-11 to 2012-09-24</info>
+<info gid="2380712141" type="Vintage">2012-06-09 (Italy - K2)</info>
+<info gid="2409900449" type="Vintage">2013-07-22 (Philippines, ABS-CBN Team Animazing)</info>
+<info gid="1358485474" type="Vintage">2013-10-25 (Philippines, Hero - League of Heroes)</info>
+<info gid="1696704581" type="Vintage">2014-08-11 (Portugal, SIC K)</info>
+<info gid="3529361290" type="Opening Theme">#1: &quot;Masterpiece&quot; by mihimaru GT (eps 1-25)</info>
+<info gid="1883620289" type="Opening Theme">#1: &quot;Take a Chance&quot; by Micheal Brody (eps 1-74)</info>
+<info gid="2249731128" type="Opening Theme">#2: &quot;BRAVING!&quot; by KANAN (eps 26-49)</info>
+<info gid="2384862288" type="Opening Theme">#3: &quot;Soul Drive (魂ドライブ Tamashī Doraibu)&quot; by Color Bottle (eps 50-74)</info>
+<info gid="2044817319" type="Ending Theme">#1: &quot;Boku QUEST&quot; by Golden Bomber (eps 1-25)</info>
+<info gid="3737473747" type="Ending Theme">#2: &quot;Setsubō no Furījia (切望のフリージア; Freesia of Longing)&quot; by DaizyStripper (eps 26-49)</info>
+<info gid="1676373487" type="Ending Theme">#3: &quot;Wild Child&quot; by Moumoon (eps 50-74)</info>
+<info gid="3131553292" type="Official website" lang="JA" href="http://www.tv-tokyo.co.jp/anime/yugioh-zexal/">テレビ東京・あにてれ 遊☆戯☆王ゼアル</info>
+<ratings nb_votes="55" weighted_score="4.9236" bayesian_score="5.42053"/>
+<episode num="1">
+<title gid="3075112860" lang="EN">This is my Kattobing!!</title></episode>
+<episode num="2">
+<title gid="1225011423" lang="EN">My Name is Astral</title></episode>
+<episode num="3">
+<title gid="1461811426" lang="EN">Shortly said, it's a case!!</title></episode>
+<episode num="4">
+<title gid="2156663015" lang="EN">Countdown to reverse! The secret plan is Astral!?</title></episode>
+<episode num="5">
+<title gid="1050886297" lang="EN">The shadow reading the shadow of the duel!</title></episode>
+<episode num="6">
+<title gid="1760217320" lang="EN">Betrayal of the Numbers!?</title></episode>
+<episode num="7">
+<title gid="2244007253" lang="EN">Great Feast of Justice! Esper Robin is Here!!</title></episode>
+<episode num="8">
+<title gid="3041778295" lang="EN">Star Robin is forever</title></episode>
+<episode num="9">
+<title gid="3048456043" lang="EN">Cat's Surprising Cat Deck!?</title></episode>
+<episode num="10">
+<title gid="2112496652" lang="EN">Shark's Counterattack!</title></episode>
+<episode num="11">
+<title gid="871931452" lang="EN">Yuma and Shark's Tag Duel</title></episode>
+<episode num="12">
+<title gid="2546909317" lang="EN">Hope's Fusion! Armored Xyz Activate!</title></episode>
+<episode num="13">
+<title gid="1953929203" lang="EN">Soul Hunt! Rise of the Numbers Hunters!</title></episode>
+<episode num="14">
+<title gid="2306401685" lang="EN">Galaxy Eyes Photon Dragon' Descends!</title></episode>
+<episode num="15">
+<title gid="1996988294" lang="EN">Behold, Legendary Monsters Revived!!</title></episode>
+<episode num="16">
+<title gid="2419062854" lang="EN">Finishing Ninja Art! The Most Feared Ninja Appears!</title></episode>
+<episode num="17">
+<title gid="2020185549" lang="EN">The Psychic Who Predicts all Fear!</title></episode>
+<episode num="18">
+<title gid="2446956512" lang="EN">Chaos Exceed Change! Light of Hope: Hope Ray!!</title></episode>
+<episode num="19">
+<title gid="2049752445" lang="EN">The Promised Kattobing</title></episode>
+<episode num="20">
+<title gid="2740874471" lang="EN">The Pitch-Black Numbers: Dark Yuma vs Tetsuo</title></episode>
+<episode num="21">
+<title gid="1925517362" lang="EN">Yuma vs The Cleaning Robot Obomi</title></episode>
+<episode num="22">
+<title gid="2375042230" lang="EN">Emperor's Key Stolen! Kaito vs Shark</title></episode>
+<episode num="23">
+<title gid="3341875129" lang="EN">The Fated Duel! Astral vs Kaito</title></episode>
+<episode num="24">
+<title gid="2067344208" lang="EN">The Soul's Xyz Summon! Zexal</title></episode>
+<episode num="25">
+<title gid="1633467513" lang="EN">The Time Has Come, The Three Suns Appear</title></episode>
+<episode num="26">
+<title gid="1483634530" lang="EN">Begin! World Duel Carnival!</title></episode>
+<episode num="27">
+<title gid="1820776667" lang="EN">WDC Kicks Off! The Burning Striker - Kakeru Kunitachi</title></episode>
+<episode num="28">
+<title gid="2448032886" lang="EN">Construction Site Duel! Destroy the Digger Deck!!</title></episode>
+<episode num="29">
+<title gid="3027611562" lang="EN">Railroad Deck Takeoff! Runaway Duelist Anna</title></episode>
+<episode num="30">
+<title gid="1021983948" lang="EN">Yuma's Greatest Ordeal! Fight to Death, Vegetable Death Match</title></episode>
+<episode num="31">
+<title gid="2055020098" lang="EN">His name is Charlie, the Man with the Strongest Luck in History</title></episode>
+<episode num="32">
+<title gid="2565348714" lang="EN">Invincible Luck! Number 7: Lucky Stripe</title></episode>
+<episode num="33">
+<title gid="2588683495" lang="EN">Tag Duel of Hell! Fiendish Hero IV</title></episode>
+<episode num="34">
+<title gid="1719321976" lang="EN">The Detemined Revenge, Tragic Duelist, Shark</title></episode>
+<episode num="35">
+<title gid="2449350832" lang="EN">The Shocking Scoop, Kotori's Dangerous Future!</title></episode>
+<episode num="36">
+<title gid="1043039749" lang="EN">The Power to Create the Future! Aspiring Emperor Hope Ray</title></episode>
+<episode num="37">
+<title gid="2355820369" lang="EN">Disqualified from the WDC!? Heartland's Assassins, Droite and Gauche</title></episode>
+<episode num="38">
+<title gid="3801659423" lang="EN">Bound To Hope! Hope Sword Mars Slash!!</title></episode>
+<episode num="39">
+<title gid="1753178933" lang="EN">The Destined Showdown! Cat vs Dog</title></episode>
+<episode num="40">
+<title gid="2767918073" lang="EN">Visitor from Heartland: Haruto</title></episode>
+<episode num="41">
+<title gid="2689687838" lang="EN">Haruto Is Gone! The New Enemy: Tron</title></episode>
+<episode num="42">
+<title gid="1375255947" lang="EN">Yuma &amp; Kaito: A Spirited Tag Duel</title></episode>
+<episode num="43">
+<title gid="3177240321" lang="EN">The Miraculous Overlay! Neo Galaxy-Eyes Photon Dragon</title></episode>
+<episode num="44">
+<title gid="2214530153" lang="EN">The Forked Paths of Destiny! Yuma Throws Away Dueling!</title></episode>
+<episode num="45">
+<title gid="2624290464" lang="EN">A Nemesis Shows Up Late! Robin VS Gauche</title></episode>
+<episode num="46">
+<title gid="853674088" lang="EN">For the Sake of Family... The Gentle Avenger: III!!</title></episode>
+<episode num="47">
+<title gid="2554104355" lang="EN">Yuma's Denied!? The Stolen &quot;Kattobing&quot;!</title></episode>
+<episode num="48">
+<title gid="2046404033" lang="EN">Astral, Dead...!?</title></episode>
+<episode num="49">
+<title gid="2938990033" lang="EN">The End of a Fierce Fight! Hope Ray VS Atlanthal</title></episode>
+<episode num="50">
+<title gid="2346600057" lang="EN">The Eve of the Storm! The Diabolical Duelist Tron Appears</title></episode>
+<episode num="51">
+<title gid="3019091287" lang="EN">Head to the Finals! The Duel Coaster is ready to GO!&quot;</title></episode>
+<episode num="52">
+<title gid="1365956653" lang="EN">The Duel Coaster VS The Roaring Express</title></episode>
+<episode num="53">
+<title gid="2904813740" lang="EN">The Fated Rail: Try Your Luck On A Trap Card!?</title></episode>
+<episode num="54">
+<title gid="3832221483" lang="EN">Tron VS Droite: The Deadly Butterfly's Invitation! A Life-or-Death Jungle Field&quot;</title></episode>
+<episode num="55">
+<title gid="1936873271" lang="EN">Galaxy-Eyes Sealed!? A Cosmic Level Numbers</title></episode>
+<episode num="56">
+<title gid="1907891988" lang="EN">The Great Decisive Battle of Outer Space! Neo Galaxy-Eyes' Counterattack</title></episode>
+<episode num="57">
+<title gid="971841484" lang="EN">Shark Torpedoed! The Nightmarish Fan-service</title></episode>
+<episode num="58">
+<title gid="2289520017" lang="EN">Shark Reawakens! A New Chaos Number Appears</title></episode>
+<episode num="59">
+<title gid="2547958744" lang="EN">A Fierce Fight! Yuma VS Gauche: This is my Dueling Soul</title></episode>
+<episode num="60">
+<title gid="3997317958" lang="EN">Prelude to the Ultimate Decisive Battle: A New Enemy, Dr. Faker</title></episode>
+<episode num="61">
+<title gid="929291367" lang="EN">&quot;The Disappearing Bonds! Yuma VS Shark, the Fated Duel!!</title></episode>
+<episode num="62">
+<title gid="2566330088" lang="EN">Shark's Back! The Bonds Connected by &quot;Kattobing!&quot;</title></episode>
+<episode num="63">
+<title gid="1946904538" lang="EN">The Scheme of a Horrifying Darkness! Tron's True Form Is Revealed!?</title></episode>
+<episode num="64">
+<title gid="2756199115" lang="EN">Roar, Neo Galaxy Eyes! The Brothers' Bond That Shatters The Darkness</title></episode>
+<episode num="65">
+<title gid="2285055959" lang="EN">An All-Out War Between Numbers! Yuma vs Tron! The Surprising Duel in a Super-Strange Space</title></episode>
+<episode num="66">
+<title gid="2082401732" lang="EN">The Terrifying Duel! Arise, Hero of Bonds, ZEXAL!</title></episode>
+<episode num="67">
+<title gid="1357684051" lang="EN">Believe in Victory! The Final Shining Draw!</title></episode>
+<episode num="68">
+<title gid="1460983143" lang="EN">Prelude to Ruin: The Threat of the Sphere Field Cannon!</title></episode>
+<episode num="69">
+<title gid="1269354475" lang="EN">The Three Heroes Unite, One Last Duel For The Future!</title></episode>
+<episode num="70">
+<title gid="1894063892" lang="EN">The Most Evil, Horrifying Dragon Appears! The False Skeletal God Dragon, Heart-earth Dragon</title></episode>
+<episode num="71">
+<title gid="3038734848" lang="EN">The Miraculous Kattobing! ZEXAL, Open The Path to the Future!!</title></episode>
+<episode num="72">
+<title gid="1310455978" lang="EN">Betting It All! Yuma VS Kaito!!</title></episode>
+<episode num="73">
+<title gid="2467193471" lang="EN">Kaito's Strongest and Final Trump Card! Radiant Photon Paradios!!</title></episode>
+<release date="2014-09-16" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=26747">Yu-Gi-Oh! Zexal - Season 1​ Volume 1 (Dub.DVD)</release>
+<release date="2015-05-05" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=28245">Yu-Gi-Oh! Zexal - Season 1​ Complete Collection (Dub.DVD)</release>
+<release date="2015-10-06" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=29312">Yu-Gi-Oh! Zexal - Season 2​ Complete Collection (Dub.DVD)</release>
+<news datetime="2010-12-13T09:12:21Z" href="http://www.animenewsnetwork.com/news/2010-12-13/yu-gi-oh-zexal-anime-manga-revealed">&lt;cite&gt;Yu-Gi-Oh! Zexal&lt;/cite&gt; Anime, Manga Revealed</news>
+<news datetime="2010-12-18T02:27:35Z" href="http://www.animenewsnetwork.com/news/2010-12-17/yu-gi-oh-zexal-tv-anime-promo-video-streamed">&lt;cite&gt;Yu-Gi-Oh! Zexal&lt;/cite&gt; TV Anime's Promo Video Streamed</news>
+<news datetime="2011-02-22T00:32:53Z" href="http://www.animenewsnetwork.com/news/2011-02-21/yu-gi-oh-zexal-tv-anime-scheduled-for-april-11">&lt;cite&gt;Yu-Gi-Oh! Zexal&lt;/cite&gt; TV Anime Scheduled for April 11</news>
+<news datetime="2011-05-11T01:55:53Z" href="http://www.animenewsnetwork.com/news/2011-05-10/japanese-firms-pitch-new-yu-gi-oh-at-licensing-expo">Japanese Firms Pitch New &lt;cite&gt;Yu-Gi-Oh!&lt;/cite&gt; at Licensing Expo</news>
+<news datetime="2011-05-17T19:03:15Z" href="http://www.animenewsnetwork.com/news/2011-05-17/4kids-files-to-prevent-yu-gi-oh-zexal-licensing">4Kids Files to Prevent &lt;cite&gt;Yu-Gi-Oh! Zexal&lt;/cite&gt; Licensing</news>
+<news datetime="2011-06-02T23:30:00Z" href="http://www.animenewsnetwork.com/news/2011-06-02/judge-orders-hold-on-u.s-yu-gi-oh-anime-license">Judge Orders Hold on U.S. &lt;cite&gt;Yu-Gi-Oh!&lt;/cite&gt; Anime License</news>
+<news datetime="2011-06-06T14:20:38Z" href="http://www.animenewsnetwork.com/news/2011-06-07/weekly-wrapup-31/5">Weekly Wrapup 31/5 - 5/6</news>
+<news datetime="2011-06-12T03:45:23Z" href="http://www.animenewsnetwork.com/news/2011-06-11/4kids-plans-to-pitch-new-yu-gi-oh-at-licensing-expo">4Kids Plans to Pitch New &lt;cite&gt;Yu-Gi-Oh!&lt;/cite&gt; at Licensing Expo</news>
+<news datetime="2011-06-19T20:30:00Z" href="http://www.animenewsnetwork.com/news/2011-06-20/weekly-wrapup-12/jun-18/jun">Weekly Wrapup  12/Jun - 18/Jun</news>
+<news datetime="2011-09-27T20:40:00Z" href="http://www.animenewsnetwork.com/news/2011-09-27/yu-gi-oh-zexal-to-premiere-on-toonzai-on-october-15">&lt;cite&gt;Yu-Gi-Oh! Zexal&lt;/cite&gt; to Premiere on Toonzai on October 15</news>
+<news datetime="2011-10-15T07:56:20Z" href="http://www.animenewsnetwork.com/news/2011-10-15/yu-gi-oh-zexal-premieres-on-toonzai-in-u.s-on-saturday">&lt;cite&gt;Yu-Gi-OH! Zexal&lt;/cite&gt; Premieres on Toonzai in U.S. on Saturday</news>
+<news datetime="2011-10-16T22:00:00Z" href="http://www.animenewsnetwork.com/news/2011-10-16/north-american-stream-list/october-10-16">North American Stream List: October 10-16</news>
+<news datetime="2011-10-23T21:00:00Z" href="http://www.animenewsnetwork.com/news/2011-10-23/north-american-stream-list/october-17-23">North American Stream List: October 17-23</news>
+<news datetime="2011-10-25T11:05:00Z" href="http://www.animenewsnetwork.com/news/2011-10-25/japan-animation-dvd-ranking-october-17-23">Japan's Animation DVD Ranking, October 17-23</news>
+<news datetime="2011-12-31T15:00:00Z" href="http://www.animenewsnetwork.com/news/2011-12-31/4kids-yu-gi-oh-license-is-still-in-force-court-rules">4Kids' &lt;cite&gt;Yu-Gi-Oh!&lt;/cite&gt; License Is Still in Force, Court Rules</news>
+<news datetime="2012-01-16T21:45:00Z" href="http://www.animenewsnetwork.com/news/2012-01-16/japanese-anime-tv-ranking/december-26-january-1">Japanese Animation TV Ranking, December 26-January 1</news>
+<news datetime="2012-02-13T00:00:00Z" href="http://www.animenewsnetwork.com/news/2012-02-12/north-american-stream-list/february-6-12">North American Stream List: February 6-12</news>
+<news datetime="2012-02-27T04:10:47Z" href="http://www.animenewsnetwork.com/news/2012-02-26/north-american-stream-list/feb.ruary-20-26">North American Stream List: February 20-26</news>
+<news datetime="2012-05-27T05:30:00Z" href="http://www.animenewsnetwork.com/news/2012-05-27/yu-gi-oh-zexal-anime-to-premiere-on-canada-ytv">&lt;cite&gt;Yu-Gi-Oh! Zexal&lt;/cite&gt; Anime to Premiere on Canada's YTV</news>
+<news datetime="2012-07-30T14:10:54Z" href="http://www.animenewsnetwork.com/news/2012-07-30/konami-explains-transition-of-4kids-yu-gi-oh-assets">Konami Explains Transition of 4Kids' &lt;cite&gt;Yu-Gi-Oh&lt;/cite&gt; Assets</news>
+<news datetime="2014-07-02T02:30:00Z" href="http://www.animenewsnetwork.com:/news/2014-07-02/north-american-anime-manga-releases-june-29-july-5/.76202">North American Anime, Manga Releases, June 29-July 5</news>
+<news datetime="2014-09-16T20:40:00Z" href="http://www.animenewsnetwork.com:/news/2014-09-16/north-american-anime-manga-releases-september-14-20/.78842">North American Anime, Manga Releases, September 14-20</news>
+<news datetime="2015-02-09T07:00:00Z" href="http://www.animenewsnetwork.com:/news/2015-02-09/free-anime-in-australia-9-jan-15-feb/.84247">Free Anime in Australia: 9/Jan - 15/Feb</news>
+<news datetime="2015-05-05T14:30:00Z" href="http://www.animenewsnetwork.com:/news/2015-05-05/north-american-anime-manga-releases-may-3-9/.87834">North American Anime, Manga Releases, May 3-9</news>
+<news datetime="2015-09-21T08:00:00Z" href="http://www.animenewsnetwork.com:/news/2015-09-21/free-anime-in-australia-21-september-27-september/.93211">Free Anime in Australia: 21/September - 27/September</news>
+<news datetime="2015-10-06T21:45:00Z" href="http://www.animenewsnetwork.com:/news/2015-10-06/north-american-anime-manga-releases-october-4-10/.93867">North American Anime, Manga Releases, October 4-10</news>
+<news datetime="2016-02-01T07:00:00Z" href="http://www.animenewsnetwork.com:/news/2016-02-01/free-anime-in-australia-1-february-7-february/.98210">Free Anime in Australia: 1/February - 7/February</news>
+<news datetime="2016-02-18T19:00:00Z" href="http://www.animenewsnetwork.com:/news/2016-02-18/crunchyroll-adds-fushigi-yugi-anime-to-catalog/.98825">Crunchyroll Adds &lt;cite&gt;Fushigi Yugi&lt;/cite&gt; Anime to Catalog</news>
+<staff gid="1908576617"><task>Director</task><person id="10966">Satoshi Kuwahara</person></staff>
+<staff gid="2643910318"><task>Series Composition</task><person id="10617">Shin Yoshida</person></staff>
+<staff gid="2500482329"><task>Script</task><person id="10617">Shin Yoshida</person></staff>
+<staff gid="3663456853"><task>Script</task><person id="21730">Tsutomu Kamishiro</person></staff>
+<staff gid="3078681356"><task>Script</task><person id="24238">Yasuyuki Suzuki</person></staff>
+<staff gid="1811047997"><task>Script</task><person id="50325">Toshimitsu Takeuchi</person></staff>
+<staff gid="3258935872"><task>Script</task><person id="50891">Yukinori Fukushima</person></staff>
+<staff gid="2787607644"><task>Script</task><person id="50990">Kenichi Yamashita</person></staff>
+<staff gid="2620792687"><task>Storyboard</task><person id="3020">Masami Shimoda</person></staff>
+<staff gid="557016448"><task>Storyboard</task><person id="3109">Goro Taniguchi</person></staff>
+<staff gid="881476451"><task>Storyboard</task><person id="4891">Kiyoshi Egami</person></staff>
+<staff gid="1000054335"><task>Storyboard</task><person id="5452">Naoyuki Kuzuya</person></staff>
+<staff gid="2592998328"><task>Storyboard</task><person id="6591">Shougo Kawamoto</person></staff>
+<staff gid="3322455877"><task>Storyboard</task><person id="6690">Hideki Hosokawa</person></staff>
+<staff gid="1607471635"><task>Storyboard</task><person id="9410">Fumihiro Yoshimura</person></staff>
+<staff gid="1482216347"><task>Storyboard</task><person id="10957">Tsukasa Sunaga</person></staff>
+<staff gid="2724721737"><task>Storyboard</task><person id="10966">Satoshi Kuwahara</person></staff>
+<staff gid="1864205271"><task>Storyboard</task><person id="12542">Noriyoshi Nakamura</person></staff>
+<staff gid="2470928961"><task>Storyboard</task><person id="19934">Wataru Nakagawa</person></staff>
+<staff gid="1891822534"><task>Storyboard</task><person id="29472">Seiji Iseda</person></staff>
+<staff gid="4157886433"><task>Storyboard</task><person id="30135">Hisaya Takabayashi</person></staff>
+<staff gid="3457948938"><task>Storyboard</task><person id="31229">Masahiro Takada</person></staff>
+<staff gid="3233073220"><task>Storyboard</task><person id="35070">Kenji Seto</person></staff>
+<staff gid="2548495129"><task>Storyboard</task><person id="39935">Kimiharu Mutou</person></staff>
+<staff gid="1890368682"><task>Storyboard</task><person id="97310">Hiroki Harada</person></staff>
+<staff gid="1598305189"><task>Storyboard</task><person id="117015">Noche Yagi</person></staff>
+<staff gid="488882069"><task>Episode Director</task><person id="5857">Shin'ichi Masaki</person></staff>
+<staff gid="1549204978"><task>Episode Director</task><person id="6690">Hideki Hosokawa</person></staff>
+<staff gid="2140020863"><task>Episode Director</task><person id="8725">Keiichiro Mochizuki</person></staff>
+<staff gid="833228107"><task>Episode Director</task><person id="16818">Takuo Suzuki</person></staff>
+<staff gid="1898190623"><task>Episode Director</task><person id="19934">Wataru Nakagawa</person></staff>
+<staff gid="1587189508"><task>Episode Director</task><person id="21263">Shigetaka Ikeda</person></staff>
+<staff gid="1045734184"><task>Episode Director</task><person id="31229">Masahiro Takada</person></staff>
+<staff gid="2140941373"><task>Episode Director</task><person id="35070">Kenji Seto</person></staff>
+<staff gid="1350957407"><task>Episode Director</task><person id="35967">Yoshinobu Tokumoto</person></staff>
+<staff gid="109482084"><task>Episode Director</task><person id="39935">Kimiharu Mutou</person></staff>
+<staff gid="1500803063"><task>Episode Director</task><person id="41889">Tetsuaki Matsuda</person></staff>
+<staff gid="2556063399"><task>Episode Director</task><person id="46243">Takeyuki Yanase</person></staff>
+<staff gid="1079906611"><task>Episode Director</task><person id="46698">Hironobu Aoyagi</person></staff>
+<staff gid="1569195064"><task>Episode Director</task><person id="51185">Fujiaki Asari</person></staff>
+<staff gid="1654809583"><task>Episode Director</task><person id="72657">Koichiro Kuroda</person></staff>
+<staff gid="1312388713"><task>Episode Director</task><person id="73196">Kazuhide Kondo</person></staff>
+<staff gid="2406006624"><task>Episode Director</task><person id="75018">Masahiro Mukai</person></staff>
+<staff gid="1681247228"><task>Episode Director</task><person id="78489">Lee Kan Min</person></staff>
+<staff gid="1521480394"><task>Episode Director</task><person id="84166">Keiya Saitō</person></staff>
+<staff gid="2477939979"><task>Unit Director</task><person id="29472">Seiji Iseda</person></staff>
+<staff gid="3420399669"><task>Unit Director</task><person id="39935">Kimiharu Mutou</person></staff>
+<staff gid="2225365421"><task>Unit Director</task><person id="97310">Hiroki Harada</person></staff>
+<staff gid="1730211794"><task>Music</task><person id="72795">Conisch</person></staff>
+<staff gid="1455755809"><task>Original creator</task><person id="11762">Kazuki Takahashi</person></staff>
+<staff gid="1133835809"><task>Original Character Design</task><person id="11762">Kazuki Takahashi</person></staff>
+<staff gid="2192153369"><task>Character Design</task><person id="97310">Hiroki Harada</person></staff>
+<staff gid="2177211613"><task>Art Director</task><person id="20299">Satoshi Shibata</person></staff>
+<staff gid="2258840791"><task>Animation Director</task><person id="2247">Hajime Yoshida</person></staff>
+<staff gid="1299840276"><task>Animation Director</task><person id="2876">Kazumi Kobayashi</person></staff>
+<staff gid="3328409273"><task>Animation Director</task><person id="14917">Shinji Seya</person></staff>
+<staff gid="1091546617"><task>Animation Director</task><person id="19466">Satooshi Shishikura</person></staff>
+<staff gid="3661134550"><task>Animation Director</task><person id="19611">Kazunori Takahashi</person></staff>
+<staff gid="2730366187"><task>Animation Director</task><person id="22429">Mitsuru Soma</person></staff>
+<staff gid="3470469624"><task>Animation Director</task><person id="29621">Toyoaki Fukushima</person></staff>
+<staff gid="853697571"><task>Animation Director</task><person id="32315">Ken'ichi Hara</person></staff>
+<staff gid="1235816475"><task>Animation Director</task><person id="35575">Momoko Makiuchi</person></staff>
+<staff gid="3280544800"><task>Animation Director</task><person id="36583">Jo Tanaka</person></staff>
+<staff gid="1303513832"><task>Animation Director</task><person id="37598">Toshiyuki Sakai</person></staff>
+<staff gid="1675282564"><task>Animation Director</task><person id="44521">Shuji Maruyama</person></staff>
+<staff gid="2066907638"><task>Animation Director</task><person id="46821">Shuuhei Hosokawa</person></staff>
+<staff gid="1369633214"><task>Animation Director</task><person id="55134">Keita Saito</person></staff>
+<staff gid="2621136853"><task>Animation Director</task><person id="76146">Kim Hye-Jung</person></staff>
+<staff gid="2977767366"><task>Animation Director</task><person id="79021">Akemi Yokota</person></staff>
+<staff gid="3636228162"><task>Animation Director</task><person id="79036">Tatsushi Namikaze</person></staff>
+<staff gid="4039710126"><task>Animation Director</task><person id="81583">Michinosuke Nakamura</person></staff>
+<staff gid="2363634381"><task>Animation Director</task><person id="81584">Kazunori Aoki</person></staff>
+<staff gid="1897828373"><task>Animation Director</task><person id="97310">Hiroki Harada</person></staff>
+<staff gid="4066803100"><task>Animation Director</task><person id="100129">Zhan Dong Chen</person></staff>
+<staff gid="2989425167"><task>Animation Director</task><person id="103439">Gil Bo Noh</person></staff>
+<staff gid="3848624775"><task>Animation Director</task><person id="123206">Jae Hyung Kim</person></staff>
+<staff gid="3181976096"><task>Animation Director</task><person id="146260">Shigeru Chiba</person></staff>
+<staff gid="4220306065"><task>Mechanical design</task><person id="20773">Mitsuru Owa</person></staff>
+<staff gid="936482112"><task>Sound Director</task><person id="4683">Yūki Matsuoka</person></staff>
+<staff gid="2391433441"><task>Cgi Director</task><person id="99620">Kazunori Tomita</person></staff>
+<staff gid="2093462970"><task>Director of Photography</task><person id="21211">Kenji Akazawa</person></staff>
+<staff gid="2184308320"><task>Producer</task><person id="52187">Ryou Sasaki</person></staff>
+<staff gid="1768510866"><task>Producer</task><person id="91385">Teruaki Sanematsu</person></staff>
+<cast gid="1076649051" lang="DE"><role>Nelson Andrews</role><person id="22725">Ricardo Richter</person></cast>
+<cast gid="2268569310" lang="DE"><role>Kari Tsukumo</role><person id="22738">Ann Vielhaben</person></cast>
+<cast gid="1911764788" lang="DE"><role>Astral</role><person id="22972">Rainer Fritzsche</person></cast>
+<cast gid="1965218561" lang="DE"><role>Dr. Faker</role><person id="30178">Tobias Lelle</person></cast>
+<cast gid="3219499710" lang="DE"><role>Cathy Catherine</role><person id="30956">Jill Böttcher</person></cast>
+<cast gid="1520777082" lang="DE"><role>Yuma Tsukumo</role><person id="33601">Jan Panczak</person></cast>
+<cast gid="2902434109" lang="DE"><role>Mr. Heartland</role><person id="33780">Thomas Schmuckert</person></cast>
+<cast gid="2762867622" lang="DE"><role>Kite Tenjo</role><person id="39867">Nico Sablik</person></cast>
+<cast gid="2013704674" lang="DE"><role>Mr. Heartland</role><person id="41112">Sebastian Jacob</person></cast>
+<cast gid="2166035389" lang="DE"><role>Mrs. Andrews</role><person id="42007">Heide Domanowski</person></cast>
+<cast gid="2798303927" lang="DE"><role>Tori Meadows</role><person id="44853">Tanja Schmitz</person></cast>
+<cast gid="1052068693" lang="DE"><role>Reginald &quot;Shark&quot; Kastle</role><person id="49821">Jesco Wirthgen</person></cast>
+<cast gid="2426233990" lang="DE"><role>Haru Tsukumo</role><person id="50311">Denise Gorzelanny</person></cast>
+<cast gid="1464132949" lang="DE"><role>Caswell</role><person id="65799">Christian Zeiger</person></cast>
+<cast gid="1159139580" lang="DE"><role>Hart Tenjo</role><person id="72717">Dirk Stollberg</person></cast>
+<cast gid="3060790591" lang="DE"><role>Bronk Stone</role><person id="107475">Nick Forsberg</person></cast>
+<cast gid="1494805125" lang="DE"><role>Quinton</role><person id="111285">Florian Hoffmann</person></cast>
+<cast gid="1799034645" lang="DE"><role>Flip</role><person id="111457">Andi Krösing</person></cast>
+<cast gid="1459427450" lang="DE"><role>Quattro</role><person id="116571">Arne Stephan</person></cast>
+<cast gid="2840012178" lang="DE"><role>Dextra</role><person id="126435">Anja Mentzendorff</person></cast>
+<cast gid="1428308762" lang="DE"><role>Nistro</role><person id="126436">Marco Wittorf</person></cast>
+<cast gid="2335559666" lang="EN"><role>Mira</role><person id="1081">Veronica Taylor</person></cast>
+<cast gid="3201527367" lang="EN"><role>Bronk Stone</role><person id="1126">Sean Schemmel</person></cast>
+<cast gid="2908930495" lang="EN"><role>Nelson Andrews</role><person id="9352">Wayne Grayson</person></cast>
+<cast gid="2392043523" lang="EN"><role>Flip</role><person id="9529">Matt Hoverman</person></cast>
+<cast gid="1744366720" lang="EN"><role>Astral</role><person id="14145">Marc Thompson</person></cast>
+<cast gid="1117893820" lang="EN"><role>Kite Tenjo</role><person id="14145">Marc Thompson</person></cast>
+<cast gid="912160811" lang="EN"><role>Mr. K</role><person id="16925">Darren Dunstan</person></cast>
+<cast gid="3682559091" lang="EN"><role>Caswell</role><person id="25281">Jason Griffith</person></cast>
+<cast gid="2681266860" lang="EN"><role>Cathy Catherine</role><person id="30493">Bella Hudson</person></cast>
+<cast gid="553277010" lang="EN"><role>Hart Tenjo</role><person id="30493">Bella Hudson</person></cast>
+<cast gid="2298980358" lang="EN"><role>Tori Meadows</role><person id="38251">Eileen Stevens</person></cast>
+<cast gid="2067025061" lang="EN"><role>Kari Tsukumo</role><person id="42099">Rebecca Soler</person></cast>
+<cast gid="1693053419" lang="EN"><role>Ryoga Kamishiro</role><person id="66118">Gary Mack</person></cast>
+<cast gid="2176857594" lang="EN"><role>Yuma Tsukumo</role><person id="105480">Eli Jay</person></cast>
+<cast gid="2041238876" lang="EN"><role>Haru Tsukumo</role><person id="106212">Kathryn Cahill</person></cast>
+<cast gid="1337331380" lang="FR"><role>Astral</role><person id="29169">David Manet</person></cast>
+<cast gid="2909147853" lang="FR"><role>Flip</role><person id="39963">Aurélien Ringelheim</person></cast>
+<cast gid="2466995355" lang="FR"><role>Yuma Tsukumo</role><person id="52982">Alexandre Crépet</person></cast>
+<cast gid="2096919367" lang="FR"><role>Mr.Kay</role><person id="53848">Romain Barbieux</person></cast>
+<cast gid="1644614663" lang="FR"><role>Tori Meadows</role><person id="53859">Claire Tefnin</person></cast>
+<cast gid="2250328483" lang="FR"><role>Bronk Stone</role><person id="59626">Gregory Praet</person></cast>
+<cast gid="578767308" lang="FR"><role>Kari Tsulumo</role><person id="61260">Dominique Wagner</person></cast>
+<cast gid="1824188323" lang="FR"><role>Hart Tenjo , Cathy Cathrine</role><person id="62664">Mélanie Dermont</person></cast>
+<cast gid="924711660" lang="FR"><role>Kite Tenjo</role><person id="68338">Pierre Lognay</person></cast>
+<cast gid="1633720087" lang="FR"><role>Nelson</role><person id="68470">Sébastien Hebrant</person></cast>
+<cast gid="1786920063" lang="FR"><role>Caswell</role><person id="73110">Stéphane Pelzer</person></cast>
+<cast gid="3572898387" lang="FR"><role>Shark</role><person id="114851">Nicolas Matthys</person></cast>
+<cast gid="2971421200" lang="IT"><role>Quinton</role><person id="18123">Luca Sandri</person></cast>
+<cast gid="1582764250" lang="IT"><role>Quattro</role><person id="18124">Claudio Moneta</person></cast>
+<cast gid="879957582" lang="IT"><role>Reginald &quot;Shark&quot; Castle</role><person id="25641">Davide Garbolino</person></cast>
+<cast gid="2085277244" lang="IT"><role>Hart Tenjo</role><person id="25931">Federica Valenti</person></cast>
+<cast gid="2840601401" lang="IT"><role>Dr. Faker</role><person id="25937">Marco Balzarotti</person></cast>
+<cast gid="1861514761" lang="IT"><role>Mr. Kay</role><person id="25941">Diego Sabre</person></cast>
+<cast gid="1807818603" lang="IT"><role>Flip</role><person id="25944">Monica Bonetto</person></cast>
+<cast gid="2390627764" lang="IT"><role>Bronk Stone</role><person id="26038">Luca Bottale</person></cast>
+<cast gid="1455861001" lang="IT"><role>Haru Tsukumo</role><person id="26136">Renata Bertolas</person></cast>
+<cast gid="3018510675" lang="IT"><role>Cathy Catherine</role><person id="26258">Patrizia Mottola</person></cast>
+<cast gid="2289667738" lang="IT"><role>Vetrix</role><person id="26258">Patrizia Mottola</person></cast>
+<cast gid="3695144686" lang="IT"><role>Trey</role><person id="36373">Massimo Di Benedetto</person></cast>
+<cast gid="1947694770" lang="IT"><role>Mr. Heartland</role><person id="45092">Paolo Sesana</person></cast>
+<cast gid="2426861375" lang="IT"><role>Tori Meadows</role><person id="48174">Sabrina Bonfitto</person></cast>
+<cast gid="2954773426" lang="IT"><role>Yuma Tsukumo</role><person id="53232">Renato Novara</person></cast>
+<cast gid="1676693364" lang="IT"><role>Kite Tenjo</role><person id="68702">Ruggero Andreozzi</person></cast>
+<cast gid="2808585995" lang="IT"><role>Caswell</role><person id="71174">Stefano Pozzi</person></cast>
+<cast gid="3021438755" lang="IT"><role>Astral</role><person id="71683">Federico Zanandrea</person></cast>
+<cast gid="2916475140" lang="IT"><role>Kari Tsukumo</role><person id="73914">Giuliana Atepi</person></cast>
+<cast gid="593572210" lang="IT"><role>Nelson Andrews</role><person id="95303">Simone Lupinacci</person></cast>
+<cast gid="3127550590" lang="JA"><role>Mr. Heartland</role><person id="849">Juurouta Kosugi</person></cast>
+<cast gid="2487123842" lang="JA"><role>Astral</role><person id="1207">Miyu Irino</person></cast>
+<cast gid="2158521149" lang="JA"><role>Akari Tsukumo</role><person id="5686">Nami Miyahara</person></cast>
+<cast gid="2579659072" lang="JA"><role>Dr. Faker</role><person id="7198">Shinji Ogawa</person></cast>
+<cast gid="2504828245" lang="JA"><role>Haru Tsukumo</role><person id="9860">Ikuko Tani</person></cast>
+<cast gid="2572005332" lang="JA"><role>Haruto Tenjō</role><person id="22150">Yuko Sanpei</person></cast>
+<cast gid="1483564438" lang="JA"><role>Orbital 7</role><person id="46653">Tomoaki Maeno</person></cast>
+<cast gid="867221378" lang="JA"><role>Kaito Tenjō</role><person id="56091">Kouki Uchiyama</person></cast>
+<cast gid="1174040575" lang="JA"><role>Tokunosuke Omoteura</role><person id="69527">Aki Kanada</person></cast>
+<cast gid="2046546066" lang="JA"><role>Fūya Okudaira</role><person id="74072">Yūichi Iguchi</person></cast>
+<cast gid="1324143356" lang="JA"><role>Kotori Mizuki</role><person id="86961">Mikako Komatsu</person></cast>
+<cast gid="3087795434" lang="JA"><role>Takashi Todoroki</role><person id="89772">Taishi Murata</person></cast>
+<cast gid="2036923514" lang="JA"><role>Yūma Tsukumo</role><person id="99622">Tasuku Hatanaka</person></cast>
+<cast gid="2419469668" lang="JA"><role>Ryōga Kamishiro</role><person id="99623">Toshiki Masuda</person></cast>
+<cast gid="3319125455" lang="JA"><role>Tetsuo Takeda</role><person id="99624">Makoto Shimada</person></cast>
+<cast gid="2980563422" lang="KO"><role>Astral</role><person id="96272">Jae-Heon Jeong</person></cast>
+<cast gid="2949285118" lang="KO"><role>Yuma Tsukumo</role><person id="96454">Seung-Gon Ryu</person></cast>
+<cast gid="3736990697" lang="KO"><role>Fuya Okudaira</role><person id="116354">Doh-hyeong Nam</person></cast>
+<cast gid="3454147834" lang="TL"><role>Shark</role><person id="35531">Blair Arellano</person></cast>
+<cast gid="1803840599" lang="TL"><role>Tron</role><person id="59556">Christian Alvear</person></cast>
+<cast gid="1949324351" lang="TL"><role>Astral</role><person id="60845">Christian Velarde</person></cast>
+<cast gid="1214974451" lang="TL"><role>Yūma Tsukumo</role><person id="62725">Steven Bontogon</person></cast>
+<credit gid="1473739256"><task>Animation Production</task><company id="361">GALLOP</company></credit>
+<credit gid="3967666950"><task>Production</task><company id="262">TV Tokyo</company></credit>
+<credit gid="1598918879"><task>Production</task><company id="316">NAS</company></credit>
+<credit gid="1537345184"><task>Production</task><company id="909">Shueisha</company></credit></anime></ann>

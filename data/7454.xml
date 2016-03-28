@@ -1,0 +1,159 @@
+<ann><anime id="7454" gid="2635121474" type="TV" name="Higurashi no Naku Koroni Kai" precision="TV" generated-on="2016-03-27T02:50:16Z">
+<related-prev rel="sequel of" id="6134"/>
+<related-prev rel="part of" id="15269"/>
+<related-next id="9199" rel="sequel"/>
+<related-next id="12825" rel="side story"/>
+<info gid="2706009686" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A7454-32.jpg" width="162" height="200"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A7454-32.jpg" width="162" height="200"/><img src="http://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A7454-32.jpg" width="348" height="430"/></info>
+<info gid="2630815823" type="Main title" lang="JA">Higurashi no Naku Koroni Kai</info>
+<info gid="1729976888" type="Alternative title" lang="ES">Cuando las cigarras lloran - Soluciones</info>
+<info gid="3251821770" type="Alternative title" lang="EN">When They Cry II: Solutions</info>
+<info gid="623973479" type="Alternative title" lang="AR">عندما تبكي هيجوراشي</info>
+<info gid="1492509922" type="Alternative title" lang="JA">ひぐらしのなく頃に解</info>
+<info gid="1412415021" type="Alternative title" lang="KO">쓰르라미 울 적에 해</info>
+<info gid="1417753291" type="Genres">drama</info>
+<info gid="2179259089" type="Genres">horror</info>
+<info gid="2760586027" type="Genres">mystery</info>
+<info gid="3830588391" type="Genres">psychological</info>
+<info gid="2131312144" type="Genres">supernatural</info>
+<info gid="3040087510" type="Genres">thriller</info>
+<info gid="4004112211" type="Themes">conspiracy</info>
+<info gid="2109151713" type="Themes">death</info>
+<info gid="2343444538" type="Themes">goddesses</info>
+<info gid="2124771988" type="Themes">harem</info>
+<info gid="459708415" type="Themes">revenge</info>
+<info gid="2052235331" type="Themes">time travel</info>
+<info gid="1301804623" type="Themes">tragedy</info>
+<info gid="1595623571" type="Objectionable content">MA</info>
+<info gid="3082364200" type="Plot Summary">The endless cycle of hatred and death that befell the small village of Hinamizawa continues. Rika Furude, who is the sole witness of all those tragedies, tries to find a way out of it with her friends' help, without knowing if there is one after all.</info>
+<info gid="719758184" type="Running time">24</info>
+<info gid="805716897" type="Number of episodes">24</info>
+<info gid="1821989298" type="Vintage">2007-07-05 to 2007-12-17</info>
+<info gid="2366553859" type="Opening Theme">&quot;Naraku no Hana&quot; (奈落の花) by Eiko Shimamiya</info>
+<info gid="2705716431" type="Ending Theme">&quot;Taishō a&quot; (対象 a) by anNina</info>
+<info gid="1496869811" type="Official website" lang="EN" href="http://www.funimation.com/whentheycry/">The Official When They Cry Anime Website from FUNimation</info>
+<info gid="1792167061" type="Official website" lang="JA" href="http://www.oyashirosama.com/web/kai/">テレビアニメ「ひぐらしのなく頃に解」公式ホームページ</info>
+<ratings nb_votes="2725" weighted_score="8.099" bayesian_score="8.09626"/>
+<episode num="1">
+<title gid="2137195298" lang="EN">Reunion</title></episode>
+<episode num="2">
+<title gid="3364679576" lang="EN">Yakusamashihen ~Part 1~ Playing Tag</title></episode>
+<episode num="3">
+<title gid="2487057225" lang="EN">Yakusamashihen ~Part 2~ Powerlessness</title></episode>
+<episode num="4">
+<title gid="2633149177" lang="EN">Yakusamashihen ~Part 3~ Pre-established Harmony</title></episode>
+<episode num="5">
+<title gid="2614440156" lang="EN">Yakusamashihen ~Part 4~ The Great Hinamizawa Disaster</title></episode>
+<episode num="6">
+<title gid="2698747697" lang="EN">Massacre Chapter, the First: Law of the Labyrinth</title></episode>
+<episode num="7">
+<title gid="2602506520" lang="EN">Massacre Chapter, the Second: How to Change Destiny</title></episode>
+<episode num="8">
+<title gid="3637551927" lang="EN">Minagoroshihen ~Part 3~ Fluctuation</title></episode>
+<episode num="9">
+<title gid="3150445745" lang="EN">Minagoroshihen ~Part 4~ Negotiation</title></episode>
+<episode num="10">
+<title gid="1052494644" lang="EN">Minagoroshihen ~Part 5~ Confrontation</title></episode>
+<episode num="11">
+<title gid="2400842224" lang="EN">Minagoroshihen ~Part 6~ Strong Will</title></episode>
+<episode num="12">
+<title gid="2300009885" lang="EN">Minagoroshihen ~Part 7~ The Hinamizawa Syndrome</title></episode>
+<episode num="13">
+<title gid="2060829035" lang="EN">Minagoroshihen ~Part 8~ Closure</title></episode>
+<episode num="14">
+<title gid="1247991595" lang="EN">Matsuribayashihen ~Part 1~ Miyo</title></episode>
+<episode num="15">
+<title gid="1013380398" lang="EN">Matsuribayashihen ~Part 2~ Wriggle</title></episode>
+<episode num="16">
+<title gid="2097335339" lang="EN">Matsuribayashihen ~Part 3~ The Beginning of the End</title></episode>
+<episode num="17">
+<title gid="1949836949" lang="EN">Matsuribayashihen ~Part 4~ Plot</title></episode>
+<episode num="18">
+<title gid="952656977" lang="EN">Matsuribayashihen ~Part 5~ The Final Chess Piece</title></episode>
+<episode num="19">
+<title gid="1209927940" lang="EN">Matsuribayashihen ~Part 6~ Opening</title></episode>
+<episode num="20">
+<title gid="1942608508" lang="EN">Matsuribayashihen ~Part 7~ Trap</title></episode>
+<episode num="21">
+<title gid="1659498145" lang="EN">Matsuribayashihen ~Part 8~ 48 Hours</title></episode>
+<episode num="22">
+<title gid="1478719801" lang="EN">Matsuribayashihen ~Part 9~ Offense and Defense</title></episode>
+<episode num="23">
+<title gid="2357879741" lang="EN">Matsuribayashihen ~Part 10~ Bloody Battle</title></episode>
+<episode num="24">
+<title gid="1990196520" lang="EN">Matsuribayashihen ~Part 11~ The End</title></episode>
+<release date="2012-05-24" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=20974">Higurashi no Naku Koroni Kai (When They Cry II: Solutions) - Part 1 (Sub.DVD 1)</release>
+<release date="2012-07-19" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=20975">Higurashi no Naku Koroni Kai (When They Cry II: Solutions) - Part 2 (Sub.DVD 2)</release>
+<news datetime="2007-09-20T17:03:09Z" href="http://www.animenewsnetwork.com/news/2007-09-20/higurashi-kai-preempted-due-to-various-circumstances">&lt;cite&gt;Higurashi Kai&lt;/cite&gt; Preempted &quot;Due to Various Circumstances&quot; (Update 2)</news>
+<news datetime="2007-09-24T18:32:13Z" href="http://www.animenewsnetwork.com/news/2007-09-24/second-ax-slashing-incident-does-not-preempt-higurashi">2nd Axe-Slashing Incident Does Not Preempt &lt;cite&gt;Higurashi&lt;/cite&gt;</news>
+<news datetime="2008-05-08T16:13:59Z" href="http://www.animenewsnetwork.com/news/2008-05-08/3rd-higurashi-series-planned-as-rei-ova-this-winter">3rd &lt;cite&gt;Higurashi&lt;/cite&gt; Series Planned as &lt;cite&gt;Rei&lt;/cite&gt; OVA This Winter</news>
+<news datetime="2008-07-12T12:49:33Z" href="http://www.animenewsnetwork.com/news/2008-07-12/umineko-no-naku-koro-ni-tv-anime-officially-announced">&lt;cite&gt;Umineko no Naku Koro ni&lt;/cite&gt; TV Anime Officially Announced</news>
+<news datetime="2008-08-28T15:12:52Z" href="http://www.animenewsnetwork.com/news/2008-08-28/japanese-animation-dvd-ranking-august-21-27">Japanese Animation DVD Ranking, August 21–27</news>
+<news datetime="2008-11-26T04:12:53Z" href="http://www.animenewsnetwork.com/news/2008-11-25/japanese-animation-dvd-ranking-november-19-25">Japanese Animation DVD Ranking, November 19-25</news>
+<news datetime="2009-01-07T23:18:21Z" href="http://www.animenewsnetwork.com/news/2009-01-07/japanese-comic-ranking-december-23-january-5">Japanese Comic Ranking, December 23-January 5</news>
+<news datetime="2009-03-01T06:47:55Z" href="http://www.animenewsnetwork.com/news/2009-03-01/gangan-joker-to-replace-gangan-powered-wing-mags">&lt;cite&gt;Gangan Joker&lt;/cite&gt; to Replace &lt;cite&gt;Gangan Powered, Wing&lt;/cite&gt; Mags</news>
+<news datetime="2009-07-01T22:18:14Z" href="http://www.animenewsnetwork.com/news/2009-07-01/japanese-comic-ranking-june-22-28">Japanese Comic Ranking, June 22-28</news>
+<news datetime="2009-09-03T09:30:05Z" href="http://www.animenewsnetwork.com/news/2009-09-03/japanese-comic-ranking-august-24-30">Japanese Comic Ranking, August 24-30</news>
+<news datetime="2009-09-09T22:25:39Z" href="http://www.animenewsnetwork.com/news/2009-09-09/japanese-comic-ranking-august-31-september-6">Japanese Comic Ranking, August 31-September 6</news>
+<news datetime="2009-12-30T21:50:14Z" href="http://www.animenewsnetwork.com/news/2009-12-30/japanese-comic-ranking-december-21-27">Japanese Comic Ranking, December 21-27</news>
+<news datetime="2010-09-01T22:13:21Z" href="http://www.animenewsnetwork.com/news/2010-09-01/japanese-comic-ranking-august-23-29">Japanese Comic Ranking, August 23-29</news>
+<news datetime="2011-05-04T22:15:00Z" href="http://www.animenewsnetwork.com/news/2011-05-04/japanese-comic-ranking-april-25-may-1">Japanese Comic Ranking, April 25-May 1</news>
+<news datetime="2011-06-11T18:45:00Z" href="http://www.animenewsnetwork.com/news/2011-06-11/funimation-higurashi-familiar-of-zero-licenses-expire">Funimation's &lt;cite&gt;Higurashi, Familiar of Zero&lt;/cite&gt; Licenses Expire</news>
+<news datetime="2012-03-05T08:36:58Z" href="http://www.animenewsnetwork.com/news/2012-03-05/siren-visual-announces-new-acquisitions">Siren Visual Announces new acquisitions.</news>
+<staff gid="3814340039"><task>Director</task><person id="46346">Chiaki Kon</person></staff>
+<staff gid="1933365047"><task>Series Composition</task><person id="121">Toshifumi Kawase</person></staff>
+<staff gid="3861849309"><task>Script</task><person id="121">Toshifumi Kawase</person></staff>
+<staff gid="616328182"><task>Script</task><person id="715">Rika Nakase</person></staff>
+<staff gid="962689412"><task>Script</task><person id="8956">Fumihiko Shimo</person></staff>
+<staff gid="602793466"><task>Script</task><person id="19679">Masashi Suzuki</person></staff>
+<staff gid="1406263217"><task>Storyboard</task><person id="36">Kazuhiro Furuhashi</person></staff>
+<staff gid="2152607376"><task>Storyboard</task><person id="272">Toshiya Shinohara</person></staff>
+<staff gid="3187482589"><task>Storyboard</task><person id="3260">Ryo Yasumura</person></staff>
+<staff gid="1437135219"><task>Storyboard</task><person id="4093">Michio Fukuda</person></staff>
+<staff gid="1213945186"><task>Storyboard</task><person id="4550">Yoshihiro Takamoto</person></staff>
+<staff gid="2184888486"><task>Storyboard</task><person id="10960">Katsumi Terahigashi</person></staff>
+<staff gid="1681735561"><task>Storyboard</task><person id="15060">Tatsuya Abe</person></staff>
+<staff gid="957312702"><task>Storyboard</task><person id="15161">Hideyo Yamamoto</person></staff>
+<staff gid="3062491156"><task>Storyboard</task><person id="20517">Akira Iwanaga</person></staff>
+<staff gid="1892399680"><task>Storyboard</task><person id="21113">Naori Hiraki</person></staff>
+<staff gid="2583558759"><task>Storyboard</task><person id="46346">Chiaki Kon</person></staff>
+<staff gid="932061514"><task>Storyboard</task><person id="116621">Jin Banyama</person></staff>
+<staff gid="3071889899"><task>Storyboard</task><person id="135297">Hiroshi Nishishigedan</person></staff>
+<staff gid="2602910395"><task>Episode Director</task><person id="603">Keitaro Motonaga</person></staff>
+<staff gid="2689090713"><task>Episode Director</task><person id="3887">Makoto Sokuza</person></staff>
+<staff gid="2928561554"><task>Episode Director</task><person id="3895">Shunji Yoshida</person></staff>
+<staff gid="3124865167"><task>Episode Director</task><person id="6370">Hideki Takayama</person></staff>
+<staff gid="2196948544"><task>Episode Director</task><person id="9475">Yoshihisa Matsumoto</person></staff>
+<staff gid="2757230734"><task>Episode Director</task><person id="20517">Akira Iwanaga</person></staff>
+<staff gid="1902328182"><task>Episode Director</task><person id="46346">Chiaki Kon</person></staff>
+<staff gid="2631469824"><task>Episode Director</task><person id="67841">Yuji Hiraki</person></staff>
+<staff gid="3482073961"><task>Episode Director</task><person id="67843">Daisuke Chikushi</person></staff>
+<staff gid="2331044838"><task>Episode Director</task><person id="80280">Yūsuke Onoda</person></staff>
+<staff gid="2533871639"><task>Episode Director</task><person id="86935">Hodaka Kuramoto</person></staff>
+<staff gid="1405024749"><task>Unit Director</task><person id="3895">Shunji Yoshida</person></staff>
+<staff gid="2082339757"><task>Unit Director</task><person id="39253">Daisuke Tsukushi</person></staff>
+<staff gid="2332901861"><task>Unit Director</task><person id="46346">Chiaki Kon</person></staff>
+<staff gid="1687384403"><task>Unit Director</task><person id="67528">Yuji Kai</person></staff>
+<staff gid="2767151872"><task>Music</task><person id="140">Kenji Kawai</person></staff>
+<staff gid="1273827292"><task>Original creator</task><person id="50390">Seventh Expansion</person></staff>
+<staff gid="2707322845"><task>Character Design</task><person id="75758">Kyuta Sakai</person></staff>
+<staff gid="2047721584"><task>Art Director</task><person id="4049">Chikako Shibata</person></staff>
+<staff gid="1785703144"><task>Chief Animation Director</task><person id="75758">Kyuta Sakai</person></staff>
+<staff gid="3237442218"><task>Sound Director</task><person id="14828">Hozumi Gôda</person></staff>
+<staff gid="2621667179"><task>Producer</task><person id="56715">Mika Nomura</person></staff>
+<staff gid="1844414250"><task>Producer</task><person id="66762">Hiroyuki Oomori</person></staff>
+<staff gid="1040024121"><task>Producer</task><person id="67303">Takeshi Okamura</person></staff>
+<cast gid="1161059181" lang="JA"><role>Mion Sonozaki</role><person id="278">Satsuki Yukino</person></cast>
+<cast gid="2470241304" lang="JA"><role>Shion Sonozaki</role><person id="278">Satsuki Yukino</person></cast>
+<cast gid="24748846" lang="JA"><role>Hanyū</role><person id="386">Yui Horie</person></cast>
+<cast gid="1998120163" lang="JA"><role>Reina &quot;Rena&quot; Ryūgū</role><person id="438">Mai Nakahara</person></cast>
+<cast gid="2616858724" lang="JA"><role>Rika Furude</role><person id="524">Yukari Tamura</person></cast>
+<cast gid="1618410749" lang="JA"><role>Miyo Takano</role><person id="1010">Miki Itou</person></cast>
+<cast gid="1197286200" lang="JA"><role>Satoko Hōjō</role><person id="1041">Mika Kanai</person></cast>
+<cast gid="245906680" lang="JA"><role>Keiichi Maebara</role><person id="1374">Souichiro Hoshi</person></cast>
+<cast gid="2079034121" lang="JA"><role>Oishi Kuraudo</role><person id="4885">Chafurin</person></cast>
+<cast gid="1185635449" lang="JA"><role>Miyo Takano</role><person id="12420">Fuyuka Oura</person></cast>
+<credit gid="940514728"><task>Animation Production</task><company id="35">Studio DEEN</company></credit>
+<credit gid="1630062289"><task>Production</task><company id="52">MOVIC</company></credit>
+<credit gid="2109966563"><task>Production</task><company id="1805">Frontier Works</company></credit>
+<credit gid="2610932286"><task>Production</task><company id="8953">Geneon Universal Entertainment</company></credit>
+<credit gid="2508154619"><task>Production</task><company id="9991">Sotsu Co., Ltd.</company></credit></anime></ann>

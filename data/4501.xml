@@ -1,0 +1,69 @@
+<ann><anime id="4501" gid="1729895521" type="TV" name="Futakoi" precision="TV" generated-on="2016-03-27T05:41:03Z">
+<related-next id="5062" rel="related"/>
+<info gid="2149799250" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A4501-9.jpg" width="151" height="200"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A4501-9.jpg" width="151" height="200"/></info>
+<info gid="3744919218" type="Main title" lang="EN">Futakoi</info>
+<info gid="2448530516" type="Alternative title" lang="JA">双恋</info>
+<info gid="2470420003" type="Alternative title" lang="ZH-TW">雙戀</info>
+<info gid="3041399350" type="Genres">comedy</info>
+<info gid="1444102805" type="Genres">drama</info>
+<info gid="1948338715" type="Genres">psychological</info>
+<info gid="3145309425" type="Genres">romance</info>
+<info gid="2982493454" type="Themes">twins</info>
+<info gid="2465163726" type="Objectionable content">OC</info>
+<info gid="221690024" type="Plot Summary">With his mother dead and his father working abroad, Futami Nozomu returns to the town where he lived as a child, to attend high school and work part-time at a local shrine. He soon finds himself caught up in a local legend of twin girls loving the same man. And there are many twin girls in this town....</info>
+<info gid="1692584495" type="Running time">24</info>
+<info gid="2849950393" type="Number of episodes">13</info>
+<info gid="1403100533" type="Vintage">2004-10-06 to 2004-12-29</info>
+<info gid="2807945208" type="Opening Theme">&quot;Habataku Mirai&quot; by eufonius</info>
+<info gid="3157544081" type="Ending Theme">&quot;Yawarakai Kaze no Naka de&quot; by eufonius</info>
+<info gid="1427292192" type="Official website" lang="JA" href="http://www.starchild.co.jp/special/hutakoi/">StarChild official Futakoi website</info>
+<ratings nb_votes="645" weighted_score="6.458" bayesian_score="6.47904"/>
+<episode num="1">
+<title gid="1890953953" lang="EN">In the town with the twins' mound</title></episode>
+<episode num="2">
+<title gid="2185495376" lang="EN">The ice cream of memory</title></episode>
+<episode num="3">
+<title gid="853777386" lang="EN">Apple pie with a taste of love</title></episode>
+<episode num="4">
+<title gid="2746028616" lang="EN">Appointment with Ichigo Taruto</title></episode>
+<episode num="5">
+<title gid="2750626531" lang="EN">The time when it starts moving</title></episode>
+<episode num="6">
+<title gid="2661681678" lang="EN">Summer's rocket</title></episode>
+<episode num="7">
+<title gid="2453667259" lang="EN">Midsummer's jewelbox</title></episode>
+<episode num="8">
+<title gid="3617492160" lang="EN">The blank sketchbook</title></episode>
+<episode num="9">
+<title gid="651558010" lang="EN">The Pastel Sunset</title></episode>
+<episode num="10">
+<title gid="1042790225" lang="EN">Triangle Christmas</title></episode>
+<episode num="11">
+<title gid="2763850548" lang="EN">The New Year's temple visit with a hesitating heart</title></episode>
+<episode num="12">
+<title gid="2946469805" lang="EN">Valentine Panic</title></episode>
+<episode num="13">
+<title gid="2082667086" lang="EN">Spring is near...</title></episode>
+<staff gid="2590985046"><task>Director</task><person id="6644">Nobuo Tomizawa</person></staff>
+<staff gid="1580173729"><task>Series Composition</task><person id="3148">Tomoko Konparu</person></staff>
+<staff gid="2400078090"><task>Screenplay</task><person id="3150">Miho Maruo</person></staff>
+<staff gid="1594207391"><task>Screenplay</task><person id="32136">Masahiro Yokotani</person></staff>
+<staff gid="1799902409"><task>Music</task><person id="48669">Hajime Kikuchi</person></staff>
+<staff gid="1462688097"><task>Original Work</task><person id="7697">Mutsumi Sasaki</person></staff>
+<staff gid="2221594534"><task>Original Work</task><person id="32137">Hina Futaba</person></staff>
+<staff gid="3772145202"><task>Character Design</task><person id="1801">Mineko Ueda</person></staff>
+<staff gid="3840250272"><task>Art Director</task><person id="11378">Seiji Sugawara</person></staff>
+<cast gid="2319381262" lang="JA"><role>Koi Chigusa</role><person id="385">Natsuko Kuwatani</person></cast>
+<cast gid="3110429227" lang="JA"><role>Kaoruko Ichijou</role><person id="386">Yui Horie</person></cast>
+<cast gid="577106381" lang="JA"><role>Yura Sakurazuki</role><person id="2053">Hiromi Tsunakake</person></cast>
+<cast gid="1540563680" lang="JA"><role>Ui Chigusa</role><person id="3167">Kozue Yoshizumi</person></cast>
+<cast gid="3308289524" lang="JA"><role>Sara Shirogane</role><person id="5179">Kaori Mizuhashi</person></cast>
+<cast gid="1954387571" lang="JA"><role>Ruru Hinagiku</role><person id="6579">Shizuka Hasegawa</person></cast>
+<cast gid="2124155354" lang="JA"><role>Ai Momoi</role><person id="7591">Chiaki Takahashi</person></cast>
+<cast gid="2189974894" lang="JA"><role>Mai Momoi</role><person id="14213">Minako Sango</person></cast>
+<cast gid="515582397" lang="JA"><role>Souju Shirogane</role><person id="15636">Mai Kadowaki</person></cast>
+<cast gid="3893232917" lang="JA"><role>Kira Sakurazuki</role><person id="15662">Yui Itsuki</person></cast>
+<cast gid="3639114046" lang="JA"><role>Nozomu Futami</role><person id="16487">Motoki Takagi</person></cast>
+<cast gid="2815758324" lang="JA"><role>Sumireko Ichijou</role><person id="17254">Ami Koshimizu</person></cast>
+<cast gid="937613942" lang="JA"><role>Rara Hinagiku</role><person id="20572">Yurika Ochiai</person></cast>
+<credit gid="2266288648"><task>Animation Production</task><company id="158">Telecom Animation Film</company></credit></anime></ann>

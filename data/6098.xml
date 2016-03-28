@@ -1,0 +1,49 @@
+<ann><anime id="6098" gid="1599391469" type="OAV" name="Chobits" precision="OAV" generated-on="2016-03-27T05:55:20Z">
+<related-prev rel="sequel of" id="357"/>
+<info gid="2379923298" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A6098-17.jpg" width="200" height="126"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A6098-17.jpg" width="200" height="126"/><img src="http://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A6098-17.jpg" width="500" height="314"/><img src="http://cdn.animenewsnetwork.com/images/encyc/A6098-17.jpg" width="597" height="375"/></info>
+<info gid="3136215886" type="Main title" lang="EN">Chobits</info>
+<info gid="2929449532" type="Alternative title" lang="EN">Chobits Episode 27</info>
+<info gid="3873762611" type="Alternative title" lang="RU">Чобиты</info>
+<info gid="1110605115" type="Genres">comedy</info>
+<info gid="1403677346" type="Genres">science fiction</info>
+<info gid="3951038039" type="Themes">robot girl</info>
+<info gid="3466636156" type="Plot Summary">While preparing a celebration party for Hideki (assuming he passes his college entrance exams) Hibiya speaks with Kotoko (a laptop persocom) and reflects over the events of the series. Meanwhile Hideki and Chii are off to check Hideki's score on the college entrance exams.</info>
+<info gid="2293201220" type="Running time">24</info>
+<info gid="790362069" type="Number of episodes">1</info>
+<info gid="603273483" type="Vintage">2003-02-21</info>
+<info gid="1512699722" type="Opening Theme">&quot;Let Me Be With You&quot; by ROUND TABLE feat. Nino</info>
+<info gid="1103181556" type="Ending Theme">&quot;Raison d'Être&quot; by Rie Tanaka</info>
+<ratings nb_votes="1086" weighted_score="6.708" bayesian_score="6.71764"/>
+<episode num="27">
+<title gid="757118532" lang="EN">Hibiya and Kotoko Chat</title></episode>
+<staff gid="2007810634"><task>Director</task><person id="909">Morio Asaka</person></staff>
+<staff gid="2256893481"><task>Script</task><person id="8581">Nanase Ohkawa</person></staff>
+<staff gid="357500027"><task>Script</task><person id="9808">Tomoyasu Okubo</person></staff>
+<staff gid="3442107744"><task>Script</task><person id="12622">Genjiro Kaneko</person></staff>
+<staff gid="1686972470"><task>Music</task><person id="1674">Keitaro Takanami</person></staff>
+<staff gid="3416709735"><task>Original Manga</task><person id="5765">CLAMP</person></staff>
+<staff gid="1243896281"><task>Character Design</task><person id="670">Hisashi Abe</person></staff>
+<staff gid="2812116339"><task>Art Director</task><person id="4049">Chikako Shibata</person></staff>
+<staff gid="3134237590"><task>Chief Animation Director</task><person id="670">Hisashi Abe</person></staff>
+<staff gid="969203840"><task>Sound Director</task><person id="317">Masafumi Mima</person></staff>
+<staff gid="2217641470"><task>Director of Photography</task><person id="12620">Katsuyoshi Kishi</person></staff>
+<staff gid="2366312881"><task>Director of Photography</task><person id="91638">Tsuyoshi Kuzumoto</person></staff>
+<staff gid="3618141119"><task>Producer</task><person id="197">Tetsuo Gensho</person></staff>
+<staff gid="1446158124"><task>Producer</task><person id="6721">Tatsuya Ono</person></staff>
+<staff gid="1599143827"><task>Producer</task><person id="12570">Yuichi Sekido</person></staff>
+<cast gid="2399738327" lang="EN"><role>Hideki Motosuwa</role><person id="1074">Crispin Freeman</person></cast>
+<cast gid="716487550" lang="EN"><role>Sumomo</role><person id="1133">Sandy Fox</person></cast>
+<cast gid="1276111996" lang="EN"><role>Chitose Hibiya</role><person id="4228">Ellen Wilkinson</person></cast>
+<cast gid="1707033382" lang="EN"><role>Hiromu Shinbo</role><person id="7006">Tony Oliver</person></cast>
+<cast gid="2221071491" lang="EN"><role>Yuzuki</role><person id="7109">Karen Strassman</person></cast>
+<cast gid="2849699221" lang="EN"><role>Chi</role><person id="7125">Michelle Ruff</person></cast>
+<cast gid="1563913971" lang="EN"><role>Kotoko</role><person id="13707">Kay Jensen</person></cast>
+<cast gid="718916800" lang="JA"><role>Sumomo</role><person id="448">Motoko Kumai</person></cast>
+<cast gid="1995343308" lang="JA"><role>Shinbo Hiromu</role><person id="529">Tomokazu Seki</person></cast>
+<cast gid="1349208184" lang="JA"><role>Chitose Hibiya</role><person id="542">Kikuko Inoue</person></cast>
+<cast gid="953428369" lang="JA"><role>Chii</role><person id="697">Rie Tanaka</person></cast>
+<cast gid="3745144765" lang="JA"><role>Hideki Motosuwa</role><person id="910">Tomokazu Sugita</person></cast>
+<cast gid="1038956422" lang="JA"><role>Yuzuki</role><person id="912">Fumiko Orikasa</person></cast>
+<cast gid="2994934938" lang="JA"><role>Kotoko</role><person id="5047">Yukana</person></cast>
+<credit gid="2378873076"><task>Production</task><company id="49">TBS</company></credit>
+<credit gid="2863382039"><task>Production</task><company id="50">Chobits Production Committee</company></credit></anime></ann>

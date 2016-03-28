@@ -1,0 +1,568 @@
+<ann><anime id="73" gid="3238655915" type="TV" name="Rurouni Kenshin" precision="TV" generated-on="2016-03-26T02:21:18Z">
+<related-prev rel="adapted from" id="1995"/>
+<related-next id="210" rel="prequel"/>
+<related-next id="217" rel="sequel"/>
+<related-next id="310" rel="sequel"/>
+<related-next id="13316" rel="alternate retelling"/>
+<info gid="2990899935" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A73-514.jpg" width="164" height="200"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A73-514.jpg" width="164" height="200"/></info>
+<info gid="1828533385" type="Main title" lang="EN">Rurouni Kenshin</info>
+<info gid="1766217719" type="Alternative title" lang="ES">El Guerrero Samuraï</info>
+<info gid="1317388466" type="Alternative title" lang="FR">Kenshin le Vagabond</info>
+<info gid="884396779" type="Alternative title" lang="TL">Kenshin, ang Manlalakbay na Samurai</info>
+<info gid="1957876327" type="Alternative title" lang="ES">Kenshin, el Guerrero Samurai</info>
+<info gid="3835252235" type="Alternative title" lang="EN">Ruroken</info>
+<info gid="2945631900" type="Alternative title" lang="JA">Rurouni Kenshin: Meiji Kenkaku Romantan</info>
+<info gid="3384685071" type="Alternative title" lang="EN">Rurouni Kenshin: Romance of a Meiji Swordsman</info>
+<info gid="885051533" type="Alternative title" lang="EN">Rurouni Kenshin: Wandering Samurai</info>
+<info gid="2176635540" type="Alternative title" lang="PT">Samurai X</info>
+<info gid="2498948392" type="Alternative title" lang="RU">Бродяга Кэнщин</info>
+<info gid="558196916" type="Alternative title" lang="JA">るろうに剣心</info>
+<info gid="3039827124" type="Alternative title" lang="JA">るろうに剣心―明治剣客浪漫譚―</info>
+<info gid="3948971996" type="Genres">action</info>
+<info gid="2644316223" type="Genres">comedy</info>
+<info gid="1374565251" type="Genres">drama</info>
+<info gid="3040402492" type="Themes">historical</info>
+<info gid="1489178901" type="Themes">martial arts</info>
+<info gid="2350287448" type="Themes">politics</info>
+<info gid="2142377808" type="Themes">samurai</info>
+<info gid="921598506" type="Themes">swordplay</info>
+<info gid="1934861515" type="Objectionable content">TA</info>
+<info gid="3914629089" type="Plot Summary">Himura Kenshin is a vagabond with a dark past and sunny disposition. Not a ronin but a rurouni, he was never a samurai, but an assassin of utmost skill in the Meiji restoration, who in the turning point of the war simply walked away. His travels lead him to Tokyo in the 11th year of the Meiji era, where he befriends a female Kendo master, a former thief, a brawler and a doctor all with their own secrets. Together they fight off the enemies surfacing from the dark past that Kenshin cannot escape.</info>
+<info gid="3089570971" type="Running time">25</info>
+<info gid="3936466696" type="Number of episodes">95</info>
+<info gid="136649275" type="Vintage">1996-01-10 to 1998-09-08</info>
+<info gid="2637674895" type="Vintage">1999-09-07 (Brazil - Rede Globo)</info>
+<info gid="1644415024" type="Vintage">1999-09-20 (Philippines - ABS-CBN)</info>
+<info gid="2249820426" type="Vintage">2001 (Brazil - Cartoon Network)</info>
+<info gid="1699298821" type="Vintage">2003-03-17 (U.S.)</info>
+<info gid="336904151" type="Vintage">2006-10-09 (Philippines - QTV Channel 11)</info>
+<info gid="2035511659" type="Vintage">2007-05-29 (Mexico - Cadena Tres)</info>
+<info gid="2705806659" type="Vintage">2008-09-29 (Animax Latin America)</info>
+<info gid="3341019921" type="Opening Theme">#01: &quot;Freckles&quot; by Sandy Fox</info>
+<info gid="2345566428" type="Opening Theme">#01: &quot;Sobakasu&quot; by Judy &amp; Mary (eps 1-38)</info>
+<info gid="1570142981" type="Opening Theme">#02: &quot;½&quot; by Makoto Kawamoto (eps 39-82)</info>
+<info gid="2019192213" type="Opening Theme">#03: &quot;Kimi Ni Fureru Dake De&quot; by Curio (eps 83-95)</info>
+<info gid="2061586194" type="Ending Theme">#01: &quot;Tactics&quot; by The Yellow Monkey (eps 1-12)</info>
+<info gid="373693766" type="Ending Theme">#02: &quot;Namida wa Shitte iru&quot; by Mayo Suzukaze (eps 13-27)</info>
+<info gid="1489843585" type="Ending Theme">#03: &quot;Heart of Sword - Yoake Mae&quot; by T.M. Revolution (eps 28-38,43-49)</info>
+<info gid="1877463935" type="Ending Theme">#04: &quot;Fourth Avenue Cafe&quot; by L'Arc~En~Ciel (eps 39-42)</info>
+<info gid="2200601987" type="Ending Theme">#05: &quot;It's Gonna Rain&quot; by Bonnie Pink (eps 50-66)</info>
+<info gid="1144449692" type="Ending Theme">#06: &quot;1/3 no Junjou na Kanjou&quot; by Siam Shade (eps 67-82)</info>
+<info gid="1943655921" type="Ending Theme">#07: &quot;Dame&quot; by You Izumi (eps 83-95)</info>
+<info gid="2457947448" type="Official website" lang="JA" href="http://www.kenshin-tv.com/">るろうに剣心 15th Anniversary</info>
+<info gid="3229210011" type="Official website" lang="EN" href="http://www.madman.com.au/actions/series.do?method=view&amp;videogramId=71">Madman's Official Rurouni Kenshin Website</info>
+<info gid="1104266793" type="Official website" lang="JA" href="http://www.sonymusic.co.jp/Movie/TV/Kenshin/index.html">るろうに剣心 @ SME Visual Works</info>
+<ratings nb_votes="5859" weighted_score="8.2533" bayesian_score="8.25168"/>
+<episode num="1">
+<title gid="2598818915" lang="EN">The Handsome Swordsman of Legend</title></episode>
+<episode num="2">
+<title gid="2073804363" lang="EN">The Bratty Samurai...Why Don't You Become My Student?</title></episode>
+<episode num="3">
+<title gid="2819758379" lang="EN">Swordsman of Sorrow</title></episode>
+<episode num="4">
+<title gid="2727367070" lang="EN">Bad!</title></episode>
+<episode num="5">
+<title gid="1079618949" lang="EN">Sakaba Sword vs. Zanba Sword. At the Battle's End!</title></episode>
+<episode num="6">
+<title gid="1705100603" lang="EN">The Appearance of Kurogasa</title></episode>
+<episode num="7">
+<title gid="993022124" lang="EN">Deathmatch Under the Moon</title></episode>
+<episode num="8">
+<title gid="3849708935" lang="EN">A New Battle</title></episode>
+<episode num="9">
+<title gid="269378426" lang="EN">The Strongest Group of Ninjas</title></episode>
+<episode num="10">
+<title gid="1797665447" lang="EN">Aoshi</title></episode>
+<episode num="11">
+<title gid="180092080" lang="EN">Fare Well, the Strongest Men</title></episode>
+<episode num="12">
+<title gid="3507364182" lang="EN">The Birth of a Boy Samurai</title></episode>
+<episode num="13">
+<title gid="996444791" lang="EN">Going for the Grand Championship</title></episode>
+<episode num="14">
+<title gid="2460031532" lang="EN">To Save a Small Life</title></episode>
+<episode num="15">
+<title gid="1310723412" lang="EN">Assassination Group of Fire</title></episode>
+<episode num="16">
+<title gid="3173422587" lang="EN">A Promise from the Heart</title></episode>
+<episode num="17">
+<title gid="2487474152" lang="EN">Blast to Your Dream. The Adventure of Marimo the Flying Bullet</title></episode>
+<episode num="18">
+<title gid="2153846477" lang="EN">Get back the Reverse-Blade Sword</title></episode>
+<episode num="19">
+<title gid="2964604036" lang="EN">Raijuta's Ambition</title></episode>
+<episode num="20">
+<title gid="361380874" lang="EN">Revival of the Shinko style</title></episode>
+<episode num="21">
+<title gid="912992383" lang="EN">The Dissolution of a Nightmare</title></episode>
+<episode num="22">
+<title gid="3480719419" lang="EN">Danger on a Runaway Locomotive</title></episode>
+<episode num="23">
+<title gid="3416484704" lang="EN">Betrayed by Sanosuke?! Greetings of Fate</title></episode>
+<episode num="24">
+<title gid="2880342201" lang="EN">Midnight Battle</title></episode>
+<episode num="25">
+<title gid="407156895" lang="EN">Scarlet Pirate! Tear Up Kenshin and Kaoru</title></episode>
+<episode num="26">
+<title gid="3641658066" lang="EN">An Incarnation of Thunder Storm! The Mysterious Nobility of the Female Pirate Shura</title></episode>
+<episode num="27">
+<title gid="1771388151" lang="EN">Burn, Island of Terror</title></episode>
+<episode num="28">
+<title gid="2008524765" lang="EN">Prelude to a New Threat. The Shadow of the Wolf is Drawing Near</title></episode>
+<episode num="29">
+<title gid="3936619012" lang="EN">The Strongest Opponent From the Past</title></episode>
+<episode num="30">
+<title gid="1386149041" lang="EN">Evil Monster of Revenge... Shishio Makoto's Plot!</title></episode>
+<episode num="31">
+<title gid="2859754839" lang="EN">A Wish Unrequited</title></episode>
+<episode num="32">
+<title gid="3096847267" lang="EN">Change Tears to Courage</title></episode>
+<episode num="33">
+<title gid="2904871942" lang="EN">For the Title of Strongest</title></episode>
+<episode num="34">
+<title gid="1233718030" lang="EN">The Girl Bandit</title></episode>
+<episode num="35">
+<title gid="1453874446" lang="EN">Conquered Village</title></episode>
+<episode num="36">
+<title gid="3568118265" lang="EN">Across the Boundary Between Edo and Meiji</title></episode>
+<episode num="37">
+<title gid="1478868108" lang="EN">Shock! Reverse Blade Sword Broken</title></episode>
+<episode num="38">
+<title gid="689885869" lang="EN">Sanosuke's Secret Training</title></episode>
+<episode num="39">
+<title gid="3012725142" lang="EN">The Creator of the Reverse Blade</title></episode>
+<episode num="40">
+<title gid="993868227" lang="EN">A Killer Without Mercy</title></episode>
+<episode num="41">
+<title gid="1241447482" lang="EN">A Hidden Technique of Hiten Mitsurugi Ryu! Reunion with Master Hiko Seijuurou!</title></episode>
+<episode num="42">
+<title gid="281695700" lang="EN">Alliance Agreed! The Day When Shishio and Aoshi Unite!</title></episode>
+<episode num="43">
+<title gid="3574825661" lang="EN">Between Life and Death</title></episode>
+<episode num="44">
+<title gid="3853154605" lang="EN">A Decisive Battle Like Violent Waters</title></episode>
+<episode num="45">
+<title gid="541196166" lang="EN">As if to Fly</title></episode>
+<episode num="46">
+<title gid="1388724029" lang="EN">Burning Rengoku! Shishio Makoto's Fortune</title></episode>
+<episode num="47">
+<title gid="2108397316" lang="EN">Crash! The Lethal Punch, Futae no Kiwami</title></episode>
+<episode num="48">
+<title gid="1102635290" lang="EN">Reborn to Salvation</title></episode>
+<episode num="49">
+<title gid="1623751920" lang="EN">A Wolf Sees the Shin Gan. Explosive Zero Gatotsu!</title></episode>
+<episode num="50">
+<title gid="631417367" lang="EN">The Promised Time has Come</title></episode>
+<episode num="51">
+<title gid="2573255555" lang="EN">Now Is The Time To Awaken... True and Perfect Solution</title></episode>
+<episode num="52">
+<title gid="399411182" lang="EN">Miracle In The Making! The Battle at Aoiya Continues</title></episode>
+<episode num="53">
+<title gid="2277189367" lang="EN">A Giant versus Superman! Saving Grace at the Edge of Despair</title></episode>
+<episode num="54">
+<title gid="1690300580" lang="EN">Hiten Verses Shukuchi</title></episode>
+<episode num="55">
+<title gid="3706998518" lang="EN">The Tragedy of a Stormy Night</title></episode>
+<episode num="56">
+<title gid="1463990971" lang="EN">A Duel With an Extreme Moment</title></episode>
+<episode num="57">
+<title gid="198859426" lang="EN">Two Men at the End of an Era</title></episode>
+<episode num="58">
+<title gid="602224338" lang="EN">The Age Chooses Shishio?</title></episode>
+<episode num="59">
+<title gid="35119182" lang="EN">Luck Hasn't Run Out Yet! Warrior Spirit Revived Again</title></episode>
+<episode num="60">
+<title gid="2265444782" lang="EN">The Man who is Chosen for Victory</title></episode>
+<episode num="61">
+<title gid="3494206628" lang="EN">Remaining Juppon Gatana. Choice of Life!</title></episode>
+<episode num="62">
+<title gid="1622532926" lang="EN">Kyoto, the Engraved Memory</title></episode>
+<episode num="63">
+<title gid="1324484919" lang="EN">Legend of The Wishing Fireflies. The Girl Who Waits For Her Sword Master</title></episode>
+<episode num="64">
+<title gid="1360336679" lang="EN">Prince Yahiko's Born? Debut on High Society</title></episode>
+<episode num="65">
+<title gid="322591601" lang="EN">Find Out Missing Treasure! Great Treasure Hunting Dog, Notaro</title></episode>
+<episode num="66">
+<title gid="1827533547" lang="EN">Happy Kaoru! Kenshin's Proposal!</title></episode>
+<episode num="67">
+<title gid="3050402937" lang="EN">Shining Legendary Sword! Mysterious Swordmaster, Amakusa Shougo</title></episode>
+<episode num="68">
+<title gid="2211568341" lang="EN">A Medallion of Destiny. Sanosuke and Sayo Meet</title></episode>
+<episode num="69">
+<title gid="317001019" lang="EN">The Place of Battle. Shimabara! Judgement Day of Who is the Chosen</title></episode>
+<episode num="70">
+<title gid="1384945500" lang="EN">Shock of the Rairyu Sen</title></episode>
+<episode num="71">
+<title gid="2232258151" lang="EN">Kaioh's Conspiracy. Shougo's Trapped!</title></episode>
+<episode num="72">
+<title gid="3260459771" lang="EN">Days of Remorse</title></episode>
+<episode num="73">
+<title gid="2746483586" lang="EN">Evil With a Sneer! Shouzo, Karyu's Damaged in the Explosion</title></episode>
+<episode num="74">
+<title gid="1483327251" lang="EN">Sanosuke's Tears</title></episode>
+<episode num="75">
+<title gid="3139727955" lang="EN">Final Holy Battle... Crash Together Two Ama Kakeru Ryuu No Hirameki!</title></episode>
+<episode num="76">
+<title gid="2838180930" lang="EN">Bon Voyage</title></episode>
+<episode num="77">
+<title gid="1017847239" lang="EN">Himura Dojo in Shimonoseki?</title></episode>
+<episode num="78">
+<title gid="574593528" lang="EN">Crush!</title></episode>
+<episode num="79">
+<title gid="3819326045" lang="EN">Kaishu Katsu and Kenshin</title></episode>
+<episode num="80">
+<title gid="2414742203" lang="EN">The Never Ending of Edo Dynasty... Kaishu's Mission of Fate</title></episode>
+<episode num="81">
+<title gid="618843051" lang="EN">Ben Aoi's Trap... Ghosts of the Edo Dynasty Haunt Kaishu!</title></episode>
+<episode num="82">
+<title gid="910004872" lang="EN">Kaishu Katsu's Determination</title></episode>
+<episode num="83">
+<title gid="2332912058" lang="EN">Yutaro Returns</title></episode>
+<episode num="84">
+<title gid="2082657910" lang="EN">Sanada Ninja and the Divine Medicine. Their Leader, Misanagi's Goal</title></episode>
+<episode num="85">
+<title gid="3296456648" lang="EN">A Puzzling Journey. The Trap of Holy Crossing Has Been Laid!</title></episode>
+<episode num="86">
+<title gid="1563527412" lang="EN">A Heat Wave From Beneath the Earth</title></episode>
+<episode num="87">
+<title gid="2797358376" lang="EN">Schneider's Bet</title></episode>
+<episode num="88">
+<title gid="1296109765" lang="EN">The Two Guides</title></episode>
+<episode num="89">
+<title gid="2088373821" lang="EN">To My Angel Misao</title></episode>
+<episode num="90">
+<title gid="2553439934" lang="EN">Feng Shui, Surprise Attack!</title></episode>
+<episode num="91">
+<title gid="1497301156" lang="EN">Resist the Fusui's Magical Power. Next Target: the Kamiya Dojo!</title></episode>
+<episode num="92">
+<title gid="849471974" lang="EN">Tokyo Under Martial Law!</title></episode>
+<episode num="93">
+<title gid="2153787667" lang="EN">The Enemy Awaits in Senjo Gahara! Searching for the Hisui Crest</title></episode>
+<episode num="94">
+<title gid="2297178890" lang="EN">The Elegy of the Wind and the Water. Now They Make Desperate Efforts Here!</title></episode>
+<episode num="95">
+<title gid="2623295693" lang="EN">Between Scarlet and Emerald are in the Boom of the Waves</title></episode>
+<review href="http://www.animenewsnetwork.com/review/rurouni-kenshin/dvd-7">Rurouni Kenshin DVD 7</review>
+<review href="http://www.animenewsnetwork.com/review/rurouni-kenshin-fire-requiem">Rurouni Kenshin: Fire Requiem</review>
+<review href="http://www.animenewsnetwork.com/review/rurouni-kenshin/dvd-2">Rurouni Kenshin DVD 2</review>
+<release date="2000-07-18" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=15973">Rurouni Kenshin - Legendary Swordsman (DVD)</release>
+<release date="2005-11-15" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=5341">Rurouni Kenshin - Economy Box TV season 1 (DVD)</release>
+<release date="2006-01-17" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=5599">Rurouni Kenshin - Economy Box Season 2 (DVD)</release>
+<release date="2010-04-27" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=16699">Rurouni Kenshin - The Complete TV Series (DVD)</release>
+<release date="2000-09-26" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=14764">Rurouni Kenshin - Shadow Elite (DVD 3)</release>
+<release date="2000-11-14" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=15974">Rurouni Kenshin - False Prophet (DVD 4)</release>
+<release date="2001-02-27" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=15975">Rurouni Kenshin - Renegade Samurai (DVD 5)</release>
+<release date="2001-03-27" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=15976">Rurouni Kenshin - The Flames Of Revolution (DVD 6)</release>
+<release date="2001-07-10" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=15977">Rurouni Kenshin - Ice Blue Eyes (DVD 8)</release>
+<release date="2001-07-31" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=15978">Rurouni Kenshin - Heart Of The Sword (DVD 9)</release>
+<release date="2003-11-18" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2155">Rurouni Kenshin - Wandering Samurai Premium Box Set (DVD)</release>
+<release date="2004-03-30" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2497">Rurouni Kenshin - Legend of Kyoto Premium Box (Artbox Only) (DVD)</release>
+<release date="2004-03-30" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2482">Rurouni Kenshin - Legend of Kyoto Premium Box (Artbox Only) (DVD)</release>
+<release date="2004-03-30" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2483">Rurouni Kenshin - Legend of Kyoto Premium DVD Box Set (DVD)</release>
+<release date="2004-07-27" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2775">Rurouni Kenshin - Box Set 3- Meiji Era (DVD)</release>
+<release date="2006-02-14" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=5761">Rurouni Kenshin -  Economy Box Season 3 (DVD)</release>
+<release date="2000-08-22" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=723">Rurouni Kenshin - Battle in the Moonlight (DVD 2)</release>
+<release date="2001-05-01" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1003">Rurouni Kenshin - Shadow of the Wolf (DVD 7)</release>
+<release date="2001-08-28" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=107">Rurouni Kenshin - Between Life and Death (DVD 10)</release>
+<release date="2001-09-25" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=124">Rurouni Kenshin - Faces of Evil (DVD 11)</release>
+<release date="2001-09-25" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=19">Rurouni Kenshin - Blind Justice (DVD 12)</release>
+<release date="2001-10-30" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=249">Rurouni Kenshin - Innocence and Experience (DVD 13)</release>
+<release date="2001-11-13" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=250">Rurouni Kenshin - Fire Requiem (DVD 14)</release>
+<release date="2002-02-26" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=461">Rurouni Kenshin - The Firefly's Wish (DVD 15)</release>
+<release date="2002-03-26" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=462">Rurouni Kenshin - Son of God (DVD 16)</release>
+<release date="2002-04-30" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=492">Rurouni Kenshin - Holy War (DVD 17)</release>
+<release date="2002-05-28" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=580">Rurouni Kenshin - Fall From Grace (DVD 18)</release>
+<release date="2002-06-25" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=615">Rurouni Kenshin - Dreams of Youth (DVD 19)</release>
+<release date="2002-07-30" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=668">Rurouni Kenshin - Soulless Knights (DVD 20)</release>
+<release date="2002-08-27" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=709">Rurouni Kenshin - A Shinobi's Love (DVD 21)</release>
+<release date="2002-09-24" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=756">Rurouni Kenshin - End Song (DVD 22)</release>
+<release date="2000-07-18" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1816">Rurouni Kenshin - Battle in the Moonlight (Dub.VHS 2)</release>
+<release date="2001-08-28" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1870">Rurouni Kenshin - Between Life and Death (Dub.VHS 10)</release>
+<release date="2001-09-25" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1872">Rurouni Kenshin - Faces of Evil (Dub.VHS 11)</release>
+<release date="2001-09-25" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1862">Rurouni Kenshin - Blind Justice (Dub.VHS 12)</release>
+<release date="2001-10-30" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1893">Rurouni Kenshin - Innocence and Experience (Dub.VHS 13)</release>
+<release date="2001-11-13" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1824">Rurouni Kenshin - Fire Requiem (Dub.VHS 14)</release>
+<release date="2002-02-26" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1949">Rurouni Kenshin - The Firefly's Wish (Dub.VHS 15)</release>
+<release date="2002-03-26" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1950">Rurouni Kenshin - Son of God (Dub.VHS 16)</release>
+<release date="2002-04-30" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1957">Rurouni Kenshin - Holy War (Dub.VHS 17)</release>
+<release date="2002-05-28" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1976">Rurouni Kenshin - Fall From Grace (Dub.VHS 18)</release>
+<release date="2002-06-25" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1983">Rurouni Kenshin - Dreams of Youth (Dub.VHS 19)</release>
+<release date="2002-07-30" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1988">Rurouni Kenshin - Soulless Knights (Dub.VHS 20)</release>
+<release date="2002-08-27" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2007">Rurouni Kenshin - A Shinobi's Love (Dub.VHS 21)</release>
+<release date="2002-09-24" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2016">Rurouni Kenshin - End Song (Dub.VHS 22)</release>
+<release date="2001-05-29" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=19430">Rurouni Kenshin: Legend of Kyoto - Ice Blue Eyes (Dub.VHS 8)</release>
+<release date="2001-05-29" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=19429">Rurouni Kenshin: Legend of Kyoto - Ice Blue Eyes (Dub.VHS 8)</release>
+<release date="2001-06-26" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=19454">Rurouni Kenshin: Legend of Kyoto - Heart of the Sword (Dub.VHS 9)</release>
+<release date="2001-06-26" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=19453">Rurouni Kenshin: Legend of Kyoto - Heart of the Sword (Dub.VHS 9)</release>
+<release date="2000-07-18" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=19418">Rurouni Kenshin: Wandering Samurai - Legendary Swordsman (Dub.VHS 1)</release>
+<release date="2000-07-18" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=19417">Rurouni Kenshin: Wandering Samurai - Legendary Swordsman (Dub.VHS 1)</release>
+<release date="2000-10-31" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=19420">Rurouni Kenshin: Wandering Samurai - The Shadow Elite (Dub.VHS 3)</release>
+<release date="2000-10-31" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=19419">Rurouni Kenshin: Wandering Samurai - The Shadow Elite (Dub.VHS 3)</release>
+<release date="2000-11-14" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=19422">Rurouni Kenshin: Wandering Samurai - False Prophet (Dub.VHS 4)</release>
+<release date="2000-11-14" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=19421">Rurouni Kenshin: Wandering Samurai - False Prophet (Dub.VHS 4)</release>
+<release date="2001-02-27" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=19423">Rurouni Kenshin: Wandering Samurai - Renegade Samurai (Dub.VHS 5)</release>
+<release date="2001-03-27" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=19426">Rurouni Kenshin: Wandering Samurai - The Flames of Revolution (Dub.VHS 6)</release>
+<release date="2001-03-27" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=19425">Rurouni Kenshin: Wandering Samurai - The Flames of Revolution (Dub.VHS 6)</release>
+<release date="2001-04-24" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=19428">Rurouni Kenshin: Wandering Samurai - Shadow of the Wolf (Dub.VHS 7)</release>
+<release date="2001-04-24" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=19427">Rurouni Kenshin: Wandering Samurai - Shadow of the Wolf (Dub.VHS 7)</release>
+<release date="2000-07-18" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1828">Rurouni Kenshin - Battle in the Moonlight (Sub.VHS 2)</release>
+<release date="2001-08-28" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2072">Rurouni Kenshin - Between Life and Death (Sub.VHS 10)</release>
+<release date="2001-09-25" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2074">Rurouni Kenshin - Faces of Evil (Sub.VHS 11)</release>
+<release date="2001-09-25" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2065">Rurouni Kenshin - Blind Justice (Sub.VHS 12)</release>
+<release date="2001-10-30" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2077">Rurouni Kenshin - Innocence and Experience (Sub.VHS 13)</release>
+<release date="2001-11-13" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1836">Rurouni Kenshin - Fire Requiem (Sub.VHS 14)</release>
+<release date="2002-02-26" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2098">Rurouni Kenshin - The Firefly's Wish (Sub.VHS 15)</release>
+<release date="2002-03-26" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2099">Rurouni Kenshin - Son of God (Sub.VHS 16)</release>
+<release date="2002-04-30" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2102">Rurouni Kenshin - Holy War (Sub.VHS 17)</release>
+<release date="2002-05-28" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2119">Rurouni Kenshin - Fall From Grace (Sub.VHS 18)</release>
+<release date="2002-06-25" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2120">Rurouni Kenshin - Dreams of Youth (Sub.VHS 19)</release>
+<release date="2002-07-30" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2121">Rurouni Kenshin - Soulless Knights (Sub.VHS 20)</release>
+<release date="2002-08-27" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2123">Rurouni Kenshin - A Shinobi's Love (Sub.VHS 21)</release>
+<release date="2002-09-24" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2125">Rurouni Kenshin - End Song (Sub.VHS 22)</release>
+<release date="2001-02-27" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=19424">Rurouni Kenshin: Wandering Samurai - Renegade Samurai (Sub.VHS 5)</release>
+<news datetime="2000-08-05T02:47:36Z" href="http://www.animenewsnetwork.com/news/2000-08-04/newsbrief-this-weeks-release-and-aquisition-announcements">Newsbrief: This weeks release and aquisition announcements.</news>
+<news datetime="2001-03-03T15:40:37Z" href="http://www.animenewsnetwork.com/news/2001-03-03/media-blasters-announces-titles-for-june">Media Blasters Announces titles for June</news>
+<news datetime="2001-08-13T00:57:30Z" href="http://www.animenewsnetwork.com/news/2001-08-12/new-anime-coming-to-japan">New Anime coming to Japan</news>
+<news datetime="2001-10-16T02:14:30Z" href="http://www.animenewsnetwork.com/news/2001-10-15/december-merchandise-releases">December Merchandise Releases</news>
+<news datetime="2001-10-24T12:10:21Z" href="http://www.animenewsnetwork.com/news/2001-10-24/this-week's-anime-and-manga-releases">This Week's Anime and Manga Releases</news>
+<news datetime="2001-11-01T02:34:43Z" href="http://www.animenewsnetwork.com/news/2001-10-31/this-week's-anime-and-manga-releases">This Week's Anime and Manga Releases</news>
+<news datetime="2001-11-18T03:21:18Z" href="http://www.animenewsnetwork.com/news/2001-11-17/january-merchandise-releases">January Merchandise Releases</news>
+<news datetime="2001-12-12T13:33:01Z" href="http://www.animenewsnetwork.com/news/2001-12-12/this-week's-anime-and-manga-releases">This Week's Anime and Manga Releases</news>
+<news datetime="2002-03-26T16:46:53Z" href="http://www.animenewsnetwork.com/news/2002-03-26/weekly-releases">Weekly Releases</news>
+<news datetime="2002-04-19T16:38:09Z" href="http://www.animenewsnetwork.com/news/2002-04-19/media-blasters-acquires-babel-ii">Media Blasters Acquires Babel II</news>
+<news datetime="2002-07-06T11:36:58Z" href="http://www.animenewsnetwork.com/news/2002-07-06/ax-2002-anime-expo-opening-ceremonies">AX 2002: Anime Expo Opening Ceremonies</news>
+<news datetime="2003-02-18T18:38:37Z" href="http://www.animenewsnetwork.com/news/2003-02-18/katsucon">Katsucon News</news>
+<news datetime="2003-07-11T06:32:28Z" href="http://www.animenewsnetwork.com/news/2003-07-11/trinoc-con-to-feature-anime">Trinoc*Con to feature Anime</news>
+<news datetime="2005-08-03T04:17:57Z" href="http://www.animenewsnetwork.com/news/2005-08-03/media-blasters-november-releases">Media Blasters November Releases</news>
+<news datetime="2005-09-23T17:39:30Z" href="http://www.animenewsnetwork.com/news/2005-09-23/tv-asahi-top-100-anime">TV Asahi Top 100 Anime</news>
+<news datetime="2005-09-23T20:38:14Z" href="http://www.animenewsnetwork.com/news/2005-09-23/tv-asahi-top-100-anime-part-2">TV Asahi Top 100 Anime Part 2</news>
+<news datetime="2006-10-12T21:45:00Z" href="http://www.animenewsnetwork.com/news/2006-10-13/japans-favorite-tv-anime">Japan's Favorite TV Anime</news>
+<news datetime="2007-05-21T22:54:21Z" href="http://www.animenewsnetwork.com/news/2007-05-21/new-aniplex-backed-studio-to-hold-panel-at-anime-expo">New Aniplex-Backed Studio to Hold Panel at Anime Expo</news>
+<news datetime="2007-07-30T18:42:18Z" href="http://www.animenewsnetwork.com/news/2007-07-30/kenji-kawai-l'arc-en-ciel-to-create-gundam-00's-music">Kenji Kawai, L'Arc-en-Ciel to Create &lt;cite&gt;Gundam 00's&lt;/cite&gt; Music</news>
+<news datetime="2007-10-24T15:06:04Z" href="http://www.animenewsnetwork.com/news/2007-10-24/amatsuki-fantasy-manga-to-be-adapted-for-anime">&lt;cite&gt;Amatsuki&lt;/cite&gt; Fantasy Manga to be Adapted for Anime</news>
+<news datetime="2007-11-05T15:12:45Z" href="http://www.animenewsnetwork.com/news/2007-11-05/production-i.g-masamune-shirow's-latest-airs-in-april">Production I.G, Masamune Shirow's Latest Airs in April</news>
+<news datetime="2008-02-08T02:12:35Z" href="http://www.animenewsnetwork.com/news/2008-02-07/new-york-comic-con-to-host-gundam-seeds-t.m.revolution">New York Comic-Con to Host &lt;cite&gt;Gundam Seed's&lt;/cite&gt; T.M.Revolution</news>
+<news datetime="2008-03-11T06:28:22Z" href="http://www.animenewsnetwork.com/news/2008-03-11/new-york-comic-con-hosts-open-t.m.revolution-interview">New York Comic Con Hosts Open T.M.Revolution Interview</news>
+<news datetime="2008-03-26T21:59:50Z" href="http://www.animenewsnetwork.com/news/2008-03-26/amatsuki-virtual-world-history-anime-promo-streamed">&lt;cite&gt;Amatsuki&lt;/cite&gt; Virtual-World History Anime's Promo Streamed</news>
+<news datetime="2008-03-31T17:09:17Z" href="http://www.animenewsnetwork.com/news/2008-03-31/i.g-shirow-real-drive-anime-streams-new-promo-movie">I.G, Shirow's &lt;cite&gt;Real Drive&lt;/cite&gt; Anime Streams New Promo Movie</news>
+<news datetime="2008-04-09T18:54:57Z" href="http://www.animenewsnetwork.com/news/2008-04-09/new-york-comic-con-posts-t.m.revolution-interview">New York Comic Con Posts T.M.Revolution Interview</news>
+<news datetime="2008-04-14T12:30:25Z" href="http://www.animenewsnetwork.com/news/2008-04-14/t.m.revolution-to-run-live-radio-show-in-nyc-bookstore">T.M.Revolution to Run Live Radio Show in NYC Bookstore</news>
+<news datetime="2008-06-06T10:19:40Z" href="http://www.animenewsnetwork.com/news/2008-06-06/first-detroid-metal-city-anime-mini-epsiode-streamed">First &lt;cite&gt;Detroit Metal City&lt;/cite&gt; Anime Mini-Episode Streamed</news>
+<news datetime="2008-09-10T16:27:00Z" href="http://www.animenewsnetwork.com/news/2008-09-10/colorado-con-to-host-noriko-hidaka-yuji-mitsuya">Colorado Con to Host Noriko Hidaka, Yuji Mitsuya</news>
+<news datetime="2008-09-20T21:36:34Z" href="http://www.animenewsnetwork.com/news/2008-09-20/cartoon-network-to-reportedly-end-toonami-tonight">Cartoon Network to End Toonami on September 20</news>
+<news datetime="2009-04-17T04:43:55Z" href="http://www.animenewsnetwork.com/news/2009-04-17/larc-en-ciel-hyde-oblivion-dust-k.a.z-to-hold-u.s-concerts">L'Arc~en~Ciel's Hyde, Oblivion Dust's K.A.Z. to Hold U.S. Concerts</news>
+<news datetime="2009-04-22T09:31:08Z" href="http://www.animenewsnetwork.com/news/2009-04-22/gundam-unicorn-anime-officially-announced">&lt;cite&gt;Gundam Unicorn&lt;/cite&gt; Anime Officially Announced</news>
+<news datetime="2009-06-17T11:39:07Z" href="http://www.animenewsnetwork.com/news/2009-06-17/hyde-and-k.a.z.s-vamps-band-to-appear-at-otakon">Hyde &amp; K.A.Z.'s Vamps Band to Appear at Otakon</news>
+<news datetime="2009-06-17T12:21:03Z" href="http://www.animenewsnetwork.com/news/2009-06-17/tales-of-vesperia-canaan-aika-zero-promos-streamed">&lt;cite&gt;Tales of Vesperia, Canaan, Aika Zero&lt;/cite&gt; Promos Streamed</news>
+<news datetime="2009-09-22T20:11:35Z" href="http://www.animenewsnetwork.com/news/2009-09-22/crackle-posts-rurouni-kenshin-english-samurai-x-dub">Crackle Posts &lt;cite&gt;Rurouni Kenshin's&lt;/cite&gt; English &lt;cite&gt;Samurai X&lt;/cite&gt; Dub</news>
+<news datetime="2010-02-09T05:00:35Z" href="http://www.animenewsnetwork.com/news/2010-02-09/2-california-exhibits-1-in-nyc-highlight-anime/manga">2 California Exhibits, 1 in NYC Highlight Anime/Manga</news>
+<news datetime="2010-02-19T00:32:31Z" href="http://www.animenewsnetwork.com/news/2010-02-18/one-piece-opening-anime-made-for-hey-spring-of-trivia">&lt;cite&gt;One Piece&lt;/cite&gt; Opening Anime Made for &lt;cite&gt;Hey! Spring of Trivia&lt;/cite&gt;</news>
+<news datetime="2010-04-18T15:34:50Z" href="http://www.animenewsnetwork.com/news/2010-04-18/onobori-monogatari-big-tits-zombie-trailers-streamed">&lt;cite&gt;Onobori Monogatari&lt;/cite&gt;, &lt;cite&gt;Big Tits Zombie&lt;/cite&gt; Trailers Streamed</news>
+<news datetime="2010-06-22T03:38:41Z" href="http://www.animenewsnetwork.com/news/2010-06-21/sound-horizon-cd-with-virtual-idol-miku-hits-no.2-weekly">Sound Horizon CD with Virtual Idol Miku Hits #2 Weekly</news>
+<news datetime="2010-06-22T17:23:51Z" href="http://www.animenewsnetwork.com/news/2010-06-22/a-1-ceo-hideo-katsumata-assumes-new-title-at-aniplex">A-1 CEO Hideo Katsumata Assumes New Title at Aniplex</news>
+<news datetime="2010-09-03T17:18:47Z" href="http://www.animenewsnetwork.com/news/2010-09-03/voice-actor-ryotaro-okiayu-to-appear-at-yaoi-con">Voice Actor Ryotaro Okiayu to Appear at Yaoi-Con</news>
+<news datetime="2010-10-07T08:58:00Z" href="http://www.animenewsnetwork.com/news/2010-10-07/manga-artists-make-nycc-dojinshi-based-on-u.s-comics">Manga Artists Make NYCC Dōjinshi Based on U.S. Comics</news>
+<news datetime="2010-10-14T23:07:08Z" href="http://www.animenewsnetwork.com/news/2010-10-14/media-blasters-launches-anime-dvd/blu-ray-kiosks">Media Blasters Launches Anime DVD/Blu-ray Kiosks</news>
+<news datetime="2010-10-26T02:16:49Z" href="http://www.animenewsnetwork.com/news/2010-10-25/media-blasters-partners-with-allegro">Media Blasters Partners with Distributor Allegro Media</news>
+<news datetime="2011-01-04T13:48:45Z" href="http://www.animenewsnetwork.com/news/2011-01-04/t.m-revolution-on-hiatus-due-to-inflamed-vocal-cords">T.M. Revolution on Hiatus Due to Inflamed Vocal Cords</news>
+<news datetime="2011-02-23T15:58:17Z" href="http://www.animenewsnetwork.com/news/2011-02-23/japanese-rock-band-flow-gets-animated-for-album-bonus">Japanese Rock Band Flow Gets Animated for Album Bonus</news>
+<news datetime="2011-04-18T08:55:00Z" href="http://www.animenewsnetwork.com/news/2011-04-18/new-rurouni-kenshin-anime-green-lit">New &lt;cite&gt;Rurouni Kenshin&lt;/cite&gt; Anime Green-Lit</news>
+<news datetime="2011-04-24T18:44:13Z" href="http://www.animenewsnetwork.com/news/2011-04-25/weekend-wrapup/17/4-23/4">Weekend Wrapup: 17/4 - 23/4</news>
+<news datetime="2011-04-27T03:55:00Z" href="http://www.animenewsnetwork.com/news/2011-04-26/rurouni-kenshin-bds-to-have-english-subtitles-in-japan">&lt;cite&gt;Rurouni Kenshin&lt;/cite&gt; BDs to Have English Subtitles in Japan</news>
+<news datetime="2011-05-13T18:30:00Z" href="http://www.animenewsnetwork.com/interest/2011-05-13/larc-en-ciel-quake-relief-concerts-get-intl-screenings">L'arc~en~Ciel Quake Relief Concerts Get Int'l Screenings</news>
+<news datetime="2011-06-15T22:48:32Z" href="http://www.animenewsnetwork.com/news/2011-06-15/aniplex-of-america-streams-rurouni-kenshin-blu-ray-promo">Aniplex of America Streams &lt;cite&gt;Rurouni Kenshin&lt;/cite&gt; Blu-Ray Promo</news>
+<news datetime="2011-07-29T19:38:12Z" href="http://www.animenewsnetwork.com/news/2011-07-29/aniplex-usa-to-dub-madoka-magica-into-english">Aniplex USA to Dub &lt;cite&gt;Madoka Magica&lt;/cite&gt; Into English</news>
+<news datetime="2011-08-01T02:59:31Z" href="http://www.animenewsnetwork.com/news/2011-07-31/otakon-2011-attendance-2012-date-and-locale-announced">Otakon 2011 Attendance, 2012 Date &amp; Locale Announced</news>
+<news datetime="2011-08-01T19:00:00Z" href="http://www.animenewsnetwork.com/news/2011-08-01/both-gantz-films-to-be-screened-at-san-francisco">Both &lt;cite&gt;Gantz&lt;/cite&gt; Films to Be Screened at San Francisco</news>
+<news datetime="2011-08-11T02:25:00Z" href="http://www.animenewsnetwork.com/news/2011-08-10/kenshin/love-and-betrayal-streamed-in-n-america-japan">&lt;cite&gt;Kenshin: Trust &amp; Betrayal&lt;/cite&gt; Streamed in N. America, Japan</news>
+<news datetime="2011-10-18T19:30:00Z" href="http://www.animenewsnetwork.com/news/2011-10-18/larc-en-ciel-to-play-in-new-york-in-march">L'Arc-en-Ciel to Play in New York in March</news>
+<news datetime="2011-11-08T04:53:20Z" href="http://www.animenewsnetwork.com/news/2011-11-07/20th-anniversary-larc-en-ciel-film-to-run-in-orange-california">20th Anniversary L'Arc~en~Ciel Film to Run in Orange, California</news>
+<news datetime="2011-11-09T08:36:27Z" href="http://www.animenewsnetwork.com/news/2011-11-09/larc-en-ciel-london-concert-film-screenings-december-5-and-6">L'Arc-en-Ciel London Concert Film Screenings December 5 and 6</news>
+<news datetime="2011-11-17T11:54:52Z" href="http://www.animenewsnetwork.com/news/2011-11-17/fairy-tail-film-staff-listed">&lt;cite&gt;Fairy Tail&lt;/cite&gt; Film's Staff Listed</news>
+<news datetime="2011-12-02T15:00:00Z" href="http://www.animenewsnetwork.com/news/2011-12-02/top-selling-anime-albums/2011">Top-Selling Anime Albums: 2011</news>
+<news datetime="2012-08-19T04:15:27Z" href="http://www.animenewsnetwork.com/news/2012-08-19/madman-entertainment-announces-new-acquisitions-at-manifest-2012">Madman Entertainment Announces New Acquisitions at Manifest 2012</news>
+<news datetime="2013-10-02T12:45:00Z" href="http://www.animenewsnetwork.com/news/2013-10-02/medaka-box-joins-shonen-jump-crossover-game-j-stars-victory-vs">&lt;cite&gt;Medaka Box&lt;/cite&gt; Joins &lt;cite&gt;Shonen Jump&lt;/cite&gt; Crossover Game &lt;cite&gt;J-Stars Victory Vs.&lt;/cite&gt;</news>
+<news datetime="2014-02-16T09:38:04Z" href="http://www.animenewsnetwork.com/news/2014-02-16/new-cities-of-gold-and-infinite-stratos-released-monday">New &lt;i&gt;Cities of Gold&lt;/i&gt; and &lt;i&gt;Infinite Stratos&lt;/i&gt; Released Monday</news>
+<news datetime="2014-04-06T08:00:00Z" href="http://www.animenewsnetwork.com/news/2014-04-06/madman-entertainment-acquisitions-from-supanova-gold-coast">Madman Entertainment Acquisitions from Supanova Gold Coast</news>
+<news datetime="2016-01-18T09:05:12Z" href="http://www.animenewsnetwork.com:/news/2016-01-18/london-screening-of-hana-and-alice-in-february/.97698">London Screening of &lt;i&gt;Hana &amp; Alice&lt;/i&gt; in February</news>
+<staff gid="1176106661"><task>Director</task><person id="36">Kazuhiro Furuhashi</person></staff>
+<staff gid="2213384655"><task>Screenplay</task><person id="429">Michiko Yokote</person></staff>
+<staff gid="3332981690"><task>Screenplay</task><person id="1295">Akemi Omode</person></staff>
+<staff gid="1683363519"><task>Screenplay</task><person id="5448">Nobuaki Kishima</person></staff>
+<staff gid="1032567041"><task>Screenplay</task><person id="8510">Yoshiyuki Suga</person></staff>
+<staff gid="1003854132"><task>Screenplay</task><person id="10424">Masashi Sogo</person></staff>
+<staff gid="410200756"><task>Screenplay</task><person id="17498">Michiru Shimada</person></staff>
+<staff gid="2064870874"><task>Storyboard</task><person id="21">Yasunao Aoki</person></staff>
+<staff gid="2415679764"><task>Storyboard</task><person id="27">Takeshi Mori</person></staff>
+<staff gid="1904840794"><task>Storyboard</task><person id="36">Kazuhiro Furuhashi</person></staff>
+<staff gid="1304289067"><task>Storyboard</task><person id="54">Koichi Chigira</person></staff>
+<staff gid="1478947208"><task>Storyboard</task><person id="58">Junji Nishimura</person></staff>
+<staff gid="2073532280"><task>Storyboard</task><person id="713">Akitaro Daichi</person></staff>
+<staff gid="2276961408"><task>Storyboard</task><person id="3895">Shunji Yoshida</person></staff>
+<staff gid="3529646029"><task>Storyboard</task><person id="3896">Kazu Yokota</person></staff>
+<staff gid="3369267558"><task>Storyboard</task><person id="4500">Sumio Watanabe</person></staff>
+<staff gid="515253861"><task>Storyboard</task><person id="7596">Nobuhiro Takamoto</person></staff>
+<staff gid="1124041885"><task>Storyboard</task><person id="8740">Norio Kashima</person></staff>
+<staff gid="2137305867"><task>Storyboard</task><person id="10957">Tsukasa Sunaga</person></staff>
+<staff gid="2354969788"><task>Storyboard</task><person id="10960">Katsumi Terahigashi</person></staff>
+<staff gid="2994544794"><task>Storyboard</task><person id="12249">Hiroki Kudo</person></staff>
+<staff gid="2682136222"><task>Storyboard</task><person id="20758">Akihiro Enomoto</person></staff>
+<staff gid="3626996766"><task>Storyboard</task><person id="21113">Naori Hiraki</person></staff>
+<staff gid="3394462390"><task>Storyboard</task><person id="25584">Katsumi Endo</person></staff>
+<staff gid="3771866188"><task>Storyboard</task><person id="26822">Yasushi Murayama</person></staff>
+<staff gid="1362671856"><task>Storyboard</task><person id="29594">Norio Matsumoto</person></staff>
+<staff gid="3518740644"><task>Storyboard</task><person id="40539">Futa Morita</person></staff>
+<staff gid="2147718699"><task>Storyboard</task><person id="42917">Takashi Kobayashi</person></staff>
+<staff gid="1745093489"><task>Storyboard</task><person id="62789">Saki Noda</person></staff>
+<staff gid="1200944570"><task>Storyboard</task><person id="64026">Masayuki Oseki</person></staff>
+<staff gid="2700261128"><task>Storyboard</task><person id="76664">Eiho Sakadama</person></staff>
+<staff gid="2891044876"><task>Storyboard</task><person id="76665">Ichirō Takakura</person></staff>
+<staff gid="3068281916"><task>Storyboard</task><person id="76666">Ryō Chiki</person></staff>
+<staff gid="3441046515"><task>Storyboard</task><person id="76667">Sōshi Azuka</person></staff>
+<staff gid="1624627542"><task>Episode Director</task><person id="21">Yasunao Aoki</person></staff>
+<staff gid="2404056855"><task>Episode Director</task><person id="36">Kazuhiro Furuhashi</person></staff>
+<staff gid="514150049"><task>Episode Director</task><person id="54">Koichi Chigira</person></staff>
+<staff gid="1134507916"><task>Episode Director</task><person id="1339">Hiroyuki Yokoyama</person></staff>
+<staff gid="2589996104"><task>Episode Director</task><person id="1694">Shigeo Koshi</person></staff>
+<staff gid="3112461846"><task>Episode Director</task><person id="3614">Shigeru Ueda</person></staff>
+<staff gid="2904181999"><task>Episode Director</task><person id="3887">Makoto Sokuza</person></staff>
+<staff gid="2212463229"><task>Episode Director</task><person id="3895">Shunji Yoshida</person></staff>
+<staff gid="1225367118"><task>Episode Director</task><person id="5831">Naoki Hishikawa</person></staff>
+<staff gid="1842910186"><task>Episode Director</task><person id="7596">Nobuhiro Takamoto</person></staff>
+<staff gid="1580731031"><task>Episode Director</task><person id="7597">Akira Yoshimura</person></staff>
+<staff gid="2631367574"><task>Episode Director</task><person id="10227">Naoto Hashimoto</person></staff>
+<staff gid="1763934882"><task>Episode Director</task><person id="10959">Akira Shimizu</person></staff>
+<staff gid="3384163877"><task>Episode Director</task><person id="12450">Hiroshi Morioka</person></staff>
+<staff gid="2283333937"><task>Episode Director</task><person id="13470">Kazuya Miyazaki</person></staff>
+<staff gid="2253063931"><task>Episode Director</task><person id="13761">Kenichiro Watanabe</person></staff>
+<staff gid="1856686568"><task>Episode Director</task><person id="13886">Yasuhiro Geshi</person></staff>
+<staff gid="2459855825"><task>Episode Director</task><person id="14320">Hiroshi Tsuruta</person></staff>
+<staff gid="585983869"><task>Episode Director</task><person id="25583">Shigeru Omachi</person></staff>
+<staff gid="1064336249"><task>Episode Director</task><person id="26822">Yasushi Murayama</person></staff>
+<staff gid="3485672440"><task>Episode Director</task><person id="27969">Jun Fukuda</person></staff>
+<staff gid="1373381465"><task>Episode Director</task><person id="35951">Shinichi Matsumi</person></staff>
+<staff gid="1906484292"><task>Episode Director</task><person id="40539">Futa Morita</person></staff>
+<staff gid="2112105053"><task>Episode Director</task><person id="42917">Takashi Kobayashi</person></staff>
+<staff gid="2626117860"><task>Episode Director</task><person id="44824">Shinichiro Aoki</person></staff>
+<staff gid="2541772641"><task>Episode Director</task><person id="76665">Ichirō Takakura</person></staff>
+<staff gid="1165341938"><task>Episode Director</task><person id="76668">Akira Kusune</person></staff>
+<staff gid="2155155080"><task>Music</task><person id="19087">Noriyuki Asakura</person></staff>
+<staff gid="1625852592"><task>Original story</task><person id="35">Nobuhiro Watsuki</person></staff>
+<staff gid="2986683733"><task>Original story</task><person id="109161">Kōzō Kaku</person></staff>
+<staff gid="1570301313"><task>Art Director</task><person id="20250">Nobuto Sakamoto</person></staff>
+<staff gid="1774522572"><task>Art</task><person id="38">Masami Hagiwara</person></staff>
+<staff gid="1073196937"><task>Art</task><person id="19454">Kunihiro Shinoda</person></staff>
+<staff gid="3953036676"><task>Art</task><person id="21202">Koichi Tanaka</person></staff>
+<staff gid="1266352329"><task>Art</task><person id="21204">Takashi Hiruma</person></staff>
+<staff gid="2697738046"><task>Chief Animation Director</task><person id="4187">Kuniyuki Ishii</person></staff>
+<staff gid="2431100155"><task>Animation Director</task><person id="37">Masahide Yanagisawa</person></staff>
+<staff gid="2582338604"><task>Animation Director</task><person id="59">Atsuko Nakajima</person></staff>
+<staff gid="3552577617"><task>Animation Director</task><person id="2670">Kazuyuki Kobayashi</person></staff>
+<staff gid="2352100271"><task>Animation Director</task><person id="3360">Akira Matsushima</person></staff>
+<staff gid="1186244792"><task>Animation Director</task><person id="4187">Kuniyuki Ishii</person></staff>
+<staff gid="1979870435"><task>Animation Director</task><person id="5028">Toshimitsu Kobayashi</person></staff>
+<staff gid="2795669234"><task>Animation Director</task><person id="5631">Moriyasu Taniguchi</person></staff>
+<staff gid="1976235568"><task>Animation Director</task><person id="6413">Mitsunori Murata</person></staff>
+<staff gid="3334761069"><task>Animation Director</task><person id="6972">Kazumi Sato</person></staff>
+<staff gid="3258327349"><task>Animation Director</task><person id="8334">Michinori Chiba</person></staff>
+<staff gid="1637953964"><task>Animation Director</task><person id="12531">Hatsuki Tsuji</person></staff>
+<staff gid="918843214"><task>Animation Director</task><person id="14471">Seiichi Nakatani</person></staff>
+<staff gid="1399980045"><task>Animation Director</task><person id="17270">Hironobu Saito</person></staff>
+<staff gid="3435900706"><task>Animation Director</task><person id="17971">Masaaki Kannan</person></staff>
+<staff gid="525988710"><task>Animation Director</task><person id="18291">Masaki Hosoyama</person></staff>
+<staff gid="3813897740"><task>Animation Director</task><person id="19611">Kazunori Takahashi</person></staff>
+<staff gid="2836506716"><task>Animation Director</task><person id="20758">Akihiro Enomoto</person></staff>
+<staff gid="2049746165"><task>Animation Director</task><person id="20775">Takuro Shinbo</person></staff>
+<staff gid="2244494018"><task>Animation Director</task><person id="21361">Akio Kawamura</person></staff>
+<staff gid="3333878987"><task>Animation Director</task><person id="23136">Yumenosuke Tokuda</person></staff>
+<staff gid="1637299930"><task>Animation Director</task><person id="29585">Tetsuto Saitoo</person></staff>
+<staff gid="1431468635"><task>Animation Director</task><person id="35136">Yasuhiro Aoki</person></staff>
+<staff gid="3461481006"><task>Animation Character Design</task><person id="679">Hideki Hamasu</person></staff>
+<staff gid="1080084146"><task>Animation Character Design</task><person id="6404">Fumie Muroi</person></staff>
+<staff gid="1759356632"><task>Director of Photography</task><person id="570">Masahide Okino</person></staff>
+<staff gid="2149301190"><task>Director of Photography</task><person id="2898">Hiroaki Edamitsu</person></staff>
+<staff gid="3068832172"><task>Executive producer</task><person id="1606">Kenji Shimizu</person></staff>
+<staff gid="1149703284"><task>Executive producer</task><person id="2634">Ryuzo Shirakawa</person></staff>
+<staff gid="1290759196"><task>Producer</task><person id="1483">Mitsuhisa Hida</person></staff>
+<staff gid="24095046"><task>Producer</task><person id="1607">Koji Kaneda</person></staff>
+<staff gid="1192859690"><task>Producer</task><person id="4238">Hiroshi Hasegawa</person></staff>
+<staff gid="1769441904"><task>Producer</task><person id="21192">Mitshuhisa Hida</person></staff>
+<staff gid="1251216971"><task>Producer</task><person id="21193">Ayao Wakana</person></staff>
+<cast gid="1288064949" lang="EN"><role>Kaoru Kamiya</role><person id="1092">Dorothy Melendrez</person></cast>
+<cast gid="1161313138" lang="EN"><role>Sanosuke Sagara</role><person id="1143">Lex Lang</person></cast>
+<cast gid="1288051504" lang="EN"><role>Misao Makimachi</role><person id="3666">Debra Cunningham</person></cast>
+<cast gid="3675187955" lang="EN"><role>Aoshi Shinomori</role><person id="3675">Terrence Stone</person></cast>
+<cast gid="2422315013" lang="EN"><role>Sojiro Seta</role><person id="3877">Tara Jayne</person></cast>
+<cast gid="3056289618" lang="EN"><role>Kenshin Himura</role><person id="3928">Richard Hayworth</person></cast>
+<cast gid="3137604795" lang="EN"><role>Sojiro Seta</role><person id="4034">Melissa Fahn</person></cast>
+<cast gid="3785753472" lang="EN"><role>Megumi Takani</role><person id="4226">Jane Alan</person></cast>
+<cast gid="441357809" lang="EN"><role>Makoto Shishio</role><person id="4832">Steven Jay Blum</person></cast>
+<cast gid="2848758218" lang="EN"><role>Sojiro Seta</role><person id="4981">Lynn Fischer</person></cast>
+<cast gid="1287019722" lang="EN"><role>Yahiko Myojin</role><person id="5193">Elyse Floyd</person></cast>
+<cast gid="2190642816" lang="ES"><role>Kaoru Kamiya</role><person id="31123">Vilma Vera</person></cast>
+<cast gid="1562908900" lang="ES"><role>Kenshin Himura</role><person id="31124">Alexander Paez</person></cast>
+<cast gid="2830077073" lang="ES"><role>Sanosuke Sagara</role><person id="31677">Tasio Alonso</person></cast>
+<cast gid="2393049209" lang="ES"><role>Kenshin Himura</role><person id="32387">Nacho de Porrata</person></cast>
+<cast gid="1685339239" lang="ES"><role>Kenshin</role><person id="32388">Carlos Lladó</person></cast>
+<cast gid="3225320739" lang="ES"><role>Kenshin Himura</role><person id="32388">Carlos Lladó</person></cast>
+<cast gid="1268338635" lang="ES"><role>Kaoru</role><person id="32390">Carmen Ambrós</person></cast>
+<cast gid="2783109238" lang="ES"><role>Kaoru Kamiya</role><person id="32390">Carmen Ambrós</person></cast>
+<cast gid="1382017369" lang="ES"><role>Sanosuke Sagara</role><person id="46645">Eleazar Osorio</person></cast>
+<cast gid="821603816" lang="ES"><role>Megumi Takani</role><person id="46727">Nancy Cortés</person></cast>
+<cast gid="1437280651" lang="ES"><role>Yahiko Myojin</role><person id="46866">Carlos Ramírez</person></cast>
+<cast gid="3530922523" lang="ES"><role>Makoto Shishio</role><person id="46867">Hermes Camelo</person></cast>
+<cast gid="2656083750" lang="ES"><role>Misanagi</role><person id="47098">Tirza Pacheco</person></cast>
+<cast gid="2742194265" lang="ES"><role>Sanosuke Sagara</role><person id="50499">Mark Ullod</person></cast>
+<cast gid="3302872401" lang="ES"><role>Yahiko Myôjin</role><person id="50568">Ariadna Jiménez</person></cast>
+<cast gid="1587514229" lang="ES"><role>Misao Makimachi</role><person id="50630">Assumpta Navascues</person></cast>
+<cast gid="1179559362" lang="ES"><role>Yahiko Myôjin</role><person id="50768">David García Llop</person></cast>
+<cast gid="1432925952" lang="ES"><role>Makoto Shishio</role><person id="50770">Jesús María Zambrano</person></cast>
+<cast gid="1944772172" lang="ES"><role>Megumi Takani</role><person id="50771">Mayte Supervia</person></cast>
+<cast gid="3390189971" lang="ES"><role>Misao Makimachi</role><person id="69360">Eva Ordeig</person></cast>
+<cast gid="2876212126" lang="ES"><role>Aoshi Shinomori</role><person id="76575">Victor Iturrioz</person></cast>
+<cast gid="2227656808" lang="FR"><role>Aoshi</role><person id="53861">Philippe Allard</person></cast>
+<cast gid="529897728" lang="FR"><role>Megumi</role><person id="58715">Sophie Landresse</person></cast>
+<cast gid="228141364" lang="FR"><role>Saito</role><person id="61258">Michelangelo Marchese</person></cast>
+<cast gid="2034164433" lang="FR"><role>Sanosuke</role><person id="68470">Sébastien Hebrant</person></cast>
+<cast gid="4032575431" lang="FR"><role>Kenshin Himura</role><person id="72991">Gauthier De Fauconval</person></cast>
+<cast gid="1942624020" lang="FR"><role>Kaoru Kamiya</role><person id="73097">Audrey D'Hulstere</person></cast>
+<cast gid="2315294490" lang="FR"><role>Shishio</role><person id="74889">Karim Barras</person></cast>
+<cast gid="2482579703" lang="FR"><role>Yahiko</role><person id="74951">Pablo Hertsen</person></cast>
+<cast gid="2274872581" lang="JA"><role>Sanosuke Sagara</role><person id="384">Yuji Ueda</person></cast>
+<cast gid="2137164880" lang="JA"><role>Hajime Saitou</role><person id="699">Hirotaka Suzuoki</person></cast>
+<cast gid="2628562204" lang="JA"><role>Megumi Takani</role><person id="1176">Mika Doi</person></cast>
+<cast gid="772391146" lang="JA"><role>Yahiko Myoujin</role><person id="1584">Miina Tominaga</person></cast>
+<cast gid="3316830517" lang="JA"><role>Aoshi Shinomori</role><person id="2109">Yoshito Yasuhara</person></cast>
+<cast gid="867912244" lang="JA"><role>Kenshin Himura</role><person id="4606">Mayo Suzukaze</person></cast>
+<cast gid="1357375122" lang="JA"><role>Kaoru Kamiya</role><person id="4608">Miki Fujitani</person></cast>
+<cast gid="3567184316" lang="JA"><role>Makoto Shishio</role><person id="5621">Masanori Ikeda</person></cast>
+<cast gid="2909648776" lang="KO"><role>Makoto Shishio</role><person id="96183">Wan-Gyeong Seong</person></cast>
+<cast gid="1493403707" lang="KO"><role>Kenshin Himura</role><person id="96187">Ja-Hyeong Gu</person></cast>
+<cast gid="3788825169" lang="KO"><role>Megumi Takani</role><person id="96192">Myeong-Seon Lee</person></cast>
+<cast gid="1764564693" lang="KO"><role>Sanosuke Sagara</role><person id="96257">Won-Hyeong Choi</person></cast>
+<cast gid="3852789750" lang="KO"><role>Sojiro Seta</role><person id="96327">Hyang-Yun Choi</person></cast>
+<cast gid="3291511386" lang="KO"><role>Misao Makimachi</role><person id="96350">Mi-Na Yun</person></cast>
+<cast gid="2635202556" lang="KO"><role>Yahiko Myojin</role><person id="96411">Jeon-A Son</person></cast>
+<cast gid="2456213333" lang="KO"><role>Aoshi Shinomori</role><person id="96449">Min-Seok Kim</person></cast>
+<cast gid="2545714362" lang="KO"><role>Hajime Saitou</role><person id="96469">Hwan-Jin Kim</person></cast>
+<cast gid="2017356164" lang="KO"><role>Kaoru Kamiya</role><person id="96621">Seon-Hui Mun</person></cast>
+<cast gid="788490808" lang="PT"><role>Hajime Saitou</role><person id="48741">Wellington Lima</person></cast>
+<cast gid="2296011057" lang="PT"><role>Kaoru Kamiya</role><person id="48747">Denise Reis</person></cast>
+<cast gid="197681222" lang="PT"><role>Kenshin Himura</role><person id="48752">Tatá Guarnieri</person></cast>
+<cast gid="2475192144" lang="PT"><role>Misao Makimachi</role><person id="48818">Luciana Baroli</person></cast>
+<cast gid="2206326249" lang="PT"><role>Makoto Shishio</role><person id="113332">Paulo Wolf</person></cast>
+<cast gid="1761353273" lang="TL"><role>Sanosuke Sagara</role><person id="38933">Alexx Agcaoili</person></cast>
+<cast gid="553109621" lang="TL"><role>Kenshin Himura</role><person id="38935">Louie Paraboles</person></cast>
+<cast gid="1346304585" lang="TL"><role>Kenshin Himura</role><person id="39767">Richie Padilla</person></cast>
+<cast gid="2094051301" lang="TL"><role>Kaoru Kamiya</role><person id="39769">Candice Arellano</person></cast>
+<cast gid="552650053" lang="TL"><role>Yutaro Tsukayama</role><person id="59556">Christian Alvear</person></cast>
+<cast gid="1076050954" lang="TL"><role>Yutaro Tsukayama</role><person id="62725">Steven Bontogon</person></cast>
+<cast gid="551177582" lang="TL"><role>Megumi Takani</role><person id="62730">JING M. LANZONA</person></cast>
+<cast gid="3924232777" lang="TL"><role>Yahiko &quot;Yoshi&quot; Myoujin</role><person id="66364">Julius Figueroa</person></cast>
+<credit gid="128442822"><task>Animation Production</task><company id="29">Studio Gallop</company></credit>
+<credit gid="2136382565"><task>Animation Production</task><company id="35">Studio DEEN</company></credit>
+<credit gid="3013432843"><task>Production</task><company id="31">SME Visual Works</company></credit>
+<credit gid="2279772237"><task>Production</task><company id="162">Fuji TV</company></credit>
+<credit gid="2992327004"><task>Production</task><company id="909">Shueisha</company></credit>
+<credit gid="4066833183"><task>Production</task><company id="1257">Aniplex</company></credit></anime></ann>

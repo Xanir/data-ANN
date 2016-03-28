@@ -1,0 +1,18 @@
+<ann><anime id="3992" gid="2621878098" type="movie" name="Yatterman" precision="movie 1977 " generated-on="2016-03-27T03:57:35Z">
+<related-prev rel="related to" id="1746"/>
+<info gid="713653187" type="Main title" lang="EN">Yatterman</info>
+<info gid="3246775199" type="Alternative title" lang="JA">ヤッターマン</info>
+<info gid="700718593" type="Genres">comedy</info>
+<info gid="2345785518" type="Running time">23</info>
+<info type="Vintage">1977-03-19</info>
+<info gid="559927909" type="Premiere date">1977-03-19 (Japan)</info>
+<ratings nb_votes="1" weighted_score="1"/>
+<staff gid="2524435374"><task>Director</task><person id="6621">Hiroshi Sasagawa</person></staff>
+<staff gid="1995667727"><task>Music</task><person id="13408">Masayuki Yamamoto</person></staff>
+<staff gid="1940198047"><task>Original creator</task><person id="4631">Tatsuo Yoshida</person></staff>
+<staff gid="404813625"><task>Character Design</task><person id="4525">Yoshitaka Amano</person></staff>
+<staff gid="1637744485"><task>Art Director</task><person id="5809">Eiji Tanaka</person></staff>
+<staff gid="2903303054"><task>Art</task><person id="10725">Kazuo Okada</person></staff>
+<staff gid="779821186"><task>Mechanical design</task><person id="123">Kunio Okawara</person></staff>
+<cast gid="2143312504" lang="JA"><role>Yatterman</role><person id="1156">Masaru Ikeda</person></cast>
+<credit gid="2303835226"><task>Production</task><company id="591">Tatsunoko Production</company></credit></anime></ann>

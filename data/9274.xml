@@ -1,0 +1,592 @@
+<ann><anime id="9274" gid="1504493029" type="TV" name="Uchi no 3 Shimai" precision="TV" generated-on="2016-03-27T02:22:26Z">
+<info gid="2134959334" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A9274-12.jpg" width="200" height="200"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A9274-12.jpg" width="200" height="200"/></info>
+<info gid="2242480103" type="Main title" lang="JA">Uchi no 3 Shimai</info>
+<info gid="2279075259" type="Alternative title" lang="EN">My Three Daughters</info>
+<info gid="999616581" type="Alternative title" lang="JA">うちの3姉妹</info>
+<info gid="2833138929" type="Alternative title" lang="KO">우리 집 3자매</info>
+<info gid="925893153" type="Genres">comedy</info>
+<info gid="2822703106" type="Genres">slice of life</info>
+<info gid="1541197815" type="Running time">half hour</info>
+<info gid="2976095907" type="Number of episodes">141</info>
+<info gid="1458184910" type="Vintage">2008-04-08</info>
+<info gid="930907006" type="Vintage">2008-04-08 to 2010-12-28</info>
+<info gid="3120622980" type="Opening Theme">&quot;Shode! Shode! Dancing! (しょで！しょで！だんしんぐっ！)&quot; by Mayu Kudō</info>
+<info gid="3317295426" type="Ending Theme">&quot;Tattōn♪Time (たっとぅーん♪たいむ)&quot; by Noria</info>
+<info gid="3126609707" type="Official website" lang="JA" href="http://avexmovie.jp/lineup/3shimai/">うちの３姉妹 @ avex</info>
+<info gid="2026955912" type="Official website" lang="JA" href="http://www.toei-anim.co.jp/tv/3shimai/">うちの３姉妹－東映アニメーション－</info>
+<info gid="470184248" type="Official website" lang="JA" href="http://www.tv-tokyo.co.jp/anime/3shimai/">テレビ東京・あにてれ うちの３姉妹</info>
+<ratings nb_votes="1" weighted_score="0"/>
+<episode num="1">
+<title part="A" gid="2372074087" lang="JA">choujo . fuu oppekepe</title>
+<title part="B" gid="2114930730" lang="JA">jijo suu . 3 toshi ribero</title>
+<title part="C" gid="2561678158" lang="JA">manma ~ na sanjo</title></episode>
+<episode num="2">
+<title part="A" gid="448189221" lang="JA">choujo no higeki</title>
+<title part="B" gid="3510594277" lang="JA">jijo no namaiki zakari</title>
+<title part="C" gid="2733628239" lang="JA">sanjo no houchi purei</title></episode>
+<episode num="3">
+<title part="A" gid="3098347842" lang="JA">jigyakuteki na sanjo</title>
+<title part="B" gid="1282104915" lang="JA">sanjo no manekko ki</title>
+<title part="C" gid="1565330742" lang="JA">iku ze ! manma kozou</title></episode>
+<episode num="4">
+<title part="A" gid="2559063639" lang="JA">densetsu no kikamonchi</title>
+<title part="B" gid="1024642232" lang="JA">suu no ii machigai</title>
+<title part="C" gid="3089375624" lang="JA">jijo no buyuuden</title></episode>
+<episode num="5">
+<title part="A" gid="902396556" lang="JA">choujo no oppekepe den</title>
+<title part="B" gid="2502220817" lang="JA">oppekepe gekijou</title>
+<title part="C" gid="3898374384" lang="JA">oppeke do joushouchuu !</title></episode>
+<episode num="6">
+<title part="A" gid="1323206946" lang="JA">gokuaku ki o hete</title>
+<title part="B" gid="3321665793" lang="JA">jijo no kako</title>
+<title part="C" gid="1513779313" lang="JA">3 shimai ga umare ta nichi</title></episode>
+<episode num="7">
+<title part="A" gid="1237544924" lang="JA">yuuenchi e GO!</title>
+<title part="B" gid="2364344366" lang="JA">sanjo hatsunetsu</title>
+<title part="C" gid="2369867850" lang="JA">atashi mopushii</title></episode>
+<episode num="8">
+<title part="A" gid="1027905381" lang="JA">youkai oshaburi kozou</title>
+<title part="B" gid="1474285371" lang="JA">sanjo no maibuumu</title>
+<title part="C" gid="1996917397" lang="JA">uchi no shachou</title></episode>
+<episode num="9">
+<title part="A" gid="52596386" lang="JA">shachou vs jiyuujin</title>
+<title part="B" gid="2496572703" lang="JA">nantoka gokko</title>
+<title part="C" gid="3941305982" lang="JA">kenka no chuusai</title></episode>
+<episode num="10">
+<title part="A" gid="3366468763" lang="JA">sanjo no bouken</title>
+<title part="B" gid="2053978254" lang="JA">sanjo no bouken in kicchin</title>
+<title part="C" gid="1983655729" lang="JA">sanjo no bouken in shigotobeya</title></episode>
+<episode num="11">
+<title part="A" gid="2702896752" lang="JA">o kaasan no tsuitachi . zenpen</title>
+<title part="B" gid="2141534434" lang="JA">o kaasan no kako</title>
+<title part="C" gid="2445074944" lang="JA">o kaasan no tsuitachi . kouhen</title></episode>
+<episode num="12">
+<title part="A" gid="2034840019" lang="JA">o tousan daijoubu ?</title>
+<title part="B" gid="2352177241" lang="JA">o tousan daisuki</title>
+<title part="C" gid="2314553341" lang="JA">o tousan o kaeri !</title></episode>
+<episode num="13">
+<title part="A" gid="2690425921" lang="JA">sanjo to futari</title>
+<title part="B" gid="1482889424" lang="JA">jijo mo kaki masu</title>
+<title part="C" gid="3853446474" lang="JA">choujo no kini narukoto</title></episode>
+<episode num="14">
+<title part="A" gid="140934770" lang="JA">saikin no jijo no asobi</title>
+<title part="B" gid="2185905529" lang="JA">choujo no oppeke kobanashi</title>
+<title part="C" gid="496528186" lang="JA">3 shimai in za basu</title></episode>
+<episode num="15">
+<title part="A" gid="2306247052" lang="JA">natsu no omoide . zenpen</title>
+<title part="B" gid="1415066832" lang="JA">natsu no omoide . chuuhen</title>
+<title part="C" gid="590650994" lang="JA">natsu no omoide . kouhen</title></episode>
+<episode num="16">
+<title part="A" gid="2844846593" lang="JA">shachou no haiboku</title>
+<title part="B" gid="2586990164" lang="JA">jijo no jitensha</title>
+<title part="C" gid="3549743662" lang="JA">ganbare o neechan</title></episode>
+<episode num="17">
+<title part="A" gid="3731558343" lang="JA">dounaru ? baabekyuu</title>
+<title part="B" gid="2350449890" lang="JA">minnade kawa asobi</title>
+<title part="C" gid="1417527997" lang="JA">baabekyuu sutaato !</title></episode>
+<episode num="18">
+<title part="A" gid="2209375591" lang="JA">senpuukinio negai</title>
+<title part="B" gid="3999135098" lang="JA">kaminari nanka kowakunaitsu</title>
+<title part="C" gid="2750373425" lang="JA">ashita tenki ninaare !</title></episode>
+<episode num="19">
+<title part="A" gid="1956604090" lang="JA">zureteru choujo</title>
+<title part="B" gid="1991390430" lang="JA">ari san to issho</title>
+<title part="C" gid="3525502662" lang="JA">chichi no senaka</title></episode>
+<episode num="20">
+<title part="A" gid="1992330872" lang="JA">chii no kamikakushi</title>
+<title part="B" gid="2135248996" lang="JA">choujo no boushi funshitsu jiken</title>
+<title part="C" gid="1818666182" lang="JA">choujo no fushigi na chikara</title></episode>
+<episode num="21">
+<title part="A" gid="3269782555" lang="JA">sanjo no jumon</title>
+<title part="B" gid="3107387862" lang="JA">hankou ki no joshou</title>
+<title part="C" gid="1969157587" lang="JA">gokuaku ! manma kozou</title></episode>
+<episode num="22">
+<title part="A" gid="2042827374" lang="JA">furafuupu 3 shimai</title>
+<title part="B" gid="1301685223" lang="JA">henji wa hai !</title>
+<title part="C" gid="2061431474" lang="JA">okkake chii</title></episode>
+<episode num="23">
+<title part="A" gid="3403194078" lang="JA">3 shimai fasshonshou</title>
+<title part="B" gid="2744299694" lang="JA">jiiji shuurai</title>
+<title part="C" gid="2018024286" lang="JA">dekeeaa san</title></episode>
+<episode num="24">
+<title part="A" gid="2533017476" lang="JA">fuu to chikyuugi</title>
+<title part="B" gid="1649150467" lang="JA">konpouzai gekijou</title>
+<title part="C" gid="2293014264" lang="JA">nemui sanjo</title></episode>
+<episode num="25">
+<title part="A" gid="2848135810" lang="JA">jijo no o mise ya sangokko</title>
+<title part="B" gid="2021668333" lang="JA">jijo ni euru</title>
+<title part="C" gid="357345162" lang="JA">jijo no henna tsubo</title></episode>
+<episode num="26">
+<title part="A" gid="1911921184" lang="JA">baree kyoushitsu niikou</title>
+<title part="B" gid="2125525343" lang="JA">suu to baree kyoushitsu</title>
+<title part="C" gid="2493832471" lang="JA">fuu no hatsu baree</title></episode>
+<episode num="27">
+<title part="A" gid="2810212393" lang="JA">sanjo no seichou</title>
+<title part="B" gid="2363487823" lang="JA">o namae henkou</title>
+<title part="C" gid="946031613" lang="JA">seichousu goroku</title></episode>
+<episode num="28">
+<title part="A" gid="2960288826" lang="JA">kibishi io tousan</title>
+<title part="B" gid="3238050236" lang="JA">o tousan vs jiyuujin</title>
+<title part="C" gid="1486423802" lang="JA">oppekeo tousan</title></episode>
+<episode num="29">
+<title part="A" gid="816962708" lang="JA">puriteigokko dai 1 hanashi</title>
+<title part="B" gid="2058174944" lang="JA">puriteigokko dai 2 hanashi</title>
+<title part="C" gid="2003265515" lang="JA">puriteigokko saishuukai</title></episode>
+<episode num="30">
+<title part="A" gid="2980502580" lang="JA">shinmai mama funtouki</title>
+<title part="B" gid="2266721113" lang="JA">sensei gokko</title>
+<title part="C" gid="2978158826" lang="JA">o kaasan wa sensei</title></episode>
+<episode num="31">
+<title part="A" gid="702323273" lang="JA">3 shimai batoru !</title>
+<title part="B" gid="1215808354" lang="JA">shokugo no mikan</title>
+<title part="C" gid="577870713" lang="JA">wakattenai sanjo</title></episode>
+<episode num="32">
+<title part="A" gid="3062219516" lang="JA">o mukae no jikan</title>
+<title part="B" gid="3569747828" lang="JA">honto wa amae nbo</title>
+<title part="C" gid="2714174572" lang="JA">choujo no hissu aitemu</title></episode>
+<episode num="33">
+<title part="A" gid="3629816858" lang="JA">ikemen suki na choujo</title>
+<title part="B" gid="1775266564" lang="JA">uchino 3 shimai gekijou shinderera</title>
+<title part="C" gid="1034654307" lang="JA">ninja mono go</title></episode>
+<episode num="34">
+<title part="A" gid="1388513725" lang="JA">3 shimai otogibanashi</title>
+<title part="B" gid="2954524565" lang="JA">kagami no kuni no suu</title>
+<title part="C" gid="2540424985" lang="JA">fuu to yousei no kuni</title></episode>
+<episode num="35">
+<title part="A" gid="1950001361" lang="JA">shachou fuzai</title>
+<title part="B" gid="1861896357" lang="JA">uchino 3 shimai gekijou mopushii tokame</title>
+<title part="C" gid="884771329" lang="JA">doubutsuen e iko u !</title></episode>
+<episode num="36">
+<title part="A" gid="2273122759" lang="JA">3 shimai risaitaru</title>
+<title part="B" gid="1698723370" lang="JA">jijo no uta</title>
+<title part="C" gid="2146561082" lang="JA">oppeke songu</title></episode>
+<episode num="37">
+<title part="A" gid="637170022" lang="JA">sanjo no bouken in nakaniwa</title>
+<title part="B" gid="3597696112" lang="JA">sanjo no bouken in aru nichi no yuugata</title>
+<title part="C" gid="2210104969" lang="JA">sanjo no bouken in shokujichuu</title></episode>
+<episode num="38">
+<title part="A" gid="2129738402" lang="JA">kireini kazaro u</title>
+<title part="B" gid="2191197091" lang="JA">santa sannio negai</title>
+<title part="C" gid="3239113584" lang="JA">tanoshi i kurisumasu !</title></episode>
+<episode num="39">
+<title part="A" gid="2472218980" lang="JA">oppeke ! fuu chan</title>
+<title part="B" gid="3149464704" lang="JA">iideso ! suu chan</title>
+<title part="C" gid="2174467525" lang="JA">manma ~! chii chan</title></episode>
+<episode num="40">
+<title part="A" gid="2510906080" lang="JA">matamata shachou vs jiyuujin</title>
+<title part="B" gid="1518698137" lang="JA">ou chan vs jiiji</title>
+<title part="C" gid="4168503640" lang="JA">haha no tanjoubi</title></episode>
+<episode num="41">
+<title part="A" gid="1383685497" lang="JA">sanjo no kotoba</title>
+<title part="B" gid="1227442538" lang="JA">jijo gojiten</title>
+<title part="C" gid="1488961265" lang="JA">choujo no o kotoba</title></episode>
+<episode num="42">
+<title part="A" gid="889930520" lang="JA">naitsu !!</title>
+<title part="B" gid="2542317309" lang="JA">kyou no o shigoto</title>
+<title part="C" gid="2210962954" lang="JA">o ningyou sangokko</title></episode>
+<episode num="43">
+<title part="A" gid="1180188723" lang="JA">yuki no hi no 3 shimai</title>
+<title part="B" gid="1302721086" lang="JA">taiho shichauwayo ☆</title>
+<title part="C" gid="3695845189" lang="JA">otonashi kunai sanjo</title></episode>
+<episode num="44">
+<title part="A" gid="2778029768" lang="JA">barentain ni chousen !!</title>
+<title part="B" gid="1313656430" lang="JA">iza ! choko tsukuri !</title>
+<title part="C" gid="3372949050" lang="JA">dare ni ageru no ?</title></episode>
+<episode num="45">
+<title part="A" gid="2210836386" lang="JA">nunchi sokuhou</title>
+<title part="B" gid="2813052552" lang="JA">omutsu saigai</title>
+<title part="C" gid="2148237127" lang="JA">sono no chino shiri moyou</title></episode>
+<episode num="46">
+<title part="A" gid="2911343829" lang="JA">jijo ni shitsumon</title>
+<title part="B" gid="2612367771" lang="JA">kaze de reberuappu</title>
+<title part="C" gid="2756411120" lang="JA">jijo no koto</title></episode>
+<episode num="47">
+<title part="A" gid="2673412252" lang="JA">baree e no omoi</title>
+<title part="B" gid="999412192" lang="JA">bareeressunrepo</title>
+<title part="C" gid="2457923379" lang="JA">3 shimai no hina matsuri</title></episode>
+<episode num="48">
+<title part="A" gid="3927852899" lang="JA">hajimete no oppeke</title>
+<title part="B" gid="2335777442" lang="JA">shinmai mama funtouki zenpen</title>
+<title part="C" gid="2209006368" lang="JA">shinmai mama funtouki kouhen</title></episode>
+<episode num="49">
+<title part="A" gid="2261115840" lang="JA">haha VS shachou</title>
+<title part="B" gid="2824362304" lang="JA">haha VS shachou dai 2 raundo</title>
+<title part="C" gid="1257474608" lang="JA">shachou no jikoshuchou</title></episode>
+<episode num="50">
+<title part="A" gid="4005637160" lang="JA">takara sagashi</title>
+<title part="B" gid="1223856160" lang="JA">koukyuu resutoran debyuU !!</title>
+<title part="C" gid="1850287878" lang="JA">safari paaku e GO!</title></episode>
+<episode num="51">
+<title part="A" gid="1293944204" lang="JA">akai garagara no koto</title>
+<title part="B" gid="3751152195" lang="JA">3 shimai no chie</title>
+<title part="C" gid="3856484133" lang="JA">o hanami e GO!</title></episode>
+<episode num="52">
+<title part="A" gid="1796675420" lang="JA">oppekepe kenzai</title>
+<title part="B" gid="2307545653" lang="JA">warikomi jijo</title>
+<title part="C" gid="3098953101" lang="JA">sanjo no manekko ki ( sai )</title></episode>
+<episode num="53">
+<title part="A" gid="1037099550" lang="JA">choujo no oppekepe den ( sai )</title>
+<title part="B" gid="1503570627" lang="JA">jijo to sanjo no kankei</title>
+<title part="C" gid="4049730019" lang="JA">zoku . jijo to sanjo no kankei</title></episode>
+<episode num="54">
+<title part="A" gid="2234062665" lang="JA">momotaroo</title>
+<title part="B" gid="2804675538" lang="JA">gokigenna sanjo</title>
+<title part="C" gid="2068901649" lang="JA">atashi mopushii ( sai )</title></episode>
+<episode num="55">
+<title part="A" gid="877018541" lang="JA">jijo no jitensha ( sai )</title>
+<title part="B" gid="2716911388" lang="JA">koi no bori</title>
+<title part="C" gid="1733902185" lang="JA">kodomo no hi tte nani ??</title></episode>
+<episode num="56">
+<title part="A" gid="2938666959" lang="JA">ribero hatsugen</title>
+<title part="B" gid="3450504916" lang="JA">honjitsu no oppeke gekijou</title>
+<title part="C" gid="2906393369" lang="JA">ashita tenki ninaare !( sai )</title></episode>
+<episode num="57">
+<title part="A" gid="1290929926" lang="JA">youkai oshaburi kozou ( sai )</title>
+<title part="B" gid="2175087796" lang="JA">appare shachou !!</title>
+<title part="C" gid="1957015279" lang="JA">sanjo no terebana</title></episode>
+<episode num="58">
+<title part="A" gid="3498229991" lang="JA">uchino 3 shimai kuizu</title>
+<title part="B" gid="2636648698" lang="JA">choujo no o sushi ya sangokko</title>
+<title part="C" gid="1829841317" lang="JA">sanjo no houchi purei ( sai )</title></episode>
+<episode num="59">
+<title part="A" gid="674775812" lang="JA">o namae henkou ( sai )</title>
+<title part="B" gid="2181654007" lang="JA">uchino 3 shimai gekijou mopushii tokame ( sai )</title>
+<title part="C" gid="1951859517" lang="JA">3 shimai no yume</title></episode>
+<episode num="60">
+<title part="A" gid="993245240" lang="JA">shachou no haiboku ( sai )</title>
+<title part="B" gid="1621391867" lang="JA">kibishi io tousan ( sai )</title>
+<title part="C" gid="1407494583" lang="JA">suu no negoto</title></episode>
+<episode num="61">
+<title part="A" gid="2480787698" lang="JA">choujo no fiiringu</title>
+<title part="B" gid="3098622526" lang="JA">3 shimai risaitaru ( sai )</title>
+<title part="C" gid="1449794978" lang="JA">oppeke do joushouchuu !( sai )</title></episode>
+<episode num="62">
+<title part="A" gid="2369163462" lang="JA">jijo suu . 3 toshi ribero ( sai )</title>
+<title part="B" gid="717182079" lang="JA">honjitsu mo jiyuu nari</title>
+<title part="C" gid="2351262092" lang="JA">ninja mono go ( sai )</title></episode>
+<episode num="63">
+<title part="A" gid="2847136703" lang="JA">kiken yochi</title>
+<title part="B" gid="2414948419" lang="JA">kaminari nanka kowakunaitsu ( sai )</title>
+<title part="C" gid="1280606866" lang="JA">oppekeo tousan ( sai )</title></episode>
+<episode num="64">
+<title part="A" gid="3160744373" lang="JA">choujo no boushi funshitsu jiken ( sai )</title>
+<title part="B" gid="231806535" lang="JA">orihime to hikoboshi</title>
+<title part="C" gid="2185251143" lang="JA">sasa ni negai wo !!</title></episode>
+<episode num="65">
+<title part="A" gid="2773529090" lang="JA">sanjo no jumon ( sai )</title>
+<title part="B" gid="2783539329" lang="JA">hajimete no kyanpu</title>
+<title part="C" gid="3472892852" lang="JA">kyanpu de asobo u !</title></episode>
+<episode num="66">
+<title part="A" gid="1093904839" lang="JA">sanjo no maibuumu ( sai )</title>
+<title part="B" gid="860294022" lang="JA">mizugi wo katte miyou !</title>
+<title part="C" gid="1935960242" lang="JA">hawai e iko u !</title></episode>
+<episode num="67">
+<title part="A" gid="3660957063" lang="JA">senpuukinio negai ( sai )</title>
+<title part="B" gid="3335546689" lang="JA">sanjo gojiten nisatsu me</title>
+<title part="C" gid="1886365180" lang="JA">tsuini hawai !</title></episode>
+<episode num="68">
+<title part="A" gid="2739698128" lang="JA">guroubaru na shachou</title>
+<title part="B" gid="1049141664" lang="JA">chii no kamikakushi ( sai )</title>
+<title part="C" gid="2496469379" lang="JA">hawai no umi to bokujou !</title></episode>
+<episode num="69">
+<title part="A" gid="2018628687" lang="JA">houtou</title>
+<title part="B" gid="3431935567" lang="JA">suu no ii machigai ( sai )</title>
+<title part="C" gid="1877023359" lang="JA">hawai no iruka to furadansu</title></episode>
+<episode num="70">
+<title part="A" gid="2100200418" lang="JA">chii chanbanbare</title>
+<title part="B" gid="1659428858" lang="JA">hawai no sensuikan !</title>
+<title part="C" gid="3159234595" lang="JA">sayonara hawai</title></episode>
+<episode num="71">
+<title part="A" gid="2127532818" lang="JA">konamaikina jijo</title>
+<title part="B" gid="2052460368" lang="JA">aa natsuyasumi</title>
+<title part="C" gid="2525008461" lang="JA">jijo no henna tsubo ( sai )</title></episode>
+<episode num="72">
+<title part="A" gid="1115962953" lang="JA">jijo no uta ( sai )</title>
+<title part="B" gid="3592667630" lang="JA">konya wa gyouza</title>
+<title part="C" gid="1004325054" lang="JA">ou chan to yome</title></episode>
+<episode num="73">
+<title part="A" gid="2067308261" lang="JA">furafuupu 3 shimai ( sai )</title>
+<title part="B" gid="3487387740" lang="JA">okubyou ribero</title>
+<title part="C" gid="2952566048" lang="JA">bibiri</title></episode>
+<episode num="74">
+<title part="A" gid="780371945" lang="JA">ane no oshie</title>
+<title part="B" gid="2616694192" lang="JA">3 shimai fasshonshou ( sai )</title>
+<title part="C" gid="2271975903" lang="JA">naabasu na jijo</title></episode>
+<episode num="75">
+<title part="A" gid="1555604598" lang="JA">gatsu hadareniageta ?</title>
+<title part="B" gid="1904917659" lang="JA">fuu to chikyuugi ( sai )</title>
+<title part="C" gid="1703237753" lang="JA">chichi no firutaa</title></episode>
+<episode num="76">
+<title part="A" gid="1961395938" lang="JA">hankou ki no joshou ( sai )</title>
+<title part="B" gid="2996257448" lang="JA">hibi seichou</title>
+<title part="C" gid="2408796402" lang="JA">oppeke songu ( sai )</title></episode>
+<episode num="77">
+<title part="A" gid="2139143075" lang="JA">kanchigai gaaru</title>
+<title part="B" gid="2745969227" lang="JA">sensei gokko ( sai )</title>
+<title part="C" gid="1979240660" lang="JA">o tousan vs jiyuujin ( sai )</title></episode>
+<episode num="78">
+<title part="A" gid="3763296392" lang="JA">mushi kirai no o tousan</title>
+<title part="B" gid="2155930433" lang="JA">otogi no kuni no kaidan</title>
+<title part="C" gid="2015182649" lang="JA">shachou vs jiyuujin ( sai )</title></episode>
+<episode num="79">
+<title part="A" gid="2385571101" lang="JA">sanjo hatsunetsu ( sai )</title>
+<title part="B" gid="2897652222" lang="JA">yosougai no tenkai</title>
+<title part="C" gid="1970377349" lang="JA">jigyakuteki na sanjo ( sai )</title></episode>
+<episode num="80">
+<title part="A" gid="1671055021" lang="JA">sanjo no iikata</title>
+<title part="B" gid="330543414" lang="JA">kyou no o shigoto ( sai )</title>
+<title part="C" gid="2424863252" lang="JA">wake no wakaran jijo</title></episode>
+<episode num="81">
+<title part="A" gid="1046873361" lang="JA">jijo gojiten ( sai )</title>
+<title part="B" gid="2450368561" lang="JA">shiri tagari jijo</title>
+<title part="C" gid="1600412330" lang="JA">isshoni oppeke gekijou</title></episode>
+<episode num="82">
+<title part="A" gid="1381028008" lang="JA">jijo ni shitsumon ( sai )</title>
+<title part="B" gid="3888200291" lang="JA">higaisha sanjo</title>
+<title part="C" gid="2279491640" lang="JA">awateru shachou</title></episode>
+<episode num="83">
+<title part="A" gid="579396796" lang="JA">konjitsu no jijo</title>
+<title part="B" gid="1226199745" lang="JA">takara sagashi ( sai )</title>
+<title part="C" gid="506092960" lang="JA">3 shimai ga umare ta nichi ( sai )</title></episode>
+<episode num="84">
+<title part="A" gid="2172098814" lang="JA">taiho shichauwayo (hosi)( sai )</title>
+<title part="B" gid="2335441029" lang="JA">3 shimai toii san ( mae . kouhen )</title></episode>
+<episode num="85">
+<title part="A" gid="3009100662" lang="JA">koukyuu resutoran debyuu !! ( sai )</title>
+<title part="B" gid="415902110" lang="JA">suu no kuma wo sagase !</title>
+<title part="C" gid="1149032945" lang="JA">ou chan vs jiiji ( sai )</title></episode>
+<episode num="86">
+<title part="A" gid="1076130947" lang="JA">jiyuujin no eigo + ranchi</title>
+<title part="B" gid="169292629" lang="JA">kagami no kuni no suu ( sai )</title>
+<title part="C" gid="2630434464" lang="JA">dekeeaa san ( sai )</title></episode>
+<episode num="87">
+<title part="A" gid="3124641020" lang="JA">shuchou suru sanjo</title>
+<title part="B" gid="3898283835" lang="JA">sanjo no seichou ( sai )</title>
+<title part="C" gid="2259423968" lang="JA">wakattenai sanjo ( sai )</title></episode>
+<episode num="88">
+<title part="A" gid="1525387869" lang="JA">henji wa hai !( sai )</title>
+<title part="B" gid="3482909750" lang="JA">santa sankurukashira ?</title>
+<title part="C" gid="4045091701" lang="JA">sorezore no kurisumasu purezento</title></episode>
+<episode num="89">
+<title part="A" gid="2437931936" lang="JA">tekitou na kotoba</title>
+<title part="B" gid="1600672921" lang="JA">jijo to sanjo no kaiwa</title>
+<title part="C" gid="2994052145" lang="JA">choujo no kini narukoto ( sai )</title></episode>
+<episode num="90">
+<title part="A" gid="2322720504" lang="JA">shinnen no houfu</title>
+<title part="B" gid="2155838624" lang="JA">suu san goroku</title>
+<title part="C" gid="1896080357" lang="JA">konnen mooppeke gekijou</title></episode>
+<episode num="91">
+<title part="A" gid="2608765476" lang="JA">pukkuri jijo</title>
+<title part="B" gid="2773904611" lang="JA">yuki no nichi no 3 shimai ( sai )</title>
+<title part="C" gid="1683776612" lang="JA">o kaasan no tanjoubi</title></episode>
+<episode num="92">
+<title part="A" gid="2173620005" lang="JA">jiiji shuurai ( sai )</title>
+<title part="B" gid="2337166873" lang="JA">yamamoto san</title>
+<title part="C" gid="1631081746" lang="JA">moushimasen</title></episode>
+<episode num="93">
+<title part="A" gid="2334472474" lang="JA">3 shimai otogibanashi ( sai )</title>
+<title part="B" gid="2272749447" lang="JA">konpouzai gekijou ( sai )</title>
+<title part="C" gid="2463614138" lang="JA">kodomo tteiina</title></episode>
+<episode num="94">
+<title part="A" gid="3011855454" lang="JA">matamata shachou vs jiyuujin ( sai )</title>
+<title part="B" gid="2600942726" lang="JA">choujo vs sanjo</title>
+<title part="C" gid="1776787150" lang="JA">3 shimai no setsubun</title></episode>
+<episode num="95">
+<title part="A" gid="3035296876" lang="JA">3 shimai batoru !( sai )</title>
+<title part="B" gid="2815109039" lang="JA">rettsu ! okashi paatei</title>
+<title part="C" gid="3132223630" lang="JA">oishiku tabe you !</title></episode>
+<episode num="96">
+<title part="A" gid="1554034495" lang="JA">jijo no o mise ya sangokko ( sai )</title>
+<title part="B" gid="2843591365" lang="JA">odoru ribero goten</title>
+<title part="C" gid="3372425918" lang="JA">utau jijo</title></episode>
+<episode num="97">
+<title part="A" gid="3541995845" lang="JA">sanjo no bikkuri hatsugen</title>
+<title part="B" gid="818603667" lang="JA">shachou fuzai ( sai )</title>
+<title part="C" gid="3294910591" lang="JA">sanjo no o kigae</title></episode>
+<episode num="98">
+<title part="A" gid="3359584768" lang="JA">minnade koushin</title>
+<title part="B" gid="2468457396" lang="JA">jijo ni euru ( sai )</title>
+<title part="C" gid="1830941169" lang="JA">choujo no hina ningyou</title></episode>
+<episode num="99">
+<title part="A" gid="2662949282" lang="JA">sanjo no kotoba ( sai )</title>
+<title part="B" gid="1757981889" lang="JA">choujo no ii machigai</title>
+<title part="C" gid="3702478269" lang="JA">chichi no shougakuseijidai</title></episode>
+<episode num="100">
+<title part="A" gid="1741832066" lang="JA">hajimete no oppeke ( sai )</title>
+<title part="B" gid="2063182199" lang="JA">saikin no jijo no asobi ( sai )</title>
+<title part="C" gid="902561303" lang="JA">mahou tsukai sanjo</title></episode>
+<episode num="101">
+<title part="A" gid="1450588505" lang="JA">nyuugaku e no kauntodaun</title>
+<title part="B" gid="2894241306" lang="JA">omutsu saigai ( sai )</title>
+<title part="C" gid="3022923858" lang="JA">choujo no sotsu sono shiki</title></episode>
+<episode num="102">
+<title part="A" gid="2885038731" lang="JA">jijo no nyuuen shiki</title>
+<title part="B" gid="1567069792" lang="JA">sanjo no boukyo</title>
+<title part="C" gid="1943625279" lang="JA">3 shimai no atarashi i seikatsu</title></episode>
+<episode num="103">
+<title part="A" gid="3184069389" lang="JA">sanjo to futari</title>
+<title part="B" gid="921985503" lang="JA">uchi no shachou</title>
+<title part="C" gid="3339020271" lang="JA">doubutsuen e iko u !</title></episode>
+<episode num="104">
+<title part="A" gid="1592020392" lang="JA">akai garagara no koto</title>
+<title part="B" gid="2778819081" lang="JA">suu no kuma wosagase !</title>
+<title part="C" gid="2675955180" lang="JA">nemui sanjo</title></episode>
+<episode num="105">
+<title part="A" gid="2770754382" lang="JA">naitsu !!</title>
+<title part="B" gid="808791749" lang="JA">nunchi sokuhou</title>
+<title part="C" gid="2799252918" lang="JA">choujo no fiiringu</title></episode>
+<episode num="106">
+<title part="A" gid="1513766306" lang="JA">yuuenchi e Go!</title>
+<title part="B" gid="2578453037" lang="JA">jijo to sanjo no kankei</title>
+<title part="C" gid="3313300993" lang="JA">3 shimai no yume</title></episode>
+<episode num="107">
+<title part="A" gid="1968308011" lang="JA">gokigenna sanjo</title>
+<title part="B" gid="1664180534" lang="JA">koi no bori</title>
+<title part="C" gid="2240369308" lang="JA">kodomo no hi tte nani ??</title></episode>
+<episode num="108">
+<title part="A" gid="2219747777" lang="JA">kanchigai gaaru</title>
+<title part="B" gid="1676511487" lang="JA">shiri tagari jijo</title>
+<title part="C" gid="1702149410" lang="JA">appare shachou !!</title></episode>
+<episode num="109">
+<title part="A" gid="2186452144" lang="JA">o tousan daijoubu ?</title>
+<title part="B" gid="2886013386" lang="JA">warikomi jijo</title>
+<title part="C" gid="770343351" lang="JA">suu no negoto</title></episode>
+<episode num="110">
+<title part="A" gid="2323581540" lang="JA">ikemen suki na choujo</title>
+<title part="B" gid="1660605359" lang="JA">choujo no o sushi ya sangokko</title>
+<title part="C" gid="2867095454" lang="JA">jijo no koto</title></episode>
+<episode num="111">
+<title part="A" gid="1390339028" lang="JA">suu no kikamonchi</title>
+<title part="B" gid="3641349840" lang="JA">yosougai no tenkai</title>
+<title part="C" gid="1882947267" lang="JA">sanjo no iikata</title></episode>
+<episode num="112">
+<title part="A" gid="2199524939" lang="JA">momotaroo</title>
+<title part="B" gid="2825667076" lang="JA">kaze de reberuappu</title>
+<title part="C" gid="1163310822" lang="JA">kiken yochi</title></episode>
+<episode num="113">
+<title part="A" gid="3895397222" lang="JA">oppeke kenzai</title>
+<title part="B" gid="1373823662" lang="JA">3 shimai no chie</title>
+<title part="C" gid="2095588383" lang="JA">wake no wakaran jijo</title></episode>
+<episode num="114">
+<title part="A" gid="1224828431" lang="JA">konjitsu no jijo</title>
+<title part="B" gid="2840573357" lang="JA">o ningyou sangokko</title>
+<title part="C" gid="3234376645" lang="JA">sanjo no terebana</title></episode>
+<episode num="115">
+<title part="A" gid="2656079355" lang="JA">safari paaku e Go!</title>
+<title part="B" gid="1449508356" lang="JA">honjitsu mo jiyuu nari</title>
+<title part="C" gid="3836097869" lang="JA">otogi no kuni no kaidan</title></episode>
+<episode num="116">
+<title part="A" gid="2304709756" lang="JA">bibiri</title>
+<title part="B" gid="2544336277" lang="JA">orihime to hikoboshi</title>
+<title part="C" gid="1679723598" lang="JA">sasa ni negai wo !!</title></episode>
+<episode num="117">
+<title part="A" gid="127775287" lang="JA">ane no oshie</title>
+<title part="B" gid="1684375014" lang="JA">uchi no 3 shimai gekijou shinderera</title>
+<title part="C" gid="1445153289" lang="JA">awateru shachou</title></episode>
+<episode num="118">
+<title part="A" gid="2538109286" lang="JA">gatsu hadareniageta</title>
+<title part="B" gid="1228157967" lang="JA">hajimete no kyanpu</title>
+<title part="C" gid="1359823598" lang="JA">kyanpu de asobo u !</title></episode>
+<episode num="119">
+<title part="A" gid="1238329624" lang="JA">choujo no fushigi na chikara</title>
+<title part="B" gid="2519909301" lang="JA">hibi seichou</title>
+<title part="C" gid="1256744548" lang="JA">naabasu na jijo</title></episode>
+<episode num="120">
+<title part="A" gid="703909278" lang="JA">guroubaru na shachou</title>
+<title part="B" gid="2727303346" lang="JA">okubyou ribero</title>
+<title part="C" gid="1141919389" lang="JA">ganbare o neechan</title></episode>
+<episode num="121">
+<title part="A" gid="2681440945" lang="JA">konamaikina jijo</title>
+<title part="B" gid="3776820072" lang="JA">houtou</title>
+<title part="C" gid="1988564745" lang="JA">aa natsuyasumi</title></episode>
+<episode num="122">
+<title part="A" gid="2041683140" lang="JA">chii chan banbare</title>
+<title part="B" gid="1981657019" lang="JA">chichi no firutaa</title>
+<title part="C" gid="1683464296" lang="JA">sanjo gojiten nisatsu me</title></episode>
+<episode num="123">
+<title part="A" gid="3495822772" lang="JA">ou chan to yome</title>
+<title part="B" gid="1805788175" lang="JA">konya wa gyouza</title>
+<title part="C" gid="1848027456" lang="JA">rettsu suimingu</title></episode>
+<episode num="124">
+<title part="A" gid="1418028781" lang="JA">jiyuujin no eigo + ranchi</title>
+<title part="B" gid="3122041208" lang="JA">higaisha sanjo</title>
+<title part="C" gid="966977171" lang="JA">3 shimai no heameiku</title></episode>
+<episode num="125">
+<title part="A" gid="1927029856" lang="JA">ribero hatsugen</title>
+<title part="B" gid="1198334111" lang="JA">kowagariya no jijo</title>
+<title part="C" gid="2761224498" lang="JA">tegara dorobou</title></episode>
+<episode num="126">
+<title part="A" gid="3802345532" lang="JA">mushi kirai no o tousan</title>
+<title part="B" gid="2917108258" lang="JA">isshoni oppeke gekijou</title>
+<title part="C" gid="2072639632" lang="JA">3 shimai no ennichi</title></episode>
+<episode num="127">
+<title part="A" gid="3212174270" lang="JA">sanjo no bikkuri hatsugen</title>
+<title part="B" gid="2169120941" lang="JA">fuu chan no o kaimono</title>
+<title part="C" gid="3816575775" lang="JA">fuu no kimyou na purezento</title></episode>
+<episode num="128">
+<title part="A" gid="3178849371" lang="JA">oppeke ! fuu chan</title>
+<title part="B" gid="2268126932" lang="JA">iideso ! suu chan</title>
+<title part="C" gid="2773311820" lang="JA">manma a! chii chan</title></episode>
+<episode num="129">
+<title part="A" gid="1964184205" lang="JA">o mukae no jikan</title>
+<title part="B" gid="1685858025" lang="JA">honto wa amae nbo</title>
+<title part="C" gid="3145910719" lang="JA">choujo no hissu aitemu</title></episode>
+<episode num="130">
+<title part="A" gid="2361691109" lang="JA">o kaasan no tsuitachi . zenpen</title>
+<title part="B" gid="2473047549" lang="JA">o kaasan no kako</title>
+<title part="C" gid="2320721384" lang="JA">o kaasan no tsuitachi . kouhen</title></episode>
+<episode num="131">
+<title part="A" gid="1482431374" lang="JA">mahou tsukai sanjo</title>
+<title part="B" gid="3309196126" lang="JA">oyasumi 3 shimai</title>
+<title part="C" gid="2705830362" lang="JA">3 shimai no o tetsudai</title></episode>
+<episode num="132">
+<title part="A" gid="3609034065" lang="JA">baree kyoushitsu niikou</title>
+<title part="B" gid="2011756645" lang="JA">suu to baree kyoushitsu</title>
+<title part="C" gid="2601703107" lang="JA">fuu no hatsu baree</title></episode>
+<episode num="133">
+<title part="A" gid="1899739770" lang="JA">sanjo no maibuumu</title>
+<title part="B" gid="3089282173" lang="JA">mizugi wo katte miyou !</title>
+<title part="C" gid="2630480070" lang="JA">hawai e iko u !</title></episode>
+<episode num="134">
+<title part="A" gid="346264111" lang="JA">tsuini hawai !</title>
+<title part="B" gid="3084930844" lang="JA">hawai no sensuikan !</title>
+<title part="C" gid="2393650501" lang="JA">sayonara hawai</title></episode>
+<episode num="135">
+<title part="A" gid="2607973788" lang="JA">jijo no o mise ya sangokko</title>
+<title part="B" gid="2222556549" lang="JA">odoru ribero goten</title>
+<title part="C" gid="2319606420" lang="JA">utau jijo</title></episode>
+<episode num="136">
+<title part="A" gid="1043906899" lang="JA">haha vs shachou</title>
+<title part="B" gid="2028463559" lang="JA">haha vs shachou dai 2 raundo</title>
+<title part="C" gid="2645744209" lang="JA">shachou no jikoshuchou</title></episode>
+<episode num="137">
+<title part="A" gid="1783120653" lang="JA">jiiji shuurai</title>
+<title part="B" gid="3347305343" lang="JA">yamamoto san</title>
+<title part="C" gid="2190918644" lang="JA">moushimasen</title></episode>
+<episode num="138">
+<title part="A" gid="1257368385" lang="JA">taiho shichauwayo ☆</title>
+<title part="B" gid="2289663116" lang="JA">3 shimai toiu san zenpen</title>
+<title part="C" gid="3211740230" lang="JA">3 shimai toiu san kouhen</title></episode>
+<episode num="139">
+<title part="A" gid="3145820211" lang="JA">sanjo no bouken in nakaniwa</title>
+<title part="B" gid="3085463095" lang="JA">sanjo no bouken in aru nichi no yuugata</title>
+<title part="C" gid="1712158949" lang="JA">sanjo no bouken in shokujichuu</title></episode>
+<episode num="140">
+<title part="A" gid="1479756607" lang="JA">kireini kazaro u</title>
+<title part="B" gid="3187914752" lang="JA">santa sannio negai</title>
+<title part="C" gid="1752093336" lang="JA">tanoshi i kurisumasu !</title></episode>
+<episode num="141">
+<title part="A" gid="2513948185" lang="JA">pukkuri jijo</title>
+<title part="B" gid="1658467691" lang="JA">yuki no nichi no 3 shimai</title>
+<title part="C" gid="1516458548" lang="JA">o kaasan no tanjoubi</title></episode>
+<news datetime="2008-01-29T21:40:55Z" href="http://www.animenewsnetwork.com/news/2008-01-29/uchi-no-3-shimai-manga-blog-gets-tv-anime-this-april">&lt;cite&gt;Uchi no 3 Shimai&lt;/cite&gt; Manga Blog Gets TV Anime This April</news>
+<news datetime="2008-10-09T18:11:07Z" href="http://www.animenewsnetwork.com/news/2008-10-09/anime-to-be-showcased-at-mipcom-media-industry-event">Anime to Be Showcased at MIPCOM Media Industry Event</news>
+<news datetime="2012-08-20T06:00:00Z" href="http://www.animenewsnetwork.com/news/2012-08-20/kaasan-mom-life-and-my-three-daughters-unite-in-crossover-manga">&lt;cite&gt;Kaasan - Mom's Life&lt;/cite&gt; &amp; &lt;cite&gt;My Three Daughters&lt;/cite&gt; Unite in Crossover Manga</news>
+<staff gid="2255051281"><task>Original creator</task><person id="69784">Pretz Matsumoto</person></staff>
+<staff gid="2860249041"><task>Character Design</task><person id="13442">Satoru Iriyoshi</person></staff>
+<cast gid="1349646299" lang="JA"><role>Fu</role><person id="846">Ikue Ohtani</person></cast>
+<cast gid="1040942777" lang="JA"><role>Father</role><person id="867">Kouji Tsujitani</person></cast>
+<cast gid="2436184224" lang="JA"><role>Su</role><person id="1041">Mika Kanai</person></cast>
+<cast gid="2137142709" lang="JA"><role>Chi</role><person id="5267">Taeko Kawata</person></cast>
+<cast gid="2372972275" lang="JA"><role>Mother</role><person id="63636">Chika Fujimura</person></cast>
+<credit gid="1119799073"><task>Animation Production</task><company id="145">Toei Animation</company></credit></anime></ann>

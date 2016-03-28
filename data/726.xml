@@ -1,0 +1,63 @@
+<ann><anime id="726" gid="2408267860" type="TV" name="Run=Dim" precision="TV" generated-on="2016-03-27T01:55:34Z">
+<info gid="21480924" type="Main title" lang="EN">Run=Dim</info>
+<info gid="2027338952" type="Genres">adventure</info>
+<info gid="3576543515" type="Genres">science fiction</info>
+<info gid="3800600843" type="Themes">mecha</info>
+<info gid="33222260" type="Running time">25</info>
+<info gid="1332950469" type="Number of episodes">13</info>
+<info gid="19552982" type="Vintage">2001-04-01 to 2001-06-24</info>
+<info gid="2907582626" type="Opening Theme">&quot;Legend&quot; by LEGOLGEL</info>
+<info gid="496107683" type="Ending Theme">&quot;Heaven Knows&quot; by Nana Mizuki</info>
+<info gid="2362288790" type="Official website" lang="EN" href="http://www.tv-tokyo.co.jp/run/dim.html">Run=Dim@TV Tokyo (Japanese)</info>
+<ratings nb_votes="17" weighted_score="3.6826" bayesian_score="5.34673"/>
+<episode num="1">
+<title gid="3014176022" lang="EN">Those who are Eligible, Assemble</title></episode>
+<episode num="2">
+<title gid="896716975" lang="EN">First Battle</title></episode>
+<episode num="3">
+<title gid="1915253206" lang="EN">The Third Assasin</title></episode>
+<episode num="4">
+<title gid="846502739" lang="EN">The Entrusting Fate</title></episode>
+<episode num="5">
+<title gid="1673092181" lang="EN">Invasion Strategy</title></episode>
+<episode num="6">
+<title gid="1563324419" lang="EN">Yesterday, Today</title></episode>
+<episode num="7">
+<title gid="3276815274" lang="EN">I Belive in You</title></episode>
+<episode num="8">
+<title gid="3133939778" lang="EN">Narrow the Gap</title></episode>
+<episode num="9">
+<title gid="2632709883" lang="EN">e4, Fire</title></episode>
+<episode num="10">
+<title gid="3250423383" lang="EN">In Pursuit</title></episode>
+<episode num="11">
+<title gid="1603689259" lang="EN">To tell, not to tell</title></episode>
+<episode num="12">
+<title gid="1112054544" lang="EN">Comrade, Rush</title></episode>
+<episode num="13">
+<title gid="3366274796" lang="EN">There is Justice in the Heart</title></episode>
+<staff gid="2862323186"><task>Director</task><person id="37294">Taisuke Katou</person></staff>
+<staff gid="1150594654"><task>Script</task><person id="37272">Shingo Kuwana</person></staff>
+<staff gid="2181123334"><task>Music</task><person id="3110">Kuniaki Haishima</person></staff>
+<staff gid="1293800033"><task>Original creator</task><person id="37272">Shingo Kuwana</person></staff>
+<staff gid="1492904456"><task>Character Design</task><person id="46058">Sayuri Suzuki</person></staff>
+<staff gid="1590485511"><task>Character Design</task><person id="46059">Hiromi Furuhara</person></staff>
+<staff gid="2791284271"><task>Animation Director</task><person id="46064">Sun Hwang Hyo</person></staff>
+<staff gid="3155267843"><task>Mechanical design</task><person id="46060">Hirofumi Sugimoto</person></staff>
+<staff gid="1767945168"><task>Producer</task><person id="7633">Makiko Iwata</person></staff>
+<staff gid="1117713374"><task>Producer</task><person id="46063">Sadao Nakamura</person></staff>
+<cast gid="1388864574" lang="JA"><role>Shinpei Miyauchi</role><person id="551">Kazuya Nakai</person></cast>
+<cast gid="1383326731" lang="JA"><role>Ken Muller</role><person id="718">Ryotaro Okiayu</person></cast>
+<cast gid="2875770781" lang="JA"><role>Masarō Yoshioka</role><person id="776">Kentarou Itou</person></cast>
+<cast gid="1771784782" lang="JA"><role>Yu Mirai</role><person id="847">Miki Nagasawa</person></cast>
+<cast gid="2212714919" lang="JA"><role>Suguru Saeki</role><person id="1103">Takeshi Kusao</person></cast>
+<cast gid="3070971975" lang="JA"><role>Kazuto Moriguchi</role><person id="1134">Kouki Miyata</person></cast>
+<cast gid="934325608" lang="JA"><role>Kanna Asou</role><person id="1633">Moyu Arishima</person></cast>
+<cast gid="2943659982" lang="JA"><role>Shōhei Moriguchi</role><person id="2063">Yasuhiko Kawazu</person></cast>
+<cast gid="2339996476" lang="JA"><role>Ian Konno</role><person id="3055">Mami Kingetsu</person></cast>
+<cast gid="915073643" lang="JA"><role>Atsushi Nojima</role><person id="14440">Shinji Kawada</person></cast>
+<cast gid="805319178" lang="JA"><role>Hitoshi Honda</role><person id="21911">Showtaro Morikubo</person></cast>
+<credit gid="3974215475"><task>Production</task><company id="262">TV Tokyo</company></credit>
+<credit gid="1705235686"><task>Production</task><company id="1108">Idea Factory</company></credit>
+<credit gid="1381929658"><task>Production</task><company id="1109">Digital Dream Studios</company></credit>
+<credit gid="2238438359"><task>Production</task><company id="4416">Alpha Broadcast Production</company></credit></anime></ann>

@@ -1,0 +1,517 @@
+<ann><anime id="17556" gid="2931649755" type="TV" name="Obocchama-kun" precision="TV" generated-on="2016-03-26T08:32:11Z">
+<related-prev rel="adapted from" id="17555"/>
+<info gid="1995745236" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A17556-1995745236.1439853602.jpg" width="200" height="134"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A17556-1995745236.1439853602.jpg" width="200" height="134"/><img src="http://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A17556-1995745236.1439853602.jpg" width="300" height="201"/></info>
+<info gid="2006533522" type="Main title" lang="JA">Obocchama-kun</info>
+<info gid="2526227111" type="Alternative title" lang="JA">おぼっちゃまくん</info>
+<info gid="2057781190" type="Genres">comedy</info>
+<info gid="2475453481" type="Number of episodes">164</info>
+<info gid="2453786689" type="Vintage">1989-01-14 to 1992-09-26</info>
+<info gid="1434410465" type="Opening Theme">#1: &quot;Bai YaiYai -Obocchama-kun no Theme-&quot; (ぶぁいYaiYai-おぼっちゃまくんのテーマ-) by Ingurimonguri</info>
+<info gid="2751200765" type="Opening Theme">#2: &quot;Chama-sama&quot; (茶魔さま) by Yoshitake Tanaka</info>
+<info gid="2347296243" type="Ending Theme">#1: &quot;Ichidodake I LOVE YOU -Samayo-chan ni Sasageru Uta-&quot; (一度だけI LOVE YOU-沙麻代ちゃんに捧げるうた-) by Ingurimonguri</info>
+<info gid="3164989159" type="Ending Theme">#2: &quot;Yōshanaku Itoshite&quot; (容赦なく愛して) by Risa Honda</info>
+<info gid="2130557332" type="Ending Theme">#3: &quot;EVERYBODY〜YOU ARE THE ONLY ONE&quot; by BABY'S</info>
+<info gid="1965781357" type="Ending Theme">#4: &quot;Hello! Hello! Hello!&quot; by THE BELL'S</info>
+<info gid="2050561513" type="Ending Theme">#5: &quot;Mūn'na Kimochi wa o Senchi&quot; (む〜んな気持ちはおセンチ) by Mi-Ke</info>
+<info gid="2902015024" type="Ending Theme">#6: &quot;Go! Go! Hammer-chama [Count it Off]&quot; (GO! GO! ハマちゃま [COUNT IT OFF]) by Hammer ft. The Home Boy Chair</info>
+<episode num="1">
+<title part="A" gid="3515631046" lang="JA">minna. tomodachinko</title>
+<title part="B" gid="2168747714" lang="JA">omamori PANTSU</title></episode>
+<episode num="2">
+<title part="A" gid="2300467460" lang="JA">ii na KETSU buai !</title>
+<title part="B" gid="3539333205" lang="JA">MISUTAA obocchama</title></episode>
+<episode num="3">
+<title gid="3642104093" lang="JA">yuukai sarete sumimasen en</title></episode>
+<episode num="4">
+<title part="A" gid="764476564" lang="JA">mou benkyou ! sonna BANANA</title>
+<title part="B" gid="2102598838" lang="JA">okurimono ari ga TOMATO</title></episode>
+<episode num="5">
+<title part="A" gid="2567955365" lang="JA">fukurokouji kun oha youguruto</title>
+<title part="B" gid="2662750540" lang="JA">bokkun no ichi nichi</title></episode>
+<episode num="6">
+<title part="A" gid="1685260231" lang="JA">isago asa dai chan ai wo KURI</title>
+<title part="B" gid="3906764789" lang="JA">tomodachinko wa uchuu ai</title></episode>
+<episode num="7">
+<title part="A" gid="2609407422" lang="JA">omoide no okaachama</title>
+<title part="B" gid="3528410445" lang="JA">zekkou kamen sanjou buai</title></episode>
+<episode num="8">
+<title part="A" gid="3415081572" lang="JA">hekeke de senkyo !</title>
+<title part="B" gid="3918519049" lang="JA">gakkyuu iin wa chamaran</title></episode>
+<episode num="9">
+<title part="A" gid="1989646547" lang="JA">gurete yaru buai</title>
+<title part="B" gid="1198892816" lang="JA">yoru no gakkou wa osoroshi kko</title></episode>
+<episode num="10">
+<title gid="3255005679" lang="JA">CHAMANKAAMEN ! gobouka no himitsu</title></episode>
+<episode num="11">
+<title gid="3220207208" lang="JA">otasuke gundan sanjou ! otetsudai wa tanochinko</title></episode>
+<episode num="12">
+<title part="A" gid="1759228552" lang="JA">gekitotsu ! ai no MARASON</title>
+<title part="B" gid="2896235213" lang="JA">muda zukai wa ikemasen en</title></episode>
+<episode num="13">
+<title part="A" gid="1516983475" lang="JA">ochiburete suimasen en</title>
+<title part="B" gid="2524779413" lang="JA">tomodachinko tanjou hiwa</title></episode>
+<episode num="14">
+<title part="A" gid="2197197504" lang="JA">chamago wa sekai kyoutsuu go</title>
+<title part="B" gid="834693552" lang="JA">DOKUTAAMOO no kuroi wana</title></episode>
+<episode num="15">
+<title part="A" gid="2893308159" lang="JA">1 nen 3 kumi chama sensei</title>
+<title part="B" gid="2251796106" lang="JA">ougonshuukan binbo TSUAA</title></episode>
+<episode num="16">
+<title gid="1606949757" lang="JA">dai gyakuten ! obocchama tai binbocchama</title></episode>
+<episode num="17">
+<title part="A" gid="1414239004" lang="JA">zekkou kamen futatabi</title>
+<title part="B" gid="812945912" lang="JA">CHANSHII densetsu</title></episode>
+<episode num="18">
+<title part="A" gid="2264628764" lang="JA">utatte gomen na SAIN</title>
+<title part="B" gid="2686172455" lang="JA">shounen keikan chama KOPPU</title></episode>
+<episode num="19">
+<title part="A" gid="3141345699" lang="JA">yo-sha naki katei houmon</title>
+<title part="B" gid="1744360487" lang="JA">iede wa sabichinko</title></episode>
+<episode num="20">
+<title gid="2422294095" lang="JA">tensai chama ! kyoufu no sai narakkya bakudan</title></episode>
+<episode num="21">
+<title gid="2131946323" lang="JA">wakachama-kun ! edo jidai de HIIKORABAHIN</title></episode>
+<episode num="22">
+<title gid="1299723099" lang="JA">o, otta ma GETA ! hekeke nao chichichama</title></episode>
+<episode num="23">
+<title gid="3009773618" lang="JA">moeyo tomodachi ken ! ikari no kakutou RINGU</title></episode>
+<episode num="24">
+<title gid="1311355641" lang="JA">shonna BANANA ? kono yo ni sai narakki ?</title></episode>
+<episode num="25">
+<title gid="1555415862" lang="JA">okane no kireme ga zekko-mon buai !</title></episode>
+<episode num="26">
+<title gid="4110620973" lang="JA">dai bua kuhatsu ! oku yuka shiri no geijutsu ka</title></episode>
+<episode num="27">
+<title gid="2915231739" lang="JA">hegehege ho MECHARAKUCHARA dai pawaa</title></episode>
+<episode num="28">
+<title part="A" gid="2287976728" lang="JA">hekya~shu ! yo-sha naku kibishii tatakai</title>
+<title part="B" gid="2973477567" lang="JA">FAMIRII chamakun</title></episode>
+<episode num="29">
+<title gid="885163563" lang="JA">OTOKO wa KYANPU de HEBOGUROBI~ !</title></episode>
+<episode num="30">
+<title gid="1351042532" lang="JA">ari ga TAMA ari ga tamatamapaati tengoku</title></episode>
+<episode num="31">
+<title part="A" gid="965945669" lang="JA">gametsui na wa uretsui na</title>
+<title part="B" gid="2342757444" lang="JA">hin ho ka natsu tsuushin</title></episode>
+<episode num="32">
+<title gid="2619441967" lang="JA">odorokinta ! maa zekkou kamen 2 gou toujou ?</title></episode>
+<episode num="33">
+<title gid="2795860167" lang="JA">yuurei senda yo OUMAIGACCHOU !</title></episode>
+<episode num="34">
+<title gid="2895869052" lang="JA">PETTO sensou boppatsu ! PIEERU en no satogaeri</title></episode>
+<episode num="35">
+<title gid="1078955723" lang="JA">gobou ka TONGARI densetsu ! oomono wa tsuraka buai</title></episode>
+<episode num="36">
+<title gid="3173551845" lang="JA">bijokko dai sakusen wa DAMEDAME DANSU !</title></episode>
+<episode num="37">
+<title part="A" gid="2278018328" lang="JA">toboke na SANTA no shinhannin</title>
+<title part="B" gid="2032864862" lang="JA">deta ! morodashi-kun</title></episode>
+<episode num="38">
+<title part="A" gid="1815838860" lang="JA">nante honetai ! kurikuri yama de HIIKORABAFUN</title>
+<title part="B" gid="3942393591" lang="JA">tanuki de obocchama-kun</title></episode>
+<episode num="39">
+<title gid="1859473695" lang="JA">hekeke no kebyou de oBENKI deshakaa !</title></episode>
+<episode num="40">
+<title part="A" gid="831687858" lang="JA">oYOME ni onigashima~su</title>
+<title part="B" gid="1860416905" lang="JA">debucchama-kun</title></episode>
+<episode num="41">
+<title gid="790700968" lang="JA">KISHUKISSHU ! fubuki no naka de tomodachinko</title></episode>
+<episode num="42">
+<title gid="2177406125" lang="JA">PANDA kono yaro ? ! HAWAI de atama ni kitahankyuu</title></episode>
+<episode num="43">
+<title gid="3184086814" lang="JA">he ga go~shi ? ! honoo no CHAMASAPIENSU monogatari</title></episode>
+<episode num="44">
+<title part="A" gid="2257834812" lang="JA">akemashite omedeta makin</title>
+<title part="B" gid="837245475" lang="JA">hekeke na kyoudai !</title></episode>
+<episode num="45">
+<title gid="2485330992" lang="JA">jou kametai ! KAMEKAMEKAME no KAME hen bua~i</title></episode>
+<episode num="46">
+<title gid="3058053773" lang="JA">hemi ? oyako de PEROPERO yo~sha naku aishite</title></episode>
+<episode num="47">
+<title part="A" gid="1695993013" lang="JA">DACHOU de OUMAIGACCHO</title>
+<title part="B" gid="2553506433" lang="JA">karee na taiketsu</title></episode>
+<episode num="48">
+<title part="A" gid="1496178075" lang="JA">KIKEN na yoru kamo !</title>
+<title part="B" gid="2171172180" lang="JA">okuokuhirotta 1 oku en</title></episode>
+<episode num="49">
+<title part="A" gid="1621209236" lang="JA">herya !? matamo moro da shi kimi</title>
+<title part="B" gid="2330495384" lang="JA">yamete chin mage</title></episode>
+<episode num="50">
+<title part="A" gid="2939411131" lang="JA">hepo~n ! tenkou CHIITA</title>
+<title part="B" gid="475431518" lang="JA">tomodachinko BEIBII</title></episode>
+<episode num="51">
+<title gid="1006850711" lang="JA">chamachama dai henshin ? fuzaken ja NEEKO !</title></episode>
+<episode num="52">
+<title gid="851517062" lang="JA">densha de ! SHINKURONAIZUDO suiminbusoku</title></episode>
+<episode num="53">
+<title part="A" gid="1269641003" lang="JA">chamako makeru MONAKA</title>
+<title part="B" gid="3089605593" lang="JA">hega~shi ? ! kami KURI</title></episode>
+<episode num="54">
+<title gid="2826796475" lang="JA">KOKOA doko wagashi wa dare ? aruku shoukin 10 oku en !</title></episode>
+<episode num="55">
+<title gid="1918860361" lang="JA">burei MOMO ! FUN okoshi 1 ban yo-shai naki HOTERU</title></episode>
+<episode num="56">
+<title part="A" gid="1172015612" lang="JA">henchin ! kamen CHAMADAA</title>
+<title part="B" gid="3175778912" lang="JA">BUSUKKO BANZAI</title></episode>
+<episode num="57">
+<title part="A" gid="1665879023" lang="JA">tasukete chin mage</title>
+<title part="B" gid="1365618956" lang="JA">okodukai ga TARANCHURA</title></episode>
+<episode num="58">
+<title gid="3878065086" lang="JA">daininki ! BAKAYAROKKUNROURU de HEPO~N</title></episode>
+<episode num="59">
+<title part="A" gid="3045897804" lang="JA">HII!! ninja kori wa ?</title>
+<title part="B" gid="2348931899" lang="JA">gehin de go zaso-ro-</title></episode>
+<episode num="60">
+<title gid="981134152" lang="JA">shinju rarena-i ? KAME no wakusei de he-hekekya</title></episode>
+<episode num="61">
+<title part="A" gid="2533991513" lang="JA">DAMEDAMEDAME no DAME DANSU</title>
+<title part="B" gid="2029628280" lang="JA">kin-chan monogatari</title></episode>
+<episode num="62">
+<title part="A" gid="2364049877" lang="JA">zenbu marugoto mora enka</title>
+<title part="B" gid="2473209761" lang="JA">dosukoi ! ii na KETSU</title></episode>
+<episode num="63">
+<title gid="3082467219" lang="JA">hemi ? hekyashu banashi de TAKUWAN de shimauma ?</title></episode>
+<episode num="64">
+<title gid="2093208821" lang="JA">anta da rei ? hekeke na RETTSU GOUSUTO !</title></episode>
+<episode num="65">
+<title gid="2352127354" lang="JA">MOO ushi KUESUCHON ! GEEMU no naka wa daikon ran</title></episode>
+<episode num="66">
+<title gid="1551852383" lang="JA">otta ma GETA ! akazu no ma de konni CHIWAWA</title></episode>
+<episode num="67">
+<title part="A" gid="2309939188" lang="JA">anta no yu-koto nanka kikan sha</title>
+<title part="B" gid="2173095431" lang="JA">hekeke PARI</title></episode>
+<episode num="68">
+<title gid="3268641040" lang="JA">he -hekekya ! hin ho no kinko ga nusumare TANSU ?</title></episode>
+<episode num="69">
+<title part="A" gid="1131302471" lang="JA">otta ma GETA GETA !</title>
+<title part="B" gid="1661789211" lang="JA">jama chama</title></episode>
+<episode num="70">
+<title gid="2928617298" lang="JA">erai koucha ! ochichi-chama no yo-sha naki himitsu</title></episode>
+<episode num="71">
+<title part="A" gid="2466649018" lang="JA">tomodachinko RARABAI !</title>
+<title part="B" gid="2213396802" lang="JA">sanrinsha de OUMAIGACCHO ?</title></episode>
+<episode num="72">
+<title part="A" gid="1860604795" lang="JA">hoken shitsu ? nameton no KAIWARE !</title>
+<title part="B" gid="3202158277" lang="JA">hekeke no ke</title></episode>
+<episode num="73">
+<title part="A" gid="2064480266" lang="JA">kagayake seishun GURAFITI</title>
+<title part="B" gid="2266876005" lang="JA">morashite TAMA ruka</title></episode>
+<episode num="74">
+<title gid="1678386120" lang="JA">mou benkyou ! nani ga nandaka SAPPARIWAKAMERAAMEN</title></episode>
+<episode num="75">
+<title part="A" gid="3630114156" lang="JA">koi no kisetsu KAME hen buai</title>
+<title part="B" gid="3618365094" lang="JA">isago asa dai ROBO dai shuugou</title></episode>
+<episode num="76">
+<title gid="2880487041" lang="JA">PANDA kori wa ? uchuu no hate kara OUCHINCHIN</title></episode>
+<episode num="77">
+<title gid="1855327498" lang="JA">HEKEKE no kokoro de DOKUROU-sama deshi ? !</title></episode>
+<episode num="78">
+<title gid="835369152" lang="JA">HEPOPOPO～N ! ojousama wa semai no ga osuki</title></episode>
+<episode num="79">
+<title part="A" gid="1430800328" lang="JA">genkijirushi wa oha YOUGURUTO</title>
+<title part="B" gid="3394240431" lang="JA">motto oKUREYON</title></episode>
+<episode num="80">
+<title gid="897583174" lang="JA">ure PIGYAASU ! anata no oshiri mo PIKKAPIKA</title></episode>
+<episode num="81">
+<title part="A" gid="3561707145" lang="JA">baa-chama daisuki</title>
+<title part="B" gid="1872887575" lang="JA">MOGEE ! chama go REESU</title></episode>
+<episode num="82">
+<title gid="2152380593" lang="JA">hemi ? amaenbou shougun !</title></episode>
+<episode num="83">
+<title gid="1602666380" lang="JA">nande SHIKA sori ? hego ! ai no PEROPEROKOURU</title></episode>
+<episode num="84">
+<title gid="838552496" lang="JA">sennyuu shirei ! OUDISHON de konban WAIN</title></episode>
+<episode num="85">
+<title part="A" gid="1485046499" lang="JA">teiou wa DOJJI cchi ?</title>
+<title part="B" gid="2078213575" lang="JA">shukudai NOKKUAUTO sakusen</title></episode>
+<episode num="86">
+<title gid="1814894623" lang="JA">chikyuu saigo no hi ? HARAHOROHIREHAREE suisei !</title></episode>
+<episode num="87">
+<title gid="1597316677" lang="JA">shoe- ! ojauchama-kun !?</title></episode>
+<episode num="88">
+<title part="A" gid="2801661180" lang="JA">wasuremono TOPPUGAN !</title>
+<title part="B" gid="1495429974" lang="JA">CHOKO n sho yoroshiku</title></episode>
+<episode num="89">
+<title part="A" gid="1167187781" lang="JA">kono MIRUKU mo no !</title>
+<title part="B" gid="2784929680" lang="JA">aa mujou ! hin ho ka houkai</title></episode>
+<episode num="90">
+<title part="A" gid="2975753006" lang="JA">sekai saikou saitei no tatakai</title>
+<title part="B" gid="2447000583" lang="JA">ai to meiyo to YOME sa ga shi</title></episode>
+<episode num="91">
+<title part="A" gid="1495399593" lang="JA">oyatsu ga TARANCHURA</title>
+<title part="B" gid="1347579249" lang="JA">kyuushoku oba-chan zu</title></episode>
+<episode num="92">
+<title part="A" gid="1566163525" lang="JA">hebi ! aoge ba toutoshi itoshi no hito</title>
+<title part="B" gid="1906160442" lang="JA">jishin gaman gaman</title></episode>
+<episode num="93">
+<title part="A" gid="1859899287" lang="JA">fushigi SAAKURU</title>
+<title part="B" gid="218669065" lang="JA">osoro SHIKKO ! kyoufu no onibaba</title></episode>
+<episode num="94">
+<title part="A" gid="2868919842" lang="JA">zettaizetsumei dai PINCHI ponchi !</title>
+<title part="B" gid="2722640732" lang="JA">namida namida no BAASUDEE</title></episode>
+<episode num="95">
+<title gid="2131904295" lang="JA">dai HAADO na shitsuren DANSU PAATII !</title></episode>
+<episode num="96">
+<title gid="3302696506" lang="JA">RETTSUGOUSUTO ! reikai bouken wa omoshi REEKAI ?</title></episode>
+<episode num="97">
+<title gid="2650424213" lang="JA">hekyasshu niku kin chokin ! DONTO otta ma geta</title></episode>
+<episode num="98">
+<title part="A" gid="1681406258" lang="JA">PAJAMA de i-kamo !</title>
+<title part="B" gid="3394027059" lang="JA">shiawase no shiroi HANKACHI</title></episode>
+<episode num="99">
+<title part="A" gid="2559274223" lang="JA">gochama ka no zaihou</title>
+<title part="B" gid="2349195113" lang="JA">hajimemashite munna kimochi</title></episode>
+<episode num="100">
+<title gid="2092509356" lang="JA">fushigi mahou ! konna ko toshite enkai ?</title></episode>
+<episode num="101">
+<title part="A" gid="2518973078" lang="JA">hebi ! sori wa hon tokei ?</title>
+<title part="B" gid="3329995104" lang="JA">hin ho namida no ARUBAMU</title></episode>
+<episode num="102">
+<title part="A" gid="419804861" lang="JA">KUIZU no ou chama</title>
+<title part="B" gid="527604536" lang="JA">kyoufu no PEROPERO minna kanji</title></episode>
+<episode num="103">
+<title part="A" gid="1964615287" lang="JA">tomodachinko orusuban ?</title>
+<title part="B" gid="2526356770" lang="JA">ai to seishun no gyaku nobori</title></episode>
+<episode num="104">
+<title part="A" gid="1408577165" lang="JA">HEGOU ! chama KOPPU II</title>
+<title part="B" gid="1877762841" lang="JA">owa KAREERAISU</title></episode>
+<episode num="105">
+<title gid="2459916577" lang="JA">habikorobi- hashire ! oCHAMEROSU</title></episode>
+<episode num="106">
+<title gid="2338298311" lang="JA">FUN korobi hachi oki ! AIRABU hin ho</title></episode>
+<episode num="107">
+<title gid="3281011346" lang="JA">HEBI de GABYON ! osoroshikko juudoubu</title></episode>
+<episode num="108">
+<title part="A" gid="3603213463" lang="JA">KOMACCHIITA</title>
+<title part="B" gid="4036283084" lang="JA">fukurokouji no BAAGAA yarou</title></episode>
+<episode num="109">
+<title gid="1072246717" lang="JA">dai chouhen hekeke na uchuu de HEPO~N. zenpen</title></episode>
+<episode num="110">
+<title gid="1869928096" lang="JA">dai chouhen hekeke na uchuu de HEPO~N. kouhen</title></episode>
+<episode num="111">
+<title gid="1774548293" lang="JA">shi gyabi ? ! iede meromeromeron</title></episode>
+<episode num="112">
+<title part="A" gid="879279830" lang="JA">nanka niou zou</title>
+<title part="B" gid="2552575078" lang="JA">hebi ! bare TANKAA</title></episode>
+<episode num="113">
+<title part="A" gid="1600400353" lang="JA">heke ! hon makai na ?</title>
+<title part="B" gid="3286235053" lang="JA">ARI ARI ari ?</title></episode>
+<episode num="114">
+<title gid="3347625120" lang="JA">dosukoi MIBORIN ! chi-to KASUTANETTO</title></episode>
+<episode num="115">
+<title part="A" gid="2150387951" lang="JA">mu-nna nichiyoubi</title>
+<title part="B" gid="1578731754" lang="JA">you KOSHOU koko ni</title></episode>
+<episode num="116">
+<title gid="804798274" lang="JA">HEPOUN matamata chama bi ? sou kamome</title></episode>
+<episode num="117">
+<title gid="2950216987" lang="JA">dokkin ! konna bijin de sumimasen en</title></episode>
+<episode num="118">
+<title part="A" gid="2284227336" lang="JA">GIE ! anta da rei</title>
+<title part="B" gid="1442612994" lang="JA">RICCHI wa yame tenka</title></episode>
+<episode num="119">
+<title gid="1618370225" lang="JA">habikorobi- ! inochi SHIRASU no tomodachinko</title></episode>
+<episode num="120">
+<title gid="2760815813" lang="JA">erai koucha ! koko de atta ga hyaku en dama</title></episode>
+<episode num="121">
+<title part="A" gid="2084680126" lang="JA">OU ! BYUUTI furo</title>
+<title part="B" gid="2235772659" lang="JA">nanishi tennyo ?</title></episode>
+<episode num="122">
+<title gid="1022228311" lang="JA">odoroki MANMOSU ! abuna KADABURABURA</title></episode>
+<episode num="123">
+<title part="A" gid="1514257396" lang="JA">zettai ni KATSU donburi</title>
+<title part="B" gid="681465541" lang="JA">kono MIRUKU mo nome</title></episode>
+<episode num="124">
+<title gid="411879751" lang="JA">atama ni kaki no ki ? sonna koto a KYANDEE</title></episode>
+<episode num="125">
+<title part="A" gid="2758357062" lang="JA">HEBI ? nakayoshi KOYASHI</title>
+<title part="B" gid="873593231" lang="JA">nanka fu KITSUNE</title></episode>
+<episode num="126">
+<title gid="2186359473" lang="JA">yame tenka ! chuushingura nante ikemasen zo</title></episode>
+<episode num="127">
+<title part="A" gid="2182678350" lang="JA">DOKKIN bokin ?</title>
+<title part="B" gid="1915697079" lang="JA">MOU ! yurushi ma senpuuki</title></episode>
+<episode num="128">
+<title part="A" gid="2305292235" lang="JA">sekigae ? ii KAMOME</title>
+<title part="B" gid="1563231376" lang="JA">mu-nna tegami</title></episode>
+<episode num="129">
+<title gid="1225140621" lang="JA">OUNOU ! chinrei shashin de YUUREI HOU</title></episode>
+<episode num="130">
+<title part="A" gid="1719199242" lang="JA">ANAKUROBII</title>
+<title part="B" gid="2669016314" lang="JA">IEE ! notte BASU ka</title></episode>
+<episode num="131">
+<title part="A" gid="707012619" lang="JA">minde MUUN na oshougatsu</title>
+<title part="B" gid="2148890324" lang="JA">boushi mashi ta ?</title></episode>
+<episode num="132">
+<title gid="1734260609" lang="JA">shi gyapi- ! nanto kashite GOZAURUSU</title></episode>
+<episode num="133">
+<title gid="1071456354" lang="JA">he-i KAMO jo ! ai shiatteru kai ?</title></episode>
+<episode num="134">
+<title part="A" gid="1407403552" lang="JA">KENKA wa yame tendon</title>
+<title part="B" gid="1322001813" lang="JA">kono sekken shirazu</title></episode>
+<episode num="135">
+<title part="A" gid="1838298370" lang="JA">heke ! kon ni CHIKUWA</title>
+<title part="B" gid="1284143092" lang="JA">odenki desha ka</title></episode>
+<episode num="136">
+<title gid="1067190554" lang="JA">nante hone tai ! kono UNAGI ri mo nome-</title></episode>
+<episode num="137">
+<title gid="3122148104" lang="JA">koisuru fukurokouji kun ! sori wa hon tokei ?</title></episode>
+<episode num="138">
+<title gid="1783044700" lang="JA">kage chama SHIRIIZU ten no maki hikari to kage</title></episode>
+<episode num="139">
+<title gid="2290508020" lang="JA">kage chama SHIRIIZU chi no maki dasshutsu !!</title></episode>
+<episode num="140">
+<title gid="640274032" lang="JA">kage chama SHIRIIZU owari no maki fukkatsu !!</title></episode>
+<episode num="141">
+<title part="A" gid="3104168970" lang="JA">hemi ? happa 64</title>
+<title part="B" gid="892204036" lang="JA">wao ! banji kyuusu</title></episode>
+<episode num="142">
+<title gid="3088828065" lang="JA">shi gyapi-- !! nani shiya ga RUNBA</title></episode>
+<episode num="143">
+<title gid="2914540175" lang="JA">hara hettabu ?i ! nanka KUREOPATORA</title></episode>
+<episode num="144">
+<title gid="1509510263" lang="JA">hemi ? isago asa dai chan wo shiri ma SENBEI</title></episode>
+<episode num="145">
+<title gid="2383649795" lang="JA">obenkyou shiro tte ? SOREMONSOUDA ne</title></episode>
+<episode num="146">
+<title gid="2671856517" lang="JA">koko wa dokan ! MONKII aru ka</title></episode>
+<episode num="147">
+<title gid="832753793" lang="JA">ninja ha tsura KAANEESHON !</title></episode>
+<episode num="148">
+<title part="A" gid="2072665017" lang="JA">mirai kara kon ni CHIWAWA</title>
+<title part="B" gid="2493303646" lang="JA">akkanbo ?</title></episode>
+<episode num="149">
+<title gid="2533096532" lang="JA">uchuujin ? nani CHIAAGAARU !</title></episode>
+<episode num="150">
+<title gid="2642407564" lang="JA">genshi jin nante shiran PURIN</title></episode>
+<episode num="151">
+<title part="A" gid="2265516558" lang="JA">bokkun jishin manman</title>
+<title part="B" gid="1393775768" lang="JA">nanka yara sensha i</title></episode>
+<episode num="152">
+<title gid="1927900049" lang="JA">shinbun haitatsu ? kono sekken shirazu me</title></episode>
+<episode num="153">
+<title gid="1093186527" lang="JA">chiisana shinsetsu ! ookina oKETSU ?</title></episode>
+<episode num="154">
+<title part="A" gid="1133690583" lang="JA">kyuuryoubi wa ure CHINKO</title>
+<title part="B" gid="1687096841" lang="JA">gori- ha na ijin</title></episode>
+<episode num="155">
+<title gid="1012582955" lang="JA">kaijuu ? KARUMEN shite KURIKURI</title></episode>
+<episode num="156">
+<title gid="3127814303" lang="JA">yubi kiri genmai cha ? maru wa YAKAN !</title></episode>
+<episode num="157">
+<title part="A" gid="2803867493" lang="JA">okoucha IYAIYA</title>
+<title part="B" gid="741839840" lang="JA">nanishi ya ga RUNBA !</title></episode>
+<episode num="158">
+<title gid="1855684663" lang="JA">toumei ningen ? yoku ii MANGA na</title></episode>
+<episode num="159">
+<title gid="2119579921" lang="JA">yuukai ? sonna wake ga MAKAROUNI</title></episode>
+<episode num="160">
+<title part="A" gid="2548084985" lang="JA">goyou da taihou suru</title>
+<title part="B" gid="2282747338" lang="JA">anta ga TAISOU !</title></episode>
+<episode num="161">
+<title gid="2016352142" lang="JA">bokkun, okoori mashuyo- !</title></episode>
+<episode num="162">
+<title gid="562899163" lang="JA">atama ni ougon ? sonna koto aruke-</title></episode>
+<episode num="163">
+<title gid="2795520102" lang="JA">dai bouken ! zekkai no chikyuu ou. zenpen</title></episode>
+<episode num="164">
+<title gid="1308089050" lang="JA">dai bouken ! zekkai no chikyuu ou. kouhen</title></episode>
+<staff gid="2239827427"><task>Director</task><person id="6686">Tetsuo Yasumi</person></staff>
+<staff gid="3019844313"><task>Script</task><person id="176">Akira Okeya</person></staff>
+<staff gid="1255266410"><task>Script</task><person id="713">Akitaro Daichi</person></staff>
+<staff gid="1991831208"><task>Script</task><person id="6686">Tetsuo Yasumi</person></staff>
+<staff gid="3079817688"><task>Script</task><person id="8728">Satoru Nishizono</person></staff>
+<staff gid="2193431329"><task>Script</task><person id="15743">Akiko Matsushima</person></staff>
+<staff gid="2516548169"><task>Script</task><person id="25743">Saburo Ebinuma</person></staff>
+<staff gid="2301396382"><task>Script</task><person id="30823">Toshiro Oyama</person></staff>
+<staff gid="2835667299"><task>Script</task><person id="50413">Michiyo Kubota</person></staff>
+<staff gid="2193414236"><task>Script</task><person id="62248">Ayuko Anzai</person></staff>
+<staff gid="2341673419"><task>Script</task><person id="75853">Kouji Tanaka</person></staff>
+<staff gid="2199373012"><task>Script</task><person id="84964">Takashi Nishimura</person></staff>
+<staff gid="3225893866"><task>Script</task><person id="109972">Yūichi Shinpo</person></staff>
+<staff gid="2492240810"><task>Script</task><person id="110276">Masaaki Sakurai</person></staff>
+<staff gid="3444510629"><task>Script</task><person id="141596">Hiroko Takayama</person></staff>
+<staff gid="1646763262"><task>Script</task><person id="141597">Yasuo Takajima</person></staff>
+<staff gid="2588061888"><task>Script</task><person id="141598">Risaku Kiridōshi</person></staff>
+<staff gid="1950405448"><task>Storyboard</task><person id="512">Shinichi Watanabe</person></staff>
+<staff gid="2523530974"><task>Storyboard</task><person id="713">Akitaro Daichi</person></staff>
+<staff gid="1984306122"><task>Storyboard</task><person id="1468">Yuji Mutoh</person></staff>
+<staff gid="3416064582"><task>Storyboard</task><person id="3023">Hiromichi Matano</person></staff>
+<staff gid="2163587838"><task>Storyboard</task><person id="3260">Ryo Yasumura</person></staff>
+<staff gid="1089505919"><task>Storyboard</task><person id="3335">Fumio Ikeno</person></staff>
+<staff gid="547919999"><task>Storyboard</task><person id="3613">Johei Matsuura</person></staff>
+<staff gid="2350138592"><task>Storyboard</task><person id="5846">Tetsuji Takayanagi</person></staff>
+<staff gid="1548219733"><task>Storyboard</task><person id="6686">Tetsuo Yasumi</person></staff>
+<staff gid="1388574560"><task>Storyboard</task><person id="10696">Yoshio Suzuki</person></staff>
+<staff gid="2390765568"><task>Storyboard</task><person id="10990">Susumu Ishizaki</person></staff>
+<staff gid="3693524601"><task>Storyboard</task><person id="11433">Masayuki Oozeki</person></staff>
+<staff gid="510502940"><task>Storyboard</task><person id="12548">Tsutomu Yabuki</person></staff>
+<staff gid="2336955582"><task>Storyboard</task><person id="12882">Takuji Endo</person></staff>
+<staff gid="2133615256"><task>Storyboard</task><person id="13904">Yuki Kinoshita</person></staff>
+<staff gid="1388797034"><task>Storyboard</task><person id="15743">Akiko Matsushima</person></staff>
+<staff gid="2267889748"><task>Storyboard</task><person id="16034">Masato Sato</person></staff>
+<staff gid="934393528"><task>Storyboard</task><person id="21951">Sachio Suzuki</person></staff>
+<staff gid="1621918040"><task>Storyboard</task><person id="30607">Hiroshi Kawashima</person></staff>
+<staff gid="1915880091"><task>Storyboard</task><person id="32180">Yorimichi Nakano</person></staff>
+<staff gid="2264202250"><task>Storyboard</task><person id="32213">Yoshito Hata</person></staff>
+<staff gid="2820798576"><task>Storyboard</task><person id="42917">Takashi Kobayashi</person></staff>
+<staff gid="1464787259"><task>Storyboard</task><person id="46913">Koichi Fujiwara</person></staff>
+<staff gid="3378011523"><task>Storyboard</task><person id="90386">Takechika Narikawa</person></staff>
+<staff gid="1917764781"><task>Storyboard</task><person id="95690">Kiichi Suzuki</person></staff>
+<staff gid="1965756239"><task>Storyboard</task><person id="105533">Masuo Ani</person></staff>
+<staff gid="1973253660"><task>Storyboard</task><person id="109972">Yūichi Shinpo</person></staff>
+<staff gid="2767058444"><task>Storyboard</task><person id="137689">Chinami Nanba</person></staff>
+<staff gid="3401381729"><task>Storyboard</task><person id="141599">Kiyotaka Kanchiku</person></staff>
+<staff gid="1176844409"><task>Storyboard</task><person id="141600">Koichi Nagaoka</person></staff>
+<staff gid="73117479"><task>Storyboard</task><person id="141601">Masa Yamao</person></staff>
+<staff gid="1055115162"><task>Storyboard</task><person id="141602">Shizuka Ogata</person></staff>
+<staff gid="3292340084"><task>Storyboard</task><person id="141603">Kei Hayashi</person></staff>
+<staff gid="3273201769"><task>Storyboard</task><person id="141604">Yoshihiro Aida</person></staff>
+<staff gid="2685862314"><task>Storyboard</task><person id="141605">Uchikura Inuno</person></staff>
+<staff gid="4240996247"><task>Music</task><person id="62252">Keita Miyahara</person></staff>
+<staff gid="1354531779"><task>Original creator</task><person id="125908">Yoshinori Kobayashi</person></staff>
+<staff gid="903094399"><task>Character Design</task><person id="73017">Munekatsu Fujita</person></staff>
+<staff gid="2070398864"><task>Art Director</task><person id="122613">Takehiko Uchida</person></staff>
+<staff gid="1031392752"><task>Animation Director</task><person id="1035">Tadashi Nakamura</person></staff>
+<staff gid="3213606186"><task>Animation Director</task><person id="5879">Akira Takeuchi</person></staff>
+<staff gid="1127991942"><task>Animation Director</task><person id="6683">Masayuki Onji</person></staff>
+<staff gid="2025811837"><task>Animation Director</task><person id="10959">Akira Shimizu</person></staff>
+<staff gid="2318829561"><task>Animation Director</task><person id="11668">Kiyoshi Matsumoto</person></staff>
+<staff gid="864320589"><task>Animation Director</task><person id="12445">Satoshi Ohsawa</person></staff>
+<staff gid="2805776078"><task>Animation Director</task><person id="13904">Yuki Kinoshita</person></staff>
+<staff gid="3305940004"><task>Animation Director</task><person id="14344">Katsuma Kanazawa</person></staff>
+<staff gid="2180765670"><task>Animation Director</task><person id="15217">Sawako Yamamoto</person></staff>
+<staff gid="2145638584"><task>Animation Director</task><person id="16034">Masato Sato</person></staff>
+<staff gid="1656989144"><task>Animation Director</task><person id="21361">Akio Kawamura</person></staff>
+<staff gid="3307204067"><task>Animation Director</task><person id="21362">Kumiko Shishido</person></staff>
+<staff gid="2469048206"><task>Animation Director</task><person id="22432">Shinichiro Takagi</person></staff>
+<staff gid="1551199316"><task>Animation Director</task><person id="23217">Osamu Komurai</person></staff>
+<staff gid="2274079402"><task>Animation Director</task><person id="23928">Katsumi Ohnishi</person></staff>
+<staff gid="2791182791"><task>Animation Director</task><person id="24777">Nobukazu Sakuma</person></staff>
+<staff gid="1281653186"><task>Animation Director</task><person id="25317">Yutaka Arai</person></staff>
+<staff gid="1502075409"><task>Animation Director</task><person id="30039">Maki Fujita</person></staff>
+<staff gid="1727747635"><task>Animation Director</task><person id="31417">Tatsuya Furukawa</person></staff>
+<staff gid="946470749"><task>Animation Director</task><person id="32482">Seiichi Goto</person></staff>
+<staff gid="1962082406"><task>Animation Director</task><person id="36060">Ryoko Hata</person></staff>
+<staff gid="2771948793"><task>Animation Director</task><person id="39143">Shizuo Kawai</person></staff>
+<staff gid="2735199561"><task>Animation Director</task><person id="39273">Katsuhiko Yamazaki</person></staff>
+<staff gid="3059854055"><task>Animation Director</task><person id="50774">Tamotsu Tomaru</person></staff>
+<staff gid="2334675506"><task>Animation Director</task><person id="65833">Osamu Kamijō</person></staff>
+<staff gid="1601974134"><task>Animation Director</task><person id="73017">Munekatsu Fujita</person></staff>
+<staff gid="1752876954"><task>Animation Director</task><person id="86822">Kouji Ishii</person></staff>
+<staff gid="2580789457"><task>Animation Director</task><person id="132264">Yuki Arai</person></staff>
+<staff gid="1103900088"><task>Animation Director</task><person id="141595">Atsushi Toba</person></staff>
+<staff gid="2379132098"><task>Animation Director</task><person id="141601">Masa Yamao</person></staff>
+<staff gid="2658525314"><task>Director of Photography</task><person id="7274">Tsuguo Ozawa</person></staff>
+<staff gid="3463812749"><task>Director of Photography</task><person id="9187">Jin Kaneko</person></staff>
+<staff gid="2228753647"><task>Director of Photography</task><person id="64033">Eiichiro Okamoto</person></staff>
+<staff gid="1894652816"><task>Producer</task><person id="42053">Junichi Kimura</person></staff>
+<staff gid="2298341527"><task>Producer</task><person id="68820">Sojiro Masuko</person></staff>
+<cast gid="2567100368" lang="JA"><role>Shūhei Kakino</role><person id="1012">Nozomu Sasaki</person></cast>
+<cast gid="2489519027" lang="JA"><role>Taizō Binbo</role><person id="1172">Rica Matsumoto</person></cast>
+<cast gid="2031983674" lang="JA"><role>Samayo Ojō</role><person id="1577">Maria Kawamura</person></cast>
+<cast gid="1104341166" lang="JA"><role>Kanemitsu Fukurokōji</role><person id="1581">Kazuyo Aoki</person></cast>
+<cast gid="2778510805" lang="JA"><role>Kamemitsu Obō</role><person id="1669">Banjou Ginga</person></cast>
+<cast gid="3436258165" lang="JA"><role>Chūzaemon Jiiya</role><person id="2173">Aruno Tahara</person></cast>
+<cast gid="2831543369" lang="JA"><role>Wakiko Obō</role><person id="2398">Miyuki Ichijou</person></cast>
+<cast gid="909129995" lang="JA"><role>Chama Obō</role><person id="16056">Kamiyo Chie</person></cast>
+<credit gid="715850062"><task>Animation Production</task><company id="8779">Shin-Ei Animation</company></credit></anime></ann>

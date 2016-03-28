@@ -1,0 +1,65 @@
+<ann><anime id="2458" gid="404736495" type="OAV" name="Mobile Suit SD Gundam" precision="OAV/movie" generated-on="2016-03-27T02:23:27Z">
+<related-prev rel="part of" id="2923"/>
+<related-next id="2967" rel="sequel"/>
+<related-next id="8477" rel="spinoff"/>
+<info gid="2219108830" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A2458-21.jpg" width="142" height="200"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A2458-21.jpg" width="142" height="200"/><img src="http://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A2458-21.jpg" width="213" height="300"/></info>
+<info gid="2439464957" type="Main title" lang="EN">Mobile Suit SD Gundam</info>
+<info gid="2797911250" type="Alternative title" lang="JA">Kidō Senshi SD Gundam</info>
+<info gid="3459256017" type="Alternative title" lang="EN">SD Gundam Mk. I</info>
+<info gid="3912756676" type="Alternative title" lang="JA">機動戦士SDガンダム</info>
+<info gid="2659009968" type="Genres">action</info>
+<info gid="61407244" type="Genres">comedy</info>
+<info gid="2240114321" type="Genres">science fiction</info>
+<info gid="568666315" type="Themes">mecha</info>
+<info gid="1036195996" type="Objectionable content">OC</info>
+<info gid="2632400352" type="Plot Summary">A collection of short parodies of the &lt;i&gt;Mobile Suit Gundam&lt;/i&gt; saga. Episode 1 pokes fun at key events that occurred during the One Year War. In episode 2, Amuro, Kamille and Judau fight over who runs the better pension when Char comes in to crash their party. Episode 3 is the SD Olympics, an array of athletic events pitting man with mobile suit.</info>
+<info gid="606661546" type="Running time">10</info>
+<info gid="3135943783" type="Number of episodes">3</info>
+<info type="Vintage">1988-03-12</info>
+<ratings nb_votes="99" weighted_score="6.3779" bayesian_score="6.5108"/>
+<episode num="1">
+<title gid="1058111555" lang="EN">Part 1: Fierce Fighting - Will Gundam Stand Up?</title></episode>
+<episode num="2">
+<title gid="372547651" lang="EN">Part 2: Day Off - Menace of the Zeon Hotel? Destruction Orders for the Gundam Pension!!</title></episode>
+<episode num="3">
+<title gid="2688303714" lang="EN">Part 3: Final Arena - SD Olympics! The Stadium Saturated with Laughs</title></episode>
+<staff gid="1743967482"><task>Director</task><person id="3154">Osamu Sekita</person></staff>
+<staff gid="1612810038"><task>Script</task><person id="1692">Hiroyuki Hoshiyama</person></staff>
+<staff gid="2026008441"><task>Episode Director</task><person id="3154">Osamu Sekita</person></staff>
+<staff gid="2181186128"><task>Music</task><person id="5547">Norimasa Yamanaka</person></staff>
+<staff gid="2471365106"><task>Original creator</task><person id="19">Hajime Yatate</person></staff>
+<staff gid="1399116750"><task>Original creator</task><person id="100">Yoshiyuki Tomino</person></staff>
+<staff gid="1873501720"><task>Character Design</task><person id="20262">Gen Sato</person></staff>
+<staff gid="1730751051"><task>Art Director</task><person id="8665">Mitsuharu Miyamae</person></staff>
+<staff gid="540504005"><task>Animation Director</task><person id="257">Hiroshi Watanabe</person></staff>
+<staff gid="2657676483"><task>Animation Director</task><person id="3026">Hiromi Matsushita</person></staff>
+<staff gid="1008136236"><task>Mechanical design</task><person id="20262">Gen Sato</person></staff>
+<staff gid="426127082"><task>Sound Director</task><person id="8069">Koichi Chiba</person></staff>
+<staff gid="2079329872"><task>Director of Photography</task><person id="1203">Atsushi Okui</person></staff>
+<staff gid="2773938457"><task>Producer</task><person id="4613">Hironori Nakagawa</person></staff>
+<cast gid="2469106861" lang="JA"><role>Emma Sheen</role><person id="302">Maya Okamoto</person></cast>
+<cast gid="2616679114" lang="JA"><role>Kamille Bidan</role><person id="666">Nobuo Tobita</person></cast>
+<cast gid="2226138310" lang="JA"><role>Zeta Gundam</role><person id="666">Nobuo Tobita</person></cast>
+<cast gid="3819473235" lang="JA"><role>Bright Noah</role><person id="699">Hirotaka Suzuoki</person></cast>
+<cast gid="2386754004" lang="JA"><role>Judau Ashta</role><person id="932">Kazuki Yao</person></cast>
+<cast gid="1652369561" lang="JA"><role>ZZ Gundam</role><person id="932">Kazuki Yao</person></cast>
+<cast gid="1220680211" lang="JA"><role>Sarah Zabiarov</role><person id="1004">Yuko Mizutani</person></cast>
+<cast gid="2513655697" lang="JA"><role>Mineva Zabi</role><person id="1010">Miki Itou</person></cast>
+<cast gid="1082827776" lang="JA"><role>Kai Shiden</role><person id="1011">Toshio Furukawa</person></cast>
+<cast gid="3637808790" lang="JA"><role>Char Aznable</role><person id="1014">Shuuichi Ikeda</person></cast>
+<cast gid="2779796584" lang="JA"><role>Char's Zaku</role><person id="1014">Shuuichi Ikeda</person></cast>
+<cast gid="2142393637" lang="JA"><role>Gelgoog</role><person id="1014">Shuuichi Ikeda</person></cast>
+<cast gid="3895426907" lang="JA"><role>Zeong</role><person id="1014">Shuuichi Ikeda</person></cast>
+<cast gid="2330731724" lang="JA"><role>Haman Khan</role><person id="1022">Yoshiko Sakakibara</person></cast>
+<cast gid="2123156946" lang="JA"><role>Amuro Ray</role><person id="1105">Tohru Furuya</person></cast>
+<cast gid="1701356675" lang="JA"><role>Gundam</role><person id="1105">Tohru Furuya</person></cast>
+<cast gid="2377119523" lang="JA"><role>Paptimus Scirocco</role><person id="1501">Bin Shimada</person></cast>
+<cast gid="2966091238" lang="JA"><role>Elpeo Ple</role><person id="1575">Chieko Honda</person></cast>
+<cast gid="1356902033" lang="JA"><role>Four Murasame</role><person id="1582">Saeko Shimazu</person></cast>
+<cast gid="183839927" lang="JA"><role>Lalah Sune</role><person id="2060">Keiko Han</person></cast>
+<cast gid="2563606609" lang="JA"><role>Haro</role><person id="2067">Sanae Takagi</person></cast>
+<cast gid="2751780604" lang="JA"><role>Mirai Yashima</role><person id="2176">Fuyumi Shiraishi</person></cast>
+<cast gid="497472509" lang="JA"><role>Frau Bow</role><person id="2435">Rumiko Ukai</person></cast>
+<cast gid="1460680052" lang="JA"><role>Sayla Mass</role><person id="3408">You Inoue</person></cast>
+<credit gid="1447683006"><task>Production</task><company id="34">Sunrise</company></credit>
+<credit gid="1596215188"><task>Production</task><company id="9991">Sotsu Co., Ltd.</company></credit></anime></ann>

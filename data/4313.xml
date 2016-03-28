@@ -1,0 +1,1457 @@
+<ann><anime id="4313" gid="2212459827" type="TV" name="Ninja Hattori-kun" precision="TV" generated-on="2016-03-27T02:02:17Z">
+<related-prev rel="adapted from" id="4314"/>
+<related-next id="4315" rel="sequel"/>
+<related-next id="14386" rel="related"/>
+<info gid="2965848622" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A4313-23.jpg" width="178" height="200"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A4313-23.jpg" width="178" height="200"/><img src="http://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A4313-23.jpg" width="240" height="270"/></info>
+<info gid="1160479007" type="Main title" lang="JA">Ninja Hattori-kun</info>
+<info gid="2677956696" type="Alternative title" lang="EN">Hattori el ninja</info>
+<info gid="2156929969" type="Alternative title" lang="EN">Hattori the Ninja</info>
+<info gid="1834568627" type="Alternative title" lang="EN">Hattori, the Little Ninja</info>
+<info gid="2928380502" type="Alternative title" lang="ES">Ninja Hattori</info>
+<info gid="2177390973" type="Alternative title" lang="IT">Nino, il mio amico ninja</info>
+<info gid="3285719696" type="Alternative title" lang="JA">忍者ハットリくん</info>
+<info gid="2666557009" type="Genres">action</info>
+<info gid="2625120947" type="Genres">comedy</info>
+<info gid="1475486097" type="Themes">ninja</info>
+<info gid="1593603352" type="Themes">talking animals</info>
+<info gid="667778282" type="Objectionable content">AA</info>
+<info gid="2906275506" type="Plot Summary">Kenichi is just an ordinary boy until he met Hattori who is a ninja. Because of his helpful nature, Hattori along with his brother Shinzo and his ninja-dog Shishimaru stayed in Kenichi's house and inevitably changes Kenichi's daily life with the infusion of the ninja background he comes from.</info>
+<info gid="1881200567" type="Running time">10</info>
+<info gid="3037376718" type="Number of episodes">694</info>
+<info gid="2102067194" type="Vintage">1981-09-28 to 1987-12-25</info>
+<info gid="2819589632" type="Vintage">2009-01-03 (Ecuador - Ecuavisa)</info>
+<info gid="1967505977" type="Opening Theme">&quot;Ninja Hattori-kun&quot; by Ayako Hori &amp; Columbia Yurikago-kai</info>
+<ratings nb_votes="27" weighted_score="6.3036" bayesian_score="6.69987"/>
+<episode num="1">
+<title gid="4136002261" lang="JA">sessha ! ninja de gozaru no maki</title></episode>
+<episode num="2">
+<title gid="2969670833" lang="JA">onore nikkuki sensei no maki</title></episode>
+<episode num="3">
+<title gid="2877422223" lang="JA">ARUBAITO no michi wa kibishii de gozaru no maki</title></episode>
+<episode num="4">
+<title gid="2964816981" lang="JA">jishi maru ni wa maitta de gozaru no maki</title></episode>
+<episode num="5">
+<title gid="2589658715" lang="JA">mokuhyou wa hyaku ten de gozaru no maki</title></episode>
+<episode num="6">
+<title gid="2079965814" lang="JA">ryouri wa makasete kudasare no maki</title></episode>
+<episode num="7">
+<title gid="2045442846" lang="JA">mita ka shitta ka HATTORI dahou no maki</title></episode>
+<episode num="8">
+<title gid="3853468203" lang="JA">kouga kara kita tenkousei no maki</title></episode>
+<episode num="9">
+<title gid="1532901304" lang="JA">SHINZOU-kun tadaima sanjou no maki</title></episode>
+<episode num="10">
+<title gid="2580478562" lang="JA">meiyo ka ifuku no maki</title></episode>
+<episode num="11">
+<title gid="621475761" lang="JA">SHINZOU-kun otsukai ni iku no maki</title></episode>
+<episode num="12">
+<title gid="2384281833" lang="JA">hen na okyaku de gozaru no maki</title></episode>
+<episode num="13">
+<title gid="2852009729" lang="JA">undoukai wa nigate de gozaru ka no maki</title></episode>
+<episode num="14">
+<title gid="1923432101" lang="JA">KENICHI shi wa mei KAMERAMAN no maki</title></episode>
+<episode num="15">
+<title gid="2600973949" lang="JA">namake byou wo naosu de gozaru no maki</title></episode>
+<episode num="16">
+<title gid="2056719323" lang="JA">UFO tte nan de gozaru ka no maki</title></episode>
+<episode num="17">
+<title gid="2372601885" lang="JA">ninpou kanashibari no maki</title></episode>
+<episode num="18">
+<title gid="237523403" lang="JA">benkyou wa jibun de yaraneba naranu no maki</title></episode>
+<episode num="19">
+<title gid="2150116007" lang="JA">SHINZOU kishi no maki</title></episode>
+<episode num="20">
+<title gid="2382357440" lang="JA">shuyaku ni naru no wa taihen de gozaru no maki</title></episode>
+<episode num="21">
+<title gid="2966333947" lang="JA">kuri hiroi soudou no maki</title></episode>
+<episode num="22">
+<title gid="2763033277" lang="JA">koko ga ninja yashiki de gozaru no maki</title></episode>
+<episode num="23">
+<title gid="1667833882" lang="JA">kieta shishi maru no maki</title></episode>
+<episode num="24">
+<title gid="487975063" lang="JA">chiisana aki mitsuketa no maki</title></episode>
+<episode num="25">
+<title gid="3691671464" lang="JA">sessha ! HAIKINGU ni okyou suru de gozaru no maki</title></episode>
+<episode num="26">
+<title gid="3702328127" lang="JA">onnagokoro wa muzukashii no maki</title></episode>
+<episode num="27">
+<title gid="656022974" lang="JA">kenshou ni tousen de gozaru no maki</title></episode>
+<episode num="28">
+<title gid="2815176475" lang="JA">furuike de TAI ga tsureta de gozaru no maki</title></episode>
+<episode num="29">
+<title gid="1047773693" lang="JA">otoshi nushi wa dare de gozaru no maki</title></episode>
+<episode num="30">
+<title gid="2119818774" lang="JA">PAPA-ue hayaku kaeru de gozaru no maki</title></episode>
+<episode num="31">
+<title gid="1584559768" lang="JA">KEMUMAKI mo nakanaka yaru de gozaru no maki</title></episode>
+<episode num="32">
+<title gid="2340113826" lang="JA">JAGAIMO ni wa maitta de gozaru no maki</title></episode>
+<episode num="33">
+<title gid="1577039159" lang="JA">wasuremono wo todokeru de gozaru no maki</title></episode>
+<episode num="34">
+<title gid="2303833977" lang="JA">PAPA-ue no genryou sakusen no maki</title></episode>
+<episode num="35">
+<title gid="2259287103" lang="JA">shinkansen kakurenbo no maki</title></episode>
+<episode num="36">
+<title gid="1983635717" lang="JA">koban ga ZAKUZAKU no maki</title></episode>
+<episode num="37">
+<title gid="669345465" lang="JA">SURAretara suri kaesu de gozaru no maki</title></episode>
+<episode num="38">
+<title gid="2071636076" lang="JA">ninpou ayatsuri NYANNYAN no maki</title></episode>
+<episode num="39">
+<title gid="2877929131" lang="JA">DOCCHIBORU ni natta shishi maru no maki</title></episode>
+<episode num="40">
+<title gid="2912840724" lang="JA">komori ni wa maitta de gozaru no maki</title></episode>
+<episode num="41">
+<title gid="3570167699" lang="JA">ninpou moguri kage ni chousen suru de gozaru no maki</title></episode>
+<episode num="42">
+<title gid="1997546108" lang="JA">ken neko docchi ga erai ka no maki</title></episode>
+<episode num="43">
+<title gid="1380385166" lang="JA">NINNIN to taeru ga ninja de gozaru no maki</title></episode>
+<episode num="44">
+<title gid="2105522929" lang="JA">suwa ! jishin de gozaru no maki</title></episode>
+<episode num="45">
+<title gid="3304329848" lang="JA">tokuDANE wo sagasu de gozaru no maki</title></episode>
+<episode num="46">
+<title gid="898096447" lang="JA">SUKEETOBOUDO wa dai soudou no maki</title></episode>
+<episode num="47">
+<title gid="3566778103" lang="JA">jishi maru no tabeta DAIYAMONDO no maki</title></episode>
+<episode num="48">
+<title gid="1534988961" lang="JA">mushiba wo yattsukeru de gozaru no maki</title></episode>
+<episode num="49">
+<title gid="325514920" lang="JA">ninpou koe tori mochi no maki</title></episode>
+<episode num="50">
+<title gid="1128573540" lang="JA">rusuban wa omakase de gozaru no maki</title></episode>
+<episode num="51">
+<title gid="2342360737" lang="JA">kakurenbo dai sakusen no maki</title></episode>
+<episode num="52">
+<title gid="1212699245" lang="JA">hi no youjin wa omakase kudasare no maki</title></episode>
+<episode num="53">
+<title gid="4063565177" lang="JA">SHIN-chan no PUREZENTO no maki</title></episode>
+<episode num="54">
+<title gid="2220425835" lang="JA">kaze ni goyoujin no maki</title></episode>
+<episode num="55">
+<title gid="2165566231" lang="JA">KAERU wa nigate de gozaru no maki</title></episode>
+<episode num="56">
+<title gid="947767534" lang="JA">20 ten wa doko e itta no maki</title></episode>
+<episode num="57">
+<title gid="1730934067" lang="JA">SHINZOU sensei wo komaraseru no maki</title></episode>
+<episode num="58">
+<title gid="2552663747" lang="JA">KEN'ichi-kun sora wo tobu no maki</title></episode>
+<episode num="59">
+<title gid="2738349656" lang="JA">ninpou USAGI no mimi no maki</title></episode>
+<episode num="60">
+<title gid="389748725" lang="JA">jishi maru wa tensai gaka no maki</title></episode>
+<episode num="61">
+<title gid="2093945831" lang="JA">korezo SHATTAACHANSU no maki</title></episode>
+<episode num="62">
+<title gid="803044053" lang="JA">machigatta okurimono no maki</title></episode>
+<episode num="63">
+<title gid="1820829961" lang="JA">nigeta tora wa doko ni no maki</title></episode>
+<episode num="64">
+<title gid="1914538552" lang="JA">kowai koe no shoutai wa dare ka no maki</title></episode>
+<episode num="65">
+<title gid="443982525" lang="JA">tamago no oya wa kage sen dai no maki</title></episode>
+<episode num="66">
+<title gid="3057112086" lang="JA">nomi sugi ni goyoujin no maki</title></episode>
+<episode num="67">
+<title gid="2729764471" lang="JA">NEZUMI no daisuki na mono wa... no maki</title></episode>
+<episode num="68">
+<title gid="2955887462" lang="JA">ninpou midare fubuki de gozaru no maki</title></episode>
+<episode num="69">
+<title gid="1729022945" lang="JA">ochiteru KUJI ni te wo dasu na no maki</title></episode>
+<episode num="70">
+<title gid="1647189400" lang="JA">SUKII wa dai SUKII de gozaru no maki</title></episode>
+<episode num="71">
+<title gid="2189462474" lang="JA">dai souji wa taihen de gozaru no maki</title></episode>
+<episode num="72">
+<title gid="1071282800" lang="JA">doyou no gogo wa taikutsu de gozaru no maki</title></episode>
+<episode num="73">
+<title gid="1307921277" lang="JA">NINNIN tokoya de dai konran no maki</title></episode>
+<episode num="74">
+<title gid="2990093953" lang="JA">ashi chou KENCHAN no maki</title></episode>
+<episode num="75">
+<title gid="2344933332" lang="JA">ninpou kokorogawari no maki</title></episode>
+<episode num="76">
+<title gid="2326456647" lang="JA">SANTAKUROUSU soudou no maki</title></episode>
+<episode num="77">
+<title gid="2024899227" lang="JA">kage sen dai wa goshujin-sama omoi no maki</title></episode>
+<episode num="78">
+<title gid="3128232862" lang="JA">SHINZOU kanashibari no jutsu ni chousen suru no maki</title></episode>
+<episode num="79">
+<title gid="2545997497" lang="JA">MAMA no ocha kai ni goshoutai no maki</title></episode>
+<episode num="80">
+<title gid="2316591056" lang="JA">tonda mochi tsuki taikai no maki</title></episode>
+<episode num="81">
+<title gid="3744684935" lang="JA">RABURETAA wo torimodose no maki</title></episode>
+<episode num="82">
+<title gid="2481116254" lang="JA">dako age wa MUSASABI no jutsu de gozaru no maki</title></episode>
+<episode num="83">
+<title gid="4001745169" lang="JA">hatsuyume mitsuba jou wa nihonbare de gozaru no maki</title></episode>
+<episode num="84">
+<title gid="1997812635" lang="JA">oshougatsu no okyaku wa tanoshimi de gozaru no maki</title></episode>
+<episode num="85">
+<title gid="1746792168" lang="JA">sute neko no PAPA wa kage chiyo ?… no maki</title></episode>
+<episode num="86">
+<title gid="1841146138" lang="JA">SUKEETO ga jouzu ni naritai no maki</title></episode>
+<episode num="87">
+<title gid="1229129682" lang="JA">ninpou den shin no jutsu de gozaru no maki</title></episode>
+<episode num="88">
+<title gid="753323852" lang="JA">tonda seki tori kassen no maki</title></episode>
+<episode num="89">
+<title gid="3480191863" lang="JA">SUPONSAA wo sagasu de gozaru no maki</title></episode>
+<episode num="90">
+<title gid="2157077523" lang="JA">nanto itte mo PAPA wa ERAI de gozaru no maki</title></episode>
+<episode num="91">
+<title gid="729372463" lang="JA">ninpou shuugyou wa tsurai de gozaru no maki</title></episode>
+<episode num="92">
+<title gid="3981873897" lang="JA">kanchuu suiei ni chousen suru no maki</title></episode>
+<episode num="93">
+<title gid="2055336891" lang="JA">takibi ni goyoujin no maki</title></episode>
+<episode num="94">
+<title gid="908097310" lang="JA">jishi maru da nuki no harazutsumi no maki</title></episode>
+<episode num="95">
+<title gid="3077195998" lang="JA">PAPA-ue gakkou ni yobareru no maki</title></episode>
+<episode num="96">
+<title gid="3297695248" lang="JA">rusuban wa tsurai de gozaru no maki</title></episode>
+<episode num="97">
+<title gid="1581433914" lang="JA">ofuroya-san wa dai konran no maki</title></episode>
+<episode num="98">
+<title gid="1479487794" lang="JA">TORANSHIIBAA soudou no maki</title></episode>
+<episode num="99">
+<title gid="3434133561" lang="JA">samui no wa KIRAIKIRAI no maki</title></episode>
+<episode num="100">
+<title gid="2622954224" lang="JA">ninpou ABEKOBE no jutsu de gozaru no maki</title></episode>
+<episode num="101">
+<title gid="2138537499" lang="JA">ibiki wo kaita BOURU no maki</title></episode>
+<episode num="102">
+<title gid="312780249" lang="JA">TABAKO wo yamete sushi wo kuou no maki</title></episode>
+<episode num="103">
+<title gid="4173596837" lang="JA">samusa koraete SUTEEKI wo tabeyou no maki</title></episode>
+<episode num="104">
+<title gid="1822867572" lang="JA">yasashii onna no ko wo sagasu no de gozaru no maki</title></episode>
+<episode num="105">
+<title gid="2383894938" lang="JA">geijutsu to wa itai mono de gozaru no maki</title></episode>
+<episode num="106">
+<title gid="1952219830" lang="JA">SUPIICHI wa makaseru de gozaru no maki</title></episode>
+<episode num="107">
+<title gid="753259268" lang="JA">ninja mo tsurai no de gozaru no maki</title></episode>
+<episode num="108">
+<title gid="2342385027" lang="JA">kyou wa setsubun oni taiji no maki</title></episode>
+<episode num="109">
+<title gid="3638124656" lang="JA">yumeko-chan ni tsubame no PUREZENTO no maki</title></episode>
+<episode num="110">
+<title gid="710118101" lang="JA">PAPA-ue no shorui wa tobu no de gozaru no maki</title></episode>
+<episode num="111">
+<title gid="3691765897" lang="JA">eiga wa KORIGORI de gozaru no maki</title></episode>
+<episode num="112">
+<title gid="3072827087" lang="JA">KEMUMAKIMANMOSU wo horidase no maki</title></episode>
+<episode num="113">
+<title gid="2035448001" lang="JA">kamisama no ekohiiki no maki</title></episode>
+<episode num="114">
+<title gid="2082382774" lang="JA">nigeta fuusen wa doko ni no maki</title></episode>
+<episode num="115">
+<title gid="2151554047" lang="JA">yumeko-chan no ohinasama no maki</title></episode>
+<episode num="116">
+<title gid="1303631577" lang="JA">jishi maru no ibiki wa 100 HOUN no maki</title></episode>
+<episode num="117">
+<title gid="2164702275" lang="JA">tonda ARUBAITO de gozaru no maki</title></episode>
+<episode num="118">
+<title gid="1747898732" lang="JA">usagi ni natta shishi maru no maki</title></episode>
+<episode num="119">
+<title gid="3724989848" lang="JA">maikon da RABURETAA no maki</title></episode>
+<episode num="120">
+<title gid="1652282278" lang="JA">NINNIN bariki de hon wo sagase no maki</title></episode>
+<episode num="121">
+<title gid="2660670713" lang="JA">BARENTAINDEE no jiken no maki</title></episode>
+<episode num="122">
+<title gid="2286264172" lang="JA">sensei wo warawasero no maki</title></episode>
+<episode num="123">
+<title gid="1796623512" lang="JA">kanashii eiga wo miru houhou no maki</title></episode>
+<episode num="124">
+<title gid="1190319379" lang="JA">dai ongakuka KEN'ichi shi no maki</title></episode>
+<episode num="125">
+<title gid="1341528893" lang="JA">ohanabatake wo tsukurou no maki</title></episode>
+<episode num="126">
+<title gid="3442367600" lang="JA">sei ninpou wa kega no moto no maki</title></episode>
+<episode num="127">
+<title gid="1714093914" lang="JA">MAMA no BAREEBOURU tokkun no maki</title></episode>
+<episode num="128">
+<title gid="1693959797" lang="JA">dai kui kyousou wa korigori de gozaru no maki</title></episode>
+<episode num="129">
+<title gid="3881343393" lang="JA">ninja komori uta de gozaru no maki</title></episode>
+<episode num="130">
+<title gid="1466125154" lang="JA">ichirinsha ni noreta no maki</title></episode>
+<episode num="131">
+<title gid="1553021528" lang="JA">ikari chuu wo oidase no maki</title></episode>
+<episode num="132">
+<title gid="1837946888" lang="JA">ake no myoujou wa hayaoki de gozaru no maki</title></episode>
+<episode num="133">
+<title gid="1285506542" lang="JA">ninpou hanasaka jii-san no maki</title></episode>
+<episode num="134">
+<title gid="1016027660" lang="JA">TOMATO, NINJIN daisuki no maki</title></episode>
+<episode num="135">
+<title gid="2241366322" lang="JA">hitoribocchi no kage sen dai no maki</title></episode>
+<episode num="136">
+<title gid="3561414420" lang="JA">kowa-i katei houmon no maki</title></episode>
+<episode num="137">
+<title gid="231135278" lang="JA">aki KAN de IKADA wo tsukurou no maki</title></episode>
+<episode num="138">
+<title gid="2788081638" lang="JA">ninpou soku gaki no jutsu no maki</title></episode>
+<episode num="139">
+<title gid="2314866253" lang="JA">jishi maru komori uta no maki</title></episode>
+<episode num="140">
+<title gid="2535716678" lang="JA">KEN'ichi shi no ichi nichi shochou no maki</title></episode>
+<episode num="141">
+<title gid="1867867421" lang="JA">HATTORI-kun kengou shousetsu ni chousen no maki</title></episode>
+<episode num="142">
+<title gid="1959038133" lang="JA">tada no RAAMEN wa kowai no maki</title></episode>
+<episode num="143">
+<title gid="3294583452" lang="JA">uchuu hakuran kai wa sugoi de gozaru no maki</title></episode>
+<episode num="144">
+<title gid="2578239262" lang="JA">mizunomi jou soudou no maki</title></episode>
+<episode num="145">
+<title gid="3732541220" lang="JA">yumeko-chan no omamori ni narun da no maki</title></episode>
+<episode num="146">
+<title gid="3239107618" lang="JA">SUPAGETTI wa shiawase no aji no maki</title></episode>
+<episode num="147">
+<title gid="1899221882" lang="JA">nagareboshi ni negai wo kakete no maki</title></episode>
+<episode num="148">
+<title gid="2009025216" lang="JA">ninpou naka na ori no maki</title></episode>
+<episode num="149">
+<title gid="2808096029" lang="JA">JOKKINGU wa omakase no maki</title></episode>
+<episode num="150">
+<title gid="4225149308" lang="JA">MAMA-ue wa shousetsu ka no maki</title></episode>
+<episode num="151">
+<title gid="1936827368" lang="JA">yumeko-chan nanka kirai no maki</title></episode>
+<episode num="152">
+<title gid="2149189144" lang="JA">jishi maru wa SAAKASU no SUTAA no maki</title></episode>
+<episode num="153">
+<title gid="875537497" lang="JA">ninja yakyuu no maki</title></episode>
+<episode num="154">
+<title gid="1964605279" lang="JA">sensei wa choucho ga wo suki no maki</title></episode>
+<episode num="155">
+<title gid="3787072861" lang="JA">NINNIN sushi wa dai hanjyou no maki</title></episode>
+<episode num="156">
+<title gid="3987702456" lang="JA">KAERU shuugyou wa tsurai de gozaru no maki</title></episode>
+<episode num="157">
+<title gid="3192412324" lang="JA">EIPURIRUFUURU usotsuki kassen no maki</title></episode>
+<episode num="158">
+<title gid="2733873145" lang="JA">daihakken kyodai gyo no maki</title></episode>
+<episode num="159">
+<title gid="3191266673" lang="JA">hirotte kita koinu no maki</title></episode>
+<episode num="160">
+<title gid="2041738501" lang="JA">jishi maru no tenki yohou no maki</title></episode>
+<episode num="161">
+<title gid="427420649" lang="JA">tonda sumou kassen no maki</title></episode>
+<episode num="162">
+<title gid="1987536966" lang="JA">okashi na gaijin-san no maki</title></episode>
+<episode num="163">
+<title gid="1440809630" lang="JA">hannin wo toraete mireba no maki</title></episode>
+<episode num="164">
+<title gid="2281247897" lang="JA">bousou zoku wo yattsukero no maki</title></episode>
+<episode num="165">
+<title gid="1677553521" lang="JA">TEREBI wa kinshi de gozaru no maki</title></episode>
+<episode num="166">
+<title gid="1645263731" lang="JA">GEEMU ni chousen suru de gozaru no maki</title></episode>
+<episode num="167">
+<title gid="3016784330" lang="JA">jishi maru mo haru de gozaru no maki</title></episode>
+<episode num="168">
+<title gid="2905954020" lang="JA">DOKKIRIHAUSU ni nani ga aru no maki</title></episode>
+<episode num="169">
+<title gid="1689244541" lang="JA">chikoku wa koutei juu shuu no maki</title></episode>
+<episode num="170">
+<title gid="2137697309" lang="JA">fuufu GENKA wa inu mo KUWANKUWAN no maki</title></episode>
+<episode num="171">
+<title gid="2019575828" lang="JA">KEEKI wa mou takusan no maki</title></episode>
+<episode num="172">
+<title gid="2320359239" lang="JA">TSUBAME wa teduyoi onna ninja de gozaru no maki</title></episode>
+<episode num="173">
+<title gid="1066132911" lang="JA">kieta TSUBAME-chan no maki</title></episode>
+<episode num="174">
+<title gid="3437453017" lang="JA">onaka wo kowashita shishi maru no maki</title></episode>
+<episode num="175">
+<title gid="1488822745" lang="JA">KEN'ichi shi wa mei kantoku de gozaru no maki</title></episode>
+<episode num="176">
+<title gid="420951415" lang="JA">kowai shinbun haitatsu no maki</title></episode>
+<episode num="177">
+<title gid="1815004362" lang="JA">DORAIBU wa okigaru ni no maki</title></episode>
+<episode num="178">
+<title gid="3274807713" lang="JA">BOKU tte ikenai ko no maki</title></episode>
+<episode num="179">
+<title gid="990100702" lang="JA">KEN'ichi shi no dekkai yume no maki</title></episode>
+<episode num="180">
+<title gid="2075253032" lang="JA">otona ni narita-i no maki</title></episode>
+<episode num="181">
+<title gid="3481300267" lang="JA">kozukai neage sakusen no maki</title></episode>
+<episode num="182">
+<title gid="2525141608" lang="JA">PAPA no hesokuri soudou no maki</title></episode>
+<episode num="183">
+<title gid="2093514413" lang="JA">TSUBAME dono wa nigate de gozaru no maki</title></episode>
+<episode num="184">
+<title gid="2759942796" lang="JA">denki ga naku te mo tanoshii wagaya no maki</title></episode>
+<episode num="185">
+<title gid="1284576756" lang="JA">yumeko-chan no PIANO happyou kai no maki</title></episode>
+<episode num="186">
+<title gid="1680192034" lang="JA">nisemono wa komaru de gozaru no maki</title></episode>
+<episode num="187">
+<title gid="2291946260" lang="JA">ninpou chuu henka ?! no maki</title></episode>
+<episode num="188">
+<title gid="1014540559" lang="JA">ninja yashiki e goshoutai no maki</title></episode>
+<episode num="189">
+<title gid="3449459527" lang="JA">taue ni chousen no maki</title></episode>
+<episode num="190">
+<title gid="2779530285" lang="JA">okashi na kokuhaku no maki</title></episode>
+<episode num="191">
+<title gid="2210866236" lang="JA">oheso no himitsu wo saguru no maki</title></episode>
+<episode num="192">
+<title gid="1779318401" lang="JA">yuukai sareta shishi maru no maki</title></episode>
+<episode num="193">
+<title gid="604697914" lang="JA">KAMERA wa KIRAIKIRAI no maki</title></episode>
+<episode num="194">
+<title gid="2089126666" lang="JA">genshijidai wa NINNIN de gozaru no maki</title></episode>
+<episode num="195">
+<title gid="2390825630" lang="JA">ROBOTTO ni tsuyoku naro u no maki</title></episode>
+<episode num="196">
+<title gid="3720809465" lang="JA">HOUMURANBOURU wo tsukame no maki</title></episode>
+<episode num="197">
+<title gid="2267464731" lang="JA">WASSHOI matsuri de gozaru no maki</title></episode>
+<episode num="198">
+<title gid="3962577681" lang="JA">KEN'ichi shi wa otoko de gozaru no maki</title></episode>
+<episode num="199">
+<title gid="2516990375" lang="JA">TSUBAME ninpou koi hibana no maki</title></episode>
+<episode num="200">
+<title gid="2512090927" lang="JA">MAMA-ue soku dome sakusen no maki</title></episode>
+<episode num="201">
+<title gid="2146392717" lang="JA">ninpou shuugyou wa akirameta no maki</title></episode>
+<episode num="202">
+<title gid="2087569798" lang="JA">omiai wa nigate de gozaru no maki</title></episode>
+<episode num="203">
+<title gid="2201844155" lang="JA">tonda suiei shuugyou no maki</title></episode>
+<episode num="204">
+<title gid="2212833345" lang="JA">kyou wa nani no hi no maki</title></episode>
+<episode num="205">
+<title gid="3464641453" lang="JA">KEROKERO ninpou de janpu kyousou no maki</title></episode>
+<episode num="206">
+<title gid="3692576345" lang="JA">seibu geki bokujou no maki</title></episode>
+<episode num="207">
+<title gid="2525671300" lang="JA">PAPA no jishin TAPPURI nichiyou daiku no maki</title></episode>
+<episode num="208">
+<title gid="1900430548" lang="JA">jishi maru wa KYUPIIDDO de gozaru no maki</title></episode>
+<episode num="209">
+<title gid="2159895703" lang="JA">chichi no hi no deki goto no maki</title></episode>
+<episode num="210">
+<title gid="2201379138" lang="JA">SUPPON ! jishi maru wo hanase no maki</title></episode>
+<episode num="211">
+<title gid="4069256743" lang="JA">doji na omawarisan no maki</title></episode>
+<episode num="212">
+<title gid="2215265394" lang="JA">kage sen dai MUKO iri dai sakusen no maki</title></episode>
+<episode num="213">
+<title gid="1943743449" lang="JA">chou kousou BIRU ni chousen suru de gozaru no maki</title></episode>
+<episode num="214">
+<title gid="2999968196" lang="JA">KEEKI ga kowai no maki</title></episode>
+<episode num="215">
+<title gid="56629869" lang="JA">BAZAA shuppin saku ni goyoujin no maki</title></episode>
+<episode num="216">
+<title gid="1847313948" lang="JA">TSUBAME ninpou KAERU ayatsuri no maki</title></episode>
+<episode num="217">
+<title gid="2163390562" lang="JA">tsumuji magari no tenkousei no maki</title></episode>
+<episode num="218">
+<title gid="1609050679" lang="JA">yarinukuzo ichi nichi ichi zen no maki</title></episode>
+<episode num="219">
+<title gid="3053237175" lang="JA">ninpou ZARIGANI tsuri de gozaru no maki</title></episode>
+<episode num="220">
+<title gid="2811703402" lang="JA">NINNIN bariki no himitsu no maki</title></episode>
+<episode num="221">
+<title gid="1251978393" lang="JA">tokei wa seikaku na hou ga ii ? no maki</title></episode>
+<episode num="222">
+<title gid="3216926681" lang="JA">SHIN-chan no HESOPAWAA no maki</title></episode>
+<episode num="223">
+<title gid="2037006003" lang="JA">tonda kunoichi shigan no maki</title></episode>
+<episode num="224">
+<title gid="3633249046" lang="JA">KEN'ichi KEN dama mou renshuu no maki</title></episode>
+<episode num="225">
+<title gid="2638413214" lang="JA">bouenkyou ga hoshii no maki</title></episode>
+<episode num="226">
+<title gid="3033709720" lang="JA">MAMA-ue ninpou omitooshi no maki</title></episode>
+<episode num="227">
+<title gid="1287492860" lang="JA">GORIRA ga machi ni yattekita no maki</title></episode>
+<episode num="228">
+<title gid="2097500790" lang="JA">osumou no shuugyou wa taihen de gozaru no maki</title></episode>
+<episode num="229">
+<title gid="2423581750" lang="JA">necchuu tantei jishi maru no maki</title></episode>
+<episode num="230">
+<title gid="1239831719" lang="JA">KEN'ichi shi no FAINPUREE no maki</title></episode>
+<episode num="231">
+<title gid="649737003" lang="JA">oyomesan soudatsu sen no maki</title></episode>
+<episode num="232">
+<title gid="2058189643" lang="JA">kyuukanchou wo tsukamaero no maki</title></episode>
+<episode num="233">
+<title gid="3015727438" lang="JA">ninpou SUIKA wari no maki</title></episode>
+<episode num="234">
+<title gid="1142259230" lang="JA">ninpou dai ressha sakusen !! no maki</title></episode>
+<episode num="235">
+<title gid="1224288795" lang="JA">KEN'ichi shi no tezukuri taiyaki no maki</title></episode>
+<episode num="236">
+<title gid="1346232706" lang="JA">satou wo name ta shinhannin no maki</title></episode>
+<episode num="237">
+<title gid="1313208415" lang="JA">GARIben KEN'ichi uji tanjou !? no maki</title></episode>
+<episode num="238">
+<title gid="1804963778" lang="JA">TSUBAME-chan nakanai de no maki</title></episode>
+<episode num="239">
+<title gid="2358871052" lang="JA">tomodachi wa kyouryuu shounen no maki</title></episode>
+<episode num="240">
+<title gid="2253857820" lang="JA">nigedashi ta kage sen dai no maki</title></episode>
+<episode num="241">
+<title gid="3130246762" lang="JA">KURASU iin wa maboroshi to kieta no maki</title></episode>
+<episode num="242">
+<title gid="1266613602" lang="JA">amefuri demukae ureshii na no maki</title></episode>
+<episode num="243">
+<title gid="1337640449" lang="JA">kagaku ninpou HIKOUKI ayatsuri no maki</title></episode>
+<episode num="244">
+<title gid="3867175530" lang="JA">ninja yashiki wa KORIGORI de gozaru no maki</title></episode>
+<episode num="245">
+<title gid="1666361795" lang="JA">MAMA-ue wa denwa ga osuki de gozaru no maki</title></episode>
+<episode num="246">
+<title gid="1885971821" lang="JA">warau mon ni fuku ga kuru no maki</title></episode>
+<episode num="247">
+<title gid="2336151482" lang="JA">urashima tarou ni wa komatta de gozaru no maki</title></episode>
+<episode num="248">
+<title gid="3084304171" lang="JA">fujisan ni noborou no maki</title></episode>
+<episode num="249">
+<title gid="1085526004" lang="JA">tanjoubi wo sagasu de gozaru no maki</title></episode>
+<episode num="250">
+<title gid="511593551" lang="JA">okashi na uchiage hanabi no maki</title></episode>
+<episode num="251">
+<title gid="4045296213" lang="JA">kabutomushi hokaku sakusen no maki</title></episode>
+<episode num="252">
+<title gid="2038086375" lang="JA">fushigi na KYANPU no maki</title></episode>
+<episode num="253">
+<title gid="3774383391" lang="JA">atsui to ittara bakkin de gozaru no maki</title></episode>
+<episode num="254">
+<title gid="2835841254" lang="JA">KEN'ichi shi wa obake ga kirai no maki</title></episode>
+<episode num="255">
+<title gid="2064569342" lang="JA">sui ninpou NAIAGARA no taki no maki</title></episode>
+<episode num="256">
+<title gid="614235808" lang="JA">BIKKURI ninpou nemuri ayatsuri no jutsu no maki</title></episode>
+<episode num="257">
+<title gid="3123668210" lang="JA">MAMA-ue wa mai DORAIBAA no maki</title></episode>
+<episode num="258">
+<title gid="1242828297" lang="JA">TSUBAME-dono datte umi e ikitai no maki</title></episode>
+<episode num="259">
+<title gid="3435031581" lang="JA">oinu-sama wa ERAI nja WAN no maki</title></episode>
+<episode num="260">
+<title gid="1540286705" lang="JA">HATTORI shiki oshiuri ri gekitai hou no maki</title></episode>
+<episode num="261">
+<title gid="2405927344" lang="JA">seibu geki HATTORIKIDDO no maki</title></episode>
+<episode num="262">
+<title gid="2609149786" lang="JA">MAMA-ue AIDIA sakusen no maki</title></episode>
+<episode num="263">
+<title gid="3060156226" lang="JA">bijo ni yoromeku bekarazu no maki</title></episode>
+<episode num="264">
+<title gid="1275389760" lang="JA">chiku wa nanka tabenai wan no maki</title></episode>
+<episode num="265">
+<title gid="1401060784" lang="JA">unagi wa kamisama no otsukai de gozaru no maki</title></episode>
+<episode num="266">
+<title gid="2834140182" lang="JA">ken no michi wa kibishii no de gozaru no maki</title></episode>
+<episode num="267">
+<title gid="2936272107" lang="JA">ginkou goutou ikedori sakusen no maki</title></episode>
+<episode num="268">
+<title gid="1399251917" lang="JA">jin no meiwaku sentou jiken no maki</title></episode>
+<episode num="269">
+<title gid="2169713937" lang="JA">rika shitsu no himitsu no maki</title></episode>
+<episode num="270">
+<title gid="992526449" lang="JA">PAPA-ue wa iga no jounin de gozaru no maki</title></episode>
+<episode num="271">
+<title gid="2200825868" lang="JA">ninpou ningen DAKO no maki</title></episode>
+<episode num="272">
+<title gid="2116902410" lang="JA">suteki na yumeko-chan wo homeyou no maki</title></episode>
+<episode num="273">
+<title gid="2289996476" lang="JA">omocha uriba no HATTORIROBO no maki</title></episode>
+<episode num="274">
+<title gid="2368917196" lang="JA">MONTAAJU shashin dai seikou no maki</title></episode>
+<episode num="275">
+<title gid="2629288517" lang="JA">ninpou hitodasuke no maki</title></episode>
+<episode num="276">
+<title gid="621575009" lang="JA">ninpou de omoidasou kyonen no kyou no maki</title></episode>
+<episode num="277">
+<title gid="1596455292" lang="JA">tonda tougyuu soudou no maki</title></episode>
+<episode num="278">
+<title gid="3594553964" lang="JA">taifuu ga yattekita no maki</title></episode>
+<episode num="279">
+<title gid="3475943198" lang="JA">KOWAIKOWAI wa mina kowai no maki</title></episode>
+<episode num="280">
+<title gid="3103347444" lang="JA">SHINZOU ryuu ninpou jirainai no jutsu de gozaru no maki</title></episode>
+<episode num="281">
+<title gid="3525974878" lang="JA">gakugei kai wa SHINDERERA hime ni kettei no maki</title></episode>
+<episode num="282">
+<title gid="1133771169" lang="JA">kouga shinobu sha okashi na gaijin-san no maki</title></episode>
+<episode num="283">
+<title gid="2210970411" lang="JA">hannin no na wa HIMITSU ni subeshi no maki</title></episode>
+<episode num="284">
+<title gid="1201021873" lang="JA">WANPIISU wo torikaese no maki</title></episode>
+<episode num="285">
+<title gid="3869418003" lang="JA">ninpou kawarimi ooisogashi no maki</title></episode>
+<episode num="286">
+<title gid="3630532077" lang="JA">zazen wo hajimeta KEN'ichi shi no maki</title></episode>
+<episode num="287">
+<title gid="2563250102" lang="JA">TSUBAME-chan oyatsu wo mamoru no maki</title></episode>
+<episode num="288">
+<title gid="2214165726" lang="JA">ITAZURAkko wo toraete mireba no maki</title></episode>
+<episode num="289">
+<title gid="2319520676" lang="JA">kieta HATTORI-kun no maki</title></episode>
+<episode num="290">
+<title gid="1314386601" lang="JA">TSUBAME nin houjin henka no maki</title></episode>
+<episode num="291">
+<title gid="1064366404" lang="JA">moeta yumeko dono no ehagaki no maki</title></episode>
+<episode num="292">
+<title gid="606392841" lang="JA">himitsu ninpou de mirai wo mita no maki</title></episode>
+<episode num="293">
+<title gid="1972037185" lang="JA">KEN'ichi shi ganbaru no maki</title></episode>
+<episode num="294">
+<title gid="588581913" lang="JA">ninpou nanka meiwaku no maki</title></episode>
+<episode num="295">
+<title gid="1908746263" lang="JA">ensoku wa sewa ga yakeru de gozaru no maki</title></episode>
+<episode num="296">
+<title gid="2147769102" lang="JA">sessha SURANPU de gozaru no maki</title></episode>
+<episode num="297">
+<title gid="2807077610" lang="JA">HATTORI shiki kanji tokkun hou no maki</title></episode>
+<episode num="298">
+<title gid="4064400726" lang="JA">sessha mo madamada mijuku de gozaru no maki</title></episode>
+<episode num="299">
+<title gid="1133368859" lang="JA">KAKKAKKA.KAKA ninpou no maki</title></episode>
+<episode num="300">
+<title gid="916846642" lang="JA">shippai shita ninpou no maki</title></episode>
+<episode num="301">
+<title gid="2142824226" lang="JA">yumeko-chan no tezukuri go shoutai no maki</title></episode>
+<episode num="302">
+<title gid="2256420903" lang="JA">rakugaki no igai na ketsumatsu no maki</title></episode>
+<episode num="303">
+<title gid="616468640" lang="JA">ueki no teire mo ninpou de gozaru no maki</title></episode>
+<episode num="304">
+<title gid="1165188660" lang="JA">yumeko-chan no tomodachi wa ? no maki</title></episode>
+<episode num="305">
+<title gid="852030642" lang="JA">engi ka tsugi wa gomen de gozaru no maki</title></episode>
+<episode num="306">
+<title gid="1538274568" lang="JA">sessha kirawareta de gozaru no maki</title></episode>
+<episode num="307">
+<title gid="2420564664" lang="JA">sensei wa RUAA no meijin dano maki</title></episode>
+<episode num="308">
+<title gid="1355891049" lang="JA">KEMUMAKI shi wo tegara de gozaru no maki</title></episode>
+<episode num="309">
+<title gid="2685441940" lang="JA">tonda yami nabe soudou no maki</title></episode>
+<episode num="310">
+<title gid="3147696973" lang="JA">fumin naoshite shukudai saborou no maki</title></episode>
+<episode num="311">
+<title gid="1788810572" lang="JA">onaka wo kowashita SHINZOU no maki</title></episode>
+<episode num="312">
+<title gid="2578814452" lang="JA">sensei no INSUTANTO KAMERA no maki</title></episode>
+<episode num="313">
+<title gid="3671944391" lang="JA">taka ga shuriken ichi mai dake dono maki</title></episode>
+<episode num="314">
+<title gid="645882666" lang="JA">wasurete ita takarakuji no maki</title></episode>
+<episode num="315">
+<title gid="1204145687" lang="JA">nemureru houhou oshieru de gozaru no maki</title></episode>
+<episode num="316">
+<title gid="2926464567" lang="JA">MODERU ni natta yumeko-chan no maki</title></episode>
+<episode num="317">
+<title gid="147122908" lang="JA">jishin wo nakushita shishi maru no maki</title></episode>
+<episode num="318">
+<title gid="2152949088" lang="JA">HATTORI zukin no himitsu no maki</title></episode>
+<episode num="319">
+<title gid="3277665392" lang="JA">MAMA-ue no ekohiiki no maki</title></episode>
+<episode num="320">
+<title gid="2918504743" lang="JA">sensei no SHAKKURI wo tomero no maki</title></episode>
+<episode num="321">
+<title gid="3116937331" lang="JA">otodoke mono wa shinchou ni no maki</title></episode>
+<episode num="322">
+<title gid="405567516" lang="JA">ADOBARUUN de tasuketee no maki</title></episode>
+<episode num="323">
+<title gid="2281217952" lang="JA">roudoku wa boku ni omakase no maki</title></episode>
+<episode num="324">
+<title gid="2699864486" lang="JA">KEN'ichi, yumeko yubikiri genman no maki</title></episode>
+<episode num="325">
+<title gid="1101443726" lang="JA">chijinda yumeko-dono no SEETAA no maki</title></episode>
+<episode num="326">
+<title gid="820141325" lang="JA">KAERU kassen fuyu no jin no maki</title></episode>
+<episode num="327">
+<title gid="2149653261" lang="JA">TSUBAME to MAMA no himitsu wo abake no maki</title></episode>
+<episode num="328">
+<title gid="1232538681" lang="JA">MAMA no BYUUTIIPAWAA zenkai no maki</title></episode>
+<episode num="329">
+<title gid="2244852748" lang="JA">ani-ue nanka daikirai no maki</title></episode>
+<episode num="330">
+<title gid="2468913414" lang="JA">YUME to kieta ichi sen man en no maki</title></episode>
+<episode num="331">
+<title gid="2229619925" lang="JA">otoko no iji NEZUMI taiji no maki</title></episode>
+<episode num="332">
+<title gid="2352552174" lang="JA">choukoku no kubi ga ochita no maki</title></episode>
+<episode num="333">
+<title gid="2023447177" lang="JA">KEN'ichiuji sainou no bakuhatsu de gozaru no maki</title></episode>
+<episode num="334">
+<title gid="2479727229" lang="JA">TSUBAME ninpou shin yasashisa no maki</title></episode>
+<episode num="335">
+<title gid="3516294175" lang="JA">kage chiyo toumin su no maki</title></episode>
+<episode num="336">
+<title gid="1631226527" lang="JA">SHIN-chan no HOUMUSHIKKU no maki</title></episode>
+<episode num="337">
+<title gid="741469425" lang="JA">sensei ninpou senrigan no maki</title></episode>
+<episode num="338">
+<title gid="2624873466" lang="JA">KEN'ichi uji PAPA-ue otoko no yakusoku no maki</title></episode>
+<episode num="339">
+<title gid="1276946294" lang="JA">nan tatte UFO de gozaru no maki</title></episode>
+<episode num="340">
+<title gid="2809870270" lang="JA">sensei shi no nigate wa okaa-san no maki</title></episode>
+<episode num="341">
+<title gid="3135923564" lang="JA">yukionna wa kowai yo ? no maki</title></episode>
+<episode num="342">
+<title gid="2370060533" lang="JA">samusa ni tsuyoi KEN'ichi shi no maki</title></episode>
+<episode num="343">
+<title gid="2172314735" lang="JA">SHINZOU. shishi maru wo dachin kasegi no maki</title></episode>
+<episode num="344">
+<title gid="2084364017" lang="JA">shachou no inu ni goyoujin ! no maki</title></episode>
+<episode num="345">
+<title gid="742543783" lang="JA">otenba shunpuu fukisugite no maki</title></episode>
+<episode num="346">
+<title gid="1853076993" lang="JA">PAPA-ue no tokkun fukuwajutsu no maki</title></episode>
+<episode num="347">
+<title gid="1762645191" lang="JA">kieta IRUKA no maki</title></episode>
+<episode num="348">
+<title gid="2226611515" lang="JA">mirai toshi no ninja de gozaru no maki</title></episode>
+<episode num="349">
+<title gid="2947694897" lang="JA">KEMUMAKI choppiri kaa-san koishi no maki</title></episode>
+<episode num="350">
+<title gid="2966023807" lang="JA">KIKEN na sensei wo ou de gozaru no maki</title></episode>
+<episode num="351">
+<title gid="1944452501" lang="JA">yumeko-dono no tame ni kane wa naru de gozaru no maki</title></episode>
+<episode num="352">
+<title gid="452599964" lang="JA">CHIKUWA nanka kirai ja wan no maki</title></episode>
+<episode num="353">
+<title gid="2973528588" lang="JA">mirarecha nara nai otoko no namida no maki</title></episode>
+<episode num="354">
+<title gid="437335788" lang="JA">KEMUMAKI donzoko da ! no maki</title></episode>
+<episode num="355">
+<title gid="3168566136" lang="JA">SHIN-chan wa naze kigaenai no !? no maki</title></episode>
+<episode num="356">
+<title gid="2013724668" lang="JA">ninpou KARASU ayatsuri no maki</title></episode>
+<episode num="357">
+<title gid="1730762883" lang="JA">hito wo damashite wa ikan de gozaru no maki</title></episode>
+<episode num="358">
+<title gid="1794538596" lang="JA">shukudai wa kanarazu yaru de gozaru no maki</title></episode>
+<episode num="359">
+<title gid="2588164519" lang="JA">tonda ninki touhyou no maki</title></episode>
+<episode num="360">
+<title gid="1956064924" lang="JA">sensei shi ga koi wo shita no maki</title></episode>
+<episode num="361">
+<title gid="4028635090" lang="JA">toumei ningen wo tsukamaero no maki</title></episode>
+<episode num="362">
+<title gid="1397242625" lang="JA">yasashii sokkyuu toushu no maki</title></episode>
+<episode num="363">
+<title gid="2794482171" lang="JA">akai furoshiki wo sagase no maki</title></episode>
+<episode num="364">
+<title gid="3565533309" lang="JA">kage sen dai san you ka ni sennyuu ! no maki</title></episode>
+<episode num="365">
+<title gid="2208995453" lang="JA">gai ni onsen ga deta no maki</title></episode>
+<episode num="366">
+<title gid="2577723775" lang="JA">tonda wa to REESU no maki</title></episode>
+<episode num="367">
+<title gid="1105187709" lang="JA">yaochou wa ikan de gozaru no maki</title></episode>
+<episode num="368">
+<title gid="2186129821" lang="JA">sensei no meiyo kaifuku sakusen no maki</title></episode>
+<episode num="369">
+<title gid="1679792725" lang="JA">tatasare bouzu KEN'ichi shi no maki</title></episode>
+<episode num="370">
+<title gid="1601288487" lang="JA">jishi maru wa ninja ken de gozaru no maki</title></episode>
+<episode num="371">
+<title gid="1535133659" lang="JA">KEN'ichi shi wa gaishutsu girai ! no maki</title></episode>
+<episode num="372">
+<title gid="3077717303" lang="JA">boku no namae wa san you KEN'ichi no maki</title></episode>
+<episode num="373">
+<title gid="2964019765" lang="JA">SUKII-ue wa KUMA soudou no maki</title></episode>
+<episode num="374">
+<title gid="3026248331" lang="JA">TSUBAME tokusei FANTAJIKKU bentou no maki</title></episode>
+<episode num="375">
+<title gid="2546761656" lang="JA">TAKA da kara TAKA da wan no maki</title></episode>
+<episode num="376">
+<title gid="2474713836" lang="JA">kage sen dai no suki ni NYATTA neko no maki</title></episode>
+<episode num="377">
+<title gid="1241037809" lang="JA">SUTAA wa tsurai yo no maki</title></episode>
+<episode num="378">
+<title gid="2100656996" lang="JA">omawarisan no PISUTORU wo torikaese no maki</title></episode>
+<episode num="379">
+<title gid="1903038009" lang="JA">hen TEKORIN na otoshidama no maki</title></episode>
+<episode num="380">
+<title gid="2411478553" lang="JA">KEN-chan no onaka dai PINCHI no maki</title></episode>
+<episode num="381">
+<title gid="1042447632" lang="JA">sensei no me wa shaberu no dano maki</title></episode>
+<episode num="382">
+<title gid="1983412229" lang="JA">kage sen dai futatabi san you ka ni sennyuu ! no maki</title></episode>
+<episode num="383">
+<title gid="3161220370" lang="JA">ninpou sui kumo wa KEMUMAKI ni narau de gozaru no maki</title></episode>
+<episode num="384">
+<title gid="3075403561" lang="JA">oseji ni goyoujin no maki</title></episode>
+<episode num="385">
+<title gid="912776269" lang="JA">namida wo wasureta SHINZOU no maki</title></episode>
+<episode num="386">
+<title gid="726015566" lang="JA">ninja shiken wa dai konran no maki</title></episode>
+<episode num="387">
+<title gid="3124949968" lang="JA">yumeko-chan ga daisuki de gozaru no maki</title></episode>
+<episode num="388">
+<title gid="890995517" lang="JA">ninpou shin awase no maki</title></episode>
+<episode num="389">
+<title gid="2585859595" lang="JA">namida. NAMIDA no soudouki no maki</title></episode>
+<episode num="390">
+<title gid="1556038159" lang="JA">benri na kurashi wa fuben de gozaru no maki</title></episode>
+<episode num="391">
+<title gid="3282620102" lang="JA">PAPA-ue no tonda zuru yasumi no maki</title></episode>
+<episode num="392">
+<title gid="1720247273" lang="JA">egao de akarui ichi nichi no maki</title></episode>
+<episode num="393">
+<title gid="3006569152" lang="JA">tonda karimono kyousou no maki</title></episode>
+<episode num="394">
+<title gid="2053750033" lang="JA">sensei tobibako ni chousen su no maki</title></episode>
+<episode num="395">
+<title gid="1339654026" lang="JA">SHINZOU no hidarite kyouka sakusen no maki</title></episode>
+<episode num="396">
+<title gid="2116857470" lang="JA">fui no okyaku de dai soudou no maki</title></episode>
+<episode num="397">
+<title gid="1291105328" lang="JA">sensei e no PUREZENTO no maki</title></episode>
+<episode num="398">
+<title gid="1811151977" lang="JA">mita ka ! ninpou atsusa mashi no maki</title></episode>
+<episode num="399">
+<title gid="1368919016" lang="JA">itoshigo sensei no tezukuri KEEKI no maki</title></episode>
+<episode num="400">
+<title gid="1203764341" lang="JA">tokkun ! tokkun ! mata tokkun de gozaru no maki</title></episode>
+<episode num="401">
+<title gid="3087917008" lang="JA">sensei koishiya ofukuro no aji no maki</title></episode>
+<episode num="402">
+<title gid="2698061276" lang="JA">yasashisa TESUTO wa dai seikou no maki</title></episode>
+<episode num="403">
+<title gid="1383256077" lang="JA">sensei no omiyage sawagi no maki</title></episode>
+<episode num="404">
+<title gid="3635702110" lang="JA">SHIN-chan wo komaraseta sute neko no maki</title></episode>
+<episode num="405">
+<title gid="1509462079" lang="JA">ayaushi ! KEN'ichi shi no maki</title></episode>
+<episode num="406">
+<title gid="2724926579" lang="JA">ninpou awa dama de shoubu de gozaru no maki</title></episode>
+<episode num="407">
+<title gid="2608769504" lang="JA">KEN'ichiuji shiki sha ni naru !? no maki</title></episode>
+<episode num="408">
+<title gid="1787280000" lang="JA">ai no MUCHI mo tsurai de gozaru no maki</title></episode>
+<episode num="409">
+<title gid="1611695321" lang="JA">iga ninpou kaedama sakusen no maki</title></episode>
+<episode num="410">
+<title gid="3089877776" lang="JA">KOINRANDORII soudou no maki</title></episode>
+<episode num="411">
+<title gid="905620447" lang="JA">shouben kozou dai shippai no maki</title></episode>
+<episode num="412">
+<title gid="3279315319" lang="JA">o- ! HAMUSUTAA no maki</title></episode>
+<episode num="413">
+<title gid="1937540619" lang="JA">HATTARI ninpou issunboushi no maki</title></episode>
+<episode num="414">
+<title gid="1380976324" lang="JA">yumeko dono wa tanpopo ga wo suki no maki</title></episode>
+<episode num="415">
+<title gid="2658579826" lang="JA">ninpou BOURINGU kassen no maki</title></episode>
+<episode num="416">
+<title gid="1792277181" lang="JA">MUSHIBA taiji wa TSUBAME ni omakase no maki</title></episode>
+<episode num="417">
+<title gid="3775984695" lang="JA">daihakken ! AFURIKAGUMO no maki</title></episode>
+<episode num="418">
+<title gid="672782234" lang="JA">douzou ni naritai shishi maru no maki</title></episode>
+<episode num="419">
+<title gid="1833449332" lang="JA">ARUBAITO dai sakusen no maki</title></episode>
+<episode num="420">
+<title gid="2515243654" lang="JA">sessha san hha KEN'ichi de gozaru no maki</title></episode>
+<episode num="421">
+<title gid="1766279309" lang="JA">oshiri ni wa chuui suru de gozaru no maki</title></episode>
+<episode num="422">
+<title gid="2298670261" lang="JA">KEN'ichi shi no ryouri kyou jidai no maki</title></episode>
+<episode num="423">
+<title gid="2853832578" lang="JA">ugokidashita musha ningyou no maki</title></episode>
+<episode num="424">
+<title gid="1985008052" lang="JA">sensei no dai majutsu no maki</title></episode>
+<episode num="425">
+<title gid="2483247257" lang="JA">jishi maru no ninpou shuugyou no maki</title></episode>
+<episode num="426">
+<title gid="1881858207" lang="JA">namida to warai no yuuen chi no maki</title></episode>
+<episode num="427">
+<title gid="1869531842" lang="JA">ninpou yagai TESUTO no maki</title></episode>
+<episode num="428">
+<title gid="2741598361" lang="JA">tonda nori sugoshi no maki</title></episode>
+<episode num="429">
+<title gid="1522281110" lang="JA">mei KAMERAMAN. KEN'ichi shi no maki</title></episode>
+<episode num="430">
+<title gid="246243489" lang="JA">ashita tenki ni naare ! no maki</title></episode>
+<episode num="431">
+<title gid="2556926972" lang="JA">kotowaza dai tokkun no maki</title></episode>
+<episode num="432">
+<title gid="2475452406" lang="JA">touan youshi wo torikaese no maki</title></episode>
+<episode num="433">
+<title gid="2602609487" lang="JA">4 nen 2 kumi wa sanagi soudou no maki</title></episode>
+<episode num="434">
+<title gid="2789158344" lang="JA">natsu da ! tanima de KYAHHOU de gozaru no maki</title></episode>
+<episode num="435">
+<title gid="3625224680" lang="JA">ima koso genshi seikatsu ! no maki</title></episode>
+<episode num="436">
+<title gid="3915022289" lang="JA">kieta yumeko-chan no BURESURETTO no maki</title></episode>
+<episode num="437">
+<title gid="1956016152" lang="JA">kieta PAPA-ue no HESOKURI no maki</title></episode>
+<episode num="438">
+<title gid="2396667117" lang="JA">monogusa onsen no maki</title></episode>
+<episode num="439">
+<title gid="3151611500" lang="JA">sessha kyoufu no shikake jin de gozaru no maki</title></episode>
+<episode num="440">
+<title gid="3604595870" lang="JA">MAMA-ue ga inai to PANIKKU de gozaru no maki</title></episode>
+<episode num="441">
+<title gid="2540057566" lang="JA">ashiato wo nusume ! no maki</title></episode>
+<episode num="442">
+<title gid="1909878160" lang="JA">ninpou gamu fuusen no maki</title></episode>
+<episode num="443">
+<title gid="1449178135" lang="JA">ABEKKU futari san kyaku de gozaru no maki</title></episode>
+<episode num="444">
+<title gid="2607889493" lang="JA">tsumori chokin de eiga ni ikou ! no maki</title></episode>
+<episode num="445">
+<title gid="3205703285" lang="JA">NINNIN ! seiketsu dai ichi de gozaru no maki</title></episode>
+<episode num="446">
+<title gid="2502879278" lang="JA">shin ninpou hinotama PAWAA no maki</title></episode>
+<episode num="447">
+<title gid="2094275714" lang="JA">sessha ! TEREBI shutsuen okotowari de gozaru no maki</title></episode>
+<episode num="448">
+<title gid="2477897592" lang="JA">chuugoku ninpou ni chousen suru de gozaru no maki</title></episode>
+<episode num="449">
+<title gid="2467526008" lang="JA">kibun wa mekkiri mu juuryoku ! no maki</title></episode>
+<episode num="450">
+<title gid="2554553743" lang="JA">KEN'ichi shi no SAIKOKINESHISU no maki</title></episode>
+<episode num="451">
+<title gid="1863578566" lang="JA">aki no yoru wa mushi no koe no maki</title></episode>
+<episode num="452">
+<title gid="2838669272" lang="JA">ninpou kinnikuzukuri wa NINNIN de gozaru no maki</title></episode>
+<episode num="453">
+<title gid="563470371" lang="JA">kazehiki boushi dai sakusen no maki</title></episode>
+<episode num="454">
+<title gid="1599848665" lang="JA">bouhan SHISUTEMU ni chousen suru de gozaru no maki</title></episode>
+<episode num="455">
+<title gid="2731680478" lang="JA">KURISUMASU KEEKI to dai souji no maki</title></episode>
+<episode num="456">
+<title gid="2766560112" lang="JA">KAERU nante kowakunai de gozaru no maki</title></episode>
+<episode num="457">
+<title gid="3041960185" lang="JA">ninpou betsu jinkaku wa osoroshii no maki</title></episode>
+<episode num="458">
+<title gid="1113806160" lang="JA">KEN'ichi shi ga 100 ten totta ??? no maki</title></episode>
+<episode num="459">
+<title gid="2150066303" lang="JA">gozaru to ittara bakkin de gozaru no maki</title></episode>
+<episode num="460">
+<title gid="2130680438" lang="JA">PIRAMIDDO PAWAA de 100 ten wo torou no maki</title></episode>
+<episode num="461">
+<title gid="1964659182" lang="JA">KEN'ichi uji seito kaichou ni rikkouho no maki</title></episode>
+<episode num="462">
+<title gid="2870296949" lang="JA">samusa shinogi wa doton no jutsu de no maki</title></episode>
+<episode num="463">
+<title gid="734204571" lang="JA">GAMA no abura nya GAMAN deki nu no maki</title></episode>
+<episode num="464">
+<title gid="3331301649" lang="JA">GINESUBUKKU ni chousen suru de gozaru no maki</title></episode>
+<episode num="465">
+<title gid="1874937006" lang="JA">HOWAITODEE ni wa KUKKII de gozaru no maki</title></episode>
+<episode num="466">
+<title gid="2262589402" lang="JA">sessha to te shippai wa aru de gozaru no maki</title></episode>
+<episode num="467">
+<title gid="2930337514" lang="JA">kieta shishi juuji no maki</title></episode>
+<episode num="468">
+<title gid="2420091856" lang="JA">akogare no HANBAAGAA de gozaru no maki</title></episode>
+<episode num="469">
+<title gid="1733295103" lang="JA">souji touban wo 10 bai tanoshimu ninpou no maki</title></episode>
+<episode num="470">
+<title gid="1982675374" lang="JA">kunoichi henshin wa korigori de gozaru no maki</title></episode>
+<episode num="471">
+<title gid="2771428474" lang="JA">hayaku me wo dase kaki no tane no maki</title></episode>
+<episode num="472">
+<title gid="1731661188" lang="JA">sessha datte kodomo de gozaru no maki</title></episode>
+<episode num="473">
+<title gid="3513834781" lang="JA">ninpou tsukawa nu wa kurushii de gozaru no maki</title></episode>
+<episode num="474">
+<title gid="1706006185" lang="JA">SHINZOU youchien e iku no maki</title></episode>
+<episode num="475">
+<title gid="1861042159" lang="JA">ninpou tobu tori ni chousen suru de gozaru no maki</title></episode>
+<episode num="476">
+<title gid="2104847218" lang="JA">kutsu wo haita hattori-kun no maki</title></episode>
+<episode num="477">
+<title gid="2803332975" lang="JA">hayaki koto kaze no gotoshi no maki</title></episode>
+<episode num="478">
+<title gid="3554938835" lang="JA">hiden ! ninpou sakiyomi no jutsu no maki</title></episode>
+<episode num="479">
+<title gid="2752680151" lang="JA">KEN'ichi uji, okogoto ni hangeki ! no maki</title></episode>
+<episode num="480">
+<title gid="3026775140" lang="JA">hissatsu ! ninpou EREKYATTO wa tegowaizo no maki</title></episode>
+<episode num="481">
+<title gid="1523359305" lang="JA">JIGUSOUPAZURU de dai sawagi no maki</title></episode>
+<episode num="482">
+<title gid="3220808512" lang="JA">HATTORI, KEMUMAKI kuuchuu sen no maki</title></episode>
+<episode num="483">
+<title gid="2240344721" lang="JA">ninpou tobi kumo ni chousen suru de gozaru no maki</title></episode>
+<episode num="484">
+<title gid="1680215440" lang="JA">ninpou kanninbukuro !? no maki</title></episode>
+<episode num="485">
+<title gid="1571535499" lang="JA">kikai ba de shoubu suru de gozaru no maki</title></episode>
+<episode num="486">
+<title gid="870556324" lang="JA">natsu da, atsu sa da, gaman taikai no maki</title></episode>
+<episode num="487">
+<title gid="2245285870" lang="JA">ninpou jigoku e ichi do wa oide no maki</title></episode>
+<episode num="488">
+<title gid="2661645978" lang="JA">ninpou hitomoji sakusen dai seikou no maki</title></episode>
+<episode num="489">
+<title gid="1228352174" lang="JA">KEN'ichi shi no yokoku HOUMURAN no maki</title></episode>
+<episode num="490">
+<title gid="2634410489" lang="JA">ninpou koi no toriko ni wa maitta de gozaru no maki</title></episode>
+<episode num="491">
+<title gid="2242579562" lang="JA">TOGE jirou ga yattekita de gozaru no maki (PAATO I)</title></episode>
+<episode num="492">
+<title gid="1684469390" lang="JA">TOGE jirou ga yattekita de gozaru no maki (PAATO II)</title></episode>
+<episode num="493">
+<title gid="2337205321" lang="JA">TOGE jirou wo yoroshiku de gozaru no maki</title></episode>
+<episode num="494">
+<title gid="2456702884" lang="JA">jishi maru no ichi nichi ouji sama kibun de gozaru no maki</title></episode>
+<episode num="495">
+<title gid="934117475" lang="JA">ken mo odaterya chou nouryoku ?! no maki</title></episode>
+<episode num="496">
+<title gid="1347066902" lang="JA">TOGE jirou ni RAIBARU ara waru ?! no maki</title></episode>
+<episode num="497">
+<title gid="2463984561" lang="JA">ninja hana PUREZENTO sakusen no maki</title></episode>
+<episode num="498">
+<title gid="3450838655" lang="JA">hinotama PAWAA ni wa maitta de gozaru no maki</title></episode>
+<episode num="499">
+<title gid="2086275175" lang="JA">hitosawagase na TOGETOGE ryouri no maki</title></episode>
+<episode num="500">
+<title gid="2518897291" lang="JA">hashire ! kage sen dai no maki</title></episode>
+<episode num="501">
+<title gid="2693000186" lang="JA">kouga ninja no shin deshi wa no maki</title></episode>
+<episode num="502">
+<title gid="846060646" lang="JA">FOUKUDANSU de koi kassen no maki</title></episode>
+<episode num="503">
+<title gid="2332392159" lang="JA">ninpou GORUFU kassen de gozaru no maki</title></episode>
+<episode num="504">
+<title gid="1450438337" lang="JA">himitsu no NEKKACHIIFU no maki</title></episode>
+<episode num="505">
+<title gid="4219787147" lang="JA">ninpou DOMINO wa tanoshuu GOZARU no maki</title></episode>
+<episode num="506">
+<title gid="2483209951" lang="JA">ninpou KAMEREON henka ni wa maitta de gozaru no maki</title></episode>
+<episode num="507">
+<title gid="2130361983" lang="JA">dentou no aji wa tsurai de gozaru no maki</title></episode>
+<episode num="508">
+<title gid="1171322431" lang="JA">ninja mo maitta mushiba de gozaru no maki</title></episode>
+<episode num="509">
+<title gid="3101543321" lang="JA">kanpou ninpou TSUBO uchikaeshi ! no maki</title></episode>
+<episode num="510">
+<title gid="1797288651" lang="JA">kage sen dai ninpou denki KOTATSU no maki</title></episode>
+<episode num="511">
+<title gid="2406255781" lang="JA">nanika ga machi ni yattekuru no maki</title></episode>
+<episode num="512">
+<title gid="4215470038" lang="JA">shin ninpou no douke washi no maki</title></episode>
+<episode num="513">
+<title gid="1213593759" lang="JA">ninpou tooboe dai gyakuten !! no maki</title></episode>
+<episode num="514">
+<title gid="3847943795" lang="JA">sore wa MATTA de hajimatta !? no maki</title></episode>
+<episode num="515">
+<title gid="2527477075" lang="JA">tokusatsu ninpou kassen de gozaru no maki</title></episode>
+<episode num="516">
+<title gid="522288788" lang="JA">ninpou itsudemo dokodemo neru houhou no maki</title></episode>
+<episode num="517">
+<title gid="1490003575" lang="JA">toumin ninpou wa kaze no moto de gozaru no maki</title></episode>
+<episode num="518">
+<title gid="3466976453" lang="JA">sessha muteki no HATTORI de gozaru no maki</title></episode>
+<episode num="519">
+<title gid="1052531163" lang="JA">yon nen ni ichi do no NINNIN kinenbi no maki</title></episode>
+<episode num="520">
+<title gid="2988634732" lang="JA">KEN'ichi shi no tonda dokuritsu sengen no maki</title></episode>
+<episode num="521">
+<title gid="3137333799" lang="JA">ninpou shigusa yomi no maki</title></episode>
+<episode num="522">
+<title gid="374242620" lang="JA">ninpou TEREPOUTEESHON de gozaru no maki</title></episode>
+<episode num="523">
+<title gid="2599021576" lang="JA">oningyou SOS no maki</title></episode>
+<episode num="524">
+<title gid="1497177927" lang="JA">tonda kofun soudou no maki</title></episode>
+<episode num="525">
+<title gid="781298548" lang="JA">ninpou BIDEO ayatsuri ni wa goyoujin no maki</title></episode>
+<episode num="526">
+<title gid="3150966510" lang="JA">uchuujin wa CHIKUWA ga wo suki no maki</title></episode>
+<episode num="527">
+<title gid="2227206056" lang="JA">kage sen dai denryoku kabushikigaisha no maki</title></episode>
+<episode num="528">
+<title gid="1192629535" lang="JA">ninpou juudou wa juuroudou de gozaru no maki</title></episode>
+<episode num="529">
+<title gid="2371148211" lang="JA">ninpou shinshutsukibotsu de dai sawagi no maki</title></episode>
+<episode num="530">
+<title gid="2557897902" lang="JA">TOGE jirou yo yasei ni kaere ! no maki</title></episode>
+<episode num="531">
+<title gid="2796299573" lang="JA">shin ninpou kiai hou de DOKAN ! no maki</title></episode>
+<episode num="532">
+<title gid="1022338583" lang="JA">ninpou shin kakushi wa kowai de gozaru no maki</title></episode>
+<episode num="533">
+<title gid="1856435521" lang="JA">MAMA-ue wa SUUPAA kunoichi de gozaru no maki</title></episode>
+<episode num="534">
+<title gid="2378825457" lang="JA">binbou yusuri wo naosu de gozaru no maki</title></episode>
+<episode num="535">
+<title gid="1170185565" lang="JA">TOGE jirou no chou nouryoku TEREBI no maki</title></episode>
+<episode num="536">
+<title gid="457767684" lang="JA">KEN'ichi shi no hyaku ten wa kowai de gozaru no maki</title></episode>
+<episode num="537">
+<title gid="2121951754" lang="JA">bunshin no kyoufu de gozaru no maki</title></episode>
+<episode num="538">
+<title gid="2514402005" lang="JA">hareta asa ni wa futon hoshi no maki</title></episode>
+<episode num="539">
+<title gid="1002474400" lang="JA">ninpou moyougae de kokoro ukiuki no maki</title></episode>
+<episode num="540">
+<title gid="2771929406" lang="JA">ninpou tsubo uchi de dounimo tomara nai no maki</title></episode>
+<episode num="541">
+<title gid="1079521340" lang="JA">kage sen dai namida no EREKYATTO no maki</title></episode>
+<episode num="542">
+<title gid="2569507386" lang="JA">ninpou omeme PACCHIRI sakusen de gozaru no maki</title></episode>
+<episode num="543">
+<title gid="3050766656" lang="JA">SHINZOU nageten matsu ki no maki</title></episode>
+<episode num="544">
+<title gid="767357146" lang="JA">ninpou chototsumoushin de IKKI oshi no maki</title></episode>
+<episode num="545">
+<title gid="2787290864" lang="JA">sessha ga akaku natta wake no maki</title></episode>
+<episode num="546">
+<title gid="2452379774" lang="JA">ARI to KIRIGIRISU sakusen no maki</title></episode>
+<episode num="547">
+<title gid="2152916396" lang="JA">otoko KEMUMAKI doko e iku no maki</title></episode>
+<episode num="548">
+<title gid="2914515985" lang="JA">GAMANGAMAN no shin ninpou no maki</title></episode>
+<episode num="549">
+<title gid="1784580913" lang="JA">sensei shi wa asa ga nigate de gozaru no maki</title></episode>
+<episode num="550">
+<title gid="1964411060" lang="JA">me ni mo tomara nu haya waza nante no maki</title></episode>
+<episode num="551">
+<title gid="2735241978" lang="JA">akogare no kouga ninja no maki</title></episode>
+<episode num="552">
+<title gid="1742523398" lang="JA">ninpou inshou kioku jutsu no maki</title></episode>
+<episode num="553">
+<title gid="1578737865" lang="JA">NEKOBABA wa ikan de gozaru no maki</title></episode>
+<episode num="554">
+<title gid="1526293515" lang="JA">gaman gaman no shinobi udon no maki</title></episode>
+<episode num="555">
+<title gid="2659928589" lang="JA">furui jitensha mo taisetsu ni no maki</title></episode>
+<episode num="556">
+<title gid="1886667951" lang="JA">NISEMAMA-ue, kaiki daisakusen no maki</title></episode>
+<episode num="557">
+<title gid="1596978706" lang="JA">AKUSHONKAMERA wa makaseru de gozaru no maki</title></episode>
+<episode num="558">
+<title gid="2742469849" lang="JA">tamago no oya wa sessha de gozaru no maki</title></episode>
+<episode num="559">
+<title gid="1486773663" lang="JA">ninpou kagemusha de dai sawagi no maki</title></episode>
+<episode num="560">
+<title gid="1897018207" lang="JA">itazura wa jibun no kao de no maki</title></episode>
+<episode num="561">
+<title gid="3346107780" lang="JA">ninpou gishinanki ni goyoujin no maki</title></episode>
+<episode num="562">
+<title gid="561123793" lang="JA">nige okure hisshou sakusen no maki</title></episode>
+<episode num="563">
+<title gid="1997749105" lang="JA">korezo sessha no dasshutsu ninpou ! no maki</title></episode>
+<episode num="564">
+<title gid="1223298141" lang="JA">hatsumei no michi wa kibishii de gozaru no maki</title></episode>
+<episode num="565">
+<title gid="1794597963" lang="JA">SHEIPUAPPU wa inochigake ! no maki</title></episode>
+<episode num="566">
+<title gid="1805178462" lang="JA">aniki, KENTAROU !? no maki</title></episode>
+<episode num="567">
+<title gid="2191434367" lang="JA">kage sen dai no SUPAI dai sakusen no maki</title></episode>
+<episode num="568">
+<title gid="1874503444" lang="JA">aozora dekkaku ninpou noroshi no maki</title></episode>
+<episode num="569">
+<title gid="1970875552" lang="JA">PETTO wa tanoshi ? no maki</title></episode>
+<episode num="570">
+<title gid="3503875547" lang="JA">wasuremono wa jibun de todoku ? no maki</title></episode>
+<episode num="571">
+<title gid="2437100606" lang="JA">DEETO wa SAIKORO shoubu !? no maki</title></episode>
+<episode num="572">
+<title gid="3487724444" lang="JA">ninja neko wa kibishii de gozaru no maki</title></episode>
+<episode num="573">
+<title gid="1713605269" lang="JA">iga ninpou de kumonoue no maki</title></episode>
+<episode num="574">
+<title gid="979493555" lang="JA">densha wa choppiri nigate de gozaru no maki</title></episode>
+<episode num="575">
+<title gid="1689040981" lang="JA">suteki na kakureka wo mitsukechaou no maki</title></episode>
+<episode num="576">
+<title gid="1668199097" lang="JA">koori no choukoku surikae sakusen no maki</title></episode>
+<episode num="577">
+<title gid="2427942617" lang="JA">suezen kuwanu wa ninja no haji no maki</title></episode>
+<episode num="578">
+<title gid="1941942647" lang="JA">oshioki wa choppiri KUSAI de gozaru no maki</title></episode>
+<episode num="579">
+<title gid="1904645750" lang="JA">jishi maru wa ERIITO ninja ken de gozaru no maki</title></episode>
+<episode num="580">
+<title gid="3101780056" lang="JA">nusumareta MAMA-ue no maki</title></episode>
+<episode num="581">
+<title gid="3603577236" lang="JA">otoko dokyou no PUROPOUZU de gozaru no maki</title></episode>
+<episode num="582">
+<title gid="3475384103" lang="JA">KEMUMAKI shi wa sessha wo koeta !? no maki</title></episode>
+<episode num="583">
+<title gid="1359987238" lang="JA">hito sawagase naku no ichi henshin no maki</title></episode>
+<episode num="584">
+<title gid="3146480438" lang="JA">migawari wa ningyou ni makaseru de gozaru no maki</title></episode>
+<episode num="585">
+<title gid="4077008816" lang="JA">ureshi hazukashi otomari de gozaru no maki</title></episode>
+<episode num="586">
+<title gid="2471499760" lang="JA">ninpou shin no me wa ma kurayami de gozaru no maki</title></episode>
+<episode num="587">
+<title gid="2114349612" lang="JA">KEN'ichi ninpou ogamitaoshi no maki</title></episode>
+<episode num="588">
+<title gid="2584695084" lang="JA">PUREZENTO kuji wa ninpou hebi nawa de no maki</title></episode>
+<episode num="589">
+<title gid="2195800538" lang="JA">atsui yuujou no akashi de gozaru no maki</title></episode>
+<episode num="590">
+<title gid="989776104" lang="JA">ninpou BUNBUN ayatsuri no maki</title></episode>
+<episode num="591">
+<title gid="2371203377" lang="JA">ninpou GYARUPAWAA ni wa oteage de gozaru no maki</title></episode>
+<episode num="592">
+<title gid="1496419504" lang="JA">ninpou kaminari taiko ni wa maitta de gozaru no maki</title></episode>
+<episode num="593">
+<title gid="2909020007" lang="JA">ninpou kyoufu no PAWAA de gozaru no maki</title></episode>
+<episode num="594">
+<title gid="2582324711" lang="JA">nani tatte PAPA-ue wa erai de gozaru no maki</title></episode>
+<episode num="595">
+<title gid="1159643091" lang="JA">ken no kirai na okyaku-sama de gozaru no maki</title></episode>
+<episode num="596">
+<title gid="3783083657" lang="JA">tsuini TSUBAME-dono to doukyo de gozaru !? no maki</title></episode>
+<episode num="597">
+<title gid="2039738905" lang="JA">sora tobu HOUKI ni wa maitta de gozaru no maki</title></episode>
+<episode num="598">
+<title gid="2676561413" lang="JA">KEMUMAKI-shi wa nemuri-hime de gozaru no maki</title></episode>
+<episode num="599">
+<title gid="1348951338" lang="JA">ninpou tetsu no mizu ayatsuri no maki</title></episode>
+<episode num="600">
+<title gid="3774124545" lang="JA">ninpou fuurinkazan de hikae me ni no maki</title></episode>
+<episode num="601">
+<title gid="1800533885" lang="JA">ninpou HOTARU kassen no maki</title></episode>
+<episode num="602">
+<title gid="2627503391" lang="JA">mitsubaka no himitsu de gozaru no maki</title></episode>
+<episode num="603">
+<title gid="2826537673" lang="JA">ninpou tori kaekko wa mou kori go ri no maki</title></episode>
+<episode num="604">
+<title gid="4025217610" lang="JA">hana wa osoku nakatta de gozaru no maki</title></episode>
+<episode num="605">
+<title gid="1812300446" lang="JA">ninpou neko henshin de dai sawagi no maki</title></episode>
+<episode num="606">
+<title gid="2031057763" lang="JA">SUUPAA.EREKYATTO.SUPESHARU no maki</title></episode>
+<episode num="607">
+<title gid="1673975832" lang="JA">keshi GOMU tabeta shishi maru wa? no maki</title></episode>
+<episode num="608">
+<title gid="3865796083" lang="JA">ouen kassen go fun mae !! no maki</title></episode>
+<episode num="609">
+<title gid="2800042798" lang="JA">me ni wa me o, mimi ni wa mimi wo de gozaru no maki</title></episode>
+<episode num="610">
+<title gid="2253425605" lang="JA">ninpou ! hoe te ichi hatsu hayawakari no maki</title></episode>
+<episode num="611">
+<title gid="2018291638" lang="JA">iga no chie sui !? no maki</title></episode>
+<episode num="612">
+<title gid="1095341177" lang="JA">suichuu zazen ni te wo dasu na no maki</title></episode>
+<episode num="613">
+<title gid="3069250924" lang="JA">HORAA shashin wa omakase de gozaru no maki</title></episode>
+<episode num="614">
+<title gid="4261244474" lang="JA">KEMUMAKI hiden kyuukyoku no kanashibari no maki</title></episode>
+<episode num="615">
+<title gid="1729888913" lang="JA">kendou wa MENDOU de gozaru no maki</title></episode>
+<episode num="616">
+<title gid="2608017701" lang="JA">ninpou inagara ni shite wo mitooshi !? no maki</title></episode>
+<episode num="617">
+<title gid="764887073" lang="JA">makimono ni wa te wo dasu na !? no maki</title></episode>
+<episode num="618">
+<title gid="2413288447" lang="JA">MEZASHI wa shin ninpou no so de gozaru no maki</title></episode>
+<episode num="619">
+<title gid="3272263024" lang="JA">ninpou NISE shashin de hai ! POUZU no maki</title></episode>
+<episode num="620">
+<title gid="1783168991" lang="JA">kage sen dai wa okyaku-sama de gozaru no maki</title></episode>
+<episode num="621">
+<title gid="2203759899" lang="JA">machi do oshii yobou chuusha !? no maki</title></episode>
+<episode num="622">
+<title gid="2760946448" lang="JA">tosho no seiri mo ninpou de !? no maki</title></episode>
+<episode num="623">
+<title gid="1105854677" lang="JA">samusa ichiban SUKEETO hiyori no maki</title></episode>
+<episode num="624">
+<title gid="1816193181" lang="JA">USOtsuki wa ninpou no hajimari !? no maki</title></episode>
+<episode num="625">
+<title gid="3883150212" lang="JA">kebyou wa tsukareru de gozaru no maki</title></episode>
+<episode num="626">
+<title gid="3232246515" lang="JA">sessha ga HANSAMU shounen de gozaru !? no maki</title></episode>
+<episode num="627">
+<title gid="1803590869" lang="JA">ninpou oozei ayatsuri gaeshi !? no maki</title></episode>
+<episode num="628">
+<title gid="2733663590" lang="JA">minna de tsukamo u ninpou no KOTSU !? no maki</title></episode>
+<episode num="629">
+<title gid="2335952974" lang="JA">ninpou neko aruki ni wa hana de shoubu de gozaru no maki</title></episode>
+<episode num="630">
+<title gid="1982988236" lang="JA">uso ka enryo ka IJIWARU ka ? no maki</title></episode>
+<episode num="631">
+<title gid="1261048755" lang="JA">itoshigo sensei yameru de gozaru no maki</title></episode>
+<episode num="632">
+<title gid="709984295" lang="JA">nebusoku wa KENKA no moto de gozaru no maki</title></episode>
+<episode num="633">
+<title gid="2477110253" lang="JA">HATTORI ninpou omitooshi no maki</title></episode>
+<episode num="634">
+<title gid="2146848314" lang="JA">amefutte chikatamaru de gozaru no maki</title></episode>
+<episode num="635">
+<title gid="2160980435" lang="JA">ninpou kyoufu no tamatebako de gozaru no maki</title></episode>
+<episode num="636">
+<title gid="1864778816" lang="JA">biyou in ni wa himitsu ga ippai de gozaru no maki</title></episode>
+<episode num="637">
+<title gid="2146705372" lang="JA">ninpou konoha wa kaze ni notte no maki</title></episode>
+<episode num="638">
+<title gid="2072067611" lang="JA">MAMA-ue wo torikaese no maki</title></episode>
+<episode num="639">
+<title gid="1752324985" lang="JA">musun de hirai te kage chiyo tai no maki</title></episode>
+<episode num="640">
+<title gid="2022083525" lang="JA">kaichou FIIBAA ni wa komatta de gozaru no maki</title></episode>
+<episode num="641">
+<title gid="1602818457" lang="JA">tenyawanya no hatsu butai de gozaru no maki</title></episode>
+<episode num="642">
+<title gid="1412199990" lang="JA">gozaru gozaru no KEN'ichiuji !? no maki</title></episode>
+<episode num="643">
+<title gid="2372452412" lang="JA">otoko wo migaku de gozaru no maki</title></episode>
+<episode num="644">
+<title gid="1559046392" lang="JA">haru no owari no shasei kai no maki</title></episode>
+<episode num="645">
+<title gid="3034494640" lang="JA">ninpou yume nusumi wa shinan no waza de gozaru no maki</title></episode>
+<episode num="646">
+<title gid="1789449338" lang="JA">sensei ga oyobi de gozaru no maki</title></episode>
+<episode num="647">
+<title gid="1513922888" lang="JA">gouka kyakusen ni go shoutai no maki</title></episode>
+<episode num="648">
+<title gid="847495323" lang="JA">KOREKUSHON wa ninpou takuhon de no maki</title></episode>
+<episode num="649">
+<title gid="1648822507" lang="JA">tonda neko kawaigari no hi no maki</title></episode>
+<episode num="650">
+<title gid="3567298713" lang="JA">gyogyo gyo no gyotaku de gozaru no maki</title></episode>
+<episode num="651">
+<title gid="2509023106" lang="JA">ninpou jishi maru BOURU de NAISUSHUUTO no maki</title></episode>
+<episode num="652">
+<title gid="2094858946" lang="JA">ninpou kamen shin ka kushi no maki</title></episode>
+<episode num="653">
+<title gid="1738575067" lang="JA">PAPA-ue no kaban omamori suru de gozaru no maki</title></episode>
+<episode num="654">
+<title gid="1308681495" lang="JA">KEMUMAKI shi wa futsuu no otokonoko !? no maki</title></episode>
+<episode num="655">
+<title gid="2312389265" lang="JA">jishi maru shusshou no himitsu no maki</title></episode>
+<episode num="656">
+<title gid="3378093499" lang="JA">koukuu shashin de dai sawagi no maki</title></episode>
+<episode num="657">
+<title gid="1254831268" lang="JA">jishi maru datte shin ninpou no maki</title></episode>
+<episode num="658">
+<title gid="1352093534" lang="JA">hiden ! kyoui no shuriken nage de gozaru no maki</title></episode>
+<episode num="659">
+<title gid="2162919620" lang="JA">KEN'ichi shi no neko henshin ? no maki</title></episode>
+<episode num="660">
+<title gid="1357878097" lang="JA">KEN'ichi shi no shiriomo sugiru de gozaru no maki</title></episode>
+<episode num="661">
+<title gid="1558205763" lang="JA">ninja kingyo wa kouga shirushi no maki</title></episode>
+<episode num="662">
+<title gid="1453673636" lang="JA">suichuu shashin wa ikaga de gozaru no maki</title></episode>
+<episode num="663">
+<title gid="393258791" lang="JA">JIPPOU ga yatteki ta de gozaru no maki</title></episode>
+<episode num="664">
+<title gid="2869601745" lang="JA">ninpou HANBAAGAA wo meshiagare no maki</title></episode>
+<episode num="665">
+<title gid="1304478426" lang="JA">JIPPOU kikyuu de KARIBU ryokou no maki</title></episode>
+<episode num="666">
+<title gid="3869805111" lang="JA">kaji wa omakase JIPPOU de gozaru no maki</title></episode>
+<episode num="667">
+<title gid="1046214247" lang="JA">JIPPOU wa meibanken ? de gozaru no maki</title></episode>
+<episode num="668">
+<title gid="2883398774" lang="JA">ninpou kuuchuu teishi hikou de gozaru no maki</title></episode>
+<episode num="669">
+<title gid="2975521376" lang="JA">san hiki no ninja arawareru no maki</title></episode>
+<episode num="670">
+<title gid="702609480" lang="JA">bousou JIPPOU iwa sharin no maki</title></episode>
+<episode num="671">
+<title gid="679182052" lang="JA">ninpou tatami gaeshi de shikaeshi de gozaru no maki</title></episode>
+<episode num="672">
+<title gid="3594128871" lang="JA">hanchou to ieba oya mo douzen no maki</title></episode>
+<episode num="673">
+<title gid="3445517422" lang="JA">ninpou ningen hou dan de gozaru no maki</title></episode>
+<episode num="674">
+<title gid="1000732371" lang="JA">ARUBAITO wa JIPPOU ni omakase de gozaru no maki</title></episode>
+<episode num="675">
+<title gid="2917690273" lang="JA">shin ninpou yubi TONTON no jutsu de gozaru no maki</title></episode>
+<episode num="676">
+<title gid="3121672228" lang="JA">KEMUMAKI shi no SARABA kinen bi no maki</title></episode>
+<episode num="677">
+<title gid="2837654168" lang="JA">ninpou taki kudari wa mizu girai no moto no maki</title></episode>
+<episode num="678">
+<title gid="2959033183" lang="JA">ninpou nemuri fue de dai sawagi no maki</title></episode>
+<episode num="679">
+<title gid="2277473275" lang="JA">sensei no jakuten wo mitsuketa de gozaru no maki</title></episode>
+<episode num="680">
+<title gid="2258443916" lang="JA">shoumei ! kage sen dai no keppaku no maki</title></episode>
+<episode num="681">
+<title gid="2104780917" lang="JA">suteki na kadan wo tsukuru de gozaru no maki</title></episode>
+<episode num="682">
+<title gid="2672890523" lang="JA">ninpou tenki yomitori dai hazure ? no maki</title></episode>
+<episode num="683">
+<title gid="3443323291" lang="JA">nusumareta HATTORI ninpou no maki</title></episode>
+<episode num="684">
+<title gid="2592346437" lang="JA">hatsu koukai korezo ! jishi maru no (himitsu) ninpou no maki</title></episode>
+<episode num="685">
+<title gid="2398015212" lang="JA">KAPPA ga KAPPA ni bikkuri gyouten no maki</title></episode>
+<episode num="686">
+<title gid="2650869911" lang="JA">gakkou ni tomatte wa ike nai de gozaru no maki</title></episode>
+<episode num="687">
+<title gid="1246990676" lang="JA">futari wa RAIBARU de gozaru no maki</title></episode>
+<episode num="688">
+<title gid="2284674611" lang="JA">ninpou SABAIBARU shuugyou de dai sawagi no maki</title></episode>
+<episode num="689">
+<title gid="1524508743" lang="JA">ninpou YAGI no KOPII de gozaru no maki</title></episode>
+<episode num="690">
+<title gid="2201135378" lang="JA">tenugui ninpou wa bannou de gozaru no maki</title></episode>
+<episode num="691">
+<title gid="3553918998" lang="JA">okotte waratte KURUKURU de gozaru no maki</title></episode>
+<episode num="692">
+<title gid="2623908525" lang="JA">mienai ito de kuuchuu yuuei no maki</title></episode>
+<episode num="693">
+<title gid="2816037194" lang="JA">kage sen dai namida no henshin ninpou no maki</title></episode>
+<episode num="694">
+<title gid="2991865240" lang="JA">yukiyama no karakuri sansou no maki</title></episode>
+<news datetime="2011-02-12T14:46:46Z" href="http://www.animenewsnetwork.com/news/2011-02-12/mermaid-forest-screenwriter-shoichiro-okubo-passes-away">&lt;cite&gt;Mermaid Forest&lt;/cite&gt; Screenwriter Shōichirō Ōkubo Passes Away</news>
+<news datetime="2012-01-14T08:38:23Z" href="http://www.animenewsnetwork.com/news/2012-01-14/ninja-hattori-kun-comedy-anime-gets-remake-in-india">&lt;cite&gt;Ninja Hattori-kun&lt;/cite&gt; Comedy Anime Gets Remake in India</news>
+<staff gid="2155629532"><task>Chief Director</task><person id="6621">Hiroshi Sasagawa</person></staff>
+<staff gid="536217610"><task>Director</task><person id="58">Junji Nishimura</person></staff>
+<staff gid="2158432598"><task>Director</task><person id="3335">Fumio Ikeno</person></staff>
+<staff gid="2500858902"><task>Director</task><person id="6621">Hiroshi Sasagawa</person></staff>
+<staff gid="1157378434"><task>Director</task><person id="22267">Soichiro Zen</person></staff>
+<staff gid="2039072621"><task>Series Composition</task><person id="110276">Masaaki Sakurai</person></staff>
+<staff gid="564855036"><task>Screenplay</task><person id="107">Shouichirou Ookubo</person></staff>
+<staff gid="924518208"><task>Screenplay</task><person id="108">Mami Watanabe</person></staff>
+<staff gid="115497045"><task>Screenplay</task><person id="341">Yasuhiro Imagawa</person></staff>
+<staff gid="2268716887"><task>Screenplay</task><person id="641">Kenji Terada</person></staff>
+<staff gid="852941340"><task>Screenplay</task><person id="2627">Yu Yamamoto</person></staff>
+<staff gid="2604692105"><task>Screenplay</task><person id="5448">Nobuaki Kishima</person></staff>
+<staff gid="3209764411"><task>Screenplay</task><person id="5776">Masaki Tsuji</person></staff>
+<staff gid="2786609134"><task>Screenplay</task><person id="8366">Noboru Ishiguro</person></staff>
+<staff gid="2741974544"><task>Screenplay</task><person id="10384">Noboru Shiroyama</person></staff>
+<staff gid="3390862738"><task>Music</task><person id="118">Shunsuke Kikuchi</person></staff>
+<staff gid="1982558850"><task>Original creator</task><person id="40302">Motoo Abiko</person></staff>
+<staff gid="2644141462"><task>Art Director</task><person id="15448">Takashi Miyano</person></staff>
+<staff gid="2488764659"><task>Animation Director</task><person id="5148">Nobuyuki Kitajima</person></staff>
+<staff gid="2736641253"><task>Animation Director</task><person id="5408">Sadayoshi Tominaga</person></staff>
+<staff gid="2175902040"><task>Animation Director</task><person id="9157">Keisuke Morishita</person></staff>
+<staff gid="1323125744"><task>Animation Director</task><person id="9974">Kazuo Tomizawa</person></staff>
+<staff gid="1131268337"><task>Animation Director</task><person id="10954">Noboru Furuse</person></staff>
+<staff gid="961039266"><task>Animation Director</task><person id="11801">Kanji Hara</person></staff>
+<staff gid="1887294873"><task>Animation Director</task><person id="12085">Akira Kawashima</person></staff>
+<staff gid="2527799577"><task>Animation Director</task><person id="20521">Hajime Matsuzaki</person></staff>
+<staff gid="2603106365"><task>Animation Director</task><person id="32441">Yoshiyuki Kikuchi</person></staff>
+<staff gid="1091685364"><task>Animation Director</task><person id="34846">Emiko Kataoka</person></staff>
+<staff gid="1326639947"><task>Animation Director</task><person id="35857">Shoji Yamashita</person></staff>
+<staff gid="703046838"><task>Director of Photography</task><person id="13795">Hitoshi Kaneko</person></staff>
+<staff gid="1882395604"><task>Producer</task><person id="2951">Yoshiaki Koizumi</person></staff>
+<staff gid="1485320225"><task>Producer</task><person id="5385">Yoshio Kato</person></staff>
+<staff gid="2098208744"><task>Producer</task><person id="18265">Hiroshi Hagino</person></staff>
+<staff gid="2528591122"><task>Producer</task><person id="61227">Tetsuo Kanno</person></staff>
+<cast gid="2174176322" lang="ES"><role>Kanichi Mitsuba</role><person id="50492">Marta Barbará</person></cast>
+<cast gid="1820281688" lang="ES"><role>Kanzu Hattori</role><person id="52146">Roser Aldabó</person></cast>
+<cast gid="2483385607" lang="ES"><role>Kenichi Mitsuba</role><person id="52333">Gracia Carvajal</person></cast>
+<cast gid="4010910478" lang="ES"><role>Kanichi Mitsuba</role><person id="62933">Meritxell Ané</person></cast>
+<cast gid="464781966" lang="ES"><role>Hattori el Ninja</role><person id="70078">José Maria Roquero</person></cast>
+<cast gid="1469863490" lang="ES"><role>Kanzo Hattori</role><person id="89992">María José Roquero</person></cast>
+<credit gid="2809028328"><task>Production</task><company id="160">TV Asahi</company></credit>
+<credit gid="3272945167"><task>Production</task><company id="454">Asatsu</company></credit>
+<credit gid="2601606782"><task>Production</task><company id="8779">Shin-Ei Animation</company></credit></anime></ann>

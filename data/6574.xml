@@ -1,0 +1,58 @@
+<ann><anime id="6574" gid="2148227427" type="OAV" name="Fuma no Kojirou: Yasha-hen" precision="OAV" generated-on="2016-03-27T02:49:03Z">
+<related-prev rel="adapted from" id="6573"/>
+<related-next id="6575" rel="sequel"/>
+<info gid="3478348185" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A6574-20.jpg" width="135" height="200"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A6574-20.jpg" width="135" height="200"/></info>
+<info gid="1168871554" type="Main title" lang="JA">Fuma no Kojirou: Yasha-hen</info>
+<info gid="2648386404" type="Alternative title" lang="FR">Kojirô !</info>
+<info gid="1955370806" type="Alternative title" lang="IT">Kojiro - Lo spirito del vento</info>
+<info gid="3118945867" type="Alternative title" lang="EN">Kojiro of the Fuma: Yasha Chapter</info>
+<info gid="1059739906" type="Alternative title" lang="JA">風魔の小次郎 夜叉篇</info>
+<info gid="699941225" type="Genres">action</info>
+<info gid="3478547334" type="Genres">adventure</info>
+<info gid="1950640494" type="Plot Summary">Hakuo Gakuin is on the verge of closing down due to students transferring to rival school Seishikan after mysterious injuries happening to students who refuse to transfer. To protect the school and its students they hire Kojiro, a member of the Fuma clan of ninjas. After finding out that Seishikan has enlisted the help of the Yasha ninja clan, who had been rivals with the Fuma for generations, Kojiro gains the help of his fellow Fuma ninjas. Even though they are hired to protect the schools, the two rival clans vow to destroy each other once and for all so that only one clan remains.</info>
+<info gid="2911914264" type="Number of episodes">6</info>
+<info gid="2189862734" type="Vintage">1989-06-01 to 1989-08-02</info>
+<info gid="2607169307" type="Opening Theme">&quot;Don't Go Away&quot; by Night Hawks</info>
+<info gid="1771476046" type="Ending Theme">&quot;Good-bye Marry&quot; by Night Hawks</info>
+<ratings nb_votes="25" weighted_score="7.3361" bayesian_score="7.40001"/>
+<episode num="1">
+<title gid="1717289618" lang="EN">Fûma no ichizoku ! Kojirô kenzan !!</title></episode>
+<episode num="2">
+<title gid="3630785402" lang="EN">Hayashi no raimei ! Hiryû Haô-ken !!</title></episode>
+<episode num="3">
+<title gid="3271294349" lang="EN">Gathering of fire! The 8 Yasha's generals</title></episode>
+<episode num="4">
+<title gid="2567412524" lang="EN">Visions on the mountain! Fog's Killer</title></episode>
+<episode num="5">
+<title gid="1616276482" lang="EN">Dancing lights! The Fuma's deadly mirror</title></episode>
+<episode num="6">
+<title gid="2857746128" lang="EN">Demise on the snow! The voice calling the warrior</title></episode>
+<staff gid="1305395388"><task>Director</task><person id="1238">Hidehito Ueda</person></staff>
+<staff gid="1590343338"><task>Series Composition</task><person id="93">Takao Koyama</person></staff>
+<staff gid="1949725075"><task>Music</task><person id="26355">Toshiro Imaizumi</person></staff>
+<staff gid="2378103930"><task>Original creator</task><person id="7821">Masami Kurumada</person></staff>
+<staff gid="779167471"><task>Character Design</task><person id="1637">Shingo Araki</person></staff>
+<staff gid="2620227394"><task>Character Design</task><person id="10395">Michi Himeno</person></staff>
+<staff gid="2746167383"><task>Character Design</task><person id="45357">Katsuya Nakamura</person></staff>
+<cast gid="3282815265" lang="FR"><role>Kojiro</role><person id="51970">Olivier cordina</person></cast>
+<cast gid="1739284896" lang="FR"><role>Musashi Asuka</role><person id="52127">Xavier Berlioz</person></cast>
+<cast gid="3388608346" lang="FR"><role>Musashi Asuka</role><person id="57293">Guillaume Cramoisan</person></cast>
+<cast gid="2179000993" lang="FR"><role>Ryuma</role><person id="57294">Marc Benjamin</person></cast>
+<cast gid="2331723689" lang="FR"><role>Ryuma</role><person id="57295">Pascal Tréhet</person></cast>
+<cast gid="2195327985" lang="FR"><role>Kuroshishi</role><person id="57296">Vincent Artaud</person></cast>
+<cast gid="1536837484" lang="FR"><role>Shoryu</role><person id="57297">Denis Maréchal</person></cast>
+<cast gid="3323131240" lang="FR"><role>Yasha</role><person id="57299">Valérie Atlani</person></cast>
+<cast gid="1427792152" lang="FR"><role>Kirikazé</role><person id="57301">Christophe Théveneau</person></cast>
+<cast gid="591990063" lang="IT"><role>Kojiro</role><person id="8999">Fabrizio Manfredi</person></cast>
+<cast gid="1367284301" lang="IT"><role>Ryoma</role><person id="18124">Claudio Moneta</person></cast>
+<cast gid="596032554" lang="IT"><role>Kirikaze</role><person id="18128">Simone D'Andrea</person></cast>
+<cast gid="2542703798" lang="IT"><role>Shoryu</role><person id="25932">Patrizio Prata</person></cast>
+<cast gid="2326381110" lang="IT"><role>Musashi Asuka</role><person id="26006">Riccardo Rossi</person></cast>
+<cast gid="3319210563" lang="JA"><role>Kirikaze</role><person id="666">Nobuo Tobita</person></cast>
+<cast gid="1660159263" lang="JA"><role>Musashi Asuka</role><person id="724">Sho Hayami</person></cast>
+<cast gid="2346895655" lang="JA"><role>Shôryû</role><person id="868">Shigeru Nakahara</person></cast>
+<cast gid="2919227584" lang="JA"><role>Ryuuma</role><person id="869">Hideyuki Hori</person></cast>
+<cast gid="339904724" lang="JA"><role>Kojirô</role><person id="1019">Keiichi Nanba</person></cast>
+<cast gid="1021622441" lang="JA"><role>Ryûoh</role><person id="1311">Yuusaku Yara</person></cast>
+<cast gid="2796135613" lang="JA"><role>Yasha Hime</role><person id="1662">Fumi Hirano</person></cast>
+<credit gid="632715406"><task>Production</task><company id="1928">Animate-Film</company></credit></anime></ann>

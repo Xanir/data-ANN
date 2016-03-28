@@ -1,0 +1,51 @@
+<ann><anime id="8949" gid="1924378383" type="OAV" name="Go Nagai World" precision="OAV" generated-on="2016-03-27T04:00:54Z">
+<related-prev rel="spinoff of" id="578"/>
+<related-prev rel="spinoff of" id="768"/>
+<related-prev rel="spinoff of" id="1100"/>
+<info gid="2223220862" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A8949-3.jpg" width="150" height="200"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A8949-3.jpg" width="150" height="200"/><img src="http://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A8949-3.jpg" width="280" height="374"/></info>
+<info gid="1138652955" type="Main title" lang="EN">Go Nagai World</info>
+<info gid="1593247518" type="Alternative title" lang="JA">CB Chara Nagai Go World</info>
+<info gid="2664961887" type="Alternative title" lang="IT">Il pazzo mondo di Go Nagai</info>
+<info gid="3188357110" type="Alternative title" lang="AR">عالم جوناجاي المجنون</info>
+<info gid="2047055894" type="Alternative title" lang="JA">ＣＢキャラ永井豪ワールド</info>
+<info gid="1427023665" type="Genres">comedy</info>
+<info gid="2420959015" type="Genres">science fiction</info>
+<info gid="1908786172" type="Themes">mecha</info>
+<info gid="2735871232" type="Themes">super robot</info>
+<info gid="3765080468" type="Plot Summary">Memorable characters from Go Nagai's most beloved works try and find their way back from a super-deformed world into the real world.</info>
+<info gid="1056466208" type="Running time">45</info>
+<info gid="2232930283" type="Number of episodes">3</info>
+<info gid="1045239575" type="Vintage">1991-02-21 to 1991-06-27</info>
+<info gid="1358892341" type="Opening Theme">&quot;Ore wa kono Yo no Shujinkou&quot; by Ishihara Shinichi</info>
+<info gid="1982696429" type="Ending Theme">&quot;Pending Now!&quot; by Kyoko Hirotani</info>
+<ratings nb_votes="28" weighted_score="7.2447" bayesian_score="7.33291"/>
+<episode num="1">
+<title gid="3645851588" lang="EN">I am Devilman, the Devil!</title></episode>
+<episode num="2">
+<title gid="2494120292" lang="EN">I am the mighty Mazinger Z!</title></episode>
+<episode num="3">
+<title gid="2601615472" lang="EN">The final one is Violence Jack!</title></episode>
+<release date="2015-09-29" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=29473">Go Nagai World (Sub.DVD)</release>
+<news datetime="2015-09-29T20:20:00Z" href="http://www.animenewsnetwork.com:/news/2015-09-29/north-american-anime-manga-releases-september-27-october-3/.93554">North American Anime, Manga Releases, September 27-October 3</news>
+<staff gid="1184189975"><task>Director</task><person id="2689">Umanosuke Iida</person></staff>
+<staff gid="2581018815"><task>Storyboard</task><person id="2689">Umanosuke Iida</person></staff>
+<staff gid="477935531"><task>Episode Director</task><person id="12548">Tsutomu Yabuki</person></staff>
+<staff gid="1966986748"><task>Music</task><person id="140">Kenji Kawai</person></staff>
+<staff gid="1789478967"><task>Original creator</task><person id="3140">Go Nagai</person></staff>
+<staff gid="3406111938"><task>Character Design</task><person id="2665">Kazuo Komatsubara</person></staff>
+<staff gid="1194893887"><task>Art Director</task><person id="21457">Yoshinari Kinbako</person></staff>
+<staff gid="177523682"><task>Animation Director</task><person id="2665">Kazuo Komatsubara</person></staff>
+<staff gid="4156902373"><task>Sound Director</task><person id="427">Shigeru Chiba</person></staff>
+<cast gid="1797045290" lang="IT"><role>Akira Fudo/Devilman</role><person id="18124">Claudio Moneta</person></cast>
+<cast gid="1316367621" lang="IT"><role>Miki Makimura</role><person id="25931">Federica Valenti</person></cast>
+<cast gid="1775030433" lang="IT"><role>Ryo Asuka</role><person id="25932">Patrizio Prata</person></cast>
+<cast gid="2584759907" lang="IT"><role>Barone Ashura</role><person id="25946">Dania Cericola</person></cast>
+<cast gid="2021883035" lang="IT"><role>Psychogenie</role><person id="26126">Loredana Nicosia</person></cast>
+<cast gid="1427876506" lang="IT"><role>Silen</role><person id="26130">Cinzia Massironi</person></cast>
+<cast gid="2176979635" lang="IT"><role>Barone Ashura</role><person id="26161">Gianluca Iacono</person></cast>
+<cast gid="2019837776" lang="IT"><role>Silen</role><person id="26872">Marina Thovez</person></cast>
+<cast gid="2269164152" lang="JA"><role>Akira Fudō/Devilman</role><person id="724">Sho Hayami</person></cast>
+<cast gid="3228072607" lang="JA"><role>Ryo Asuka</role><person id="4762">Yuu Mizushima</person></cast>
+<cast gid="3352767997" lang="JA"><role>Miki Makimura</role><person id="102957">Jun Kōnomaki</person></cast>
+<credit gid="2368179918"><task>Animation Production</task><company id="253">Triangle Staff</company></credit>
+<credit gid="2437153155"><task>Production</task><company id="764">Dynamic Planning</company></credit></anime></ann>

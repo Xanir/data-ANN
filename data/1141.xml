@@ -1,0 +1,37 @@
+<ann><anime id="1141" gid="3432868955" type="movie" name="Slam Dunk" precision="movie" generated-on="2016-03-27T03:24:24Z">
+<related-prev rel="sequel of" id="659"/>
+<related-next id="1142" rel="sequel"/>
+<info gid="2745980310" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A1141-19.jpg" width="190" height="200"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A1141-19.jpg" width="190" height="200"/><img src="http://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A1141-19.jpg" width="260" height="274"/></info>
+<info gid="3778056307" type="Main title" lang="EN">Slam Dunk</info>
+<info gid="1470484718" type="Alternative title" lang="JA">スラムダンク</info>
+<info gid="1081413625" type="Genres">drama</info>
+<info gid="2894593432" type="Genres">slice of life</info>
+<info gid="547665710" type="Genres">tournament</info>
+<info gid="2101159684" type="Themes">basketball</info>
+<info gid="1610155246" type="Objectionable content">OC</info>
+<info gid="1602540101" type="Plot Summary">Sakuragi and the Shohoko team takes on Oda and Takezono High School. This is Sakuragi's second match as he faces Oda, a basketball player who went to the same junior high.</info>
+<info gid="1715751769" type="Running time">30</info>
+<info type="Vintage">1994-03-12</info>
+<info gid="3071936387" type="Premiere date">1994-03-12 (Japan)</info>
+<info gid="1736775731" type="Opening Theme">&quot;Kimi ga Suki da to Sakebitai&quot; by BAAD</info>
+<info gid="2409971762" type="Ending Theme">&quot;Anata Dake Mitsumete'ru&quot; by Ooguro Maki</info>
+<ratings nb_votes="118" weighted_score="7.0132" bayesian_score="7.06378"/>
+<staff gid="852749243"><task>Director</task><person id="10911">Nobutaka Nishizawa</person></staff>
+<staff gid="1878173059"><task>Screenplay</task><person id="8510">Yoshiyuki Suga</person></staff>
+<staff gid="519264829"><task>Original Manga</task><person id="5784">Takehiko Inoue</person></staff>
+<staff gid="1958806785"><task>Character Design</task><person id="8817">Masaki Sato</person></staff>
+<staff gid="932611811"><task>Art Director</task><person id="20250">Nobuto Sakamoto</person></staff>
+<staff gid="3133449694"><task>Animation Director</task><person id="8817">Masaki Sato</person></staff>
+<staff gid="1809836402"><task>Director of Photography</task><person id="21571">Takeshi Fukuda</person></staff>
+<staff gid="2370974907"><task>Producer</task><person id="4065">Tsutomu Tomari</person></staff>
+<staff gid="3119556822"><task>Producer</task><person id="14956">Tomio Anzai</person></staff>
+<cast gid="1417293863" lang="JA"><role>Kiminobu Kogure</role><person id="490">Hideyuki Tanaka</person></cast>
+<cast gid="918460191" lang="JA"><role>Yoko Shimura</role><person id="528">Yuko Minaguchi</person></cast>
+<cast gid="2095591880" lang="JA"><role>Kaede Rukawa</role><person id="546">Hikaru Midorikawa</person></cast>
+<cast gid="3025009562" lang="JA"><role>Tatsumasa Oda</role><person id="699">Hirotaka Suzuoki</person></cast>
+<cast gid="3246567403" lang="JA"><role>Haruko Akagi</role><person id="854">Akiko Hiramatsu</person></cast>
+<cast gid="2266007369" lang="JA"><role>Takenori Akagi</role><person id="1031">Kiyoyuki Yanada</person></cast>
+<cast gid="1724487825" lang="JA"><role>Anzai-sensei</role><person id="1047">Tomomichi Nishimura</person></cast>
+<cast gid="2381647979" lang="JA"><role>Sakuragi Hanamichi</role><person id="1103">Takeshi Kusao</person></cast>
+<cast gid="1960870582" lang="TL"><role>Haruko Akagi</role><person id="15925">Charmaine Cordoviz</person></cast>
+<credit gid="2739659449"><task>Production</task><company id="145">Toei Animation</company></credit></anime></ann>

@@ -1,0 +1,68 @@
+<ann><anime id="2851" gid="511682625" type="movie" name="One Piece: The Curse of the Sacred Sword" precision="movie 5" generated-on="2016-03-27T05:26:03Z">
+<related-prev rel="sequel of" id="2326"/>
+<related-next id="4790" rel="sequel"/>
+<related-next id="6529" rel="related"/>
+<info gid="2570991831" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A2851-8.jpg" width="160" height="200"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A2851-8.jpg" width="160" height="200"/><img src="http://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A2851-8.jpg" width="256" height="320"/></info>
+<info gid="2631241928" type="Main title" lang="EN">One Piece: The Curse of the Sacred Sword</info>
+<info gid="1207041084" type="Alternative title" lang="FR">One Piece : La malédiction de l'épée sacrée</info>
+<info gid="1469057281" type="Alternative title" lang="EN">One Piece Movie 5</info>
+<info gid="1578933262" type="Alternative title" lang="DE">One Piece – Der Fluch des heiligen Schwertes</info>
+<info gid="3800289792" type="Alternative title" lang="IT">One Piece: La Spada delle Sette Stelle</info>
+<info gid="3789215540" type="Alternative title" lang="JA">One Piece: Norowareta Seiken</info>
+<info gid="3003692084" type="Alternative title" lang="JA">ワンピース 呪われた聖剣</info>
+<info gid="566817982" type="Genres">adventure</info>
+<info gid="2345840080" type="Genres">comedy</info>
+<info gid="898448274" type="Genres">fantasy</info>
+<info gid="2190328038" type="Themes">pirates</info>
+<info gid="2464202844" type="Objectionable content">TA</info>
+<info gid="3229611785" type="Plot Summary">Luffy and crew go to an island searching for a legendary sword, said to be the most expensive in the world. Soon attacking marines and beautiful maidens split the crew. Zoro betrays the crew to help an old friend, Luffy and Usopp wander through a cave, and the rest help a village fight marines. When Zoro defeats Sanji he takes the sacred pearls that are the only defense against the evil sword that will plunge the world into darkness.</info>
+<info gid="1772476028" type="Running time">95</info>
+<info gid="2637379482" type="Vintage">2004-03-06</info>
+<info gid="3002949526" type="Premiere date">2004-03-06 (Japan)</info>
+<info gid="1335172749" type="Ending Theme">&quot;Ano Basho e&quot; by Harebare</info>
+<info gid="1723253747" type="Official website" lang="JA" href="http://www.toei-anim.co.jp/movie/2004_onepiece/index.html">Toei Animation - One Piece Movie 2004</info>
+<ratings nb_votes="385" weighted_score="7.3632" bayesian_score="7.36842"/>
+<staff gid="326879511"><task>Director</task><person id="13647">Kazuhisa Takenouchi</person></staff>
+<staff gid="2573418991"><task>Script</task><person id="8510">Yoshiyuki Suga</person></staff>
+<staff gid="1867385577"><task>Music</task><person id="305">Kouhei Tanaka</person></staff>
+<staff gid="2571698277"><task>Music</task><person id="5943">Shiroh Hamaguchi</person></staff>
+<staff gid="2502226254"><task>Original Manga</task><person id="4639">Eiichiro Oda</person></staff>
+<staff gid="1875155843"><task>Character Design</task><person id="4581">Noboru Koizumi</person></staff>
+<staff gid="2339826780"><task>Animation Director</task><person id="4581">Noboru Koizumi</person></staff>
+<cast gid="2985228535" lang="DE"><role>Bismark</role><person id="21770">Frank Muth</person></cast>
+<cast gid="1584028450" lang="DE"><role>Lysop</role><person id="22962">Dirk Meyer</person></cast>
+<cast gid="2621019904" lang="DE"><role>Monkey D. Ruffy</role><person id="25567">Daniel Schlauch</person></cast>
+<cast gid="3095269096" lang="DE"><role>Sanji</role><person id="25569">Hubertus von Lerchenfeld</person></cast>
+<cast gid="3723801621" lang="DE"><role>Nami</role><person id="25570">Stephanie Kellner</person></cast>
+<cast gid="874044299" lang="DE"><role>Saga</role><person id="25572">Manou Lubowski</person></cast>
+<cast gid="3365910905" lang="DE"><role>Nico Robin</role><person id="25574">Simone Brahmann</person></cast>
+<cast gid="2960194198" lang="DE"><role>Lacos</role><person id="28518">Pierre Peters-Arnolds</person></cast>
+<cast gid="2596285298" lang="DE"><role>Tony Chopper</role><person id="28635">Martin Halm</person></cast>
+<cast gid="3627357361" lang="DE"><role>Maya</role><person id="28899">Anke Kortemeier</person></cast>
+<cast gid="2664794408" lang="DE"><role>Baba</role><person id="28914">Marion Hartmann</person></cast>
+<cast gid="3137087228" lang="DE"><role>Toma</role><person id="71857">Moritz Günther</person></cast>
+<cast gid="2919868280" lang="DE"><role>Bookong</role><person id="105521">Matthias Kupfer</person></cast>
+<cast gid="1026348406" lang="FR"><role>Sanji</role><person id="47839">Olivier Cuvelier</person></cast>
+<cast gid="2862183901" lang="FR"><role>Usopp</role><person id="52978">Jean-Pierre Denuit</person></cast>
+<cast gid="2493938337" lang="FR"><role>Zoro</role><person id="55629">Patrick Noerie</person></cast>
+<cast gid="741150978" lang="FR"><role>Luffy</role><person id="59625">Stéphane Excoffier</person></cast>
+<cast gid="3644650812" lang="FR"><role>Nami</role><person id="69308">Kelly Marot</person></cast>
+<cast gid="943252107" lang="FR"><role>Robin</role><person id="76518">Céline Melloul</person></cast>
+<cast gid="3643775779" lang="FR"><role>Chopper</role><person id="106303">Marie Van Ermengem</person></cast>
+<cast gid="951020090" lang="IT"><role>Nami</role><person id="25645">Emanuela Pacotto</person></cast>
+<cast gid="1634482922" lang="IT"><role>Nico Robin</role><person id="25929">Patrizia Scianca</person></cast>
+<cast gid="609092123" lang="IT"><role>TonyTony Chopper</role><person id="25931">Federica Valenti</person></cast>
+<cast gid="1646293834" lang="IT"><role>Saga</role><person id="25947">Gabriele Calindri</person></cast>
+<cast gid="1608884767" lang="IT"><role>Rubber</role><person id="25970">Luigi Rosa</person></cast>
+<cast gid="1026144822" lang="IT"><role>Usopp</role><person id="26038">Luca Bottale</person></cast>
+<cast gid="726946573" lang="JA"><role>Usopp</role><person id="277">Kappei Yamaguchi</person></cast>
+<cast gid="936205906" lang="JA"><role>Luffy D. Monkey</role><person id="301">Mayumi Tanaka</person></cast>
+<cast gid="2630966396" lang="JA"><role>Zoro Roronoa</role><person id="551">Kazuya Nakai</person></cast>
+<cast gid="2340952076" lang="JA"><role>Chopper Tonytony</role><person id="846">Ikue Ohtani</person></cast>
+<cast gid="1380179956" lang="JA"><role>Sanji</role><person id="917">Hiroaki Hirata</person></cast>
+<cast gid="3301821455" lang="JA"><role>Robin Nico</role><person id="1072">Yuriko Yamaguchi</person></cast>
+<cast gid="1381688279" lang="JA"><role>Nami</role><person id="1676">Akemi Okamura</person></cast>
+<cast gid="3332765610" lang="JA"><role>Saga</role><person id="21647">Shidou Nakamura</person></cast>
+<cast gid="1867561203" lang="JA"><role>Touma</role><person id="21648">Hiroki Uchi</person></cast>
+<cast gid="426686919" lang="JA"><role>Izaya</role><person id="21649">Masami Hisamoto</person></cast>
+<credit gid="2811950496"><task>Production</task><company id="145">Toei Animation</company></credit></anime></ann>

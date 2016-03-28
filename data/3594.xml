@@ -1,0 +1,50 @@
+<ann><anime id="3594" gid="1953243964" type="movie" name="Great Mazinger tai Getter Robo" precision="movie" generated-on="2016-03-27T05:08:33Z">
+<related-prev rel="spinoff of" id="19"/>
+<related-prev rel="spinoff of" id="1997"/>
+<related-next id="16677" rel="related"/>
+<info gid="2390468375" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A3594-16.jpg" width="200" height="155"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A3594-16.jpg" width="200" height="155"/><img src="http://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A3594-16.jpg" width="288" height="223"/></info>
+<info gid="2675985696" type="Main title" lang="JA">Great Mazinger tai Getter Robo</info>
+<info gid="3395939874" type="Alternative title" lang="ES">Great Mazinger contra Getter Robo</info>
+<info gid="1762209593" type="Alternative title" lang="EN">Great Mazinger Vs. Getter Robo</info>
+<info gid="810808089" type="Alternative title" lang="AR">مازنجر الكبير ضد جيتاروبو</info>
+<info gid="2258041568" type="Alternative title" lang="JA">グレートマジンガー対ゲッターロボ</info>
+<info gid="3384600429" type="Genres">action</info>
+<info gid="3035555431" type="Genres">adventure</info>
+<info gid="1220440180" type="Genres">science fiction</info>
+<info gid="2730251497" type="Themes">mecha</info>
+<info gid="2533350760" type="Themes">super robot</info>
+<info gid="3455316613" type="Objectionable content">OC</info>
+<info gid="1299919147" type="Running time">30</info>
+<info type="Vintage">1975-03-21</info>
+<info gid="985558566" type="Premiere date">1975-03-21 (Japan)</info>
+<ratings nb_votes="24" weighted_score="5.9258" bayesian_score="6.48694"/>
+<staff gid="2873859127"><task>Director</task><person id="24369">Masayuki Akihi</person></staff>
+<staff gid="2385537729"><task>Screenplay</task><person id="5555">Keisuke Fujikawa</person></staff>
+<staff gid="1331519469"><task>Music</task><person id="118">Shunsuke Kikuchi</person></staff>
+<staff gid="2654330482"><task>Music</task><person id="17031">Chuumei Watanabe</person></staff>
+<staff gid="1732242302"><task>Original creator</task><person id="3140">Go Nagai</person></staff>
+<staff gid="2293233608"><task>Character Design</task><person id="2665">Kazuo Komatsubara</person></staff>
+<staff gid="1298212861"><task>Art</task><person id="24368">Tomoo Fukumoto</person></staff>
+<staff gid="1783037522"><task>Chief Animation Director</task><person id="2665">Kazuo Komatsubara</person></staff>
+<staff gid="2907091836"><task>Producer</task><person id="168">Chiaki Imada</person></staff>
+<cast gid="1220886237" lang="ES"><role>Professor Saotome</role><person id="32200">Jesús Díez</person></cast>
+<cast gid="2369770560" lang="ES"><role>Musashi Tomoe</role><person id="50752">Lucas Cisneros</person></cast>
+<cast gid="2415702101" lang="ES"><role>Ryo Nagare</role><person id="52149">Oscar Muñoz</person></cast>
+<cast gid="2393479342" lang="ES"><role>Kenzo Kabuto</role><person id="52337">Enric Isasi-Isasmendi</person></cast>
+<cast gid="3266554144" lang="ES"><role>Michiru Saotome</role><person id="52353">Aurora García</person></cast>
+<cast gid="1997362891" lang="ES"><role>Shiro Kabuto</role><person id="52353">Aurora García</person></cast>
+<cast gid="2026944643" lang="ES"><role>Tetsuya Tsurugi</role><person id="63115">Claudi Domingo</person></cast>
+<cast gid="1712412144" lang="ES"><role>Jun Hono</role><person id="63194">Montse Miralles</person></cast>
+<cast gid="1292242271" lang="ES"><role>Boss</role><person id="64167">Xavier De LLorens</person></cast>
+<cast gid="1862080550" lang="ES"><role>Hayato Jin</role><person id="64167">Xavier De LLorens</person></cast>
+<cast gid="3612941480" lang="JA"><role>Ryo Nagare</role><person id="1583">Akira Kamiya</person></cast>
+<cast gid="705317976" lang="JA"><role>Michiru Saotome</role><person id="1664">Rihoko Yoshida</person></cast>
+<cast gid="893301699" lang="JA"><role>Boss</role><person id="2071">Hiroshi Ohtake</person></cast>
+<cast gid="3869374310" lang="JA"><role>Musashi Tomoe</role><person id="3096">Toku Nishio</person></cast>
+<cast gid="3304727502" lang="JA"><role>Tetsuya Tsurugi</role><person id="4274">Keiichi Noda</person></cast>
+<cast gid="3854973242" lang="JA"><role>Dr. Saotome</role><person id="5682">Kousei Tomita</person></cast>
+<cast gid="1695860685" lang="JA"><role>Shiro Kabuto</role><person id="7361">Kazuko Sawada</person></cast>
+<cast gid="1830518071" lang="JA"><role>Hayato Jin</role><person id="16306">Keaton Yamada</person></cast>
+<cast gid="3155925720" lang="JA"><role>Jun Honoo</role><person id="17599">Yumi Nakatani</person></cast>
+<credit gid="2085274887"><task>Production</task><company id="145">Toei Animation</company></credit>
+<credit gid="2068676200"><task>Production</task><company id="764">Dynamic Planning</company></credit></anime></ann>

@@ -1,0 +1,477 @@
+<ann><anime id="13" gid="34004783" type="TV" name="Cowboy Bebop" precision="TV" generated-on="2016-03-27T05:07:57Z">
+<related-next id="353" rel="side story"/>
+<related-next id="1555" rel="spinoff"/>
+<related-next id="2897" rel="alternate retelling"/>
+<related-next id="10586" rel="remake"/>
+<info gid="2484932293" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A13-15.jpg" width="168" height="200"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A13-15.jpg" width="168" height="200"/></info>
+<info gid="3686620137" type="Main title" lang="EN">Cowboy Bebop</info>
+<info gid="3713150771" type="Alternative title" lang="JA">カウボーイビバップ</info>
+<info gid="1812949240" type="Alternative title" lang="ZH-TW">星際牛仔</info>
+<info gid="2316319682" type="Alternative title" lang="KO">카우보이 비밥</info>
+<info gid="2458207658" type="Genres">action</info>
+<info gid="868013109" type="Genres">drama</info>
+<info gid="3417890450" type="Genres">science fiction</info>
+<info gid="3859620771" type="Themes">bounty hunters</info>
+<info gid="1618333535" type="Themes">space</info>
+<info gid="1863926940" type="Objectionable content">MA</info>
+<info gid="2493109372" type="Plot Summary">Spike Spiegel, a bounty Hunter with a dark past, lives on bounty to bounty, barely making it each time, or not making it at all. His partners Jet Black, Faye Valentine, Ed and Ein the dog all help him in his adventures from planet to planet.</info>
+<info gid="1706618398" type="Running time">25</info>
+<info gid="120839903" type="Number of episodes">26</info>
+<info gid="1533445328" type="Vintage">1998-04-03 to 1998-06-19 (first run, 12 eps)</info>
+<info gid="409998464" type="Vintage">1998-10-23 to 1999-04-23 (second run, full 26 eps)</info>
+<info gid="3065262400" type="Vintage">2000-10 (France)</info>
+<info gid="74639892" type="Vintage">2001-09-02 to 2002-02-15 (USA)</info>
+<info gid="1688438279" type="Vintage">2001-11-01 (Latin America - Locomotion)</info>
+<info gid="3696856300" type="Vintage">2001-11-22 to 2001-12-26 (K3 - Televisió de Catalunya)</info>
+<info gid="3280193947" type="Vintage">2003-01-08 to 2003-09-10 (Germany, TV-Channel: MTV)</info>
+<info gid="2538880275" type="Vintage">2005-11-04 (The Netherlands)</info>
+<info gid="1785271303" type="Vintage">2005-12-13 (Spain, Cuatroº)</info>
+<info gid="1544129041" type="Vintage">2006-01-18 to 2006-03-16 (Singapore, Arts Central Broadcast)</info>
+<info gid="3398171419" type="Vintage">2006-12-24 to 2007-06-17 (Canada - Razer)</info>
+<info gid="2162441609" type="Vintage">2009-03-02 to 2009-04-06 (Philippines, Animega on TV5)</info>
+<info gid="3047788839" type="Opening Theme">&quot;Tank!&quot; by Seatbelts (eps 1-25)</info>
+<info gid="1371710136" type="Ending Theme">#1: &quot;The Real Folk Blues&quot; by Seatbelts featuring Mai Yamane</info>
+<info gid="1974603668" type="Ending Theme">#2: &quot;Space Lion&quot; by Yoko Kanno/Keishi Urata/Sydney Thiam/Michel Reman/David Mirandon/Philippe Drai/Philippe Nalry (ep 13)</info>
+<info gid="2459122569" type="Ending Theme">#3: &quot;Blue&quot; by Seatbelts featuring Mai Yamane (ep 26)</info>
+<info gid="2291755769" type="Ending Theme">#4: &quot;Recover the Sky of Day&quot; by Shakkazombie [ep 27, ep XX recap]</info>
+<info gid="3671618156" type="Official website" lang="JA" href="http://www.b-ch.com/ttl/index.php?ttl_c=130">「カウボーイビバップ」 | バンダイチャンネル</info>
+<info gid="3634437963" type="Official website" lang="EN" href="http://www.funimation.com/shows/cowboy-bebop/home">FUNimation's Official Cowboy Bebop Site</info>
+<info gid="2509147926" type="Official website" lang="JA" href="http://www.sunrise-inc.co.jp/works/list/detail.php?cid=240">カウボーイビバップ｜作品紹介：作品情報｜SUNRISE Inc.</info>
+<info gid="1957270020" type="Official website" lang="EN" href="http://www.madman.com.au/actions/series.do?method=view&amp;videogramId=3110">Madman's Official Cowboy Bebop Remix Website</info>
+<ratings nb_votes="11886" weighted_score="8.8991" bayesian_score="8.8976"/>
+<episode num="1">
+<title gid="1246890061" lang="EN">Session #1: Asteroid Blues</title></episode>
+<episode num="2">
+<title gid="395057962" lang="EN">Session #2: Stray Dog Strut</title></episode>
+<episode num="3">
+<title gid="2620994180" lang="EN">Session #3: Honky Tonk Women</title></episode>
+<episode num="4">
+<title gid="4032724414" lang="EN">Session #4: Gateway Shuffle</title></episode>
+<episode num="5">
+<title gid="1932241851" lang="EN">Session #5: Ballad of Fallen Angels</title></episode>
+<episode num="6">
+<title gid="3866156225" lang="EN">Session #6: Sympathy for the Devil</title></episode>
+<episode num="7">
+<title gid="2460597088" lang="EN">Session #7: Heavy Metal Queen</title></episode>
+<episode num="8">
+<title gid="2480522615" lang="EN">Session #8: Waltz For Venus</title></episode>
+<episode num="9">
+<title gid="2980801775" lang="EN">Session #9: Jamming With Edward</title></episode>
+<episode num="10">
+<title gid="3465732351" lang="EN">Session #10: Ganymede Elegy</title></episode>
+<episode num="11">
+<title gid="485239508" lang="EN">Session #11: Toys in the Attic</title></episode>
+<episode num="12">
+<title gid="3869559709" lang="EN">Session #12: Jupiter Jazz Part I</title></episode>
+<episode num="13">
+<title gid="4027841377" lang="EN">Session #13: Jupiter Jazz Part II</title></episode>
+<episode num="14">
+<title gid="3451450154" lang="EN">Session #14: Bohemian Rhapsody</title></episode>
+<episode num="15">
+<title gid="604443358" lang="EN">Session #15: My Funny Valentine</title></episode>
+<episode num="16">
+<title gid="1779949726" lang="EN">Session #16: Black Dog Serenade</title></episode>
+<episode num="17">
+<title gid="2787552658" lang="EN">Session #17: Mushroom Samba</title></episode>
+<episode num="18">
+<title gid="785999310" lang="EN">Session #18: Speak Like a Child</title></episode>
+<episode num="19">
+<title gid="2186458443" lang="EN">Session #19: Wild Horses</title></episode>
+<episode num="20">
+<title gid="843016571" lang="EN">Session #20: Pierrot le Fou</title></episode>
+<episode num="21">
+<title gid="2897609891" lang="EN">Session #21: Boogie Woogie Feng Shui</title></episode>
+<episode num="22">
+<title gid="738451781" lang="EN">Session #22: Cowboy Funk</title></episode>
+<episode num="23">
+<title gid="3367090641" lang="EN">Session #23: Brain Scratch</title></episode>
+<episode num="24">
+<title gid="2122028218" lang="EN">Session #24: Hard Luck Woman</title></episode>
+<episode num="25">
+<title gid="1229301064" lang="EN">Session #25: The Real Folk Blues Part I</title></episode>
+<episode num="26">
+<title gid="2256674016" lang="EN">Session #26: The Real Folk Blues Part II</title></episode>
+<episode num="27">
+<title gid="1783046660" lang="EN">Session XX (1998-06-26) Mish-Mash Blues</title></episode>
+<review href="http://www.animenewsnetwork.com/review/cowboy-bebop/bluray-complete-series-amazon-exclusive-edition/.82179">Cowboy Bebop Complete Series Blu-ray</review>
+<review href="http://www.animenewsnetwork.com/review/cowboy-bebop-box-set-dvd">Cowboy Bebop Box Set DVD</review>
+<review href="http://www.animenewsnetwork.com/review/cowboy-bebop/vhs-1-astroid-blues">Cowboy Bebop VHS 1 - Astroid Blues</review>
+<release date="2014-12-16" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=27685">Cowboy Bebop - Complete Series (Blu-Ray)</release>
+<release date="2013-07-29" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=23498">Cowboy Bebop - Part 1 [Collector's Edition] (Blu-Ray)</release>
+<release date="2013-09-23" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=23510">Cowboy Bebop - Part 2 [Collector's Edition] (Blu-Ray)</release>
+<release date="2014-12-16" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=27759">Cowboy Bebop - Complete Series [FUNimation Exclusive Edition] (BD+DVD)</release>
+<release date="2014-12-16" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=27687">Cowboy Bebop - Complete Series [Amazon Exclusive Edition] (BD+DVD)</release>
+<release date="2014-12-16" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=27686">Cowboy Bebop - Complete Series (DVD)</release>
+<release date="2000-04-04" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2696">Cowboy Bebop - 1st Session (DVD 1)</release>
+<release date="2005-09-13" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=4948">Cowboy Bebop - Remix (DVD 1)</release>
+<release date="2000-06-06" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2697">Cowboy Bebop - 2nd Session (DVD 2)</release>
+<release date="2005-10-25" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=5182">Cowboy Bebop - Remix (DVD 2)</release>
+<release date="2000-07-04" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2698">Cowboy Bebop - 3rd Session (DVD 3)</release>
+<release date="2005-12-13" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=5324">Cowboy Bebop - Remix (DVD 3)</release>
+<release date="2000-08-01" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2699">Cowboy Bebop - 4th Session (DVD 4)</release>
+<release date="2006-01-24" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=5508">Cowboy Bebop - Remix (DVD 4)</release>
+<release date="2000-09-05" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2700">Cowboy Bebop - 5th Session (DVD 5)</release>
+<release date="2006-05-09" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=5846">Cowboy Bebop - Remix (DVD 5)</release>
+<release date="2000-11-07" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2701">Cowboy Bebop - 6th Session (DVD 6)</release>
+<release date="2006-06-13" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=6008">Cowboy Bebop - Remix (DVD 6)</release>
+<release date="2002-11-19" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=971">Cowboy Bebop - Best Sessions (DVD 1-2)</release>
+<release date="2001-11-20" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=145">Cowboy Bebop - The Perfect Sessions [Limited Edition] (DVD 1-6)</release>
+<release date="2008-02-05" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=10560">Cowboy Bebop Remix - Complete Collection [Anime Legends] (DVD 1-6)</release>
+<release date="2013-09-23" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=23511">Cowboy Bebop - Complete Collection (DVD)</release>
+<release date="2006-06-28" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=6429">Cowboy Bebop Film Manga (GN 1)</release>
+<release date="2005-11-08" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=5183">Cowboy Bebop - 1st Session (UMD 1)</release>
+<release date="1999-11-23" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=23061">Cowboy Bebop - Honky Tonk Women (Dub.VHS 2)</release>
+<release date="1999-11-23" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=23059">Cowboy Bebop - Ballad of Fallen Angels (Dub.VHS 3)</release>
+<release date="2000-02-22" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=23062">Cowboy Bebop - Toys in the Attic (Dub.VHS 6)</release>
+<release date="2000-03-14" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=23064">Cowboy Bebop - Jupiter Jazz (Dub.VHS 7)</release>
+<release date="2000-08-01" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=23124">Cowboy Bebop - Boogie Woogie Feng Shui (Dub.VHS 11)</release>
+<release date="2000-03-14" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=23122">Cowboy Bebop - Collector's Box 1 (Dub.VHS 1-7)</release>
+<release date="1999-09-14" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=23060">Cowboy Bebop - Asteroid Blues (Sub.VHS 1)</release>
+<release date="1999-12-07" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=23123">Cowboy Bebop - Heavy Metal Queen (Sub.VHS 4)</release>
+<release date="1999-12-28" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=23066">Cowboy Bebop - Jamming With Edward (Sub.VHS 5)</release>
+<release date="2000-03-14" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=23065">Cowboy Bebop - Jupiter Jazz (Sub.VHS 7)</release>
+<release date="2000-08-01" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=23063">Cowboy Bebop - Boogie Woogie Feng Shui (Sub.VHS 11)</release>
+<release date="2000-11-07" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=23067">Cowboy Bebop - Collector's Box 1 (Sub.VHS 1-7)</release>
+<news datetime="1998-09-21T04:00:00Z" href="http://www.animenewsnetwork.com/news/1998-09-21/fansubber-update-technogirls-kodocha">Fansubber Update: Technogirls, Kodocha</news>
+<news datetime="1999-04-28T04:00:00Z" href="http://www.animenewsnetwork.com/news/1999-04-28/anime-central-baka-con-wrap-up">Anime Central, Baka-Con wrap up</news>
+<news datetime="1999-06-10T04:00:00Z" href="http://www.animenewsnetwork.com/news/1999-06-10/companies-make-announcements-at-a-kon">Companies make announcements at A-kon</news>
+<news datetime="1999-07-18T04:00:00Z" href="http://www.animenewsnetwork.com/news/1999-07-18/ax-99-wrap-up">AX '99 Wrap-up</news>
+<news datetime="2000-09-20T02:39:13Z" href="http://www.animenewsnetwork.com/news/2000-09-19/anime-a-go-go">Anime A-GO-GO</news>
+<news datetime="2000-10-05T13:55:27Z" href="http://www.animenewsnetwork.com/news/2000-10-05/bandai-entertainment-upcoming-releases">Bandai Entertainment upcoming releases</news>
+<news datetime="2000-10-11T23:41:39Z" href="http://www.animenewsnetwork.com/news/2000-10-11/anime-weekend-in-atlanta">Anime Weekend in Atlanta News</news>
+<news datetime="2001-01-16T03:56:48Z" href="http://www.animenewsnetwork.com/news/2001-01-15/animage-top-100-anime-listing">Animage Top-100 Anime Listing</news>
+<news datetime="2001-01-25T21:00:11Z" href="http://www.animenewsnetwork.com/news/2001-01-25/sakuracon-announces-guests">SakuraCon Announces guests</news>
+<news datetime="2001-02-05T05:01:36Z" href="http://www.animenewsnetwork.com/news/2001-02-05/sakuracon-february-press-release">SakuraCon February Press Release</news>
+<news datetime="2001-04-05T04:12:17Z" href="http://www.animenewsnetwork.com/news/2001-04-05/lots-of-bandai">Lots of Bandai News</news>
+<news datetime="2001-07-07T19:48:06Z" href="http://www.animenewsnetwork.com/news/2001-07-07/bandai-at-ax">Bandai at AX</news>
+<news datetime="2001-07-17T01:06:34Z" href="http://www.animenewsnetwork.com/news/2001-07-16/wizard-lists-top-50-anime">Wizard lists Top 50 Anime</news>
+<news datetime="2001-07-21T06:24:36Z" href="http://www.animenewsnetwork.com/news/2001-07-21/cn-snags-cowboy-bebop-reveals-adult-swim-plans">CN snags Cowboy Bebop, reveals Adult Swim plans</news>
+<news datetime="2001-07-26T03:03:05Z" href="http://www.animenewsnetwork.com/news/2001-07-25/cowboy-bebop-soundtrack-release">Cowboy Bebop Soundtrack release</news>
+<news datetime="2001-07-30T04:14:22Z" href="http://www.animenewsnetwork.com/news/2001-07-30/more-details-and-corrections-on-cowboy-bebop-soundtracks">More Details and corrections on Cowboy Bebop Soundtracks</news>
+<news datetime="2001-08-02T22:46:26Z" href="http://www.animenewsnetwork.com/news/2001-08-02/cowboy-bebop-confirmed-for-adult-swim">Cowboy Bebop Confirmed for Adult Swim</news>
+<news datetime="2001-08-13T00:55:21Z" href="http://www.animenewsnetwork.com/news/2001-08-12/otakon-2001-report">Otakon 2001 Report!</news>
+<news datetime="2001-08-13T01:43:03Z" href="http://www.animenewsnetwork.com/news/2001-08-12/newtype-top-10-anime">Newtype top 10 Anime</news>
+<news datetime="2001-08-14T01:53:10Z" href="http://www.animenewsnetwork.com/news/2001-08-13/cowboy-bebop-2">Cowboy Bebop 2?</news>
+<news datetime="2001-09-24T17:19:18Z" href="http://www.animenewsnetwork.com/news/2001-09-24/cowboy-bebop-on-cn-explained">Cowboy Bebop on CN Explained</news>
+<news datetime="2001-10-16T02:14:30Z" href="http://www.animenewsnetwork.com/news/2001-10-15/december-merchandise-releases">December Merchandise Releases</news>
+<news datetime="2001-11-18T03:21:18Z" href="http://www.animenewsnetwork.com/news/2001-11-17/january-merchandise-releases">January Merchandise Releases</news>
+<news datetime="2001-12-04T10:04:08Z" href="http://www.animenewsnetwork.com/news/2001-12-04/toonami-changes-lineup-again">Toonami Changes Lineup Again</news>
+<news datetime="2002-02-13T07:42:49Z" href="http://www.animenewsnetwork.com/news/2002-02-13/toshihiro-kawamoto-at-acen">Toshihiro Kawamoto at ACen</news>
+<news datetime="2002-02-25T17:22:13Z" href="http://www.animenewsnetwork.com/news/2002-02-25/anime-central-guest-announcement">Anime Central Guest Announcement</news>
+<news datetime="2002-03-12T16:56:34Z" href="http://www.animenewsnetwork.com/news/2002-03-12/cowboy-bebop-dub-cast">Cowboy Bebop Dub Cast</news>
+<news datetime="2002-04-26T21:32:40Z" href="http://www.animenewsnetwork.com/news/2002-04-26/shoujocon-announces-guests">Shoujocon announces Guests</news>
+<news datetime="2002-05-10T04:39:39Z" href="http://www.animenewsnetwork.com/news/2002-05-10/june-animage-ranks-anime">June Animage Ranks Anime</news>
+<news datetime="2002-07-10T19:38:42Z" href="http://www.animenewsnetwork.com/news/2002-07-10/ax-2002-bandai-panel">AX 2002: Bandai Panel</news>
+<news datetime="2002-07-16T00:26:56Z" href="http://www.animenewsnetwork.com/news/2002-07-15/cowboy-bebop-staff-at-baaf">Cowboy Bebop Staff at BAAF</news>
+<news datetime="2002-07-25T16:40:21Z" href="http://www.animenewsnetwork.com/news/2002-07-25/top-anime-listing">Top Anime Listing</news>
+<news datetime="2002-07-29T12:47:13Z" href="http://www.animenewsnetwork.com/news/2002-07-29/otakon-2002-bandai-panel">Otakon 2002: Bandai Panel</news>
+<news datetime="2002-07-29T12:51:59Z" href="http://www.animenewsnetwork.com/news/2002-07-29/otakon-2002-parent's-guide-to-anime">Otakon 2002: Parent's Guide to Anime</news>
+<news datetime="2002-07-29T13:14:07Z" href="http://www.animenewsnetwork.com/news/2002-07-29/otakon-2002-pioneer-music-panel">Otakon 2002: Pioneer Music Panel</news>
+<news datetime="2002-09-19T02:47:55Z" href="http://www.animenewsnetwork.com/news/2002-09-18/anime-film-festival-in-ontario-canada">Anime Film Festival in Ontario, Canada</news>
+<news datetime="2002-10-02T18:56:19Z" href="http://www.animenewsnetwork.com/news/2002-10-02/newtype-no.1-table-of-contents">Newtype #1 Table of Contents</news>
+<news datetime="2002-10-23T03:40:12Z" href="http://www.animenewsnetwork.com/news/2002-10-22/adult-swim-5-times-a-week">Adult Swim 5 times a week</news>
+<news datetime="2002-10-25T03:17:33Z" href="http://www.animenewsnetwork.com/news/2002-10-24/tokyopop-announces-new-manga-titles">Tokyopop Announces New Manga Titles</news>
+<news datetime="2002-11-09T05:26:15Z" href="http://www.animenewsnetwork.com/news/2002-11-09/cowboy-bebop-best-session-party">Cowboy Bebop Best Session Party</news>
+<news datetime="2003-01-10T18:53:46Z" href="http://www.animenewsnetwork.com/news/2003-01-10/argentosoma-and-kikaider-to-premier-at-la-comic-convention">Argentosoma and Kikaider to premier at LA Comic Convention</news>
+<news datetime="2003-02-17T08:44:35Z" href="http://www.animenewsnetwork.com/news/2003-02-17/bandai-publicizes-new-anime-at-toy-fair">Bandai Publicizes New Anime at Toy Fair</news>
+<news datetime="2003-04-16T23:00:37Z" href="http://www.animenewsnetwork.com/news/2003-04-16/los-angeles-anime-festival">Los Angeles Anime Festival</news>
+<news datetime="2003-07-14T07:50:19Z" href="http://www.animenewsnetwork.com/news/2003-07-14/otakon-2003-final-guest-announcement">Otakon 2003: Final Guest Announcement</news>
+<news datetime="2004-07-16T05:23:47Z" href="http://www.animenewsnetwork.com/news/2004-07-16/anime-on-conan-o'brian">Anime on Conan O'Brian</news>
+<news datetime="2005-12-07T15:31:39Z" href="http://www.animenewsnetwork.com/news/2005-12-07/yamato-toys-new-pre-orders">Yamato Toys New Pre-Orders</news>
+<news datetime="2006-01-13T19:01:37Z" href="http://www.animenewsnetwork.com/news/2006-01-13/watanabe-in-detroit">Watanabe in Detroit</news>
+<news datetime="2006-10-12T21:45:00Z" href="http://www.animenewsnetwork.com/news/2006-10-13/japans-favorite-tv-anime">Japan's Favorite TV Anime</news>
+<news datetime="2007-05-07T19:33:43Z" href="http://www.animenewsnetwork.com/news/2007-05-07/gundam-leads-bandai-visual-franchises-with-12-million">&lt;cite&gt;Gundam&lt;/cite&gt; Leads Bandai Visual Franchises with 12 Million</news>
+<news datetime="2007-05-22T21:52:48Z" href="http://www.animenewsnetwork.com/news/2007-05-22/yoko-kanno-seoul">Yoko Kanno to Perform Special Concert in Seoul</news>
+<news datetime="2007-06-08T09:43:57Z" href="http://www.animenewsnetwork.com/news/2007-06-08/bandai-visual-hosts-freedom-writer-rune-actress-at-ax">Bandai Visual Hosts &lt;cite&gt;Freedom&lt;/cite&gt; Writer, &lt;cite&gt;Rune&lt;/cite&gt; Actress at Anime Expo</news>
+<news datetime="2007-07-06T23:33:59Z" href="http://www.animenewsnetwork.com/news/2007-07-06/bones-stranger-movie-haruhi-event-posts-new-videos">Bones' &lt;cite&gt;Stranger&lt;/cite&gt; Movie, &lt;cite&gt;Haruhi&lt;/cite&gt; Event Posts New Videos</news>
+<news datetime="2007-07-17T21:45:45Z" href="http://www.animenewsnetwork.com/news/2007-07-17/production-i.g-posts-more-kanno-interview-less-profit">Production I.G Posts More Kanno Interview, Less Profit</news>
+<news datetime="2007-07-18T19:01:08Z" href="http://www.animenewsnetwork.com/news/2007-07-18/kyoto-museum-exhibits-genius-party-corocoro-to-terra">Kyoto Museum Exhibits &lt;cite&gt;Genius Party, CoroCoro, Terra E…&lt;/cite&gt;</news>
+<news datetime="2007-07-21T18:19:45Z" href="http://www.animenewsnetwork.com/news/2007-07-21/bandai-goes-geass">Bandai Entertainment Adds &lt;cite&gt;Code Geass&lt;/cite&gt;, Three More Anime</news>
+<news datetime="2007-07-30T15:07:11Z" href="http://www.animenewsnetwork.com/news/2007-07-30/genius-party's-premiere-dates-at-kennedy-center-set">&lt;cite&gt;Genius Party's&lt;/cite&gt; Premiere Dates at Kennedy Center Set</news>
+<news datetime="2007-08-18T13:31:28Z" href="http://www.animenewsnetwork.com/news/2007-08-18/yoko-kanno-heroine's-voice-announced-for-new-macross">Yoko Kanno, Heroine's Voice Announced for New &lt;cite&gt;Macross&lt;/cite&gt;</news>
+<news datetime="2007-09-17T09:04:53Z" href="http://www.animenewsnetwork.com/news/2007-09-17/canada's-razer-to-premiere-shin-chan-on-september-17">Canada's Razer to Premiere &lt;cite&gt;Shin Chan&lt;/cite&gt; on September 17</news>
+<news datetime="2007-09-25T02:03:02Z" href="http://www.animenewsnetwork.com/news/2007-09-24/bones-co-founder-hiroshi-osaka-passes-away-at-44">Bones Co-Founder Hiroshi Ōsaka Passes Away at 44</news>
+<news datetime="2007-09-27T20:30:37Z" href="http://www.animenewsnetwork.com/news/2007-09-27/ghibli's-takahata-paprika-geass-win-anime-kobe-awards">Ghibli's Takahata, &lt;cite&gt;Paprika, Geass&lt;/cite&gt; Win Anime Kobe Awards</news>
+<news datetime="2007-11-07T21:00:55Z" href="http://www.animenewsnetwork.com/news/2007-11-07/macross-f-sequel-with-nue-yoko-kanno-set-for-2008">Studio Nue, Yoko Kanno's &lt;cite&gt;Macross F&lt;/cite&gt; Sequel Set for 2008</news>
+<news datetime="2007-11-22T18:56:38Z" href="http://www.animenewsnetwork.com/news/2007-11-22/macross-frontier-manga-tv-special's-date-announced">&lt;cite&gt;Macross Frontier&lt;/cite&gt; Manga, TV Special's Date Announced</news>
+<news datetime="2007-11-28T19:04:32Z" href="http://www.animenewsnetwork.com/news/2007-11-28/special-extra-episode-of-freedom-announced">Special Extra Episode of &lt;cite&gt;Freedom&lt;/cite&gt; Announced</news>
+<news datetime="2007-11-29T17:34:41Z" href="http://www.animenewsnetwork.com/news/2007-11-29/voice-actors-kouichi-yamadera-mika-kanai-divorced">Voice Actors Kouichi Yamadera, Mika Kanai Divorced</news>
+<news datetime="2007-12-06T09:34:45Z" href="http://www.animenewsnetwork.com/news/2007-12-06/macross-frontiers-spring-broadcast-cast-confirmed">&lt;cite&gt;Macross Frontier's&lt;/cite&gt; Spring Broadcast, Cast Confirmed</news>
+<news datetime="2008-01-17T21:24:32Z" href="http://www.animenewsnetwork.com/news/2008-01-17/3-genius-party-directors-to-attend-u.s-premiere">3 &lt;cite&gt;Genius Party&lt;/cite&gt; Directors to Attend U.S. Premiere</news>
+<news datetime="2008-01-23T06:43:12Z" href="http://www.animenewsnetwork.com/news/2008-01-23/ghibli-bandai-entertainment-films-play-in-california">Ghibli, Bandai Entertainment Films Play in California</news>
+<news datetime="2008-01-26T10:38:30Z" href="http://www.animenewsnetwork.com/news/2008-01-26/2nd-macross-frontier-manga-exhibit-to-launch-in-japan">2nd &lt;cite&gt;Macross Frontier&lt;/cite&gt; Manga, Exhibit to Launch in Japan</news>
+<news datetime="2008-02-29T19:20:31Z" href="http://www.animenewsnetwork.com/news/2008-02-29/macross-frontier-opening-theme">Maaya Sakamoto to Sing &lt;cite&gt;Macross Frontier&lt;/cite&gt; Opening Theme</news>
+<news datetime="2008-03-09T20:07:18Z" href="http://www.animenewsnetwork.com/news/2008-03-09/michiko-to-hatchin-tv-anime-confirmed-for-2008">&lt;cite&gt;Michiko to Hatchin&lt;/cite&gt; TV Anime Confirmed for 2008</news>
+<news datetime="2008-03-24T07:24:23Z" href="http://www.animenewsnetwork.com/news/2008-03-24/goth-moribito-bebop-creators-start-young-gangan-manga">&lt;cite&gt;Goth, Moribito, Bebop&lt;/cite&gt; Creators Start &lt;cite&gt;Young Gangan&lt;/cite&gt; Manga</news>
+<news datetime="2008-03-25T17:06:26Z" href="http://www.animenewsnetwork.com/news/2008-03-25/gundam-ms-igloo-2-anime-announced">&lt;cite&gt;Gundam MS IGLOO 2&lt;/cite&gt; Anime Announced</news>
+<news datetime="2008-03-27T19:27:55Z" href="http://www.animenewsnetwork.com/news/2008-03-27/30-second-michiko-to-hatchin-trailer-posted-online">30-Second &lt;cite&gt;Michiko to Hatchin&lt;/cite&gt; Trailer Posted Online</news>
+<news datetime="2008-03-28T15:59:11Z" href="http://www.animenewsnetwork.com/news/2008-03-28/megumi-anime-about-girl-abducted-by-n-korea-posted">&lt;cite&gt;Megumi&lt;/cite&gt; Anime about Girl Abducted by N. Korea Posted</news>
+<news datetime="2008-03-28T19:06:44Z" href="http://www.animenewsnetwork.com/news/2008-03-28/jam-project-supergroup-with-dbz-kageyama-at-otakon">JAM Project Supergroup with &lt;cite&gt;DBZ's&lt;/cite&gt; Kageyama at Otakon</news>
+<news datetime="2008-04-10T18:26:52Z" href="http://www.animenewsnetwork.com/news/2008-04-10/stan-lee-bones-confirmed-to-be-working-on-hero-man">Stan Lee, Bones Confirmed to be Working on &lt;cite&gt;Hero Man&lt;/cite&gt;</news>
+<news datetime="2008-04-13T04:49:30Z" href="http://www.animenewsnetwork.com/news/2008-04-13/bandai-entertainment-to-screen-geass-lucky-star-in-la">Bandai Entertainment to Screen &lt;cite&gt;Geass, Lucky Star&lt;/cite&gt; in LA</news>
+<news datetime="2008-04-17T04:54:24Z" href="http://www.animenewsnetwork.com/news/2008-04-17/bebop-yamadera-death-note-nakamura-shokotan-in-pokemon-film">&lt;cite&gt;Bebop's&lt;/cite&gt; Yamadera, Death Note's Nakamura, Shokotan in Pokemon Film</news>
+<news datetime="2008-04-24T06:03:09Z" href="http://www.animenewsnetwork.com/news/2008-04-24/videos-for-maaya-sakamoto-macross-frontier-song-posted">Videos for Maaya Sakamoto's &lt;cite&gt;Macross Frontier&lt;/cite&gt; Song Posted</news>
+<news datetime="2008-04-25T16:21:59Z" href="http://www.animenewsnetwork.com/news/2008-04-25/macross-frontier-promo-videos-posted-online">&lt;cite&gt;Macross Frontier&lt;/cite&gt; TV Anime Promo Videos Posted Online</news>
+<news datetime="2008-04-27T09:48:58Z" href="http://www.animenewsnetwork.com/news/2008-04-27/bandai-visual-to-offer-freedom-on-bd-worldwide-in-fall">Bandai Visual to Offer &lt;cite&gt;Freedom&lt;/cite&gt; on BD Worldwide in Fall</news>
+<news datetime="2008-04-30T08:31:13Z" href="http://www.animenewsnetwork.com/news/2008-04-30/sakamoto-kanno-macross-frontier-song-rises-to-no.3">Sakamoto, Kanno's &lt;cite&gt;Macross Frontier&lt;/cite&gt; Song Rises to #3</news>
+<news datetime="2008-05-09T20:40:48Z" href="http://www.animenewsnetwork.com/news/2008-05-09/anime-expo-to-host-stranger-mukoh-hadan-director-ando">Anime Expo to Host &lt;cite&gt;Stranger - Mukoh Hadan&lt;/cite&gt; Director Ando</news>
+<news datetime="2008-05-14T09:57:15Z" href="http://www.animenewsnetwork.com/news/2008-05-14/two-macross-frontier-singles-in-japan-weekly-top-10">Two &lt;cite&gt;Macross Frontier&lt;/cite&gt; Singles in Japan's Weekly Top 10</news>
+<news datetime="2008-06-01T18:25:58Z" href="http://www.animenewsnetwork.com/news/2008-06-01/shinichiro-watanabe-to-speak-at-toronto-film-festival">Shinichiro Watanabe to Speak at Toronto Film Festival</news>
+<news datetime="2008-06-09T09:54:08Z" href="http://www.animenewsnetwork.com/news/2008-06-09/toronto-short-film-fest-to-host-director-kei-oyama">Toronto Short Film Fest to Host Director Kei Oyama</news>
+<news datetime="2008-06-10T10:28:05Z" href="http://www.animenewsnetwork.com/news/2008-06-10/1st-anime-album-in-11-years-to-rank-in-japan-top-3">1st Anime Album in 11 Years to Rank in Japan's Top 3</news>
+<news datetime="2008-07-02T03:19:59Z" href="http://www.animenewsnetwork.com/news/2008-07-01/bones-co-founder-masahiko-minami-to-attend-anime-expo">Bones Co-Founder Masahiko Minami to Attend Anime Expo</news>
+<news datetime="2008-07-12T00:07:10Z" href="http://www.animenewsnetwork.com/news/2008-07-11/sword-of-the-stranger-to-begin-la-nyc-run-on-july-18">&lt;cite&gt;Sword of the Stranger&lt;/cite&gt; to Begin LA/NYC Run on July 18</news>
+<news datetime="2008-07-23T00:03:28Z" href="http://www.animenewsnetwork.com/news/2008-07-22/live-action-cowboy-bebop-film-in-development-at-fox">Live-Action &lt;cite&gt;Cowboy Bebop&lt;/cite&gt; Film in Development at Fox</news>
+<news datetime="2008-07-25T14:58:41Z" href="http://www.animenewsnetwork.com/news/2008-07-25/macross-frontier-volume-1-ships-45000-blu-ray-discs">&lt;cite&gt;Macross Frontier&lt;/cite&gt; Volume 1 Ships 45,000 Blu-ray Discs</news>
+<news datetime="2008-08-01T05:34:52Z" href="http://www.animenewsnetwork.com/news/2008-08-01/ghibli-influences-kung-fu-panda-clone-wars-pixar-up">Ghibli Influences &lt;cite&gt;Kung Fu Panda, Clone Wars,&lt;/cite&gt; Pixar's &lt;cite&gt;Up&lt;/cite&gt;</news>
+<news datetime="2008-08-10T16:31:33Z" href="http://www.animenewsnetwork.com/news/2008-08-10/stan-lee-pow-develops-quartz-with-gonzo-parent-gdh">Stan Lee's Pow Develops &lt;cite&gt;Quartz&lt;/cite&gt; with Gonzo's Parent GDH</news>
+<news datetime="2008-08-18T21:05:50Z" href="http://www.animenewsnetwork.com/news/2008-08-18/michiko-to-hatchin-trailer-with-actual-footage-streamed">&lt;cite&gt;Michiko to Hatchin&lt;/cite&gt; Trailer with Actual Footage Streamed</news>
+<news datetime="2008-08-19T17:35:25Z" href="http://www.animenewsnetwork.com/news/2008-08-19/yoko-kanno-makes-voice-cameo-in-genius-party-beyond">Yoko Kanno Makes Voice Cameo in &lt;cite&gt;Genius Party Beyond&lt;/cite&gt;</news>
+<news datetime="2008-08-25T03:40:00Z" href="http://www.animenewsnetwork.com/news/2008-08-24/library-war-denno-coil-20th-century-boys-win-seiun-awards">&lt;cite&gt;Library War, Dennō Coil, 20th Century Boys&lt;/cite&gt; Win Seiun Awards</news>
+<news datetime="2008-09-25T01:54:34Z" href="http://www.animenewsnetwork.com/news/2008-09-24/denno-coil-iso-eva-geass-r2-win-anime-kobe-awards">&lt;cite&gt;Dennō Coil's&lt;/cite&gt; Iso, &lt;cite&gt;Eva, Geass R2&lt;/cite&gt; Win Anime Kobe Awards</news>
+<news datetime="2008-09-26T06:23:38Z" href="http://www.animenewsnetwork.com/news/2008-09-26/toonami-former-creative-directors-interviewed">Toonami's Former Creative Directors Interviewed</news>
+<news datetime="2008-09-27T09:21:10Z" href="http://www.animenewsnetwork.com/news/2008-09-27/losses-expected-to-mount-at-japanese-channel-wowow">Profits Continue to Drop at Japanese Channel WOWOW (Update 2)</news>
+<news datetime="2008-10-14T09:48:23Z" href="http://www.animenewsnetwork.com/news/2008-10-14/2nd-macross-frontier-album-sells-102000-in-1st-week">2nd &lt;cite&gt;Macross Frontier&lt;/cite&gt; Album Sells 102,000 in 1st Week</news>
+<news datetime="2008-11-05T19:28:22Z" href="http://www.animenewsnetwork.com/news/2008-11-05/adult-swim-updates-weekend-tv-schedule">Adult Swim Updates Weekend TV Schedule</news>
+<news datetime="2008-12-12T17:48:17Z" href="http://www.animenewsnetwork.com/news/2008-12-12/3rd-macross-frontier-album-sells-86450-to-rank-no.2">3rd &lt;cite&gt;Macross Frontier&lt;/cite&gt; Album Sells 86,450 to Rank #2</news>
+<news datetime="2008-12-17T14:14:54Z" href="http://www.animenewsnetwork.com/news/2008-12-17/360+theaters-to-run-sword-of-the-stranger-in-february">360+ Theaters to Run &lt;cite&gt;Sword of the Stranger&lt;/cite&gt; in February</news>
+<news datetime="2008-12-17T20:04:10Z" href="http://www.animenewsnetwork.com/news/2008-12-17/keanu-reeves-hopes-to-star-in-live-action-cowboy-bebop">Keanu Reeves Hopes to Star in Live-Action &lt;cite&gt;Cowboy Bebop&lt;/cite&gt;</news>
+<news datetime="2008-12-31T06:10:03Z" href="http://www.animenewsnetwork.com/news/2008-12-31/funimation-entertainment-to-distribute-samurai-champloo">FUNimation Entertainment to Distribute &lt;cite&gt;Samurai Champloo&lt;/cite&gt; </news>
+<news datetime="2008-12-31T18:10:54Z" href="http://www.animenewsnetwork.com/news/2008-12-31/funimation-adds-soul-eater-anime-from-media-factory">FUNimation Adds &lt;cite&gt;Soul Eater&lt;/cite&gt; Anime from Media Factory (Update 2)</news>
+<news datetime="2009-02-05T10:52:21Z" href="http://www.animenewsnetwork.com/news/2009-02-05/bones-sword-of-the-stranger-film-opens-in-u.s-today">Bones' &lt;cite&gt;Sword of the Stranger&lt;/cite&gt; Film Opens in U.S. Today</news>
+<news datetime="2009-02-25T08:14:48Z" href="http://www.animenewsnetwork.com/news/2009-02-25/composer-yoko-kanno-cm-yoko-2-album-now-on-itunes">Composer Yoko Kanno's &lt;cite&gt;CM Yoko 2&lt;/cite&gt; Album Now on iTunes</news>
+<news datetime="2009-03-18T02:24:29Z" href="http://www.animenewsnetwork.com/news/2009-03-17/tokyo-magnitude-8.0-anime-to-air-in-japan-in-july">&lt;cite&gt;Tokyo Magnitude 8.0&lt;/cite&gt; Anime to Air in Japan in July</news>
+<news datetime="2009-06-15T17:10:04Z" href="http://www.animenewsnetwork.com/news/2009-06-15/bones-tokyo-magnitude-8.0-promo-short-streamed">Bones' &lt;cite&gt;Tokyo Magnitude 8.0&lt;/cite&gt; Promo Short Streamed</news>
+<news datetime="2009-07-12T10:58:48Z" href="http://www.animenewsnetwork.com/news/2009-07-12/macross-concerts-planned-with-singers-from-3-series">&lt;cite&gt;Macross&lt;/cite&gt; Concerts Planned with Singers from 3 Series</news>
+<news datetime="2009-08-21T08:02:10Z" href="http://www.animenewsnetwork.com/news/2009-08-21/part-of-yoshiyuki-tomino-ring-of-gundam-previewed">Part of Yoshiyuki Tomino's 'Ring of Gundam' Previewed</news>
+<news datetime="2009-09-04T09:14:36Z" href="http://www.animenewsnetwork.com/news/2009-09-04/wall-e-eden-of-the-east-haruhi-chan-win-anime-kobe-awards">&lt;cite&gt;WALL-E, Eden of the East, Haruhi-chan&lt;/cite&gt; Win Anime Kobe Awards</news>
+<news datetime="2009-11-06T19:06:37Z" href="http://www.animenewsnetwork.com/news/2009-11-06/former-adv-dubbing-studio-voices-halo-legends-project">Former ADV Dubbing Studio Voices &lt;cite&gt;Halo Legends&lt;/cite&gt; Project</news>
+<news datetime="2009-12-12T19:44:45Z" href="http://www.animenewsnetwork.com/news/2009-12-12/xbox-live-posts-halo-legends/the-package-part-1-and-2">Xbox Live Posts &lt;cite&gt;Halo Legends: The Package Part 1 &amp; 2&lt;/cite&gt;</news>
+<news datetime="2010-01-02T11:18:17Z" href="http://www.animenewsnetwork.com/news/2010-01-02/trailer-for-shun-oguri-directorial-debut-streamed">Trailer for Shun Oguri's Directorial Debut Streamed</news>
+<news datetime="2010-01-07T16:41:10Z" href="http://www.animenewsnetwork.com/news/2010-01-07/halo-legends-nintama-musical-videos-streamed">&lt;cite&gt;Halo Legends, Nintama&lt;/cite&gt; Musical's Videos Streamed</news>
+<news datetime="2010-01-19T23:23:32Z" href="http://www.animenewsnetwork.com/news/2010-01-19/adult-swim-confirms-new-anime-to-launch-on-february-14">Adult Swim Confirms New Anime to Launch on February 14</news>
+<news datetime="2010-03-10T13:38:36Z" href="http://www.animenewsnetwork.com/news/2010-03-10/new-bleach-no-longer-slated-for-april-on-adult-swim">New &lt;cite&gt;Bleach&lt;/cite&gt; No Longer Slated for April on Adult Swim</news>
+<news datetime="2010-03-11T22:00:24Z" href="http://www.animenewsnetwork.com/news/2010-03-11/anime-expo-announces-toshihiro-kawamoto-as-a-guest-of-honor">Anime Expo to Host &lt;cite&gt;Bebop&lt;/cite&gt; Designer Toshihiro Kawamoto</news>
+<news datetime="2010-04-10T03:14:42Z" href="http://www.animenewsnetwork.com/news/2010-04-09/anime-expo-to-host-6-japanese-djs">Anime Expo to Host 6 Japanese DJs</news>
+<news datetime="2010-04-15T08:38:10Z" href="http://www.animenewsnetwork.com/news/2010-04-15/anime-expo-to-host-hello-project-singer-erina-mano">Hello! Project Singer Erina Mano Appears at Anime Expo</news>
+<news datetime="2010-04-18T18:24:21Z" href="http://www.animenewsnetwork.com/news/2010-04-18/anime-expo-to-host-voice-actor-katsuyuki-konishi">Anime Expo Hosts Gurren Lagann Voice Katsuyuki Konishi</news>
+<news datetime="2010-05-07T00:45:06Z" href="http://www.animenewsnetwork.com/news/2010-05-06/anime-expo-hosts-hayate/shana-singer-mell">Anime Expo Hosts &lt;cite&gt;Hayate/Shana&lt;/cite&gt; Singer Mell</news>
+<news datetime="2010-05-22T02:21:38Z" href="http://www.animenewsnetwork.com/news/2010-05-21/anime-expo-to-host-otaku-blogger-danny-choo">Anime Expo to Host Otaku Blogger Danny Choo</news>
+<news datetime="2010-05-27T03:23:59Z" href="http://www.animenewsnetwork.com/news/2010-05-26/anime-expo-to-host-voice-actresses-yui-horie-eri-kitamura">Anime Expo to Host Voice Actresses Yui Horie, Eri Kitamura</news>
+<news datetime="2010-06-29T16:00:49Z" href="http://www.animenewsnetwork.com/news/2010-06-29/new-bleach-episodes-return-to-adult-swim-on-august-28">New &lt;cite&gt;Bleach&lt;/cite&gt; Episodes Return to Adult Swim on August 28</news>
+<news datetime="2010-08-28T12:58:27Z" href="http://www.animenewsnetwork.com/news/2010-08-28/new-bleach-episodes-return-to-adult-swim-tonight">New &lt;cite&gt;Bleach&lt;/cite&gt; Episodes Return to Adult Swim Tonight</news>
+<news datetime="2010-09-30T16:05:11Z" href="http://www.animenewsnetwork.com/news/2010-09-30/image-entertainment-to-reissue-cowboy-bebop-anime-film">Image Entertainment to Reissue &lt;cite&gt;Cowboy Bebop&lt;/cite&gt; Anime Film</news>
+<news datetime="2010-10-14T23:57:00Z" href="http://www.animenewsnetwork.com/news/2010-10-15/haruhi-film-k-on-miku-win-anime-kobe-awards">&lt;cite&gt;Haruhi&lt;/cite&gt; Film, &lt;cite&gt;K-ON!!&lt;/cite&gt;, Miku Win Anime Kobe Awards</news>
+<news datetime="2010-11-04T14:08:36Z" href="http://www.animenewsnetwork.com/news/2010-11-05/norageki-short-ova-staff-cast-listed">&lt;cite&gt;Norageki&lt;/cite&gt; Short OVA's Staff, Cast Listed</news>
+<news datetime="2010-11-26T16:55:01Z" href="http://www.animenewsnetwork.com/news/2010-11-26/hellsing-director-umanosuke-iida-passes-away">&lt;cite&gt;Hellsing&lt;/cite&gt; Director Umanosuke Iida Passes Away</news>
+<news datetime="2010-12-06T21:38:30Z" href="http://www.animenewsnetwork.com/news/2010-12-06/smap-shingo-katori-kouichi-yamadera-in-friends-3d-anime">Smap's Shingo Katori, &lt;cite&gt;Bebop's&lt;/cite&gt; Yamadera in &lt;cite&gt;Friends&lt;/cite&gt; 3D Anime</news>
+<news datetime="2010-12-09T02:09:00Z" href="http://www.animenewsnetwork.com/news/2010-12-09/noragaki-puella-magi-madoka-magica-promos-streamed">&lt;cite&gt;Noragaki, Puella Magi Madoka Magica&lt;/cite&gt; Promos Streamed</news>
+<news datetime="2010-12-24T12:38:38Z" href="http://www.animenewsnetwork.com/news/2010-12-24/cyborg-009-1st-new-manga-in-18-years-posted-online">&lt;cite&gt;Cyborg 009's&lt;/cite&gt; 1st New Manga in 18 Years Posted Online</news>
+<news datetime="2010-12-31T12:18:59Z" href="http://www.animenewsnetwork.com/news/2010-12-31/bones-makes-towa-no-kuron-with-late-director-iida">Bones Makes Late Director Iida's Last Anime &lt;cite&gt;Towa no Kuon&lt;/cite&gt;</news>
+<news datetime="2011-01-22T14:52:41Z" href="http://www.animenewsnetwork.com/news/2011-01-22/bones-6-film-towa-no-quon-anime-opens-june-18">Bones' 6-Film &lt;cite&gt;Towa no Quon&lt;/cite&gt; Anime Opens June 18</news>
+<news datetime="2011-03-01T11:42:48Z" href="http://www.animenewsnetwork.com/news/2011-03-01/hyper-japan-2011-in-olympia-july">Hyper Japan 2011 in Olympia, July</news>
+<news datetime="2011-04-15T12:00:00Z" href="http://www.animenewsnetwork.com/news/2011-04-15/america-2009-anime-market-pegged-at-us$2.741-billion">America's 2009 Anime Market Pegged at US$2.741 Billion</news>
+<news datetime="2011-05-08T00:30:00Z" href="http://www.animenewsnetwork.com/news/2011-05-07/sunrise-horizon-takashi-yamazaki-friends-promos-streamed">Sunrise's &lt;cite&gt;Horizon&lt;/cite&gt;, Takashi Yamazaki's &lt;cite&gt;Friends&lt;/cite&gt; Promos Streamed</news>
+<news datetime="2011-05-09T15:15:00Z" href="http://www.animenewsnetwork.com/news/2011-05-09/fate/zero-hoshikaka-lupin-promo-videos-streamed">&lt;cite&gt;Fate/Zero, HoshiKaka, Lupin&lt;/cite&gt; Promo Videos Streamed</news>
+<news datetime="2011-05-11T07:30:00Z" href="http://www.animenewsnetwork.com/news/2011-05-11/digital-frontier-animates-tekken-3d-cg-anime-film">Digital Frontier Animates 1st &lt;cite&gt;Tekken&lt;/cite&gt; 3D CG Anime Film</news>
+<news datetime="2011-06-07T15:00:00Z" href="http://www.animenewsnetwork.com/news/2011-06-07/tekken/blood-vengeance-to-run-in-u.s-theaters-in-3d">&lt;cite&gt;Tekken: Blood Vengeance&lt;/cite&gt; to Run in U.S. Theaters in 3D</news>
+<news datetime="2011-06-10T05:19:19Z" href="http://www.animenewsnetwork.com/news/2011-06-10/annau-convention-update">ANNAU Convention Update</news>
+<news datetime="2011-06-16T14:43:25Z" href="http://www.animenewsnetwork.com/news/2011-06-17/madman-butler-for-a-day-art-competition-winners-announced">Madman's Butler For A Day art competition winners announced</news>
+<news datetime="2011-06-28T03:00:00Z" href="http://www.animenewsnetwork.com/news/2011-06-27/north-american-anime-manga-releases/june-26-july-2">North American Anime, Manga Releases: June 26-July 2</news>
+<news datetime="2011-07-15T19:30:00Z" href="http://www.animenewsnetwork.com/news/2011-07-15/tekken/cowboy-bebop-writer-dai-sato-attends-comic-con">&lt;cite&gt;Tekken/Cowboy Bebop&lt;/cite&gt; Writer Dai Sato Attends Comic-Con</news>
+<news datetime="2011-07-30T09:16:45Z" href="http://www.animenewsnetwork.com/news/2011-07-30/tekken-blood-vengeance-coming-to-u.k-cinemas-dvd-and-br">Tekken Blood Vengeance Coming to U.K. Cinemas, DVD and BR.</news>
+<news datetime="2011-08-13T03:30:00Z" href="http://www.animenewsnetwork.com/news/2011-08-12/sentai-filmworks-adds-sunrise-coicent-five-numbers">Sentai Filmworks Adds Sunrise's &lt;cite&gt;Coicent, Five Numbers&lt;/cite&gt;</news>
+<news datetime="2011-08-13T14:30:00Z" href="http://www.animenewsnetwork.com/news/2011-08-13/satelight-aquarion-evol-anime-trailer-streamed">Satelight's &lt;cite&gt;Aquarion Evol&lt;/cite&gt; Anime Trailer Streamed</news>
+<news datetime="2011-08-31T18:30:00Z" href="http://www.animenewsnetwork.com/news/2011-08-31/animefest-to-host-writer-dai-sato-in-dallas-this-weekend">AnimeFest to Host Writer Dai Sato in Dallas This Weekend</news>
+<news datetime="2011-09-19T22:42:29Z" href="http://www.animenewsnetwork.com/news/2011-09-19/friends/mononoke-shima-no-naki-film-promos-streamed">&lt;cite&gt;Friends: Mononoke Shima no Naki&lt;/cite&gt; Film's Promos Streamed</news>
+<news datetime="2011-10-13T23:46:37Z" href="http://www.animenewsnetwork.com/news/2011-10-13/kami-voice-film-to-have-anime-sequence-by-production-i.g">&lt;cite&gt;Kami Voice&lt;/cite&gt; Film to Have Anime Sequence by Production I.G</news>
+<news datetime="2011-11-11T18:11:19Z" href="http://www.animenewsnetwork.com/news/2011-11-11/beez-confirms-anime-legends-reissue-of-code-geass-r2-and-cowboy-bebop">Beez Confirms Anime Legends Reissue of &lt;i&gt;Code Geass R2&lt;/i&gt; and &lt;i&gt;Cowboy Bebop&lt;/i&gt;</news>
+<news datetime="2012-01-02T23:00:00Z" href="http://www.animenewsnetwork.com/news/2012-01-02/japanese-box-office-december-17-18">Japanese Box Office, December 17-18</news>
+<news datetime="2012-01-02T12:07:16Z" href="http://www.animenewsnetwork.com/news/2012-01-02/anime-legends-edition-of-cowboy-bebop-remix-available-today">Anime Legends Edition of &lt;i&gt;Cowboy Bebop Remix&lt;/i&gt; Available Today</news>
+<news datetime="2012-01-04T20:26:54Z" href="http://www.animenewsnetwork.com/news/2012-01-04/manga-confirms-release-dates-for-tekken/blood-vengeance-fairy-tail-mardock-scramble">Manga Confirms Release Dates for &lt;i&gt;Tekken: Blood Vengeance&lt;/i&gt;, &lt;i&gt;Fairy Tail&lt;/i&gt;, &lt;i&gt;Mardock Scramble&lt;/i&gt;</news>
+<news datetime="2012-01-05T18:04:37Z" href="http://www.animenewsnetwork.com/news/2012-01-05/beez-in-u.k-says-no-impact-on-currently-scheduled-titles">Beez in U.K. Says No Impact on Currently Scheduled Titles (updated)</news>
+<news datetime="2012-01-09T03:00:25Z" href="http://www.animenewsnetwork.com/news/2012-01-08/japanese-box-office-december-24-25">Japanese Box Office, December 24-25</news>
+<news datetime="2012-01-16T01:05:00Z" href="http://www.animenewsnetwork.com/news/2012-01-15/japanese-box-office-december-31-january-1">Japanese Box Office, December 31-January 1</news>
+<news datetime="2012-01-16T23:30:00Z" href="http://www.animenewsnetwork.com/news/2012-01-16/japanese-box-office-january-7-8">Japanese Box Office, January 7-8</news>
+<news datetime="2012-01-23T03:05:47Z" href="http://www.animenewsnetwork.com/news/2012-01-22/japanese-box-office-january-14-15">Japanese Box Office, January 14-15</news>
+<news datetime="2012-01-26T16:40:00Z" href="http://www.animenewsnetwork.com/news/2012-01-26/apollon-reunites-cowboy-bebop-director-composer-kanno">&lt;cite&gt;Apollon&lt;/cite&gt; Reunites &lt;cite&gt;Cowboy Bebop&lt;/cite&gt; Director, Composer Kanno</news>
+<news datetime="2012-01-29T02:45:00Z" href="http://www.animenewsnetwork.com/news/2012-01-28/japanese-box-office-january-21-22">Japanese Box Office, January 21-22</news>
+<news datetime="2012-01-30T23:30:00Z" href="http://www.animenewsnetwork.com/news/2012-01-30/sakamichi-no-apollon-manga-gets-spinoff-series-in-march">&lt;cite&gt;Sakamichi no Apollon&lt;/cite&gt; Manga Gets Spinoff Series in March</news>
+<news datetime="2012-02-05T03:00:00Z" href="http://www.animenewsnetwork.com/news/2012-02-04/japanese-box-office-january-28-29">Japanese Box Office, January 28-29</news>
+<news datetime="2012-02-15T09:40:06Z" href="http://www.animenewsnetwork.com/news/2012-02-15/cowboy-bebop-back-on-amazon-uk-soon-says-beez">&lt;i&gt;Cowboy Bebop&lt;/i&gt; Back on Amazon UK Soon, Says Beez</news>
+<news datetime="2012-02-17T18:20:00Z" href="http://www.animenewsnetwork.com/news/2012-02-17/california-am2-to-host-designer-toshihiro-kawamoto">California's AM2 to Host Designer Toshihiro Kawamoto</news>
+<news datetime="2012-06-16T21:57:52Z" href="http://www.animenewsnetwork.com/news/2012-06-16/kawamoto/bones-working-on-new-version-of-familiar-title">Kawamoto: BONES Working on New Version of 'Familiar' Title</news>
+<news datetime="2012-08-01T20:00:00Z" href="http://www.animenewsnetwork.com/news/2012-08-01/singaore-anime-festival-asia-to-host-t.m-revolution-fripside-sphere">Singapore's Anime Festival Asia to Host T.M. Revolution, fripSide, Sphere</news>
+<news datetime="2012-08-04T03:30:39Z" href="http://www.animenewsnetwork.com/news/2012-08-03/cowboy-bebop-bd-box-to-include-novel-ein-picture-drama">&lt;cite&gt;Cowboy Bebop&lt;/cite&gt; BD Box to Include Novel, Ein Picture Drama</news>
+<news datetime="2012-10-16T05:40:00Z" href="http://www.animenewsnetwork.com/news/2012-10-16/cowboy-bebop-helmer-shinichiro-watanabe-bones-plan-new-tv-anime">&lt;cite&gt;Cowboy Bebop&lt;/cite&gt; Helmer Shinichiro Watanabe, BONES Plan New TV Anime</news>
+<news datetime="2012-12-22T14:29:29Z" href="http://www.animenewsnetwork.com/news/2012-12-22/cowboy-bebop-blu-ray-and-dvd-in-q3-from-anime-limited">&lt;i&gt;Cowboy Bebop&lt;/i&gt; Blu-ray and DVD in Q3 from Anime Limited (Updated)</news>
+<news datetime="2013-03-15T14:45:30Z" href="http://www.animenewsnetwork.com/news/2013-03-15/madman-to-release-code-geass/akito-cowboy-bebop-bds-in-australia">Madman to Release &lt;cite&gt;Code Geass: Akito, Cowboy Bebop&lt;/cite&gt; BDs in Australia</news>
+<news datetime="2013-03-19T14:45:00Z" href="http://www.animenewsnetwork.com/news/2013-03-19/black-lagoon-katabuchi-directs-video-of-yoko-kanno-quake-relief-song">&lt;cite&gt;Black Lagoon&lt;/cite&gt;'s Katabuchi Directs Video of Yoko Kanno's Quake Relief Song</news>
+<news datetime="2013-05-06T01:00:20Z" href="http://www.animenewsnetwork.com/news/2013-05-06/cowboy-bebop-director-shinichiro-watanabe-edinburgh-event-may-28">&lt;i&gt;Cowboy Bebop&lt;/i&gt; Director Shinichiro Watanabe Edinburgh Event May 28</news>
+<news datetime="2013-06-28T03:56:37Z" href="http://www.animenewsnetwork.com/news/2013-06-27/sword-art-online-slated-for-july-27-on-toonami">&lt;cite&gt;Sword Art Online&lt;/cite&gt; Slated for July 27 on Toonami</news>
+<news datetime="2013-07-28T05:49:47Z" href="http://www.animenewsnetwork.com/news/2013-07-28/cowboy-bebop-released-on-blu-ray-monday">&lt;i&gt;Cowboy Bebop&lt;/i&gt; Released on Blu-ray Monday (Updated 2)</news>
+<news datetime="2013-08-07T02:20:54Z" href="http://www.animenewsnetwork.com/news/2013-08-06/bandai-america-registers-space-dandy.us-domain">Bandai America Registers 'space-dandy.us' Domain</news>
+<news datetime="2013-08-10T21:17:08Z" href="http://www.animenewsnetwork.com/news/2013-08-10/daisuki-to-stream-cowboy-bebop-tv-anime">Daisuki to Stream &lt;cite&gt;Cowboy Bebop&lt;/cite&gt; TV Anime</news>
+<news datetime="2013-08-10T20:29:37Z" href="http://www.animenewsnetwork.com/news/2013-08-10/funimation-adds-cowboy-bebop-escaflowne-outlaw-star-more">Funimation Adds &lt;cite&gt;Cowboy Bebop, Escaflowne, Outlaw Star&lt;/cite&gt;, More</news>
+<news datetime="2013-09-05T18:12:24Z" href="http://www.animenewsnetwork.com/news/2013-09-05/anime-dvd-sales-august-2013">Anime DVD Sales August 2013</news>
+<news datetime="2013-09-11T15:40:40Z" href="http://www.animenewsnetwork.com/news/2013-09-11/cowboy-bebop-releases-in-october">&lt;i&gt;Cowboy Bebop&lt;/i&gt; Releases in October (Updated)</news>
+<news datetime="2013-09-20T09:23:38Z" href="http://www.animenewsnetwork.com/news/2013-09-20/cowboy-bebop-dvd-update">&lt;i&gt;Cowboy Bebop&lt;/i&gt; DVD Update</news>
+<news datetime="2013-10-02T13:00:23Z" href="http://www.animenewsnetwork.com/news/2013-10-02/cowboy-bebop-dvd-collection-delayed-to-november-4">&lt;i&gt;Cowboy Bebop&lt;/i&gt; DVD Collection Delayed</news>
+<news datetime="2013-10-13T08:54:00Z" href="http://www.animenewsnetwork.com/news/2013-10-13/c-control-and-linebarrels-of-iron-released-monday">&lt;i&gt;C-Control&lt;/i&gt; and &lt;i&gt;Linebarrels of Iron&lt;/i&gt; Released Monday</news>
+<news datetime="2013-11-11T10:33:17Z" href="http://www.animenewsnetwork.com/news/2013-11-11/andrew-partridge-interviewed-on-uk-anime-network">Andrew Partridge Interviewed on &lt;i&gt;UK Anime Network&lt;/i&gt;</news>
+<news datetime="2014-04-04T03:30:00Z" href="http://www.animenewsnetwork.com/news/2014-04-03/after-school-midnighters-english-trailer-streamed">&lt;i&gt;After School Midnighters&lt;/i&gt; English Trailer Streamed</news>
+<news datetime="2014-06-01T10:30:20Z" href="http://www.animenewsnetwork.com:/news/2014-06-01/outlaw-star-and-fairy-tail-released-monday/.75097">&lt;i&gt;Outlaw Star&lt;/i&gt; and &lt;i&gt;Fairy Tail&lt;/i&gt; Released Monday</news>
+<news datetime="2014-08-09T20:30:00Z" href="http://www.animenewsnetwork.com:/news/2014-08-10/cowboy-bebop-blu-ray-slated-for-n-america-in-december/.77378">&lt;cite&gt;Cowboy Bebop&lt;/cite&gt; Blu-ray Slated for N. America in December</news>
+<news datetime="2014-10-22T02:29:14Z" href="http://www.animenewsnetwork.com:/news/2014-10-22/mcm-london-comic-con-line-up/.80171">MCM London Comic Con Line-Up</news>
+<news datetime="2014-12-17T00:20:00Z" href="http://www.animenewsnetwork.com:/news/2014-12-16/north-american-anime-manga-releases-december-14-20/.82255">North American Anime, Manga Releases, December 14-20</news>
+<news datetime="2015-08-04T17:25:00Z" href="http://www.animenewsnetwork.com:/news/2015-08-04/attack-on-titan-dragon-ball-z-cowboy-bebop-licensed-for-board-miniature-games/.91278">&lt;cite&gt;Attack on Titan, Dragon Ball Z, Cowboy Bebop&lt;/cite&gt; Licensed for Board, Miniature Games</news>
+<staff gid="2044424773"><task>Series Director</task><person id="774">Shinichiro Watanabe</person></staff>
+<staff gid="1666614809"><task>Series Composition</task><person id="1026">Keiko Nobumoto</person></staff>
+<staff gid="2390177775"><task>Script</task><person id="31">Shoji Kawamori</person></staff>
+<staff gid="178349914"><task>Script</task><person id="227">Ryota Yamaguchi</person></staff>
+<staff gid="1115380778"><task>Script</task><person id="325">Sadayuki Murai</person></staff>
+<staff gid="428927782"><task>Script</task><person id="429">Michiko Yokote</person></staff>
+<staff gid="2464104500"><task>Script</task><person id="774">Shinichiro Watanabe</person></staff>
+<staff gid="627928233"><task>Script</task><person id="1026">Keiko Nobumoto</person></staff>
+<staff gid="2722352953"><task>Script</task><person id="8823">Aya Yoshinaga</person></staff>
+<staff gid="1468320693"><task>Script</task><person id="10038">Dai Sato</person></staff>
+<staff gid="3730385972"><task>Script</task><person id="10039">Akihiko Inari</person></staff>
+<staff gid="1381520245"><task>Storyboard</task><person id="260">Yuji Yamaguchi</person></staff>
+<staff gid="2847066230"><task>Storyboard</task><person id="644">Junichi Sato</person></staff>
+<staff gid="2654849128"><task>Storyboard</task><person id="732">Kazuki Akane</person></staff>
+<staff gid="1442467170"><task>Storyboard</task><person id="774">Shinichiro Watanabe</person></staff>
+<staff gid="2488100550"><task>Storyboard</task><person id="2689">Umanosuke Iida</person></staff>
+<staff gid="2942733883"><task>Storyboard</task><person id="4069">Shigeyasu Yamauchi</person></staff>
+<staff gid="895953126"><task>Storyboard</task><person id="4143">Tensai Okamura</person></staff>
+<staff gid="794867607"><task>Storyboard</task><person id="4786">Yoshiyuki Takei</person></staff>
+<staff gid="2540626705"><task>Storyboard</task><person id="9089">Kunihiro Mori</person></staff>
+<staff gid="2908476596"><task>Storyboard</task><person id="14948">Toshiyuki Tsuru</person></staff>
+<staff gid="1885800880"><task>Storyboard</task><person id="27971">Ranta Ushio</person></staff>
+<staff gid="2159827297"><task>Episode Director</task><person id="4786">Yoshiyuki Takei</person></staff>
+<staff gid="697266012"><task>Episode Director</task><person id="5866">Ikuro Sato</person></staff>
+<staff gid="1836239090"><task>Episode Director</task><person id="7588">Tetsuya Watanabe</person></staff>
+<staff gid="3866190109"><task>Episode Director</task><person id="9089">Kunihiro Mori</person></staff>
+<staff gid="1827736046"><task>Episode Director</task><person id="13830">Hirokazu Yamada</person></staff>
+<staff gid="939249048"><task>Unit Director</task><person id="774">Shinichiro Watanabe</person></staff>
+<staff gid="298821839"><task>Music</task><person id="734">Yoko Kanno</person></staff>
+<staff gid="1129917057"><task>Music</task><person id="5757">Tsuneo Imahori</person></staff>
+<staff gid="2789961041"><task>Music</task><person id="12544">Keishi Urata</person></staff>
+<staff gid="2265669117"><task>Music</task><person id="13531">Hitoshi Watanabe</person></staff>
+<staff gid="1157097136"><task>Music</task><person id="13846">Tim Jensen</person></staff>
+<staff gid="3131259337"><task>Music</task><person id="19279">Tsutchie</person></staff>
+<staff gid="3356999901"><task>Music</task><person id="24433">Kiyoshi Sato</person></staff>
+<staff gid="2438912720"><task>Music</task><person id="27831">Kohji Nishimura</person></staff>
+<staff gid="947804939"><task>Music</task><person id="27900">Matarou Misawa</person></staff>
+<staff gid="734274398"><task>Music</task><person id="27904">Takuo Yamamoto</person></staff>
+<staff gid="3695635800"><task>Music</task><person id="28184">Hideyo Takakuwa</person></staff>
+<staff gid="2514794741"><task>Music</task><person id="28209">Yasuo Sano</person></staff>
+<staff gid="442843546"><task>Music</task><person id="30855">Yuusuke Hayashi</person></staff>
+<staff gid="853299107"><task>Music</task><person id="33824">Masato Honda</person></staff>
+<staff gid="3098218147"><task>Music</task><person id="64904">Ikuo Kakehashi</person></staff>
+<staff gid="3395353180"><task>Music</task><person id="64905">Osamu Koike</person></staff>
+<staff gid="2025023685"><task>Music</task><person id="64906">Shigeo Fuchino</person></staff>
+<staff gid="3302086148"><task>Music</task><person id="64907">Toshiko Aranki</person></staff>
+<staff gid="1108127821"><task>Music</task><person id="64908">Yoichi Murata</person></staff>
+<staff gid="1621173748"><task>Music</task><person id="64909">Masanori Hirohara</person></staff>
+<staff gid="1482684247"><task>Music</task><person id="64910">Junko Yamashiro</person></staff>
+<staff gid="1195959472"><task>Music</task><person id="64911">Kazahiro Iwasa</person></staff>
+<staff gid="1703661382"><task>Music</task><person id="64912">Mika Hayashi</person></staff>
+<staff gid="2568289223"><task>Music</task><person id="64914">Maki Kitada</person></staff>
+<staff gid="3862868728"><task>Original Concept</task><person id="19">Hajime Yatate</person></staff>
+<staff gid="1891332079"><task>Character Design</task><person id="96">Toshihiro Kawamoto</person></staff>
+<staff gid="708421542"><task>Art Director</task><person id="89">Junichi Higashi</person></staff>
+<staff gid="1788617754"><task>Chief Animation Director</task><person id="96">Toshihiro Kawamoto</person></staff>
+<staff gid="2348724409"><task>Animation Director</task><person id="96">Toshihiro Kawamoto</person></staff>
+<staff gid="1945745520"><task>Animation Director</task><person id="274">Hideyuki Motohashi</person></staff>
+<staff gid="1308332334"><task>Animation Director</task><person id="343">Hiroshi Osaka</person></staff>
+<staff gid="2946410408"><task>Animation Director</task><person id="1570">Takahiro Komori</person></staff>
+<staff gid="1497593943"><task>Animation Director</task><person id="4784">Masami Goto</person></staff>
+<staff gid="2599179080"><task>Animation Director</task><person id="8734">Hiroshi Takeuchi</person></staff>
+<staff gid="2288230909"><task>Animation Director</task><person id="10234">Hiroki Kanno</person></staff>
+<staff gid="1106255194"><task>Animation Director</task><person id="12244">Eiji Nakada</person></staff>
+<staff gid="1789370040"><task>Animation Director</task><person id="20775">Takuro Shinbo</person></staff>
+<staff gid="1194583590"><task>Mechanical design</task><person id="125">Kimitoshi Yamane</person></staff>
+<staff gid="82445825"><task>Director of Photography</task><person id="6695">Yoichi Ogami</person></staff>
+<staff gid="1086460459"><task>Producer</task><person id="182">Kazuhiko Ikeguchi</person></staff>
+<staff gid="3189777897"><task>Producer</task><person id="726">Masahiko Minami</person></staff>
+<cast gid="2081291375" lang="DE"><role>Spike Spiegel</role><person id="22734">Viktor Neumann</person></cast>
+<cast gid="2976835523" lang="DE"><role>Edward Wong Hau Pepelu Tivrosky IV</role><person id="22747">Ilona Otto</person></cast>
+<cast gid="1156311922" lang="DE"><role>Vicious</role><person id="24843">Andreas Hosang</person></cast>
+<cast gid="2496210865" lang="DE"><role>Faye Valentine</role><person id="27476">Antje von der Ahe</person></cast>
+<cast gid="1548436554" lang="DE"><role>Punch</role><person id="28529">Hans-Jürgen Dittberner</person></cast>
+<cast gid="2142793563" lang="DE"><role>Jet Black</role><person id="30089">Karl Schulz</person></cast>
+<cast gid="1299219040" lang="DE"><role>Julia</role><person id="30326">Anke Reizenstein</person></cast>
+<cast gid="2550873282" lang="DE"><role>Judy</role><person id="33775">Angela Ringer</person></cast>
+<cast gid="3861015096" lang="EN"><role>Spike Spiegel</role><person id="539">David Lucas</person></cast>
+<cast gid="3216072162" lang="EN"><role>Julia</role><person id="1160">Melissa Williamson</person></cast>
+<cast gid="2353399642" lang="EN"><role>Jet Black</role><person id="1182">John Billingslea</person></cast>
+<cast gid="2222721517" lang="EN"><role>Edward Wong Hau Pepelu Tivrusky IV</role><person id="1183">Melissa Charles</person></cast>
+<cast gid="3240578697" lang="EN"><role>Faye Valentine</role><person id="1184">Wendee Lee</person></cast>
+<cast gid="2407990944" lang="EN"><role>Judy</role><person id="1185">Lia Sargent</person></cast>
+<cast gid="3915305777" lang="EN"><role>Van</role><person id="1294">Ray Michaels</person></cast>
+<cast gid="648356753" lang="EN"><role>Lin</role><person id="3676">David Umansky</person></cast>
+<cast gid="1972376285" lang="EN"><role>Vicious</role><person id="4545">Henry Douglas Grey</person></cast>
+<cast gid="2478874792" lang="EN"><role>Shin</role><person id="4547">Bo Williams</person></cast>
+<cast gid="1790529461" lang="EN"><role>Laughing Bull</role><person id="6302">Mike D'Gard</person></cast>
+<cast gid="2090264312" lang="ES"><role>Spike Spiegel</role><person id="23480">Genaro Vasquez</person></cast>
+<cast gid="1953408572" lang="ES"><role>Edward Fong Hau Pepelu Tivrusky IV (Ed)</role><person id="24089">Isabel Martiñon</person></cast>
+<cast gid="2732900015" lang="ES"><role>Vicious</role><person id="24095">Marcos Patiño</person></cast>
+<cast gid="1765392164" lang="ES"><role>Faye Valentine</role><person id="24114">Elsa Covián</person></cast>
+<cast gid="2196722226" lang="ES"><role>Jet Black</role><person id="30841">Alfonso Ramirez</person></cast>
+<cast gid="2686043567" lang="ES"><role>Vicious</role><person id="31677">Tasio Alonso</person></cast>
+<cast gid="876696826" lang="ES"><role>Faye Valentine</role><person id="32390">Carmen Ambrós</person></cast>
+<cast gid="2806149168" lang="ES"><role>Julia</role><person id="36191">Dulce Guerrero</person></cast>
+<cast gid="2279091624" lang="ES"><role>Spike Spiegel</role><person id="50565">Joan Pera</person></cast>
+<cast gid="2671223756" lang="ES"><role>Jet Black</role><person id="50566">Francesc Belda</person></cast>
+<cast gid="2280145191" lang="ES"><role>Edward Wong Hau Pepelu Tivrusky IV</role><person id="50750">Diana De Guzmán</person></cast>
+<cast gid="1100850315" lang="ES"><role>Vicious</role><person id="52337">Enric Isasi-Isasmendi</person></cast>
+<cast gid="1980140169" lang="ES"><role>Spike Spiegel</role><person id="62923">Josep Maria Mas</person></cast>
+<cast gid="1293848514" lang="ES"><role>Jet Black</role><person id="62924">Ramon Puig</person></cast>
+<cast gid="2916691861" lang="ES"><role>Edward Fong Hau Pepelu Tivrusky IV (Ed)</role><person id="62925">Anna Orra</person></cast>
+<cast gid="2247565502" lang="ES"><role>Faye Valentine</role><person id="62926">Mar Roca</person></cast>
+<cast gid="976826053" lang="ES"><role>Julia</role><person id="62927">Victoria Pagès</person></cast>
+<cast gid="3839005007" lang="FR"><role>Julia</role><person id="28731">Suzanne Sindberg</person></cast>
+<cast gid="1984761936" lang="FR"><role>Edward</role><person id="28732">Patricia Legrand</person></cast>
+<cast gid="2699710051" lang="FR"><role>Spike</role><person id="28734">Yann Pichon</person></cast>
+<cast gid="854319849" lang="FR"><role>Vicious</role><person id="29314">Jacques Albaret</person></cast>
+<cast gid="475690361" lang="FR"><role>Faye Valentine</role><person id="29413">Bérangère Jean</person></cast>
+<cast gid="2299888361" lang="FR"><role>Jet Black</role><person id="31238">Philippe Roullier</person></cast>
+<cast gid="2250685392" lang="FR"><role>Julia</role><person id="63571">Susan Sindberg</person></cast>
+<cast gid="3234821618" lang="IT"><role>Spike Spiegel</role><person id="25902">Massimo De Ambrosis</person></cast>
+<cast gid="665248727" lang="IT"><role>Faye Valentine</role><person id="25917">Barbara De Bortoli</person></cast>
+<cast gid="2207419459" lang="IT"><role>Judy</role><person id="26004">Rossella Acerbo</person></cast>
+<cast gid="3151634076" lang="IT"><role>Vicious</role><person id="26156">Roberto Chevalier</person></cast>
+<cast gid="1129991323" lang="IT"><role>Edward Fong Hau Pepelu Tivrusky IV</role><person id="26196">Gemma Donati</person></cast>
+<cast gid="3379649771" lang="IT"><role>Jet Black</role><person id="26508">Nino Prester</person></cast>
+<cast gid="1672180288" lang="IT"><role>Julia</role><person id="26698">Eleonora De Angelis</person></cast>
+<cast gid="2516073947" lang="JA"><role>Faye Valentine</role><person id="391">Megumi Hayashibara</person></cast>
+<cast gid="1671671696" lang="JA"><role>Lin</role><person id="546">Hikaru Midorikawa</person></cast>
+<cast gid="2515368522" lang="JA"><role>Judy</role><person id="847">Miki Nagasawa</person></cast>
+<cast gid="1052568401" lang="JA"><role>Vicious</role><person id="954">Norio Wakamoto</person></cast>
+<cast gid="2702240945" lang="JA"><role>Spike Spiegel</role><person id="1009">Kouichi Yamadera</person></cast>
+<cast gid="2011152994" lang="JA"><role>Jet Black</role><person id="1178">Unshou Ishizuka</person></cast>
+<cast gid="2037424495" lang="JA"><role>Edward Wong Hau Pepelu Tivrusky IV</role><person id="1181">Aoi Tada</person></cast>
+<cast gid="3692630427" lang="JA"><role>Shin</role><person id="1497">Nobuyuki Hiyama</person></cast>
+<cast gid="1150022812" lang="JA"><role>Julia</role><person id="2134">Gara Takashima</person></cast>
+<cast gid="2790135589" lang="JA"><role>Bull</role><person id="3058">Takehiro Koyama</person></cast>
+<cast gid="1713989917" lang="JA"><role>Punch</role><person id="6602">Tsutomu Taruki</person></cast>
+<cast gid="1738267151" lang="KO"><role>Edward Wong Hau Pepelu Tivrusky IV</role><person id="73367">Jeong-Hwa Yang</person></cast>
+<cast gid="1363030970" lang="KO"><role>Spike Spiegel</role><person id="96187">Ja-Hyeong Gu</person></cast>
+<cast gid="1490479262" lang="KO"><role>Julia</role><person id="96188">So-Ra Yun</person></cast>
+<cast gid="2945924943" lang="KO"><role>Shin</role><person id="96257">Won-Hyeong Choi</person></cast>
+<cast gid="949170605" lang="KO"><role>Jet Black</role><person id="96278">Gi-Hyeon Kim</person></cast>
+<cast gid="3924160737" lang="KO"><role>Lin</role><person id="96296">Jae-Ho Choi</person></cast>
+<cast gid="1867307916" lang="KO"><role>Judy</role><person id="96338">Myeong-Hwa Cha</person></cast>
+<cast gid="1898092896" lang="KO"><role>Laughing Bull</role><person id="96341">Jeong-Ho Kim</person></cast>
+<cast gid="2302629105" lang="KO"><role>Faye Valentine</role><person id="96413">Mi-Suk Jeong</person></cast>
+<cast gid="651303996" lang="KO"><role>Punch</role><person id="96517">In-Seong Lee</person></cast>
+<cast gid="1106473746" lang="KO"><role>Vicious</role><person id="96870">Su-Jung Kim</person></cast>
+<cast gid="3258248839" lang="TL"><role>Spike Spiegel</role><person id="15932">Bon Reyes</person></cast>
+<cast gid="3995914792" lang="TL"><role>Jet Black</role><person id="15939">Vincent Gutierrez</person></cast>
+<cast gid="2345046795" lang="TL"><role>Faye Valentine</role><person id="39024">Grace Cornel</person></cast>
+<cast gid="852497921" lang="TL"><role>Edward Wong Hau Pepelu Tivrusky IV</role><person id="39769">Candice Arellano</person></cast>
+<cast gid="2074041066" lang="TL"><role>Julia</role><person id="39769">Candice Arellano</person></cast>
+<cast gid="1599041927" lang="TL"><role>Vicious</role><person id="57888">Jess Reyes</person></cast>
+<credit gid="3777848670"><task>Animation Production</task><company id="34">Sunrise</company></credit>
+<credit gid="2299683947"><task>Production</task><company id="18">Bandai Visual</company></credit>
+<credit gid="249129886"><task>Production</task><company id="34">Sunrise</company></credit></anime></ann>

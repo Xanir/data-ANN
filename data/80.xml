@@ -1,0 +1,428 @@
+<ann><anime id="80" gid="2666445431" type="TV" name="Sailor Moon S" precision="TV" generated-on="2016-03-27T03:54:52Z">
+<related-prev rel="sequel of" id="213"/>
+<related-next id="280" rel="sequel"/>
+<related-next id="812" rel="sequel"/>
+<info gid="298689804" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A80-53.jpg" width="200" height="172"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A80-53.jpg" width="200" height="172"/><img src="http://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A80-53.jpg" width="338" height="290"/></info>
+<info gid="3263471351" type="Main title" lang="EN">Sailor Moon S</info>
+<info gid="1489122297" type="Alternative title" lang="JA">Bishōjo Senshi Sailor Moon S</info>
+<info gid="3538878700" type="Alternative title" lang="JA">Bishōjo Senshi Sailormoon Super</info>
+<info gid="2012979447" type="Alternative title" lang="EN">Pretty Soldier Sailor Moon S</info>
+<info gid="1738693604" type="Alternative title" lang="IT">Sailor Moon e il cristallo del cuore</info>
+<info gid="2459970860" type="Alternative title" lang="RU">Сейлор Мун - Супервоин</info>
+<info gid="2338445627" type="Alternative title" lang="JA">美少女戦士セーラームーン S</info>
+<info gid="945532438" type="Genres">action</info>
+<info gid="2327396895" type="Genres">drama</info>
+<info gid="1102598611" type="Genres">magic</info>
+<info gid="2607993685" type="Genres">romance</info>
+<info gid="2385301848" type="Themes">bishoujo</info>
+<info gid="190771649" type="Themes">magical girl</info>
+<info gid="1471585835" type="Themes">sentai</info>
+<info gid="873702715" type="Objectionable content">OC</info>
+<info gid="3968139460" type="Plot Summary">Sailor Moon and the senshi are up against a new set of villains: the Death Busters (Professor Tomoe, Kaorinite, the Witches 5, Mistress 9, Pharaoh 90). The Death Busters plan to rule the world by using the energy from the pure heart crystals of innocent victims, but Sailor Moon and the senshi must stop them. The outer senshi (Neptune, Uranus, Pluto, Saturn), also make an appearance, although Pluto appeared briefly in Sailor Moon R.</info>
+<info gid="1917336930" type="Running time">half hour</info>
+<info gid="2761646875" type="Number of episodes">38</info>
+<info gid="2309453659" type="Vintage">1994-03-13 to 1995-02-25</info>
+<info gid="1875349523" type="Vintage">1996-02-05 to 1996-03-20 (Italy)</info>
+<info gid="2986934874" type="Vintage">1997-07-16 to 1997-09-10 (Mexico)</info>
+<info gid="192092417" type="Vintage">2000-06-12 to 2000-09-13 (USA)</info>
+<info gid="3789977012" type="Opening Theme">&quot;Moonlight Densetsu&quot; by Moon Lips</info>
+<info gid="3906635640" type="Ending Theme">#1: &quot;Otome no Policy&quot; by Yoko Ishida (eps 1-2)</info>
+<info gid="163147288" type="Ending Theme">#2: &quot;Tuxedo Mirage&quot; by Peach Hips (eps 3-38)</info>
+<info gid="3525097722" type="Official website" lang="JA" href="http://www.toei-anim.co.jp/lineup/tv/sailor_moon_s/">Toei Animation's Sailor Moon S Page</info>
+<ratings nb_votes="1370" weighted_score="7.5122" bayesian_score="7.5123"/>
+<episode num="90">
+<title gid="300867057" lang="EN">Premonition of the World's End! Mysterious New Soldiers Appear</title></episode>
+<episode num="91">
+<title gid="2797317875" lang="EN">A Rod Born of Love! Usagi's New Transformation</title></episode>
+<episode num="92">
+<title gid="1083888325" lang="EN">A Handsome Guy? Tenou Haruka's Secret</title></episode>
+<episode num="93">
+<title gid="1027388125" lang="EN">Usagi's Idol! Graceful Genius Michiru</title></episode>
+<episode num="94">
+<title gid="1885175772" lang="EN">Protect the Pure Heart! Enemies and Allies in a Triangular Struggle</title></episode>
+<episode num="95">
+<title gid="2343614609" lang="EN">In Need of Help for Love? Moon Will Take Care of It</title></episode>
+<episode num="96">
+<title gid="2062445849" lang="EN">Cold Uranus. Makoto in Danger!</title></episode>
+<episode num="97">
+<title gid="3281285544" lang="EN">Water Labyrinth. Targetted Ami-chan</title></episode>
+<episode num="98">
+<title gid="2218990296" lang="EN">Temporary Uniting Minds! Moon and Uranus team up</title></episode>
+<episode num="99">
+<title gid="1250994972" lang="EN">A man's kindness! Yuuichirou heart broken by Rei</title></episode>
+<episode num="100">
+<title gid="3597904095" lang="EN">She wants to quit being a Sailor Senshi!? Minako's worries</title></episode>
+<episode num="101">
+<title gid="2236435682" lang="EN">Usagi in tears. Glass shoes for her birthday.</title></episode>
+<episode num="102">
+<title gid="388366247" lang="EN">The stolen pure heart. Usagi is in trouble.</title></episode>
+<episode num="103">
+<title gid="3232424313" lang="EN">She came. The tiny pretty girl soldier.</title></episode>
+<episode num="104">
+<title gid="2996922945" lang="EN">They're thinking the same thing! Chibi Moon's adventure</title></episode>
+<episode num="105">
+<title gid="1287241909" lang="EN">Need more power! Mako overdoing it</title></episode>
+<episode num="106">
+<title gid="1445340834" lang="EN">The Day of Fate. Uranus' Distant Days</title></episode>
+<episode num="107">
+<title gid="3364878567" lang="EN">Art is the eplosion of love! Chibi Usa's first love.</title></episode>
+<episode num="108">
+<title gid="488270453" lang="EN">Usagi's dance, the waltzing knot</title></episode>
+<episode num="109">
+<title gid="346616688" lang="EN">The Shocking Truth. The Revealed Identity of Each other</title></episode>
+<episode num="110">
+<title gid="268172203" lang="EN">Death of Uranus and Neptune? The Coming of Talisman</title></episode>
+<episode num="111">
+<title gid="300911075" lang="EN">The Sacred Power of the Holy Grail. Moon's second Transformation</title></episode>
+<episode num="112">
+<title gid="699938889" lang="EN">Who is the real messiah? The chaos of the light and dark.</title></episode>
+<episode num="113">
+<title gid="2596861341" lang="EN">The house of mystery! Pretty Hotaru's secret</title></episode>
+<episode num="114">
+<title gid="2884390161" lang="EN">After Idols! Evil Mimete</title></episode>
+<episode num="115">
+<title gid="1469750427" lang="EN">Shadow of Silence!? The Pale Glimmer of a Firefly</title></episode>
+<episode num="116">
+<title gid="2661699834" lang="EN">Sunny Skies After a Storm! A Friendship Dedicated to Hotaru</title></episode>
+<episode num="117">
+<title gid="1349361252" lang="EN">Higher! Stronger! Cheers by Usagi</title></episode>
+<episode num="118">
+<title gid="2581607811" lang="EN">The Battle in a Demonic Dimension! The Sailor Soldier's Bet</title></episode>
+<episode num="119">
+<title gid="238966527" lang="EN">Awakening of the Messiah of Silence? Stars of Destiny</title></episode>
+<episode num="120">
+<title gid="2562291422" lang="EN">Invasion from an Alternate Dimension! The Mystery of Mugen Academy</title></episode>
+<episode num="121">
+<title gid="1115620664" lang="EN">A Mystic Flower That Steals Hearts! The Third Witch, Telulu</title></episode>
+<episode num="122">
+<title gid="386819752" lang="EN">Believe in Love! Ami, sad Senshi</title></episode>
+<episode num="123">
+<title gid="3608036605" lang="EN">Shadow of Destruction! The Messiah of Silence's Awakening</title></episode>
+<episode num="124">
+<title gid="879623893" lang="EN">Fear of Approaching Darkness! The Struggle of the Eight Soldiers</title></episode>
+<episode num="125">
+<title gid="1573909770" lang="EN">A Glittering Shooting-Star! Saturn and the Messiah</title></episode>
+<episode num="126">
+<title gid="1247977605" lang="EN">A New Life! Time for Seperation of the Destined Stars</title></episode>
+<episode num="127">
+<title gid="3619897747" lang="EN">Self-awarness as a Soldier! Strength Lies in the Pure Heart</title></episode>
+<review href="http://www.animenewsnetwork.com/review/sailor-moon-s-heart-collection-i-dvd">Sailor Moon S Heart Collection I DVD</review>
+<release date="2004-01-06" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2250">Sailor Moon S - Geneon Signature Series (DVD 1)</release>
+<release date="2004-03-09" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2405">Sailor Moon S - Geneon Signature Series (DVD 2)</release>
+<release date="2004-04-13" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2484">Sailor Moon S - Geneon Signature Series (DVD 3)</release>
+<release date="2004-05-11" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2521">Sailor Moon S - Geneon Signature Series (DVD 4)</release>
+<release date="2004-06-08" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2610">Sailor Moon S - Geneon Signature Series (DVD 5)</release>
+<release date="2004-07-13" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2713">Sailor Moon S - Geneon Signature Series (DVD 6)</release>
+<release date="2001-02-06" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=888">Sailor Moon S - Heart Collection I (DVD 1)</release>
+<release date="2001-04-17" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=937">Sailor Moon S - Heart Collection II (DVD 2)</release>
+<release date="2001-06-11" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=938">Sailor Moon S - Heart Collection III (DVD 3)</release>
+<release date="2001-08-14" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=258">Sailor Moon S - Heart Collection IV (DVD 4)</release>
+<release date="2001-10-09" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=263">Sailor Moon S - Heart Collection V (DVD 5)</release>
+<release date="2001-11-27" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=292">Sailor Moon S - Heart Collection VI (DVD 6)</release>
+<release date="2004-07-06" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2714">Sailor Moon S - DVD Set (Thinpak) (DVD 1-6)</release>
+<release date="2001-02-06" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=940">Sailor Moon S - Pure Hearts (edited) (Dub.VHS 1)</release>
+<release date="2001-02-06" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=939">Sailor Moon S - Pure Hearts (uncut) (Dub.VHS 1)</release>
+<release date="2001-02-06" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=942">Sailor Moon S - Love War! (edited) (Dub.VHS 2)</release>
+<release date="2001-02-06" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=941">Sailor Moon S - Love War! (uncut) (Dub.VHS 2)</release>
+<release date="2001-04-10" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=944">Sailor Moon S - Labyrinth (edited) (Dub.VHS 3)</release>
+<release date="2001-04-10" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=943">Sailor Moon S - Labyrinth (uncut) (Dub.VHS 3)</release>
+<release date="2001-04-10" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=946">Sailor Moon S - Birthday Blues (edited) (Dub.VHS 4)</release>
+<release date="2001-04-10" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=945">Sailor Moon S - Birthday Blues (uncut) (Dub.VHS 4)</release>
+<release date="2001-06-12" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=948">Sailor Moon S - Back from the Future (edited) (Dub.VHS 5)</release>
+<release date="2001-06-12" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=947">Sailor Moon S - Back from the Future (uncut) (Dub.VHS 5)</release>
+<release date="2001-06-12" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=950">Sailor Moon S - Secret Destiny (edited) (Dub.VHS 6)</release>
+<release date="2001-06-12" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=949">Sailor Moon S - Secret Destiny (uncut) (Dub.VHS 6)</release>
+<release date="2001-08-14" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=260">Sailor Moon S - Secret Revealed (edited) (Dub.VHS 7)</release>
+<release date="2001-08-14" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=259">Sailor Moon S - Secret Revealed (uncut) (Dub.VHS 7)</release>
+<release date="2001-08-14" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=262">Sailor Moon S - Search for the Savior (edited) (Dub.VHS 8)</release>
+<release date="2001-08-14" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=261">Sailor Moon S - Search for the Savior (uncut) (Dub.VHS 8)</release>
+<release date="2001-10-09" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=265">Sailor Moon S - Hotaru's Secret (edited) (Dub.VHS 9)</release>
+<release date="2001-10-09" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=264">Sailor Moon S - Hotaru's Secret (uncut) (Dub.VHS 9)</release>
+<release date="2001-10-09" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=257">Sailor Moon S - Mysterious Sailor (edited) (Dub.VHS 10)</release>
+<release date="2001-10-09" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=256">Sailor Moon S - Mysterious Sailor (uncut) (Dub.VHS 10)</release>
+<release date="2001-11-27" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=294">Sailor Moon S - Small Hearts (edited) (Dub.VHS 11)</release>
+<release date="2001-11-27" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=293">Sailor Moon S - Small Hearts (uncut) (Dub.VHS 11)</release>
+<release date="2001-11-27" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=296">Sailor Moon S - The Awakening! (edited) (Dub.VHS 12)</release>
+<release date="2001-11-27" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=295">Sailor Moon S - The Awakening! (uncut) (Dub.VHS 12)</release>
+<release date="2001-02-06" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=13780">Sailor Moon S - Pure Hearts (uncut) (Sub.VHS 1)</release>
+<release date="2001-02-06" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=13781">Sailor Moon S - Love War! (uncut) (Sub.VHS 2)</release>
+<release date="2001-04-10" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=13782">Sailor Moon S - Labyrinth (uncut) (Sub.VHS 3)</release>
+<release date="2001-04-10" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=13783">Sailor Moon S - Birthday Blues (uncut) (Sub.VHS 4)</release>
+<release date="2001-06-12" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=13778">Sailor Moon S - Back from the Future (uncut) (Sub.VHS 5)</release>
+<release date="2001-06-12" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=13785">Sailor Moon S - Secret Destiny (uncut) (Sub.VHS 6)</release>
+<release date="2001-08-14" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2079">Sailor Moon S - Secret Revealed (uncut) (Sub.VHS 7)</release>
+<release date="2001-08-14" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2080">Sailor Moon S - Search for the Savior (uncut) (Sub.VHS 8)</release>
+<release date="2001-10-09" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2081">Sailor Moon S - Hotaru's Secret (uncut) (Sub.VHS 9)</release>
+<release date="2001-10-09" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2078">Sailor Moon S - Mysterious Sailor (uncut) (Sub.VHS 10)</release>
+<release date="2001-11-27" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2082">Sailor Moon S - Small Hearts (uncut) (Sub.VHS 11)</release>
+<release date="2001-11-27" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2084">Sailor Moon S - The Awakening! (uncut) (Sub.VHS 12)</release>
+<news datetime="2000-07-12T23:24:25Z" href="http://www.animenewsnetwork.com/news/2000-07-12/kissing-cousins">Kissing Cousins?</news>
+<news datetime="2000-12-11T16:08:27Z" href="http://www.animenewsnetwork.com/news/2000-12-11/more-anime-in-top-40">More Anime in Top 40</news>
+<news datetime="2001-03-01T04:37:31Z" href="http://www.animenewsnetwork.com/news/2001-02-28/animefringe-march-2001-update">AnimeFringe March 2001 Update</news>
+<news datetime="2001-10-15T05:56:56Z" href="http://www.animenewsnetwork.com/news/2001-10-15/seiyuu-michie-tomizawa-to-retire">Seiyuu Michie Tomizawa to Retire</news>
+<news datetime="2001-10-24T12:12:33Z" href="http://www.animenewsnetwork.com/news/2001-10-24/pioneer-release-dates">Pioneer Release Dates</news>
+<news datetime="2001-11-28T13:32:35Z" href="http://www.animenewsnetwork.com/news/2001-11-28/this-week's-anime-and-manga-releases">This Week's Anime and Manga Releases</news>
+<news datetime="2002-07-06T11:36:58Z" href="http://www.animenewsnetwork.com/news/2002-07-06/ax-2002-anime-expo-opening-ceremonies">AX 2002: Anime Expo Opening Ceremonies</news>
+<news datetime="2014-01-22T17:16:05Z" href="http://www.animenewsnetwork.com/news/2014-01-22/kaze-france-adds-sailor-moon-r-and-s-anime">Kazé France Adds &lt;cite&gt;Sailor Moon R&lt;/cite&gt; &amp; &lt;cite&gt;S&lt;/cite&gt; Anime</news>
+<news datetime="2014-11-28T01:00:00Z" href="http://www.animenewsnetwork.com:/news/2014-11-28/madman-entertainment-acquires-sailor-moon-series-and-sailor-moon-crystal/.81519">Madman Entertainment Acquires Sailor Moon Series and Sailor Moon Crystal</news>
+<news datetime="2015-07-03T17:35:28Z" href="http://www.animenewsnetwork.com:/news/2015-07-03/viz-media-reveals-sailor-moon-s-dub-cast/.90036">Viz Media Reveals &lt;cite&gt;Sailor Moon S&lt;/cite&gt; Dub Cast</news>
+<news datetime="2015-10-11T19:30:24Z" href="http://www.animenewsnetwork.com:/news/2015-10-11/viz-media-reveals-english-voice-cast-for-sailor-moon-s-villains/.94078">Viz Media Reveals English Voice Cast for &lt;cite&gt;Sailor Moon S&lt;/cite&gt; Villains</news>
+<staff gid="2973458172"><task>Series Director</task><person id="245">Kunihiko Ikuhara</person></staff>
+<staff gid="1159716270"><task>Script</task><person id="112">Sukehiro Tomita</person></staff>
+<staff gid="1365203152"><task>Script</task><person id="4290">Yoji Enokido</person></staff>
+<staff gid="2341675873"><task>Script</task><person id="8525">Shigeru Yanagawa</person></staff>
+<staff gid="2136616182"><task>Script</task><person id="9001">Katsuyuki Sumisawa</person></staff>
+<staff gid="369785056"><task>Script</task><person id="13340">Megumi Sugihara</person></staff>
+<staff gid="698585524"><task>Storyboard</task><person id="245">Kunihiko Ikuhara</person></staff>
+<staff gid="1722342984"><task>Storyboard</task><person id="644">Junichi Sato</person></staff>
+<staff gid="618546962"><task>Storyboard</task><person id="9447">Kônosuke Uda</person></staff>
+<staff gid="2730157133"><task>Storyboard</task><person id="9547">Hiroki Shibata</person></staff>
+<staff gid="3205617108"><task>Storyboard</task><person id="9803">Takuya Igarashi</person></staff>
+<staff gid="1091318282"><task>Storyboard</task><person id="14810">Yuji Endo</person></staff>
+<staff gid="1755309892"><task>Storyboard</task><person id="31137">Harume Kosaka</person></staff>
+<staff gid="1996020833"><task>Storyboard</task><person id="40490">Noriyo Sasaki</person></staff>
+<staff gid="877166585"><task>Episode Director</task><person id="245">Kunihiko Ikuhara</person></staff>
+<staff gid="280623539"><task>Episode Director</task><person id="644">Junichi Sato</person></staff>
+<staff gid="1541137580"><task>Episode Director</task><person id="9447">Kônosuke Uda</person></staff>
+<staff gid="2908913284"><task>Episode Director</task><person id="9547">Hiroki Shibata</person></staff>
+<staff gid="1339820127"><task>Episode Director</task><person id="9803">Takuya Igarashi</person></staff>
+<staff gid="1279078105"><task>Episode Director</task><person id="14810">Yuji Endo</person></staff>
+<staff gid="2869927242"><task>Episode Director</task><person id="31137">Harume Kosaka</person></staff>
+<staff gid="1023085308"><task>Episode Director</task><person id="40490">Noriyo Sasaki</person></staff>
+<staff gid="421065154"><task>Music</task><person id="150">Takanori Arisawa</person></staff>
+<staff gid="1164404201"><task>Music</task><person id="7194">Akiko Kosaka</person></staff>
+<staff gid="1896986560"><task>Music</task><person id="22982">Tetsuya Komoro</person></staff>
+<staff gid="1002875651"><task>Original creator</task><person id="82">Naoko Takeuchi</person></staff>
+<staff gid="3362434869"><task>Character Design</task><person id="13459">Mari Tominaga</person></staff>
+<staff gid="1975629705"><task>Animation Director</task><person id="15">Hideaki Anno</person></staff>
+<staff gid="1561790554"><task>Animation Director</task><person id="37">Masahide Yanagisawa</person></staff>
+<staff gid="3042372613"><task>Animation Director</task><person id="85">Ikuko Ito</person></staff>
+<staff gid="2246415878"><task>Animation Director</task><person id="274">Hideyuki Motohashi</person></staff>
+<staff gid="1368509307"><task>Animation Director</task><person id="1617">Kazuya Kuroda</person></staff>
+<staff gid="3909581198"><task>Animation Director</task><person id="3028">Hisashi Kagawa</person></staff>
+<staff gid="1275834032"><task>Animation Director</task><person id="4289">Shinya Hasegawa</person></staff>
+<staff gid="2287366434"><task>Animation Director</task><person id="13459">Mari Tominaga</person></staff>
+<staff gid="2280189137"><task>Animation Director</task><person id="25697">Katsumi Tamegai</person></staff>
+<staff gid="2123776835"><task>Animation Director</task><person id="31138">Taichi Nakamura</person></staff>
+<staff gid="2650399165"><task>Animation Director</task><person id="31453">Jouji Yanase</person></staff>
+<staff gid="3644518369"><task>Animation Director</task><person id="71278">Masahiro Ando</person></staff>
+<staff gid="1647350702"><task>Producer</task><person id="244">Iriya Azuma</person></staff>
+<staff gid="2373636441"><task>Producer</task><person id="13441">Kenji Oota</person></staff>
+<cast gid="3232711110" lang="DE"><role>Chibi Usa/Sailor Chibi Moon</role><person id="21768">Nicola Grupe</person></cast>
+<cast gid="2934825043" lang="DE"><role>Minako Aino/Sailor Venus</role><person id="21772">Claudia Lössl</person></cast>
+<cast gid="2753314998" lang="DE"><role>Kino Makoto/Sailor Jupiter</role><person id="21776">Veronika Neugebauer</person></cast>
+<cast gid="1659186374" lang="DE"><role>Rei Hino/Sailor Mars</role><person id="25648">Julia Haacke</person></cast>
+<cast gid="3137767145" lang="DE"><role>Bunny Tsukino/Sailor Moon</role><person id="28491">Inez Günther</person></cast>
+<cast gid="1039434020" lang="DE"><role>Hotaru Tomoe/Sailor Saturn</role><person id="28896">Andrea Imme</person></cast>
+<cast gid="759228268" lang="DE"><role>Mistress 9</role><person id="28896">Andrea Imme</person></cast>
+<cast gid="283364005" lang="DE"><role>Tenou Haruka/Sailor Uranus</role><person id="28903">Anke Korte</person></cast>
+<cast gid="3083873906" lang="DE"><role>Mamoru Chiba/Tuxedo Mask</role><person id="28904">Dominik Auer</person></cast>
+<cast gid="1841640162" lang="DE"><role>Ami Mizuno/Sailor Merkur</role><person id="28905">Stefanie Beba</person></cast>
+<cast gid="1859594111" lang="DE"><role>Kaiou Michiru/Sailor Neptun</role><person id="28908">Ulrike Jennie</person></cast>
+<cast gid="2464757222" lang="DE"><role>Meiou Setsuna/Sailor Pluto</role><person id="28909">Ulla Wagener</person></cast>
+<cast gid="313906982" lang="DE"><role>Meiou Setsuna/Sailor Pluto</role><person id="75690">Sacha Holzheimer</person></cast>
+<cast gid="2569943293" lang="EN"><role>Setsuna Meioh/Sailor Pluto</role><person id="1081">Veronica Taylor</person></cast>
+<cast gid="1006581942" lang="EN"><role>Chibiusa/Sailor Chibi Moon</role><person id="1133">Sandy Fox</person></cast>
+<cast gid="2581974043" lang="EN"><role>Artemis</role><person id="1283">Johnny Yong Bosch</person></cast>
+<cast gid="1141078009" lang="EN"><role>Usagi Tsukino/Sailor Moon</role><person id="3419">Stephanie Sheh</person></cast>
+<cast gid="3411658404" lang="EN"><role>Amy/Sailor Mercury</role><person id="3915">Liza Balkan</person></cast>
+<cast gid="1298268105" lang="EN"><role>Lita/Sailor Jupiter</role><person id="3916">Susan Roman</person></cast>
+<cast gid="3131593776" lang="EN"><role>Mina/Sailor Venus</role><person id="3917">Emilie Barlow</person></cast>
+<cast gid="1766017262" lang="EN"><role>Rini / Sailor Mini-Moon</role><person id="3919">Stephanie Beard</person></cast>
+<cast gid="1057627819" lang="EN"><role>Michelle Kaiou/Sailor Neptune</role><person id="3921">Barbara Radecki</person></cast>
+<cast gid="1975532789" lang="EN"><role>Serena/Sailor Moon</role><person id="3925">Linda Ballantyne</person></cast>
+<cast gid="329157519" lang="EN"><role>Luna</role><person id="4116">Jill Frappier</person></cast>
+<cast gid="3318357193" lang="EN"><role>Artemis</role><person id="4117">Ron Rubin</person></cast>
+<cast gid="1719587754" lang="EN"><role>Tuxedo Mask</role><person id="4120">Vince Corazza</person></cast>
+<cast gid="3279123587" lang="EN"><role>Trista Meioh / Sailor Pluto</role><person id="5145">Susan Aceron</person></cast>
+<cast gid="2694284805" lang="EN"><role>Raye/Sailor Mars</role><person id="5152">Katie Griffin</person></cast>
+<cast gid="1158865149" lang="EN"><role>Amara Tenoh / Sailor Uranus</role><person id="5155">Sarah LaFleur</person></cast>
+<cast gid="2205534601" lang="EN"><role>Eudial</role><person id="6267">Erin Fitzgerald</person></cast>
+<cast gid="1662716889" lang="EN"><role>Luna</role><person id="7125">Michelle Ruff</person></cast>
+<cast gid="1059355183" lang="EN"><role>Hotaru Tomoe/Sailor Saturn</role><person id="12234">Jennifer Gould</person></cast>
+<cast gid="955651660" lang="EN"><role>Ami Mizuno/Sailor Mercury</role><person id="20166">Kate Higgins</person></cast>
+<cast gid="2942849240" lang="EN"><role>Kaolinite</role><person id="26532">Tara Platt</person></cast>
+<cast gid="786758923" lang="EN"><role>Professor Tomoe</role><person id="63324">Keith Silverstein</person></cast>
+<cast gid="3101501985" lang="EN"><role>Minako Aino/Sailor Venus</role><person id="64331">Cherami Leigh</person></cast>
+<cast gid="1225757817" lang="EN"><role>Rei Hino/Sailor Mars</role><person id="68135">Cristina Vee</person></cast>
+<cast gid="1505586691" lang="EN"><role>Tellu</role><person id="70304">Laura Post</person></cast>
+<cast gid="1645677113" lang="EN"><role>Mimete</role><person id="70467">Kira Buckland</person></cast>
+<cast gid="783321422" lang="EN"><role>Michiru Kaioh/Sailor Neptune</role><person id="70779">Lauren Landa</person></cast>
+<cast gid="3883606841" lang="EN"><role>Hotaru Tomoe/Sailor Saturn</role><person id="95337">Christine Marie Cabanos</person></cast>
+<cast gid="2787159827" lang="EN"><role>Mistress 9</role><person id="95337">Christine Marie Cabanos</person></cast>
+<cast gid="3748484955" lang="EN"><role>Makoto Kino/Sailor Jupiter</role><person id="104912">Amanda C. Miller</person></cast>
+<cast gid="3543248423" lang="EN"><role>Cyprine</role><person id="118970">Johanna Luis</person></cast>
+<cast gid="2460425708" lang="EN"><role>Ptilol</role><person id="118970">Johanna Luis</person></cast>
+<cast gid="1673680786" lang="EN"><role>Viluy</role><person id="119703">Cricket Brown</person></cast>
+<cast gid="915512329" lang="EN"><role>Haruka Tenoh/Sailor Uranus</role><person id="124478">Erica Mendez</person></cast>
+<cast gid="2251223245" lang="EN"><role>Mamoru Chiba/Tuxedo Mask</role><person id="127931">Robbie Daymond</person></cast>
+<cast gid="1919345826" lang="ES"><role>Lita Kino/Sailor Jupiter</role><person id="23473">Araceli de Leon</person></cast>
+<cast gid="2994533457" lang="ES"><role>Viluy</role><person id="23475">Ana Maria Grey</person></cast>
+<cast gid="1950176125" lang="ES"><role>Serena Tsukino/Sailor Moon</role><person id="23476">Patricia Acevedo</person></cast>
+<cast gid="3465682470" lang="ES"><role>Raye Hino/Sailor Mars</role><person id="23477">Monica Manjarrez</person></cast>
+<cast gid="2401375994" lang="ES"><role>Amy Mizuno/Sailor Mercury</role><person id="23478">Rosy Aguirre</person></cast>
+<cast gid="2255383834" lang="ES"><role>Mina Aino/Sailor Venus</role><person id="23479">Maria Fernanda Morales</person></cast>
+<cast gid="3253286911" lang="ES"><role>Luna</role><person id="23481">Rocio Garcel</person></cast>
+<cast gid="2434759173" lang="ES"><role>Hotaru Tomoe/Sailor Saturn</role><person id="23482">Cristina Camargo</person></cast>
+<cast gid="2135549446" lang="ES"><role>Haruka Tenou/Sailor Uranus</role><person id="23483">Belinda Martinez</person></cast>
+<cast gid="1173004821" lang="ES"><role>Michiru Kaiou/Sailor Neptune</role><person id="23493">Irma Carmona</person></cast>
+<cast gid="1467269430" lang="ES"><role>Setsuna Meiou/Sailor Plut</role><person id="23494">Anabel Mendez</person></cast>
+<cast gid="3447285422" lang="ES"><role>Rini/Sailor Chibi-Moon</role><person id="23495">Cristina Hernandez</person></cast>
+<cast gid="2000609777" lang="ES"><role>Darien Chiba/Tuxedo Mask</role><person id="23502">Gerardo Reyero</person></cast>
+<cast gid="2282965780" lang="ES"><role>Artemis</role><person id="23503">Salvador Delgado</person></cast>
+<cast gid="286677486" lang="ES"><role>Amy Mizuno/Sailor Mercury</role><person id="31519">Rossy Aguirre</person></cast>
+<cast gid="669058067" lang="ES"><role>Andrea Tomoe/Sailor Saturn</role><person id="47710">Marisa Marco</person></cast>
+<cast gid="1930956751" lang="ES"><role>Hotaru Tomoe/Sailor Saturn</role><person id="47710">Marisa Marco</person></cast>
+<cast gid="1335493026" lang="ES"><role>Raquel Meioh/Sailor Pluto</role><person id="47710">Marisa Marco</person></cast>
+<cast gid="1917917464" lang="ES"><role>Setsuna Meiou/Sailor Pluto</role><person id="47710">Marisa Marco</person></cast>
+<cast gid="1084458833" lang="ES"><role>Eudial</role><person id="47739">Pepa Agudo</person></cast>
+<cast gid="1780990175" lang="ES"><role>Eugenia (Eudial)</role><person id="47739">Pepa Agudo</person></cast>
+<cast gid="1935918353" lang="ES"><role>Ray Hino/Sailor Mars</role><person id="47739">Pepa Agudo</person></cast>
+<cast gid="497956130" lang="ES"><role>Rei Hino/Sailor Mars</role><person id="47739">Pepa Agudo</person></cast>
+<cast gid="2051058379" lang="ES"><role>Ami Mizuno/Marinera Mercuri</role><person id="50364">Geni Rey</person></cast>
+<cast gid="1847544346" lang="ES"><role>Makoto Kino/Marinera Júpiter</role><person id="50515">Vicky Martínez</person></cast>
+<cast gid="1021469733" lang="ES"><role>Michiru Kaioh/Marinera Neptú</role><person id="50517">Ana María Camps</person></cast>
+<cast gid="2725745116" lang="ES"><role>Makoto Kino/Sailor Jupiter</role><person id="50636">Alicia Sáinz De La Maza</person></cast>
+<cast gid="944605578" lang="ES"><role>Patricia Kino/Sailor Jupiter</role><person id="50636">Alicia Sáinz De La Maza</person></cast>
+<cast gid="3347064036" lang="ES"><role>Carola Aino/Sailor Venus</role><person id="50719">Beatriz Acaso</person></cast>
+<cast gid="2914487294" lang="ES"><role>Luna</role><person id="50719">Beatriz Acaso</person></cast>
+<cast gid="4092389939" lang="ES"><role>Minako Aino/Sailor Venus</role><person id="50719">Beatriz Acaso</person></cast>
+<cast gid="2752841841" lang="ES"><role>Armando Chiba/Tuxedo Mask</role><person id="50729">Mario Arenas</person></cast>
+<cast gid="1900552698" lang="ES"><role>Artemis</role><person id="50729">Mario Arenas</person></cast>
+<cast gid="1526328178" lang="ES"><role>Mamoru Chiba/Tuxedo Mask</role><person id="50729">Mario Arenas</person></cast>
+<cast gid="960573120" lang="ES"><role>Minako Aino/Marinera Venus</role><person id="50738">Nuria Doménech</person></cast>
+<cast gid="3021989171" lang="ES"><role>Diana</role><person id="50744">Elisabet Bargalló</person></cast>
+<cast gid="3848848113" lang="ES"><role>Hotaru Tomoe/Marinera Saturn</role><person id="50744">Elisabet Bargalló</person></cast>
+<cast gid="2308498585" lang="ES"><role>Artemis</role><person id="50789">Hernán Fernández</person></cast>
+<cast gid="2153768200" lang="ES"><role>Bunny Tsukino/Marinera Lluna</role><person id="50908">Marta Ullod</person></cast>
+<cast gid="2721934871" lang="ES"><role>Michiru Kaiou/Sailor Neptune</role><person id="50910">Chelo Vivares</person></cast>
+<cast gid="1908183887" lang="ES"><role>Petirol</role><person id="50910">Chelo Vivares</person></cast>
+<cast gid="3146192213" lang="ES"><role>Vicky Kaioh/Sailor Neptune</role><person id="50910">Chelo Vivares</person></cast>
+<cast gid="2112751957" lang="ES"><role>Lluna</role><person id="52146">Roser Aldabó</person></cast>
+<cast gid="3016389699" lang="ES"><role>Bunny Tsukino/Sailor Moon</role><person id="52347">Adelaida López</person></cast>
+<cast gid="2359947658" lang="ES"><role>Ami Mizuno/Sailor Mercury</role><person id="53893">Ana Maria Mari</person></cast>
+<cast gid="3255415388" lang="ES"><role>Amy Mizuno/Sailor Mercury</role><person id="53893">Ana Maria Mari</person></cast>
+<cast gid="2297090315" lang="ES"><role>Kaolinite</role><person id="53893">Ana Maria Mari</person></cast>
+<cast gid="1988131277" lang="ES"><role>Yuka (Kaolinite)</role><person id="53893">Ana Maria Mari</person></cast>
+<cast gid="1893575685" lang="ES"><role>Beatriz (Viluy)</role><person id="53894">Conchi Lopez</person></cast>
+<cast gid="3390565336" lang="ES"><role>Chibi Usa/Sailor Chibi Moon</role><person id="53894">Conchi Lopez</person></cast>
+<cast gid="2103357927" lang="ES"><role>Mimete</role><person id="53894">Conchi Lopez</person></cast>
+<cast gid="1867810942" lang="ES"><role>Tellu</role><person id="53894">Conchi Lopez</person></cast>
+<cast gid="739402935" lang="ES"><role>Viluy/Yui Bidou</role><person id="53894">Conchi Lopez</person></cast>
+<cast gid="2064306992" lang="ES"><role>Haruka Tenou/Sailor Uranus</role><person id="53938">Maria Dolores Diaz</person></cast>
+<cast gid="2864989667" lang="ES"><role>Timmy Tenoh/Sailor Uranus</role><person id="53938">Maria Dolores Diaz</person></cast>
+<cast gid="1656851540" lang="ES"><role>Cyprine</role><person id="62592">Pilar Santigosa</person></cast>
+<cast gid="1039772212" lang="ES"><role>Mistress 9</role><person id="62592">Pilar Santigosa</person></cast>
+<cast gid="1406560153" lang="ES"><role>Setsuna Meiou/Marinera Plutó</role><person id="62608">Elisa Beuter</person></cast>
+<cast gid="1579239123" lang="ES"><role>Rai Hino/Marinera Mart</role><person id="62933">Meritxell Ané</person></cast>
+<cast gid="2422220723" lang="ES"><role>Mamoru Chiba/Antifaç de gala</role><person id="62934">Francesc Figuerola</person></cast>
+<cast gid="1415350379" lang="ES"><role>Chibi Usa/Marinera Mini Lluna</role><person id="62976">Maria Josep Guasch</person></cast>
+<cast gid="2880557311" lang="ES"><role>Haruka Teno/Marinera Urà</role><person id="62979">LOURDES LÓPEZ</person></cast>
+<cast gid="2913214501" lang="ES"><role>Marta (Tellu)</role><person id="67570">Luisa Ezquerra</person></cast>
+<cast gid="2733614497" lang="FR"><role>Frédérique (Haruka)</role><person id="16174">Marc Lesser</person></cast>
+<cast gid="2288544555" lang="FR"><role>Camille/Sailor Chibi Moon</role><person id="27770">Amélie Morin</person></cast>
+<cast gid="1415755496" lang="FR"><role>Mathilda Aino/Sailor Vénus</role><person id="27770">Amélie Morin</person></cast>
+<cast gid="1580088326" lang="FR"><role>Milène/Sailor Neptune</role><person id="27770">Amélie Morin</person></cast>
+<cast gid="3063818724" lang="FR"><role>Frédéric</role><person id="28823">Mark Lesser</person></cast>
+<cast gid="2631064885" lang="FR"><role>Frédérique (Haruka)</role><person id="28823">Mark Lesser</person></cast>
+<cast gid="2256782402" lang="FR"><role>Artemis</role><person id="29309">Virginie Ogouz</person></cast>
+<cast gid="2165802165" lang="FR"><role>Babette (Mimete)</role><person id="29309">Virginie Ogouz</person></cast>
+<cast gid="2821975952" lang="FR"><role>Eugénia (Eudial)</role><person id="29309">Virginie Ogouz</person></cast>
+<cast gid="3107763845" lang="FR"><role>Molly Mizuno/Sailor Mercure</role><person id="29309">Virginie Ogouz</person></cast>
+<cast gid="1160392802" lang="FR"><role>Prêtresse Alexandra (Mistress 9)</role><person id="29309">Virginie Ogouz</person></cast>
+<cast gid="749125535" lang="FR"><role>Yuri Bido/Viluy</role><person id="29309">Virginie Ogouz</person></cast>
+<cast gid="2981860292" lang="FR"><role>Dr Williams</role><person id="29387">Francois Leccia</person></cast>
+<cast gid="2923788221" lang="FR"><role>Carolina</role><person id="29419">Agnès Gribe</person></cast>
+<cast gid="2174943143" lang="FR"><role>Luna</role><person id="29419">Agnès Gribe</person></cast>
+<cast gid="3847627395" lang="FR"><role>Marcis Kino/Sailor Jupiter</role><person id="29419">Agnès Gribe</person></cast>
+<cast gid="788257763" lang="FR"><role>Milène/Sailor Neptune</role><person id="29419">Agnès Gribe</person></cast>
+<cast gid="1936768448" lang="FR"><role>Olivia/Sailor Saturn</role><person id="29419">Agnès Gribe</person></cast>
+<cast gid="1695933109" lang="FR"><role>Silvana/Sailor Pluton</role><person id="29419">Agnès Gribe</person></cast>
+<cast gid="681742242" lang="FR"><role>Bourdu/L'homme masqué (Tuxedo Mask)</role><person id="29434">Philippe Ogouz</person></cast>
+<cast gid="2117404511" lang="FR"><role>Frédérique (Haruka)</role><person id="29434">Philippe Ogouz</person></cast>
+<cast gid="944910920" lang="FR"><role>Guermatoid</role><person id="29434">Philippe Ogouz</person></cast>
+<cast gid="2752362280" lang="FR"><role>Bunny Tsukino/Sailor Moon</role><person id="50933">Emmanuelle Pailly</person></cast>
+<cast gid="2844885605" lang="FR"><role>Carolina</role><person id="50935">Francine Laine</person></cast>
+<cast gid="1034532397" lang="FR"><role>Raya Hino/Sailor Mars</role><person id="50935">Francine Laine</person></cast>
+<cast gid="2697481236" lang="FR"><role>Sailor Uranus</role><person id="50935">Francine Laine</person></cast>
+<cast gid="2930475977" lang="IT"><role>Artemis</role><person id="25628">Pietro Ubaldi</person></cast>
+<cast gid="2279201632" lang="IT"><role>Rea/Sailor Mars</role><person id="25646">Giusy Di Martino</person></cast>
+<cast gid="1787595021" lang="IT"><role>Bunny Tsukino/Sailor Moon/Pr. Serenity</role><person id="25933">Elisabetta Spinelli</person></cast>
+<cast gid="1961880704" lang="IT"><role>Marta/Sailor Venus</role><person id="25934">Roberta Gallina Laurenti</person></cast>
+<cast gid="2149054562" lang="IT"><role>Silvia/Sailor Pluto</role><person id="25935">Daniela Fava</person></cast>
+<cast gid="1650288733" lang="IT"><role>Marzio/Milord/Endimion</role><person id="25937">Marco Balzarotti</person></cast>
+<cast gid="1879543296" lang="IT"><role>Milena/Sailor Nettuno</role><person id="25938">Alessandra Karpoff</person></cast>
+<cast gid="1079268826" lang="IT"><role>Morea/Sailor Jupiter</role><person id="25945">Donatella Fanfani</person></cast>
+<cast gid="3149015749" lang="IT"><role>Amy/Sailor Mercury</role><person id="26237">Debora Magnaghi</person></cast>
+<cast gid="2398673084" lang="IT"><role>Chibiusa/Sailor Chibiusa</role><person id="26265">Debora Morese</person></cast>
+<cast gid="1444905979" lang="IT"><role>Ottavia/Sailor Saturn</role><person id="26267">Giulia Franzoso</person></cast>
+<cast gid="2329501781" lang="IT"><role>Hellis/Sailor Uranus</role><person id="26269">Maddalena Vadacca</person></cast>
+<cast gid="3730545266" lang="JA"><role>Rei Hino/Sailor Mars</role><person id="297">Michie Tomizawa</person></cast>
+<cast gid="3778443785" lang="JA"><role>Cyprine</role><person id="300">Yuriko Fuchizaki</person></cast>
+<cast gid="3167795916" lang="JA"><role>Ami Mizuno/Sailor Mercury</role><person id="503">Aya Hisakawa</person></cast>
+<cast gid="699906870" lang="JA"><role>Hotaru Tomoe/Sailor Saturn</role><person id="528">Yuko Minaguchi</person></cast>
+<cast gid="1456211163" lang="JA"><role>Mistress 9</role><person id="528">Yuko Minaguchi</person></cast>
+<cast gid="363111301" lang="JA"><role>Ptilol</role><person id="609">Rumi Kasahara</person></cast>
+<cast gid="1324473183" lang="JA"><role>Chibi Usa/Sailor Chibi Moon</role><person id="657">Kae Araki</person></cast>
+<cast gid="1369444813" lang="JA"><role>Usagi Tsukino/Sailor Moon</role><person id="720">Kotono Mitsuishi</person></cast>
+<cast gid="2820943275" lang="JA"><role>Haruka Tenou/Sailor Uranus</role><person id="790">Megumi Ogata</person></cast>
+<cast gid="1004807818" lang="JA"><role>Mimete</role><person id="1041">Mika Kanai</person></cast>
+<cast gid="1799608693" lang="JA"><role>Michiru Kaioh/Sailor Neptune</role><person id="1046">Masako Katsuki</person></cast>
+<cast gid="2958892540" lang="JA"><role>Mamoru Chiba/Tuxedo Kamen</role><person id="1105">Tohru Furuya</person></cast>
+<cast gid="1149238701" lang="JA"><role>Makoto Kino/Sailor Jupiter</role><person id="1275">Emi Shinohara</person></cast>
+<cast gid="410622413" lang="JA"><role>Setsuna Meiou/Sailor Pluto</role><person id="1457">Chiyoko Kawashima</person></cast>
+<cast gid="2245881755" lang="JA"><role>Artemis</role><person id="1462">Yasuhiro Takato</person></cast>
+<cast gid="873456418" lang="JA"><role>Tellu</role><person id="1575">Chieko Honda</person></cast>
+<cast gid="2847354987" lang="JA"><role>Eudial</role><person id="1577">Maria Kawamura</person></cast>
+<cast gid="2293993140" lang="JA"><role>Professor Souichi Tomoe</role><person id="1583">Akira Kamiya</person></cast>
+<cast gid="843002583" lang="JA"><role>Viluy</role><person id="1588">Yoshino Takamori</person></cast>
+<cast gid="2469140448" lang="JA"><role>Luna</role><person id="2060">Keiko Han</person></cast>
+<cast gid="2554457833" lang="JA"><role>Minako Aino/Sailor Venus</role><person id="3926">Rica Fukami</person></cast>
+<cast gid="371692630" lang="JA"><role>Kaolinite</role><person id="3929">Noriko Uemura</person></cast>
+<cast gid="2129931387" lang="PT"><role>Michiru Kaiou/Sailor Netuno</role><person id="48733">Márcia Regina</person></cast>
+<cast gid="2409338507" lang="PT"><role>Dama 9 (Mistress 9)</role><person id="48742">Fátima Noya</person></cast>
+<cast gid="2855497091" lang="PT"><role>Hotaru Tomoe/Sailor Saturno</role><person id="48742">Fátima Noya</person></cast>
+<cast gid="2965121243" lang="PT"><role>Ami Mizuno/Sailor Mercúrio</role><person id="48745">Melissa Garcia</person></cast>
+<cast gid="2568628794" lang="PT"><role>Rei Hino/Sailor Marte</role><person id="48747">Denise Reis</person></cast>
+<cast gid="2587685732" lang="PT"><role>Setsuna Meiou/Sailor Plutão</role><person id="48754">Alessandra Araújo</person></cast>
+<cast gid="2273888248" lang="PT"><role>Lita Kino/Sailor Júpiter</role><person id="48756">Fernanda Bulara</person></cast>
+<cast gid="895811156" lang="PT"><role>Serena Tsukino/Sailor Moon</role><person id="48766">Daniella Piquet</person></cast>
+<cast gid="2556249128" lang="PT"><role>Haruka Tenou/Sailor Urano</role><person id="48780">Rosana Beltrame</person></cast>
+<cast gid="2638696556" lang="PT"><role>Mina Aino/Sailor Vênus</role><person id="48782">Priscila Concépcion</person></cast>
+<cast gid="1899518714" lang="PT"><role>Setsuna Meiou/Sailor Plutão</role><person id="48783">Rita Almeida</person></cast>
+<cast gid="2086334319" lang="PT"><role>Kaorinai (Kaolinite)</role><person id="48869">Adriana Pissardini</person></cast>
+<cast gid="3092338185" lang="PT"><role>Mimet</role><person id="48877">Maralise Tartarine</person></cast>
+<cast gid="330452752" lang="PT"><role>Artemis</role><person id="48878">Carlos Silveira</person></cast>
+<cast gid="3330802993" lang="PT"><role>Rini/Sailor Chibimoon</role><person id="48900">Ursula Bezerra</person></cast>
+<cast gid="403184739" lang="PT"><role>Darien Chiba/Tuxedo Mask</role><person id="48951">César Marquetti</person></cast>
+<cast gid="1854861610" lang="PT"><role>Lua (Luna)</role><person id="49591">Márcia Gomes</person></cast>
+<cast gid="2549760602" lang="PT"><role>Michiru Kaiou/Sailor Netuno</role><person id="49598">Zaira Zordan</person></cast>
+<cast gid="873822858" lang="PT"><role>Setsuna Meiou/Sailor Plutão</role><person id="49598">Zaira Zordan</person></cast>
+<cast gid="139041711" lang="PT"><role>Eudial</role><person id="49624">Isaura Gomes</person></cast>
+<cast gid="3366468774" lang="PT"><role>Gonçalo Chiba/Mascarado</role><person id="52403">Rogério Jacques</person></cast>
+<cast gid="2074244486" lang="PT"><role>Luna</role><person id="63154">António Semedo</person></cast>
+<cast gid="2917522001" lang="PT"><role>Profesor Tomoe</role><person id="63154">António Semedo</person></cast>
+<cast gid="3363748512" lang="PT"><role>All 5 witches</role><person id="63155">Isabel Wolmar</person></cast>
+<cast gid="2887765290" lang="PT"><role>Ami Mizuno/Navegante de Mercurio</role><person id="63155">Isabel Wolmar</person></cast>
+<cast gid="1992972793" lang="PT"><role>Kaorinite</role><person id="63155">Isabel Wolmar</person></cast>
+<cast gid="888399058" lang="PT"><role>Octavia Tomoe/Navegante de Saturno</role><person id="63155">Isabel Wolmar</person></cast>
+<cast gid="1211746744" lang="PT"><role>Bunny Tsukino/Navegante de Lua</role><person id="63156">Fernanda Figueiredo</person></cast>
+<cast gid="2807094391" lang="PT"><role>Chibiusa/Navegante Chibi Moon</role><person id="63156">Fernanda Figueiredo</person></cast>
+<cast gid="1263487107" lang="PT"><role>Artemisa</role><person id="63157">Cristina Cavalinhos</person></cast>
+<cast gid="1444124295" lang="PT"><role>Rita Hino/Navegante de Marte</role><person id="63157">Cristina Cavalinhos</person></cast>
+<cast gid="2318641598" lang="PT"><role>Susana Melo/Navegante de Plutao</role><person id="63157">Cristina Cavalinhos</person></cast>
+<cast gid="2240297579" lang="PT"><role>Joana Lima/Navegante de Vénus</role><person id="63158">Cristina Paiva</person></cast>
+<cast gid="1326864894" lang="PT"><role>Maria Kino/Navegante de Jupiter</role><person id="63158">Cristina Paiva</person></cast>
+<cast gid="1966047354" lang="PT"><role>Haruka Ten'ou/Nevagante de Urano</role><person id="63159">Olga Lima</person></cast>
+<cast gid="2284146442" lang="PT"><role>Mariana Kaioh/Nevagante de Neptuno</role><person id="63159">Olga Lima</person></cast>
+<cast gid="2460745006" lang="TL"><role>Tuxedo Mask</role><person id="38936">Jefferson Utanes</person></cast>
+<cast gid="1965412467" lang="TL"><role>Chibi Usa/Sailor Chibimoon</role><person id="39030">Rona Aguilar</person></cast>
+<cast gid="2857213924" lang="TL"><role>Minako Aino/Sailor Venus</role><person id="39030">Rona Aguilar</person></cast>
+<cast gid="3193156479" lang="TL"><role>Ami Mizuno/Sailor Mercury</role><person id="39656">Sherwin Revestir</person></cast>
+<cast gid="1867807340" lang="TL"><role>Michiru Kaiou/Sailor Neptune</role><person id="39656">Sherwin Revestir</person></cast>
+<cast gid="901278724" lang="TL"><role>Rei Hino/Sailor Mars</role><person id="42178">Hazel Hernan</person></cast>
+<cast gid="1909207962" lang="TL"><role>Makoto Kino/Sailor Jupiter</role><person id="51999">Joanne Chua</person></cast>
+<cast gid="2274471717" lang="TL"><role>Usagi Tsukino/Sailor Moon</role><person id="56874">Jenny Bituin</person></cast>
+<cast gid="3140065830" lang="TL"><role>Haruka Ten'ou/Sailor Uranus</role><person id="66518">Nica Rojo</person></cast>
+<cast gid="3420190026" lang="TL"><role>Mamoru Chiba/Tuxedo Mask</role><person id="66659">Mark Muñoz</person></cast>
+<credit gid="2519526654"><task>Production</task><company id="145">Toei Animation</company></credit></anime></ann>

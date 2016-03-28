@@ -1,0 +1,534 @@
+<ann><anime id="13724" gid="2980613160" type="TV" name="Yo-kai Watch" precision="TV" generated-on="2016-03-27T01:46:57Z">
+<related-next id="15737" rel="related"/>
+<related-next id="16650" rel="related"/>
+<related-next id="16937" rel="sequel"/>
+<related-next id="17140" rel="related"/>
+<info gid="2117127212" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A13724-2117127212.1427743585.jpg" width="143" height="200"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A13724-2117127212.1427743585.jpg" width="143" height="200"/><img src="http://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A13724-2117127212.1427743585.jpg" width="430" height="600"/><img src="http://cdn.animenewsnetwork.com/images/encyc/A13724-2117127212.1427743585.jpg" width="716" height="1000"/></info>
+<info gid="517617469" type="Main title" lang="EN">Yo-kai Watch</info>
+<info gid="1742100896" type="Alternative title" lang="JA">Yōkai Watch</info>
+<info gid="716708919" type="Alternative title" lang="JA">妖怪ウォッチ</info>
+<info gid="2200213427" type="Genres">comedy</info>
+<info gid="3309698892" type="Genres">supernatural</info>
+<info gid="2742999546" type="Themes">ghosts</info>
+<info gid="3151917323" type="Objectionable content">OC</info>
+<info gid="1945764324" type="Plot Summary">When Keita frees Whisper, a ghost-like yōkai, from 190 years of imprisonment, Whisper pledges to protect Keita from supernatural dangers. Whisper also gives Keita a watch that allows Keita to see other yōkai. Together with the twin-tailed cat spirit Jibanyan, they encounter lots of yōkai-related problems and solve them.</info>
+<info gid="2488221917" type="Running time">24</info>
+<info gid="2135379811" type="Number of episodes">76</info>
+<info gid="1318970334" type="Vintage">2014-01-08</info>
+<info gid="3651019406" type="Opening Theme">#1: &quot;Gera Gera Po Song (English ver.)&quot; by Peter Michail &amp; Kathryn Lynn (eps 1-)</info>
+<info gid="2681470884" type="Opening Theme">#1: &quot;Geragerapō no Uta&quot; by King Cream Soda (eps 1-36, 51)</info>
+<info gid="1926602534" type="Opening Theme">#2: &quot;Matsuri Hayashi de Geragerapō&quot; (祭り囃子でゲラゲラポー) by King Cream Soda (eps 37-61)</info>
+<info gid="3197960911" type="Opening Theme">#2: &quot;Yokai Watch feat. Swampy Marsh&quot; (English Dub only) by Jeff &quot;Swampy&quot; Marsh and Danny Jacobs (eps 10, 12)</info>
+<info gid="2910294967" type="Opening Theme">#3: &quot;Hatsukoi-tōge de Geragerapō&quot; (初恋峠でゲラゲラポー) by King Cream Soda (eps 38-62)</info>
+<info gid="722244989" type="Opening Theme">#4: &quot;Gerappo Dance Train&quot; (ゲラッポ・ダンストレイン) by King Cream Soda (eps 63-76)</info>
+<info gid="1492027152" type="Ending Theme">#1: &quot;Yōkai Taisō Daiichi&quot; (ようかい体操第一) by Dream5 (eps 1-24)</info>
+<info gid="2306685388" type="Ending Theme">#2: &quot;Dan Dan Dubi Zubā!&quot; (ダン・ダン ドゥビ・ズバー!) by Dream5 (eps 25-50)</info>
+<info gid="1360679628" type="Ending Theme">#3: &quot;Idol wa Ūnyanya no Kudan&quot; (アイドルはウーニャニャの件) by Nyā KB with Tsuchinoko Panda (eps 51-67)</info>
+<info gid="1755184966" type="Ending Theme">#4: &quot;Yōkai Taisō Daini&quot; (ようかい体操第二) by Dream5 (eps 68-76)</info>
+<info gid="580701649" type="Official website" lang="JA" href="http://www.tv-tokyo.co.jp/anime/youkai-watch/">テレビ東京・あにてれ 妖怪ウォッチ</info>
+<ratings nb_votes="11" weighted_score="6.4779"/>
+<episode num="1">
+<title part="A" gid="2713295753" lang="EN">Yokai exist!</title>
+<title part="B" gid="2226208957" lang="EN">The scary intersection</title></episode>
+<episode num="2">
+<title part="A" gid="2016246082" lang="EN">The famous one</title>
+<title part="B" gid="1867419482" lang="EN">Why did you say that?!</title>
+<title part="C" gid="2927966750" lang="EN">Fumi-chan's depression</title></episode>
+<episode num="3">
+<title part="A" gid="614695814" lang="EN">The rare one</title>
+<title part="B" gid="2099145160" lang="EN">Yokai Jinmenken</title>
+<title part="C" gid="3104642803" lang="EN">It's you, Gurerurin!</title>
+<title part="D" gid="2323384874" lang="EN">Yokai Jinmenken: Part 2</title></episode>
+<episode num="4">
+<title part="A" gid="3031549494" lang="EN">Yokai Dictionary</title>
+<title part="B" gid="2127303639" lang="EN">Yokai Himoji</title>
+<title part="C" gid="2324356629" lang="EN">Yokai Wasurenbo</title>
+<title part="D" gid="1547128730" lang="EN">Yokai Jinmenken: Part 3</title></episode>
+<episode num="5">
+<title part="A" gid="2759584112" lang="EN">Yokai Jinmenken: Part 4</title>
+<title part="B" gid="1351779663" lang="EN">Yokai Maboroshi</title>
+<title part="C" gid="1295964478" lang="EN">Let's exorcise!</title></episode>
+<episode num="6">
+<title part="A" gid="2795923377" lang="EN">Yokai Jinmenken: Part 5&quot;</title>
+<title part="B" gid="467278906" lang="EN">Yo-Kai Melamelion</title>
+<title part="C" gid="2647652649" lang="EN">Yo-Kai Negativoon</title>
+<title part="D" gid="2128035432" lang="EN">The Forbidden Sleepover</title></episode>
+<episode num="7">
+<title part="A" gid="3417572949" lang="EN">Jinmenken: Part 6</title>
+<title part="B" gid="2528991168" lang="EN">Komasan Is Here!</title>
+<title part="C" gid="1906602768" lang="EN">Yo-Kai Mitomen</title></episode>
+<episode num="8">
+<title part="A" gid="2317919856" lang="EN">Jinmenken Part 7</title>
+<title part="B" gid="855146737" lang="EN">Yo-Kai Morezō&quot;</title>
+<title part="C" gid="1306653903" lang="EN">Yo-Kai Hikikōmori&quot;</title></episode>
+<episode num="9">
+<title part="A" gid="3372618984" lang="EN">Komasan: The Return</title>
+<title part="B" gid="1018061280" lang="EN">Yo-Kai Semimaru</title>
+<title part="C" gid="2873128766" lang="EN">Robonyan Activate!</title></episode>
+<episode num="10">
+<title part="A" gid="2004580720" lang="EN">Komasan: The First Meeting</title>
+<title part="B" gid="2883753200" lang="EN">Yo-Kai Tohohogisu</title>
+<title part="C" gid="3527047388" lang="EN">Legend Yo-Kai! Bushinyan Has Arrived!</title></episode>
+<episode num="11">
+<title part="A" gid="315316013" lang="EN">Komasan: The First Ticket</title>
+<title part="B" gid="1497011612" lang="EN">Yo-Kai Mudazukai</title>
+<title part="C" gid="4051327738" lang="EN">Yo-Kai Murikabe</title>
+<title part="D" gid="3120124504" lang="EN">Attention! That Guy Is Coming Back!</title></episode>
+<episode num="12">
+<title part="A" gid="913906870" lang="EN">Komasan: The First Cellphone</title>
+<title part="B" gid="2146663021" lang="EN">Yo-Kai Onarazumono</title>
+<title part="C" gid="3040972837" lang="EN">Jinmenken Season 2: The Dog Escape: Episode 1</title></episode>
+<episode num="13">
+<title part="A" gid="2004276785" lang="EN">Komasan: The First Fast Food</title>
+<title part="B" gid="2710869454" lang="EN">Yo-Kai Kuchidake-onna</title>
+<title part="C" gid="3247891235" lang="EN">Yo-Kai Dancers</title>
+<title part="D" gid="1571196752" lang="EN">Jinmenken Season 2: The Dog Escape: Episode 2</title></episode>
+<episode num="14">
+<title part="A" gid="3040027088" lang="EN">Komasan: The First Tower</title>
+<title part="B" gid="1546460718" lang="EN">Yo-Kai Sharekofujin and Yo-Kai Jimmy</title>
+<title part="C" gid="1669272183" lang="EN">Jinmenken Season 2: The Dog Escape: Episode 3</title></episode>
+<episode num="15">
+<title part="A" gid="926294737" lang="EN">Komasan: The First Night Out</title>
+<title part="B" gid="1577708878" lang="EN">Yo-Kai Nobosetonman</title>
+<title part="C" gid="611678058" lang="EN">Yo-Kai Nagabana</title>
+<title part="D" gid="1968508122" lang="EN">Jinmenken Season 2: The Dog Escape: Episode 4</title></episode>
+<episode num="16">
+<title part="A" gid="3720428479" lang="EN">Golden Week Is Full of Yo-Kai!</title>
+<title part="B" gid="2194373836" lang="EN">Komasan: My Cool Bro</title>
+<title part="C" gid="1309389581" lang="EN">Jinmenken Season 2: The Dog Escape: Episode 5</title></episode>
+<episode num="17">
+<title part="A" gid="3435977100" lang="EN">Komasan Season 2: The Rosy Bumpkin Episode 1</title>
+<title part="B" gid="1790947074" lang="EN">Yo-Kai Sunesnake</title>
+<title part="C" gid="1186930465" lang="EN">Yo-Kai Harao-dori</title>
+<title part="D" gid="2249354460" lang="EN">Jinmenken Season 2: The Dog Escape: Episode 5</title></episode>
+<episode num="18">
+<title part="A" gid="995645436" lang="EN">Kyuubi's Heart Stealing Operation: The Meeting</title>
+<title part="B" gid="1559877215" lang="EN">Oni Time</title>
+<title part="C" gid="2128265502" lang="EN">Komasan Season 2: The Rosy Bumpkin Episode 2</title></episode>
+<episode num="19">
+<title part="A" gid="2691342828" lang="EN">Komasan Season 2: The Rosy Bumpkin Episode 3</title>
+<title part="B" gid="2250368684" lang="EN">Yo-Kai Baku</title>
+<title part="C" gid="3396094975" lang="EN">Kyuubi's Heart Stealing Operation: The Amusement Park</title></episode>
+<episode num="20">
+<title part="A" gid="1397825909" lang="EN">Legend Yo-Kai! Ikemenken!</title>
+<title part="B" gid="1475921619" lang="EN">Komasan Season 2: The Rosy Bumpkin Episode 4</title></episode>
+<episode num="21">
+<title part="A" gid="3420191957" lang="EN">Yo-Kai Tsuzukanasō</title>
+<title part="B" gid="2370512960" lang="EN">Yo-Kai Fūmin</title>
+<title part="C" gid="3648420293" lang="EN">Komasan Season 3: Love and Poetry and Coffee Cup 1</title></episode>
+<episode num="22">
+<title part="A" gid="1914174767" lang="EN">Komasan Season 3: Love and Poetry and Coffee Cup 2</title>
+<title part="B" gid="2207433759" lang="EN">Yo-Kai Kazekamo</title>
+<title part="C" gid="1817464421" lang="EN">Why Does My Shoulder Feel Stiff?</title></episode>
+<episode num="23">
+<title part="A" gid="2343248361" lang="EN">Komasan Season 3: Love and Poetry and Coffee Cup 3</title>
+<title part="B" gid="2055091297" lang="EN">Yo-Kai Tsumamiguinosuke</title>
+<title part="C" gid="2701892037" lang="EN">Yo-Kai Karakuri Benkei</title></episode>
+<episode num="24">
+<title part="A" gid="377577453" lang="EN">Komasan Season 3: Love and Poetry and Coffee Cup 4</title>
+<title part="B" gid="2324058270" lang="EN">Yo-Kai Nekurama Tengu</title>
+<title part="C" gid="1957447119" lang="EN">The Real One Appears!</title></episode>
+<episode num="25">
+<title gid="2185140152" lang="EN">Jibanyan's Secret</title></episode>
+<episode num="26">
+<title part="A" gid="3602226445" lang="EN">Yo-Kai Satori-chan</title>
+<title part="B" gid="1083738931" lang="EN">Yo-Kai Yokodori</title>
+<title part="C" gid="550252951" lang="EN">Komasan Season 3: Love and Poetry and Coffee Cup 5</title></episode>
+<episode num="27">
+<title part="A" gid="2697340481" lang="EN">Let's Get the New Yo-Kai Watch</title>
+<title part="B" gid="1689493088" lang="EN">Opening the Right Box</title></episode>
+<episode num="28">
+<title part="A" gid="2754032096" lang="EN">Come Out! Classic Yo-Kai</title>
+<title part="B" gid="462944357" lang="EN">The Exorcist Returns</title>
+<title part="C" gid="2066050315" lang="EN">Classic Yo-Kai Are Cool?</title></episode>
+<episode num="29">
+<title part="A" gid="3152589661" lang="EN">The Sun Roars: Episode 1 'The Hostage'</title>
+<title part="B" gid="3815983641" lang="EN">Yo-Kai Asekkaki</title>
+<title part="C" gid="2815978184" lang="EN">Yo-Kai Sakasakkasa</title></episode>
+<episode num="30">
+<title part="A" gid="805125435" lang="EN">The Sun Roars: Episode 2 'The Kidnapping'</title>
+<title part="B" gid="2399957164" lang="EN">Yo-Kai Buyōjinbō</title>
+<title part="C" gid="3875858100" lang="EN">Yo-Kai Ittan Gomen</title></episode>
+<episode num="31">
+<title gid="1531283517" lang="EN">Yo-Kai Monkey</title></episode>
+<episode num="32">
+<title part="A" gid="2717233011" lang="EN">The Sun Roars: Episode 3 'The Interrogation Room'</title>
+<title part="B" gid="1805210995" lang="EN">Yo-Kai Man'ojishi</title>
+<title part="C" gid="1922189884" lang="EN">Cool Yo-Kai Showdown!</title></episode>
+<episode num="33">
+<title part="A" gid="1381136358" lang="EN">The Sun Roars: Episode 4 'The Stakeout'</title>
+<title part="B" gid="2512195004" lang="EN">Yo-Kai Jigajii-san</title>
+<title part="C" gid="1889673992" lang="EN">Which Is the Real One!?</title></episode>
+<episode num="34">
+<title part="A" gid="466209100" lang="EN">The Sun Roars: Episode 5 'Tailing'</title>
+<title part="B" gid="2714522792" lang="EN">Yo-Kai Hitomakasennin</title>
+<title part="C" gid="1561354106" lang="EN">Yo-Kai Zekkōchō</title></episode>
+<episode num="35">
+<title part="A" gid="2330909381" lang="EN">The Sun Roars: Episode 6 'SP'</title>
+<title part="B" gid="3370998125" lang="EN">Yo-Kai Titanic</title>
+<title part="C" gid="1978368020" lang="EN">Yo-Kai Nechigaeru</title></episode>
+<episode num="36">
+<title part="A" gid="3098575469" lang="EN">The Sun Roars: Episode 7 'Bomb Removal'</title>
+<title part="B" gid="3348229918" lang="EN">Yo-Kai Captain Bully</title>
+<title part="C" gid="3876274814" lang="EN">Yo-Kai Warautsubo</title></episode>
+<episode num="37">
+<title part="A" gid="3437329204" lang="EN">The Field Day Is Full of Yo-Kai!</title>
+<title part="B" gid="948933797" lang="EN">The Sun Roars: Finale 'Martyr'</title>
+<title part="C" gid="2154744307" lang="EN">The School Lunch Gourmet: Preview</title></episode>
+<episode num="38">
+<title part="A" gid="2036985564" lang="EN">Our 300 Yen War</title>
+<title part="B" gid="2120203589" lang="EN">The Perfect Butler Yo-Kai Sebastian</title>
+<title part="C" gid="1201633917" lang="EN">The School Lunch Gourmet: Episode 1 'Curry Rice'</title></episode>
+<episode num="39">
+<title part="A" gid="2677602914" lang="EN">The School Lunch Gourmet: Episode 2 'Pudding'</title>
+<title part="B" gid="633191769" lang="EN">Yo-Kai U.S.O.</title>
+<title part="C" gid="2262897843" lang="EN">Yo-Kai Netaballerina</title></episode>
+<episode num="40">
+<title part="A" gid="1369436568" lang="EN">Yo-Kai Top Ten</title>
+<title part="B" gid="3224423300" lang="EN">Yo-Kai Rimokonkakushi</title>
+<title part="C" gid="2462558800" lang="EN">The School Lunch Gourmet: Episode 3 'Fry Bread'</title></episode>
+<episode num="41">
+<title part="A" gid="2386085583" lang="EN">The School Lunch Gourmet: Episode 4 'Fried Chicken'</title>
+<title part="B" gid="2411399747" lang="EN">Yo-Kai Kyuntarō</title>
+<title part="C" gid="1263019079" lang="EN">Yo-Kai Karipakkun</title></episode>
+<episode num="42">
+<title gid="2025956725" lang="EN">Resident Gabunyan</title></episode>
+<episode num="43">
+<title gid="808809025" lang="EN">Professor Renkon and the Mysterious Mansion</title></episode>
+<episode num="44">
+<title part="A" gid="4115498867" lang="EN">Year 3 Class Y, Mr. Nyanpachi: Episode 1</title>
+<title part="B" gid="1919755559" lang="EN">Yo-Kai Monomannequin</title>
+<title part="C" gid="1114132015" lang="EN">Yo-Kai Hanahojin</title></episode>
+<episode num="45">
+<title part="A" gid="2176153170" lang="EN">Year 3 Class Y, Mr. Nyanpachi: Episode 2</title>
+<title part="B" gid="841038239" lang="EN">Togenyan and the Cold</title>
+<title part="C" gid="3255056794" lang="EN">Yo-Kai Sunao</title></episode>
+<episode num="46">
+<title part="A" gid="1358244433" lang="EN">Year 3 Class Y, Mr. Nyanpachi: Episode 3</title>
+<title part="B" gid="1091213083" lang="EN">Yo-Kai Okane Naider</title>
+<title part="C" gid="261402328" lang="EN">Legend Yo-Kai Unchikuma</title></episode>
+<episode num="47">
+<title gid="3581637040" lang="EN">Yo-Kai Gunshi Whisbei</title></episode>
+<episode num="48">
+<title part="A" gid="2189697144" lang="EN">Year 3 Class Y, Mr. Nyanpachi: Episode 4</title>
+<title part="B" gid="684699665" lang="EN">The Missing Yo-Kai Pad</title>
+<title part="C" gid="2125876157" lang="EN">A Yo-Kai Report Card, Too!</title></episode>
+<episode num="49">
+<title part="A" gid="1995608317" lang="EN">Christmas Is Also Full of Yo-Kai!</title>
+<title part="B" gid="1834928332" lang="EN">This Year's Santa is Koma-Santa</title>
+<title part="C" gid="969958782" lang="EN">Yo-Kai Santakurōshi</title></episode>
+<episode num="50">
+<title part="A" gid="670637267" lang="EN">Year 3 Class Y, Mr. Nyanpachi: Episode 5</title>
+<title part="B" gid="2113585356" lang="EN">The Amano House: The House Cleaning War!</title>
+<title part="C" gid="1256199836" lang="EN">The Wandering Orochi: Act 1: The Strongest Red Yo-Kai</title></episode>
+<episode num="51">
+<title part="A" gid="2652262747" lang="EN">The Wandering Orochi: Act 2: The Base of Fear</title>
+<title part="B" gid="1231219409" lang="EN">Yo-Kai Tsuchinoko Panda</title>
+<title part="C" gid="1269777877" lang="EN">Yo-Kai Daraketō</title></episode>
+<episode num="52">
+<title part="A" gid="1659460914" lang="EN">The Wandering Orochi: Act 3: Hell's Army</title>
+<title part="B" gid="1901487568" lang="EN">Yo-Kai Ame-onna &amp; Hareotoko</title>
+<title part="C" gid="912032533" lang="EN">Yo-Kai Tsuragawari</title></episode>
+<episode num="53">
+<title part="A" gid="2219496752" lang="EN">The Wandering Orochi: Final Act: The Truth of Despair</title>
+<title part="B" gid="3468750324" lang="EN">Yo-Kai Daidarabotchi</title></episode>
+<episode num="54">
+<title part="A" gid="2489091694" lang="EN">Yo-Kai Folk Tales: Princess Kaguya</title>
+<title part="B" gid="1725491411" lang="EN">Yo-Kai Gashadokuro</title>
+<title part="C" gid="3536756803" lang="EN">Yo-Kai Fusafusan</title></episode>
+<episode num="55">
+<title part="A" gid="2134291637" lang="EN">Yo-Kai Folk Tales: Momotarō</title>
+<title part="B" gid="2074048868" lang="EN">Valentine New Era</title></episode>
+<episode num="56">
+<title part="A" gid="1539845397" lang="EN">Yo-Kai Folk Tales: Crane's Return of a Favor</title>
+<title part="B" gid="1391650654" lang="EN">Yo-kai Urayamashirō</title>
+<title part="C" gid="1783991383" lang="EN">Yo-kai Samugari</title></episode>
+<episode num="57">
+<title part="A" gid="2262669453" lang="EN">Yo-Kai Folk Tales: Urashima Tarō</title>
+<title part="B" gid="2358133475" lang="EN">Yo-Kai Captain Daikōkai</title>
+<title part="C" gid="2797177663" lang="EN">Yo-Kai Bōbō</title></episode>
+<episode num="58">
+<title part="A" gid="1655293817" lang="EN">Yo-Kai Dorobokkun</title>
+<title part="B" gid="2926293189" lang="EN">Yo-Kai Akaname</title>
+<title part="C" gid="3574797045" lang="EN">Formation! Komasan's Expedition Team!</title></episode>
+<episode num="59">
+<title part="A" gid="2919306328" lang="EN">Fright-Day Special! Komasan's Expedition Team! An Ancient Dinosaur Lives Today!? Tonight, the Legend of Loch Ness Is Revealed! A Thorough Search! 'Nessie' Is Discovered!</title>
+<title part="B" gid="3419532590" lang="EN">Yo-Kai Odenjin</title>
+<title part="C" gid="1980528925" lang="EN">Yo-Kai Gishinanki</title></episode>
+<episode num="60">
+<title part="A" gid="617017757" lang="EN">Fright-Day Special! Komasan's Expedition Team! Totally on Foot, 3000 Kilometers Deep in the Scary Amazon Jungle! The Mysterious Primitive Human 'Danota Tsusan'o' Is Discovered!</title>
+<title part="B" gid="2439052664" lang="EN">The Recent Life of Hanako-san of the Toilet</title>
+<title part="C" gid="4137157478" lang="EN">Yo-Kai Shikirunja</title></episode>
+<episode num="61">
+<title part="A" gid="1248183944" lang="EN">Fright-Day Special! Komasan's Expedition Team! The Ends of the Red Hot Desert of the USA! Military Secret Base Area 51! A Messenger From The Drometheus Nebula! The Search for 'Grey Alien No. 7'!</title>
+<title part="B" gid="2471496581" lang="EN">Yo-Kai Gamammoth</title>
+<title part="C" gid="2123250043" lang="EN">Yo-Kai TETSUYA</title></episode>
+<episode num="62">
+<title part="A" gid="1324892621" lang="EN">Fright-Day Special! Komasan's Expedition Team! To the Green Spiritual Veil of the Amazon! The Search for the Legendary Mermaid Gyoppiara!</title>
+<title part="B" gid="2023146084" lang="EN">Fight! Yo-Kai Watch Busters!</title>
+<title part="C" gid="2311694991" lang="EN">Yo-Kai Yotsume</title></episode>
+<episode num="63">
+<title part="A" gid="1371279460" lang="EN">Fright-Day Special! Komasan's Expedition Team! The Greatest History Mystery! So Many Mysteries Obscure the Way! A Thorough Search! We Reveal the Location of the 'Bakufu Buried Gold'!</title>
+<title part="B" gid="2245080755" lang="EN">Yo-Kai April Fools</title>
+<title part="C" gid="3163375868" lang="EN">Yo-Kai Namahage</title></episode>
+<episode num="64">
+<title part="A" gid="2505604000" lang="EN">Fright-Day Special! Komasan's Expedition Team! A Furious Blizzard! Searching the Himalayas, We Find the Legendary Abominable Snowman the 'Yayti'!</title>
+<title part="B" gid="2818537143" lang="EN">Yo-Kai Aniki</title>
+<title part="C" gid="3250228774" lang="EN">Yo-Kai Bakazukin</title></episode>
+<episode num="65">
+<title part="A" gid="1686887868" lang="EN">Fright-Day Special! Komasan's Expedition Final Episode: It's Happening Regardless! After Everywhere We Went the Shock of the Ending! The Last Day of 'Director Yayose'!</title>
+<title part="B" gid="1330670461" lang="EN">The Legendary Milk Cloth</title></episode>
+<episode num="66">
+<title part="A" gid="2346421976" lang="EN">The Nervous Zashiki-warashi</title>
+<title part="B" gid="1854994652" lang="EN">Yo-Kai Waraenee</title>
+<title part="C" gid="1409745145" lang="EN">Dog Time</title></episode>
+<episode num="67">
+<title part="A" gid="2737161287" lang="EN">Military Zashiki-warashi</title>
+<title part="B" gid="1196324766" lang="EN">My Master Is Fumi-chan</title></episode>
+<episode num="68">
+<title part="A" gid="1446909007" lang="EN">Any Time Is Life or Death for Zashiki-warashi</title>
+<title part="B" gid="2020374521" lang="EN">Yo-Kai Magasus</title>
+<title part="C" gid="1929555381" lang="EN">Fake Keita Appears!</title></episode>
+<episode num="69">
+<title part="A" gid="2713161291" lang="EN">The Rookie Zashiki-warashi</title>
+<title part="B" gid="2832896342" lang="EN">Yo-Kai Ekohiiki</title>
+<title part="C" gid="1736238491" lang="EN">Yo-Kai Shiwaku-chan</title></episode>
+<episode num="70">
+<title part="A" gid="3639696542" lang="EN">The Rookie Zashiki-warashi: The Exam</title>
+<title part="B" gid="1282078856" lang="EN">Yo-Kai Urayameshi</title>
+<title part="C" gid="1941716626" lang="EN">Hikikōmori's Secret</title></episode>
+<episode num="71">
+<title part="A" gid="2447435646" lang="EN">The Rookie Zashiki-warashi: Falling in Love</title>
+<title part="B" gid="1750086853" lang="EN">Today's a Yo-Kai Holiday!</title>
+<title part="C" gid="2376410560" lang="EN">The Kowailight Zone: The White Fear</title></episode>
+<episode num="72">
+<title part="A" gid="2073357514" lang="EN">Yo-Kai Dokechingu</title>
+<title part="B" gid="2143784754" lang="EN">Yo-Kai Ayamaritaoshi</title>
+<title part="C" gid="1638968443" lang="EN">Yo-Kai Mayoiguruma</title></episode>
+<episode num="73">
+<title part="A" gid="3146282877" lang="EN">Yo-Kai Mukamukade</title>
+<title part="B" gid="2601272543" lang="EN">Yo-Kai Ningyo</title>
+<title part="C" gid="3606141492" lang="EN">Yo-Kai Tararin</title></episode>
+<episode num="74">
+<title part="A" gid="3137638494" lang="EN">Let's Go with Komasan: First Trip to the Electronics Store</title>
+<title part="B" gid="1426364827" lang="EN">Kuro Is Here!</title>
+<title part="C" gid="2189620335" lang="EN">Robonyan Type-F Appears!</title></episode>
+<episode num="75">
+<title part="A" gid="2749062024" lang="EN">Let's Go with Komasan: First Trip to the Ramen Stand</title>
+<title part="B" gid="2859544196" lang="EN">Yo-Kai Tōshirozame</title>
+<title part="C" gid="1062545814" lang="EN">Yo-Kai Shōbushi</title></episode>
+<episode num="76">
+<title part="A" gid="1032648086" lang="EN">Let's Go with Komasan: First Trip to the Sports Gym</title>
+<title part="B" gid="3218639749" lang="EN">Yo-Kai Bakuonnarashi</title>
+<title part="C" gid="3120411474" lang="EN">Buyōjin Summer Festival</title></episode>
+<news datetime="2011-10-15T06:20:03Z" href="http://www.animenewsnetwork.com/news/2011-10-15/level-5-plans-yokai-watch-tv-anime-manga-game">Level-5 Plans &lt;cite&gt;Yōkai Watch&lt;/cite&gt; TV Anime, Manga, Game</news>
+<news datetime="2013-11-16T04:42:16Z" href="http://www.animenewsnetwork.com/news/2013-11-15/yokai-watch-tv-anime-to-premiere-in-january">&lt;cite&gt;Yōkai Watch&lt;/cite&gt; TV Anime to Premiere in January</news>
+<news datetime="2013-12-06T07:00:00Z" href="http://www.animenewsnetwork.com/news/2013-12-06/haruka-tomatsu-tomokazu-seki-star-in-yokai-watch-tv-anime">Haruka Tomatsu, Tomokazu Seki Star in &lt;cite&gt;Yokai Watch&lt;/cite&gt; TV Anime</news>
+<news datetime="2014-01-03T12:25:00Z" href="http://www.animenewsnetwork.com/news/2014-01-03/level-5-yokai-watch-tv-anime-previewed-in-promo-video">Level 5's &lt;cite&gt;Yōkai Watch&lt;/cite&gt; TV Anime Previewed in Promo Video</news>
+<news datetime="2014-02-02T20:00:00Z" href="http://www.animenewsnetwork.com/news/2014-02-02/japan-animation-tv-ranking-january-20-26">Japan's Animation TV Ranking, January 20-26</news>
+<news datetime="2014-02-09T22:43:50Z" href="http://www.animenewsnetwork.com/news/2014-02-09/japan-animation-tv-ranking-january-27-february-2">Japan's Animation TV Ranking, January 27-February 2</news>
+<news datetime="2014-02-16T22:56:27Z" href="http://www.animenewsnetwork.com/news/2014-02-16/japan-animation-tv-ranking/february-3-9">Japan's Animation TV Ranking: February 3-9</news>
+<news datetime="2014-03-03T03:30:00Z" href="http://www.animenewsnetwork.com/news/2014-03-02/japanese-anime-tv-ranking/february-17-23">Japan's Animation TV Ranking, February 17-23</news>
+<news datetime="2014-03-10T02:00:00Z" href="http://www.animenewsnetwork.com/news/2014-03-09/japan-animation-tv-ranking/february-24-march-2">Japan's Animation TV Ranking, February 24-March 2</news>
+<news datetime="2014-03-18T03:59:20Z" href="http://www.animenewsnetwork.com/news/2014-03-17/yokai-watch-anime-moves-to-earlier-time-slot">&lt;cite&gt;Yōkai Watch&lt;/cite&gt; Anime Moves to Earlier Time Slot</news>
+<news datetime="2014-03-18T16:00:00Z" href="http://www.animenewsnetwork.com/news/2014-03-18/japan-animation-tv-ranking/march-3-9">Japan's Animation TV Ranking, March 3-9</news>
+<news datetime="2014-03-24T02:00:00Z" href="http://www.animenewsnetwork.com/news/2014-03-23/japanese-anime-tv-ranking/march-10-15">Japan's Animation TV Ranking, March 10-15</news>
+<news datetime="2014-04-03T22:30:13Z" href="http://www.animenewsnetwork.com/news/2014-04-03/japan-animation-tv-ranking/march-17-23">Japan's Animation TV Ranking, March 17-23</news>
+<news datetime="2014-04-09T06:30:00Z" href="http://www.animenewsnetwork.com/news/2014-04-09/japan-animation-tv-ranking/march-24-30">Japan's Animation TV Ranking, March 24-30</news>
+<news datetime="2014-04-14T10:00:00Z" href="http://www.animenewsnetwork.com/news/2014-04-14/japan-animation-tv-ranking/march-31-april-6">Japan's Animation TV Ranking, March 31-April 6</news>
+<news datetime="2014-04-28T08:20:00Z" href="http://www.animenewsnetwork.com/news/2014-04-28/japan-animation-tv-ranking/april-14-20">Japan's Animation TV Ranking, April 14-20</news>
+<news datetime="2014-05-04T23:00:00Z" href="http://www.animenewsnetwork.com/news/2014-05-04/japan-animation-tv-ranking/april-21-27">Japan's Animation TV Ranking, April 21-27</news>
+<news datetime="2014-05-12T16:00:00Z" href="http://www.animenewsnetwork.com/news/2014-05-12/japanese-anime-tv-ranking/april-28-may-4">Japan's Animation TV Ranking, April 28-May 4</news>
+<news datetime="2014-05-19T22:30:19Z" href="http://www.animenewsnetwork.com/news/2014-05-19/japanese-anime-tv-ranking/may-5-11">Japan's Animation TV Ranking, May 5-11</news>
+<news datetime="2014-05-27T00:00:00Z" href="http://www.animenewsnetwork.com:/news/2014-05-27/japan-animation-tv-ranking-may-12-18/.74902">Japan's Animation TV Ranking, May 12-18</news>
+<news datetime="2014-06-02T23:00:27Z" href="http://www.animenewsnetwork.com:/news/2014-06-03/japan-animation-tv-ranking-may-19-25/.75116">Japan's Animation TV Ranking, May 19-25</news>
+<news datetime="2014-06-09T22:30:34Z" href="http://www.animenewsnetwork.com:/news/2014-06-10/japan-animation-tv-ranking-may-26-june-1/.75353">Japan's Animation TV Ranking, May 26-June 1</news>
+<news datetime="2014-06-10T05:50:00Z" href="http://www.animenewsnetwork.com:/news/2014-06-10/level-5-yo-kai-watch-games-get-film-in-december/.75393">Level-5's &lt;cite&gt;Yo-kai Watch&lt;/cite&gt; Games Get Film in December</news>
+<news datetime="2014-06-16T01:00:00Z" href="http://www.animenewsnetwork.com:/news/2014-06-16/japan-animation-tv-ranking-june-2-8/.75599">Japan's Animation TV Ranking, June 2-8</news>
+<news datetime="2014-06-23T20:30:07Z" href="http://www.animenewsnetwork.com:/news/2014-06-24/japan-animation-tv-ranking-june-9-15/.75831">Japan's Animation TV Ranking, June 9-15</news>
+<news datetime="2014-07-02T05:30:00Z" href="http://www.animenewsnetwork.com:/news/2014-07-02/japan-animation-tv-ranking-june-16-22/.76113">Japan's Animation TV Ranking, June 16-22</news>
+<news datetime="2014-07-07T02:45:22Z" href="http://www.animenewsnetwork.com:/news/2014-07-07/japan-animation-tv-ranking-june-23-29/.76378">Japan's Animation TV Ranking, June 23-29</news>
+<news datetime="2014-07-14T21:30:09Z" href="http://www.animenewsnetwork.com:/news/2014-07-15/japan-animation-tv-ranking-june-30-july-6/.76662">Japan's Animation TV Ranking, June 30-July 6</news>
+<news datetime="2014-07-21T06:15:00Z" href="http://www.animenewsnetwork.com:/news/2014-07-21/japan-animation-tv-ranking-july-7-13/.76868">Japan's Animation TV Ranking, July 7-13</news>
+<news datetime="2014-07-28T02:30:21Z" href="http://www.animenewsnetwork.com:/news/2014-07-28/japan-animation-tv-ranking-july-14-20/.77063">Japan's Animation TV Ranking, July 14-20</news>
+<news datetime="2014-08-04T11:30:00Z" href="http://www.animenewsnetwork.com:/news/2014-08-04/japan-animation-tv-ranking-july-21-27/.77264">Japan's Animation TV Ranking, July 21-27</news>
+<news datetime="2014-08-11T09:45:00Z" href="http://www.animenewsnetwork.com:/news/2014-08-11/japan-animation-tv-ranking-july-28-august-3/.77502">Japan's Animation TV Ranking, July 28-August 3</news>
+<news datetime="2014-08-18T07:30:00Z" href="http://www.animenewsnetwork.com:/news/2014-08-18/japan-animation-tv-ranking-august-4-10/.77713">Japan's Animation TV Ranking, August 4-10</news>
+<news datetime="2014-08-25T02:00:00Z" href="http://www.animenewsnetwork.com:/news/2014-08-25/japan-animation-tv-ranking-august-11-17/.77980">Japan's Animation TV Ranking, August 11-17</news>
+<news datetime="2014-08-28T07:00:00Z" href="http://www.animenewsnetwork.com:/news/2014-08-28/yo-kai-watch-film-trailer-teases-origin-of-magical-watch/.78081">&lt;cite&gt;Yo-kai Watch&lt;/cite&gt; Film's Trailer Teases Origin of Magical Watch</news>
+<news datetime="2014-09-01T02:15:00Z" href="http://www.animenewsnetwork.com:/news/2014-08-31/japan-animation-tv-ranking-august-18-24/.78227">Japan's Animation TV Ranking, August 18-24</news>
+<news datetime="2014-09-08T08:00:00Z" href="http://www.animenewsnetwork.com:/news/2014-09-08/japan-animation-tv-ranking-august-26-september-1/.78504">Japan's Animation TV Ranking, August 26-September 1</news>
+<news datetime="2014-09-15T13:45:00Z" href="http://www.animenewsnetwork.com:/news/2014-09-15/japan-animation-tv-ranking-september-1-7/.78781">Japan's Animation TV Ranking, September 1-7</news>
+<news datetime="2014-09-22T20:40:00Z" href="http://www.animenewsnetwork.com:/news/2014-09-22/japan-animation-tv-ranking-september-8-14/.79042">Japan's Animation TV Ranking, September 8-14</news>
+<news datetime="2014-09-29T22:40:00Z" href="http://www.animenewsnetwork.com:/news/2014-09-29/japan-animation-tv-ranking-september-15-21/.79311">Japan's Animation TV Ranking, September 15-21</news>
+<news datetime="2014-10-06T20:40:00Z" href="http://www.animenewsnetwork.com:/news/2014-10-06/japan-animation-tv-ranking-september-22-28/.79601">Japan's Animation TV Ranking, September 22-28</news>
+<news datetime="2014-10-10T23:00:00Z" href="http://www.animenewsnetwork.com:/news/2014-10-10/yo-kai-watch-2-game-gets-3rd-version-on-december-13/.79801">&lt;cite&gt;Yo-kai Watch 2&lt;/cite&gt; Game Gets 3rd Version on December 13</news>
+<news datetime="2014-10-13T08:00:00Z" href="http://www.animenewsnetwork.com:/news/2014-10-13/japan-animation-tv-ranking-september-29-october-5/.79854">Japan's Animation TV Ranking, September 29-October 5</news>
+<news datetime="2014-10-20T22:40:00Z" href="http://www.animenewsnetwork.com:/news/2014-10-20/japan-animation-tv-ranking-october-6-12/.80115">Japan's Animation TV Ranking, October 6-12</news>
+<news datetime="2014-10-28T00:00:00Z" href="http://www.animenewsnetwork.com:/news/2014-10-27/japan-animation-tv-ranking-october-13-19/.80371">Japan's Animation TV Ranking, October 13-19</news>
+<news datetime="2014-11-04T15:00:00Z" href="http://www.animenewsnetwork.com:/news/2014-11-04/japan-animation-tv-ranking-october-20-26/.80590">Japan's Animation TV Ranking, October 20-26</news>
+<news datetime="2014-11-03T21:40:00Z" href="http://www.animenewsnetwork.com:/news/2014-11-03/frozen-yo-kai-watch-are-japan-top-products/.80611">&lt;cite&gt;Frozen&lt;/cite&gt;, &lt;cite&gt;Yo-kai Watch&lt;/cite&gt; Are Japan's Top Products</news>
+<news datetime="2014-11-04T02:15:00Z" href="http://www.animenewsnetwork.com:/news/2014-11-03/dream5-is-1st-teen-band-in-4-decades-with-no.1-song-thanks-to-yo-kai-watch-theme/.80635">Dream5 Is 1st Teen Band in 4 Decades With #1 Song Thanks to &lt;cite&gt;Yo-kai Watch&lt;/cite&gt; Theme</news>
+<news datetime="2014-11-04T10:10:00Z" href="http://www.animenewsnetwork.com:/news/2014-11-04/japan-animation-dvd-ranking-october-27-november-2/.80648">Japan's Animation DVD Ranking, October 27-November 2</news>
+<news datetime="2014-11-10T06:00:00Z" href="http://www.animenewsnetwork.com:/news/2014-11-10/yo-kai-watch-projected-to-top-gundam-in-bandai-toy-hobby-sales/.80740">&lt;cite&gt;Yo-kai Watch&lt;/cite&gt; Projected to Top &lt;cite&gt;Gundam&lt;/cite&gt; in Bandai's Toy/Hobby Sales</news>
+<news datetime="2014-11-10T08:00:00Z" href="http://www.animenewsnetwork.com:/news/2014-11-10/japan-animation-tv-ranking-october-27-november-2/.80850">Japan's Animation TV Ranking, October 27-November 2</news>
+<news datetime="2014-11-17T09:30:00Z" href="http://www.animenewsnetwork.com:/news/2014-11-17/japan-animation-tv-ranking-november-3-9/.81107">Japan's Animation TV Ranking, November 3-9</news>
+<news datetime="2014-11-18T09:00:46Z" href="http://www.animenewsnetwork.com:/news/2014-11-18/japan-animation-dvd-ranking-november-10-16/.81159">Japan's Animation DVD Ranking, November 10-16</news>
+<news datetime="2014-11-25T01:30:00Z" href="http://www.animenewsnetwork.com:/news/2014-11-24/japan-animation-tv-ranking-november-10-16/.81373">Japan's Animation TV Ranking, November 10-16</news>
+<news datetime="2014-12-01T01:15:00Z" href="http://www.animenewsnetwork.com:/news/2014-11-30/yo-kai-watch-guide-is-japan-no.1-book-in-2014-while-disney-frozen-sells-2.1-million-books/.81610">&lt;cite&gt;Yo-kai Watch&lt;/cite&gt; Guide Is Japan's #1 Book in 2014, While Disney's &lt;cite&gt;Frozen&lt;/cite&gt; Sells 2.1 Million Books</news>
+<news datetime="2014-12-01T09:15:00Z" href="http://www.animenewsnetwork.com:/news/2014-12-01/japan-animation-tv-ranking-november-17-23/.81611">Japan's Animation TV Ranking, November 17-23</news>
+<news datetime="2014-12-09T12:30:00Z" href="http://www.animenewsnetwork.com:/news/2014-12-09/japan-animation-tv-ranking-november-24-30/.81896">Japan's Animation TV Ranking, November 24-30</news>
+<news datetime="2014-12-17T02:30:00Z" href="http://www.animenewsnetwork.com:/news/2014-12-16/7-akb48-idols-form-yo-kai-watch-sub-group-for-ending-theme/.82262">7 AKB48 Idols Form &lt;cite&gt;Yo-kai Watch&lt;/cite&gt; Sub-Group for Ending Theme</news>
+<news datetime="2014-12-20T18:00:00Z" href="http://www.animenewsnetwork.com:/news/2014-12-20/yo-kai-watch-to-air-in-u.s-europe-other-regions-globally/.82434">&lt;cite&gt;Yo-kai Watch&lt;/cite&gt; to Air in U.S., Europe, Other Regions Globally</news>
+<news datetime="2014-12-23T07:00:00Z" href="http://www.animenewsnetwork.com:/news/2014-12-23/japan-animation-tv-ranking-december-8-14/.82487">Japan's Animation TV Ranking, December  8-14</news>
+<news datetime="2014-12-29T22:30:00Z" href="http://www.animenewsnetwork.com:/news/2014-12-29/japan-animation-tv-ranking-december-15-21/.82713">Japan's Animation TV Ranking, December 15-21</news>
+<news datetime="2015-01-11T04:30:00Z" href="http://www.animenewsnetwork.com:/news/2015-01-10/yo-kai-watch-frozen-helped-raise-2014-toy-sales-in-japan-by-7-percent/.83133">&lt;cite&gt;Yo-kai Watch, Frozen&lt;/cite&gt; Helped Raise 2014 Toy Sales in Japan by 7%</news>
+<news datetime="2015-01-12T02:30:00Z" href="http://www.animenewsnetwork.com:/news/2015-01-11/top-selling-video-games-in-japan-2014/.83151">Top-Selling Video Games in Japan: 2014</news>
+<news datetime="2015-01-12T11:30:00Z" href="http://www.animenewsnetwork.com:/news/2015-01-12/japan-animation-tv-ranking-december-22-28/.83153">Japan's Animation TV Ranking, December 22-28</news>
+<news datetime="2015-01-16T23:20:00Z" href="http://www.animenewsnetwork.com:/news/2015-01-16/japan-animation-tv-ranking-december-29-january-4/.83367">Japan's Animation TV Ranking, December 29-January 4</news>
+<news datetime="2015-01-19T12:50:31Z" href="http://www.animenewsnetwork.com:/news/2015-01-19/japan-animation-tv-ranking-january-5-11/.83442">Japan's Animation TV Ranking, January 5-11</news>
+<news datetime="2015-01-26T09:30:30Z" href="http://www.animenewsnetwork.com:/news/2015-01-26/japan-animation-tv-ranking-january-12-18/.83706">Japan's Animation TV Ranking, January 12-18</news>
+<news datetime="2015-02-03T20:30:00Z" href="http://www.animenewsnetwork.com:/news/2015-02-03/japan-animation-tv-ranking-january-19-25/.83985">Japan's Animation TV Ranking, January 19-25</news>
+<news datetime="2015-02-09T09:40:00Z" href="http://www.animenewsnetwork.com:/news/2015-02-09/japan-animation-tv-ranking-january-26-february-1/.84234">Japan's Animation TV Ranking, January 26-February 1</news>
+<news datetime="2015-02-16T19:20:00Z" href="http://www.animenewsnetwork.com:/news/2015-02-16/japan-animation-tv-ranking-february-2-8/.85028">Japan's Animation TV Ranking, February 2-8</news>
+<news datetime="2015-02-17T19:45:00Z" href="http://www.animenewsnetwork.com:/news/2015-02-17/tokyo-anime-award-festival-2015-animation-of-the-year-nominees-announced/.85082">Tokyo Anime Award Festival 2015 'Animation of the Year' Nominees Announced</news>
+<news datetime="2015-02-23T09:00:00Z" href="http://www.animenewsnetwork.com:/news/2015-02-23/japan-animation-tv-ranking-february-9-15/.85296">Japan's Animation TV Ranking, February 9-15</news>
+<news datetime="2015-02-28T20:30:00Z" href="http://www.animenewsnetwork.com:/news/2015-02-28/yo-kai-watch-will-promote-tourism-in-hawaii-with-short-anime/.85471">&lt;cite&gt;Yo-Kai Watch&lt;/cite&gt; Will Promote Tourism in Hawaii With Short Anime</news>
+<news datetime="2015-03-02T11:30:00Z" href="http://www.animenewsnetwork.com:/news/2015-03-02/japan-animation-tv-ranking-february-16-22/.85515">Japan's Animation TV Ranking, February 16-22</news>
+<news datetime="2015-03-09T08:45:00Z" href="http://www.animenewsnetwork.com:/news/2015-03-09/japan-animation-tv-ranking-february-23-march-1/.85754">Japan's Animation TV Ranking, February 23-March 1</news>
+<news datetime="2015-03-17T19:20:00Z" href="http://www.animenewsnetwork.com:/news/2015-03-17/japan-animation-tv-ranking-march-2-8/.86006">Japan's Animation TV Ranking, March 2-8</news>
+<news datetime="2015-03-23T09:30:00Z" href="http://www.animenewsnetwork.com:/news/2015-03-23/japan-animation-tv-ranking-march-9-15/.86271">Japan's Animation TV Ranking, March 9-15</news>
+<news datetime="2015-03-30T11:25:00Z" href="http://www.animenewsnetwork.com:/news/2015-03-30/japan-animation-tv-ranking-march-16-22/.86525">Japan's Animation TV Ranking, March 16-22</news>
+<news datetime="2015-04-06T22:30:00Z" href="http://www.animenewsnetwork.com:/news/2015-04-06/aikatsu-yo-kai-watch-stand-by-me-doraemon-win-digital-media-awards/.86820">&lt;cite&gt;Aikatsu, Yo-Kai Watch, Stand By Me Doraemon&lt;/cite&gt; Win Digital Media Awards</news>
+<news datetime="2015-04-07T08:35:00Z" href="http://www.animenewsnetwork.com:/news/2015-04-07/japan-animation-dvd-ranking-march-23-29/.86837">Japan's Animation DVD Ranking, March 23-29</news>
+<news datetime="2015-04-07T12:25:00Z" href="http://www.animenewsnetwork.com:/news/2015-04-07/yo-kai-watch-3-game-announced-with-usa-setting/.86844">&lt;cite&gt;Yo-kai Watch 3&lt;/cite&gt; Game Announced With USA Setting</news>
+<news datetime="2015-04-07T13:45:00Z" href="http://www.animenewsnetwork.com:/news/2015-04-07/level-5-unveils-snack-world-with-game-tv-anime-film-manga-more/.86846">Level-5 Unveils &lt;cite&gt;Snack World&lt;/cite&gt; With Game, TV Anime, Film, Manga, More</news>
+<news datetime="2015-04-07T14:30:53Z" href="http://www.animenewsnetwork.com:/news/2015-04-07/nintendo-to-publish-level-5-yo-kai-watch-rpg-in-the-west/.86848">Nintendo to Publish Level-5's &lt;cite&gt;Yo-kai Watch&lt;/cite&gt; RPG in the West</news>
+<news datetime="2015-04-09T00:20:00Z" href="http://www.animenewsnetwork.com:/news/2015-04-08/japan-animation-tv-ranking-march-23-29/.86916">Japan's Animation TV Ranking, March 23-29</news>
+<news datetime="2015-04-12T22:00:00Z" href="http://www.animenewsnetwork.com:/news/2015-04-12/japan-animation-tv-ranking-march-30-april-5/.87069">Japan's Animation TV Ranking, March 30-April 5</news>
+<news datetime="2015-04-19T00:30:00Z" href="http://www.animenewsnetwork.com:/news/2015-04-18/japan-animation-tv-ranking-april-6-12/.87269">Japan's Animation TV Ranking, April 6-12</news>
+<news datetime="2015-04-27T23:00:00Z" href="http://www.animenewsnetwork.com:/news/2015-04-27/japan-animation-tv-ranking-april-13-19/.87590">Japan's Animation TV Ranking, April 13-19</news>
+<news datetime="2015-05-11T20:20:00Z" href="http://www.animenewsnetwork.com:/news/2015-05-11/japan-animation-tv-ranking-april-27-may-3/.88066">Japan's Animation TV Ranking, April 27-May 3</news>
+<news datetime="2015-05-14T21:20:00Z" href="http://www.animenewsnetwork.com:/news/2015-05-14/japan-animation-tv-ranking-may-4-10/.88166">Japan's Animation TV Ranking, May 4-10</news>
+<news datetime="2015-05-22T21:30:00Z" href="http://www.animenewsnetwork.com:/news/2015-05-22/japan-animation-tv-ranking-may-11-17/.88474">Japan's Animation TV Ranking, May 11-17</news>
+<news datetime="2015-06-02T03:00:00Z" href="http://www.animenewsnetwork.com:/news/2015-06-01/japan-animation-tv-ranking-may-18-24/.88808">Japan's Animation TV Ranking, May 18-24</news>
+<news datetime="2015-06-08T19:30:00Z" href="http://www.animenewsnetwork.com:/news/2015-06-08/japan-animation-tv-ranking-may-25-31/.89047">Japan's Animation TV Ranking, May 25-31</news>
+<news datetime="2015-06-12T03:25:44Z" href="http://www.animenewsnetwork.com:/news/2015-06-11/japan-animation-tv-ranking-june-1-7/.89157">Japan's Animation TV Ranking, June 1-7</news>
+<news datetime="2015-06-17T07:30:00Z" href="http://www.animenewsnetwork.com:/news/2015-06-17/top-selling-animation-in-japan-by-title-2015/.89373">Top-Selling Animation in Japan by Title: 2015 (First Half)</news>
+<news datetime="2015-06-17T09:30:00Z" href="http://www.animenewsnetwork.com:/news/2015-06-17/top-selling-animation-dvds-in-japan-2015/.89376">Top-Selling Animation DVDs in Japan: 2015 (First Half)</news>
+<news datetime="2015-06-26T03:30:00Z" href="http://www.animenewsnetwork.com:/news/2015-06-25/japan-animation-tv-ranking-june-8-14/.89495">Japan's Animation TV Ranking, June 8-14</news>
+<news datetime="2015-06-23T20:33:10Z" href="http://www.animenewsnetwork.com:/news/2015-06-23/yo-kai-watch-anime-to-premiere-on-disney-xd/.89623">&lt;cite&gt;Yo-kai Watch&lt;/cite&gt; Anime to Premiere on Disney XD</news>
+<news datetime="2015-06-27T14:30:00Z" href="http://www.animenewsnetwork.com:/news/2015-06-27/japan-animation-tv-ranking-june-15-21/.89718">Japan's Animation TV Ranking, June 15-21</news>
+<news datetime="2015-06-29T17:30:00Z" href="http://www.animenewsnetwork.com:/news/2015-06-29/hawaii-tourism-board-posts-new-yo-kai-watch-anime-short/.89847">Hawaii Tourism Board Posts New &lt;cite&gt;Yo-kai Watch&lt;/cite&gt; Anime Short</news>
+<news datetime="2015-07-10T00:00:00Z" href="http://www.animenewsnetwork.com:/news/2015-07-09/japan-animation-tv-ranking-june-22-28/.90269">Japan's Animation TV Ranking, June 22-28</news>
+<news datetime="2015-07-10T00:05:00Z" href="http://www.animenewsnetwork.com:/news/2015-07-09/japan-animation-tv-ranking-june-29-july-5/.90270">Japan's Animation TV Ranking, June 29-July 5</news>
+<news datetime="2015-07-14T08:30:00Z" href="http://www.animenewsnetwork.com:/news/2015-07-14/japan-animation-blu-ray-disc-ranking-july-6-12/.90434">Japan's Animation Blu-ray Disc Ranking, July 6-12</news>
+<news datetime="2015-07-14T08:50:00Z" href="http://www.animenewsnetwork.com:/news/2015-07-14/japan-animation-dvd-ranking-july-5-12/.90435">Japan's Animation DVD Ranking, July 5-12</news>
+<news datetime="2015-07-17T02:15:00Z" href="http://www.animenewsnetwork.com:/news/2015-07-16/japan-animation-tv-ranking-july-6-12/.90542">Japan's Animation TV Ranking, July 6-12</news>
+<news datetime="2015-07-23T22:40:00Z" href="http://www.animenewsnetwork.com:/news/2015-07-23/japan-animation-tv-ranking-july-13-19/.90824">Japan's Animation TV Ranking, July 13-19</news>
+<news datetime="2015-07-30T22:00:00Z" href="http://www.animenewsnetwork.com:/news/2015-07-30/japan-animation-tv-ranking-july-20-26/.91104">Japan's Animation TV Ranking, July 20-26</news>
+<news datetime="2015-08-06T21:40:00Z" href="http://www.animenewsnetwork.com:/news/2015-08-06/japan-animation-tv-ranking-july-27-august-2/.91383">Japan's Animation TV Ranking, July 27-August 2</news>
+<news datetime="2015-08-13T21:40:00Z" href="http://www.animenewsnetwork.com:/news/2015-08-13/japan-animation-tv-ranking-august-3-9/.91639">Japan's Animation TV Ranking, August 3-9</news>
+<news datetime="2015-08-20T20:20:00Z" href="http://www.animenewsnetwork.com:/news/2015-08-20/japan-animation-tv-ranking-august-10-16/.91928">Japan's Animation TV Ranking, August 10-16</news>
+<news datetime="2015-08-28T06:00:00Z" href="http://www.animenewsnetwork.com:/news/2015-08-28/japan-animation-tv-ranking-august-17-23/.92204">Japan's Animation TV Ranking, August 17-23</news>
+<news datetime="2015-09-04T23:40:00Z" href="http://www.animenewsnetwork.com:/news/2015-09-04/japan-animation-tv-ranking-august-24-30/.92553">Japan's Animation TV Ranking, August 24-30</news>
+<news datetime="2015-09-10T23:30:00Z" href="http://www.animenewsnetwork.com:/news/2015-09-10/japan-animation-tv-ranking-august-31-september-6/.92789">Japan's Animation TV Ranking, August 31-September 6</news>
+<news datetime="2015-09-11T15:00:00Z" href="http://www.animenewsnetwork.com:/news/2015-09-11/yo-kai-watch-anime-october-5-u.s-debut-dub-cast-revealed/.92817">&lt;cite&gt;Yo-kai Watch&lt;/cite&gt; Anime's October 5 U.S. Debut, Dub Cast Revealed</news>
+<news datetime="2015-09-17T22:30:00Z" href="http://www.animenewsnetwork.com:/news/2015-09-17/japan-animation-tv-ranking-september-7-13/.93067">Japan's Animation TV Ranking, September 7-13</news>
+<news datetime="2015-09-26T02:30:00Z" href="http://www.animenewsnetwork.com:/news/2015-09-25/yo-kai-watch-anime-english-theme-song-video-streamed/.93417">&lt;cite&gt;Yo-kai Watch&lt;/cite&gt; Anime's English Theme Song Video Streamed</news>
+<news datetime="2015-09-29T09:20:00Z" href="http://www.animenewsnetwork.com:/news/2015-09-29/japan-animation-dvd-ranking-september-21-27/.93539">Japan's Animation DVD Ranking, September 21-27</news>
+<news datetime="2015-10-01T18:30:00Z" href="http://www.animenewsnetwork.com:/news/2015-10-01/level-5-dentsu-open-new-company-for-western-markets/.93645">Level-5, Dentsu Open New Company for Western Markets</news>
+<news datetime="2015-10-08T22:40:00Z" href="http://www.animenewsnetwork.com:/news/2015-10-08/japan-animation-tv-ranking-september-14-20/.93943">Japan's Animation TV Ranking, September 14-20</news>
+<news datetime="2015-10-08T23:00:00Z" href="http://www.animenewsnetwork.com:/news/2015-10-08/japan-animation-tv-ranking-september-21-27/.93944">Japan's Animation TV Ranking, September 21-27</news>
+<news datetime="2015-10-09T23:40:00Z" href="http://www.animenewsnetwork.com:/news/2015-10-09/japan-animation-tv-ranking-september-28-october-4/.94011">Japan's Animation TV Ranking, September 28-October 4</news>
+<news datetime="2015-10-15T21:30:00Z" href="http://www.animenewsnetwork.com:/news/2015-10-15/japan-animation-tv-ranking-october-5-11/.94265">Japan's Animation TV Ranking, October 5-11</news>
+<news datetime="2015-10-19T13:55:00Z" href="http://www.animenewsnetwork.com:/news/2015-10-19/yo-kai-watch-gets-nintendo-2ds-bundle-in-n-america/.94382">&lt;cite&gt;Yo-kai Watch&lt;/cite&gt; Gets Nintendo 2DS Bundle in N. America</news>
+<news datetime="2015-10-22T21:30:00Z" href="http://www.animenewsnetwork.com:/news/2015-10-22/japan-animation-tv-ranking-october-12-18/.94527">Japan's Animation TV Ranking, October 12-18</news>
+<news datetime="2015-10-28T03:59:00Z" href="http://www.animenewsnetwork.com:/news/2015-10-27/live-action-yo-kai-watch-tv-spot-streamed/.94671">Live-Action &lt;cite&gt;Yo-kai Watch&lt;/cite&gt; TV Spot Streamed</news>
+<news datetime="2015-10-29T20:20:00Z" href="http://www.animenewsnetwork.com:/news/2015-10-29/japan-animation-tv-ranking-october-19-25/.94792">Japan's Animation TV Ranking, October 19-25</news>
+<news datetime="2015-11-06T21:45:00Z" href="http://www.animenewsnetwork.com:/news/2015-11-06/japan-animation-tv-ranking-october-26-november-1/.95102">Japan's Animation TV Ranking, October 26-November 1</news>
+<news datetime="2015-11-12T19:40:00Z" href="http://www.animenewsnetwork.com:/news/2015-11-12/japan-animation-tv-ranking-november-2-8/.95310">Japan's Animation TV Ranking, November 2-8</news>
+<news datetime="2015-11-26T23:00:00Z" href="http://www.animenewsnetwork.com:/news/2015-11-26/japan-animation-tv-ranking-november-16-22/.95835">Japan's Animation TV Ranking, November 16-22</news>
+<news datetime="2015-12-03T23:40:00Z" href="http://www.animenewsnetwork.com:/news/2015-12-03/japan-animation-tv-ranking-november-23-29/.96073">Japan's Animation TV Ranking, November 23-29</news>
+<news datetime="2015-12-17T22:00:00Z" href="http://www.animenewsnetwork.com:/news/2015-12-17/japan-animation-tv-ranking-december-7-13/.96639">Japan's Animation TV Ranking, December 7-13</news>
+<news datetime="2015-12-22T10:25:00Z" href="http://www.animenewsnetwork.com:/news/2015-12-22/japan-animation-dvd-ranking-december-14-20/.96819">Japan's Animation DVD Ranking, December 14-20</news>
+<news datetime="2015-12-25T00:30:00Z" href="http://www.animenewsnetwork.com:/news/2015-12-24/japan-animation-tv-ranking-december-14-20/.96914">Japan's Animation TV Ranking, December 14-20</news>
+<news datetime="2015-12-28T19:00:00Z" href="http://www.animenewsnetwork.com:/news/2015-12-28/new-year-kohaku-singing-contest-to-include-special-anime-songs-program/.97015">New Year's Kōhaku Singing Contest to Include Special Anime Songs Program</news>
+<news datetime="2015-12-29T15:40:00Z" href="http://www.animenewsnetwork.com:/news/2015-12-29/top-selling-animation-in-japan-on-blu-ray-disc-dvd-by-series-2015/.97049">Top-Selling Animation in Japan on Blu-ray Disc/DVD by Series: 2015</news>
+<news datetime="2015-12-29T16:20:00Z" href="http://www.animenewsnetwork.com:/news/2015-12-29/top-selling-media-franchises-in-japan-2015/.97051">Top-Selling Media Franchises in Japan: 2015</news>
+<news datetime="2016-01-05T07:30:00Z" href="http://www.animenewsnetwork.com:/news/2016-01-05/japan-animation-dvd-ranking-december-21-27/.97218">Japan's Animation DVD Ranking, December 21-27</news>
+<news datetime="2016-01-07T21:10:00Z" href="http://www.animenewsnetwork.com:/news/2016-01-07/japan-animation-tv-ranking-december-21-27/.97324">Japan's Animation TV Ranking, December 21-27</news>
+<news datetime="2016-01-09T05:05:00Z" href="http://www.animenewsnetwork.com:/news/2016-01-09/top-selling-animation-dvds-in-japan-2015/.97383">Top-Selling Animation DVDs in Japan: 2015</news>
+<news datetime="2016-01-21T21:20:00Z" href="http://www.animenewsnetwork.com:/news/2016-01-21/japan-animation-tv-ranking-january-4-10/.97823">Japan's Animation TV Ranking, January 4-10</news>
+<news datetime="2016-03-22T09:40:00Z" href="http://www.animenewsnetwork.com:/news/2016-03-22/japan-animation-dvd-ranking-march-14-20/.100102">Japan's Animation DVD Ranking, March 14-20</news>
+<staff gid="2584523170"><task>Director</task><person id="66062">Shinji Ushiro</person></staff>
+<staff gid="1753613521"><task>Series Composition</task><person id="63399">Yoichi Kato</person></staff>
+<staff gid="2146102166"><task>Storyboard</task><person id="714">Nagisa Miyazaki</person></staff>
+<staff gid="1484590743"><task>Storyboard</task><person id="6704">Toru Yoshida</person></staff>
+<staff gid="1783686463"><task>Storyboard</task><person id="10826">Norihiko Sudo</person></staff>
+<staff gid="2383516546"><task>Storyboard</task><person id="11374">Hiroyuki Yano</person></staff>
+<staff gid="3146446850"><task>Storyboard</task><person id="14475">Takeshi Yoshimoto</person></staff>
+<staff gid="3793340231"><task>Storyboard</task><person id="14496">Akira Shigino</person></staff>
+<staff gid="2702946496"><task>Storyboard</task><person id="16180">Jouji Shimura</person></staff>
+<staff gid="1550942992"><task>Storyboard</task><person id="20758">Akihiro Enomoto</person></staff>
+<staff gid="2130816054"><task>Storyboard</task><person id="28247">Takayuki Hamana</person></staff>
+<staff gid="954076214"><task>Storyboard</task><person id="41491">Ryousuke Senbo</person></staff>
+<staff gid="1792710760"><task>Storyboard</task><person id="46292">Masahiro Sonoda</person></staff>
+<staff gid="1069904927"><task>Storyboard</task><person id="47629">Satomi Nakamura</person></staff>
+<staff gid="2760342397"><task>Storyboard</task><person id="53146">Risako Yoshida</person></staff>
+<staff gid="1854943919"><task>Storyboard</task><person id="66062">Shinji Ushiro</person></staff>
+<staff gid="1047169812"><task>Storyboard</task><person id="88214">Kenichiro Komaya</person></staff>
+<staff gid="2240389805"><task>Music</task><person id="125670">Ken'ichirō Saigō</person></staff>
+<staff gid="2002031917"><task>Original Character Design</task><person id="34117">Miho Tanaka</person></staff>
+<staff gid="1198666890"><task>Original Character Design</task><person id="101951">Takuzō Nagano</person></staff>
+<staff gid="2153269643"><task>Character Design</task><person id="2445">Masami Suda</person></staff>
+<staff gid="4074957432"><task>Character Design</task><person id="18530">Toshiya Yamada</person></staff>
+<staff gid="2185486576"><task>Art Director</task><person id="15285">Toshihiro Kohama</person></staff>
+<staff gid="3028920114"><task>Art Director</task><person id="53758">Aya Kuginuki</person></staff>
+<staff gid="1779405927"><task>Chief Animation Director</task><person id="18530">Toshiya Yamada</person></staff>
+<staff gid="2336467995"><task>Chief Animation Director</task><person id="43090">Kei Takeuchi</person></staff>
+<staff gid="1839305037"><task>Animation Director</task><person id="15125">Shinsuke Terasawa</person></staff>
+<staff gid="2135728218"><task>Animation Director</task><person id="19531">Masami Abe</person></staff>
+<staff gid="3436126722"><task>Animation Director</task><person id="22620">Sadatoshi Matsuzaka</person></staff>
+<staff gid="2874177495"><task>Animation Director</task><person id="23179">Takashi Yokoyama</person></staff>
+<staff gid="2282550285"><task>Animation Director</task><person id="24488">Kaori Saito</person></staff>
+<staff gid="2524240211"><task>Animation Director</task><person id="25200">Konomi Sakurai</person></staff>
+<staff gid="2350037698"><task>Animation Director</task><person id="36345">Hitomi Matsuura</person></staff>
+<staff gid="2634695417"><task>Animation Director</task><person id="39494">Masayuki Fujita</person></staff>
+<staff gid="3564535861"><task>Animation Director</task><person id="41492">Chiaki Abe</person></staff>
+<staff gid="1964055212"><task>Animation Director</task><person id="51598">Jouji Sawada</person></staff>
+<staff gid="1476154081"><task>Animation Director</task><person id="55763">Aki Yamauchi</person></staff>
+<staff gid="308627445"><task>Animation Director</task><person id="68317">Miho Sekimoto</person></staff>
+<staff gid="1036608118"><task>Animation Director</task><person id="72100">Ai Yamazaki</person></staff>
+<staff gid="1886757436"><task>Animation Director</task><person id="89364">Asuka Kurokawa</person></staff>
+<staff gid="3028313872"><task>Animation Director</task><person id="94663">Kei Saotome</person></staff>
+<staff gid="1780041424"><task>Animation Director</task><person id="95615">Yuya Kawamura</person></staff>
+<staff gid="1731352903"><task>Animation Director</task><person id="119840">Mina Ōsawa</person></staff>
+<staff gid="1442458313"><task>Sound Director</task><person id="317">Masafumi Mima</person></staff>
+<staff gid="842934750"><task>Director of Photography</task><person id="64228">Nahomi Yamamichi</person></staff>
+<staff gid="2425251206"><task>Producer</task><person id="85985">Yoshikazu Beniya</person></staff>
+<staff gid="1656742973"><task>Producer</task><person id="88943">Kiyofumi Kajiwara</person></staff>
+<cast gid="3665201912" lang="EN"><role>Nate Adams</role><person id="1283">Johnny Yong Bosch</person></cast>
+<cast gid="1823855702" lang="EN"><role>Katie</role><person id="23317">Melissa Hutchinson</person></cast>
+<cast gid="2146820384" lang="EN"><role>Jibanyan</role><person id="69084">Sarah Hauser</person></cast>
+<cast gid="3164489768" lang="EN"><role>Keita Amano</role><person id="69084">Sarah Hauser</person></cast>
+<cast gid="989137701" lang="EN"><role>Komasan</role><person id="69084">Sarah Hauser</person></cast>
+<cast gid="2243229825" lang="EN"><role>Fumika &quot;Fumi&quot; Kodama</role><person id="100791">Catherine Fu</person></cast>
+<cast gid="3311282288" lang="EN"><role>Gorōta &quot;Kuma&quot; Kumashima</role><person id="111881">Michael Pizzuto</person></cast>
+<cast gid="2424754270" lang="EN"><role>Jibanyan</role><person id="136420">Alicyn Packard</person></cast>
+<cast gid="2126678095" lang="EN"><role>Homeroom Teacher</role><person id="142484">Pierre Holloway</person></cast>
+<cast gid="2310756698" lang="EN"><role>Manjimutt</role><person id="142484">Pierre Holloway</person></cast>
+<cast gid="2255309291" lang="EN"><role>Eddie</role><person id="142485">Brent Pendergrass</person></cast>
+<cast gid="2571577832" lang="EN"><role>Whisper</role><person id="142486">J.W. Terry</person></cast>
+<cast gid="2290123587" lang="JA"><role>Whisper</role><person id="529">Tomokazu Seki</person></cast>
+<cast gid="1187424294" lang="JA"><role>Kēta's mom</role><person id="1135">Ryoko Nagata</person></cast>
+<cast gid="1942517226" lang="JA"><role>Jinmenken</role><person id="1557">Naoki Bando</person></cast>
+<cast gid="555665816" lang="JA"><role>Kanchi Imada</role><person id="2066">Chie Satou</person></cast>
+<cast gid="1647785474" lang="JA"><role>Jibanyan</role><person id="2416">Etsuko Kozakura</person></cast>
+<cast gid="2172729827" lang="JA"><role>Fumika &quot;Fumi&quot; Kodama</role><person id="27752">Aya Endo</person></cast>
+<cast gid="2303749590" lang="JA"><role>Koma-san</role><person id="27752">Aya Endo</person></cast>
+<cast gid="2258148163" lang="JA"><role>Komajirō</role><person id="27752">Aya Endo</person></cast>
+<cast gid="1671781988" lang="JA"><role>Gorōta &quot;Kuma&quot; Kumashima</role><person id="50440">Tooru Nara</person></cast>
+<cast gid="1270563494" lang="JA"><role>Kēta Amano</role><person id="63126">Haruka Tomatsu</person></cast>
+<cast gid="1381352997" lang="JA"><role>Homeroom teacher</role><person id="103441">Kazuhiro Fusegawa</person></cast>
+<credit gid="3014394719"><task>Animation Production</task><company id="1211">Oriental Light and Magic</company></credit></anime></ann>

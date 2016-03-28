@@ -1,0 +1,278 @@
+<ann><anime id="3429" gid="1110721606" type="TV" name="Duel Masters" precision="TV" generated-on="2016-03-27T05:46:33Z">
+<related-prev rel="adapted from" id="3237"/>
+<related-next id="4926" rel="sequel"/>
+<related-next id="7965" rel="sequel"/>
+<info gid="2935790952" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A3429-14.jpg" width="147" height="200"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A3429-14.jpg" width="147" height="200"/><img src="http://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A3429-14.jpg" width="174" height="236"/></info>
+<info gid="3683649437" type="Main title" lang="EN">Duel Masters</info>
+<info gid="2204795946" type="Alternative title" lang="EN">Duel Masters 2.0</info>
+<info gid="2162906097" type="Alternative title" lang="PL">Mistrzowie Kaijudo</info>
+<info gid="2033039345" type="Alternative title" lang="RU">Мастера дуэли</info>
+<info gid="2534103549" type="Alternative title" lang="AR">ديول ماسترز</info>
+<info gid="1314157705" type="Alternative title" lang="JA">デュエル・マスターズ</info>
+<info gid="2345190828" type="Genres">action</info>
+<info gid="1818454356" type="Genres">adventure</info>
+<info gid="1503099789" type="Genres">comedy</info>
+<info gid="1947133902" type="Genres">tournament</info>
+<info gid="1591861871" type="Themes">parody</info>
+<info gid="1198882492" type="Objectionable content">OC</info>
+<info gid="415173475" type="Plot Summary">A mysterious organization is interested in fledging duelist Shobu Kirifuda's ability to bring Duel Master creatures to life. With the support of his friends, Shobu duels with passion, discipline, and heart as he strives to be like his father and become the next Kaijudo master.</info>
+<info gid="2701907342" type="Running time">half hour</info>
+<info gid="3074295969" type="Number of episodes">65</info>
+<info gid="2224734687" type="Vintage">2002-10-21 to 2003-04-04</info>
+<info gid="2846964562" type="Vintage">2004-03-13 to 2004-09-04 (USA Season 1)</info>
+<info gid="1695399820" type="Vintage">2004-08-30 (Philippines)</info>
+<info gid="988456096" type="Vintage">2004-09-13 (Italy)</info>
+<info gid="2944210498" type="Vintage">2005-03-26 to 2006-01-21 (USA Season 1.5)</info>
+<info gid="673894498" type="Vintage">2006-01-28 (USA Season 2)</info>
+<info gid="3111348276" type="Official website" lang="JA" href="http://dm.takaratomy.co.jp/">DUEL MASTERS Official Website</info>
+<info gid="1644244154" type="Official website" lang="EN" href="http://www.hasbro.com/action/default.cfm?page=brand&amp;brand_id=740">The Hasbro Action Duel Masters page</info>
+<info gid="2286895927" type="Official website" lang="EN" href="http://www.wizards.com/duelmasters/tcg/dm_tcg.asp">Wizard's Official Duel Masters Website</info>
+<ratings nb_votes="619" weighted_score="3.3519" bayesian_score="3.4377"/>
+<episode num="1">
+<title gid="2431798083" lang="EN">Playing with a Full Deck</title></episode>
+<episode num="2">
+<title gid="624184814" lang="EN">It's Not Easy Being Green</title></episode>
+<episode num="3">
+<title gid="2574898383" lang="EN">Toru, Toru, Toru (Part 1)</title></episode>
+<episode num="4">
+<title gid="144868826" lang="EN">Toru, Toru, Toru (Part 2)</title></episode>
+<episode num="5">
+<title gid="2074756793" lang="EN">I'll Be a Monkey's Brother</title></episode>
+<episode num="6">
+<title gid="2866932217" lang="EN">Wok on the Wild Side</title></episode>
+<episode num="7">
+<title gid="1145337665" lang="EN">White Boys Can't Charm</title></episode>
+<episode num="8">
+<title gid="3310651899" lang="EN">Duels of Future Past</title></episode>
+<episode num="9">
+<title gid="1242252110" lang="EN">A Goblin Shall Lead Them</title></episode>
+<episode num="10">
+<title gid="1778216573" lang="EN">Shobu Gets Decked</title></episode>
+<episode num="11">
+<title gid="2315033790" lang="EN">Ballard of Kintaro (Part 1)</title></episode>
+<episode num="12">
+<title gid="1932339331" lang="EN">Ballard of Kintaro (Part 2)</title></episode>
+<episode num="13">
+<title gid="2131085196" lang="EN">Looney Mikuni (Part 1)</title></episode>
+<episode num="14">
+<title gid="481211651" lang="EN">Looney Mikuni (Part 2)</title></episode>
+<episode num="15">
+<title gid="1705076735" lang="EN">A Strange Twist of Fate</title></episode>
+<episode num="16">
+<title gid="3156731274" lang="EN">Yes, Master</title></episode>
+<episode num="17">
+<title gid="1659751273" lang="EN">Oh Brother, What Art Thou?</title></episode>
+<episode num="18">
+<title gid="1027085265" lang="EN">Cable Guy</title></episode>
+<episode num="19">
+<title gid="2430439263" lang="EN">Once More With Feeling</title></episode>
+<episode num="20">
+<title gid="1842924860" lang="EN">Episode V: Kokujoh Fights Back</title></episode>
+<episode num="21">
+<title gid="1741181420" lang="EN">The One Where Shobu Duels Hakuoh</title></episode>
+<episode num="22">
+<title gid="1905882971" lang="EN">Just Duel It</title></episode>
+<episode num="23">
+<title gid="1133466320" lang="EN">The Crying Game</title></episode>
+<episode num="24">
+<title gid="987461692" lang="EN">Do You Really Want to Hurt Me</title></episode>
+<episode num="25">
+<title gid="2448945261" lang="EN">Something Wacky This Way Comes</title></episode>
+<episode num="26">
+<title gid="2169037382" lang="EN">What's a Mana You</title></episode>
+<episode num="27">
+<title gid="1228014451" lang="EN">Atta Boy, George</title></episode>
+<episode num="28">
+<title gid="1577930331" lang="EN">Break On Through to the Other Side</title></episode>
+<episode num="29">
+<title gid="540223625" lang="EN">The Duel Goes Ever, Ever On</title></episode>
+<episode num="30">
+<title gid="3077325845" lang="EN">Enemy, Mine</title></episode>
+<episode num="31">
+<title gid="1962025480" lang="EN">Win, Lose, or Draw</title></episode>
+<episode num="32">
+<title gid="1089335499" lang="EN">Lighten Up</title></episode>
+<episode num="33">
+<title gid="1120166456" lang="EN">You Light Up My Life</title></episode>
+<episode num="34">
+<title gid="3123846815" lang="EN">If Ever A Quiz There Was</title></episode>
+<episode num="35">
+<title gid="2072826924" lang="EN">Wanted: Duel or Alive</title></episode>
+<episode num="36">
+<title gid="1774629391" lang="EN">Water You Waiting For?</title></episode>
+<episode num="37">
+<title gid="2453106302" lang="EN">The Call of Nature, Part 1</title></episode>
+<episode num="38">
+<title gid="2296527120" lang="EN">The Call of Nature, Part 2</title></episode>
+<episode num="39">
+<title gid="1231280684" lang="EN">All Natural</title></episode>
+<episode num="40">
+<title gid="1830591398" lang="EN">The Anti-Duelist</title></episode>
+<episode num="41">
+<title gid="3312721104" lang="EN">In Deep Duel-Duel</title></episode>
+<episode num="42">
+<title gid="2384561266" lang="EN">The Overlook Hotel</title></episode>
+<episode num="43">
+<title gid="1505988330" lang="EN">Quit Cloning Around</title></episode>
+<episode num="44">
+<title gid="1311107680" lang="EN">Fear Itself</title></episode>
+<episode num="45">
+<title gid="2871921276" lang="EN">Creatures of the Night</title></episode>
+<episode num="46">
+<title gid="2362370916" lang="EN">Quest For Fire</title></episode>
+<episode num="47">
+<title gid="1291379286" lang="EN">Deck Me, Baby, One More Time</title></episode>
+<episode num="48">
+<title gid="2956267266" lang="EN">One For The Mana, Duel For The Show</title></episode>
+<episode num="49">
+<title gid="927979041" lang="EN">Do That Duel You Duel So Well</title></episode>
+<episode num="50">
+<title gid="790920297" lang="EN">Boy Meets Duel</title></episode>
+<episode num="51">
+<title gid="1984986767" lang="EN">The Man In The Mirror</title></episode>
+<episode num="52">
+<title gid="2805499120" lang="EN">Who Turned Out All The Lights</title></episode>
+<episode num="53">
+<title gid="2080638887" lang="EN">SHOwdown!</title></episode>
+<episode num="54">
+<title gid="2600994805" lang="EN">Babytalk</title></episode>
+<episode num="55">
+<title gid="1857771555" lang="EN">Fourscore</title></episode>
+<episode num="56">
+<title gid="3302548653" lang="EN">Frotime</title></episode>
+<episode num="57">
+<title gid="2498562532" lang="EN">Duelusional</title></episode>
+<episode num="58">
+<title gid="1352441820" lang="EN">Duel-ercise</title></episode>
+<episode num="59">
+<title gid="514228626" lang="EN">Triple-Threat</title></episode>
+<episode num="60">
+<title gid="1332901541" lang="EN">Surprise</title></episode>
+<episode num="61">
+<title gid="2071837042" lang="EN">Cheatery</title></episode>
+<episode num="62">
+<title gid="1281636695" lang="EN">Makeover</title></episode>
+<episode num="63">
+<title gid="476212686" lang="EN">Switcharoo</title></episode>
+<episode num="64">
+<title gid="1753616694" lang="EN">Creeptastic</title></episode>
+<episode num="65">
+<title gid="263649128" lang="EN">Finalitousness</title></episode>
+<release date="2005-01-25" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=16340">Duel Masters - The Good, The Bad and The Bolshack (Dub.DVD 1)</release>
+<release date="2005-06-28" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=22308">Duel Masters - Show Me the Mana (Dub.DVD 2)</release>
+<release date="2005-06-28" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=16339">Duel Masters - Go Ahead Make My Duel (Dub.DVD 3)</release>
+<release date="2005-11-01" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=22309">Duel Masters - Frankly Shobu, I Don't Give a Duel (Dub.DVD 4)</release>
+<release date="2005-11-01" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=22313">Duel Masters - The Day the Duel Stood Still (Dub.DVD 5)</release>
+<release date="2004-07-13" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=22317">Duel Masters - Enter the Battle Zone (GN 1)</release>
+<release date="2004-09-07" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=22318">Duel Masters - A Duel on the Dark Side (GN 2)</release>
+<release date="2004-10-26" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=22319">Duel Masters - The Champion of Tomorrow (GN 3)</release>
+<release date="2005-02-08" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=22320">Duel Masters - The Day of the Duel (GN 4)</release>
+<release date="2005-08-09" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=22321">Duel Masters - Goblin Gone Wild (GN 5)</release>
+<release date="2005-01-25" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=22314">Duel Masters - The Good, The Bad and The Bolshack (Dub.VHS 1)</release>
+<release date="2005-06-28" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=22315">Duel Masters - Show Me the Mana (Dub.VHS 2)</release>
+<release date="2005-06-28" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=16343">Duel Masters - Go Ahead Make My Duel (Dub.VHS 3)</release>
+<release date="2005-11-01" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=16342">Duel Masters - Frankly Shobu, I Don't Give a Duel (Dub.VHS 4)</release>
+<release date="2005-11-01" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=22316">Duel Masters - The Day the Duel Stood Still (Dub.VHS 5)</release>
+<news datetime="2008-06-19T07:14:53Z" href="http://www.animenewsnetwork.com/news/2008-06-19/bandai-battle-spirits-card-game-to-get-anime-manga">Bandai's &lt;cite&gt;Battle Spirits&lt;/cite&gt; Card Game to Get Anime, Manga</news>
+<news datetime="2008-09-20T21:36:34Z" href="http://www.animenewsnetwork.com/news/2008-09-20/cartoon-network-to-reportedly-end-toonami-tonight">Cartoon Network to End Toonami on September 20</news>
+<news datetime="2008-12-13T16:24:02Z" href="http://www.animenewsnetwork.com/news/2008-12-13/duel-masters-cross-film-to-open-in-japan-in-fall-2009">&lt;cite&gt;Duel Masters Cross&lt;/cite&gt; Film to Open in Japan in Fall 2009</news>
+<news datetime="2009-11-08T17:50:15Z" href="http://www.animenewsnetwork.com/news/2009-11-08/japanese-box-office-september-19-20">Japanese Box Office, September 19-20</news>
+<news datetime="2011-04-01T00:25:35Z" href="http://www.animenewsnetwork.com/news/2011-03-31/duel-masters-victory-tv-anime-to-premiere-april-2">&lt;cite&gt;Duel Masters Victory&lt;/cite&gt; TV Anime to Premiere April 2</news>
+<news datetime="2012-02-11T01:25:42Z" href="http://www.animenewsnetwork.com/news/2012-02-10/icv/wizards-of-the-coast-plans-revival-of-duel-masters-franchise">ICv2: Wizards of the Coast Plans Revival of &lt;cite&gt;Duel Masters&lt;/cite&gt; Franchise</news>
+<news datetime="2012-09-04T09:50:00Z" href="http://www.animenewsnetwork.com/news/2012-09-04/hasbro-has-no-release-plans-for-duel-masters-manga-anime">Hasbro Has No Release Plans for &lt;cite&gt;Duel Masters&lt;/cite&gt; Manga, Anime</news>
+<news datetime="2014-03-15T06:15:00Z" href="http://www.animenewsnetwork.com/news/2014-03-15/duel-masters-versus-tv-series-to-premiere-in-april">&lt;cite&gt;Duel Masters Versus&lt;/cite&gt; TV Anime to Premiere in April</news>
+<news datetime="2016-03-14T18:00:00Z" href="http://www.animenewsnetwork.com:/news/2016-03-14/duel-masters-gets-1st-3d-anime-short-film/.99782">&lt;cite&gt;Duel Masters&lt;/cite&gt; Gets 1st 3D Anime Short Film</news>
+<staff gid="3626655956"><task>Director</task><person id="63720">Waruo Suzuki</person></staff>
+<staff gid="1586639022"><task>Series Composition</task><person id="8728">Satoru Nishizono</person></staff>
+<staff gid="1812616087"><task>Script</task><person id="358">Kenichi Kanemaki</person></staff>
+<staff gid="1387834104"><task>Script</task><person id="8728">Satoru Nishizono</person></staff>
+<staff gid="1198425990"><task>Script</task><person id="58901">Masanao Akahoshi</person></staff>
+<staff gid="2222126083"><task>Music</task><person id="37699">Jun'ichi Igarashi</person></staff>
+<staff gid="2040437158"><task>Original Manga</task><person id="19599">Shigenobu Matsumoto</person></staff>
+<staff gid="3309234012"><task>Character Design</task><person id="3682">Masayuki</person></staff>
+<staff gid="1498199668"><task>Art Director</task><person id="8107">Katsuyoshi Kanemura</person></staff>
+<staff gid="2907149726"><task>Sound Director</task><person id="8466">Jin Aketagawa</person></staff>
+<staff gid="1039612245"><task>Producer</task><person id="8467">Toshihiro Nakazawa</person></staff>
+<staff gid="2052421961"><task>Producer</task><person id="23349">Makoto Jinguji</person></staff>
+<cast gid="1974209033" lang="EN"><role>Mai Kirifuda</role><person id="1184">Wendee Lee</person></cast>
+<cast gid="2458037860" lang="EN"><role>Shobu Kirifuda</role><person id="1285">Joshua Seth</person></cast>
+<cast gid="1912129760" lang="EN"><role>Shobu Kirifuda</role><person id="1438">Liam O'Brien</person></cast>
+<cast gid="3937455421" lang="EN"><role>Rekuta</role><person id="2256">Brianne Siddall</person></cast>
+<cast gid="1525041273" lang="EN"><role>Knight</role><person id="3032">Kirk Thornton</person></cast>
+<cast gid="2369102627" lang="EN"><role>Boy George</role><person id="3673">Joey Lotsko</person></cast>
+<cast gid="2228137390" lang="EN"><role>Kokujoh</role><person id="3675">Terrence Stone</person></cast>
+<cast gid="2296850095" lang="EN"><role>Boy George, Aizen</role><person id="4019">Brian Beacock</person></cast>
+<cast gid="1474916900" lang="EN"><role>Dr. Root &amp; Multi- Card Monty</role><person id="4036">Derek Stephen Prince</person></cast>
+<cast gid="2159350040" lang="EN"><role>Hakuoh</role><person id="4141">Doug Erholtz</person></cast>
+<cast gid="1188061484" lang="EN"><role>Jimera</role><person id="4142">Philece Sampler</person></cast>
+<cast gid="1562924074" lang="EN"><role>Kokujoh, Sho, Extreme Bucket Man</role><person id="4832">Steven Jay Blum</person></cast>
+<cast gid="3102501296" lang="EN"><role>Your Mama</role><person id="7125">Michelle Ruff</person></cast>
+<cast gid="2718511718" lang="EN"><role>Mimi</role><person id="13098">Colleen O'Shaughnessy</person></cast>
+<cast gid="1776307380" lang="EN"><role>Rekuta</role><person id="13201">Julie Ann Taylor</person></cast>
+<cast gid="1461450339" lang="EN"><role>Mai Kirifuda</role><person id="21317">Cindy Alexander</person></cast>
+<cast gid="2722708100" lang="EN"><role>Rekuta</role><person id="23330">Alex Gold</person></cast>
+<cast gid="2625926241" lang="EN"><role>Mimi</role><person id="23331">Janice Lee</person></cast>
+<cast gid="1737838961" lang="EN"><role>Jimera</role><person id="23332">David Jeremiah</person></cast>
+<cast gid="3162054392" lang="EN"><role>Rekuta</role><person id="40680">Sterling R.</person></cast>
+<cast gid="881787351" lang="EN"><role>Knight &amp; Shori Kirifuda</role><person id="50114">Brahan Lee</person></cast>
+<cast gid="2178990690" lang="EN"><role>Boy George</role><person id="50115">Tim Diamond</person></cast>
+<cast gid="1191257998" lang="EN"><role>Jimera</role><person id="50117">Charlie Cooke</person></cast>
+<cast gid="2255654859" lang="ES"><role>Sayuri Manaka</role><person id="38507">Melanie Henriquez</person></cast>
+<cast gid="3107981551" lang="ES"><role>Rekuta Kadoko</role><person id="47456">Rebeca Aponte</person></cast>
+<cast gid="1836212293" lang="ES"><role>Hakuoh</role><person id="47726">David Robles</person></cast>
+<cast gid="2201615086" lang="ES"><role>Shobu Kirifuda</role><person id="50174">Ledner Belisario</person></cast>
+<cast gid="3163510557" lang="ES"><role>Mimi</role><person id="50570">Pilar Puebla</person></cast>
+<cast gid="1978377794" lang="ES"><role>Rekuta Kadoko</role><person id="50573">Elena Palacios</person></cast>
+<cast gid="4004077677" lang="ES"><role>Shobu Kirifuda</role><person id="50575">Raúl Rojo</person></cast>
+<cast gid="544526860" lang="ES"><role>Jamira</role><person id="50576">Javier Romano</person></cast>
+<cast gid="3379797951" lang="ES"><role>Knight</role><person id="50577">José Padilla</person></cast>
+<cast gid="2219603426" lang="ES"><role>Kokujoh</role><person id="50578">Sergio Marín</person></cast>
+<cast gid="675619054" lang="ES"><role>Mai</role><person id="50583">Sol De La Barreda</person></cast>
+<cast gid="1616408619" lang="ES"><role>Hakuoh</role><person id="52928">Alfonso Soto</person></cast>
+<cast gid="3018792395" lang="ES"><role>Mimi Tasogare</role><person id="52929">Carmen Suárez</person></cast>
+<cast gid="748719539" lang="ES"><role>Kokujoh</role><person id="69355">Sergio Garcia</person></cast>
+<cast gid="2246672790" lang="ES"><role>Shobu Kirifuda</role><person id="107435">Miquel Ruiz</person></cast>
+<cast gid="913429482" lang="FR"><role>Kyoshiro Knight</role><person id="29171">Nessym Guetat</person></cast>
+<cast gid="1597061920" lang="FR"><role>Le Maître</role><person id="29173">Jean-Marc Delhausse</person></cast>
+<cast gid="165750766" lang="FR"><role>commentateur/arbitre Tom, Toru</role><person id="29175">Arnaud Léonard</person></cast>
+<cast gid="3148035009" lang="FR"><role>Hakuoh</role><person id="39962">Frédéric Meaux</person></cast>
+<cast gid="3062709472" lang="FR"><role>Takeshi</role><person id="52193">Martin Spinhayer</person></cast>
+<cast gid="2661873624" lang="FR"><role>Shobou</role><person id="53861">Philippe Allard</person></cast>
+<cast gid="1650341657" lang="FR"><role>Jimera</role><person id="68470">Sébastien Hebrant</person></cast>
+<cast gid="2472036133" lang="IT"><role>Mikuni</role><person id="18204">Giorgio Locuratolo</person></cast>
+<cast gid="2647675274" lang="IT"><role>Kyoshiro Kokujo</role><person id="25920">Marco Baroni</person></cast>
+<cast gid="2681377279" lang="IT"><role>Mai Kirifuda</role><person id="26007">Claudia Razzi</person></cast>
+<cast gid="1669695696" lang="IT"><role>Shori Kirifuda</role><person id="26121">Francesco Prando</person></cast>
+<cast gid="1657839116" lang="IT"><role>Fritz</role><person id="26243">Fabrizio Mazzotta</person></cast>
+<cast gid="2545609514" lang="IT"><role>Rekudah</role><person id="26246">Monica Bertolotti</person></cast>
+<cast gid="563254521" lang="IT"><role>Kintaro</role><person id="26301">Luigi Ferraro</person></cast>
+<cast gid="3010675686" lang="IT"><role>Joe</role><person id="26370">Paolo Vivio</person></cast>
+<cast gid="2972230406" lang="IT"><role>Master</role><person id="26584">Stefano Mondini</person></cast>
+<cast gid="3217644549" lang="IT"><role>Hakuoh</role><person id="27001">Marco Vivio</person></cast>
+<cast gid="1892228263" lang="IT"><role>Benny Haha</role><person id="27177">Davide Lepore</person></cast>
+<cast gid="3294414897" lang="IT"><role>Mimi</role><person id="27425">Letizia Ciampa</person></cast>
+<cast gid="2468955384" lang="IT"><role>Saiyuki</role><person id="51274">Barbara Pitotti</person></cast>
+<cast gid="1288466653" lang="IT"><role>Knight</role><person id="53523">Massimo Bitossi</person></cast>
+<cast gid="2086296034" lang="IT"><role>Shobu Kirifuda</role><person id="53699">George Castiglia</person></cast>
+<cast gid="2099078474" lang="JA"><role>Shoubu Kirifuda</role><person id="500">Yumiko Kobayashi</person></cast>
+<cast gid="4044312691" lang="JA"><role>Rekuta Kadoko</role><person id="719">Yuka Imai</person></cast>
+<cast gid="2155447197" lang="JA"><role>Sayuki Manaka</role><person id="3170">Saeko Chiba</person></cast>
+<cast gid="2435956920" lang="JA"><role>Mimi Tasogare</role><person id="4870">Saki Nakajima</person></cast>
+<cast gid="1467114157" lang="JA"><role>Hakuoh</role><person id="9961">Junko Minagawa</person></cast>
+<cast gid="2528533937" lang="PL"><role>Rekuta Kanoko</role><person id="67233">Anna Apostolakis</person></cast>
+<cast gid="1617601817" lang="PL"><role>Wojownik (Knight)</role><person id="67293">Janusz Wituch</person></cast>
+<cast gid="1633672103" lang="PL"><role>Shobu Kirifuda</role><person id="70312">Adam Pluciński</person></cast>
+<cast gid="1023996836" lang="PL"><role>Mai Kirifuda</role><person id="71160">Izabela Dąbrowska</person></cast>
+<cast gid="2806134021" lang="PL"><role>George Kamamoto</role><person id="71349">Wojciech Paszkowski</person></cast>
+<cast gid="1365684047" lang="PL"><role>Sayuki Manaka</role><person id="75516">Agnieszka Fajlhauer</person></cast>
+<cast gid="2330498339" lang="PL"><role>Mimi Tasogare</role><person id="101227">Maria Peszek</person></cast>
+<cast gid="2744296284" lang="PL"><role>Mistrz (Master)</role><person id="101228">Aleksander Wysocki</person></cast>
+<cast gid="2957306285" lang="PL"><role>Kyoshiro Kokoju</role><person id="101229">Jan Aleksandrowicz</person></cast>
+<cast gid="1175966638" lang="PL"><role>Hakuoh</role><person id="101231">Sławomir Pacek</person></cast>
+<cast gid="1979195756" lang="PT"><role>Shobu Kirifuda</role><person id="48155">Tiago Caetano</person></cast>
+<cast gid="2620608551" lang="PT"><role>Mimi Tasogare</role><person id="48157">Bárbara Lourenço</person></cast>
+<cast gid="3923760463" lang="TL"><role>Mimi Tasogare</role><person id="39030">Rona Aguilar</person></cast>
+<cast gid="570393484" lang="TL"><role>Shobu Kirifuda</role><person id="50594">Anthony Steven San Juan</person></cast>
+<credit gid="2690539600"><task>Animation Production</task><company id="176">Studio Hibari</company></credit>
+<credit gid="3437248979"><task>Animation Production</task><company id="9773">A.C.G.T</company></credit>
+<credit gid="2917826346"><task>Production</task><company id="1017">Shogakukan Productions Co., Ltd.</company></credit></anime></ann>

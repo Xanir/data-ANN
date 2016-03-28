@@ -1,0 +1,52 @@
+<ann><anime id="3586" gid="3652175627" type="movie" name="Nagagutsu Sanjūshi" precision="movie" generated-on="2016-03-27T03:57:19Z">
+<related-prev rel="sequel of" id="3799"/>
+<related-next id="3614" rel="sequel"/>
+<info gid="2195211284" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A3586-2195211284.1329751979.jpg" width="145" height="200"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A3586-2195211284.1329751979.jpg" width="145" height="200"/><img src="http://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A3586-2195211284.1329751979.jpg" width="260" height="358"/></info>
+<info gid="581927443" type="Main title" lang="JA">Nagagutsu Sanjūshi</info>
+<info gid="1143120264" type="Alternative title" lang="IT">Continuavano a chiamarlo il gatto con gli stivali</info>
+<info gid="1887183385" type="Alternative title" lang="FR">Le retour du Chat Botté</info>
+<info gid="3690422176" type="Alternative title" lang="EN">The Three Musketeers in Boots</info>
+<info gid="2860897332" type="Alternative title" lang="RU">Возвращение Кота в сапогах</info>
+<info gid="2499713680" type="Alternative title" lang="JA">ながぐつ三銃士</info>
+<info gid="2456620121" type="Genres">action</info>
+<info gid="3206476629" type="Genres">comedy</info>
+<info gid="1359293384" type="Themes">crime</info>
+<info gid="3095909825" type="Themes">gunslinger</info>
+<info gid="689790521" type="Themes">western</info>
+<info gid="4099722045" type="Objectionable content">OC</info>
+<info gid="2065427843" type="Plot Summary">Still running from the minions of the Cat Kingdom, Pero ends up in Go Go Town, a fearful place in the Wild West that desperately awaits for a sheriff to come. In this town of no law and order, Pero and a boy named Jimmy try to help Annie, daughter of a saloon owner who has just been killed.</info>
+<info gid="1515270181" type="Running time">53</info>
+<info type="Vintage">1972-03-18</info>
+<info gid="607087707" type="Premiere date">1972-03-18 (Japan)</info>
+<info gid="2591932799" type="Official website" lang="JA" href="http://www.toei-anim.co.jp/lineup/movie/movie_nagagutsu_sanjushi/">Nagagutsu Sanjūshi @ Toei Animation</info>
+<ratings nb_votes="9" weighted_score="5.6915"/>
+<staff gid="461629877"><task>Director</task><person id="8979">Tomoharu Katsumata</person></staff>
+<staff gid="2475340755"><task>Script</task><person id="21700">Hirokazu Fuse</person></staff>
+<staff gid="808276114"><task>Music</task><person id="11635">Seichiro Uno</person></staff>
+<staff gid="1667962933"><task>Original creator</task><person id="6620">Charles Perrault</person></staff>
+<staff gid="518543829"><task>Art Director</task><person id="22650">Yoshishige Endo</person></staff>
+<staff gid="1865937255"><task>Animation Director</task><person id="1539">Yasuji Mori</person></staff>
+<staff gid="1880762841"><task>Executive producer</task><person id="22290">Isamu Takahashi</person></staff>
+<cast gid="3134328072" lang="ES"><role>Annie</role><person id="50736">Luisita Soler</person></cast>
+<cast gid="2440874913" lang="ES"><role>Jimmy</role><person id="64500">Glòria Roig</person></cast>
+<cast gid="2243057380" lang="ES"><role>Bill</role><person id="67961">Maria Dolores Gispert</person></cast>
+<cast gid="2426167877" lang="ES"><role>Mayor</role><person id="69803">José Maria Angelat</person></cast>
+<cast gid="3949406977" lang="ES"><role>Boss</role><person id="70086">José Maria Alarcon</person></cast>
+<cast gid="999686036" lang="ES"><role>Jane</role><person id="124201">Elvira Jofre</person></cast>
+<cast gid="3660017165" lang="FR"><role>Pero</role><person id="56792">Philippe Bellay</person></cast>
+<cast gid="2042824294" lang="IT"><role>Killer B</role><person id="26013">Massimo Giuliani</person></cast>
+<cast gid="1042474831" lang="IT"><role>Jimmy Dickens</role><person id="26156">Roberto Chevalier</person></cast>
+<cast gid="2674143894" lang="IT"><role>Aunt Jane</role><person id="26173">Franca Dominici</person></cast>
+<cast gid="3187034667" lang="IT"><role>Pero</role><person id="26249">Sergio Tedesco</person></cast>
+<cast gid="1953307316" lang="IT"><role>Killer C</role><person id="26327">Emanuela Rossi</person></cast>
+<cast gid="2183214446" lang="IT"><role>Annie</role><person id="27159">Serena Verdirosi</person></cast>
+<cast gid="1379211056" lang="IT"><role>Mr. Mayor</role><person id="75698">Carlo Romano</person></cast>
+<cast gid="2454934187" lang="IT"><role>Santana</role><person id="128501">Memmo Carotenuto</person></cast>
+<cast gid="2523211055" lang="JA"><role>Pero</role><person id="22654">Yasushi Suzuki</person></cast>
+<cast gid="2346752588" lang="RU"><role>Pero</role><person id="69100">Andrey Miroshnikov</person></cast>
+<cast gid="1517384206" lang="RU"><role>Boss</role><person id="69110">Nickolay Shmargun</person></cast>
+<cast gid="564468551" lang="RU"><role>Annie</role><person id="69145">Yelena Simanovich</person></cast>
+<cast gid="1497793146" lang="RU"><role>Aunt Jane</role><person id="70522">Larisa Voronina</person></cast>
+<cast gid="3073241466" lang="RU"><role>Mayor</role><person id="76476">Vladislav Chernyavsky</person></cast>
+<cast gid="2106208205" lang="RU"><role>Jimmy</role><person id="85833">Stanislav Belyayev</person></cast>
+<credit gid="2116775953"><task>Production</task><company id="145">Toei Animation</company></credit></anime></ann>

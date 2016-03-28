@@ -1,0 +1,642 @@
+<ann><anime id="1461" gid="412409174" type="TV" name="Ikkyū-san" precision="TV 1975" generated-on="2016-03-27T02:38:26Z">
+<related-next id="3628" rel="side story"/>
+<info gid="3506681194" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A1461-11.jpg" width="200" height="142"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A1461-11.jpg" width="200" height="142"/><img src="http://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A1461-11.jpg" width="320" height="227"/></info>
+<info gid="1893507112" type="Main title" lang="JA">Ikkyū-san</info>
+<info gid="532832808" type="Alternative title" lang="EN">Ikkyu the Little Monk</info>
+<info gid="3162994095" type="Alternative title" lang="IT">Ikkyusan, piccolo bonzo</info>
+<info gid="1242211922" type="Alternative title" lang="RU">Иккю-сан</info>
+<info gid="2030572246" type="Alternative title" lang="AR">إيكو سان</info>
+<info gid="166306431" type="Alternative title" lang="JA">一休さん</info>
+<info gid="2997783977" type="Alternative title" lang="ZH-TW">一休和尚</info>
+<info gid="3844075454" type="Genres">comedy</info>
+<info gid="1870606882" type="Themes">historical</info>
+<info gid="2207449205" type="Objectionable content">AA</info>
+<info gid="723356714" type="Plot Summary">Ikkyu is a little boy training to be a monk at Ankokuji Temple. Known for being mischievous and a bit of a troublemaker, but also extremely smart, Ikkyu constantly thinks of new ways to outwit his frustrated teachers, helping others at the same time.</info>
+<info gid="1660559609" type="Running time">half hour</info>
+<info gid="2464553301" type="Number of episodes">296</info>
+<info gid="612714956" type="Vintage">1975-10-15 to 1982-06-28</info>
+<info gid="3063152878" type="Opening Theme">&quot;Tonchinkan-chin Ikkyuu-san&quot; (とんちんかんちん一休さん) by Megumi Aiuchi, Young Fresh</info>
+<info gid="1506064706" type="Ending Theme">&quot;Wa Wa Ue-sama&quot; (ははうえさま) by Toshiko Fujita</info>
+<info gid="2716921111" type="Official website" lang="JA" href="http://www.toei-anim.co.jp/lineup/tv/ikkyu/">一休さん @ Toei Animation</info>
+<ratings nb_votes="23" weighted_score="6.575" bayesian_score="6.9173"/>
+<episode num="1">
+<title gid="1003983639" lang="EN">The Paper Doll and Kozou-san</title></episode>
+<episode num="2">
+<title gid="2217965595" lang="EN">The Manjuu and the Mouse</title></episode>
+<episode num="3">
+<title gid="3972790492" lang="EN">The Witty Battle and Tama the Cat</title></episode>
+<episode num="4">
+<title gid="2142233316" lang="JA">Shinoji to Hito Yasumi</title></episode>
+<episode num="5">
+<title gid="1277048346" lang="JA">Take no Koto Tora Taiji</title></episode>
+<episode num="6">
+<title gid="2468660234" lang="JA">Samurai to Sen Kikumaru</title></episode>
+<episode num="7">
+<title gid="1901118171" lang="JA">Nazonazo Mondō to Yamabushi</title></episode>
+<episode num="8">
+<title gid="1603758446" lang="JA">Amidayou to Wara Kutsu</title></episode>
+<episode num="9">
+<title gid="3803939776" lang="JA">Medetaku mo Ari Medetaku mo Nashi</title></episode>
+<episode num="10">
+<title gid="1513768399" lang="JA">Rippana Ishō to Kazeyaku</title></episode>
+<episode num="11">
+<title gid="356733106" lang="JA">Surume to Yase Kaeru</title></episode>
+<episode num="12">
+<title gid="1012517433" lang="JA">Suteko to Yamiyo no Karasu</title></episode>
+<episode num="13">
+<title gid="2217767302" lang="EN">Princess Wets Her Bed</title></episode>
+<episode num="14">
+<title gid="1861331783" lang="JA">Akubi to Neko no Chawan</title></episode>
+<episode num="15">
+<title gid="680356888" lang="JA">Abareba to Jankenpon</title></episode>
+<episode num="16">
+<title gid="1467173179" lang="JA">Kechi Hyōe to Uta no Meijin</title></episode>
+<episode num="17">
+<title gid="1373149673" lang="EN">Hiccup and Peeing</title></episode>
+<episode num="18">
+<title gid="1577535045" lang="EN">A Thief and Mr. Jizō</title></episode>
+<episode num="19">
+<title gid="1775838177" lang="EN">Broken Sake Bottle and A Mother of Two</title></episode>
+<episode num="20">
+<title gid="3611627195" lang="JA">Oppai to Kyōdai Genka</title></episode>
+<episode num="21">
+<title gid="2010239792" lang="JA">Ikkyū Nattō to Harapeko Dōchū</title></episode>
+<episode num="22">
+<title gid="1869339571" lang="JA">Nawa no Wana to Warawa nu Akira Hitoshi</title></episode>
+<episode num="23">
+<title gid="210184183" lang="JA">Ki Nobori to Azuke ta Saifu</title></episode>
+<episode num="24">
+<title gid="1853720175" lang="EN">Liar and Punishment</title></episode>
+<episode num="25">
+<title gid="916408128" lang="EN">General Tōfuto's Deer</title></episode>
+<episode num="26">
+<title gid="2010176931" lang="JA">Nani nimo Nai to Tsuge no Kushi</title></episode>
+<episode num="27">
+<title gid="3196173940" lang="JA">Kikyōya-san to Omoide Banashi</title></episode>
+<episode num="28">
+<title gid="2353623960" lang="JA">Tsurai Shugyō to Oni no Oshō-san</title></episode>
+<episode num="29">
+<title gid="358123424" lang="JA">Oborodukiyo to Yayoi no Muko (Muko)</title></episode>
+<episode num="30">
+<title gid="1216509095" lang="JA">Dojō to Unagi to Hahaue-sama</title></episode>
+<episode num="31">
+<title gid="536035399" lang="JA">ohyakushou to yari no shiai</title></episode>
+<episode num="32">
+<title gid="2989360311" lang="JA">tanabata to haha no omamori</title></episode>
+<episode num="33">
+<title gid="2389317555" lang="JA">nobushi to makki no mizu</title></episode>
+<episode num="34">
+<title gid="1911865242" lang="JA">takeuma to takaramono</title></episode>
+<episode num="35">
+<title gid="2688577355" lang="JA">akudaikan to obake tera</title></episode>
+<episode num="36">
+<title gid="3036009077" lang="JA">chiisana shijimi to ookina itachi</title></episode>
+<episode num="37">
+<title gid="1539240050" lang="JA">yowai shin migie mon to tsuyoi hanayome</title></episode>
+<episode num="38">
+<title gid="3008475513" lang="JA">gaman ato kimodameshi kai</title></episode>
+<episode num="39">
+<title gid="1194047711" lang="JA">koukou mochi to hyaku me ROUSOKU</title></episode>
+<episode num="40">
+<title gid="3813862764" lang="JA">samurai to ike no koi</title></episode>
+<episode num="41">
+<title gid="3071707480" lang="JA">ichipai no ocha torippana goten</title></episode>
+<episode num="42">
+<title gid="1798615787" lang="JA">nakanu karasu to hotoke-sama</title></episode>
+<episode num="43">
+<title gid="923593174" lang="JA">oomizu to kanningu</title></episode>
+<episode num="44">
+<title gid="703709676" lang="JA">kieta teruteru bouzu</title></episode>
+<episode num="45">
+<title gid="2584648803" lang="JA">kiku no hana to omanjuu no kataware</title></episode>
+<episode num="46">
+<title gid="2589015360" lang="JA">shougun-sama to makiwari</title></episode>
+<episode num="47">
+<title gid="1842859443" lang="JA">sakai no machi to nise ikkyuu</title></episode>
+<episode num="48">
+<title gid="3654465846" lang="JA">kaji to kieta butsuzou</title></episode>
+<episode num="49">
+<title gid="2709401728" lang="JA">hyoutan to oie soudou</title></episode>
+<episode num="50">
+<title gid="3575255422" lang="JA">fushigi na doubutsu to abunai hashi</title></episode>
+<episode num="51">
+<title gid="3320482025" lang="JA">ikkyuu to shin migie mon uta kurabe</title></episode>
+<episode num="52">
+<title gid="1335893558" lang="JA">kitsune to takara sagashi</title></episode>
+<episode num="53">
+<title gid="3799056658" lang="JA">tonchi fuuji to toshi no kure</title></episode>
+<episode num="54">
+<title gid="920937896" lang="JA">tsuyoi shin migie mon to itoshii hime</title></episode>
+<episode num="55">
+<title gid="1949232997" lang="JA">nigeta tori to yancha hime</title></episode>
+<episode num="56">
+<title gid="3312972214" lang="JA">ganko jii-san to yasashii shin migie mon</title></episode>
+<episode num="57">
+<title gid="2728780184" lang="JA">meishin to karasu no ongaeshi</title></episode>
+<episode num="58">
+<title gid="2665728661" lang="JA">kaminingyou to ume no hana</title></episode>
+<episode num="59">
+<title gid="1712618044" lang="JA">tobanai torito shakkin tori</title></episode>
+<episode num="60">
+<title gid="2616409824" lang="JA">oshaberi ningyou to oinari-san</title></episode>
+<episode num="61">
+<title gid="858636467" lang="JA">fusuma e to koi no taki nobori</title></episode>
+<episode num="62">
+<title gid="3153311009" lang="JA">kamonegi to tonchi shougun</title></episode>
+<episode num="63">
+<title gid="3894440887" lang="JA">nigedashi tagochisou to sakura no hana</title></episode>
+<episode num="64">
+<title gid="3442306701" lang="JA">uekibachi to komedawara</title></episode>
+<episode num="65">
+<title gid="3019483801" lang="JA">yancha hime to hadaka no matsu no ki</title></episode>
+<episode num="66">
+<title gid="3256262684" lang="JA">suterareta ko to uso kurabe</title></episode>
+<episode num="67">
+<title gid="2706212491" lang="JA">amanojaku kassen to hanayome-san</title></episode>
+<episode num="68">
+<title gid="3743041654" lang="JA">sugi no kabutoto ori kami oshou</title></episode>
+<episode num="69">
+<title gid="1701029843" lang="JA">kin no butsuzou to shougun no okurimono</title></episode>
+<episode num="70">
+<title gid="1546364745" lang="JA">nin saraito oneko-sama</title></episode>
+<episode num="71">
+<title gid="3391611645" lang="JA">hitori kagoto juuroku nabe</title></episode>
+<episode num="72">
+<title gid="2863919750" lang="JA">daiji na higeto oshou-san</title></episode>
+<episode num="73">
+<title gid="1431182387" lang="JA">shakkin to shin migie mon no osabaki</title></episode>
+<episode num="74">
+<title gid="1243613231" lang="JA">yancha hime to taikutsu shougun</title></episode>
+<episode num="75">
+<title gid="2374039029" lang="JA">ikkyuu no omoiyari to eiheiji</title></episode>
+<episode num="76">
+<title gid="2321799225" lang="JA">karita okin to tonchi hako</title></episode>
+<episode num="77">
+<title gid="1244120314" lang="JA">sayochan to enmusubi</title></episode>
+<episode num="78">
+<title gid="2597549262" lang="JA">yancha hime to kanaduchi ikkyuu</title></episode>
+<episode num="79">
+<title gid="3516885048" lang="JA">mawaru tamago to fushigi na koma</title></episode>
+<episode num="80">
+<title gid="2477329486" lang="JA">asagao to ippai no mizu</title></episode>
+<episode num="81">
+<title gid="1699681444" lang="JA">osekkyou to gaman kurabe</title></episode>
+<episode num="82">
+<title gid="2139511230" lang="JA">INKO to sen tou kuyou</title></episode>
+<episode num="83">
+<title gid="901013109" lang="JA">dango to okashi na tegami</title></episode>
+<episode num="84">
+<title gid="280277698" lang="JA">daikon mondou to ichinichi oshou</title></episode>
+<episode num="85">
+<title gid="3437667062" lang="JA">koyori to monogusa roku jo</title></episode>
+<episode num="86">
+<title gid="1433089757" lang="JA">shirake maro to yancha hime</title></episode>
+<episode num="87">
+<title gid="3733012323" lang="JA">kechi oshou to ichibun sen</title></episode>
+<episode num="88">
+<title gid="2393943130" lang="JA">kaitou to ryuu no namida ishi</title></episode>
+<episode num="89">
+<title gid="2706911303" lang="JA">gochisou to ikiteru kasa</title></episode>
+<episode num="90">
+<title gid="2404326943" lang="JA">ame morito te ou kuruma</title></episode>
+<episode num="91">
+<title gid="1768451560" lang="JA">hebi to matsu take dorobou</title></episode>
+<episode num="92">
+<title gid="2286699957" lang="JA">motemote yayoi to dekoboko ikkyuu</title></episode>
+<episode num="93">
+<title gid="2160319720" lang="JA">ijiwaru kikyou ya to taoreta ikkyuu</title></episode>
+<episode num="94">
+<title gid="2807190278" lang="JA">GIYAMAN no tsubo to ichi shaku no ita</title></episode>
+<episode num="95">
+<title gid="1663293791" lang="JA">gaikotsu to somuita ikkyuu</title></episode>
+<episode num="96">
+<title gid="1006558529" lang="JA">meishin to ryuu no okurimono</title></episode>
+<episode num="97">
+<title gid="1614665151" lang="JA">hatsuyuki to sanbiki no koinu</title></episode>
+<episode num="98">
+<title gid="867045005" lang="JA">ganko jii-san to inu no ongaeshi</title></episode>
+<episode num="99">
+<title gid="1459495834" lang="JA">ooki na uso to ooki na okurimono</title></episode>
+<episode num="100">
+<title gid="1560694959" lang="JA">ikkyuu no hatsuyume to yancha hime</title></episode>
+<episode num="101">
+<title gid="606134499" lang="JA">nitou no uma to nouaru taka</title></episode>
+<episode num="102">
+<title gid="721113568" lang="JA">mura no hikkoshi to yama no hikkoshi</title></episode>
+<episode num="103">
+<title gid="209007016" lang="JA">yuki daruma to hirotta saifu</title></episode>
+<episode num="104">
+<title gid="1997318808" lang="JA">nagai warajito kyoudai genka</title></episode>
+<episode num="105">
+<title gid="2577408774" lang="JA">hiru chouchin to kuroi mikan</title></episode>
+<episode num="106">
+<title gid="1837595529" lang="JA">kenjutsu to chikara kurabe</title></episode>
+<episode num="107">
+<title gid="1556276244" lang="JA">ooki na tsubo to kanchigai</title></episode>
+<episode num="108">
+<title gid="3711269338" lang="JA">tonchi kurabe to omoi yari</title></episode>
+<episode num="109">
+<title gid="2151755318" lang="JA">urareta kenka to dai oyabun</title></episode>
+<episode num="110">
+<title gid="2316740753" lang="JA">noserareta fune to nigirimeshi</title></episode>
+<episode num="111">
+<title gid="40827783" lang="JA">tonchi shougun to nanban tokei</title></episode>
+<episode num="112">
+<title gid="1680913850" lang="JA">ohanami to hirotta okin</title></episode>
+<episode num="113">
+<title gid="2331841201" lang="JA">uno ryouri to karakasa renhan</title></episode>
+<episode num="114">
+<title gid="1512472802" lang="JA">bikkuri hako to chiguhagu sannintabi</title></episode>
+<episode num="115">
+<title gid="2487585315" lang="JA">uma to ofuro to shoubu no sekku</title></episode>
+<episode num="116">
+<title gid="2752777733" lang="JA">yancha hime to asobi aite</title></episode>
+<episode num="117">
+<title gid="454419949" lang="JA">sakadachi to chikara jiman</title></episode>
+<episode num="118">
+<title gid="3038918421" lang="JA">uma no kaku to takusan no onigiri</title></episode>
+<episode num="119">
+<title gid="2668017389" lang="JA">kaminari-sama to onesho ikkyuu</title></episode>
+<episode num="120">
+<title gid="1690651761" lang="JA">shin migie mon to hime no itoshisa</title></episode>
+<episode num="121">
+<title gid="102197877" lang="JA">yayoi-san to furui shoumon</title></episode>
+<episode num="122">
+<title gid="1476290620" lang="JA">unubore jaku-kun to tentsukuten</title></episode>
+<episode num="123">
+<title gid="2431650739" lang="JA">ugokanu koshi to ugoita e</title></episode>
+<episode num="124">
+<title gid="2669310708" lang="JA">ame ga eru to nokotta ichibun</title></episode>
+<episode num="125">
+<title gid="3097942935" lang="JA">dai dorobou to tonchi oshou</title></episode>
+<episode num="126">
+<title gid="1789636407" lang="JA">yasui kimono to takai in</title></episode>
+<episode num="127">
+<title gid="1393069040" lang="JA">dochite bouya to teruteru bouzu</title></episode>
+<episode num="128">
+<title gid="2215492794" lang="JA">wagamama shougun to shou saru no kenjutsu</title></episode>
+<episode num="129">
+<title gid="3700427939" lang="JA">yancha hime to yayoi no koukou</title></episode>
+<episode num="130">
+<title gid="1545143923" lang="JA">atsui sakamichi to hiyaase shougun</title></episode>
+<episode num="131">
+<title gid="2788476133" lang="JA">suika dorobou to mei saiban</title></episode>
+<episode num="132">
+<title gid="2587738797" lang="JA">hotaru hi to maboroshi no hime</title></episode>
+<episode num="133">
+<title gid="1601315750" lang="JA">haha no nai ko to wataridori</title></episode>
+<episode num="134">
+<title gid="2304977111" lang="JA">tonari no hana to kodomo no kenka</title></episode>
+<episode num="135">
+<title gid="1138835386" lang="JA">karakuri ningyou to oni no men</title></episode>
+<episode num="136">
+<title gid="2424589657" lang="JA">yancha hime to gouketsu akachan</title></episode>
+<episode num="137">
+<title gid="3617411149" lang="JA">nihiki no neko to isogaba maware</title></episode>
+<episode num="138">
+<title gid="1908430638" lang="JA">manga roujin to hiyoko no ikkyuu</title></episode>
+<episode num="139">
+<title gid="1880023325" lang="JA">dochite bouya to dochite soudou</title></episode>
+<episode num="140">
+<title gid="1244026067" lang="JA">kaze shougun to mizu ni natta taka</title></episode>
+<episode num="141">
+<title gid="2755777067" lang="JA">kikyouya-san to hitotasu ichi</title></episode>
+<episode num="142">
+<title gid="2470198443" lang="JA">minna no tonchi to onsen tabi</title></episode>
+<episode num="143">
+<title gid="2508905430" lang="JA">yoru fukashi shougun to ikkyuu no ryou kusuri</title></episode>
+<episode num="144">
+<title gid="2765838120" lang="JA">ikarinbo shougun to waratta inu</title></episode>
+<episode num="145">
+<title gid="2068896006" lang="JA">bugyou no shiken to tonda touan</title></episode>
+<episode num="146">
+<title gid="2743739312" lang="JA">kechi shougun to mochitsuki taikai</title></episode>
+<episode num="147">
+<title gid="589979007" lang="JA">yancha hime to kieta shougun</title></episode>
+<episode num="148">
+<title gid="3728491715" lang="JA">kin no naru ki to yopparai</title></episode>
+<episode num="149">
+<title gid="2686274518" lang="JA">dochite bouya to yancha hime</title></episode>
+<episode num="150">
+<title gid="3563891627" lang="JA">oneko-sama to hige soudou</title></episode>
+<episode num="151">
+<title gid="3719347258" lang="JA">onna rashisa to otoko rashisa</title></episode>
+<episode num="152">
+<title gid="1576903985" lang="JA">oumi hakkei to kuchi wa wazawai no moto</title></episode>
+<episode num="153">
+<title gid="2690165224" lang="JA">shoubu no oni to tonchi tsurugi hou</title></episode>
+<episode num="154">
+<title gid="2251168578" lang="JA">hina ningyou to teruteru bouzu</title></episode>
+<episode num="155">
+<title gid="1244585507" lang="JA">yukionna to nin sarai</title></episode>
+<episode num="156">
+<title gid="2660926444" lang="JA">ichinichi oyakunin to ikkyuu ningyou</title></episode>
+<episode num="157">
+<title gid="1826147080" lang="JA">shougun-sama to oshuku mochi</title></episode>
+<episode num="158">
+<title gid="1975305572" lang="JA">yancha hime to osumashi hime</title></episode>
+<episode num="159">
+<title gid="2268551461" lang="JA">hana matsuri to soumen</title></episode>
+<episode num="160">
+<title gid="2523652604" lang="JA">yoku bari sokona to kutabiremouke</title></episode>
+<episode num="161">
+<title gid="3763797660" lang="JA">sayo no hanayome-san to hanayome no haha</title></episode>
+<episode num="162">
+<title gid="466326893" lang="JA">undoukai to shou bouzu-tachi</title></episode>
+<episode num="163">
+<title gid="857947358" lang="JA">(一休旅日記東海道編) 長いじゅずと損した一文</title></episode>
+<episode num="164">
+<title gid="539947979" lang="JA">(一休旅日記東海道編) るす番将軍といじわる問答</title></episode>
+<episode num="165">
+<title gid="1491496480" lang="JA">(一休旅日記東海道編) 鎌倉とさよのそっくりさん</title></episode>
+<episode num="166">
+<title gid="1101776546" lang="JA">kaetta ikkyuu to kieta yancha hime</title></episode>
+<episode num="167">
+<title gid="1172587717" lang="JA">musume hitori to muko sannin</title></episode>
+<episode num="168">
+<title gid="2778745984" lang="JA">yasui kujaku to kami ni tsutsunda hi</title></episode>
+<episode num="169">
+<title gid="1034670896" lang="JA">yancha hime to uzu shiosai dou</title></episode>
+<episode num="170">
+<title gid="2320846152" lang="JA">hirotta kodomo to dougoonsen</title></episode>
+<episode num="171">
+<title gid="3647050666" lang="JA">biwa houshi to genpei kassen</title></episode>
+<episode num="172">
+<title gid="2215502534" lang="JA">&quot;一休旅日記 九州編&quot; 地獄坂と天神さま</title></episode>
+<episode num="173">
+<title gid="3301319788" lang="JA">miyagebanashi to shaberu kuma</title></episode>
+<episode num="174">
+<title gid="807489223" lang="JA">taikutsu shougun to usomo houben</title></episode>
+<episode num="175">
+<title gid="1887996519" lang="JA">jigoku no mouja to kama yude shougun</title></episode>
+<episode num="176">
+<title gid="2754396745" lang="JA">shougun-sama to natsuyasumi</title></episode>
+<episode num="177">
+<title gid="1995025626" lang="JA">yancha hime to yancha maru</title></episode>
+<episode num="178">
+<title gid="620469930" lang="JA">mikka bouzuto mizu asobi</title></episode>
+<episode num="179">
+<title gid="2957113314" lang="JA">meiwaku shougun to wareta chawan</title></episode>
+<episode num="180">
+<title gid="3562650495" lang="JA">shuunen-san to koibumi soudou</title></episode>
+<episode num="181">
+<title gid="2446543130" lang="JA">shougun-sama to damashi kassen</title></episode>
+<episode num="182">
+<title gid="2521992598" lang="JA">hahaue-sama to son shitatonchi</title></episode>
+<episode num="183">
+<title gid="815344129" lang="JA">mokunen-san to yamabushi soudou</title></episode>
+<episode num="184">
+<title gid="2251280761" lang="JA">tengu no ikkyuu to shougun no chousen</title></episode>
+<episode num="185">
+<title gid="2694068972" lang="JA">ame mori to TONCHI shigure</title></episode>
+<episode num="186">
+<title gid="1031967393" lang="JA">nazo uta to kui shinbo chin nen</title></episode>
+<episode num="187">
+<title gid="1495667253" lang="JA">tora to hashi to bakasareta shougun</title></episode>
+<episode num="188">
+<title gid="2280791186" lang="JA">yancha hime to komachi kassen</title></episode>
+<episode num="189">
+<title gid="2603551305" lang="JA">umare kawari to hon wo yomu neko</title></episode>
+<episode num="190">
+<title gid="2282081168" lang="JA">futari ikkyuu to nisemono sawagi</title></episode>
+<episode num="191">
+<title gid="2729158691" lang="JA">takai kaimono to tonchi tsuukouryou</title></episode>
+<episode num="192">
+<title gid="1311679129" lang="JA">ikatta TAMA to kikyou ya no nakittsura</title></episode>
+<episode num="193">
+<title gid="2913412810" lang="JA">sarawareta yayoi to kaminari no dassou</title></episode>
+<episode num="194">
+<title gid="2189236589" lang="JA">obaa-chan to zukkoke ikkyuu</title></episode>
+<episode num="195">
+<title gid="3735365178" lang="JA">samugari shougun to ikkyuu daruma</title></episode>
+<episode num="196">
+<title gid="1070783821" lang="JA">wakerarenai uma to tonchi no oshie</title></episode>
+<episode num="197">
+<title gid="1738770861" lang="JA">dorobouto naita ribee</title></episode>
+<episode num="198">
+<title gid="793705737" lang="JA">yancha hime to uwasa banashi</title></episode>
+<episode num="199">
+<title gid="1433314019" lang="JA">kin no butsuzou to furareta shuunen</title></episode>
+<episode num="200">
+<title gid="3803606240" lang="JA">shin migie mon no shippai to hadakanbo shougun</title></episode>
+<episode num="201">
+<title gid="2776137062" lang="JA">shiminuki to nagurareta shougun</title></episode>
+<episode num="202">
+<title gid="485898722" lang="JA">abare mono to shin migie mon no yuuki</title></episode>
+<episode num="203">
+<title gid="2444853724" lang="JA">yokubari kikyou ya to damasareta shougun</title></episode>
+<episode num="204">
+<title gid="1310479299" lang="JA">muyou no you to shou bouzu-san</title></episode>
+<episode num="205">
+<title gid="2438533114" lang="JA">sokkuri-san to shibarareta shougun</title></episode>
+<episode num="206">
+<title gid="1674664900" lang="JA">ohanami to kechinbo shougun</title></episode>
+<episode num="207">
+<title gid="1539853201" lang="JA">nigeta unagi to oboreta KAPPA</title></episode>
+<episode num="208">
+<title gid="3154333950" lang="JA">itoshii hime to omiai soudou</title></episode>
+<episode num="209">
+<title gid="928850422" lang="JA">yancha hime to hanayome shugyou</title></episode>
+<episode num="210">
+<title gid="2309149304" lang="JA">inu shougun to kikyou ya tanuki</title></episode>
+<episode num="211">
+<title gid="1216900427" lang="JA">biwa no tatari to kabureta shougun</title></episode>
+<episode num="212">
+<title gid="1222341190" lang="JA">sayo no namida to kin no hato</title></episode>
+<episode num="213">
+<title gid="2088503296" lang="JA">yayoi no endan to yakimochi shuunen</title></episode>
+<episode num="214">
+<title gid="1890758005" lang="JA">moji gusari to shougun no omamori</title></episode>
+<episode num="215">
+<title gid="2998749361" lang="JA">tenchuusatsu to okashi na tori</title></episode>
+<episode num="216">
+<title gid="2954172185" lang="JA">otoshita ougi to akai kumo</title></episode>
+<episode num="217">
+<title gid="2106910090" lang="JA">kakejiku to kieta hakuba</title></episode>
+<episode num="218">
+<title gid="2342550889" lang="JA">bugyou irazu to son shita kikyou ya</title></episode>
+<episode num="219">
+<title gid="266567624" lang="JA">sanba no tori to ahou tori</title></episode>
+<episode num="220">
+<title gid="2682472188" lang="JA">yancha hime to harikiri shougun</title></episode>
+<episode num="221">
+<title gid="1014844749" lang="JA">takara no tsubo to orochi yama</title></episode>
+<episode num="222">
+<title gid="1107950978" lang="JA">kojitsuke shougun to herikutsu ikkyuu</title></episode>
+<episode num="223">
+<title gid="1627513536" lang="JA">akikaze tomi hotoke no inai jin nen</title></episode>
+<episode num="224">
+<title gid="1926542131" lang="JA">warai tamashii tan to nise shounin</title></episode>
+<episode num="225">
+<title gid="709117666" lang="JA">itazura saru to henshin usagi</title></episode>
+<episode num="226">
+<title gid="1286680800" lang="JA">biwako no namazu to hinan fukuro</title></episode>
+<episode num="227">
+<title gid="817484615" lang="JA">neko BABA shougun to ikkyuu uchiwa</title></episode>
+<episode num="228">
+<title gid="1501844668" lang="JA">yancha hime to kari ire no aki</title></episode>
+<episode num="229">
+<title gid="2247043470" lang="JA">oko-sama ryoukin to GOMI shougun</title></episode>
+<episode num="230">
+<title gid="2529316647" lang="JA">oyakoukou to kurabe uma</title></episode>
+<episode num="231">
+<title gid="3589710658" lang="JA">INKO to hoshigari shougun</title></episode>
+<episode num="232">
+<title gid="2995804406" lang="JA">satogaeri to minna no omoiyari</title></episode>
+<episode num="233">
+<title gid="2016165740" lang="JA">oshougatsu to yancha hime</title></episode>
+<episode num="234">
+<title gid="3278494142" lang="JA">tsukikuni no shisetsu to rou daiku</title></episode>
+<episode num="235">
+<title gid="1920007512" lang="JA">ganko oshou to takenoko shougun</title></episode>
+<episode num="236">
+<title gid="1424195764" lang="JA">oshaberi kusuri to tonchi manjuu</title></episode>
+<episode num="237">
+<title gid="2305401186" lang="JA">ooyuki to sayonokushi</title></episode>
+<episode num="238">
+<title gid="2267871241" lang="JA">tonchi mondou to shougun-sama no jikihitsu</title></episode>
+<episode num="239">
+<title gid="3047373707" lang="JA">shitsuke to futari no yancha hime</title></episode>
+<episode num="240">
+<title gid="1729768199" lang="JA">namake shougun to jidou ashibumi utsuwa</title></episode>
+<episode num="241">
+<title gid="2038145204" lang="JA">hina matsuri to koboreta shirozake</title></episode>
+<episode num="242">
+<title gid="2580916078" lang="JA">mokuba to shibarareta shougun</title></episode>
+<episode num="243">
+<title gid="2100193310" lang="JA">nise hanamuko to kieta JUZU</title></episode>
+<episode num="244">
+<title gid="4196287664" lang="JA">taikutsu shougun to mienai kenjou hin</title></episode>
+<episode num="245">
+<title gid="1178498864" lang="JA">dai dorobou to yuki no misshitsu</title></episode>
+<episode num="246">
+<title gid="1961548776" lang="JA">hanami sake to yoi dore isha</title></episode>
+<episode num="247">
+<title gid="2717862648" lang="JA">gomakashita kikyou ya to saru no shikaeshi</title></episode>
+<episode num="248">
+<title gid="2380423307" lang="JA">yume no suibokuga to tonchi kassen</title></episode>
+<episode num="249">
+<title gid="1012902859" lang="JA">sumi tsukurito kikyou ya no kaishime</title></episode>
+<episode num="250">
+<title gid="2324105436" lang="JA">yancha hime to tsuppari wakasama</title></episode>
+<episode num="251">
+<title gid="1724243044" lang="JA">ran no hana to shougun no okurimono</title></episode>
+<episode num="252">
+<title gid="1815853244" lang="JA">akai funa to ire satsu shougun</title></episode>
+<episode num="253">
+<title gid="2167221417" lang="JA">tonchi musume to ashi tegaki</title></episode>
+<episode num="254">
+<title gid="3025793334" lang="JA">nigeta taka to tonchi fue</title></episode>
+<episode num="255">
+<title gid="3207154272" lang="JA">dadatsu ko shougun to kamisori ikkyuu</title></episode>
+<episode num="256">
+<title gid="2549933666" lang="JA">uso to yonin no yancha hime</title></episode>
+<episode num="257">
+<title gid="52767857" lang="JA">ichinichi youjo to nendo asobi</title></episode>
+<episode num="258">
+<title gid="3346795634" lang="JA">sora to buusagi to otsuki-sama</title></episode>
+<episode num="259">
+<title gid="2741798614" lang="JA">nagurare sokona to ikkyuu sabaki</title></episode>
+<episode num="260">
+<title gid="1175070220" lang="JA">hitotsu ie to arashi no michi yuki</title></episode>
+<episode num="261">
+<title gid="666121904" lang="JA">shiro oni to chiisa na satogaeri</title></episode>
+<episode num="262">
+<title gid="2028226681" lang="JA">hannin sagashi to yasuuri kassen</title></episode>
+<episode num="263">
+<title gid="1028304196" lang="JA">enrai no kyaku to komatta oshou</title></episode>
+<episode num="264">
+<title gid="2289738495" lang="JA">shuu nen no tonchi to shichifukujin touzoku</title></episode>
+<episode num="265">
+<title gid="1309859447" lang="JA">gametsui ga kago ya tokutabire son</title></episode>
+<episode num="266">
+<title gid="3413692138" lang="JA">aku nori shin migie mon to tenkiyohou</title></episode>
+<episode num="267">
+<title gid="1778526243" lang="JA">danjiki kurabe to ayamatta shougun</title></episode>
+<episode num="268">
+<title gid="2739071176" lang="JA">niwatori no tamago to shougun notakurami</title></episode>
+<episode num="269">
+<title gid="3747658400" lang="JA">akari to kemuri nimakareta kikyou ya</title></episode>
+<episode num="270">
+<title gid="2728791170" lang="JA">chichi to musume no mei sabaki</title></episode>
+<episode num="271">
+<title gid="1031473539" lang="JA">kaizoku to juunenme no yuujou</title></episode>
+<episode num="272">
+<title gid="3235722007" lang="JA">yancha hime to matsu hime-sama</title></episode>
+<episode num="273">
+<title gid="1092720179" lang="JA">hayari kaze to ikkyuu daimyoujin</title></episode>
+<episode num="274">
+<title gid="2401720465" lang="JA">yancha hime to muchakucha shugyou</title></episode>
+<episode num="275">
+<title gid="3078528278" lang="JA">kuchi no kikenai sayo to kanchigai</title></episode>
+<episode num="276">
+<title gid="2760392288" lang="JA">shougun no mizu to ido ni ochita neko</title></episode>
+<episode num="277">
+<title gid="1868468767" lang="JA">oshou you no tonchi to ikkyuu-tachi</title></episode>
+<episode num="278">
+<title gid="1093223843" lang="JA">ooyuki to yoku bari kikyou ya</title></episode>
+<episode num="279">
+<title gid="1083405651" lang="JA">oroshita kanban to shougun no yume</title></episode>
+<episode num="280">
+<title gid="2117768482" lang="JA">iki kaetta kikyou ya to yabutta shoumon</title></episode>
+<episode num="281">
+<title gid="2290294220" lang="JA">ikatta shin migie mon to KUBIKIRI shougun</title></episode>
+<episode num="282">
+<title gid="1360238533" lang="JA">asaichi to ookii ichi tsubo</title></episode>
+<episode num="283">
+<title gid="2705211734" lang="JA">onesho to shin migie mon no chie</title></episode>
+<episode num="284">
+<title gid="2718419816" lang="JA">yancha hime to kasu no utage</title></episode>
+<episode num="285">
+<title gid="2391288721" lang="JA">shougun no neko to namen na yo</title></episode>
+<episode num="286">
+<title gid="2625620498" lang="JA">noboseta kikyou ya to omoi chigai</title></episode>
+<episode num="287">
+<title gid="2866896581" lang="JA">ikkyuu to koya to meutsuri biyoubu</title></episode>
+<episode num="288">
+<title gid="2684344802" lang="JA">arukenai kodomo to hahaue no imashime</title></episode>
+<episode num="289">
+<title gid="2937787243" lang="JA">yayoi no muko to yakimochi shuunen</title></episode>
+<episode num="290">
+<title gid="2181399867" lang="JA">mugi kari to soko no nai oke</title></episode>
+<episode num="291">
+<title gid="2186652727" lang="JA">nakatagai no shin migie mon to matsu hime-sama</title></episode>
+<episode num="292">
+<title gid="3235682351" lang="JA">kai kui to yancha hime</title></episode>
+<episode num="293">
+<title gid="1801472333" lang="JA">amamori tera to omowanu taikin</title></episode>
+<episode num="294">
+<title gid="2279085379" lang="JA">kogetago meshi to yakimochi ikkyuu</title></episode>
+<episode num="295">
+<title gid="2754561747" lang="JA">rou ni itsutta shin migie mon to ikkyuu no shikaeshi</title></episode>
+<episode num="296">
+<title gid="2680185111" lang="JA">haha yo ! tomo yo ! ankokuji yo ! sayounara</title></episode>
+<news datetime="2005-09-23T17:39:30Z" href="http://www.animenewsnetwork.com/news/2005-09-23/tv-asahi-top-100-anime">TV Asahi Top 100 Anime</news>
+<news datetime="2005-09-23T20:38:14Z" href="http://www.animenewsnetwork.com/news/2005-09-23/tv-asahi-top-100-anime-part-2">TV Asahi Top 100 Anime Part 2</news>
+<news datetime="2006-10-12T21:45:00Z" href="http://www.animenewsnetwork.com/news/2006-10-13/japans-favorite-tv-anime">Japan's Favorite TV Anime</news>
+<news datetime="2010-06-23T07:00:00Z" href="http://www.animenewsnetwork.com/news/2010-06-23/toei-shanghai-media-group-animate-new-ikkyu-san-film">Toei, Shanghai Media Group Animate New &lt;cite&gt;Ikkyū-san&lt;/cite&gt; Film</news>
+<news datetime="2011-05-11T05:00:00Z" href="http://www.animenewsnetwork.com/news/2011-05-11/moomin-song-composer-seichiro-uno-passes-away">&lt;cite&gt;Moomin&lt;/cite&gt; Song Composer Seichiro Uno Passes Away</news>
+<news datetime="2011-09-26T16:00:00Z" href="http://www.animenewsnetwork.com/news/2011-09-26/ikkyu-san-anime-promotes-kyoto-tourism-in-3-languages">&lt;cite&gt;Ikkyu-san&lt;/cite&gt; Anime Promotes Kyoto Tourism in 3 Languages</news>
+<staff gid="3138459407"><task>Chief Director</task><person id="7284">Kimio Yabuki</person></staff>
+<staff gid="1111409429"><task>Director</task><person id="3220">Hideo Furusawa</person></staff>
+<staff gid="2368089669"><task>Director</task><person id="6354">Tetsuo Imazawa</person></staff>
+<staff gid="3576313013"><task>Director</task><person id="7284">Kimio Yabuki</person></staff>
+<staff gid="2732762533"><task>Script</task><person id="3340">Hisao Ôkawa</person></staff>
+<staff gid="1047334395"><task>Script</task><person id="5555">Keisuke Fujikawa</person></staff>
+<staff gid="2400122117"><task>Script</task><person id="5776">Masaki Tsuji</person></staff>
+<staff gid="3365988729"><task>Script</task><person id="5814">Tatsuo Tamura</person></staff>
+<staff gid="1476456898"><task>Script</task><person id="8985">Hiroyasu Yamaura</person></staff>
+<staff gid="1936612930"><task>Script</task><person id="13332">Tadaki Yamazaki</person></staff>
+<staff gid="1576302557"><task>Script</task><person id="19572">Junji Tashiro</person></staff>
+<staff gid="3391289433"><task>Script</task><person id="21432">Tomomi Tsutsui</person></staff>
+<staff gid="1014018084"><task>Music</task><person id="11635">Seichiro Uno</person></staff>
+<staff gid="2504458506"><task>Original creator</task><person id="7283">Hisashi Sakaguchi</person></staff>
+<staff gid="2357302562"><task>Character Design</task><person id="7281">Hiroshi Wagatsuma</person></staff>
+<staff gid="315293214"><task>Character Design</task><person id="7282">Megumu Ishiguro</person></staff>
+<staff gid="2666729650"><task>Art Director</task><person id="22306">Isamu Kageyama</person></staff>
+<staff gid="3687807602"><task>Animation Director</task><person id="28189">Yasunori Ishii</person></staff>
+<cast gid="131552106" lang="JA"><role>Ikkyu</role><person id="1668">Toshiko Fujita</person></cast>
+<cast gid="2654426111" lang="JA"><role>Sayo-chan</role><person id="3557">Reiko Katsura</person></cast>
+<cast gid="1696828161" lang="JA"><role>Shuunen</role><person id="7674">Sanji Hase</person></cast>
+<credit gid="1959377246"><task>Production</task><company id="145">Toei Animation</company></credit>
+<credit gid="734211106"><task>Production</task><company id="160">TV Asahi</company></credit></anime></ann>

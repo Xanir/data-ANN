@@ -1,0 +1,57 @@
+<ann><anime id="4149" gid="2277046717" type="OAV" name="Mobile Suit SD Gundam: SD Gundam Legend" precision="OAV" generated-on="2016-03-27T02:45:15Z">
+<related-prev rel="part of" id="2923"/>
+<info gid="2221432053" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A4149-15.jpg" width="200" height="137"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A4149-15.jpg" width="200" height="137"/></info>
+<info gid="906908185" type="Main title" lang="EN">Mobile Suit SD Gundam: SD Gundam Legend</info>
+<info gid="2964000734" type="Alternative title" lang="JA">SD Gundam Gaiden</info>
+<info gid="3680405446" type="Alternative title" lang="EN">SD Gundam Sidestory</info>
+<info gid="2337677048" type="Alternative title" lang="JA">機動戦士SDガンダム ＳＤガンダム外伝</info>
+<info gid="1060679057" type="Genres">action</info>
+<info gid="2152822985" type="Genres">adventure</info>
+<info gid="1985189460" type="Genres">fantasy</info>
+<info gid="2371236544" type="Themes">mecha</info>
+<info gid="2529249153" type="Running time">28</info>
+<info gid="2787522727" type="Number of episodes">4</info>
+<info type="Vintage">1990-03-25</info>
+<ratings nb_votes="23" weighted_score="5.5799" bayesian_score="6.28154"/>
+<episode num="1">
+<title gid="1713555599" lang="EN">The Hero of Lacroa</title></episode>
+<episode num="2">
+<title gid="2901593100" lang="EN">The Giant of Legends</title></episode>
+<episode num="3">
+<title gid="1286247916" lang="EN">The Algas Knights</title></episode>
+<episode num="4">
+<title gid="1235628083" lang="EN">The Knight of Light</title></episode>
+<news datetime="2015-05-20T16:30:00Z" href="http://www.animenewsnetwork.com:/news/2015-05-20/super-robot-wars-bx-unveiled-with-mecha-from-16-anime/.88376">&lt;cite&gt;Super Robot Wars BX&lt;/cite&gt; Unveiled With Mecha From 16 Anime</news>
+<staff gid="2174757876"><task>Director</task><person id="961">Tetsuro Amino</person></staff>
+<staff gid="1440167688"><task>Script</task><person id="961">Tetsuro Amino</person></staff>
+<staff gid="1849429844"><task>Episode Director</task><person id="6593">Shinji Takamatsu</person></staff>
+<staff gid="839663918"><task>Music</task><person id="54189">Tohru Okada</person></staff>
+<staff gid="2353532955"><task>Original creator</task><person id="19">Hajime Yatate</person></staff>
+<staff gid="1977686840"><task>Original creator</task><person id="100">Yoshiyuki Tomino</person></staff>
+<staff gid="2863919044"><task>Character Design</task><person id="13831">Akitoshi Yokoyama</person></staff>
+<staff gid="1430872390"><task>Art Director</task><person id="18">Shigemi Ikeda</person></staff>
+<staff gid="580256081"><task>Art Director</task><person id="11864">Yoichi Yajima</person></staff>
+<staff gid="363628309"><task>Animation Director</task><person id="13831">Akitoshi Yokoyama</person></staff>
+<staff gid="4040042237"><task>Character Conceptual Design</task><person id="8161">Kouji Yokoi</person></staff>
+<staff gid="999234051"><task>Character Conceptual Design</task><person id="26977">Tomoyuki Hiyama</person></staff>
+<staff gid="2157643562"><task>Sound Director</task><person id="8069">Koichi Chiba</person></staff>
+<staff gid="2460560110"><task>Director of Photography</task><person id="1203">Atsushi Okui</person></staff>
+<staff gid="992914617"><task>Director of Photography</task><person id="6538">Hiroyuki Matsuzawa</person></staff>
+<staff gid="2858330827"><task>Producer</task><person id="7545">Kenji Uchida</person></staff>
+<staff gid="2152191275"><task>Producer</task><person id="7618">Atsushi Sugita</person></staff>
+<cast gid="2477749320" lang="JA"><role>Lalah the Mage</role><person id="391">Megumi Hayashibara</person></cast>
+<cast gid="3156798353" lang="JA"><role>Knight Gundam</role><person id="499">Yasunori Matsumoto</person></cast>
+<cast gid="888688243" lang="JA"><role>Knight Zeta</role><person id="867">Kouji Tsujitani</person></cast>
+<cast gid="2714679519" lang="JA"><role>Nemo the Martial Artist</role><person id="874">Keisuke Yamashita</person></cast>
+<cast gid="1371167622" lang="JA"><role>Princess Fraw</role><person id="974">Naoko Matsui</person></cast>
+<cast gid="1362091931" lang="JA"><role>Char the Knight</role><person id="1014">Shuuichi Ikeda</person></cast>
+<cast gid="3546627008" lang="JA"><role>Guncannon the Fighter</role><person id="1031">Kiyoyuki Yanada</person></cast>
+<cast gid="2632441150" lang="JA"><role>Kikka the Fairy</role><person id="1041">Mika Kanai</person></cast>
+<cast gid="1262909906" lang="JA"><role>Guntank the Priest</role><person id="1047">Tomomichi Nishimura</person></cast>
+<cast gid="1464574208" lang="JA"><role>Amuro the Knight</role><person id="1105">Tohru Furuya</person></cast>
+<cast gid="1698852803" lang="JA"><role>GM Sniper Custom the Forest Elf</role><person id="1307">Wataru Takagi</person></cast>
+<cast gid="2415481456" lang="JA"><role>King Revil</role><person id="1529">Ichirô Nagai</person></cast>
+<cast gid="3113189156" lang="JA"><role>Sayla the Knight</role><person id="2404">Eriko Hara</person></cast>
+<credit gid="2370415856"><task>Production</task><company id="18">Bandai Visual</company></credit>
+<credit gid="1525538523"><task>Production</task><company id="34">Sunrise</company></credit>
+<credit gid="1492303009"><task>Production</task><company id="9991">Sotsu Co., Ltd.</company></credit></anime></ann>

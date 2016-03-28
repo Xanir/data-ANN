@@ -1,0 +1,610 @@
+<ann><anime id="10958" gid="2416812655" type="TV" name="Tamagotchi!" precision="TV 2009" generated-on="2016-03-27T02:09:14Z">
+<related-prev rel="related to" id="10957"/>
+<related-next id="14758" rel="sequel"/>
+<info gid="1954464493" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A10958-8.jpg" width="185" height="200"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A10958-8.jpg" width="185" height="200"/><img src="http://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A10958-8.jpg" width="500" height="540"/><img src="http://cdn.animenewsnetwork.com/images/encyc/A10958-8.jpg" width="530" height="572"/></info>
+<info gid="3345920154" type="Main title" lang="JA">Tamagotchi!</info>
+<info gid="3172073921" type="Alternative title" lang="JA">たまごっち！</info>
+<info gid="2258049853" type="Objectionable content">AA</info>
+<info gid="1583507617" type="Running time">15</info>
+<info gid="2733283114" type="Vintage">2009-10-12</info>
+<info gid="3338399143" type="Official website" lang="JA" href="http://www.tv-tokyo.co.jp/anime/tamagotchi/">テレビ東京・あにてれ たまごっち！</info>
+<ratings nb_votes="1" weighted_score="4"/>
+<episode num="1">
+<title part="A" gid="2516899492" lang="JA">wakuwaku ! tama sutoriito de dai reusu</title>
+<title part="B" gid="922036967" lang="JA">dokidoki ! raburin ha dare nihohoemu ?</title></episode>
+<episode num="2">
+<title part="A" gid="406483904" lang="JA">kyun ! tamagocchi sukuuru no tenkousei</title>
+<title part="B" gid="2063840662" lang="JA">dokodoko ? raburi cchinoouchi</title></episode>
+<episode num="3">
+<title part="A" gid="1423378732" lang="JA">gougou ! TAMAX-TV kengaku</title>
+<title part="B" gid="3678454666" lang="JA">kurakura ! ikinari namahousou</title></episode>
+<episode num="4">
+<title part="A" gid="1831178393" lang="JA">shinken ! reinbou soricchi sakusen</title>
+<title part="B" gid="2243780059" lang="JA">harahara ! raburinkonsauto</title></episode>
+<episode num="5">
+<title part="A" gid="1616231579" lang="JA">waiwai ! tamatomo dai chousa</title>
+<title part="B" gid="2680684929" lang="JA">raburin daitsuiseki ! dawasa</title></episode>
+<episode num="6">
+<title part="A" gid="2929749499" lang="JA">hi . mi . tsu ! mamecchino tanjoubi</title>
+<title part="B" gid="2441361221" lang="JA">ki . me . ta ! raburin no kokuhaku</title></episode>
+<episode num="7">
+<title part="A" gid="1519294681" lang="JA">eetsu ! mamechamamecchi</title>
+<title part="B" gid="1981666573" lang="JA">pachiri ! hachamecha satsuei kai</title></episode>
+<episode num="8">
+<title part="A" gid="3318998420" lang="JA">tama supe ! kamera ha mita !</title>
+<title part="B" gid="3124301634" lang="JA">pinchi ! minami no shima dai dasshutsu !</title></episode>
+<episode num="9">
+<title part="A" gid="3407788213" lang="JA">to ~ jo ~! an pan keiji ( deka )!</title>
+<title part="B" gid="1016694333" lang="JA">mate ~! kaitou papiyon</title></episode>
+<episode num="10">
+<title part="A" gid="1099614720" lang="JA">toki rabu ? messeujibotoru de daikonran</title>
+<title part="B" gid="521839056" lang="JA">fuwafuwa ! todoke kurisumasukaado</title></episode>
+<episode num="11">
+<title part="A" gid="2659999522" lang="JA">kirakira ! kasou de kurisumasu</title>
+<title part="B" gid="920270428" lang="JA">guruguru ? maigo no akahana cchi</title></episode>
+<episode num="12">
+<title part="A" gid="2328864486" lang="JA">yukeyuke ! chibikko torio</title>
+<title part="B" gid="3452632372" lang="JA">gokugoku ! panpukinsuupu no izumi</title></episode>
+<episode num="13">
+<title part="A" gid="651613259" lang="JA">pipopapo ! tamagocchi hoshi seifuku ?</title>
+<title part="B" gid="3351935930" lang="JA">kira ~ n ! raburin hikami ni mau</title></episode>
+<episode num="14">
+<title part="A" gid="1425080986" lang="JA">zubatsu ! gocchigakiru !</title>
+<title part="B" gid="1744750984" lang="JA">suteki ! wakaki papamamecchino bouken</title></episode>
+<episode num="15">
+<title part="A" gid="1118503640" lang="JA">uwasano oyako ! dawasa</title>
+<title part="B" gid="1660513300" lang="JA">hapihapi cchiganbaru ! wan !</title></episode>
+<episode num="16">
+<title part="A" gid="2075299476" lang="JA">kikicchi ! konya ha nemure nai</title>
+<title part="B" gid="3633288281" lang="JA">ku^ru ! kuromamecchino tabi</title></episode>
+<episode num="17">
+<title part="A" gid="2794006524" lang="JA">baran ? takouinnaa cchino himitsu</title>
+<title part="B" gid="2037089973" lang="JA">mamaa memamame ! maame no nichi</title></episode>
+<episode num="18">
+<title part="A" gid="1119537109" lang="JA">sowasowa ! raburinchoko noyukueha ?</title>
+<title part="B" gid="180845899" lang="JA">ippai ! eburii raburinchoko</title></episode>
+<episode num="19">
+<title part="A" gid="2401794338" lang="JA">osawagase ! TAMA rakkii kuji</title>
+<title part="B" gid="2149970752" lang="JA">pinpoun ! tsugi kara tsugi hetoo kyaku sama</title></episode>
+<episode num="20">
+<title part="A" gid="3102169437" lang="JA">popon ! warai de hana wo saka semashou</title>
+<title part="B" gid="1815222210" lang="JA">kessen ! dounatsu kontesuto</title></episode>
+<episode num="21">
+<title part="A" gid="1890948785" lang="JA">danshi ha dame yo ! himematsuri</title>
+<title part="B" gid="2510803255" lang="JA">masaka ! mushiba kindemushibacchi ?</title></episode>
+<episode num="22">
+<title part="A" gid="4006615349" lang="JA">iikamo ~! uranaicchino uranai</title>
+<title part="B" gid="379771661" lang="JA">kikicchi ! shugyou hakibishiidegozaru</title></episode>
+<episode num="23">
+<title part="A" gid="3153831216" lang="JA">soudatsu ! eburii raburinchoko</title>
+<title part="B" gid="1415695413" lang="JA">kyouretsu ! mamecchi . vanpaia</title></episode>
+<episode num="24">
+<title part="A" gid="1699736932" lang="JA">GOTCHIMAN! fouebaa</title>
+<title part="B" gid="2057477193" lang="JA">kururin ! torebian na furuu tsushieiku</title></episode>
+<episode num="25">
+<title part="A" gid="1540220854" lang="JA">usotsu !? tama puriru fuuru</title>
+<title part="B" gid="1513664467" lang="JA">dokitsu ! hana kotoba de rabu panikku</title></episode>
+<episode num="26">
+<title part="A" gid="2496807816" lang="JA">maboroshi ? shinjitsu nokuchipacchi</title>
+<title part="B" gid="2568999452" lang="JA">yume ? fushigi na meuru</title></episode>
+<episode num="27">
+<title part="A" gid="872248158" lang="JA">taimusurippu ! janguru tamagocchi hoshi</title>
+<title part="B" gid="884023444" lang="JA">suupaahiroin ! terurin tanjou</title></episode>
+<episode num="28">
+<title part="A" gid="3634332444" lang="JA">terurin ! TAMAX-TV e</title>
+<title part="B" gid="2025132144" lang="JA">terurin ! tamagocchi sukuuru e</title></episode>
+<episode num="29">
+<title part="A" gid="1920889043" lang="JA">bouno ! hajikeru furuutsushieiku</title>
+<title part="B" gid="2371662208" lang="JA">oure ! tama waarudokappu</title></episode>
+<episode num="30">
+<title part="A" gid="2635982652" lang="JA">acchimo ! kocchimo ! mamamecchi</title>
+<title part="B" gid="2846770551" lang="JA">raburi cchi no haha no hi</title></episode>
+<episode num="31">
+<title part="A" gid="2662371595" lang="JA">docchi ? kaitou papiyon futatabi</title>
+<title part="B" gid="1622948663" lang="JA">kaiketsu ! raburin &amp; terurin saisho no jiken</title></episode>
+<episode num="32">
+<title part="A" gid="1954658119" lang="JA">supeishiiburazaazu no o hikkoshi</title>
+<title part="B" gid="1124963754" lang="JA">tokkun ! faitou ! baagenseuru</title></episode>
+<episode num="33">
+<title part="A" gid="3093575094" lang="JA">bokaan ! kyoudai genka ?</title>
+<title part="B" gid="3096271752" lang="JA">shin hiirou ? pacchi man dacchi</title></episode>
+<episode num="34">
+<title part="A" gid="1933552625" lang="JA">jajan ! bangumitaikou kuizubatoru</title>
+<title part="B" gid="2401538521" lang="JA">wantsuu wantsuu ! rettsudanchu</title></episode>
+<episode num="35">
+<title part="A" gid="2507567027" lang="JA">umi no otoko ! kyaputen gou cchi raikou</title>
+<title part="B" gid="3053753852" lang="JA">tarararararaan ! rabupapari cchi no chin menyuu</title></episode>
+<episode num="36">
+<title part="A" gid="416920766" lang="JA">pichipichi shima ! gocchide batoru</title>
+<title part="B" gid="2142957213" lang="JA">omisecchideo shigoto ! pichi</title></episode>
+<episode num="37">
+<title part="A" gid="2150765496" lang="JA">shutata ! kunoichi raburin mairu</title>
+<title part="B" gid="2105275842" lang="JA">dareno ? sukejuuru chou dawasa</title></episode>
+<episode num="38">
+<title part="A" gid="2367355516" lang="JA">supeishii cchi ! shijousaidai no sakusen</title>
+<title part="B" gid="926370771" lang="JA">GOTCHIMAN no inaka ni toma rou</title></episode>
+<episode num="39">
+<title part="A" gid="1453233287" lang="JA">raruraru ! terurin ga raburin ?</title>
+<title part="B" gid="867527255" lang="JA">sayonara , terurin</title></episode>
+<episode num="40">
+<title part="A" gid="2543057912" lang="JA">natsu ! tokonatsu shima danattsu !</title>
+<title part="B" gid="1528112944" lang="JA">raburin ! marinburu^ densetsu</title></episode>
+<episode num="41">
+<title part="A" gid="2883914095" lang="JA">gou ! taifuucchi VS himitsukichi</title>
+<title part="B" gid="1978056137" lang="JA">pakuri ! jiyuukenkyuu ha inochi gake</title></episode>
+<episode num="42">
+<title part="A" gid="646966380" lang="JA">sukkiri ! sawayaka ! gocchinoshizuku</title>
+<title part="B" gid="2403388694" lang="JA">taa ! chii ! chibipacchi kuchipacchi papapacchi</title></episode>
+<episode num="43">
+<title part="A" gid="3389831009" lang="JA">hyakku ! shakkuriga toma ranai</title>
+<title part="B" gid="1733697897" lang="JA">gorogoro ! kaminari ! gankocchi</title></episode>
+<episode num="44">
+<title part="A" gid="2932314165" lang="JA">chama ! o sora wo tobi taidesu</title>
+<title part="B" gid="1817178271" lang="JA">korette , o ryouri gokkodashi !</title></episode>
+<episode num="45">
+<title part="A" gid="1896108797" lang="JA">eburi^raburi^ todoke ! no ^ suno ^ supointohe</title>
+<title part="B" gid="1502251873" lang="JA">marinburuu ! kaizoku shima de takara sagashi</title></episode>
+<episode num="46">
+<title part="A" gid="2218555166" lang="JA">dacchi ! manmosu kuchipacchi VS meka kuchipacchi</title>
+<title part="B" gid="2232985071" lang="JA">ou hohhohho ! mezase jisedai purinsesu</title></episode>
+<episode num="47">
+<title part="A" gid="2563521358" lang="JA">kokuhaku ! raburi cchiha raburin</title>
+<title part="B" gid="1441190140" lang="JA">raburin ! uwasa no tama tomodawasa</title></episode>
+<episode num="48">
+<title part="A" gid="3248718974" lang="JA">raibaru ? aidoru ? merodei cchi toujou</title>
+<title part="B" gid="2102655182" lang="JA">kiseki ! eburii raburii ♪ baiorin</title></episode>
+<episode num="49">
+<title part="A" gid="2371319809" lang="JA">dokodoko ? merodei cchi &amp; baiorin</title>
+<title part="B" gid="1555716572" lang="JA">yume no korabo ! happii happii haamonii</title></episode>
+<episode num="50">
+<title part="A" gid="1510692883" lang="JA">manbou ! merodei cchi no rifoumu daisakusen</title>
+<title part="B" gid="1944488331" lang="JA">harou ! tamagocchi sukuuru</title></episode>
+<episode num="51">
+<title part="A" gid="1046148886" lang="JA">mame cchi no himitsu wo miharu de gozaru</title>
+<title part="B" gid="3344889489" lang="JA">fuwafuwa ! tsukuroutama shumaro</title></episode>
+<episode num="52">
+<title part="A" gid="2096948411" lang="JA">panpukinminton ! haji maru da cchi</title>
+<title part="B" gid="1273896535" lang="JA">aki yokoikoi ! akitsugecchi</title></episode>
+<episode num="53">
+<title part="A" gid="2942030379" lang="JA">happii ! gakuensai deo mise ya san</title>
+<title part="B" gid="1047135597" lang="JA">taihen ! GOTCHIMAN to hiiroushou</title></episode>
+<episode num="54">
+<title part="A" gid="3795258004" lang="JA">dajarehadareja ! gocchi rin</title>
+<title part="B" gid="907051650" lang="JA">tamagocchi guranpuri ! takeshi reusu</title></episode>
+<episode num="55">
+<title part="A" gid="2267661485" lang="JA">yozora ni dokkaan ! hanabicchi</title>
+<title part="B" gid="1665650788" lang="JA">rettsuenjoi ! tama kafe</title></episode>
+<episode num="56">
+<title part="A" gid="2699549341" lang="JA">happii baasudei ! mamecchi</title>
+<title part="B" gid="4117826667" lang="JA">narikiri charenji ! oujisama to tenisu</title></episode>
+<episode num="57">
+<title part="A" gid="3781358819" lang="JA">micchaku ! merodei cchi 24 toki ?</title>
+<title part="B" gid="1841260953" lang="JA">narikiri charenji ! sadou ! gureito !</title></episode>
+<episode num="58">
+<title part="A" gid="537937431" lang="JA">rettsugouguru ! sagase baiorin</title>
+<title part="B" gid="3232841884" lang="JA">narikiri charenji ! tama kaaringu</title></episode>
+<episode num="59">
+<title part="A" gid="2924975971" lang="JA">pinku no ! haato no ! messenjaa wan !</title>
+<title part="B" gid="2241866845" lang="JA">tamatomo minna de ! kyaroringu</title></episode>
+<episode num="60">
+<title part="A" gid="3684780670" lang="JA">merii ! supeishii ! kurisumasu</title>
+<title part="B" gid="2947842725" lang="JA">happii happii ! irumineushon</title></episode>
+<episode num="61">
+<title part="A" gid="2646806866" lang="JA">3,2,1 sutaato ! mini TAMAX-TV</title>
+<title part="B" gid="847268302" lang="JA">dokkiri ! tama sute cchi no o miai daisakusen</title></episode>
+<episode num="62">
+<title part="A" gid="1311976849" lang="JA">rettsu kunoichi shugyou ! degozaru</title>
+<title part="B" gid="2401280739" lang="JA">atsuatsu ! sabusabu ! seki gae panikku</title></episode>
+<episode num="63">
+<title part="A" gid="2147329967" lang="JA">oshinobi ! odekake ! raburin hime</title>
+<title part="B" gid="3192981045" lang="JA">dogagaan ! tokofuyu shima de yukidama kassen !</title></episode>
+<episode num="64">
+<title part="A" gid="2000171169" lang="JA">kyu ~ kyu ~! merodeirando e no shoutaijou</title>
+<title part="B" gid="1417217024" lang="JA">myu ~ myu ~! merodei chaamu tanjou</title></episode>
+<episode num="65">
+<title part="A" gid="1092125467" lang="JA">kyukyu ! maigo no doremicchi</title>
+<title part="B" gid="36800785" lang="JA">tereretten ! merodei chaamu no kiseki</title></episode>
+<episode num="66">
+<title part="A" gid="3518836523" lang="JA">pafupafu ! eburii raburinchoko</title>
+<title part="B" gid="3119148135" lang="JA">merodei cchichama ! kagenagara ouen dechu</title></episode>
+<episode num="67">
+<title part="A" gid="1192495236" lang="JA">gekitotsu ! wai wai yuu hokkeu</title>
+<title part="B" gid="3128083390" lang="JA">komatta ! mamecchi no inai sukuuru</title></episode>
+<episode num="68">
+<title part="A" gid="3349711453" lang="JA">chicchai sukauto ! mamemame kurabu</title>
+<title part="B" gid="1726530818" lang="JA">keuki tooshaberi ! mama tomo kurabu</title></episode>
+<episode num="69">
+<title part="A" gid="1391432745" lang="JA">mei suiri ? an pan keiji VS merodei sousakan</title>
+<title part="B" gid="2586963067" lang="JA">toudai moricchi ! saigo no tomoshibi</title></episode>
+<episode num="70">
+<title part="A" gid="2872842613" lang="JA">byuun ! kaze no okurimono</title>
+<title part="B" gid="2313952077" lang="JA">shisutaa raburin ! vanpaia no hanayome</title></episode>
+<episode num="71">
+<title part="A" gid="1607356095" lang="JA">shin menbaa ? totsuzen kurasu gae</title>
+<title part="B" gid="3356336435" lang="JA">hiirou ? aidoru ? TAMAX-TV ni arawaru</title></episode>
+<episode num="72">
+<title part="A" gid="2497827020" lang="JA">tamamori ! yoropiku ! moriricchi</title>
+<title part="B" gid="2396793450" lang="JA">makasetechonmage ! tamamori shoppu</title></episode>
+<episode num="73">
+<title part="A" gid="3849626369" lang="JA">watawata ! oshaberi ! watawatacchi</title>
+<title part="B" gid="1895856278" lang="JA">ikeike ! taishoku i ! kuchipacchi VS kuishinbocchi</title></episode>
+<episode num="74">
+<title part="A" gid="2737498682" lang="JA">shushushu ! kenkenken ! shigurehimecchi shiro</title>
+<title part="B" gid="3208440611" lang="JA">odoroki ! momonoki ! aitemu no tane</title></episode>
+<episode num="75">
+<title part="A" gid="3531245944" lang="JA">スクールまるごと！たまもり！</title>
+<title part="B" gid="3249137978" lang="JA">たまもルームでバッチグー！</title></episode>
+<episode num="76">
+<title part="A" gid="3068708289" lang="JA">キラキラ！たまもり天国</title>
+<title part="B" gid="4102668405" lang="JA">Heikamon! Furawatchi no bāsudei</title></episode>
+<episode num="77">
+<title part="A" gid="2139565517" lang="JA">Dokkān! Hatsumei! Heyapikāru</title>
+<title part="B" gid="2197486947" lang="JA">Harappara! Terurin no dai bouken</title></episode>
+<episode num="78">
+<title part="A" gid="1787431222" lang="JA">Tamaberī! Haha no hi kēki pero</title>
+<title part="B" gid="879497121" lang="JA">Mama he! Purezento tama mori</title></episode>
+<episode num="79">
+<title part="A" gid="2501794978" lang="JA">Sukūpu! Supeishītchi no himitsu dawasa</title>
+<title part="B" gid="2045435306" lang="JA">Yume no kyouen? GOTCHIMAN VS Anpan keiji</title></episode>
+<episode num="80">
+<title part="A" gid="1915395819" lang="JA">Hakunetsu! Gakkyuu iin senkyo</title>
+<title part="B" gid="973316223" lang="JA">Tamamori! Āto taiketsu</title></episode>
+<episode num="81">
+<title part="A" gid="2185225302" lang="JA">Hāto no zukyudokyu! Tamatomo kicchin no wa</title>
+<title part="B" gid="1453910734" lang="JA">Korokoro! Patchi no mori no guriguritchi</title></episode>
+<episode num="82">
+<title part="A" gid="3134139364" lang="JA">Kondo ha kamera ga! Pasharin tanjou</title>
+<title part="B" gid="538195562" lang="JA">Pasharin! Kirakira debyū tama mori</title></episode>
+<episode num="83">
+<title part="A" gid="1702330573" lang="JA">Ketteiteki shun kan! Shashin kontesuto</title>
+<title part="B" gid="371557588" lang="JA">Piko piko kopī Papamametchi</title></episode>
+<episode num="84">
+<title part="A" gid="2562723060" lang="JA">Dōn to henshin! Henshinjo</title>
+<title part="B" gid="1751881307" lang="JA">Gattai! Jigoku debiru san shimai</title></episode>
+<episode num="85">
+<title part="A" gid="2135799808" lang="JA">Natsu da! Umi da! Pichipitchi da! Pichi</title>
+<title part="B" gid="2465568122" lang="JA">Kawaii! Maigo no rubītchi</title></episode>
+<episode num="86">
+<title part="A" gid="3077929894" lang="JA">Terurin senpai! Ganbaru</title>
+<title part="B" gid="3823257334" lang="JA">Pasharin! Omoide de shashin</title></episode>
+<episode num="87">
+<title part="A" gid="2177785203" lang="JA">Omoide sagashi te, hashire! raburinkā</title>
+<title part="B" gid="1099105022" lang="JA">Pasharin! kan geki! satogaeri</title></episode>
+<episode num="88">
+<title part="A" gid="1674351727" lang="JA">Age～? Supeishīcchi no koi</title>
+<title part="B" gid="2366712865" lang="JA">O? Hoho ho! Jigoku Debiru San Shimai futatabi</title></episode>
+<episode num="89">
+<title part="A" gid="3770127053" lang="JA">wasshoi ! TAMAX - TV matsuri</title>
+<title part="B" gid="1670117014" lang="JA">do dō n to ! ninki bangumi dai shuugou</title></episode>
+<episode num="90">
+<title part="A" gid="3336250693" lang="JA">toko natsu tou ! shucchou ta mamori nat tsu</title>
+<title part="B" gid="2370407497" lang="JA">manatsu no yuki no o kuri mo no</title></episode>
+<episode num="91">
+<title part="A" gid="1745751937" lang="JA">pacchino mori no fushigi na shashin?</title>
+<title part="B" gid="3397328509" lang="JA">gozaru mura ! onigiri ta mamori</title></episode>
+<episode num="92">
+<title part="A" gid="2183260589" lang="JA">natsu ! enjoimashīn</title>
+<title part="B" gid="631023169" lang="JA">happī ! furawā tamamori</title></episode>
+<episode num="93">
+<title part="A" gid="3196654624" lang="JA">de tade ta obake? kimo da meshi</title>
+<title part="B" gid="2442851351" lang="JA">memecchi bouken ki za・wārudo</title></episode>
+<episode num="94">
+<title part="A" gid="1552932303" lang="JA">na kamawa re? jigoku de biru san shimai</title></episode>
+<episode num="95">
+<title gid="2408936966" lang="JA">kore tte kokuhaku? nazo purofu</title></episode>
+<episode num="96">
+<title gid="207167911" lang="JA">moshi mōshi! purofumashīn de daikonsen?</title></episode>
+<episode num="97">
+<title gid="1935726360" lang="JA">Tanjō! Tama purofi</title></episode>
+<episode num="98">
+<title gid="1446283018" lang="JA">Raibaru no kizuna</title></episode>
+<episode num="99">
+<title gid="3644730593" lang="JA">Tomomi no TAMAX - TV debyū!?</title></episode>
+<episode num="100">
+<title gid="2212003027" lang="JA">Sagashi mono wa nandesu ka?</title></episode>
+<episode num="101">
+<title gid="2730897527" lang="JA">Hakken! Tama sabaku shinden no himitsu</title></episode>
+<episode num="102">
+<title gid="2574767722" lang="JA">Fūāyū? O mezame kizunatchi</title></episode>
+<episode num="103">
+<title gid="2035817070" lang="JA">Nazo ga ippai! Kizunatchi</title></episode>
+<episode num="104">
+<title gid="2205272375" lang="JA">Tama ginesu ni chōsendatchi!</title></episode>
+<episode num="105">
+<title gid="2050171968" lang="JA">Dorama supesharu gotchi ga vanpaia keiji (deka)?</title></episode>
+<episode num="106">
+<title gid="1484754952" lang="JA">Ji āsu e! Sayonara Tomomi</title></episode>
+<episode num="107">
+<title gid="2034645411" lang="JA">Raburin shokku! Mane ̄ netchi no kokorogawari?</title></episode>
+<episode num="108">
+<title gid="1762000550" lang="JA">Merīkurisumasu! Tama mori tsurī taiketsu</title></episode>
+<episode num="109">
+<title gid="2199140430" lang="JA">Mirakuru howaito kurisumasu!</title></episode>
+<episode num="110">
+<title gid="1736146692" lang="JA">O-gai de ukiuki! Kizunatchi</title></episode>
+<episode num="111">
+<title gid="1317662502" lang="JA">Bikkuri sutāto! Shin TAMAX - TV</title></episode>
+<episode num="112">
+<title gid="2046586351" lang="JA">Tomomi kesshin! Ji āsu e</title></episode>
+<episode num="113">
+<title gid="2144547723" lang="JA">Kowagari kikitchi dai tokkun!</title></episode>
+<episode num="114">
+<title gid="2185341590" lang="JA">Gigakyun! Nazo no tenkōsei himesupetchi</title></episode>
+<episode num="115">
+<title gid="2502124684" lang="JA">Arashi no yokan!? Hime supefon uranai</title></episode>
+<episode num="116">
+<title gid="446139942" lang="JA">Densetsu no raburabupawā supotto</title></episode>
+<episode num="117">
+<title gid="1975194236" lang="JA">Dotabata shūroku! An pan keiji</title></episode>
+<episode num="118">
+<title gid="3039668079" lang="JA">dai GENKA !? moriricchi vs anemoriricchi</title></episode>
+<episode num="119">
+<title gid="184462784" lang="JA">oto wo nakushita MERODI BAIORIN</title></episode>
+<episode num="120">
+<title gid="794849015" lang="JA">yomigaetta MERODI</title></episode>
+<episode num="121">
+<title gid="521966271" lang="JA">'uta HETA' mamecchito 'uta IYA' FORUTE cchi</title></episode>
+<episode num="122">
+<title gid="2100809920" lang="JA">ooatari !? TERURIN no mono mane uranai</title></episode>
+<episode num="123">
+<title gid="1869489497" lang="JA">saigo no tama MIZUKI</title></episode>
+<episode num="124">
+<title gid="3869828748" lang="JA">SUKEBOU kikicchi mou tokkun!</title></episode>
+<episode num="125">
+<title gid="1847326755" lang="JA">SAPURAIZUWEDINGUPAATII!</title></episode>
+<episode num="126">
+<title gid="2229862151" lang="JA">RAIBARU shutsugen ? MOYAMOYA hime SUPE cchi</title></episode>
+<episode num="127">
+<title gid="3419125429" lang="JA">tsukutte misera ?! guruguru HANIWA dai sakusen</title></episode>
+<episode num="128">
+<title gid="1915965730" lang="JA">NAZO darake!? HAA tou to HAATO ka micchi</title></episode>
+<episode num="129">
+<title gid="1808490271" lang="JA">DOGIMAGI! uchi kioku soushitsu ni nacchatta!?</title></episode>
+<episode num="130">
+<title gid="2981193561" lang="JA">NAHAHAHAHA! mamecchi no ＧＯＴＣＨＩＭＡＮ DEBYUU</title></episode>
+<episode num="131">
+<title gid="2444236079" lang="JA">MAAMAA! maigo no fuwamokocchi</title></episode>
+<episode num="132">
+<title gid="2862623357" lang="JA">tamagocchi mura no fushigi na tamatomo-tachi</title></episode>
+<episode num="133">
+<title gid="1203772567" lang="JA">masakano SUPEISHII.PANIKKU!</title></episode>
+<episode num="134">
+<title gid="3567593427" lang="JA">BIKKURI! sokkuri? kuchi pacchitoishipacchi</title></episode>
+<episode num="135">
+<title gid="3686444996" lang="JA">choi WARU? manatsu no SANTA KURO cchi</title></episode>
+<episode num="136">
+<title gid="914396583" lang="JA">PINCHI! go cchi daiou yudeagaru!?</title></episode>
+<episode num="137">
+<title gid="1152206082" lang="JA">kimero! ougon no tamatomo SHUUTO!</title></episode>
+<episode num="138">
+<title gid="1655088243" lang="JA">abayo tamatomo! SUPEISHII cchi namida no ketsudan</title></episode>
+<episode num="139">
+<title gid="1583242827" lang="JA">kieta tama HAATO to fushigi no hajimari</title></episode>
+<episode num="140">
+<title gid="3630035324" lang="JA">ryuukou! SAIKOU? TAMAGO ka SUTAIRU</title></episode>
+<episode num="141">
+<title gid="3059487046" lang="JA">SHOKKU! TAMAGO ka ga tomaranai</title></episode>
+<episode num="142">
+<title gid="1156427577" lang="JA">tamagocchi hoshi no PINCHI! sukueru no hakizu nacchi!?</title></episode>
+<episode num="143">
+<title gid="2251545847" lang="JA">kizuna no chikara</title></episode>
+<episode num="144">
+<title gid="2038801694" lang="JA">toujou! yume micchito KIRARI cchi</title></episode>
+<episode num="145">
+<title gid="1251254261" lang="JA">e～！？ AIDORU ni henshin shichatta!?</title></episode>
+<episode num="146">
+<title gid="1893244697" lang="JA">bikkuri! hime SUPE cchi mo yattekita!</title></episode>
+<episode num="147">
+<title gid="1777793874" lang="JA">PINCHI wo sukue! yume KIRABAGGU!</title></episode>
+<episode num="148">
+<title gid="1173199537" lang="JA">sansuu kokufuku? yume KIRAPATISHIE!</title></episode>
+<episode num="149">
+<title gid="3048282712" lang="JA">KIRARI cchino imouto wa bousou AATISUTO !?</title></episode>
+<episode num="150">
+<title gid="841494541" lang="JA">ai wa bakuhatsu! jounetsu no kyuuai DANSU</title></episode>
+<episode num="151">
+<title gid="989187118" lang="JA">kuchipacchi no chuukaman shinken shoubu</title></episode>
+<episode num="152">
+<title gid="2833433353" lang="JA">namida no jooubuiesu yume kira manzai shi!</title></episode>
+<episode num="153">
+<title gid="2756018464" lang="JA">tamatomo saikai! tamagocchi TAUN ni satogaeri</title></episode>
+<episode num="154">
+<title gid="1377924089" lang="JA">yume KIRA kandou! D2 ni kyuu sekkin!!</title></episode>
+<episode num="155">
+<title gid="1650249427" lang="JA">IKEMENPATISHIE no suIItsu na kunou!?</title></episode>
+<episode num="156">
+<title gid="1549675800" lang="JA">chou puriti! No. 1 tama PETTO kettei sen!</title></episode>
+<episode num="157">
+<title gid="2860696820" lang="JA">omoi yo todoke! KURISUMASU BASUKETTO</title></episode>
+<episode num="158">
+<title gid="567364461" lang="JA">KURISUMASUKYAN! fuwafuwa yume KYAN cchi</title></episode>
+<episode num="159">
+<title gid="1266521150" lang="JA">mezase SAAKASU DEBYUU! tenkousei maji ?kkocchi</title></episode>
+<episode num="160">
+<title gid="1389931105" lang="JA">maigo wo sagase! DORIIMU TAUN dai tsuiseki!</title></episode>
+<episode num="161">
+<title gid="1253560385" lang="JA">warai to namida to yuujou no SAAKASU DEBYUU!</title></episode>
+<episode num="162">
+<title gid="3970108506" lang="JA">shinken shoubu! ocha kumi ROBOTTO dai kessen!</title></episode>
+<episode num="163">
+<title gid="721646384" lang="JA">hitoribocchi no mame cchi</title></episode>
+<episode num="164">
+<title gid="3807833811" lang="JA">PORORON ♪ PIANI cchi ga yattekita !</title></episode>
+<episode num="165">
+<title gid="1617020201" lang="JA">ikaricchino shinjitsu</title></episode>
+<episode num="166">
+<title gid="2478707725" lang="JA">ATENSHON PURIIZU! SUKUURU dasshutsu dai sakusen!</title></episode>
+<episode num="167">
+<title gid="3393760918" lang="JA">mitsukete! tama gurumi KAANIBARU!</title></episode>
+<episode num="168">
+<title gid="2316729651" lang="JA">HAPPIIBAASUDI! do- suru PUREZENTO!?</title></episode>
+<episode num="169">
+<title gid="2317852170" lang="JA">uchi wa kizamu yo! tamashii no BIITO</title></episode>
+<episode num="170">
+<title gid="2142241082" lang="JA">yomigaere niji no kagayaki! joou sama no PIANO</title></episode>
+<episode num="171">
+<title gid="2438666407" lang="JA">kyodai kaijuu gen ru!? GAREEJI wo torimodose!</title></episode>
+<episode num="172">
+<title gid="1326060730" lang="JA">mamore! tamagocchi hoshi no TOPPUSHIIKURETTO!?</title></episode>
+<episode num="173">
+<title gid="2029882053" lang="JA">yume KIRA mangaka DEBYUU!!</title></episode>
+<episode num="174">
+<title gid="3456686829" lang="JA">dai gekisen! SUIITSUKONTESUTO wa amakunai!?</title></episode>
+<episode num="175">
+<title gid="3178405890" lang="JA">SUGOI kyouteki ! CHOKOREETO no joou</title></episode>
+<episode num="176">
+<title gid="2061806386" lang="JA">TAIMU KAPUSERU wa hatsukoi no omoide!?</title></episode>
+<episode num="177">
+<title gid="2728922357" lang="JA">ienai! hime SUPE cchino himitsu</title></episode>
+<episode num="178">
+<title gid="2384093192" lang="JA">hime SUPE cchi, mata ashita</title></episode>
+<episode num="179">
+<title gid="3202259211" lang="JA">MEIKU wa ai ～♪ tenkousei wa KOFURE cchi</title></episode>
+<episode num="180">
+<title gid="2042547978" lang="JA">tama ROUZU wa KIKEN na kaori</title></episode>
+<episode num="181">
+<title gid="3711726634" lang="JA">itoshi no ENJERU to goudou jugyou!?</title></episode>
+<episode num="182">
+<title gid="1229161104" lang="JA">micchaku shuzai! KIRAKIRAGAARUZU</title></episode>
+<episode num="183">
+<title gid="2708970361" lang="JA">SUKUUPU! C-san ni uwaki giwaku!?</title></episode>
+<episode num="184">
+<title gid="1452257409" lang="JA">dai meikyuu! yume micchi PURINSESU HAUSU!!</title></episode>
+<episode num="185">
+<title gid="1062251291" lang="JA">obake mo NORINORI? SAMAABIICHIRAIBU!</title></episode>
+<episode num="186">
+<title gid="2473776564" lang="JA">koori to taiketsu? ROBOTTO ka no atsui tatakai!</title></episode>
+<episode num="187">
+<title gid="2580136616" lang="JA">yuuki wo dashite? hasshin! kokuhaku ROBO</title></episode>
+<episode num="188">
+<title gid="3319863480" lang="JA">taa～ no shii～i ♥ yume KIRA henshin zekkouchou</title></episode>
+<episode num="189">
+<title gid="3816102753" lang="JA">tsukitomeru de chi! futari gumi no himitsu!!</title></episode>
+<episode num="190">
+<title gid="2322134059" lang="JA">arigatou! yume KIRABAGGU... PURASUWAN</title></episode>
+<episode num="191">
+<title gid="3027103143" lang="JA">yume ni mukatte kokoro KIRAKIRA!</title></episode>
+<episode num="192">
+<title gid="4092892565" lang="JA">itoshi no M-san ni RETTSU kokuhaku!</title></episode>
+<episode num="193">
+<title gid="1535558727" lang="JA">fushigi. mi ra kuru. TAIMUSU RIPPU!?</title></episode>
+<episode num="194">
+<title gid="1010763160" lang="JA">NAZO ga ippai!? X kamen vs MIRAKURAIZU!</title></episode>
+<episode num="195">
+<title gid="1448471973" lang="JA">shinjiru nakama... mirakuru FURENZU!</title></episode>
+<episode num="196">
+<title gid="1844896737" lang="JA">yomigaere! MADAMU cchi no MISHIN</title></episode>
+<episode num="197">
+<title gid="1823240256" lang="JA">mirakuru SHOKKU! hajimete no hanarebanare?</title></episode>
+<episode num="198">
+<title gid="3304076893" lang="JA">kuyokuyo? UKIUKI? yume no RAKKII KARAA</title></episode>
+<episode num="199">
+<title gid="2225915225" lang="JA">tama PETTO FASSHON ni BAKU～N ♥</title></episode>
+<episode num="200">
+<title gid="2389883048" lang="JA">ki ni naru!? X kamen no shoutai</title></episode>
+<episode num="201">
+<title gid="1627968341" lang="JA">do ya!! tama WIN de oosawagi!!</title></episode>
+<episode num="202">
+<title gid="1813211953" lang="JA">kyuu sekkin! tama tomo SUMAATO cchi</title></episode>
+<episode num="203">
+<title gid="2217034811" lang="JA">kyou wa RAIBARU! mirakuru DORIFESU</title></episode>
+<episode num="204">
+<title gid="1270766015" lang="JA">okaeri yume KIRA! fukkatsu KIRAKIRAGAARUZU</title></episode>
+<episode num="205">
+<title gid="2764045489" lang="JA">dokidoki BAKU BAKU?! WOCCHIRIN no dai bouken!</title></episode>
+<episode num="206">
+<title gid="2595750361" lang="JA">hoshi ikutsu? tama OUKUSHON kaisai!!</title></episode>
+<episode num="207">
+<title gid="2277088920" lang="JA">kimeta ♪ MADAMU cchi e no PUREZENTO</title></episode>
+<episode num="208">
+<title gid="1547510087" lang="JA">mou hitotsu no MERIIKURISUMASU</title></episode>
+<episode num="209">
+<title gid="1335361309" lang="JA">TSUU-kun? maa-kun? minami no shima de RIFURESSHU</title></episode>
+<episode num="210">
+<title gid="413758330" lang="JA">SUGO sugi! honki MOUDO noekkusu kamen</title></episode>
+<episode num="211">
+<title gid="2687648599" lang="JA">shin hatsumei! DORIIMU BAKU cchi hakken ROBO</title></episode>
+<episode num="212">
+<title gid="3306561461" lang="JA">atashi mo kita yo～！ kiyandi pakupaku</title></episode>
+<episode num="213">
+<title gid="2429501607" lang="JA">kanashii mirai... X kamen no shoutai</title></episode>
+<episode num="214">
+<title gid="1538652873" lang="JA">tamatomo no yume wa minna no yume</title></episode>
+<episode num="215">
+<title gid="1631595914" lang="JA">sagase! JANGURU de BAKU～N!?</title></episode>
+<episode num="216">
+<title gid="1655074176" lang="JA">wakare no yokan... hakken! midori BAKU cchi</title></episode>
+<episode num="217">
+<title gid="1786232553" lang="JA">SUMAATO cchino ketsui</title></episode>
+<episode num="218">
+<title gid="2109806839" lang="JA">naze IRUKA? oshiete mikaduki IRUKA cchi</title></episode>
+<episode num="219">
+<title gid="1695135929" lang="JA">yume no umareru basho</title></episode>
+<episode num="220">
+<title gid="879998900" lang="JA">DORIIMU baku cchi no kiseki (mirakuru)</title></episode>
+<episode num="221">
+<title gid="3182055543" lang="JA">minna no yume... mirai e</title></episode>
+<news datetime="2009-01-01T05:00:00Z" href="http://www.animenewsnetwork.com/news/2009-01-01/new-year-greetings-anime-style">New Year's Greetings — Anime Style (Update 11)</news>
+<news datetime="2009-07-10T00:37:00Z" href="http://www.animenewsnetwork.com/news/2009-07-09/tamagotchi-tv-anime-to-premiere-in-october">&lt;cite&gt;Tamagotchi&lt;/cite&gt; TV Anime to Premiere in October (Update 2)</news>
+<news datetime="2009-10-06T12:24:49Z" href="http://www.animenewsnetwork.com/news/2009-10-06/mcdonald-to-put-tamagotchi-dvd-in-japanese-happy-sets">McDonald's to Put &lt;cite&gt;Tamagotchi&lt;/cite&gt; DVD in Japanese Happy Sets</news>
+<news datetime="2009-12-29T02:21:16Z" href="http://www.animenewsnetwork.com/news/2009-12-28/japan-animation-tv-ranking-december-14-20">Japan's Animation TV Ranking, December 14-20</news>
+<news datetime="2010-01-01T05:00:00Z" href="http://www.animenewsnetwork.com/news/2010-01-01/new-year-greetings-anime-style">New Year's Greetings — Anime Style (Update 8)</news>
+<news datetime="2010-01-12T04:13:04Z" href="http://www.animenewsnetwork.com/news/2010-01-11/japan-animation-tv-ranking-december-21-27">Japan's Animation TV Ranking, December 21-27</news>
+<news datetime="2010-03-08T18:07:58Z" href="http://www.animenewsnetwork.com/news/2010-03-08/japan-animation-tv-ranking-february-22-28">Japan's Animation TV Ranking, February 22-28</news>
+<news datetime="2010-04-13T18:07:07Z" href="http://www.animenewsnetwork.com/news/2010-04-13/japan-animation-tv-ranking-march-15-21">Japan's Animation TV Ranking, March 15-21</news>
+<news datetime="2010-04-20T16:30:00Z" href="http://www.animenewsnetwork.com/news/2010-04-20/japan-animation-tv-ranking-march-22-28">Japan's Animation TV Ranking, March 22-28</news>
+<news datetime="2010-07-14T04:20:43Z" href="http://www.animenewsnetwork.com/news/2010-07-14/japan-toy-market-dipped-0.9-percent-to-y695-billion-in-2009">Japan's Toy Market Dipped 0.9% to Y695 Billion in 2009</news>
+<news datetime="2010-07-24T22:37:50Z" href="http://www.animenewsnetwork.com/news/2010-07-24/tamagotchi-tv-anime-2nd-year-listed">&lt;cite&gt;Tamagotchi!&lt;/cite&gt; TV Anime's 2nd Year Listed</news>
+<news datetime="2010-08-06T01:05:10Z" href="http://www.animenewsnetwork.com/news/2010-08-05/japan-animation-tv-ranking-july-19-25">Japan's Animation TV Ranking, July 19-25</news>
+<news datetime="2010-10-07T19:56:51Z" href="http://www.animenewsnetwork.com/news/2010-10-07/japan-animation-tv-ranking-september-13-19">Japan's Animation TV Ranking, September 13-19</news>
+<news datetime="2010-10-23T18:05:09Z" href="http://www.animenewsnetwork.com/news/2010-10-23/japan-animation-tv-ranking-september-27-october-3">Japan's Animation TV Ranking, September 27-October 3</news>
+<news datetime="2010-11-15T04:22:57Z" href="http://www.animenewsnetwork.com/news/2010-11-14/japan-animation-tv-ranking-november-1-7">Japan's Animation TV Ranking, November 1-7</news>
+<news datetime="2011-01-09T04:57:00Z" href="http://www.animenewsnetwork.com/news/2011-01-08/japan-animation-tv-ranking-december-20-26">Japan's Animation TV Ranking, December 20-26</news>
+<news datetime="2011-01-16T05:05:12Z" href="http://www.animenewsnetwork.com/news/2011-01-16/japan-animation-tv-ranking-december-27-january-2">Japan's Animation TV Ranking, December 27-January 2</news>
+<news datetime="2011-02-07T04:57:00Z" href="http://www.animenewsnetwork.com/news/2011-02-06/japan-animation-tv-ranking-january-24-30">Japan's Animation TV Ranking, January 24-30</news>
+<news datetime="2011-02-22T04:36:23Z" href="http://www.animenewsnetwork.com/news/2011-02-21/japan-animation-tv-ranking-february-7-13">Japan's Animation TV Ranking, February 7-13</news>
+<news datetime="2011-03-20T02:12:50Z" href="http://www.animenewsnetwork.com/news/2011-03-19/japan-animation-tv-ranking-february-28-march-6">Japan's Animation TV Ranking, February 28-March 6</news>
+<news datetime="2011-03-23T17:45:09Z" href="http://www.animenewsnetwork.com/news/2011-03-23/anime/manga-releases-delayed-after-quake/part-iv">Anime/Manga Releases Delayed After Quake: Part IV</news>
+<news datetime="2011-03-24T03:03:29Z" href="http://www.animenewsnetwork.com/news/2011-03-23/japan-animation-tv-ranking-march-7-13">Japan's Animation TV Ranking, March 7-13</news>
+<news datetime="2011-03-29T02:56:56Z" href="http://www.animenewsnetwork.com/news/2011-03-28/japan-animation-tv-ranking-march-14-20">Japan's Animation TV Ranking, March 14-20</news>
+<news datetime="2011-04-15T03:30:00Z" href="http://www.animenewsnetwork.com/news/2011-04-14/japan-animation-tv-ranking-march-28-april-3">Japan's Animation TV Ranking, March 28-April 3</news>
+<news datetime="2011-04-29T03:30:00Z" href="http://www.animenewsnetwork.com/news/2011-04-28/japan-animation-tv-ranking-april-11-17">Japan's Animation TV Ranking, April 11-17</news>
+<news datetime="2011-05-02T23:30:00Z" href="http://www.animenewsnetwork.com/news/2011-05-02/japan-animation-tv-ranking-april-18-24">Japan's Animation TV Ranking, April 18-24</news>
+<news datetime="2011-05-17T03:00:00Z" href="http://www.animenewsnetwork.com/news/2011-05-16/japan-animation-tv-ranking-may-2-8">Japan's Animation TV Ranking, May 2-8</news>
+<news datetime="2011-05-24T21:30:00Z" href="http://www.animenewsnetwork.com/news/2011-05-24/japan-animation-tv-ranking-may-9-15">Japan's Animation TV Ranking, May 9-15</news>
+<news datetime="2011-05-30T03:57:03Z" href="http://www.animenewsnetwork.com/news/2011-05-29/japan-animation-tv-ranking-may-16-22">Japan's Animation TV Ranking, May 16-22</news>
+<news datetime="2011-06-27T02:00:00Z" href="http://www.animenewsnetwork.com/news/2011-06-26/japan-animation-tv-ranking-june-13-19">Japan's Animation TV Ranking, June 13-19</news>
+<news datetime="2011-07-08T02:30:00Z" href="http://www.animenewsnetwork.com/news/2011-07-07/japan-animation-tv-ranking-june-20-26">Japan's Animation TV Ranking, June 20-26</news>
+<news datetime="2011-07-11T03:57:00Z" href="http://www.animenewsnetwork.com/news/2011-07-10/japan-animation-tv-ranking-june-27-july-3">Japan's Animation TV Ranking, June 27-July 3</news>
+<news datetime="2011-07-17T03:57:00Z" href="http://www.animenewsnetwork.com/news/2011-07-16/japan-animation-tv-ranking-july-4-10">Japan's Animation TV Ranking, July 4-10</news>
+<news datetime="2011-08-21T23:00:00Z" href="http://www.animenewsnetwork.com/news/2011-08-21/japan-animation-tv-ranking-august-8-14">Japan's Animation TV Ranking, August 8-14</news>
+<news datetime="2011-09-20T03:57:00Z" href="http://www.animenewsnetwork.com/news/2011-09-19/japan-animation-tv-ranking-september-5-11">Japan's Animation TV Ranking, September 5-11</news>
+<news datetime="2011-09-26T02:30:00Z" href="http://www.animenewsnetwork.com/news/2011-09-25/japan-animation-tv-ranking-september-12-18">Japan's Animation TV Ranking, September 12-18</news>
+<news datetime="2011-10-11T03:57:00Z" href="http://www.animenewsnetwork.com/news/2011-10-10/japan-animation-tv-ranking-september-19-25">Japan's Animation TV Ranking, September 19-25</news>
+<news datetime="2011-10-21T02:30:00Z" href="http://www.animenewsnetwork.com/news/2011-10-20/japan-animation-tv-ranking-october-3-9">Japan's Animation TV Ranking, October 3-9</news>
+<news datetime="2011-11-06T00:30:00Z" href="http://www.animenewsnetwork.com/news/2011-11-05/bandai-namco-breaks-down-revenues-by-franchise">Bandai Namco Breaks Down Revenues by Franchise</news>
+<news datetime="2012-01-03T00:00:00Z" href="http://www.animenewsnetwork.com/news/2012-01-02/japan-animation-tv-ranking-november-28-december-4">Japan's Animation TV Ranking, November 28-December 4</news>
+<news datetime="2012-01-16T21:45:00Z" href="http://www.animenewsnetwork.com/news/2012-01-16/japanese-anime-tv-ranking/december-26-january-1">Japanese Animation TV Ranking, December 26-January 1</news>
+<news datetime="2012-08-14T22:15:00Z" href="http://www.animenewsnetwork.com/news/2012-08-14/japan-animation-tv-ranking-july-30-august-5">Japan's Animation TV Ranking, July 30-August 5</news>
+<news datetime="2012-09-04T17:25:00Z" href="http://www.animenewsnetwork.com/news/2012-09-04/tamagotchi-yume-kira-dream-tv-anime-to-debut-next-week">&lt;cite&gt;Tamagotchi! Yume Kira Dream&lt;/cite&gt; TV Anime to Debut Next Week</news>
+<news datetime="2013-08-01T02:00:00Z" href="http://www.animenewsnetwork.com/news/2013-07-31/chiwa-saito-emiri-kato-star-in-tamagotchi-miracle-friends-anime">Chiwa Saito, Emiri Katō Star in &lt;cite&gt;Tamagotchi! Miracle Friends&lt;/cite&gt; Anime</news>
+<news datetime="2014-03-10T05:30:00Z" href="http://www.animenewsnetwork.com/news/2014-03-10/hitomi-makes-voice-acting-debut-and-sings-for-new-tamagotchi-tv-anime">Hitomi Makes Voice-Acting Debut &amp; Sings for New &lt;em&gt;Tamagotchi&lt;/em&gt; TV Anime</news>
+<news datetime="2014-08-04T11:30:00Z" href="http://www.animenewsnetwork.com:/news/2014-08-04/japan-animation-tv-ranking-july-21-27/.77264">Japan's Animation TV Ranking, July 21-27</news>
+<staff gid="625792046"><task>Director</task><person id="16180">Jouji Shimura</person></staff>
+<staff gid="2013139128"><task>Series Composition</task><person id="1477">Aya Matsui</person></staff>
+<cast gid="111654694" lang="JA"><role>Happyhappytchi</role><person id="504">Satomi Koorogi</person></cast>
+<cast gid="2089435191" lang="JA"><role>Memetchi</role><person id="545">Ryoka Yuzuki</person></cast>
+<cast gid="2416138595" lang="JA"><role>Narrator</role><person id="780">Katsuyuki Konishi</person></cast>
+<cast gid="2108812536" lang="JA"><role>Mametchi</role><person id="808">Rie Kugimiya</person></cast>
+<cast gid="2330035277" lang="JA"><role>Uwasatchi</role><person id="2147">Wasabi Mizuta</person></cast>
+<cast gid="3034211959" lang="JA"><role>Kuromametchi</role><person id="6732">Nanae Katou</person></cast>
+<cast gid="3026591870" lang="JA"><role>Gozarutchi</role><person id="23816">Kiyotaka Furushima</person></cast>
+<cast gid="1677017481" lang="JA"><role>Kuchipatchi</role><person id="30996">Asami Yaguchi</person></cast>
+<cast gid="1763719491" lang="JA"><role>Chamametchi</role><person id="39757">Yuko Gibu</person></cast>
+<cast gid="1810045706" lang="JA"><role>Lovely-chi</role><person id="51932">Kei Shindou</person></cast>
+<cast gid="595530772" lang="TL"><role>Lovely-chi</role><person id="39833">Charvie Abeletes</person></cast>
+<cast gid="2052938724" lang="TL"><role>Mametchi</role><person id="59556">Christian Alvear</person></cast>
+<cast gid="1172607663" lang="TL"><role>Chamametchi</role><person id="62726">ROXANNE MANATO</person></cast>
+<credit gid="3166869279"><task>Animation Production</task><company id="1211">Oriental Light and Magic</company></credit>
+<credit gid="2998761995"><task>Production</task><company id="262">TV Tokyo</company></credit>
+<credit gid="2405295818"><task>Production</task><company id="10366">Team Tamagochi TV</company></credit></anime></ann>

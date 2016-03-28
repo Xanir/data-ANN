@@ -1,0 +1,3798 @@
+<ann><anime id="1318" gid="2234618076" type="TV" name="Doraemon" precision="TV 2/1979" generated-on="2016-03-27T03:55:46Z">
+<related-prev rel="alternate retelling of" id="1317"/>
+<related-next id="1920" rel="sequel"/>
+<related-next id="14223" rel="sequel"/>
+<info gid="3622629946" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A1318-30.jpg" width="200" height="133"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A1318-30.jpg" width="200" height="133"/><img src="http://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A1318-30.jpg" width="240" height="160"/></info>
+<info gid="1198531952" type="Main title" lang="EN">Doraemon</info>
+<info gid="1294581648" type="Alternative title" lang="AR">Abkoor ~ Al-Jamahiriya TV broadcast 1994</info>
+<info gid="1351146159" type="Alternative title" lang="ES">Doraemón El Gato Cósmico</info>
+<info gid="2358714148" type="Alternative title" lang="PT">Doraemon O Gato Cósmico</info>
+<info gid="2798357036" type="Alternative title" lang="ES">Las aventuras del gato cósmico</info>
+<info gid="2081009835" type="Alternative title" lang="PT">Super-Gato</info>
+<info gid="1889449993" type="Alternative title" lang="JA">ドラえもん</info>
+<info gid="3313570213" type="Genres">adventure</info>
+<info gid="2231798644" type="Genres">comedy</info>
+<info gid="1800799506" type="Genres">science fiction</info>
+<info gid="1139342896" type="Objectionable content">AA</info>
+<info gid="3184732528" type="Running time">half hour</info>
+<info gid="1209187794" type="Vintage">1979-04-02 to 2005-03-25</info>
+<info gid="2592217012" type="Vintage">1992 (Brazil - Rede Manchete)</info>
+<info gid="2351547227" type="Vintage">1994 (Libya ~ Al-Jamahiriya TV)</info>
+<info gid="1284102403" type="Vintage">2010-01-09 (Viet Nam, HTV3)</info>
+<info gid="2503382236" type="Opening Theme">#01: &quot;Doraemon no Uta (Weekly Program OP #1, Weekday Program OP #1)&quot; by Kumiko Oosugi, Nobuyo Oyama</info>
+<info gid="717641968" type="Opening Theme">#02: &quot;Boku Doraemon (Weekday Program OP #2)&quot; by Nobuyo Oyama, Koorogi '73</info>
+<info gid="1126670952" type="Opening Theme">#03: &quot;Doraemon no Uta (Weekly Program OP #2)&quot; by Satoko Yamano</info>
+<info gid="2163326065" type="Opening Theme">#04: &quot;Doraemon no Uta&quot; by Tokyo Purin</info>
+<info gid="3747177119" type="Opening Theme">#05: &quot;Doraemon no Uta&quot; by Misato Watanabe</info>
+<info gid="3191513065" type="Opening Theme">#06: &quot;Doraemon no Uta&quot; by AJI</info>
+<info gid="2659644961" type="Ending Theme">#01: &quot;Doraemon Ekaki-uta (Extra ED theme song)&quot; by Nobuyo Oyama</info>
+<info gid="1384304109" type="Ending Theme">#02: &quot;Aoi Sora wa Pocket sa&quot; by Kumiko Oosugi</info>
+<info gid="2901187920" type="Ending Theme">#03: &quot;Doraemon Ondo (Extra ED theme song)&quot; by Nobuyo Oyama, Koorogi '73</info>
+<info gid="1590977782" type="Ending Theme">#04: &quot;Dorami-chan Ekaki-uta (Extra ED theme song)&quot; by Keiko Yokozawa</info>
+<info gid="3330471847" type="Ending Theme">#05: &quot;Maru-gao no Uta&quot; by Nobuyo Oyama</info>
+<info gid="2486906691" type="Ending Theme">#06: &quot;Boku-tachi Chikyuu-jin&quot; by Mitsuko Horie</info>
+<info gid="1990318423" type="Ending Theme">#06: &quot;Santa Claus wa Doko no Hito&quot; by Nobuyo Oyama</info>
+<info gid="2451779874" type="Ending Theme">#07: &quot;Aozora-tte Iina&quot; by Mitsuko Horie</info>
+<info gid="3850513658" type="Ending Theme">#08: &quot;Ashita mo Tomodachi&quot; by Yui Nishiwaki</info>
+<info gid="1735215165" type="Ending Theme">#09: &quot;Boku Doraemon 2112&quot; by Nobuyo Oyama, Koorogi '73</info>
+<info gid="1625599526" type="Ending Theme">#10: &quot;Mata Aeru Hi made&quot; by YUZU</info>
+<info gid="3647154212" type="Ending Theme">#11: &quot;Tanpopo no Uta&quot; by THE ALFEE</info>
+<info gid="2509702907" type="Ending Theme">#12: &quot;YUME-biyori&quot; by Hitomi Shimatani</info>
+<info gid="1173838080" type="Ending Theme">#13: &quot;Aa Iina!&quot; by W [Double You]</info>
+<info gid="241085107" type="Official website" lang="JA" href="http://www.tv-asahi.co.jp/doraemon/">TV-Asahi Doraemon official website</info>
+<ratings nb_votes="131" weighted_score="7.1172" bayesian_score="7.15383"/>
+<episode num="1">
+<title gid="2781616377" lang="EN">Dream Town, Nobita Land</title></episode>
+<episode num="2">
+<title gid="815233529" lang="EN">Transformation Biscuits</title></episode>
+<episode num="3">
+<title gid="3575048467" lang="EN">Memory Bread for Testing</title></episode>
+<episode num="4">
+<title gid="498740784" lang="EN">N &amp; S Emblems</title></episode>
+<episode num="5">
+<title gid="4067952238" lang="EN">Wrestling Killer</title></episode>
+<episode num="6">
+<title gid="2099205970" lang="EN">Nobita's Bride</title></episode>
+<episode num="7">
+<title gid="3947623339" lang="EN">Doraemon's Prediction</title></episode>
+<episode num="8">
+<title gid="2548360535" lang="EN">Dinosaur Hunting</title></episode>
+<episode num="9">
+<title gid="2408719915" lang="EN">Spy War about top secret</title></episode>
+<episode num="10">
+<title gid="2601509057" lang="EN">Lucky Gun</title></episode>
+<episode num="11">
+<title gid="1307556995" lang="EN">Cursing Camera</title></episode>
+<episode num="12">
+<title gid="1641269427" lang="EN">Build up Subway</title></episode>
+<episode num="13">
+<title gid="2872416018" lang="EN">One Time Exam at least in the Life</title></episode>
+<episode num="14">
+<title gid="2076872994" lang="EN">Game of exchanging Mom</title></episode>
+<episode num="15">
+<title gid="2496507677" lang="EN">Air Combat</title></episode>
+<episode num="16">
+<title gid="746731933" lang="EN">Door out of nothing</title></episode>
+<episode num="17">
+<title gid="3652954008" lang="EN">Run, Machine-Horse!</title></episode>
+<episode num="18">
+<title gid="1844648982" lang="EN">Yes, I do</title></episode>
+<episode num="19">
+<title gid="861653828" lang="EN">Traffic Tools Combination</title></episode>
+<episode num="20">
+<title gid="3371226600" lang="EN">Pretty Mai</title></episode>
+<episode num="21">
+<title gid="3889687242" lang="EN">Toy Troop</title></episode>
+<episode num="22">
+<title gid="882450999" lang="EN">The Fish Flag Float</title></episode>
+<episode num="23">
+<title gid="2722054864" lang="EN">Old Tool Competition</title></episode>
+<episode num="24">
+<title gid="1797888387" lang="EN">Making Craft is Fun</title></episode>
+<episode num="25">
+<title gid="2593816215" lang="EN">Glove breaking in Beast of Pray</title></episode>
+<episode num="26">
+<title gid="2102432523" lang="EN">Ancestors, come in!</title></episode>
+<episode num="27">
+<title gid="2745608277" lang="EN">Girl like a white Lily</title></episode>
+<episode num="28">
+<title gid="1594557468" lang="EN">Say one Thing but mean others</title></episode>
+<episode num="29">
+<title gid="1961913005" lang="EN">Time Camera</title></episode>
+<episode num="30">
+<title gid="810600049" lang="EN">Proposal War</title></episode>
+<episode num="31">
+<title gid="1601615935" lang="EN">Machine arranging Things</title></episode>
+<episode num="32">
+<title gid="1127859809" lang="EN">Tanuki Machine changing the Body</title></episode>
+<episode num="33">
+<title gid="951209874" lang="EN">Why do you care about whose Stuff is whose</title></episode>
+<episode num="34">
+<title gid="1956009840" lang="EN">Kissing Ass Lipstick</title></episode>
+<episode num="35">
+<title gid="1647366956" lang="EN">Missing Grandmom - Part I</title></episode>
+<episode num="36">
+<title gid="2366762537" lang="EN">Missing Grandmom - Part II</title></episode>
+<episode num="37">
+<title gid="2521107806" lang="EN">The Beeper to go to the Future</title></episode>
+<episode num="38">
+<title gid="3494103578" lang="EN">My Teacher</title></episode>
+<episode num="39">
+<title gid="2204599729" lang="EN">Nobita in the Mirror</title></episode>
+<episode num="40">
+<title gid="2435527239" lang="EN">Concrete Baking Tool</title></episode>
+<episode num="41">
+<title gid="3517423573" lang="EN">Take Submarine into the Sea</title></episode>
+<episode num="42">
+<title gid="1840126825" lang="EN">Friendship Capsule</title></episode>
+<episode num="43">
+<title gid="1776568549" lang="EN">Goku Cross</title></episode>
+<episode num="44">
+<title gid="2385260204" lang="EN">Apartment Tree</title></episode>
+<episode num="45">
+<title gid="1715842716" lang="EN">Use Time Machines to get the Inmates</title></episode>
+<episode num="46">
+<title gid="1406902379" lang="EN">Shooting Championship</title></episode>
+<episode num="47">
+<title gid="1682198843" lang="EN">Finebox</title></episode>
+<episode num="48">
+<title gid="2210917074" lang="EN">Nobita`s Adventure</title></episode>
+<episode num="49">
+<title gid="1559834069" lang="EN">Air Diamonds Manufacturing Machine</title></episode>
+<episode num="50">
+<title gid="2074689060" lang="EN">Continuing Atomizer</title></episode>
+<episode num="51">
+<title gid="3407337222" lang="EN">Take back the lost Machine</title></episode>
+<episode num="52">
+<title gid="3379927556" lang="EN">The pre-requisite Antenna</title></episode>
+<episode num="53">
+<title gid="2458551573" lang="EN">Sound Nugget</title></episode>
+<episode num="54">
+<title gid="2422339086" lang="EN">Star of Hope</title></episode>
+<episode num="55">
+<title gid="1441077496" lang="EN">Become Thunder</title></episode>
+<episode num="56">
+<title gid="1922622873" lang="EN">XYZ Light Camera</title></episode>
+<episode num="57">
+<title gid="1539921701" lang="EN">The Wack in the Future</title></episode>
+<episode num="58">
+<title gid="3608990217" lang="EN">The Love of Machines</title></episode>
+<episode num="59">
+<title gid="1127085950" lang="EN">Take out the Cloud to play</title></episode>
+<episode num="60">
+<title gid="1744141371" lang="EN">The Sellotape of Fact</title></episode>
+<episode num="61">
+<title gid="1882985155" lang="EN">Fake Universe Man</title></episode>
+<episode num="62">
+<title gid="1197295954" lang="EN">Proposal War</title></episode>
+<episode num="63">
+<title gid="2715436580" lang="EN">Go to School by Bow and Arrow</title></episode>
+<episode num="64">
+<title gid="638040499" lang="EN">With Mirror Ads</title></episode>
+<episode num="65">
+<title gid="229912487" lang="EN">The SnaiI Room ls Very Relaxing</title></episode>
+<episode num="66">
+<title gid="1493725739" lang="EN">Man-making Machine</title></episode>
+<episode num="67">
+<title gid="2478021801" lang="EN">Steal Mom's Diamond</title></episode>
+<episode num="68">
+<title gid="3522513962" lang="EN">Hot Powder</title></episode>
+<episode num="69">
+<title gid="912792062" lang="EN">Shopping In The Future</title></episode>
+<episode num="70">
+<title gid="2754083215" lang="EN">The Robot-Control-Training Machine</title></episode>
+<episode num="71">
+<title gid="1604335356" lang="EN">Tatami</title></episode>
+<episode num="72">
+<title gid="3555696073" lang="EN">Cat Runs a Company</title></episode>
+<episode num="73">
+<title gid="3385090387" lang="EN">Speed Clock</title></episode>
+<episode num="74">
+<title gid="1921546082" lang="EN">Girlfriend List</title></episode>
+<episode num="75">
+<title gid="1858961156" lang="EN">Pocket Telescope</title></episode>
+<episode num="76">
+<title gid="362310020" lang="EN">Home's further and further away</title></episode>
+<episode num="77">
+<title gid="2477554925" lang="EN">Bribe War Plan</title></episode>
+<episode num="78">
+<title gid="4288978367" lang="EN">We can't read in the Sahara</title></episode>
+<episode num="79">
+<title gid="2284754628" lang="EN">Cram Mirror</title></episode>
+<episode num="80">
+<title gid="1531477535" lang="EN">Peck Rope</title></episode>
+<episode num="81">
+<title gid="3034594315" lang="EN">Go Forward the Devil Road</title></episode>
+<episode num="82">
+<title gid="3652255261" lang="EN">The Medicine of Boy Students and Girl Students</title></episode>
+<episode num="83">
+<title gid="3835610539" lang="EN">The Pengpeng Leaf</title></episode>
+<episode num="84">
+<title gid="3538989108" lang="EN">The Forgotten Iron Hammer</title></episode>
+<episode num="85">
+<title gid="3144436236" lang="EN">Happy Life</title></episode>
+<episode num="86">
+<title gid="1502396762" lang="EN">Space Mountain Tai, the forepart</title></episode>
+<episode num="87">
+<title gid="2491629762" lang="EN">Space Mountain Tai, the postpart</title></episode>
+<episode num="88">
+<title gid="3319386071" lang="EN">The Soul Machine</title></episode>
+<episode num="89">
+<title gid="3057652845" lang="EN">Even it's in the Gaster-water</title></episode>
+<episode num="90">
+<title gid="2279435663" lang="EN">Channel of Dream</title></episode>
+<episode num="91">
+<title gid="1713125663" lang="EN">Development and Degradation Radiation</title></episode>
+<episode num="92">
+<title gid="2078966628" lang="EN">The Super Armor</title></episode>
+<episode num="93">
+<title gid="2752668747" lang="EN">Hot Spring Travel</title></episode>
+<episode num="94">
+<title gid="1329820598" lang="EN">If Gian's a Superman</title></episode>
+<episode num="95">
+<title gid="954041569" lang="EN">Mouse and bomb</title></episode>
+<episode num="96">
+<title gid="1687189031" lang="EN">Fantastic Pellet</title></episode>
+<episode num="97">
+<title gid="3642185500" lang="EN">Special Vision Report</title></episode>
+<episode num="98">
+<title gid="1945049287" lang="EN">Human Remote Control</title></episode>
+<episode num="99">
+<title gid="3413767394" lang="EN">Disgust Maker</title></episode>
+<episode num="100">
+<title gid="2508753481" lang="EN">Huko the Typhoon</title></episode>
+<episode num="101">
+<title gid="2298640794" lang="EN">Unexisting Shower</title></episode>
+<episode num="102">
+<title gid="2572987241" lang="EN">Predicting Bug</title></episode>
+<episode num="103">
+<title gid="381983244" lang="EN">Wonder Rope</title></episode>
+<episode num="104">
+<title gid="2501636282" lang="EN">Slowly Panicking</title></episode>
+<episode num="105">
+<title gid="3729332764" lang="EN">Detecting Badges</title></episode>
+<episode num="106">
+<title gid="3633476716" lang="EN">Forgetful Bird</title></episode>
+<episode num="107">
+<title gid="2687491478" lang="EN">Vending Machine</title></episode>
+<episode num="108">
+<title gid="3194265805" lang="EN">Grandpa in the Dream</title></episode>
+<episode num="109">
+<title gid="3299247160" lang="EN">Paper Machine Man</title></episode>
+<episode num="110">
+<title gid="751327692" lang="EN">Black Belt Nobita</title></episode>
+<episode num="111">
+<title gid="2060222335" lang="EN">Ultra Mixer</title></episode>
+<episode num="112">
+<title gid="2898961788" lang="EN">The Making of Desert Island</title></episode>
+<episode num="113">
+<title gid="3528853223" lang="EN">Typhoon Maker</title></episode>
+<episode num="114">
+<title gid="3692480501" lang="EN">A World Does Not Use Money</title></episode>
+<episode num="115">
+<title gid="2741952597" lang="EN">Upside Down</title></episode>
+<episode num="116">
+<title gid="2867410043" lang="EN">Sharing Chewing Gum</title></episode>
+<episode num="117">
+<title gid="2790732284" lang="EN">Secret Treasure of Nobita Choweiman</title></episode>
+<episode num="118">
+<title gid="1559720105" lang="EN">Plan Clock</title></episode>
+<episode num="119">
+<title gid="1866016933" lang="EN">Ancient Venture</title></episode>
+<episode num="120">
+<title gid="2153509502" lang="EN">Everywhere Cannon</title></episode>
+<episode num="121">
+<title gid="503979217" lang="EN">Flying Fish</title></episode>
+<episode num="122">
+<title gid="2277658535" lang="JA">Nikumenain</title></episode>
+<episode num="123">
+<title gid="3149927538" lang="EN">Moving Everywhere</title></episode>
+<episode num="124">
+<title gid="3018577063" lang="EN">Dream Walker</title></episode>
+<episode num="125">
+<title gid="3133164477" lang="EN">Ghost Lamp</title></episode>
+<episode num="126">
+<title gid="3382860938" lang="EN">Predictable Diary. How Horrible</title></episode>
+<episode num="127">
+<title gid="843990921" lang="EN">Pitcher's Hat</title></episode>
+<episode num="128">
+<title gid="2042120494" lang="EN">Tea Pot Tape Recorder</title></episode>
+<episode num="129">
+<title gid="3197977370" lang="EN">Peipei Medicine</title></episode>
+<episode num="130">
+<title gid="3302625547" lang="EN">Mixed Up O'Clock</title></episode>
+<episode num="131">
+<title gid="1043143959" lang="EN">Avalanche at the Study Room</title></episode>
+<episode num="132">
+<title gid="1998478646" lang="EN">Sesame Lock</title></episode>
+<episode num="133">
+<title gid="1808237325" lang="EN">Sticky Coin</title></episode>
+<episode num="134">
+<title gid="2120733721" lang="EN">Machine Ball</title></episode>
+<episode num="135">
+<title gid="2997831511" lang="EN">Weird Umbrella</title></episode>
+<episode num="136">
+<title gid="1622209180" lang="JA">Tamashiimumashin</title></episode>
+<episode num="137">
+<title gid="2515928684" lang="EN">Time Piggy Bank</title></episode>
+<episode num="138">
+<title gid="1698752906" lang="EN">Main Character Package Machine</title></episode>
+<episode num="139">
+<title gid="694272084" lang="EN">Mind Reading Machine</title></episode>
+<episode num="140">
+<title gid="1748564070" lang="EN">Winning the Big Prize</title></episode>
+<episode num="141">
+<title gid="2611511305" lang="EN">Actual Object Solar Camera</title></episode>
+<episode num="142">
+<title gid="1088510418" lang="EN">News Publisher Game</title></episode>
+<episode num="143">
+<title gid="1215085787" lang="EN">Appraising Machine</title></episode>
+<episode num="144">
+<title gid="1916859571" lang="EN">Skiing in the Park</title></episode>
+<episode num="145">
+<title gid="3296786102" lang="EN">Play the Doll</title></episode>
+<episode num="146">
+<title gid="1049232154" lang="EN">Time Machine</title></episode>
+<episode num="147">
+<title gid="2806700178" lang="EN">Adventurous Magic Restored Stick!</title></episode>
+<episode num="148">
+<title gid="1526533533" lang="EN">Magic Replaced Stick</title></episode>
+<episode num="149">
+<title gid="1404202251" lang="EN">Formosi Prop</title></episode>
+<episode num="150">
+<title gid="2918313174" lang="JA">Nezumi Tobaku Da N</title></episode>
+<episode num="151">
+<title gid="1864774327" lang="EN">Healthful Entrements!</title></episode>
+<episode num="152">
+<title gid="2391800167" lang="EN">How Ogrish! Gold Boas's Head</title></episode>
+<episode num="153">
+<title gid="2635963310" lang="EN">The Talent Painter Who Could Draw Outlook About Cap Without Rim</title></episode>
+<episode num="154">
+<title gid="2547418216" lang="EN">Shizuka's Belt</title></episode>
+<episode num="155">
+<title gid="2327463448" lang="EN">Draw Cartoon in Can</title></episode>
+<episode num="156">
+<title gid="2851079041" lang="EN">The Nature in the Room</title></episode>
+<episode num="157">
+<title gid="1245292294" lang="EN">The Liquid Fecit the Force Scope</title></episode>
+<episode num="158">
+<title gid="2700821849" lang="EN">Pill Forcing Weight</title></episode>
+<episode num="159">
+<title gid="654177557" lang="EN">The Story With the Disaster Around</title></episode>
+<episode num="160">
+<title gid="1254574928" lang="EN">Mini Typhoon</title></episode>
+<episode num="161">
+<title gid="2257389081" lang="EN">Plan of Shoot!</title></episode>
+<episode num="162">
+<title gid="1509947755" lang="EN">Energetic Shill</title></episode>
+<episode num="163">
+<title gid="3654386617" lang="EN">Feeling Instrument Panel</title></episode>
+<episode num="164">
+<title gid="1983206060" lang="EN">It's the Secret Passage to Run Away</title></episode>
+<episode num="165">
+<title gid="1568806808" lang="EN">Combination of Watching Free of Charge</title></episode>
+<episode num="166">
+<title gid="606923542" lang="EN">Romance in the Mountain</title></episode>
+<episode num="167">
+<title gid="2701490858" lang="EN">The Money Bees Are Working Hard</title></episode>
+<episode num="168">
+<title gid="2750188700" lang="EN">Delivery Bag</title></episode>
+<episode num="169">
+<title gid="511353124" lang="EN">The Sniffy Octopus</title></episode>
+<episode num="170">
+<title gid="1407587114" lang="EN">With the Almighty Camp, You'll Have A Great Camping</title></episode>
+<episode num="171">
+<title gid="2863996800" lang="EN">Take the Pluto</title></episode>
+<episode num="172">
+<title gid="2783292210" lang="EN">Inorganic Soporific Megaphone</title></episode>
+<episode num="173">
+<title gid="2866649213" lang="EN">Magic Straw</title></episode>
+<episode num="174">
+<title gid="3446067669" lang="EN">Salvation Pill at the Eleventh Hour</title></episode>
+<episode num="175">
+<title gid="3548184786" lang="EN">The Magnet</title></episode>
+<episode num="176">
+<title gid="2391202214" lang="EN">How Melting</title></episode>
+<episode num="177">
+<title gid="3039158973" lang="EN">Epidemical Viruses</title></episode>
+<episode num="178">
+<title gid="1393416423" lang="EN">Visional Call System</title></episode>
+<episode num="179">
+<title gid="2145598943" lang="JA">Urutora Mikisā</title></episode>
+<episode num="180">
+<title gid="1442059174" lang="EN">To Perform in TV With the Touch Camera</title></episode>
+<episode num="181">
+<title gid="2254524533" lang="EN">The Hurricane Maker Machine</title></episode>
+<episode num="182">
+<title gid="2579611720" lang="EN">The New Species of Plant Machine</title></episode>
+<episode num="183">
+<title gid="2357797207" lang="EN">The World Without the Necessity of Money</title></episode>
+<episode num="184">
+<title gid="1671563682" lang="EN">Abe Konbe (Power of Reversal)</title></episode>
+<episode num="185">
+<title gid="1227478924" lang="EN">Dairy Gum</title></episode>
+<episode num="186">
+<title gid="1015077915" lang="EN">Dahlia's Bad Luck</title></episode>
+<episode num="187">
+<title gid="2028311806" lang="EN">I Hate Money!</title></episode>
+<episode num="188">
+<title gid="2890683686" lang="EN">The Hum of Sharing</title></episode>
+<episode num="189">
+<title gid="2422435686" lang="JA">Nobi Hidari e mon no Hihou</title></episode>
+<episode num="190">
+<title gid="2129371516" lang="JA">Sukejūru Doke I</title></episode>
+<episode num="191">
+<title gid="2488012378" lang="EN">Ayaushi! Lion Mask</title></episode>
+<episode num="192">
+<title gid="1046973957" lang="EN">Saving Pero!</title></episode>
+<episode num="193">
+<title gid="2058243491" lang="EN">Jian's Spirit Friend</title></episode>
+<episode num="194">
+<title gid="1759614063" lang="JA">Dai Mukashi Hyouryuu Ki</title></episode>
+<episode num="195">
+<title gid="1996967998" lang="JA">Doko Demo Dai Hou</title></episode>
+<episode num="196">
+<title gid="2155013105" lang="EN">Sky Flying Fish</title></episode>
+<episode num="197">
+<title gid="3188456852" lang="EN">Nobita's Nobita</title></episode>
+<episode num="198">
+<title gid="2143996274" lang="EN">Hee Tree</title></episode>
+<episode num="199">
+<title gid="3195512904" lang="EN">Sherlock Holmes Set</title></episode>
+<episode num="200">
+<title gid="1001807162" lang="EN">Dwarf Robot</title></episode>
+<episode num="201">
+<title gid="2796837589" lang="EN">One Inch Master</title></episode>
+<episode num="202">
+<title gid="2066940325" lang="EN">Clothes Changing Camera</title></episode>
+<episode num="203">
+<title gid="1773539834" lang="EN">Always Hit Palm Set</title></episode>
+<episode num="204">
+<title gid="3053217579" lang="JA">Ōru Shīzun Bacchi</title></episode>
+<episode num="205">
+<title gid="1611027868" lang="JA">Hirari Manto</title></episode>
+<episode num="206">
+<title gid="1862022774" lang="JA">Tachi Yume Bou</title></episode>
+<episode num="207">
+<title gid="2407280012" lang="JA">Achikochi Hikkoso U</title></episode>
+<episode num="208">
+<title gid="525524567" lang="JA">Jīn to Kandou Suru Hanashi</title></episode>
+<episode num="209">
+<title gid="3298813330" lang="JA">Arakajime Nikki Ha Osoroshii</title></episode>
+<episode num="210">
+<title gid="867426565" lang="JA">Utsutsu Makura</title></episode>
+<episode num="211">
+<title gid="1194461418" lang="JA">Hako Niwa Sukī Jou</title></episode>
+<episode num="212">
+<title gid="1731581962" lang="JA">Yakanrekōdā</title></episode>
+<episode num="213">
+<title gid="1848243410" lang="JA">Tacchi Tebukuro</title></episode>
+<episode num="214">
+<title gid="1852404487" lang="JA">Yuki de Acchicchi</title></episode>
+<episode num="215">
+<title gid="1795448367" lang="EN">The Confidentiality Pen</title></episode>
+<episode num="216">
+<title gid="2832715025" lang="JA">Sekki Jidai no Ousama ni</title></episode>
+<episode num="217">
+<title gid="1776326745" lang="JA">Raitā Shibai</title></episode>
+<episode num="218">
+<title gid="3407016315" lang="JA">Ningyou Asobi</title></episode>
+<episode num="219">
+<title gid="1815132406" lang="JA">Kaidan Ranpu</title></episode>
+<episode num="220">
+<title gid="2765335547" lang="JA">Okashi Bokusou</title></episode>
+<episode num="221">
+<title gid="240405992" lang="JA">Goma Rokku</title></episode>
+<episode num="222">
+<title gid="3201212965" lang="JA">Raku ga Ki Juu</title></episode>
+<episode num="223">
+<title gid="950885641" lang="JA">Keshigomu de Nopperabou</title></episode>
+<episode num="224">
+<title gid="2233878303" lang="JA">Okashina Okashina Kasa</title></episode>
+<episode num="225">
+<title gid="1081177391" lang="JA">Ēsu Kyappu</title></episode>
+<episode num="226">
+<title gid="1958181453" lang="JA">Hyaku Nen Go no Furoku</title></episode>
+<episode num="227">
+<title gid="1457711836" lang="JA">Shuyaku Hamekomi Ki</title></episode>
+<episode num="228">
+<title gid="2166100831" lang="JA">Kurou Miso</title></episode>
+<episode num="229">
+<title gid="529889319" lang="JA">Asurechikku Hausu</title></episode>
+<episode num="230">
+<title gid="793144230" lang="JA">Takarakuji Ooatari</title></episode>
+<episode num="231">
+<title gid="709629590" lang="JA">Baibain</title></episode>
+<episode num="232">
+<title gid="3623763868" lang="JA">Iya na Okyaku no Kaeshi Kata</title></episode>
+<episode num="233">
+<title gid="2740891615" lang="JA">Tedukuri Misairu Dai Sakusen</title></episode>
+<episode num="234">
+<title gid="2280820742" lang="JA">Otouto o Tsukuro U</title></episode>
+<episode num="235">
+<title gid="3583652506" lang="JA">Kyou Onpa Hasshin Ki</title></episode>
+<episode num="236">
+<title gid="1295514006" lang="JA">Nana Ji ni Nani ka ga Okoru</title></episode>
+<episode num="237">
+<title gid="1921933628" lang="JA">Irekae Rōpu</title></episode>
+<episode num="238">
+<title gid="1024878321" lang="JA">Maddo.uocchi</title></episode>
+<episode num="239">
+<title gid="1444221858" lang="JA">Ma Do Keshiki Kirikae Ki</title></episode>
+<episode num="240">
+<title gid="2521881757" lang="JA">Benkyou Be ya no Dai Nadare</title></episode>
+<episode num="241">
+<title gid="1985860793" lang="JA">Kingukongu</title></episode>
+<episode num="242">
+<title gid="3443998227" lang="EN">I am Mari-chan (1)</title></episode>
+<episode num="243">
+<title gid="3534780307" lang="EN">I am Mari-chan (2)</title></episode>
+<episode num="244">
+<title gid="1030476722" lang="JA">Imēji Tou</title></episode>
+<episode num="245">
+<title gid="1926856992" lang="JA">Kouen de Sukī o!!</title></episode>
+<episode num="246">
+<title gid="2043315512" lang="JA">Yume Fuu Rin</title></episode>
+<episode num="247">
+<title gid="651996653" lang="JA">Itadaki Shou Ban</title></episode>
+<episode num="248">
+<title gid="1833549585" lang="JA">Mochinushi Ate Ki</title></episode>
+<episode num="249">
+<title gid="2112176000" lang="JA">Pusshu Doa</title></episode>
+<episode num="250">
+<title gid="3007096621" lang="EN">Robots..</title></episode>
+<episode num="251">
+<title gid="2513395841" lang="JA">Mi Gawari Bā</title></episode>
+<episode num="252">
+<title gid="2367236151" lang="JA">Karada no Kawa o Hagu Hanashi</title></episode>
+<episode num="253">
+<title gid="869721966" lang="JA">Jikan Chokin Bako</title></episode>
+<episode num="254">
+<title gid="3558898182" lang="JA">Tere Pashii</title></episode>
+<episode num="255">
+<title gid="2158451837" lang="JA">Kono e 600 Man En</title></episode>
+<episode num="256">
+<title gid="1072201922" lang="EN">Moshimo Box</title></episode>
+<episode num="257">
+<title gid="1605450223" lang="JA">You Rou o Tsumami</title></episode>
+<episode num="258">
+<title gid="1039544060" lang="JA">Kono Kaze Utsushi Masu</title></episode>
+<episode num="259">
+<title gid="2520546489" lang="JA">Terepasurobotto</title></episode>
+<episode num="260">
+<title gid="2901878823" lang="JA">Sora de Ason Ja Abunai yo</title></episode>
+<episode num="261">
+<title gid="2550973647" lang="JA">Sukesuke Bouenkyou</title></episode>
+<episode num="262">
+<title gid="2327675569" lang="JA">Monomōsu</title></episode>
+<episode num="263">
+<title gid="2375938435" lang="JA">Heya no Naka no Dai Shizen</title></episode>
+<episode num="264">
+<title gid="4002301764" lang="JA">Doubutsu ga Ta Nigedashi Ji</title></episode>
+<episode num="265">
+<title gid="2517411688" lang="JA">Yasēru</title></episode>
+<episode num="266">
+<title gid="1563771820" lang="JA">Uchi de no Koduchi</title></episode>
+<episode num="267">
+<title gid="431676556" lang="JA">Jitsubutsu Rittai Nikkou Shashin</title></episode>
+<episode num="268">
+<title gid="3636200231" lang="JA">Sainan ni Kakoma Re Ta Hanashi</title></episode>
+<episode num="269">
+<title gid="2285165490" lang="JA">Yoru o Uri Masu</title></episode>
+<episode num="270">
+<title gid="2566809249" lang="JA">Arigatamiwakari Ki</title></episode>
+<episode num="271">
+<title gid="2792466964" lang="JA">Jaianshichū</title></episode>
+<episode num="272">
+<title gid="1472719776" lang="JA">Rūmu Marason</title></episode>
+<episode num="273">
+<title gid="2030399110" lang="JA">Shinbun Sha Gokko Setto</title></episode>
+<episode num="274">
+<title gid="1936499600" lang="JA">Pandora Bokkusu</title></episode>
+<episode num="275">
+<title gid="2122207847" lang="JA">Rajikonshumirētā de Buttobase</title></episode>
+<episode num="276">
+<title gid="1562559436" lang="JA">Kinniku Kontorōrā</title></episode>
+<episode num="277">
+<title gid="1516158010" lang="JA">Go Ki Gen Mētā</title></episode>
+<episode num="278">
+<title gid="1760177297" lang="JA">Sai Min Ki</title></episode>
+<episode num="279">
+<title gid="2903332223" lang="JA">Jidou Shichiya Ki</title></episode>
+<episode num="280">
+<title gid="2391894242" lang="JA">Kuizugēmumashin</title></episode>
+<episode num="281">
+<title gid="2929117577" lang="JA">Chikyuu Dasshutsu Keikaku</title></episode>
+<episode num="282">
+<title gid="2282308195" lang="JA">Robotto ga Homere Ba</title></episode>
+<episode num="283">
+<title gid="1784586152" lang="JA">Yukiyama no Romansu</title></episode>
+<episode num="284">
+<title gid="3935754199" lang="JA">Wasurero Kusa</title></episode>
+<episode num="285">
+<title gid="2545073627" lang="JA">Hyaku Ku Taimā</title></episode>
+<episode num="286">
+<title gid="3535999816" lang="JA">Muriyaritorepan</title></episode>
+<episode num="287">
+<title gid="1749794977" lang="JA">Shitsuke Kyandē</title></episode>
+<episode num="288">
+<title gid="1323310227" lang="JA">Jikkan Bou</title></episode>
+<episode num="289">
+<title gid="2573464134" lang="JA">Kyoudai Shīru</title></episode>
+<episode num="290">
+<title gid="2078995107" lang="JA">Konchū ni</title></episode>
+<episode num="291">
+<title gid="2110129265" lang="JA">Taimu Mashin</title></episode>
+<episode num="292">
+<title gid="2840212003" lang="JA">Mu Seibutsu Sai Min Mega Fon</title></episode>
+<episode num="293">
+<title gid="1809262189" lang="JA">Fumikiri Setto</title></episode>
+<episode num="294">
+<title gid="3043685433" lang="JA">Suriru Būmeran</title></episode>
+<episode num="295">
+<title gid="1409412742" lang="JA">Chōjawarashibe</title></episode>
+<episode num="296">
+<title gid="2500348043" lang="JA">Mūdo Mori Age Gakudan Toujou!</title></episode>
+<episode num="297">
+<title gid="3013308302" lang="JA">Misairu ga Ot Te Kuru</title></episode>
+<episode num="298">
+<title gid="2900492648" lang="JA">Kōmon Ji</title></episode>
+<episode num="299">
+<title gid="2647852252" lang="JA">Demae Denwa</title></episode>
+<episode num="300">
+<title gid="1927216648" lang="JA">Mushakushakā Tto Ki Tara</title></episode>
+<episode num="301">
+<title gid="1255905555" lang="JA">Pinchi no Toki ni Tasukeron</title></episode>
+<episode num="302">
+<title gid="3671238215" lang="JA">O Hanashi Bajj I</title></episode>
+<episode num="303">
+<title gid="2806596946" lang="JA">Kyoufu!! Gorugon no Kubi</title></episode>
+<episode num="304">
+<title gid="659741917" lang="JA">Kappurutesutobajj I</title></episode>
+<episode num="305">
+<title gid="1021141246" lang="JA">Fukou no Tegami Doukou kai</title></episode>
+<episode num="306">
+<title gid="2080947973" lang="JA">Mi Ta Mama Berē de Tensai Gaka</title></episode>
+<episode num="307">
+<title gid="2406942168" lang="JA">Kakuu Tsuuwa Adaputā</title></episode>
+<episode num="308">
+<title gid="3037224363" lang="JA">Suki de Tama Ra Nyai</title></episode>
+<episode num="309">
+<title gid="642792008" lang="EN">Shizu-chan's Robe of Feather</title></episode>
+<episode num="310">
+<title gid="2265595605" lang="JA">Sora de Fuwafuwa</title></episode>
+<episode num="311">
+<title gid="2511480832" lang="JA">Ta Mokuteki o Mamori</title></episode>
+<episode num="312">
+<title gid="1418584929" lang="JA">'Kan Dumekan' de Manga o!</title></episode>
+<episode num="313">
+<title gid="2857401100" lang="EN">Bird Taxes</title></episode>
+<episode num="314">
+<title gid="2479445491" lang="EN">Explosive Pepper</title></episode>
+<episode num="315">
+<title gid="1252249673" lang="JA">Nawabariekisu</title></episode>
+<episode num="316">
+<title gid="4069509574" lang="JA">Kishou Shīto</title></episode>
+<episode num="317">
+<title gid="2512634668" lang="JA">Maji.Kon Te Nan Da?</title></episode>
+<episode num="318">
+<title gid="464091139" lang="JA">Wasure Butsu Okuritodoke Ki</title></episode>
+<episode num="319">
+<title gid="1639273476" lang="JA">Kumo ni Nat Te??</title></episode>
+<episode num="320">
+<title gid="2563321686" lang="JA">Chippoketto 2 Jigen Kamera</title></episode>
+<episode num="321">
+<title gid="2193490571" lang="JA">'Omoikomin'</title></episode>
+<episode num="322">
+<title gid="2815162428" lang="JA">Sai Min Gurasu</title></episode>
+<episode num="323">
+<title gid="992241767" lang="JA">Shiawase o Yobu Aoi Tori</title></episode>
+<episode num="324">
+<title gid="1399891492" lang="JA">Niwa de Yama Nobori</title></episode>
+<episode num="325">
+<title gid="3550332785" lang="JA">Souon Kougai o Kandume ni shi Chae</title></episode>
+<episode num="326">
+<title gid="2664570909" lang="JA">Urutora Sūpā Denchi</title></episode>
+<episode num="327">
+<title gid="1591162184" lang="JA">Mini Tai Fuu</title></episode>
+<episode num="328">
+<title gid="2083385822" lang="JA">Saikin de Dora Yaki o Tsukuro U</title></episode>
+<episode num="329">
+<title gid="1212711159" lang="JA">Kuro Be e o Sukue</title></episode>
+<episode num="330">
+<title gid="1650122321" lang="JA">Neji Mai Te Hassuru!</title></episode>
+<episode num="331">
+<title gid="3227424903" lang="JA">Kage Tori Purojekutā</title></episode>
+<episode num="332">
+<title gid="1533504957" lang="JA">Shi Te Nai Chokin o Tsukau Hou</title></episode>
+<episode num="333">
+<title gid="1598036463" lang="JA">Genki Esa</title></episode>
+<episode num="334">
+<title gid="3005172323" lang="JA">Mizu zo Ku Kan Gasu</title></episode>
+<episode num="335">
+<title gid="2015352816" lang="JA">Shukusaijitsu o Fuyaso U</title></episode>
+<episode num="336">
+<title gid="2266088123" lang="JA">Jukensei ni Kyouryoku!</title></episode>
+<episode num="337">
+<title gid="2854625728" lang="JA">Choucho</title></episode>
+<episode num="338">
+<title gid="1725281023" lang="JA">Derakkusu Raito</title></episode>
+<episode num="339">
+<title gid="1698855991" lang="JA">Himitsu no Nuke Ana</title></episode>
+<episode num="340">
+<title gid="462727933" lang="JA">Michi Suji Kādo</title></episode>
+<episode num="341">
+<title gid="2811785549" lang="JA">Jouki Kikan Sha ni Not Ta yo</title></episode>
+<episode num="342">
+<title gid="2054105013" lang="JA">Tada Mi Setto</title></episode>
+<episode num="343">
+<title gid="2584416645" lang="JA">Inryoku Saegiri Gasu</title></episode>
+<episode num="344">
+<title gid="1421744531" lang="JA">Kumoiton</title></episode>
+<episode num="345">
+<title gid="762042741" lang="JA">Koko Hore Nyannyan</title></episode>
+<episode num="346">
+<title gid="2031908206" lang="JA">Ma no Te ga Semaru!</title></episode>
+<episode num="347">
+<title gid="1933006325" lang="JA">Boku Tachi dake no Ie</title></episode>
+<episode num="348">
+<title gid="2870098580" lang="JA">Kanebachi Ha Yoku Hataraku</title></episode>
+<episode num="349">
+<title gid="3456891783" lang="JA">Juuryoku Chou Setsu Ki</title></episode>
+<episode num="350">
+<title gid="3571820685" lang="JA">Boku Ha Tejina shi!</title></episode>
+<episode num="351">
+<title gid="2308896655" lang="EN">Delivery Bag</title></episode>
+<episode num="352">
+<title gid="3030291051" lang="JA">Kuusou Renzu</title></episode>
+<episode num="353">
+<title gid="2340064515" lang="JA">Gyaku Modoshi</title></episode>
+<episode num="354">
+<title gid="3683716422" lang="JA">Sho U Geki Ha Pisutoru</title></episode>
+<episode num="355">
+<title gid="2916189002" lang="JA">Sukantako</title></episode>
+<episode num="356">
+<title gid="2083719854" lang="JA">Saundobakachon</title></episode>
+<episode num="357">
+<title gid="3252873048" lang="JA">Raji Kon Nen Do</title></episode>
+<episode num="358">
+<title gid="2813927007" lang="JA">Shiawase no o Hoshi Sama</title></episode>
+<episode num="359">
+<title gid="2428504692" lang="JA">Bannou Tento de Suteki na Kyanpu</title></episode>
+<episode num="360">
+<title gid="1395548940" lang="EN">Future Checkbook</title></episode>
+<episode num="361">
+<title gid="3045632665" lang="EN">Mini Pet - A Lion</title></episode>
+<episode num="362">
+<title gid="2798451468" lang="JA">Bannou Gurasu</title></episode>
+<episode num="363">
+<title gid="1973375761" lang="JA">Dorakyurasetto</title></episode>
+<episode num="364">
+<title gid="2461517573" lang="JA">Nen Utsushi Kamera de Kinen Shashin o</title></episode>
+<episode num="365">
+<title gid="2084172210" lang="JA">Burū Torein ni Norou</title></episode>
+<episode num="366">
+<title gid="2011911935" lang="JA">Happī Puromunādo</title></episode>
+<episode num="367">
+<title gid="2455241440" lang="JA">Kirikae Shiki Taimu Sukōpu</title></episode>
+<episode num="368">
+<title gid="2422328159" lang="JA">Chūshin Kura de Kataki Uchi</title></episode>
+<episode num="369">
+<title gid="2628785878" lang="JA">Jikan yo, Tomare</title></episode>
+<episode num="370">
+<title gid="4095248000" lang="JA">Funwari Nen Do</title></episode>
+<episode num="371">
+<title gid="1791681223" lang="EN">Materials Quality Changing Machine</title></episode>
+<episode num="372">
+<title gid="2496877803" lang="JA">Yuki no Nai Sukī</title></episode>
+<episode num="373">
+<title gid="3271995234" lang="JA">Yowai Obake</title></episode>
+<episode num="374">
+<title gid="2972620200" lang="EN">Manga Artist</title></episode>
+<episode num="375">
+<title gid="1332943351" lang="JA">Mi Gawari Pendanto</title></episode>
+<episode num="376">
+<title gid="3872381091" lang="JA">Gattai Nori</title></episode>
+<episode num="377">
+<title gid="2942387494" lang="JA">Yon Jigen Saikuringu</title></episode>
+<episode num="378">
+<title gid="2542733583" lang="JA">Ji Dou Ningyou Geki</title></episode>
+<episode num="379">
+<title gid="2857509981" lang="JA">Obake Tsudura</title></episode>
+<episode num="380">
+<title gid="3212396241" lang="JA">Fukuromansūtsu</title></episode>
+<episode num="381">
+<title gid="1542428840" lang="JA">Fantagurasu</title></episode>
+<episode num="382">
+<title gid="1211160915" lang="JA">Teashi Nana Hon me ga Mittsu</title></episode>
+<episode num="383">
+<title gid="3534045082" lang="JA">Amenbo U</title></episode>
+<episode num="384">
+<title gid="501392283" lang="JA">Ningen Su goro Ku</title></episode>
+<episode num="385">
+<title gid="4106226609" lang="JA">Kokoro Koron</title></episode>
+<episode num="386">
+<title gid="1975973209" lang="JA">In Chikara Nejimage Ki</title></episode>
+<episode num="387">
+<title gid="1566227919" lang="JA">Ryuukou Sei Nekoshakushibīrusu</title></episode>
+<episode num="388">
+<title gid="1441983296" lang="JA">Kururin Ji Dou Sha</title></episode>
+<episode num="389">
+<title gid="2604964891" lang="JA">Gan Ji?ugusuri</title></episode>
+<episode num="390">
+<title gid="1294582716" lang="JA">Marui mono Ji Ishi</title></episode>
+<episode num="391">
+<title gid="2488760605" lang="JA">Itami Hanekaeri Mirā</title></episode>
+<episode num="392">
+<title gid="922854929" lang="JA">Shuukan Nobita</title></episode>
+<episode num="393">
+<title gid="1952431136" lang="JA">Momo Tarou Shirushi Ki Bidango</title></episode>
+<episode num="394">
+<title gid="2160107527" lang="JA">Fuku Bin Konbi</title></episode>
+<episode num="395">
+<title gid="3944695735" lang="JA">Doubutsu ni Bakeru Kyandē</title></episode>
+<episode num="396">
+<title gid="1382679907" lang="JA">Hito yo Ke Jairo</title></episode>
+<episode num="397">
+<title gid="2864118086" lang="EN">Plant Pen</title></episode>
+<episode num="398">
+<title gid="2057174621" lang="JA">Tacchikamera de Terebi Shutsuen</title></episode>
+<episode num="399">
+<title gid="3796534189" lang="JA">Negai Boshi Hanabi</title></episode>
+<episode num="400">
+<title gid="2095257618" lang="JA">Chikyuu Seizou Hou</title></episode>
+<episode num="401">
+<title gid="2818444014" lang="JA">Ou Kan Korekushon</title></episode>
+<episode num="402">
+<title gid="2324522691" lang="JA">Yotto Dai Bouken</title></episode>
+<episode num="403">
+<title gid="1814019106" lang="JA">Ōkē Maiku</title></episode>
+<episode num="404">
+<title gid="1239969619" lang="JA">Fushigi na Megane</title></episode>
+<episode num="405">
+<title gid="2177242652" lang="JA">Dou Butsu Go Heddohon</title></episode>
+<episode num="406">
+<title gid="1923311849" lang="JA">Kise Tsu Kandume</title></episode>
+<episode num="407">
+<title gid="1019047275" lang="JA">Jishin Herumetto</title></episode>
+<episode num="408">
+<title gid="2813443126" lang="JA">Mo Han Tegami Pen</title></episode>
+<episode num="409">
+<title gid="2513170915" lang="JA">Ibari ya Nobita</title></episode>
+<episode num="410">
+<title gid="3387654314" lang="JA">Tanmauocchi</title></episode>
+<episode num="411">
+<title gid="1201456691" lang="JA">Geramesopunpisutoru</title></episode>
+<episode num="412">
+<title gid="2490095664" lang="JA">Bunshin Kagami</title></episode>
+<episode num="413">
+<title gid="3317440956" lang="JA">Kenka Mashin</title></episode>
+<episode num="414">
+<title gid="428023284" lang="JA">Shun Kan Ritān Botan</title></episode>
+<episode num="415">
+<title gid="1453767590" lang="JA">Kyouryoku Haiponpugasu</title></episode>
+<episode num="416">
+<title gid="3630688336" lang="JA">Jaian o Yattsukero!</title></episode>
+<episode num="417">
+<title gid="612826108" lang="JA">Shiawase na Ningyo Hime</title></episode>
+<episode num="418">
+<title gid="580302727" lang="JA">Warikomi Bideo de Terebi Shutsuen</title></episode>
+<episode num="419">
+<title gid="2211222102" lang="JA">Sei Gi Rōpu</title></episode>
+<episode num="420">
+<title gid="78938476" lang="JA">Kyouryuu ga Ki Ta</title></episode>
+<episode num="421">
+<title gid="1330135492" lang="JA">Itazura Doraemon</title></episode>
+<episode num="422">
+<title gid="1724101756" lang="JA">Mushimegane</title></episode>
+<episode num="423">
+<title gid="395582233" lang="JA">Kono Ha de Kaimono</title></episode>
+<episode num="424">
+<title gid="3688971357" lang="JA">Toumei Penki</title></episode>
+<episode num="425">
+<title gid="1760824250" lang="JA">Yume Gurasu</title></episode>
+<episode num="426">
+<title gid="3388017906" lang="JA">Kokoro Choko</title></episode>
+<episode num="427">
+<title gid="2400111685" lang="JA">Toori Nuke Fūpu</title></episode>
+<episode num="428">
+<title gid="1124909300" lang="JA">Roku Ken Ki de Tanoshimo U</title></episode>
+<episode num="429">
+<title gid="2285638167" lang="JA">Kumo no Nen Do</title></episode>
+<episode num="430">
+<title gid="2223787558" lang="JA">Hōmumeiro</title></episode>
+<episode num="431">
+<title gid="2118987503" lang="JA">Awa Sēru</title></episode>
+<episode num="432">
+<title gid="3477108631" lang="JA">Mendou Miru no Ha Docchi!?</title></episode>
+<episode num="433">
+<title gid="2320861312" lang="JA">Tora e mon Toujou</title></episode>
+<episode num="434">
+<title gid="2393341308" lang="JA">Hōmu Anime o Tsukuro U</title></episode>
+<episode num="435">
+<title gid="415062092" lang="JA">Inu ni Nari Tai</title></episode>
+<episode num="436">
+<title gid="1038929944" lang="JA">Mizu yo Ke Rōpu</title></episode>
+<episode num="437">
+<title gid="793431442" lang="JA">Doubutsu Setto</title></episode>
+<episode num="438">
+<title gid="1772903479" lang="JA">Ame Otoko Ha Dare Da!?</title></episode>
+<episode num="439">
+<title gid="3574881247" lang="JA">Urutora Ringu</title></episode>
+<episode num="440">
+<title gid="1616924692" lang="JA">Fushigi na Kureyon</title></episode>
+<episode num="441">
+<title gid="2339782744" lang="JA">Chan Bara Nobita Rando</title></episode>
+<episode num="442">
+<title gid="2020842719" lang="JA">Nen Roku Maiku</title></episode>
+<episode num="443">
+<title gid="1394309248" lang="JA">Isha Ryou Shiharai Ki</title></episode>
+<episode num="444">
+<title gid="2093275396" lang="JA">Oshare Kamera</title></episode>
+<episode num="445">
+<title gid="341038417" lang="JA">Nan Demo Jaguchi</title></episode>
+<episode num="446">
+<title gid="2489591265" lang="JA">Sa ka Michi Rebā</title></episode>
+<episode num="447">
+<title gid="1573628304" lang="JA">Mini Hausu de Sawayaka na Natsu</title></episode>
+<episode num="448">
+<title gid="2141551368" lang="JA">Kimi no Hitomi Ha 100 Man Boruto</title></episode>
+<episode num="449">
+<title gid="1824211387" lang="JA">Oshikake Denwa</title></episode>
+<episode num="450">
+<title gid="1715686358" lang="JA">Ato ga Kowai!</title></episode>
+<episode num="451">
+<title gid="1137836552" lang="JA">Fuēru Ue Ki Ba Chi</title></episode>
+<episode num="452">
+<title gid="2260607175" lang="JA">Hana Barūn</title></episode>
+<episode num="453">
+<title gid="2128747549" lang="JA">Yume Makura</title></episode>
+<episode num="454">
+<title gid="1203996799" lang="JA">Buttai Shun Kan I Douki</title></episode>
+<episode num="455">
+<title gid="3477780623" lang="JA">Tou Akira Ningen me Gusu Ri</title></episode>
+<episode num="456">
+<title gid="1255549974" lang="JA">Doraemon no Suzu Sou Dou</title></episode>
+<episode num="457">
+<title gid="1711482967" lang="JA">Fuku Warai Sekken</title></episode>
+<episode num="458">
+<title gid="3425682029" lang="JA">Sugu Yaru Gan</title></episode>
+<episode num="459">
+<title gid="3540375860" lang="JA">Ie no Kanji Hen Kan Ki</title></episode>
+<episode num="460">
+<title gid="2363146147" lang="JA">Mamori shi</title></episode>
+<episode num="461">
+<title gid="262746540" lang="JA">Sokkuri Kureyon</title></episode>
+<episode num="462">
+<title gid="1963593429" lang="JA">Muriyari Chokin Ba Ko</title></episode>
+<episode num="463">
+<title gid="2434288641" lang="JA">Nozomiru Juu</title></episode>
+<episode num="464">
+<title gid="3409989861" lang="JA">Kyodai Ryuuhyou de Asobo U</title></episode>
+<episode num="465">
+<title gid="2968243276" lang="JA">Ma Hou no Tokei</title></episode>
+<episode num="466">
+<title gid="3247421798" lang="JA">Gurafu Ha Uso o Tsuka Nai</title></episode>
+<episode num="467">
+<title gid="3961745918" lang="JA">Hesorinsutando</title></episode>
+<episode num="468">
+<title gid="2842354087" lang="JA">Misekake Motemotebajj I</title></episode>
+<episode num="469">
+<title gid="1873780764" lang="JA">Supai Eisei</title></episode>
+<episode num="470">
+<title gid="2212817275" lang="JA">Robotto Fuku</title></episode>
+<episode num="471">
+<title gid="3843373767" lang="JA">Merodī Gasu</title></episode>
+<episode num="472">
+<title gid="1674554262" lang="JA">Mane Kon</title></episode>
+<episode num="473">
+<title gid="1636645606" lang="JA">Doraemon no Gārufurendo</title></episode>
+<episode num="474">
+<title gid="3222326724" lang="JA">Mini Suizokukan</title></episode>
+<episode num="475">
+<title gid="3205573614" lang="JA">Onboro Ryokan o Tatenaose</title></episode>
+<episode num="476">
+<title gid="2080432108" lang="JA">Tesuto.Robotto</title></episode>
+<episode num="477">
+<title gid="2557472696" lang="JA">To no Sama ga Ki Ta</title></episode>
+<episode num="478">
+<title gid="1386035802" lang="JA">Oritatami Hausu</title></episode>
+<episode num="479">
+<title gid="1460948692" lang="JA">Sono Ki ni Naru Mi</title></episode>
+<episode num="480">
+<title gid="1280854175" lang="JA">Momo Taro U Noki Bidango</title></episode>
+<episode num="481">
+<title gid="3043056297" lang="JA">Boku Ha Esupā Da!</title></episode>
+<episode num="482">
+<title gid="2254492697" lang="JA">Uchuu Tan Kensu goro Ku</title></episode>
+<episode num="483">
+<title gid="1426001788" lang="JA">Sekai Chinbotsu</title></episode>
+<episode num="484">
+<title gid="1932815064" lang="JA">Kokoro Nozoki Mirā</title></episode>
+<episode num="485">
+<title gid="729972775" lang="JA">Jaian no Tan Sei Bi</title></episode>
+<episode num="486">
+<title gid="2304249169" lang="JA">Nichi Duke Henkou Karendā</title></episode>
+<episode num="487">
+<title gid="898534567" lang="EN">Nobita and Doraemon's Christmas (1)</title></episode>
+<episode num="488">
+<title gid="1963274327" lang="EN">Nobita and Doraemon's Christmas (2)</title></episode>
+<episode num="489">
+<title gid="359733761" lang="EN">Mini Santa</title></episode>
+<episode num="490">
+<title gid="1946695555" lang="JA">Yuki Furashi</title></episode>
+<episode num="491">
+<title gid="2230147371" lang="JA">Hon mo no Yume</title></episode>
+<episode num="492">
+<title gid="2714266908" lang="EN">Sunrise Set</title></episode>
+<episode num="493">
+<title gid="2443780909" lang="EN">New Year's Party</title></episode>
+<episode num="494">
+<title gid="3573124797" lang="EN">Diary at Any Time</title></episode>
+<episode num="495">
+<title gid="1750098425" lang="EN">Ghost Phone</title></episode>
+<episode num="496">
+<title gid="2834562357" lang="EN">Poultry and Food</title></episode>
+<episode num="497">
+<title gid="4114576979" lang="EN">Others Dream</title></episode>
+<episode num="498">
+<title gid="917239004" lang="EN">A La Crate</title></episode>
+<episode num="499">
+<title gid="2064243407" lang="JA">'Haiyaku Irekae Bideo' de Hansei!</title></episode>
+<episode num="500">
+<title gid="1861316588" lang="EN">Rumusuima</title></episode>
+<episode num="501">
+<title gid="2278146247" lang="EN">Exchanging Doing Things Machine</title></episode>
+<episode num="502">
+<title gid="2163850646" lang="JA">Hon mo no Gen Touki</title></episode>
+<episode num="503">
+<title gid="199543911" lang="JA">Chiagāru Tebukuro</title></episode>
+<episode num="504">
+<title gid="2435600364" lang="JA">Sen Chi Fuku</title></episode>
+<episode num="505">
+<title gid="670617712" lang="JA">Aya Karin</title></episode>
+<episode num="506">
+<title gid="2906719062" lang="JA">Meiga Shirabe Ki</title></episode>
+<episode num="507">
+<title gid="2219161209" lang="JA">Yukusuekamera</title></episode>
+<episode num="508">
+<title gid="3043477112" lang="EN">Nobita's Kingdom Underground (above)</title></episode>
+<episode num="509">
+<title gid="2013621057" lang="EN">Nobita's Kingdom Underground (under)</title></episode>
+<episode num="510">
+<title gid="2994654407" lang="JA">Bajj I o Tsukuro U</title></episode>
+<episode num="511">
+<title gid="991897579" lang="JA">Sokuseki Janguru</title></episode>
+<episode num="512">
+<title gid="2497915586" lang="JA">Taimu Mashin ga Nakunat Ta! (zen)</title></episode>
+<episode num="513">
+<title gid="1626052541" lang="JA">Taimu Mashin ga Nakunat Ta! (go)</title></episode>
+<episode num="514">
+<title gid="2763369447" lang="JA">Urameshi ya Fukugen Kousen</title></episode>
+<episode num="515">
+<title gid="3221063990" lang="JA">Toushi Shīru de Dai Pinchi</title></episode>
+<episode num="516">
+<title gid="2575431135" lang="JA">Oko nomi Bokkusu</title></episode>
+<episode num="517">
+<title gid="1779837105" lang="JA">Nobita.gan Man ni Naru! (zen)</title></episode>
+<episode num="518">
+<title gid="2587157543" lang="JA">Nobita.gan Man ni Naru! (go)</title></episode>
+<episode num="519">
+<title gid="539089038" lang="JA">Byōdō Bakudan</title></episode>
+<episode num="520">
+<title gid="2255199332" lang="JA">Bun Shin Hanmā</title></episode>
+<episode num="521">
+<title gid="2644888837" lang="EN">1024 Times Bonus</title></episode>
+<episode num="522">
+<title gid="1897755308" lang="JA">Tanpopo Kushi</title></episode>
+<episode num="523">
+<title gid="2648548011" lang="JA">Mama tte Ii Na?</title></episode>
+<episode num="524">
+<title gid="2797900344" lang="JA">Sounan Kyuujo</title></episode>
+<episode num="525">
+<title gid="3037913012" lang="JA">Mizu zo Ku Kan o Tsukure!</title></episode>
+<episode num="526">
+<title gid="2024392802" lang="JA">Onsen Rōpu</title></episode>
+<episode num="527">
+<title gid="524229459" lang="JA">Panikku ga Oki Ta</title></episode>
+<episode num="528">
+<title gid="2549764258" lang="JA">Kan Shaku shi</title></episode>
+<episode num="529">
+<title gid="1338744885" lang="JA">Nora Inu Tachi o Sukue!! (zen)</title></episode>
+<episode num="530">
+<title gid="2800770330" lang="JA">Nora Inu Tachi o Sukue!! (go)</title></episode>
+<episode num="531">
+<title gid="3010940074" lang="JA">Otona o Shikaru Wanshou</title></episode>
+<episode num="532">
+<title gid="2602842258" lang="JA">Suru Koto Irekae Ki</title></episode>
+<episode num="533">
+<title gid="553649868" lang="JA">Sutōrī Mikisā</title></episode>
+<episode num="534">
+<title gid="1936305790" lang="JA">Tabe Aru Ki</title></episode>
+<episode num="535">
+<title gid="2760349974" lang="JA">Mochi Nu shi Shīru</title></episode>
+<episode num="536">
+<title gid="438873702" lang="JA">Jaianrisaitaru o Tanoshimu Houhou</title></episode>
+<episode num="537">
+<title gid="3124658070" lang="JA">Kashikiri Denwa</title></episode>
+<episode num="538">
+<title gid="646442351" lang="JA">Majikku Onaka</title></episode>
+<episode num="539">
+<title gid="1445365407" lang="JA">Sūpā Raketto</title></episode>
+<episode num="540">
+<title gid="442799626" lang="JA">Kachikachikamera</title></episode>
+<episode num="541">
+<title gid="2468708729" lang="EN">Nobita Superman</title></episode>
+<episode num="542">
+<title gid="1522598438" lang="JA">Uttori Iya Hon</title></episode>
+<episode num="543">
+<title gid="2885105955" lang="JA">Okiteteyokatta</title></episode>
+<episode num="544">
+<title gid="2229757582" lang="JA">Sakana Tsuri</title></episode>
+<episode num="545">
+<title gid="1658652659" lang="JA">Yowamushi Nobita</title></episode>
+<episode num="546">
+<title gid="2925827322" lang="JA">Utsushi Ppanashi Mirā</title></episode>
+<episode num="547">
+<title gid="3095642404" lang="JA">Kyodai Robotto o Kumitateyo U (zen)</title></episode>
+<episode num="548">
+<title gid="2810649722" lang="JA">Kyodai Robotto o Kumitateyo U (go)</title></episode>
+<episode num="549">
+<title gid="1657316368" lang="JA">Fushi Ginajidousha</title></episode>
+<episode num="550">
+<title gid="1130750427" lang="JA">Chiku Den Sūtsu</title></episode>
+<episode num="551">
+<title gid="1100785717" lang="JA">Fuku Ha Uchi no Mame</title></episode>
+<episode num="552">
+<title gid="2506962502" lang="JA">Baransu Chuushi?</title></episode>
+<episode num="553">
+<title gid="2209640314" lang="JA">Doraemon Tai Doraemon</title></episode>
+<episode num="554">
+<title gid="1763572829" lang="JA">Nobita ga Kie Chau!?</title></episode>
+<episode num="555">
+<title gid="918521626" lang="JA">Su Nao na Robotto ga Hoshi?</title></episode>
+<episode num="556">
+<title gid="1684706330" lang="JA">Ayatsuri Sokkuri Fuusen</title></episode>
+<episode num="557">
+<title gid="3077770712" lang="JA">Kan Sei Uēbu</title></episode>
+<episode num="558">
+<title gid="2206760311" lang="JA">Nobita no Burakkuhōru</title></episode>
+<episode num="559">
+<title gid="1015148685" lang="JA">'jishin Namazu' de Sune Otto ni Gyaku Shuu!</title></episode>
+<episode num="560">
+<title gid="1523634585" lang="JA">Kokusai Doubutsu Hogo Supurē</title></episode>
+<episode num="561">
+<title gid="2235849722" lang="JA">Hikkoshi Chizu</title></episode>
+<episode num="562">
+<title gid="3966674535" lang="JA">Mori Ha Iki Te Iru</title></episode>
+<episode num="563">
+<title gid="2136098327" lang="JA">Kōsu Kettei Ki</title></episode>
+<episode num="564">
+<title gid="2432377970" lang="JA">Sainan Yohou Ki</title></episode>
+<episode num="565">
+<title gid="3427691300" lang="JA">Ningen Kamera Shattā</title></episode>
+<episode num="566">
+<title gid="464824400" lang="JA">Buntsuu Aite Ha Donna Ko??</title></episode>
+<episode num="567">
+<title gid="2493605518" lang="JA">Yondara Kubi wa</title></episode>
+<episode num="568">
+<title gid="1148784367" lang="JA">Torikae Mirā</title></episode>
+<episode num="569">
+<title gid="2649859333" lang="JA">Shokugyou Tesuto Wanshou</title></episode>
+<episode num="570">
+<title gid="2945125614" lang="JA">En Pitsu</title></episode>
+<episode num="571">
+<title gid="956018756" lang="JA">Kin shi Hyou Shiki</title></episode>
+<episode num="572">
+<title gid="1646369639" lang="JA">Donburagasu</title></episode>
+<episode num="573">
+<title gid="2920880213" lang="JA">Debirukādo</title></episode>
+<episode num="574">
+<title gid="1941154407" lang="JA">Kagami no Nai Sekai</title></episode>
+<episode num="575">
+<title gid="1920892607" lang="JA">Nobita Oukoku Tanjou</title></episode>
+<episode num="576">
+<title gid="1585763433" lang="JA">Shizuka Chan Sayounara</title></episode>
+<episode num="577">
+<title gid="1242236244" lang="JA">Posutā ni Nat Ta Nobita</title></episode>
+<episode num="578">
+<title gid="1260713811" lang="JA">Gus Suri Makura de Hitoyasumi</title></episode>
+<episode num="579">
+<title gid="2494551931" lang="JA">Kikyuu o Sukue</title></episode>
+<episode num="580">
+<title gid="515597929" lang="JA">Sou Ji Ukunrenki</title></episode>
+<episode num="581">
+<title gid="2823709520" lang="JA">Tama Go Uma Se Tou</title></episode>
+<episode num="582">
+<title gid="2772027563" lang="JA">'shinjitsu no Hatajirushi' Ha Subete Tadashii</title></episode>
+<episode num="583">
+<title gid="2384087857" lang="JA">Shi Shinhairikomi Sukōpu</title></episode>
+<episode num="584">
+<title gid="2520662147" lang="JA">Na Kama Iri Senkou</title></episode>
+<episode num="585">
+<title gid="3987877312" lang="JA">Maa Maa Bou</title></episode>
+<episode num="586">
+<title gid="2262625543" lang="JA">Nobita no 100 Ten Pīāru</title></episode>
+<episode num="587">
+<title gid="1417815740" lang="JA">Nen Chikara me Gusu Ri</title></episode>
+<episode num="588">
+<title gid="2406337786" lang="JA">Mama o Tazune Te San Sen Kiro Gusu Ri</title></episode>
+<episode num="589">
+<title gid="2431003991" lang="JA">Douro Kousen</title></episode>
+<episode num="590">
+<title gid="2147570132" lang="JA">Heiwa Antena</title></episode>
+<episode num="591">
+<title gid="467374597" lang="JA">Yukiotoko no Arubaito</title></episode>
+<episode num="592">
+<title gid="2783321257" lang="JA">Kara Da Nen Do</title></episode>
+<episode num="593">
+<title gid="2686585092" lang="JA">Uchi de no Depāto</title></episode>
+<episode num="594">
+<title gid="2039965230" lang="JA">Nobita no na ga I Iede</title></episode>
+<episode num="595">
+<title gid="2750954861" lang="JA">Kyouryuu ga de Ta! (zen)</title></episode>
+<episode num="596">
+<title gid="1158708018" lang="JA">Kyouryuu ga de Ta! (go)</title></episode>
+<episode num="597">
+<title gid="2821483321" lang="JA">Kasai Yotei Houchi Beru</title></episode>
+<episode num="598">
+<title gid="1215345871" lang="JA">Kagee Raito de Asobo U</title></episode>
+<episode num="599">
+<title gid="3351460605" lang="JA">O mo Karu Tou</title></episode>
+<episode num="600">
+<title gid="2781135431" lang="JA">No Bichijimi Sukōpu</title></episode>
+<episode num="601">
+<title gid="698608700" lang="JA">Kumo no Naka no Sanpo</title></episode>
+<episode num="602">
+<title gid="1641026705" lang="JA">Gurume Tēburu Kake</title></episode>
+<episode num="603">
+<title gid="1117636398" lang="JA">Saiō Ba</title></episode>
+<episode num="604">
+<title gid="2988909655" lang="JA">Toki mon</title></episode>
+<episode num="605">
+<title gid="1774002883" lang="JA">Okore Ba At Ta ka Hok Kahoka</title></episode>
+<episode num="606">
+<title gid="2113217138" lang="JA">Hirobiro Ponpu</title></episode>
+<episode num="607">
+<title gid="2298495106" lang="JA">Kusuri Seizou Ki</title></episode>
+<episode num="608">
+<title gid="3155681758" lang="JA">Kuuchuu Fukku</title></episode>
+<episode num="609">
+<title gid="593530359" lang="JA">Patorōrāsukēto Tokei Bou</title></episode>
+<episode num="610">
+<title gid="2493446994" lang="JA">Meka Mēkā</title></episode>
+<episode num="611">
+<title gid="3771614923" lang="JA">Honnin Bideo</title></episode>
+<episode num="612">
+<title gid="2239209969" lang="JA">Roku Men Kamera</title></episode>
+<episode num="613">
+<title gid="2619626380" lang="JA">Gunnyarijaian</title></episode>
+<episode num="614">
+<title gid="1335399619" lang="JA">Deka Chinki</title></episode>
+<episode num="615">
+<title gid="1801297248" lang="JA">Shizumi Dama</title></episode>
+<episode num="616">
+<title gid="3046728109" lang="JA">Moshimo Bokkusu de o Kanemochi</title></episode>
+<episode num="617">
+<title gid="2474285277" lang="JA">Yadorigi</title></episode>
+<episode num="618">
+<title gid="2521890578" lang="JA">dora emondaikirai !?</title></episode>
+<episode num="619">
+<title gid="1398255182" lang="JA">konchuu hikouki ni noro u</title></episode>
+<episode num="620">
+<title gid="1636130682" lang="JA">kyouryuu tachini ( shoutai jou ) wo</title></episode>
+<episode num="621">
+<title gid="2117569969" lang="JA">nobi ta no chitei bunmei setsu</title></episode>
+<episode num="622">
+<title gid="1696659960" lang="JA">nobi ta housoukyoukai</title></episode>
+<episode num="623">
+<title gid="2656116756" lang="JA">nobi ta no kekkonshiki ?!</title></episode>
+<episode num="624">
+<title gid="2556611830" lang="JA">majo tsu ko shizukachan</title></episode>
+<episode num="625">
+<title gid="991881225" lang="JA">urayama no garibaa tanken</title></episode>
+<episode num="626">
+<title gid="755428279" lang="JA">shinbun hiduke henkou posuto</title></episode>
+<episode num="627">
+<title gid="3120963092" lang="JA">mukashi hayokatta !?</title></episode>
+<episode num="628">
+<title gid="2730670668" lang="JA">kami sama robotto</title></episode>
+<episode num="629">
+<title gid="2141943113" lang="JA">nobi ta no supeusushatoru</title></episode>
+<episode num="630">
+<title gid="3176985024" lang="JA">papa no gekkyuu soudou</title></episode>
+<episode num="631">
+<title gid="3941207397" lang="JA">kurosusuicchi</title></episode>
+<episode num="632">
+<title gid="2673920647" lang="JA">hara hanashi robotto</title></episode>
+<episode num="633">
+<title gid="1934878883" lang="JA">nobi ta no douwa ryokou</title></episode>
+<episode num="634">
+<title gid="2997734061" lang="JA">chuukenpaa</title></episode>
+<episode num="635">
+<title gid="2322274825" lang="JA">sharagamu</title></episode>
+<episode num="636">
+<title gid="1220288937" lang="JA">sekaiheiwa anzen bajji</title></episode>
+<episode num="637">
+<title gid="808043701" lang="JA">shoujikidenpa</title></episode>
+<episode num="638">
+<title gid="2991629758" lang="JA">kazebukuro</title></episode>
+<episode num="639">
+<title gid="1618281466" lang="JA">nobi ta tsubame wo tasuke ro</title></episode>
+<episode num="640">
+<title gid="2575015406" lang="JA">iinari kyappu</title></episode>
+<episode num="641">
+<title gid="2143400704" lang="JA">itawari robotto</title></episode>
+<episode num="642">
+<title gid="3653935812" lang="JA">sewayaki roupu</title></episode>
+<episode num="643">
+<title gid="2203126371" lang="JA">nobi ta gekidan no kurisumasu</title></episode>
+<episode num="644">
+<title gid="1906005714" lang="JA">robotto yuki daruma</title></episode>
+<episode num="645">
+<title gid="2586928761" lang="JA">kuusou doubutsu safaripaaku</title></episode>
+<episode num="646">
+<title gid="2172022198" lang="JA">kuukichuu kei eisei</title></episode>
+<episode num="647">
+<title gid="2447883339" lang="JA">musubino ito</title></episode>
+<episode num="648">
+<title gid="1293680191" lang="JA">sakasa kamera</title></episode>
+<episode num="649">
+<title gid="2768615530" lang="JA">mizu bideo</title></episode>
+<episode num="650">
+<title gid="2319750887" lang="JA">chikutakubonwappen</title></episode>
+<episode num="651">
+<title gid="2126807837" lang="JA">sokkurikakashi</title></episode>
+<episode num="652">
+<title gid="1322683062" lang="JA">sangatsu no yuki</title></episode>
+<episode num="653">
+<title gid="2891059864" lang="JA">kuuki kureyon</title></episode>
+<episode num="654">
+<title gid="1788460425" lang="JA">hicchuu ken shou hagaki</title></episode>
+<episode num="655">
+<title gid="1506623206" lang="JA">dorai . raito</title></episode>
+<episode num="656">
+<title gid="2768959375" lang="JA">kopi^ zunou de raku woshiyou</title></episode>
+<episode num="657">
+<title gid="1603369414" lang="JA">otoshi mono tsuri hori totsurizao</title></episode>
+<episode num="658">
+<title gid="1992513245" lang="JA">kaibutsu kunboushi</title></episode>
+<episode num="659">
+<title gid="698240970" lang="JA">kogotohiraishin</title></episode>
+<episode num="660">
+<title gid="2864476322" lang="JA">chansukamera</title></episode>
+<episode num="661">
+<title gid="2591415914" lang="JA">kyuu kan maiku</title></episode>
+<episode num="662">
+<title gid="1771207598" lang="JA">omiyagefuroshiki</title></episode>
+<episode num="663">
+<title gid="1503106058" lang="JA">rajikonterebi</title></episode>
+<episode num="664">
+<title gid="914917487" lang="JA">oyayubi hime wooikakero</title></episode>
+<episode num="665">
+<title gid="403528257" lang="JA">nobi ta no sakana tsuri</title></episode>
+<episode num="666">
+<title gid="2466921311" lang="JA">esupa^ kunren bokkusu</title></episode>
+<episode num="667">
+<title gid="650342327" lang="EN">Time Copy</title></episode>
+<episode num="668">
+<title gid="2898772732" lang="JA">sakayumen deii yume miyou</title></episode>
+<episode num="669">
+<title gid="1987671841" lang="JA">daiyou shiiru</title></episode>
+<episode num="670">
+<title gid="1604465550" lang="JA">jitsubutsu beniya</title></episode>
+<episode num="671">
+<title gid="2764054777" lang="JA">yumehashigo</title></episode>
+<episode num="672">
+<title gid="3992565101" lang="JA">mizu zaikude asobo u</title></episode>
+<episode num="673">
+<title gid="2556418868" lang="JA">shiawase toranpu</title></episode>
+<episode num="674">
+<title gid="2264584408" lang="JA">petankoairon</title></episode>
+<episode num="675">
+<title gid="2327949361" lang="JA">yojigen tatemashi burokku</title></episode>
+<episode num="676">
+<title gid="1013517344" lang="JA">rajikon sen mizu kan setto</title></episode>
+<episode num="677">
+<title gid="3027123475" lang="JA">kangekidorinku</title></episode>
+<episode num="678">
+<title gid="1970661209" lang="JA">hisashiburi toranku</title></episode>
+<episode num="679">
+<title gid="2818376096" lang="JA">feza^pure^n</title></episode>
+<episode num="680">
+<title gid="3376820355" lang="JA">ire kae hyousatsu</title></episode>
+<episode num="681">
+<title gid="2852726075" lang="JA">hayaku tsudukigamitai</title></episode>
+<episode num="682">
+<title gid="2962304480" lang="JA">ningen meka wo tsukuro u</title></episode>
+<episode num="683">
+<title gid="1379316718" lang="JA">boku shitsuren shichatta</title></episode>
+<episode num="684">
+<title gid="1834595897" lang="JA">shinshu zukan de yuumei ni</title></episode>
+<episode num="685">
+<title gid="2112142476" lang="JA">ninnin shugyou setto</title></episode>
+<episode num="686">
+<title gid="610785390" lang="JA">bubun shinka gan</title></episode>
+<episode num="687">
+<title gid="2089963822" lang="JA">chiheisen te^pu</title></episode>
+<episode num="688">
+<title gid="2395544237" lang="JA">kyoufuno sutanpu</title></episode>
+<episode num="689">
+<title gid="2008576580" lang="JA">kopii toriyose ki</title></episode>
+<episode num="690">
+<title gid="1891096496" lang="JA">kakkou tamago</title></episode>
+<episode num="691">
+<title gid="3119798749" lang="JA">moshimo bokkusu de tensai ni</title></episode>
+<episode num="692">
+<title gid="3011597137" lang="JA">sora tobu kurisumasu</title></episode>
+<episode num="693">
+<title gid="2752685262" lang="JA">kami samagokko</title></episode>
+<episode num="694">
+<title gid="1705500091" lang="JA">mahoujiten</title></episode>
+<episode num="695">
+<title gid="3839337327" lang="JA">saisho no kandou wo yobi samasou</title></episode>
+<episode num="696">
+<title gid="1263007089" lang="JA">shun kan kotei kamera</title></episode>
+<episode num="697">
+<title gid="871621647" lang="JA">sora tobu koekatamarin</title></episode>
+<episode num="698">
+<title gid="2048798343" lang="JA">kagami no nakano sekai</title></episode>
+<episode num="699">
+<title gid="1173993126" lang="EN">Instant Robot</title></episode>
+<episode num="700">
+<title gid="2623457590" lang="JA">ningen bukkukabaa</title></episode>
+<episode num="701">
+<title gid="328107703" lang="JA">tesuto hayapparikowai</title></episode>
+<episode num="702">
+<title gid="3200156086" lang="JA">ichikotei supureu</title></episode>
+<episode num="703">
+<title gid="2734472685" lang="JA">ankeutaa de purezento</title></episode>
+<episode num="704">
+<title gid="955260921" lang="JA">jaian no fankurabu</title></episode>
+<episode num="705">
+<title gid="314092084" lang="JA">uchuu tankengokko</title></episode>
+<episode num="706">
+<title gid="2897240863" lang="JA">muteki menkoreutamu</title></episode>
+<episode num="707">
+<title gid="1851072541" lang="JA">jaianterebi ni deru</title></episode>
+<episode num="708">
+<title gid="1791791918" lang="EN">Mangaka Jaiko</title></episode>
+<episode num="709">
+<title gid="3090837794" lang="EN">Shizuka's Necklace</title></episode>
+<episode num="710">
+<title gid="2202810539" lang="EN">Barrier Point</title></episode>
+<episode num="711">
+<title gid="3846513366" lang="JA">yamesase robotto</title></episode>
+<episode num="712">
+<title gid="2535323964" lang="JA">iyanakoto hyuuzu</title></episode>
+<episode num="713">
+<title gid="2255825273" lang="JA">himitsugenshu inu</title></episode>
+<episode num="714">
+<title gid="2782709513" lang="JA">uchuu kyuumei bouto</title></episode>
+<episode num="715">
+<title gid="2428924085" lang="JA">urameshi doroppu</title></episode>
+<episode num="716">
+<title gid="2668170770" lang="JA">hoshii nin tanchiki</title></episode>
+<episode num="717">
+<title gid="796676073" lang="JA">penshirumisairu</title></episode>
+<episode num="718">
+<title gid="3115687487" lang="JA">henshin dorinku</title></episode>
+<episode num="719">
+<title gid="3777769617" lang="JA">iemoto kanban</title></episode>
+<episode num="720">
+<title gid="2359084927" lang="JA">nobi ta haikaga</title></episode>
+<episode num="721">
+<title gid="535422184" lang="EN">10 Yen Anywhere Shop</title></episode>
+<episode num="722">
+<title gid="1387581551" lang="JA">buttai densou adaputaa</title></episode>
+<episode num="723">
+<title gid="1608012116" lang="EN">Robinson Crusoe</title></episode>
+<episode num="724">
+<title gid="2661310816" lang="EN">Goodbye, Nobita</title></episode>
+<episode num="725">
+<title gid="1821805545" lang="JA">shizukachanto suiitohoumu</title></episode>
+<episode num="726">
+<title gid="726489520" lang="JA">shiawase hoken ki</title></episode>
+<episode num="727">
+<title gid="2532309858" lang="JA">tamashii sutekki</title></episode>
+<episode num="728">
+<title gid="2768680178" lang="JA">sora tobu doresu</title></episode>
+<episode num="729">
+<title gid="3918544411" lang="JA">shiritori henshin kapuseru</title></episode>
+<episode num="730">
+<title gid="423304413" lang="EN">Ten Commandments</title></episode>
+<episode num="731">
+<title gid="2993234504" lang="JA">denshohikouki</title></episode>
+<episode num="732">
+<title gid="1849369844" lang="JA">SL entotsu</title></episode>
+<episode num="733">
+<title gid="2158481565" lang="JA">nouryoku kasetto</title></episode>
+<episode num="734">
+<title gid="1642698033" lang="JA">heyakoukan suicchi</title></episode>
+<episode num="735">
+<title gid="706293591" lang="JA">misekaketsuri hari</title></episode>
+<episode num="736">
+<title gid="1812627232" lang="EN">Moon Princess Robot</title></episode>
+<episode num="737">
+<title gid="1524314114" lang="JA">kashikiri chippu</title></episode>
+<episode num="738">
+<title gid="2947724734" lang="JA">hon no aji no tomo</title></episode>
+<episode num="739">
+<title gid="2969321152" lang="JA">muda jikan torimodoshi ponpu</title></episode>
+<episode num="740">
+<title gid="1192423043" lang="JA">kesshin konkuri^to</title></episode>
+<episode num="741">
+<title gid="1671461854" lang="JA">doubutsu henshin ongaeshi gusuri</title></episode>
+<episode num="742">
+<title gid="1528853627" lang="JA">tacchi te bukuro</title></episode>
+<episode num="743">
+<title gid="1300086779" lang="EN">Anything-Anywhere Roller Skates</title></episode>
+<episode num="744">
+<title gid="2470943397" lang="EN">Retroactive Album</title></episode>
+<episode num="745">
+<title gid="2354713561" lang="EN">Water Toy Submarine</title></episode>
+<episode num="746">
+<title gid="2808266050" lang="EN">surukoto renzu</title></episode>
+<episode num="747">
+<title gid="2411615984" lang="EN">akuma no ijiwaaru</title></episode>
+<episode num="748">
+<title gid="1326301692" lang="EN">jidou kaitori ki</title></episode>
+<episode num="749">
+<title gid="2930001353" lang="EN">tamashii fukikomi juu</title></episode>
+<episode num="750">
+<title gid="753293409" lang="EN">kawai somedaru</title></episode>
+<episode num="751">
+<title gid="3240692250" lang="EN">mouzesutekki</title></episode>
+<episode num="752">
+<title gid="3192102051" lang="EN">honwakakyappu</title></episode>
+<episode num="753">
+<title gid="907274101" lang="EN">undoushinkei kontorouraa</title></episode>
+<episode num="754">
+<title gid="3632852952" lang="EN">jisa tokei</title></episode>
+<episode num="755">
+<title gid="2871193834" lang="EN">Fare Bank</title></episode>
+<episode num="756">
+<title gid="2123077273" lang="EN">nozoki ana boudo</title></episode>
+<episode num="757">
+<title gid="1768206110" lang="EN">kumo katame gasu</title></episode>
+<episode num="758">
+<title gid="2809343700" lang="EN">Goodbye, Kibou</title></episode>
+<episode num="759">
+<title gid="2583875231" lang="EN">memorii deisuku</title></episode>
+<episode num="760">
+<title gid="2048069434" lang="EN">yajiuma antena</title></episode>
+<episode num="761">
+<title gid="2734387017" lang="EN">Gian's Hot Letters</title></episode>
+<episode num="762">
+<title gid="2201580194" lang="EN">Locker Cutter</title></episode>
+<episode num="763">
+<title gid="2266822729" lang="EN">ameotoko hatsuraiyo</title></episode>
+<episode num="764">
+<title gid="2857405681" lang="EN">chichuu sakanatsuri</title></episode>
+<episode num="765">
+<title gid="3090085103" lang="EN">yama biko yama</title></episode>
+<episode num="766">
+<title gid="979662139" lang="EN">Image Gum</title></episode>
+<episode num="767">
+<title gid="1978726695" lang="EN">chou riaru . jiorama sakusen</title></episode>
+<episode num="768">
+<title gid="1924347733" lang="EN">enerugii setsuyaku nekkikyuu</title></episode>
+<episode num="769">
+<title gid="2917549114" lang="EN">God Set</title></episode>
+<episode num="770">
+<title gid="2923149935" lang="EN">Pet Pen</title></episode>
+<episode num="771">
+<title gid="1456008223" lang="EN">Eskimo Extract</title></episode>
+<episode num="772">
+<title gid="1593250021" lang="EN">San Tain</title></episode>
+<episode num="773">
+<title gid="2360857528" lang="EN">4 D Pocket's Spare</title></episode>
+<episode num="774">
+<title gid="1994089716" lang="EN">Ultra Hero</title></episode>
+<episode num="775">
+<title gid="2766186773" lang="EN">Magic Handkerchief</title></episode>
+<episode num="776">
+<title gid="603414566" lang="EN">donjara mura no hoi</title></episode>
+<episode num="777">
+<title gid="2914006293" lang="EN">taifuu torappu to kaze kura ko</title></episode>
+<episode num="778">
+<title gid="2443936281" lang="EN">kankouryokou mado</title></episode>
+<episode num="779">
+<title gid="1074704848" lang="EN">jikuukan torikae ki</title></episode>
+<episode num="780">
+<title gid="2703404977" lang="EN">ningen jishaku beruto</title></episode>
+<episode num="781">
+<title gid="1461459697" lang="EN">sokuseki umi tsukuri ki</title></episode>
+<episode num="782">
+<title gid="2467455896" lang="EN">Room Guard Set</title></episode>
+<episode num="783">
+<title gid="1958970113" lang="EN">gakkou kamen toujou</title></episode>
+<episode num="784">
+<title gid="2890937578" lang="EN">jishin kunren peupaa</title></episode>
+<episode num="785">
+<title gid="3445774745" lang="EN">robotto haigorei</title></episode>
+<episode num="786">
+<title gid="3288998794" lang="EN">jaian nomeiwaku konsaato</title></episode>
+<episode num="787">
+<title gid="2365665967" lang="EN">kankaku monitaa</title></episode>
+<episode num="788">
+<title gid="2633610604" lang="EN">gousei kouzan no moto</title></episode>
+<episode num="789">
+<title gid="2353308811" lang="EN">wakarazuyano papa ha , nobi ta</title></episode>
+<episode num="790">
+<title gid="1743686688" lang="EN">genjitsu bideo ka ki</title></episode>
+<episode num="791">
+<title gid="1402649638" lang="EN">sairan eki de sake womodosou</title></episode>
+<episode num="792">
+<title gid="2447496268" lang="EN">dokkiribideo</title></episode>
+<episode num="793">
+<title gid="1956630050" lang="EN">yakuyoke shiiru</title></episode>
+<episode num="794">
+<title gid="2462636568" lang="EN">harii noshippo</title></episode>
+<episode num="795">
+<title gid="1820336557" lang="EN">chikara denchi</title></episode>
+<episode num="796">
+<title gid="1322122271" lang="EN">Get Off the Earth Machine</title></episode>
+<episode num="797">
+<title gid="3643847322" lang="EN">Tea Adventure</title></episode>
+<episode num="798">
+<title gid="3060653881" lang="EN">Aircraft of Naughty Toys</title></episode>
+<episode num="799">
+<title gid="3547430431" lang="EN">Anything-goes Plush Toy Set</title></episode>
+<episode num="800">
+<title gid="2059220733" lang="EN">Automatic Return Ticket</title></episode>
+<episode num="801">
+<title gid="1981559884" lang="EN">Circle of Friends</title></episode>
+<episode num="802">
+<title gid="553356989" lang="EN">Dramatic Gas</title></episode>
+<episode num="803">
+<title gid="3021905159" lang="JA">tobirettopeupaa</title></episode>
+<episode num="804">
+<title gid="1879593766" lang="EN">Camu Camu Cat Food</title></episode>
+<episode num="805">
+<title gid="1051184629" lang="EN">Doraemon Has A Holiday?</title></episode>
+<episode num="806">
+<title gid="669359695" lang="JA">sonzaikan</title></episode>
+<episode num="807">
+<title gid="1674449478" lang="JA">jishin guratsu ki</title></episode>
+<episode num="808">
+<title gid="951987202" lang="JA">nandemo hikiuke kaisha</title></episode>
+<episode num="809">
+<title gid="1464321515" lang="JA">ookami ikka wo sukue !!</title></episode>
+<episode num="810">
+<title gid="2446858195" lang="JA">taimu fushiana</title></episode>
+<episode num="811">
+<title gid="2789977374" lang="JA">tokageron</title></episode>
+<episode num="812">
+<title gid="1619856889" lang="JA">muriyarikyasshukaado</title></episode>
+<episode num="813">
+<title gid="928107273" lang="JA">denkousekka</title></episode>
+<episode num="814">
+<title gid="2755091074" lang="JA">messeuji taihou</title></episode>
+<episode num="815">
+<title gid="2310145306" lang="JA">nendoroido</title></episode>
+<episode num="816">
+<title gid="1992155813" lang="JA">shizumebachi no su</title></episode>
+<episode num="817">
+<title gid="304571448" lang="JA">ikari enerugii kansoku chaato</title></episode>
+<episode num="818">
+<title gid="1610837752" lang="JA">kousuchiekkaa</title></episode>
+<episode num="819">
+<title gid="1829282752" lang="JA">jigen rouraa</title></episode>
+<episode num="820">
+<title gid="202876754" lang="JA">jasutohonne</title></episode>
+<episode num="821">
+<title gid="3420878611" lang="JA">suri komi tamago</title></episode>
+<episode num="822">
+<title gid="3547728877" lang="JA">raira enerugii tanchiki</title></episode>
+<episode num="823">
+<title gid="2608685543" lang="JA">nandemo kyoutsuu waribikiken</title></episode>
+<episode num="824">
+<title gid="2742409287" lang="JA">hetauma supuree</title></episode>
+<episode num="825">
+<title gid="3061033605" lang="JA">age sage kuri</title></episode>
+<episode num="826">
+<title gid="1968082777" lang="JA">buttai henkan juu</title></episode>
+<episode num="827">
+<title gid="1998048547" lang="JA">urashima jiken nonazoni chousen</title></episode>
+<episode num="828">
+<title gid="1176017418" lang="JA">yamadera no yuurei soudou</title></episode>
+<episode num="829">
+<title gid="2545244350" lang="JA">oshikake gaadoman</title></episode>
+<episode num="830">
+<title gid="2159537953" lang="JA">ippatsugyakuten bakudan</title></episode>
+<episode num="831">
+<title gid="1339828798" lang="JA">tsuyoi ishi</title></episode>
+<episode num="832">
+<title gid="2694409959" lang="JA">kachinkachinraito</title></episode>
+<episode num="833">
+<title gid="1721388495" lang="JA">jaian no sayonara konsaato</title></episode>
+<episode num="834">
+<title gid="1973622068" lang="JA">shucchou kuchi me</title></episode>
+<episode num="835">
+<title gid="2530210385" lang="JA">hakoniwa shiriizu</title></episode>
+<episode num="836">
+<title gid="2769604706" lang="JA">bashou ougi</title></episode>
+<episode num="837">
+<title gid="2377275931" lang="JA">kagenagara</title></episode>
+<episode num="838">
+<title gid="2112815565" lang="JA">repoutaa robotto</title></episode>
+<episode num="839">
+<title gid="3315728229" lang="JA">mouten hoshi</title></episode>
+<episode num="840">
+<title gid="356521512" lang="JA">tsumorinaaru</title></episode>
+<episode num="841">
+<title gid="1443796208" lang="JA">kakuu jinbutsu tamago</title></episode>
+<episode num="842">
+<title gid="1862852935" lang="JA">jigen baka dan</title></episode>
+<episode num="843">
+<title gid="3617091813" lang="JA">tedu kuri kumo setto</title></episode>
+<episode num="844">
+<title gid="1952257040" lang="JA">omoikiri hasami</title></episode>
+<episode num="845">
+<title gid="3157289169" lang="JA">0 ten dasshutsu sakusen</title></episode>
+<episode num="846">
+<title gid="909903734" lang="JA">shitekurejittokaado</title></episode>
+<episode num="847">
+<title gid="2888107079" lang="JA">geumubukku</title></episode>
+<episode num="848">
+<title gid="2350803730" lang="JA">taimushiibaa</title></episode>
+<episode num="849">
+<title gid="2088206822" lang="JA">ire kae roupu</title></episode>
+<episode num="850">
+<title gid="2353399971" lang="JA">nantokabachi</title></episode>
+<episode num="851">
+<title gid="1998462436" lang="JA">papa datte amae nbo</title></episode>
+<episode num="852">
+<title gid="3081303861" lang="JA">ano mado nisayouna</title></episode>
+<episode num="853">
+<title gid="3757923031" lang="JA">muteki houdai</title></episode>
+<episode num="854">
+<title gid="3631750681" lang="JA">satori herumetto</title></episode>
+<episode num="855">
+<title gid="1423301771" lang="JA">keisatsu inu tsuke hana</title></episode>
+<episode num="856">
+<title gid="2476168448" lang="JA">enban soujuu kunren ki</title></episode>
+<episode num="857">
+<title gid="2159371821" lang="JA">kuukan ire kae ki</title></episode>
+<episode num="858">
+<title gid="2399962095" lang="JA">kanjou enerugii bonbe</title></episode>
+<episode num="859">
+<title gid="3420431293" lang="JA">taimu te bukuro to megane</title></episode>
+<episode num="860">
+<title gid="3223409327" lang="JA">myunhihauzen shiro heyoukoso</title></episode>
+<episode num="861">
+<title gid="1981731775" lang="JA">ato kara honto supiikaa</title></episode>
+<episode num="862">
+<title gid="2175051069" lang="JA">yojigen kuzukago</title></episode>
+<episode num="863">
+<title gid="3532202133" lang="JA">mimidake to shaberippu</title></episode>
+<episode num="864">
+<title gid="2312533076" lang="JA">mujin sakai dorinku</title></episode>
+<episode num="865">
+<title gid="987584505" lang="JA">kiraina tesuto ni gaanba</title></episode>
+<episode num="866">
+<title gid="2259668197" lang="JA">nukeana bourupen</title></episode>
+<episode num="867">
+<title gid="3194199865" lang="JA">gyaku juuryoku beruto</title></episode>
+<episode num="868">
+<title gid="1213439225" lang="JA">chikyuu seizou setto</title></episode>
+<episode num="869">
+<title gid="1100110597" lang="JA">hoshi toriamito hanmaa</title></episode>
+<episode num="870">
+<title gid="2296606730" lang="JA">ichiji azuke kaado</title></episode>
+<episode num="871">
+<title gid="1624490290" lang="JA">majin noinai mahou no ranpu</title></episode>
+<episode num="872">
+<title gid="2517579192" lang="JA">yojigen wakaba maaku</title></episode>
+<episode num="873">
+<title gid="2451978884" lang="JA">keshiki kattaa</title></episode>
+<episode num="874">
+<title gid="1269498930" lang="JA">gushouka kagami</title></episode>
+<episode num="875">
+<title gid="3523992040" lang="JA">misekake raku gaki pen</title></episode>
+<episode num="876">
+<title gid="1914731610" lang="JA">zurashinbo</title></episode>
+<episode num="877">
+<title gid="1274442381" lang="JA">tsubasa channo himitsu</title></episode>
+<episode num="878">
+<title gid="3011479197" lang="JA">tachibagan</title></episode>
+<episode num="879">
+<title gid="1674363160" lang="JA">20 seiki nootonosama</title></episode>
+<episode num="880">
+<title gid="3054731191" lang="JA">meruhenrando nyuujouken</title></episode>
+<episode num="881">
+<title gid="570453816" lang="JA">nobi ta no kataai kesshin</title></episode>
+<episode num="882">
+<title gid="1453049315" lang="JA">yume kantokuisu</title></episode>
+<episode num="883">
+<title gid="958628426" lang="JA">fuusen tegami kontorouraa</title></episode>
+<episode num="884">
+<title gid="2160963516" lang="JA">hikarifaibaa tsuta</title></episode>
+<episode num="885">
+<title gid="1666207043" lang="JA">shabonherumetto</title></episode>
+<episode num="886">
+<title gid="547064408" lang="JA">okonomi fotopurintaa</title></episode>
+<episode num="887">
+<title gid="1699124479" lang="JA">handeikyappu</title></episode>
+<episode num="888">
+<title gid="2823352755" lang="JA">takuhai kyappu</title></episode>
+<episode num="889">
+<title gid="2645064259" lang="JA">shikaeshi denpyou</title></episode>
+<episode num="890">
+<title gid="1551925993" lang="JA">tereterehon</title></episode>
+<episode num="891">
+<title gid="2413205377" lang="JA">jitsuyou minikaa setto</title></episode>
+<episode num="892">
+<title gid="2207603127" lang="JA">rifutosutokku</title></episode>
+<episode num="893">
+<title gid="1979064488" lang="JA">komettohantaa ni chousen</title></episode>
+<episode num="894">
+<title gid="1236629705" lang="JA">mikata yubiwa</title></episode>
+<episode num="895">
+<title gid="2234257945" lang="JA">gureudoappu eki</title></episode>
+<episode num="896">
+<title gid="2794509230" lang="JA">tsudure ya wotatenaose</title></episode>
+<episode num="897">
+<title gid="3248865581" lang="JA">atsumi nukitori bari</title></episode>
+<episode num="898">
+<title gid="2761654502" lang="JA">fukikae itodenwa</title></episode>
+<episode num="899">
+<title gid="2712897576" lang="JA">kuuchuu shuuzu</title></episode>
+<episode num="900">
+<title gid="2206281706" lang="JA">yume kanketsu chippu</title></episode>
+<episode num="901">
+<title gid="1810887763" lang="JA">monsutaa bouru</title></episode>
+<episode num="902">
+<title gid="2305638713" lang="JA">abekobe sekai mirai</title></episode>
+<episode num="903">
+<title gid="1335081330" lang="JA">nobi ta no himitsukichi</title></episode>
+<episode num="904">
+<title gid="3313739171" lang="JA">pettaa</title></episode>
+<episode num="905">
+<title gid="1757800849" lang="JA">toshinoizumi roupu</title></episode>
+<episode num="906">
+<title gid="283425434" lang="JA">akai kutsu no omoide</title></episode>
+<episode num="907">
+<title gid="1139502403" lang="JA">hiduke henkou chouku</title></episode>
+<episode num="908">
+<title gid="1804556867" lang="JA">ano nichi ano toki ano daruma</title></episode>
+<episode num="909">
+<title gid="2912568541" lang="JA">mayonaka noo hanami</title></episode>
+<episode num="910">
+<title gid="2709156023" lang="JA">ganfaitaa nobi ta</title></episode>
+<episode num="911">
+<title gid="2014943139" lang="JA">horogura ki</title></episode>
+<episode num="912">
+<title gid="1997803034" lang="JA">ki korino izumi</title></episode>
+<episode num="913">
+<title gid="653079146" lang="JA">shokubutsu aruka se eki</title></episode>
+<episode num="914">
+<title gid="2143657400" lang="JA">repurikokko</title></episode>
+<episode num="915">
+<title gid="3069992198" lang="JA">poppu chikashitsu to fuerumiraa</title></episode>
+<episode num="916">
+<title gid="1851353997" lang="JA">kasairazu</title></episode>
+<episode num="917">
+<title gid="2704349446" lang="JA">kurounri kiddo gokuu</title></episode>
+<episode num="918">
+<title gid="2077320947" lang="JA">puro guramingu hokuro</title></episode>
+<episode num="919">
+<title gid="2689891102" lang="JA">tatari chinki</title></episode>
+<episode num="920">
+<title gid="3070999870" lang="JA">jioramabukku</title></episode>
+<episode num="921">
+<title gid="3288661170" lang="JA">koutsuu hyoushiki sutekkaa</title></episode>
+<episode num="922">
+<title gid="3940537434" lang="JA">tsuiseki arou</title></episode>
+<episode num="923">
+<title gid="2110168543" lang="JA">negai tanabata roketto</title></episode>
+<episode num="924">
+<title gid="3254554839" lang="JA">naoshi ban tokowashi ban</title></episode>
+<episode num="925">
+<title gid="2190659109" lang="JA">ooge sa kamera</title></episode>
+<episode num="926">
+<title gid="1190062171" lang="JA">kimodameshi megane</title></episode>
+<episode num="927">
+<title gid="2076024273" lang="JA">nakamisuitouru</title></episode>
+<episode num="928">
+<title gid="2955952162" lang="JA">suriruchiketto</title></episode>
+<episode num="929">
+<title gid="2853334745" lang="JA">GO!GO! nobitaman</title></episode>
+<episode num="930">
+<title gid="2603484025" lang="JA">burakku hourupen</title></episode>
+<episode num="931">
+<title gid="3301524485" lang="JA">omosa suikomi juu</title></episode>
+<episode num="932">
+<title gid="1117289175" lang="JA">obake taimaa</title></episode>
+<episode num="933">
+<title gid="1717933963" lang="JA">jaian wodamarasero</title></episode>
+<episode num="934">
+<title gid="2099936233" lang="JA">koutsuukisei taimaa</title></episode>
+<episode num="935">
+<title gid="2581758267" lang="JA">ie no naka de maigo</title></episode>
+<episode num="936">
+<title gid="1754982086" lang="JA">youkoso shichiya he</title></episode>
+<episode num="937">
+<title gid="1285284002" lang="JA">taimukapuseru</title></episode>
+<episode num="938">
+<title gid="2703395470" lang="JA">naku na , beso !!</title></episode>
+<episode num="939">
+<title gid="2937697403" lang="JA">kokorofu kikomi maiku</title></episode>
+<episode num="940">
+<title gid="1587869184" lang="JA">ano goroni modori tai !</title></episode>
+<episode num="941">
+<title gid="2249599869" lang="JA">tsuuka jou</title></episode>
+<episode num="942">
+<title gid="3300273420" lang="JA">papa toojiichan</title></episode>
+<episode num="943">
+<title gid="760162281" lang="JA">kagefumi oiru</title></episode>
+<episode num="944">
+<title gid="3170516427" lang="JA">nakama bacchi</title></episode>
+<episode num="945">
+<title gid="1944874983" lang="JA">hanbun odekake kumo</title></episode>
+<episode num="946">
+<title gid="3450362951" lang="JA">ningen rimokon</title></episode>
+<episode num="947">
+<title gid="1257544451" lang="JA">ryokou mado setto</title></episode>
+<episode num="948">
+<title gid="3056146965" lang="JA">nenagara keusu</title></episode>
+<episode num="949">
+<title gid="2543216489" lang="JA">mokumokuman</title></episode>
+<episode num="950">
+<title gid="3123828771" lang="JA">toumei bodeiigaado</title></episode>
+<episode num="951">
+<title gid="2190264738" lang="JA">henshin robotto</title></episode>
+<episode num="952">
+<title gid="944027448" lang="JA">kanzen shuusei ki</title></episode>
+<episode num="953">
+<title gid="1247945305" lang="JA">ayatsurisokkuri fuusen</title></episode>
+<episode num="954">
+<title gid="1391420487" lang="JA">norimonogutsu</title></episode>
+<episode num="955">
+<title gid="2507254169" lang="JA">meirei juu</title></episode>
+<episode num="956">
+<title gid="3712875621" lang="JA">taimuwaa puriiru</title></episode>
+<episode num="957">
+<title gid="3620596171" lang="JA">museibutsu shikibou</title></episode>
+<episode num="958">
+<title gid="2299021888" lang="JA">Ta kara Sagashi Pēpā</title></episode>
+<episode num="959">
+<title gid="3371736889" lang="JA">Nemukesuitōru</title></episode>
+<episode num="960">
+<title gid="3758962030" lang="JA">Petto Penki</title></episode>
+<episode num="961">
+<title gid="2781616148" lang="JA">Tāzanpantsu</title></episode>
+<episode num="962">
+<title gid="1735570760" lang="JA">Amedasupen</title></episode>
+<episode num="963">
+<title gid="2285594576" lang="JA">Mushi no Shirase</title></episode>
+<episode num="964">
+<title gid="2379833245" lang="JA">Kuuchuu Tsuri Setto</title></episode>
+<episode num="965">
+<title gid="1831451264" lang="JA">Erebēto.botan</title></episode>
+<episode num="966">
+<title gid="1882515661" lang="JA">Kuromakīsetto</title></episode>
+<episode num="967">
+<title gid="2014658628" lang="JA">Ookiku Naru Mushi Megane</title></episode>
+<episode num="968">
+<title gid="1574795443" lang="JA">Tasukeron.kapuseru</title></episode>
+<episode num="969">
+<title gid="2815795760" lang="JA">Poketto Shingou Ki</title></episode>
+<episode num="970">
+<title part="B" gid="1497203884" lang="JA">Kikyuu de Sekai Isshuu O!</title>
+<title gid="1044137281" lang="JA">Warashibe ni Onegai</title></episode>
+<episode num="971">
+<title gid="1032608720" lang="JA">Dansou Bijon</title></episode>
+<episode num="972">
+<title gid="3580847440" lang="JA">Isu Kairyou Ki</title></episode>
+<episode num="973">
+<title gid="2119332589" lang="JA">Too Utsushi Kagami</title></episode>
+<episode num="974">
+<title gid="761691009" lang="JA">Imēji.berē</title></episode>
+<episode num="975">
+<title gid="2596959430" lang="JA">Jitsubutsu Jiorama</title></episode>
+<episode num="976">
+<title gid="1734282927" lang="JA">O Tasuke Da N Go</title></episode>
+<episode num="977">
+<title gid="3165890541" lang="JA">Papa no Omiyage</title></episode>
+<episode num="978">
+<title gid="2742774082" lang="JA">Chōdaihando</title></episode>
+<episode num="979">
+<title gid="590581161" lang="JA">Toumei Hando</title></episode>
+<episode num="980">
+<title gid="3532063047" lang="JA">Wāpupen</title></episode>
+<episode num="981">
+<title gid="2798926037" lang="JA">Ito Nashi Ito Denwa</title></episode>
+<episode num="982">
+<title gid="378538986" lang="JA">Subērugasu</title></episode>
+<episode num="983">
+<title gid="776254386" lang="JA">Kage Boushi Furasshu</title></episode>
+<episode num="984">
+<title gid="2380713433" lang="JA">Omoidekoron</title></episode>
+<episode num="985">
+<title gid="2479724268" lang="JA">Kaisui Kontorōrā</title></episode>
+<episode num="986">
+<title gid="1853598422" lang="JA">Nan Demo Soujuu Ki</title></episode>
+<episode num="987">
+<title gid="2431376967" lang="JA">Shinigami Yama no Houmotsu</title></episode>
+<episode num="988">
+<title gid="3248166659" lang="JA">I Nemuri Shīru</title></episode>
+<episode num="989">
+<title gid="2880214341" lang="JA">Shinki Rousoku Date</title></episode>
+<episode num="990">
+<title gid="1064942984" lang="JA">Konchuu Mākā</title></episode>
+<episode num="991">
+<title gid="2702677424" lang="JA">Yatteki Ta Go Senzo Sama</title></episode>
+<episode num="992">
+<title gid="2980546032" lang="JA">Hairērupēpā</title></episode>
+<episode num="993">
+<title gid="256911945" lang="JA">Nakami Goto no Bichijimi Kappu</title></episode>
+<episode num="994">
+<title gid="2477099257" lang="JA">Kengou Nobita</title></episode>
+<episode num="995">
+<title gid="1971121013" lang="JA">Uranai Kādo Bokkusu</title></episode>
+<episode num="996">
+<title gid="2535767667" lang="JA">Hairikomi Mirā II</title></episode>
+<episode num="997">
+<title gid="3121211283" lang="JA">Tatsu Maki Sutorō</title></episode>
+<episode num="998">
+<title gid="1090500758" lang="JA">Heri Kamera</title></episode>
+<episode num="999">
+<title gid="2791412806" lang="JA">Marionettā</title></episode>
+<episode num="1000">
+<title gid="2110495769" lang="JA">Kamereon Cha</title></episode>
+<episode num="1001">
+<title gid="1918391487" lang="JA">Toranporin Gen</title></episode>
+<episode num="1002">
+<title gid="3103435325" lang="JA">Yuu Dou Ashi Ato Sutanpu</title></episode>
+<episode num="1003">
+<title gid="258821965" lang="JA">Shashin Shabēru</title></episode>
+<episode num="1004">
+<title gid="1746772487" lang="JA">Taimu.rūmu</title></episode>
+<episode num="1005">
+<title gid="1660753691" lang="JA">Taimu.rūmu</title></episode>
+<episode num="1006">
+<title gid="1908138094" lang="JA">Zettai Anze N ka sa</title></episode>
+<episode num="1007">
+<title gid="3150655998" lang="JA">Age Rare Tako</title></episode>
+<episode num="1008">
+<title gid="3085383069" lang="JA">Setto Mēkā</title></episode>
+<episode num="1009">
+<title gid="1219495231" lang="JA">Rajikonantena</title></episode>
+<episode num="1010">
+<title gid="3505353639" lang="JA">Oni Ha Soto Bīnzu</title></episode>
+<episode num="1011">
+<title gid="895493577" lang="JA">Taimudorīmā</title></episode>
+<episode num="1012">
+<title gid="2369265256" lang="JA">Rikujou Bōto</title></episode>
+<episode num="1013">
+<title gid="2780730172" lang="JA">Anime Ba Ko</title></episode>
+<episode num="1014">
+<title gid="1076065028" lang="JA">Bouen Mega Fon</title></episode>
+<episode num="1015">
+<title gid="854998724" lang="JA">Nan Demo Kuukou</title></episode>
+<episode num="1016">
+<title gid="2611086570" lang="JA">Dou Butsu Yubi Kyappu</title></episode>
+<episode num="1017">
+<title gid="1938670455" lang="JA">Goroawasetou</title></episode>
+<episode num="1018">
+<title gid="2816270944" lang="JA">Nazo no Yogen Sho</title></episode>
+<episode num="1019">
+<title gid="1508280638" lang="JA">Kiki ga Ki Taipuraitā</title></episode>
+<episode num="1020">
+<title gid="2213182399" lang="JA">Nobita to Fuusen Ikada</title></episode>
+<episode num="1021">
+<title gid="2069497849" lang="JA">Chou Kyodai Rittai Terebi</title></episode>
+<episode num="1022">
+<title gid="675506374" lang="JA">Jitsubutsu Minichua Dai Hyakka</title></episode>
+<episode num="1023">
+<title gid="3785460488" lang="JA">Zange Bou</title></episode>
+<episode num="1024">
+<title gid="1091156745" lang="JA">Yukiyama no Purezento</title></episode>
+<episode num="1025">
+<title gid="2283980446" lang="JA">Heya ni Shizen o</title></episode>
+<episode num="1026">
+<title gid="2527268626" lang="JA">Apāto Gokko</title></episode>
+<episode num="1027">
+<title gid="2549123754" lang="JA">Mujintou Ha Boku no Shima</title></episode>
+<episode num="1028">
+<title gid="1665555381" lang="JA">Ii Toko Sen Takushi Bōdo</title></episode>
+<episode num="1029">
+<title gid="1855301871" lang="JA">Ii Toko Sen Takushi Bōdo</title></episode>
+<episode num="1030">
+<title gid="496980431" lang="JA">Mini.terebikyoku</title></episode>
+<episode num="1031">
+<title gid="1517548466" lang="JA">Kage Bun Chin to Kage Jittai ka Eki</title></episode>
+<episode num="1032">
+<title gid="1192602237" lang="JA">Rakuraku Tozan Bou</title></episode>
+<episode num="1033">
+<title gid="3312159521" lang="JA">Tachimono Gankake Jinja</title></episode>
+<episode num="1034">
+<title gid="1507868058" lang="JA">Hyouhon sa Ishuu Bako</title></episode>
+<episode num="1035">
+<title gid="3115383782" lang="JA">CM Kyandē Hassha Ki</title></episode>
+<episode num="1036">
+<title gid="1541288369" lang="JA">Furī Saizu Nuigurumi Kamera</title></episode>
+<episode num="1037">
+<title gid="3306010323" lang="JA">Yume Hōru</title></episode>
+<episode num="1038">
+<title gid="1038392867" lang="JA">Ningen Chokin Bako Seizou Ki</title></episode>
+<episode num="1039">
+<title gid="3155254579" lang="JA">Sou Naru kai Setto</title></episode>
+<episode num="1040">
+<title gid="3472962754" lang="JA">Serufuarāmu</title></episode>
+<episode num="1041">
+<title gid="2614550084" lang="JA">Henshin Ringu to Kādo</title></episode>
+<episode num="1042">
+<title gid="902157228" lang="JA">Dorami Gata Mini Netsu Kikyuu</title></episode>
+<episode num="1043">
+<title gid="2387139373" lang="JA">Otori Kēsu</title></episode>
+<episode num="1044">
+<title gid="2124902485" lang="JA">Hōmuzu San Ten Setto</title></episode>
+<episode num="1045">
+<title gid="2181045287" lang="JA">Tsuduki o Yoroshiku</title></episode>
+<episode num="1046">
+<title gid="1342231238" lang="JA">Mi Gawari Maiku</title></episode>
+<episode num="1047">
+<title gid="2932604377" lang="JA">Mushi Chuu</title></episode>
+<episode num="1048">
+<title gid="3296340554" lang="JA">Sai Min Mega Fon</title></episode>
+<episode num="1049">
+<title gid="1164145207" lang="JA">Katei ka Epuron</title></episode>
+<episode num="1050">
+<title gid="2600270954" lang="JA">Chizu Chuushi Ki</title></episode>
+<episode num="1051">
+<title gid="1511455642" lang="JA">Sono Toki Doko ni I Ta</title></episode>
+<episode num="1052">
+<title gid="1247535618" lang="JA">Nari kiri Purēto</title></episode>
+<episode num="1053">
+<title gid="2240795667" lang="JA">Itsu Demo Doko Demo Sukecchi Setto</title></episode>
+<episode num="1054">
+<title gid="1157198730" lang="JA">Jaian no Dinā Shō</title></episode>
+<episode num="1055">
+<title gid="2550833779" lang="JA">Kousou Manshon ka Erebētā</title></episode>
+<episode num="1056">
+<title gid="1040988454" lang="JA">Hanbun Ko Gatana</title></episode>
+<episode num="1057">
+<title gid="893849935" lang="JA">Eakon Foto</title></episode>
+<episode num="1058">
+<title gid="1373373693" lang="JA">Kyouryoku Urutorasūpāderakkusukyandē</title></episode>
+<episode num="1059">
+<title gid="3045963348" lang="JA">Nobita Tanjou</title></episode>
+<episode num="1060">
+<title gid="2866844798" lang="JA">O Konomi Kenkoku Youhin</title></episode>
+<episode num="1061">
+<title gid="3553459243" lang="JA">Dorīmu Pureiyā</title></episode>
+<episode num="1062">
+<title gid="1615714908" lang="JA">Ryuukou Sei Korekushon</title></episode>
+<episode num="1063">
+<title gid="2346661151" lang="JA">Nozomi Jitsugen Ki</title></episode>
+<episode num="1064">
+<title gid="661110790" lang="JA">Nuigurumi Sei Zou Kamera</title></episode>
+<episode num="1065">
+<title gid="2516511220" lang="JA">Nobita no Akunin Shigan</title></episode>
+<episode num="1066">
+<title gid="2167073511" lang="JA">Mirai Tosho Ken</title></episode>
+<episode num="1067">
+<title gid="2326113575" lang="JA">Gorugon no Kubi</title></episode>
+<episode num="1068">
+<title gid="3587143071" lang="JA">Buttai Koukan Kurosu</title></episode>
+<episode num="1069">
+<title gid="2956667380" lang="JA">Kankyou Sukurīn to Purojekutā</title></episode>
+<episode num="1070">
+<title gid="2334934096" lang="JA">Boku no Mori shi Sama</title></episode>
+<episode num="1071">
+<title gid="2118810200" lang="JA">Pēpā Kurafuto</title></episode>
+<episode num="1072">
+<title gid="2237709151" lang="JA">Zentai Fukugen Eki</title></episode>
+<episode num="1073">
+<title gid="3139088158" lang="JA">Funwarizusshirimētā</title></episode>
+<episode num="1074">
+<title gid="3381793529" lang="JA">Doraemon no Kenkou Shindan</title></episode>
+<episode num="1075">
+<title gid="3161348319" lang="JA">Shitsunai Ryokou Setto</title></episode>
+<episode num="1076">
+<title gid="1346409683" lang="JA">Muteki Konchū ni</title></episode>
+<episode num="1077">
+<title gid="1101860236" lang="JA">Mama no Arigatami</title></episode>
+<episode num="1078">
+<title gid="2369963053" lang="JA">Anata dake no mono Gasu</title></episode>
+<episode num="1079">
+<title gid="3534590752" lang="JA">Supīdo Zou Kan Gōguru</title></episode>
+<episode num="1080">
+<title gid="2582977309" lang="JA">Pinchi Rannā</title></episode>
+<episode num="1081">
+<title gid="1782993604" lang="JA">Kousou Manshon Dasshutsu Dai Sakusen</title></episode>
+<episode num="1082">
+<title gid="1533390271" lang="JA">Bannou Kurīnā</title></episode>
+<episode num="1083">
+<title gid="2212826033" lang="JA">Taimu Pisutoru</title></episode>
+<episode num="1084">
+<title gid="2695346076" lang="JA">Shinro Adobaizā</title></episode>
+<episode num="1085">
+<title gid="2800032670" lang="JA">Machi no Naka de Daibingu</title></episode>
+<episode num="1086">
+<title gid="2281485317" lang="JA">Tsukinuke Zabuton</title></episode>
+<episode num="1087">
+<title gid="1861341741" lang="JA">Urameshizukin</title></episode>
+<episode num="1088">
+<title gid="2046263175" lang="JA">Kawari e Mirā</title></episode>
+<episode num="1089">
+<title gid="2396413443" lang="JA">Otoshimono Kamubakku.supurē</title></episode>
+<episode num="1090">
+<title gid="2377194616" lang="JA">Mippei Kuukan Tansa Ki</title></episode>
+<episode num="1091">
+<title gid="3494514027" lang="JA">Okaeshi Hando</title></episode>
+<episode num="1092">
+<title gid="3095234511" lang="JA">Petari Kanpan</title></episode>
+<episode num="1093">
+<title gid="3440026189" lang="JA">Kimagure Karendā</title></episode>
+<episode num="1094">
+<title gid="2269615194" lang="JA">Hon mo no e Hon</title></episode>
+<episode num="1095">
+<title gid="791576174" lang="JA">Doubutsu Umarekawari Tamago</title></episode>
+<episode num="1096">
+<title gid="751457893" lang="JA">Chounai Toppa Dai Sakusen</title></episode>
+<episode num="1097">
+<title gid="1627787770" lang="JA">Uchuu Kanzen Dai Hyakka</title></episode>
+<episode num="1098">
+<title gid="2309755656" lang="JA">Sennin Rakuraku Kōsu</title></episode>
+<episode num="1099">
+<title gid="834847856" lang="JA">7 Man Nen Mae no Nippon He Iko U</title></episode>
+<episode num="1100">
+<title gid="1991299692" lang="JA">Seigi no Mikata Patokā</title></episode>
+<episode num="1101">
+<title gid="3895828734" lang="JA">Bajj I o Sagase</title></episode>
+<episode num="1102">
+<title gid="2001643221" lang="JA">Shokuhin Shikaku ka Gasu</title></episode>
+<episode num="1103">
+<title gid="2261792504" lang="JA">Petto Kurīmu</title></episode>
+<episode num="1104">
+<title gid="2254091110" lang="JA">Genryou Raito</title></episode>
+<episode num="1105">
+<title gid="3305332488" lang="JA">Raji Kon no Moto</title></episode>
+<episode num="1106">
+<title gid="2584084089" lang="JA">Kikou Shuuchuu Souchi</title></episode>
+<episode num="1107">
+<title gid="3438313004" lang="JA">Daruma San ga Koron Da Bou</title></episode>
+<episode num="1108">
+<title gid="1039913080" lang="JA">Jaian to Jai Ko</title></episode>
+<episode num="1109">
+<title gid="1884516835" lang="JA">Utsushi Boku Ro</title></episode>
+<episode num="1110">
+<title part="B" gid="2669115790" lang="JA">SF Chou Taisaku Uradoraman</title>
+<title gid="3240399824" lang="JA">Shi Awa Se Kairo</title></episode>
+<episode num="1111">
+<title gid="1013754329" lang="JA">Iya Name Mētā</title></episode>
+<episode num="1112">
+<title gid="918400964" lang="JA">Yochi Yume de Chikyuu o Sukue!!</title></episode>
+<episode num="1113">
+<title gid="3311402853" lang="JA">Kakuren Bou</title></episode>
+<episode num="1114">
+<title gid="215721096" lang="JA">Sokkuri Petto Fūdo</title></episode>
+<episode num="1115">
+<title gid="2856252385" lang="JA">Ningyou Jidou ka Onpa</title></episode>
+<episode num="1116">
+<title gid="1423920037" lang="JA">Shinamono Unsei Kyou</title></episode>
+<episode num="1117">
+<title gid="3932076699" lang="JA">Hokuro Gata Supīkā</title></episode>
+<episode num="1118">
+<title gid="2365920860" lang="JA">Tedukuri Omocha</title></episode>
+<episode num="1119">
+<title gid="452542061" lang="JA">Senpaku Bin Dume Zai</title></episode>
+<episode num="1120">
+<title gid="4067962568" lang="JA">Kioku Tori Dashi Renzu</title></episode>
+<episode num="1121">
+<title gid="2556685988" lang="JA">Chiri Tsumora Se Ki</title></episode>
+<episode num="1122">
+<title gid="3047735573" lang="JA">Nagareboshi Yuu Dou Gasa</title></episode>
+<episode num="1123">
+<title gid="2202990763" lang="JA">Mori Ha Yon de Iru</title></episode>
+<episode num="1124">
+<title gid="2568511740" lang="JA">Doko Demo Fuusen</title></episode>
+<episode num="1125">
+<title gid="2548187026" lang="JA">Hamaguri Pakku</title></episode>
+<episode num="1126">
+<title gid="2223033647" lang="JA">Deha Iri Kagami</title></episode>
+<episode num="1127">
+<title gid="2076626387" lang="JA">Yobitsuke Buzā</title></episode>
+<episode num="1128">
+<title gid="2857413720" lang="JA">Kaizou Chibi Yon ka</title></episode>
+<episode num="1129">
+<title gid="847821336" lang="JA">Akutokōdā</title></episode>
+<episode num="1130">
+<title gid="2507980577" lang="JA">Enzeru ni Omakase</title></episode>
+<episode num="1131">
+<title gid="1925082474" lang="JA">Yousei Robotto</title></episode>
+<episode num="1132">
+<title gid="1545818837" lang="JA">Onegai Koduchi</title></episode>
+<episode num="1133">
+<title gid="1081248738" lang="JA">Jaian o Shitsukeyo U</title></episode>
+<episode num="1134">
+<title gid="2244290824" lang="JA">Nobita no Katei Kyoushi</title></episode>
+<episode num="1135">
+<title gid="3311442912" lang="JA">Shizen Kansatsu Puramo Shirīzu</title></episode>
+<episode num="1136">
+<title gid="3468265739" lang="JA">Uki wa Paipu to Tabako</title></episode>
+<episode num="1137">
+<title gid="1815837847" lang="JA">Migawari Terebi</title></episode>
+<episode num="1138">
+<title gid="3938066899" lang="JA">Mushi Yose Bōdo</title></episode>
+<episode num="1139">
+<title gid="1836973195" lang="JA">Ji Tsu Butsu Hasami</title></episode>
+<episode num="1140">
+<title gid="2675942594" lang="JA">Toshitsuki Asshuku Gan</title></episode>
+<episode num="1141">
+<title gid="590204853" lang="JA">Nankai no Dai Bouken</title></episode>
+<episode num="1142">
+<title gid="2777261585" lang="JA">Ningen You Taimusuicchi</title></episode>
+<episode num="1143">
+<title gid="412224206" lang="JA">Tsuchinoko o Sagase</title></episode>
+<episode num="1144">
+<title gid="989524750" lang="JA">Doraemon darake</title></episode>
+<episode num="1145">
+<title gid="2486387909" lang="JA">Hyaku Oni Senkou</title></episode>
+<episode num="1146">
+<title gid="2858290816" lang="JA">Dorami to Haikingu</title></episode>
+<episode num="1147">
+<title gid="2881011814" lang="JA">Mama o Daietto</title></episode>
+<episode num="1148">
+<title gid="2593515058" lang="JA">Nagareboshi Seizou Tonkachi</title></episode>
+<episode num="1149">
+<title gid="1870146586" lang="JA">Rakkī Sunadokei</title></episode>
+<episode num="1150">
+<title gid="1578629444" lang="JA">Furoshiki Takushī</title></episode>
+<episode num="1151">
+<title gid="1342315293" lang="JA">Sankyū Bajj I</title></episode>
+<episode num="1152">
+<title gid="2257790194" lang="JA">Muda Habu Ki</title></episode>
+<episode num="1153">
+<title gid="1375608644" lang="JA">Bannou Purintā</title></episode>
+<episode num="1154">
+<title gid="2944041856" lang="JA">Pawāappumegafon</title></episode>
+<episode num="1155">
+<title gid="641110663" lang="JA">Kuraku Mētā</title></episode>
+<episode num="1156">
+<title gid="1214602185" lang="JA">O Hyaku Do Enyakora Mochi</title></episode>
+<episode num="1157">
+<title gid="2876274068" lang="JA">Muchuu Ki o Sagase</title></episode>
+<episode num="1158">
+<title gid="3690210421" lang="JA">Heākatarogusetto</title></episode>
+<episode num="1159">
+<title gid="3422439421" lang="JA">Mirai Rajio</title></episode>
+<episode num="1160">
+<title gid="2875160715" lang="JA">Keronpasu</title></episode>
+<episode num="1161">
+<title gid="3514247983" lang="JA">Takara sa ga shi ni Iko U</title></episode>
+<episode num="1162">
+<title gid="2647817262" lang="JA">Gachigachin</title></episode>
+<episode num="1163">
+<title gid="4096043925" lang="JA">Sora made Su Tooshi Furēmu</title></episode>
+<episode num="1164">
+<title gid="401103824" lang="JA">Shunpuu Uchiwa</title></episode>
+<episode num="1165">
+<title gid="749345069" lang="JA">Sūpājaian</title></episode>
+<episode num="1166">
+<title gid="3621440905" lang="JA">Kaminari Da Iko</title></episode>
+<episode num="1167">
+<title gid="2190061398" lang="JA">Muri Yari Shakuyou Sho</title></episode>
+<episode num="1168">
+<title gid="2159982284" lang="JA">Migawari shi Ningyou</title></episode>
+<episode num="1169">
+<title gid="3188742027" lang="JA">Yakudatsu mono Hanbai Ki</title></episode>
+<episode num="1170">
+<title gid="1971034915" lang="JA">Tsuyoi Petto ga Hoshii</title></episode>
+<episode num="1171">
+<title gid="2077116256" lang="JA">Hameruncharumera</title></episode>
+<episode num="1172">
+<title gid="2435912721" lang="JA">Zanzou Jittai ka Supurē</title></episode>
+<episode num="1173">
+<title gid="2108168688" lang="JA">Minami no Shima He Dekakeyo U</title></episode>
+<episode num="1174">
+<title gid="2483291339" lang="JA">Asurechikku Shīru</title></episode>
+<episode num="1175">
+<title gid="1348251819" lang="JA">Rittai Arubamu</title></episode>
+<episode num="1176">
+<title gid="1163275125" lang="JA">Baio Ueki Kan</title></episode>
+<episode num="1177">
+<title gid="1368001805" lang="JA">Kazoku Awase Kēsu</title></episode>
+<episode num="1178">
+<title gid="2230022665" lang="JA">Ishikoro ni Nari Tai</title></episode>
+<episode num="1179">
+<title gid="1602237549" lang="JA">Konpyūtā Penshiru</title></episode>
+<episode num="1180">
+<title gid="1898639543" lang="JA">Ojisan no Kataomoi</title></episode>
+<episode num="1181">
+<title gid="1018308805" lang="JA">Hansei Batta</title></episode>
+<episode num="1182">
+<title gid="2804040576" lang="JA">Harapeko Onigiri</title></episode>
+<episode num="1183">
+<title gid="1272310681" lang="JA">Ankipan</title></episode>
+<episode num="1184">
+<title gid="3914004632" lang="JA">Yume to Roman o Tansaku Mogura</title></episode>
+<episode num="1185">
+<title gid="1694319961" lang="JA">Miniminirobotto</title></episode>
+<episode num="1186">
+<title gid="864176567" lang="JA">Muku Genki ni Nat Te</title></episode>
+<episode num="1187">
+<title gid="2153432194" lang="JA">Yokoduna Nobita</title></episode>
+<episode num="1188">
+<title gid="2492694541" lang="JA">Janpingu Sensui Kan</title></episode>
+<episode num="1189">
+<title gid="1863734105" lang="JA">Gamu de Migawari</title></episode>
+<episode num="1190">
+<title gid="2527396957" lang="JA">Choucho Retā</title></episode>
+<episode num="1191">
+<title gid="2574081742" lang="JA">Hon mo no Zukan de Hon mono o</title></episode>
+<episode num="1192">
+<title gid="465728087" lang="JA">Utsutsu Makura de Tensai Shounen</title></episode>
+<episode num="1193">
+<title gid="2828009475" lang="JA">Jaian o Nottoro U</title></episode>
+<episode num="1194">
+<title gid="1541224212" lang="JA">Yume Tsuduki Makura</title></episode>
+<episode num="1195">
+<title gid="600802594" lang="JA">Kurou Miso Banashi</title></episode>
+<episode num="1196">
+<title gid="3504637584" lang="JA">Uocchingu Gurasu</title></episode>
+<episode num="1197">
+<title gid="687666296" lang="JA">Wasurero Kusa o Kimi ni</title></episode>
+<episode num="1198">
+<title gid="941380116" lang="JA">Bodīgādo ni Go Youjin</title></episode>
+<episode num="1199">
+<title gid="2104508524" lang="JA">Abekobe no Hoshi</title></episode>
+<episode num="1200">
+<title gid="2646606146" lang="JA">Koe mon Kyandī</title></episode>
+<episode num="1201">
+<title gid="985031917" lang="JA">Nobita Ha Dendenmushi!?</title></episode>
+<episode num="1202">
+<title gid="1935326830" lang="JA">Shawā de Kakurenbo</title></episode>
+<episode num="1203">
+<title gid="3083352036" lang="JA">Eri Chan ni Ai Tai</title></episode>
+<episode num="1204">
+<title gid="1182619906" lang="JA">Urashimakyandē</title></episode>
+<episode num="1205">
+<title gid="1422064745" lang="JA">Kurou Miso Ame</title></episode>
+<episode num="1206">
+<title gid="2072725630" lang="JA">Jīn Maiku</title></episode>
+<episode num="1207">
+<title gid="1839565659" lang="JA">O Hoshi Sama ni Onegai</title></episode>
+<episode num="1208">
+<title gid="2204240194" lang="JA">Nobita Ha Nikume Nai?</title></episode>
+<episode num="1209">
+<title gid="2647931320" lang="JA">Herupu Man Toujou</title></episode>
+<episode num="1210">
+<title gid="2902416357" lang="JA">Sukāfu no Omoide</title></episode>
+<episode num="1211">
+<title gid="1491232778" lang="JA">Sai Min Jutsu de Benkyou o!</title></episode>
+<episode num="1212">
+<title gid="2312361046" lang="JA">Chitei no Kuni Tanken</title></episode>
+<episode num="1213">
+<title gid="1189501509" lang="JA">Sukī Ha Hako Niwa de</title></episode>
+<episode num="1214">
+<title gid="3020515323" lang="JA">Arabin no Ranpu</title></episode>
+<episode num="1215">
+<title gid="2273692269" lang="JA">Otokonna</title></episode>
+<episode num="1216">
+<title gid="1616769868" lang="JA">Antena ni Omakase</title></episode>
+<episode num="1217">
+<title gid="3515080261" lang="JA">Anrakkī.daiya</title></episode>
+<episode num="1218">
+<title gid="1796962865" lang="JA">Mi Chibi Ki</title></episode>
+<episode num="1219">
+<title gid="920469688" lang="JA">Sennin no Mushi</title></episode>
+<episode num="1220">
+<title gid="944993867" lang="JA">Raku ga Ki Deshi Kaeshi</title></episode>
+<episode num="1221">
+<title gid="3812442216" lang="JA">Gyakuten Supurē</title></episode>
+<episode num="1222">
+<title gid="1606172522" lang="JA">Arigatāya</title></episode>
+<episode num="1223">
+<title gid="1471724846" lang="JA">Hannou Tesuto.Robotto</title></episode>
+<episode num="1224">
+<title gid="1441102634" lang="JA">Ashita Se N Taku Ki</title></episode>
+<episode num="1225">
+<title gid="3657351570" lang="JA">Amaen Bo Shīru</title></episode>
+<episode num="1226">
+<title gid="1116004376" lang="JA">Erebētā Purēto</title></episode>
+<episode num="1227">
+<title gid="2997343127" lang="JA">Mushakushataimā</title></episode>
+<episode num="1228">
+<title gid="4013355578" lang="JA">Nan Demo Yobidashi Maiku</title></episode>
+<episode num="1229">
+<title gid="1119813057" lang="JA">Kouka Mori Age Chīru</title></episode>
+<episode num="1230">
+<title gid="2866729618" lang="JA">Shattāchansukamera</title></episode>
+<episode num="1231">
+<title gid="2548009808" lang="JA">Jinsei Yarinaoshi Keikaku</title></episode>
+<episode num="1232">
+<title gid="2984294660" lang="JA">Nari kiri Raito</title></episode>
+<episode num="1233">
+<title part="B" gid="2249271996" lang="JA">Doraemon Mei Saku Gekijou Shinderera</title>
+<title gid="1967581805" lang="JA">Hane Ari no Yukue</title></episode>
+<episode num="1234">
+<title gid="3021685904" lang="JA">Kandou Ki</title></episode>
+<episode num="1235">
+<title part="B" gid="1476414903" lang="JA">Doraemon Mei Saku Gekijou Saru ka ni Kasse N</title>
+<title gid="1551574969" lang="JA">Honne Robotto</title></episode>
+<episode num="1236">
+<title gid="1318603384" lang="JA">Un Dou Manzoku</title></episode>
+<episode num="1237">
+<title part="B" gid="807300413" lang="JA">Doraemon Mei Saku Gekijou Jakku to Mame no Ki</title>
+<title gid="1807131047" lang="JA">Rentarushībā</title></episode>
+<episode num="1238">
+<title gid="1236948799" lang="JA">Honne Shigunaru</title></episode>
+<episode num="1239">
+<title part="B" gid="399013617" lang="JA">Doraemon Mei Saku Gekijou mo Mo Taro U</title>
+<title gid="914587392" lang="JA">Nen Korori N</title></episode>
+<episode num="1240">
+<title gid="2128345564" lang="JA">Kazoku Torikae Ki</title></episode>
+<episode num="1241">
+<title part="B" gid="2025920331" lang="JA">Doraemon Mei Saku Gekijou Kin no Ono</title>
+<title gid="3513085513" lang="JA">Aisu Bokkusu</title></episode>
+<episode num="1242">
+<title gid="3076704541" lang="JA">Guddotaimumashin</title></episode>
+<episode num="1243">
+<title part="B" gid="3107916234" lang="JA">Doraemon Mei Saku Gekijou 3 Biki no Ko Buta</title>
+<title gid="2412950465" lang="JA">Chiisana Koi ni Meromero</title></episode>
+<episode num="1244">
+<title gid="2339691481" lang="JA">Būmeran Origami</title></episode>
+<episode num="1245">
+<title part="B" gid="2415200456" lang="JA">Doraemon Mei Saku Gekijou Macchi Uri no Shoujo</title>
+<title gid="3078165772" lang="JA">Būmeran Origami</title></episode>
+<episode num="1246">
+<title gid="2643270568" lang="JA">Taigā Kyappu</title></episode>
+<episode num="1247">
+<title part="B" gid="2377145435" lang="JA">Doraemon Mei Saku Gekijou Issunboushi</title>
+<title gid="2422041711" lang="JA">Tsumorigan</title></episode>
+<episode num="1248">
+<title gid="1685202086" lang="JA">Medachi Raito</title></episode>
+<episode num="1249">
+<title part="B" gid="2270283730" lang="JA">Doraemon Mei Saku Gekijou Shirayukihime</title>
+<title gid="1767786733" lang="JA">Ritomasu Jinsei Shiken shi</title></episode>
+<episode num="1250">
+<title gid="824585421" lang="JA">Yon Jigen Pōchi</title></episode>
+<episode num="1251">
+<title part="B" gid="2951927553" lang="JA">Doraemon Mei Saku Gekijou Henzeru to Gurēteru</title>
+<title gid="2853245558" lang="JA">Meibutsu Furaggu</title></episode>
+<episode num="1252">
+<title gid="3232125454" lang="JA">Rensou Shiki Suiri Chuu Megane</title></episode>
+<episode num="1253">
+<title part="B" gid="2998083403" lang="JA">Doraemon Mei Saku Gekijou Nemuri Hime</title>
+<title gid="472989879" lang="JA">Karugaru Tsuri Zao</title></episode>
+<episode num="1254">
+<title gid="2877895225" lang="JA">Kangaeru Ashi</title></episode>
+<episode num="1255">
+<title part="B" gid="2419918384" lang="JA">Doraemon Mei Saku Gekijou Fushigi Naku Tsuya</title>
+<title gid="1958323943" lang="JA">Terebi Torimochi</title></episode>
+<episode num="1256">
+<title part="B" gid="1448339491" lang="JA">Doraemon Mei Saku Gekijou Tsuru no On ga e shi</title>
+<title gid="3391403136" lang="JA">Kataduke Rakkā</title></episode>
+<episode num="1257">
+<title part="B" gid="3520976200" lang="JA">Doraemon Mei Saku Gekijou Kagu ya Hime</title>
+<title gid="2839100081" lang="JA">Bideo Shiki Nan Demo Rimokon</title></episode>
+<episode num="1258">
+<title part="B" gid="3010978010" lang="JA">Doraemon Mei Saku Gekijou Kitsune to Tsuru</title>
+<title gid="3788543869" lang="JA">Sakadachi Shīru</title></episode>
+<episode num="1259">
+<title part="B" gid="2673557181" lang="JA">Doraemon Mei Saku Gekijou Ari to Kirigirisu</title>
+<title gid="2318140634" lang="JA">Ninki Sutā ga Makkuro Ke</title></episode>
+<episode num="1260">
+<title part="B" gid="2304578038" lang="JA">Doraemon Mei Saku Gekijou Ikkyuu San</title>
+<title gid="2078010684" lang="JA">Bonsainsetto</title></episode>
+<episode num="1261">
+<title part="B" gid="1826010851" lang="JA">Doraemon Mei Saku Gekijou Shita Giri Suzume</title>
+<title gid="2227268832" lang="JA">Mie Nai Hojo wa</title></episode>
+<episode num="1262">
+<title gid="2931053802" lang="JA">Ichi ya Duke</title></episode>
+<episode num="1263">
+<title part="B" gid="774423669" lang="JA">Doraemon Mei Saku Gekijou Nezumi no Sou Da N</title>
+<title gid="1752114311" lang="JA">Taimu Mashin de Kainushi o !</title></episode>
+<episode num="1264">
+<title part="B" gid="612626904" lang="JA">Doraemon Mei Saku Gekijou Ningyo Hime</title>
+<title gid="1251214179" lang="JA">Ginga Kankou Basu</title></episode>
+<episode num="1265">
+<title part="B" gid="2381930239" lang="JA">Doraemon Mei Saku Gekijou Arajin to Mahou no Ranpu</title>
+<title gid="1950576138" lang="JA">Supōtsu Paudā</title></episode>
+<episode num="1266">
+<title part="B" gid="2881776324" lang="JA">Doraemon Mei Saku Gekijou Kachikachi Yama</title>
+<title gid="1554534249" lang="JA">Baransu Torēnā</title></episode>
+<episode num="1267">
+<title part="B" gid="2659631603" lang="JA">Doraemon Mei Saku Gekijou ya Mata no Orochi</title>
+<title gid="2755488585" lang="JA">Taimu Mashin de o Hime Sama</title></episode>
+<episode num="1268">
+<title part="B" gid="2624234747" lang="JA">Doraemon Mei Saku Gekijou U Rashi Mata Rou</title>
+<title gid="2570848870" lang="JA">Uchuu Jin ga Yatteki Ta</title></episode>
+<episode num="1269">
+<title gid="1668963089" lang="JA">Ankōru 100 Watto</title></episode>
+<episode num="1270">
+<title gid="2596323092" lang="JA">Mirai no Machi ga Abunai!</title></episode>
+<episode num="1271">
+<title gid="1659577233" lang="JA">Wabi Sabi Goza</title></episode>
+<episode num="1272">
+<title gid="1186010081" lang="JA">Isu Ba de Haidō</title></episode>
+<episode num="1273">
+<title gid="3480076968" lang="JA">Minichua Yotto</title></episode>
+<episode num="1274">
+<title gid="1642848896" lang="JA">Doro Ron Ninja Setto</title></episode>
+<episode num="1275">
+<title gid="3077911470" lang="JA">Juunan Shiage Fūpu</title></episode>
+<episode num="1276">
+<title gid="722253775" lang="JA">O Tomodachi Robotto</title></episode>
+<episode num="1277">
+<title gid="1724494336" lang="JA">Jaianzu o Buttobase</title></episode>
+<episode num="1278">
+<title gid="2562561465" lang="JA">Henji Sakidori Posuto</title></episode>
+<episode num="1279">
+<title gid="1583908833" lang="JA">Muse Ki ni N Hikou Buttai</title></episode>
+<episode num="1280">
+<title gid="1192555215" lang="JA">Akachan Hon Yaku Ki</title></episode>
+<episode num="1281">
+<title gid="2953133507" lang="JA">Macchi Uri no Doraemon</title></episode>
+<episode num="1282">
+<title gid="1077551536" lang="JA">Puramo ka Dai Sakusen</title></episode>
+<episode num="1283">
+<title gid="396466910" lang="JA">Hikiyose Kagami</title></episode>
+<episode num="1284">
+<title gid="1197459520" lang="JA">Bideo Retā Ha Taihen Da</title></episode>
+<episode num="1285">
+<title gid="2976920010" lang="JA">Funwari Gasu</title></episode>
+<episode num="1286">
+<title gid="2428574484" lang="JA">Ningen Utsushi</title></episode>
+<episode num="1287">
+<title gid="1236510567" lang="JA">Kokoro Gawari Burōchi</title></episode>
+<episode num="1288">
+<title gid="498811027" lang="JA">Masayume Shinbun</title></episode>
+<episode num="1289">
+<title gid="2690252177" lang="JA">Katte ni Taimu</title></episode>
+<episode num="1290">
+<title gid="1802794277" lang="JA">Genshijidai Pāku</title></episode>
+<episode num="1291">
+<title gid="2394886628" lang="JA">Minidora Kyuujo Tai</title></episode>
+<episode num="1292">
+<title gid="1516244204" lang="JA">Sūpā Tebukuro</title></episode>
+<episode num="1293">
+<title gid="2243346199" lang="JA">Kaitou Kyatto no Moto</title></episode>
+<episode num="1294">
+<title gid="3043455268" lang="JA">Hari Sen Hon no Masu</title></episode>
+<episode num="1295">
+<title gid="1748729899" lang="JA">Jinsei Yarinaoshi Ki</title></episode>
+<episode num="1296">
+<title gid="1869682034" lang="JA">Ka Be Keshiki Kirikae Ki</title></episode>
+<episode num="1297">
+<title gid="2514360688" lang="JA">Abata mo Ekubo Shīru</title></episode>
+<episode num="1298">
+<title gid="3370247823" lang="JA">Jaian Ha Tensai Shounen</title></episode>
+<episode num="1299">
+<title gid="1667547162" lang="JA">Kyūpiddo no Tsubasa</title></episode>
+<episode num="1300">
+<title gid="3374529640" lang="JA">Shirayukihime no Ringo</title></episode>
+<episode num="1301">
+<title gid="2330466326" lang="JA">Denki Kamishibai Setto</title></episode>
+<episode num="1302">
+<title gid="3209820974" lang="JA">Shabon Dama Tsuushin</title></episode>
+<episode num="1303">
+<title gid="3283943823" lang="JA">Guutara Kansha no Hi</title></episode>
+<episode num="1304">
+<title gid="2033139925" lang="JA">Okiagari Shou Boushi</title></episode>
+<episode num="1305">
+<title gid="2029678248" lang="JA">Yononaka Uso darake</title></episode>
+<episode num="1306">
+<title gid="2762120560" lang="JA">Henshin Uchiwa</title></episode>
+<episode num="1307">
+<title gid="2570165030" lang="JA">Kumo no Mok Kun</title></episode>
+<episode num="1308">
+<title gid="1946299406" lang="JA">Gurume Gurasu</title></episode>
+<episode num="1309">
+<title gid="2614240291" lang="JA">Odate Robotto</title></episode>
+<episode num="1310">
+<title gid="2294450436" lang="JA">Ha Ko ni wa Furēmu</title></episode>
+<episode num="1311">
+<title gid="1405714658" lang="JA">Sagashi Butsu Pettan</title></episode>
+<episode num="1312">
+<title gid="3353286071" lang="JA">Neji Shiki Taifuu</title></episode>
+<episode num="1313">
+<title gid="2962012915" lang="JA">Doubutsu Pawā de Sabaibaru</title></episode>
+<episode num="1314">
+<title gid="3477232842" lang="JA">Kappu Yuu Rei</title></episode>
+<episode num="1315">
+<title gid="2576356852" lang="JA">Honmono Denshi Gēmu</title></episode>
+<episode num="1316">
+<title gid="2117970283" lang="JA">Asemizu Nagashi Tai</title></episode>
+<episode num="1317">
+<title gid="1221083065" lang="JA">Arekisandaru</title></episode>
+<episode num="1318">
+<title gid="1996654136" lang="JA">Kyouryoku Uchiwa Fuujin</title></episode>
+<episode num="1319">
+<title gid="3558084964" lang="JA">Toosenbou</title></episode>
+<episode num="1320">
+<title gid="2381191665" lang="JA">Gyaku Seichou Gurasu</title></episode>
+<episode num="1321">
+<title gid="1776543512" lang="JA">Youjinbou</title></episode>
+<episode num="1322">
+<title gid="3316454835" lang="JA">Hanako San Ha Dare Da?</title></episode>
+<episode num="1323">
+<title gid="1888857438" lang="JA">Petto Sokkuri Manjuu</title></episode>
+<episode num="1324">
+<title gid="2933502061" lang="JA">Rikuesuto Kogitte</title></episode>
+<episode num="1325">
+<title gid="1430783603" lang="JA">Attogungun</title></episode>
+<episode num="1326">
+<title gid="2849504679" lang="JA">Daruma Sutōn</title></episode>
+<episode num="1327">
+<title gid="624468560" lang="JA">Go Ki Gen Antena</title></episode>
+<episode num="1328">
+<title gid="3212478658" lang="JA">Aiai Gasa</title></episode>
+<episode num="1329">
+<title gid="1085519546" lang="JA">Dengon Hanabi</title></episode>
+<episode num="1330">
+<title gid="2377664998" lang="JA">Mama Ha Shougaku Go Nensei</title></episode>
+<episode num="1331">
+<title gid="2212747902" lang="JA">Muyuubou</title></episode>
+<episode num="1332">
+<title gid="2289013540" lang="JA">Santa En Totsu</title></episode>
+<episode num="1333">
+<title gid="2214950009" lang="JA">O Tanoshimi Otoshidama Bu Kuro</title></episode>
+<episode num="1334">
+<title gid="1227719251" lang="JA">Mochi Nu shi Tansa Ki</title></episode>
+<episode num="1335">
+<title gid="725213388" lang="JA">Nouryoku Kopī Tebukuro</title></episode>
+<episode num="1336">
+<title gid="2686574491" lang="JA">Purezento Rūtsu</title></episode>
+<episode num="1337">
+<title gid="2928625819" lang="JA">Ma Fuyu ni Hanami?!</title></episode>
+<episode num="1338">
+<title gid="2049994888" lang="JA">Nuigurumi Kamera to Kurūmu</title></episode>
+<episode num="1339">
+<title gid="956450766" lang="JA">O Isha San Kaban</title></episode>
+<episode num="1340">
+<title gid="2189347063" lang="JA">Iroiro Kumo Bonbe</title></episode>
+<episode num="1341">
+<title gid="2785536677" lang="JA">Ashi Ato Chekku Supurē</title></episode>
+<episode num="1342">
+<title gid="3235540567" lang="JA">Toumin Sherutā</title></episode>
+<episode num="1343">
+<title gid="470712031" lang="JA">Naruhodo Robotto</title></episode>
+<episode num="1344">
+<title gid="2018787912" lang="JA">Tobashi Ana</title></episode>
+<episode num="1345">
+<title gid="1380666716" lang="JA">Nobita Ha Dokusai Sha!?</title></episode>
+<episode num="1346">
+<title gid="2076829349" lang="JA">U Sotsu Ki</title></episode>
+<episode num="1347">
+<title gid="1747863254" lang="JA">Kibun Sukkiri Kan Kisen</title></episode>
+<episode num="1348">
+<title gid="2033077846" lang="JA">Ie ga Robotto ni Nat Ta</title></episode>
+<episode num="1349">
+<title gid="449607816" lang="JA">Sainou Kinoko</title></episode>
+<episode num="1350">
+<title gid="1767777162" lang="JA">Mujin Tansa Roketto</title></episode>
+<episode num="1351">
+<title gid="2134219543" lang="JA">Sūpā Dan Gokko</title></episode>
+<episode num="1352">
+<title gid="2057931677" lang="JA">O Tenki Kādo</title></episode>
+<episode num="1353">
+<title gid="2467051024" lang="JA">Kuukan Secchaku Zai de Pittanko</title></episode>
+<episode num="1354">
+<title gid="2744733821" lang="JA">Gādomedaru</title></episode>
+<episode num="1355">
+<title gid="1720698963" lang="JA">Otogibanashi Guzzu</title></episode>
+<episode num="1356">
+<title gid="2859468178" lang="JA">Nobita no Taimā</title></episode>
+<episode num="1357">
+<title gid="3614353426" lang="JA">Mikomi Yohou Ki</title></episode>
+<episode num="1358">
+<title gid="3308888104" lang="JA">O Niichan Ha Tsurai yo</title></episode>
+<episode num="1359">
+<title gid="1390631230" lang="JA">Omoidashi Tonkachi</title></episode>
+<episode num="1360">
+<title gid="2165777834" lang="JA">Eisei Rifuto</title></episode>
+<episode num="1361">
+<title gid="1988801246" lang="JA">Hiro? I Uchuu de Kaisuiyoku</title></episode>
+<episode num="1362">
+<title gid="2902346823" lang="JA">Tenki Kettei Hyou</title></episode>
+<episode num="1363">
+<title gid="1183301569" lang="JA">Tsume Awa Se Obake</title></episode>
+<episode num="1364">
+<title gid="3665909933" lang="JA">Petto Denwa Soudan Shitsu</title></episode>
+<episode num="1365">
+<title gid="498211204" lang="JA">Ayaushi! Taigā Kamen</title></episode>
+<episode num="1366">
+<title gid="2412924483" lang="JA">Puranetariumu Shiki 3 D</title></episode>
+<episode num="1367">
+<title gid="3253531890" lang="JA">Taimu zo Uki N</title></episode>
+<episode num="1368">
+<title gid="3458282511" lang="JA">Hikkoshi Chizu de Kaisuiyoku</title></episode>
+<episode num="1369">
+<title gid="2995309458" lang="JA">Men Ekisu Purē</title></episode>
+<episode num="1370">
+<title gid="2256740189" lang="JA">Majikku Hando de Okaeshi O!</title></episode>
+<episode num="1371">
+<title gid="2733466268" lang="JA">Ōru Ōbā</title></episode>
+<episode num="1372">
+<title gid="3440455185" lang="JA">Kossori Bideo</title></episode>
+<episode num="1373">
+<title gid="2902844445" lang="JA">Mama Ha Ookami Otoko!?</title></episode>
+<episode num="1374">
+<title gid="3941346414" lang="JA">Karada Ponpu</title></episode>
+<episode num="1375">
+<title gid="2550969747" lang="JA">Hii Ki Bajj I</title></episode>
+<episode num="1376">
+<title gid="3718280325" lang="JA">Boku ga Mie Naku Nat Ta?!</title></episode>
+<episode num="1377">
+<title gid="2674045161" lang="JA">Montāju Baketsu</title></episode>
+<episode num="1378">
+<title gid="726785576" lang="JA">Mini Mini Eisei</title></episode>
+<episode num="1379">
+<title gid="2918443316" lang="JA">Moshimo Hōn</title></episode>
+<episode num="1380">
+<title gid="2834392856" lang="JA">Esupākyappu</title></episode>
+<episode num="1381">
+<title gid="2182300759" lang="JA">Tonda Taimu Furoshiki</title></episode>
+<episode num="1382">
+<title gid="1209677601" lang="JA">Ato Modori Karendā</title></episode>
+<episode num="1383">
+<title gid="2040698079" lang="JA">Ryuuhyou ga Yatteki Ta!</title></episode>
+<episode num="1384">
+<title gid="2074895076" lang="JA">Hantai Gurōbu</title></episode>
+<episode num="1385">
+<title gid="2563692138" lang="JA">Shimo Be Sutekkā</title></episode>
+<episode num="1386">
+<title gid="2209097475" lang="JA">Imēji Henshin Kurīmu</title></episode>
+<episode num="1387">
+<title gid="1757668223" lang="JA">Homēruraito</title></episode>
+<episode num="1388">
+<title gid="3265616016" lang="JA">Kurou Suicchi</title></episode>
+<episode num="1389">
+<title gid="315267045" lang="JA">7 Nen Go no Nayami</title></episode>
+<episode num="1390">
+<title gid="2438867161" lang="JA">Hibike! Jaian no Uta</title></episode>
+<episode num="1391">
+<title gid="1576794152" lang="JA">Shikkuhakku</title></episode>
+<episode num="1392">
+<title gid="2004541728" lang="JA">O Tsukai Baggu</title></episode>
+<episode num="1393">
+<title gid="1927440068" lang="JA">Eipurirufūru</title></episode>
+<episode num="1394">
+<title gid="2492774462" lang="JA">Ji Shaku Beruto</title></episode>
+<episode num="1395">
+<title gid="1045078909" lang="JA">Tacchigurōbu</title></episode>
+<episode num="1396">
+<title gid="1571366635" lang="JA">Riaru Kyappu</title></episode>
+<episode num="1397">
+<title gid="2081088890" lang="JA">Nanairo no Koe Ame</title></episode>
+<episode num="1398">
+<title gid="3274660190" lang="JA">Oshaberi Kitte</title></episode>
+<episode num="1399">
+<title gid="2586800052" lang="JA">Pandora no Obake</title></episode>
+<episode num="1400">
+<title gid="2382221598" lang="JA">Yuuki Rinrin Boushi</title></episode>
+<episode num="1401">
+<title gid="2882284490" lang="JA">Ningen Motokurosu</title></episode>
+<episode num="1402">
+<title gid="1494310099" lang="JA">Watashi, Nobi Ko yo</title></episode>
+<episode num="1403">
+<title gid="2209069761" lang="JA">Chiruchiru Penki</title></episode>
+<episode num="1404">
+<title gid="1321825875" lang="JA">Hassuru Neji Maki</title></episode>
+<episode num="1405">
+<title gid="2652980941" lang="JA">Jai Ko ni Kyuujitsu o</title></episode>
+<episode num="1406">
+<title gid="141610809" lang="JA">Nobita no o Niisan</title></episode>
+<episode num="1407">
+<title gid="2124944384" lang="JA">Hashire! Nobita</title></episode>
+<episode num="1408">
+<title gid="2797304519" lang="JA">Hitotsubu 24 Jikan</title></episode>
+<episode num="1409">
+<title gid="825953833" lang="JA">Kage kiri Basami</title></episode>
+<episode num="1410">
+<title gid="3225924182" lang="JA">Sūpā Sararīman</title></episode>
+<episode num="1411">
+<title gid="2461738113" lang="JA">Ningen Marionetto</title></episode>
+<episode num="1412">
+<title gid="2811907038" lang="JA">Ukiuki Pūru</title></episode>
+<episode num="1413">
+<title gid="853013111" lang="JA">Mochinushi o Sagase!</title></episode>
+<episode num="1414">
+<title gid="2418081362" lang="JA">Guru me Fōku Setto</title></episode>
+<episode num="1415">
+<title gid="1278556710" lang="JA">Nobi Inu Nobita</title></episode>
+<episode num="1416">
+<title gid="2468967868" lang="JA">3 Funkan Kappu Ryokou</title></episode>
+<episode num="1417">
+<title gid="2855593258" lang="JA">Otouto Ha Nobita Kun</title></episode>
+<episode num="1418">
+<title gid="1533850826" lang="JA">Mii Chan ga Yukue Fumei</title></episode>
+<episode num="1419">
+<title gid="2781150597" lang="JA">Puraidokusugurin</title></episode>
+<episode num="1420">
+<title gid="1219052574" lang="JA">Kādo Terebi Denwa</title></episode>
+<episode num="1421">
+<title gid="2512498619" lang="JA">Hiru ga Yoru De, Yoru ga Hiru?</title></episode>
+<episode num="1422">
+<title gid="1599380466" lang="JA">Merodī o Tama</title></episode>
+<episode num="1423">
+<title gid="987173428" lang="JA">Animarukurinikku</title></episode>
+<episode num="1424">
+<title gid="2955309324" lang="JA">Ikimono Koutsuu Hyoushiki</title></episode>
+<episode num="1425">
+<title gid="1652270237" lang="JA">Juuryoku Penki Supurē</title></episode>
+<episode num="1426">
+<title gid="2782052318" lang="JA">Minidora Dai Dassou</title></episode>
+<episode num="1427">
+<title gid="2525889017" lang="JA">Mirai He no Messēji</title></episode>
+<episode num="1428">
+<title gid="3477291037" lang="JA">Santa Mēru</title></episode>
+<episode num="1429">
+<title gid="1411336627" lang="JA">Kise ka e Sakusen</title></episode>
+<episode num="1430">
+<title gid="2362962504" lang="JA">Kikiippatsu Herumetto</title></episode>
+<episode num="1431">
+<title gid="2678945887" lang="JA">Misuterī.sugoroku</title></episode>
+<episode num="1432">
+<title gid="2053007803" lang="JA">Ashita ni Kakeru Hashi</title></episode>
+<episode num="1433">
+<title gid="2844105340" lang="JA">Chūshin Kura</title></episode>
+<episode num="1434">
+<title gid="2864015545" lang="JA">Yukidaruma Dora Tarou</title></episode>
+<episode num="1435">
+<title gid="1718685676" lang="JA">Kī Mochi Do</title></episode>
+<episode num="1436">
+<title gid="2422442385" lang="JA">Hoshii Hito Arō</title></episode>
+<episode num="1437">
+<title gid="1046543070" lang="JA">Manmosu ga de Ta Zo!</title></episode>
+<episode num="1438">
+<title gid="3092795671" lang="JA">Nasuka Kun</title></episode>
+<episode num="1439">
+<title gid="1671302227" lang="JA">Mama Epuron</title></episode>
+<episode num="1440">
+<title gid="2439984310" lang="JA">Se Washi Kun no Iede</title></episode>
+<episode num="1441">
+<title gid="2419331957" lang="JA">Sonokinināru</title></episode>
+<episode num="1442">
+<title gid="802438489" lang="JA">Nobita Ha Dairīgā</title></episode>
+<episode num="1443">
+<title gid="1765986411" lang="JA">Ningen Kikan Sha</title></episode>
+<episode num="1444">
+<title gid="2741647908" lang="JA">Kyōmeiantena</title></episode>
+<episode num="1445">
+<title gid="2210692364" lang="JA">Supesharu Kādo</title></episode>
+<episode num="1446">
+<title gid="2398907899" lang="JA">Nobīta</title></episode>
+<episode num="1447">
+<title gid="2525415985" lang="JA">Genki Hatsuratsupakku</title></episode>
+<episode num="1448">
+<title gid="2837045373" lang="JA">Tesou Jitsugen Setto</title></episode>
+<episode num="1449">
+<title gid="2257367178" lang="JA">Ginga Kankou Basha Tsuā</title></episode>
+<episode num="1450">
+<title gid="769141966" lang="JA">Doko Demo Gurasu</title></episode>
+<episode num="1451">
+<title gid="2341217778" lang="JA">Nobita Ha Issunboushi</title></episode>
+<episode num="1452">
+<title gid="2465391369" lang="JA">Kokoro de Hanaso U</title></episode>
+<episode num="1453">
+<title gid="2318548589" lang="JA">Toro Rin</title></episode>
+<episode num="1454">
+<title gid="2086635999" lang="JA">Bikkuri Henshin Kukkī</title></episode>
+<episode num="1455">
+<title gid="3211171985" lang="JA">Ochi Nai Kaminari</title></episode>
+<episode num="1456">
+<title gid="2145222354" lang="JA">Sagashi Butsu Duri Zao</title></episode>
+<episode num="1457">
+<title gid="1911491389" lang="JA">Suiei Yarinaoshi Keikaku</title></episode>
+<episode num="1458">
+<title gid="2804700719" lang="JA">Barūn Shūzu</title></episode>
+<episode num="1459">
+<title gid="2580390902" lang="JA">Soko dake Supotto</title></episode>
+<episode num="1460">
+<title gid="2158347637" lang="JA">Kakutou ka Batterī</title></episode>
+<episode num="1461">
+<title gid="2662309421" lang="JA">Nobita Suisei</title></episode>
+<episode num="1462">
+<title gid="1572353127" lang="JA">Amaiwato</title></episode>
+<episode num="1463">
+<title gid="1471637043" lang="JA">Kandou no Mei Bamen</title></episode>
+<episode num="1464">
+<title gid="2084780962" lang="JA">Purīzu Kādo</title></episode>
+<episode num="1465">
+<title gid="1599142330" lang="JA">Nani de mo Naru Ki Setto</title></episode>
+<episode num="1466">
+<title gid="1817006386" lang="JA">Takara Boshi Tansa Roketto</title></episode>
+<episode num="1467">
+<title gid="3389811315" lang="JA">Nobita ga Sune Otto?</title></episode>
+<episode num="1468">
+<title gid="965138677" lang="JA">Tobidashi Raito</title></episode>
+<episode num="1469">
+<title gid="2418069386" lang="JA">Kopī Robotto</title></episode>
+<episode num="1470">
+<title gid="2676743518" lang="JA">Anime Supurē</title></episode>
+<episode num="1471">
+<title gid="3216844580" lang="JA">Omoshiro Tokudane Bideo</title></episode>
+<episode num="1472">
+<title gid="1446490562" lang="JA">Boku o Tomeru Nobita</title></episode>
+<episode num="1473">
+<title gid="3074612871" lang="JA">Koe dake Taimu Mashin</title></episode>
+<episode num="1474">
+<title gid="2385674481" lang="JA">Puramo ga Dai Da’</title></episode>
+<episode num="1475">
+<title gid="3224371970" lang="JA">Yon Jigen Kyacchā</title></episode>
+<episode num="1476">
+<title gid="2404264306" lang="JA">Kyandi de Shitsukeyo U</title></episode>
+<episode num="1477">
+<title gid="3932142131" lang="JA">Mugen Puranetariumu</title></episode>
+<episode num="1478">
+<title gid="4077900512" lang="JA">Omoi de Bokkusu</title></episode>
+<episode num="1479">
+<title gid="3591918181" lang="JA">Bakuhatsumeikā</title></episode>
+<episode num="1480">
+<title gid="3006495237" lang="JA">Mini Mini Kokkai</title></episode>
+<episode num="1481">
+<title gid="2029693289" lang="JA">Daikon Dansu Pātī</title></episode>
+<episode num="1482">
+<title gid="1757357628" lang="JA">Tsuki Tsuki Pendanto</title></episode>
+<episode num="1483">
+<title gid="2184290532" lang="JA">Kakikae Mappu</title></episode>
+<episode num="1484">
+<title gid="1099376423" lang="JA">Tokushou! Nobita Onsen</title></episode>
+<episode num="1485">
+<title gid="2050991098" lang="JA">Ousama Setto</title></episode>
+<episode num="1486">
+<title gid="3578574989" lang="JA">Reinbō Doroppu</title></episode>
+<episode num="1487">
+<title gid="1441968545" lang="JA">Nabi.kyappu</title></episode>
+<episode num="1488">
+<title gid="1601488583" lang="JA">Otona o Shikaru ID Kādo</title></episode>
+<episode num="1489">
+<title gid="2596422503" lang="JA">Juraki de Dorami ga Dai Pinchi</title></episode>
+<episode num="1490">
+<title gid="2012916260" lang="JA">Nobita Nyū Fasshon</title></episode>
+<episode num="1491">
+<title gid="1346807860" lang="JA">Oshaberi Petto Fūdo</title></episode>
+<episode num="1492">
+<title gid="2218274246" lang="JA">Sei Yumemakura</title></episode>
+<episode num="1493">
+<title gid="791343059" lang="JA">Negaigoto Biki ka e Ki</title></episode>
+<episode num="1494">
+<title gid="3585558235" lang="JA">Moujuu Petto ka Tebukuro</title></episode>
+<episode num="1495">
+<title gid="3246849518" lang="JA">Jibun dake Haya Mawashi Tokei</title></episode>
+<episode num="1496">
+<title gid="3231978396" lang="JA">Joudan Maiku</title></episode>
+<episode num="1497">
+<title gid="2912920734" lang="JA">Sapōtāchiahōn</title></episode>
+<episode num="1498">
+<title gid="1980078760" lang="JA">Tenshi no Ringu</title></episode>
+<episode num="1499">
+<title gid="3129027396" lang="JA">Maru Netto</title></episode>
+<episode num="1500">
+<title gid="1228518590" lang="JA">Mika Tasuki</title></episode>
+<episode num="1501">
+<title gid="3204075120" lang="JA">Ni Jigen Shuunou Kamera</title></episode>
+<episode num="1502">
+<title gid="1841044248" lang="JA">O Tegaru Sāfu Bōdo</title></episode>
+<episode num="1503">
+<title gid="3290699950" lang="JA">Omoide Taiken Arubamu</title></episode>
+<episode num="1504">
+<title gid="2182583855" lang="JA">Kuuchuu Gāden</title></episode>
+<episode num="1505">
+<title gid="3456646846" lang="JA">Ozashiki Kaisuiyoku Setto</title></episode>
+<episode num="1506">
+<title gid="2143362634" lang="JA">Honne Mirā</title></episode>
+<episode num="1507">
+<title gid="2654613544" lang="JA">Chokkinbako</title></episode>
+<episode num="1508">
+<title gid="1507479545" lang="JA">Nobita Unsou Ha Ikaga</title></episode>
+<episode num="1509">
+<title gid="1836395511" lang="JA">Ato Saki Nikki</title></episode>
+<episode num="1510">
+<title gid="2115515885" lang="JA">Misutā.Mūdo Appu</title></episode>
+<episode num="1511">
+<title gid="3090633212" lang="JA">Oshaberi Supurē</title></episode>
+<episode num="1512">
+<title gid="1911267760" lang="JA">Fukugen Raito</title></episode>
+<episode num="1513">
+<title gid="1999339852" lang="JA">Tomodachi no wa Nage</title></episode>
+<episode num="1514">
+<title gid="3334381784" lang="JA">An Taga Shuyaku Bajj I</title></episode>
+<episode num="1515">
+<title gid="2998622560" lang="JA">Hon mo no Jiten</title></episode>
+<episode num="1516">
+<title gid="2781777863" lang="JA">Mirai Mamagoto Shīto</title></episode>
+<episode num="1517">
+<title gid="942618624" lang="JA">Nobita Ha Mei Tantei?!</title></episode>
+<episode num="1518">
+<title gid="1521184779" lang="JA">Minidora to Dai Bouken</title></episode>
+<episode num="1519">
+<title gid="2569512785" lang="JA">Seigi no Sunēkurōpu</title></episode>
+<episode num="1520">
+<title gid="2236103705" lang="JA">Doujou Antena</title></episode>
+<episode num="1521">
+<title gid="1985592193" lang="JA">Rodeosadoru</title></episode>
+<episode num="1522">
+<title gid="3000604313" lang="JA">Na na Korobi Tentou Chuu</title></episode>
+<episode num="1523">
+<title gid="2100165906" lang="JA">Santa Baggu de Kurisumasu</title></episode>
+<episode num="1524">
+<title gid="2785275218" lang="JA">Taiyou Tama Go</title></episode>
+<episode num="1525">
+<title gid="1226522718" lang="JA">Mizutama Kapuseru no Tabi</title></episode>
+<episode num="1526">
+<title gid="2744638600" lang="JA">Hatsuden Ou Eneson</title></episode>
+<episode num="1527">
+<title gid="965888552" lang="JA">Warui Ko Bando!?</title></episode>
+<episode num="1528">
+<title gid="1650440218" lang="JA">VIP Kurīmu</title></episode>
+<episode num="1529">
+<title gid="1306301502" lang="JA">Jai Ko no Barentain</title></episode>
+<episode num="1530">
+<title gid="3059919297" lang="JA">Iito Ko Sekken</title></episode>
+<episode num="1531">
+<title gid="3456444647" lang="JA">Kotodama Kun</title></episode>
+<episode num="1532">
+<title gid="863088217" lang="JA">Sa ka sa Mama Wappen</title></episode>
+<episode num="1533">
+<title gid="790968378" lang="JA">Ponpu Chika Shitsu de Machi o Tsukuro U</title></episode>
+<episode num="1534">
+<title gid="1748706165" lang="JA">Panikku Āsu</title></episode>
+<episode num="1535">
+<title gid="2990984905" lang="JA">Yat Ta Ki</title></episode>
+<episode num="1536">
+<title gid="2368875983" lang="JA">Ōrumaiti.chea</title></episode>
+<episode num="1537">
+<title gid="242606840" lang="JA">Mimiyori Netto</title></episode>
+<episode num="1538">
+<title gid="2176152420" lang="JA">Animaru.peppā</title></episode>
+<episode num="1539">
+<title gid="3158583757" lang="JA">Kanitsumettā</title></episode>
+<episode num="1540">
+<title gid="2368058144" lang="JA">Kaze Fuki Mawashi Ki</title></episode>
+<episode num="1541">
+<title gid="3763387712" lang="JA">Okaeshi Ji Shaku</title></episode>
+<episode num="1542">
+<title gid="225857799" lang="JA">Tora no o Setto</title></episode>
+<episode num="1543">
+<title gid="1427018875" lang="JA">Eikō no Kadou</title></episode>
+<episode num="1544">
+<title gid="3940244621" lang="JA">Wasuren Bou</title></episode>
+<episode num="1545">
+<title gid="2134811151" lang="JA">Kaze no Uwasa Tori</title></episode>
+<episode num="1546">
+<title gid="2926159088" lang="JA">Shiri Tori Henshin Kyandi</title></episode>
+<episode num="1547">
+<title gid="2983986174" lang="JA">Nobita no Otouto Kon Futo!?</title></episode>
+<episode num="1548">
+<title gid="998386322" lang="JA">Baransu Shīsō</title></episode>
+<episode num="1549">
+<title gid="2197085860" lang="JA">Shiki Kaeru</title></episode>
+<episode num="1550">
+<title gid="3152290703" lang="JA">Yō Idon Pisutoru</title></episode>
+<episode num="1551">
+<title gid="2641969496" lang="JA">Yadokarin</title></episode>
+<episode num="1552">
+<title gid="1217024939" lang="JA">Taimu Rimokon</title></episode>
+<episode num="1553">
+<title gid="1975657880" lang="JA">Tatsu Maki Rappa</title></episode>
+<episode num="1554">
+<title gid="2388868848" lang="JA">Nai Nai Supurē</title></episode>
+<episode num="1555">
+<title gid="2268178976" lang="JA">Sagashi Shu</title></episode>
+<episode num="1556">
+<title gid="2933168821" lang="JA">Sūpā Urutora Nen Do</title></episode>
+<episode num="1557">
+<title gid="3403377543" lang="JA">Kiki Mimi</title></episode>
+<episode num="1558">
+<title gid="1573945459" lang="JA">Mai.Torein Setto</title></episode>
+<episode num="1559">
+<title gid="2584815239" lang="JA">Kuusou Doubutsu Safari Pāku de Dai Bouken</title></episode>
+<episode num="1560">
+<title gid="1033757276" lang="JA">Sutoppu Taoru</title></episode>
+<episode num="1561">
+<title gid="3986603918" lang="JA">Mono Noke Wappen</title></episode>
+<episode num="1562">
+<title gid="448550168" lang="JA">Tamago ni Onegai</title></episode>
+<episode num="1563">
+<title gid="2202448656" lang="JA">Nobita 3 Sai!?</title></episode>
+<episode num="1564">
+<title gid="2212105796" lang="JA">Ura Yama shi I</title></episode>
+<episode num="1565">
+<title gid="2744528187" lang="JA">Suzume no o Yado Ha Doko Da?</title></episode>
+<episode num="1566">
+<title gid="911914292" lang="JA">Sewashirepōto</title></episode>
+<episode num="1567">
+<title gid="1414848715" lang="JA">Ii Koto Pointo Kādo</title></episode>
+<episode num="1568">
+<title part="B" gid="1588022746" lang="JA">Doraemon Tanjou 30 Shuunen 2000 Nen Da Yo! Doraemon Mirai o Mamore! Nobita VS Ari Gundan</title>
+<title gid="3390158397" lang="JA">Ka Chūsha</title></episode>
+<episode num="1569">
+<title gid="1881736199" lang="JA">Sonouchi Kaeru</title></episode>
+<episode num="1570">
+<title gid="2088111992" lang="JA">Koumori Kyappu</title></episode>
+<episode num="1571">
+<title gid="1478778666" lang="JA">Kik Kī</title></episode>
+<episode num="1572">
+<title gid="3240571078" lang="JA">Kotowaza Gēmu</title></episode>
+<episode num="1573">
+<title gid="1784540258" lang="JA">Pinchi Hittā.Megahon</title></episode>
+<episode num="1574">
+<title gid="1603137805" lang="JA">Omoikomimī</title></episode>
+<episode num="1575">
+<title gid="1736529776" lang="JA">O Hina Sama o Sagaso U!</title></episode>
+<episode num="1576">
+<title gid="1656460633" lang="JA">Age Ma Shou</title></episode>
+<episode num="1577">
+<title gid="1943924874" lang="JA">Hashire Nobita! Robotto Saibansho</title></episode>
+<episode num="1578">
+<title gid="2478856868" lang="JA">Senkyokā</title></episode>
+<episode num="1579">
+<title gid="810936728" lang="JA">Sutā Raito</title></episode>
+<episode num="1580">
+<title gid="3491651112" lang="JA">Ichi Nichi na N de mo Taiken Ki</title></episode>
+<episode num="1581">
+<title gid="1834138712" lang="JA">Dare Demo Majin Ranpu</title></episode>
+<episode num="1582">
+<title gid="1324367172" lang="JA">Nobita no Aoi Tori</title></episode>
+<episode num="1583">
+<title gid="640631708" lang="JA">Sokkuri Kontorōrā</title></episode>
+<episode num="1584">
+<title gid="1706365497" lang="JA">Hon mo no Kandume</title></episode>
+<episode num="1585">
+<title gid="2435000002" lang="JA">Michibiki Jizou</title></episode>
+<episode num="1586">
+<title gid="1118406785" lang="JA">Happī</title></episode>
+<episode num="1587">
+<title gid="2368888973" lang="JA">Tetsu Kinniku Kurīmu</title></episode>
+<episode num="1588">
+<title gid="273227227" lang="JA">Shiri Tori Terepōtēshon</title></episode>
+<episode num="1589">
+<title gid="1355401807" lang="JA">O Henji Pettobotoru</title></episode>
+<episode num="1590">
+<title gid="2801632868" lang="JA">O Henji Pettobotoru</title></episode>
+<episode num="1591">
+<title gid="2226278636" lang="JA">Yume Bōto</title></episode>
+<episode num="1592">
+<title gid="1088023161" lang="JA">Akogare Mirā</title></episode>
+<episode num="1593">
+<title gid="16607162" lang="JA">Poppu Ori ga Mi</title></episode>
+<episode num="1594">
+<title gid="1651420266" lang="JA">Kaisuiyoku He Iko U</title></episode>
+<episode num="1595">
+<title gid="463983701" lang="JA">Kusuguri nomi</title></episode>
+<episode num="1596">
+<title gid="2395765729" lang="JA">Maho Chan no Negai</title></episode>
+<episode num="1597">
+<title gid="1883773337" lang="JA">Robotto Fukunokami</title></episode>
+<episode num="1598">
+<title gid="3393044175" lang="JA">Kimagure Roboka</title></episode>
+<episode num="1599">
+<title gid="2285342109" lang="JA">Jaian no Natsuyasumi</title></episode>
+<episode num="1600">
+<title gid="3278507142" lang="JA">Kikitodoke Enzeru</title></episode>
+<episode num="1601">
+<title gid="2488692148" lang="JA">Bādo Kyappu</title></episode>
+<episode num="1602">
+<title gid="1835249976" lang="JA">Chan Toshi Te Chou</title></episode>
+<episode num="1603">
+<title gid="2307031802" lang="JA">Nobita ga Gaki Taishou?</title></episode>
+<episode num="1604">
+<title gid="2698730295" lang="JA">Futa Go Fuusen</title></episode>
+<episode num="1605">
+<title gid="4198781116" lang="JA">Deka Bon</title></episode>
+<episode num="1606">
+<title gid="1526381349" lang="JA">Wata Ame Shiki Kumo Seizou Ki</title></episode>
+<episode num="1607">
+<title gid="2585547199" lang="JA">Tanken Zubon</title></episode>
+<episode num="1608">
+<title gid="2405077500" lang="JA">Mama no Iwato</title></episode>
+<episode num="1609">
+<title gid="3104291286" lang="JA">Tsui Seki Pochi</title></episode>
+<episode num="1610">
+<title gid="2606325606" lang="JA">Bācharugēmubōdo</title></episode>
+<episode num="1611">
+<title gid="766860113" lang="JA">Nobi Ko Toujou!</title></episode>
+<episode num="1612">
+<title gid="1298413322" lang="JA">Hon mono Da Zou</title></episode>
+<episode num="1613">
+<title gid="1682601957" lang="JA">Henshin Fuusen Gamu</title></episode>
+<episode num="1614">
+<title gid="1911216515" lang="JA">O Tasuke Sunō Tebukuro</title></episode>
+<episode num="1615">
+<title gid="3332161574" lang="JA">Mama Netto</title></episode>
+<episode num="1616">
+<title gid="681683245" lang="JA">Tojikame</title></episode>
+<episode num="1617">
+<title gid="1931401247" lang="JA">Tanpopo Sora o Iku</title></episode>
+<episode num="1618">
+<title gid="2303545120" lang="JA">Chanpon Beruto</title></episode>
+<episode num="1619">
+<title gid="1467352052" lang="JA">Yakusoku Ringu</title></episode>
+<episode num="1620">
+<title gid="3111240947" lang="JA">Onegai! Gaman Daiou</title></episode>
+<episode num="1621">
+<title gid="1435143452" lang="JA">Tourui Gēmu</title></episode>
+<episode num="1622">
+<title gid="1258632168" lang="JA">Ittou Shou Rēdā</title></episode>
+<episode num="1623">
+<title gid="2099128436" lang="JA">Densho Bako</title></episode>
+<episode num="1624">
+<title gid="676474881" lang="JA">Jakku Mame</title></episode>
+<episode num="1625">
+<title gid="1691729667" lang="JA">Irekae Raito</title></episode>
+<episode num="1626">
+<title gid="1706287592" lang="JA">Sokkuri Robotto Kitto</title></episode>
+<episode num="1627">
+<title gid="2764387218" lang="JA">Supīdoappu Tokei</title></episode>
+<episode num="1628">
+<title gid="1993351547" lang="JA">Ningen Tenki Yohou</title></episode>
+<episode num="1629">
+<title gid="1977320429" lang="JA">Bunshin ni Omakase</title></episode>
+<episode num="1630">
+<title gid="1590875543" lang="JA">Taimu Kamera</title></episode>
+<episode num="1631">
+<title gid="1798897281" lang="JA">Chun Futoshi</title></episode>
+<episode num="1632">
+<title gid="2203951071" lang="JA">Ire ka wa Ringu</title></episode>
+<episode num="1633">
+<title gid="2728805090" lang="JA">Riniamōtāchōku</title></episode>
+<episode num="1634">
+<title gid="1551709356" lang="JA">Jīku Furīto</title></episode>
+<episode num="1635">
+<title gid="2076810183" lang="JA">Donburakurīmu</title></episode>
+<episode num="1636">
+<title gid="3744674489" lang="JA">Kochokocho Tebukuro</title></episode>
+<episode num="1637">
+<title gid="1424227352" lang="JA">Wasure Uchiwa</title></episode>
+<episode num="1638">
+<title gid="976971987" lang="JA">Tenshi no Rappa</title></episode>
+<episode num="1639">
+<title gid="1342366664" lang="JA">Nobita no Go Senzo Sama</title></episode>
+<episode num="1640">
+<title gid="2130885203" lang="JA">Yumekōdā</title></episode>
+<episode num="1641">
+<title gid="489300319" lang="JA">Urutora Sutoppuwocchi</title></episode>
+<episode num="1642">
+<title gid="924543129" lang="JA">Sūpā Kyacchibōru</title></episode>
+<episode num="1643">
+<title gid="1897376305" lang="JA">Nigate o Tsukuc Cha e!</title></episode>
+<episode num="1644">
+<title gid="1733296314" lang="JA">Toorinuke Kyappu</title></episode>
+<episode num="1645">
+<title gid="2835924080" lang="JA">Toorinuke Kyappu</title></episode>
+<episode num="1646">
+<title gid="1041529146" lang="JA">Nobita Ha Anrakkī</title></episode>
+<episode num="1647">
+<title gid="1886036623" lang="JA">Gan Bare Ura Nari Kun</title></episode>
+<episode num="1648">
+<title gid="2233637206" lang="JA">Poka Ri = 100 En</title></episode>
+<episode num="1649">
+<title gid="2299111123" lang="JA">Kuuki Pisutoru</title></episode>
+<episode num="1650">
+<title gid="3168802381" lang="JA">Banjīkataparuto</title></episode>
+<episode num="1651">
+<title gid="2388331860" lang="JA">Nobita Dokuritsu Sengen</title></episode>
+<episode num="1652">
+<title gid="2331488499" lang="JA">Ie ga Kunyakunya!!</title></episode>
+<episode num="1653">
+<title gid="3387770007" lang="JA">Docchi ga Rakkī?</title></episode>
+<episode num="1654">
+<title gid="2651093215" lang="JA">Shokugyou Tesuto Kādo</title></episode>
+<episode num="1655">
+<title gid="1665934506" lang="JA">Taimu Banku</title></episode>
+<episode num="1656">
+<title gid="1457528081" lang="JA">Shizuka Chan , Dai Pinchi!</title></episode>
+<episode num="1657">
+<title gid="2429702678" lang="JA">Sou Ji Ki Sūpā Kā</title></episode>
+<episode num="1658">
+<title gid="1349087809" lang="JA">Tensai Eggu</title></episode>
+<episode num="1659">
+<title gid="2208615007" lang="JA">Nazo no Yon Jigen Kaban</title></episode>
+<episode num="1660">
+<title gid="2021213263" lang="JA">Sukecchi Bakku</title></episode>
+<episode num="1661">
+<title gid="1836042049" lang="JA">Sune Otto no Romansu</title></episode>
+<episode num="1662">
+<title gid="2612369712" lang="JA">Tanu Ki de Bakaso U</title></episode>
+<episode num="1663">
+<title gid="2009960694" lang="JA">Bakyūmu ka</title></episode>
+<episode num="1664">
+<title gid="2244300199" lang="JA">Jaian ga Kekkon!?</title></episode>
+<episode num="1665">
+<title gid="3006489454" lang="JA">Minidora Tasuke Tai Shutsudou!</title></episode>
+<episode num="1666">
+<title gid="753815198" lang="JA">Nihikimedojou</title></episode>
+<episode num="1667">
+<title gid="1482913526" lang="JA">Dorami no Happī Hausu</title></episode>
+<episode num="1668">
+<title gid="2343518102" lang="JA">Dorami no Kyoudai Genka</title></episode>
+<episode num="1669">
+<title gid="2418377284" lang="JA">Dorami no Himitsu!?</title></episode>
+<episode num="1670">
+<title gid="1174164555" lang="JA">Omamorikun</title></episode>
+<episode num="1671">
+<title gid="1714137307" lang="JA">Dare Demo Taiken Ki</title></episode>
+<episode num="1672">
+<title gid="1323824899" lang="JA">Oukoku Ekisu</title></episode>
+<episode num="1673">
+<title gid="3294330763" lang="JA">Undou Kioku Jāji</title></episode>
+<episode num="1674">
+<title gid="3647160816" lang="JA">Chizu Sekai Hairikomi Ki</title></episode>
+<episode num="1675">
+<title gid="1279325910" lang="JA">Supēsuītā</title></episode>
+<episode num="1676">
+<title gid="1390020873" lang="JA">Hāto Sukkiri Shīto</title></episode>
+<episode num="1677">
+<title gid="3828847452" lang="JA">Ne mo Ha mo Aru Uwasa</title></episode>
+<episode num="1678">
+<title gid="3278610610" lang="JA">Dorami Edo o Kiru</title></episode>
+<episode num="1679">
+<title gid="3367698433" lang="JA">Hai Ponpu de Suiei Taikai</title></episode>
+<episode num="1680">
+<title gid="1640611222" lang="JA">Sūpā Uguisu Jou</title></episode>
+<episode num="1681">
+<title gid="2704296096" lang="JA">Minidora UFO Dai Sakusen</title></episode>
+<episode num="1682">
+<title gid="2433449389" lang="JA">Minidorarentaru Chuu</title></episode>
+<episode num="1683">
+<title gid="2702433021" lang="JA">Papa no Yume o Kanaeyo U!</title></episode>
+<episode num="1684">
+<title gid="3581164559" lang="JA">Minidora to Neko no Te</title></episode>
+<episode num="1685">
+<title gid="1983485025" lang="JA">Boku no Raibaru!</title></episode>
+<episode num="1686">
+<title gid="2123596338" lang="JA">Tsuki no Usagi o Sagaso U</title></episode>
+<episode num="1687">
+<title gid="3959444085" lang="JA">Dokkiri Nagareboshi</title></episode>
+<episode num="1688">
+<title gid="2035906363" lang="JA">Kime Waza Sūtsu</title></episode>
+<episode num="1689">
+<title gid="1871084213" lang="JA">Shizuka no Supai Dai Sakusen</title></episode>
+<episode num="1690">
+<title gid="3720933904" lang="JA">Yogen Sha Jaian</title></episode>
+<episode num="1691">
+<title gid="3690509799" lang="JA">Mē</title></episode>
+<episode num="1692">
+<title gid="2086962781" lang="JA">Jetto Kōsutā de Gakkou He</title></episode>
+<episode num="1693">
+<title gid="666414717" lang="JA">Odate Pawā Megahon</title></episode>
+<episode num="1694">
+<title gid="3227558508" lang="JA">Mirai no Kuni kara Harubaru to</title></episode>
+<episode num="1695">
+<title gid="2876736009" lang="JA">Puremia Shīru</title></episode>
+<episode num="1696">
+<title gid="3906366431" lang="JA">Neji Maki Ryokou Ki</title></episode>
+<episode num="1697">
+<title gid="2754602600" lang="JA">Nobita ga Ippai</title></episode>
+<episode num="1698">
+<title gid="2092153156" lang="JA">Hoan Kan Bajj I</title></episode>
+<episode num="1699">
+<title gid="804862875" lang="JA">Iroiro Megane</title></episode>
+<episode num="1700">
+<title gid="2156917568" lang="JA">Konoyubitomare</title></episode>
+<episode num="1701">
+<title gid="1741838643" lang="JA">En Musu Bī</title></episode>
+<episode num="1702">
+<title gid="2804315810" lang="JA">Fukikaemaiku</title></episode>
+<episode num="1703">
+<title gid="2428249585" lang="JA">Kowappen</title></episode>
+<episode num="1704">
+<title gid="1377918964" lang="JA">Dorami Chan Toujou! Nobita no Kaitei Dai Bouken</title></episode>
+<episode num="1705">
+<title gid="1163784594" lang="JA">Mikuro Furasshu</title></episode>
+<episode num="1706">
+<title gid="2754417062" lang="JA">Nobita to Gyuu Waka Maru</title></episode>
+<episode num="1707">
+<title gid="580551468" lang="JA">Būmeran Supurē</title></episode>
+<episode num="1708">
+<title gid="1025681120" lang="JA">Kaunseringu Nōto</title></episode>
+<episode num="1709">
+<title gid="3270214959" lang="JA">Ikimono Hogo Raito</title></episode>
+<episode num="1710">
+<title gid="2958038345" lang="JA">Omakase Disuku</title></episode>
+<episode num="1711">
+<title gid="2489038626" lang="JA">Irekae Mirā</title></episode>
+<episode num="1712">
+<title gid="2796565515" lang="JA">O Tenki Kōkan Chizu</title></episode>
+<episode num="1713">
+<title gid="2515937813" lang="JA">Omocha Taun</title></episode>
+<episode num="1714">
+<title gid="2897291506" lang="JA">Heddo Hanchingu</title></episode>
+<episode num="1715">
+<title gid="1554216961" lang="JA">Bakushou Koshou</title></episode>
+<episode num="1716">
+<title gid="2561354681" lang="JA">Fuusen Robokitto</title></episode>
+<episode num="1717">
+<title gid="1504350693" lang="JA">Jū Tan de GO</title></episode>
+<episode num="1718">
+<title gid="633572528" lang="JA">Omo sa Sui Tori Supoito</title></episode>
+<episode num="1719">
+<title gid="1402635824" lang="JA">Yon Jigen Erebētā</title></episode>
+<episode num="1720">
+<title gid="1752520527" lang="JA">Umi o Kiritoro U</title></episode>
+<episode num="1721">
+<title gid="2391139980" lang="JA">Hābu</title></episode>
+<episode num="1722">
+<title gid="1760378957" lang="JA">Kami Nari Sutekki</title></episode>
+<episode num="1723">
+<title gid="3215050588" lang="JA">Kētai Kazoku</title></episode>
+<episode num="1724">
+<title gid="1384501073" lang="JA">Kioku Hori Dashi Bideo</title></episode>
+<episode num="1725">
+<title gid="1415833952" lang="JA">Wagamama Tokei</title></episode>
+<episode num="1726">
+<title gid="1916381745" lang="JA">Kumo Tsuri Zao</title></episode>
+<episode num="1727">
+<title gid="1940873464" lang="JA">Kage Musha</title></episode>
+<episode num="1728">
+<title gid="3398889505" lang="JA">Torikomi Pēpā</title></episode>
+<episode num="1729">
+<title gid="2443728264" lang="JA">Tsuā Robotto</title></episode>
+<episode num="1730">
+<title gid="1459464303" lang="JA">Yuu Rei Sutorō</title></episode>
+<episode num="1731">
+<title gid="1923216703" lang="JA">Maneonetto</title></episode>
+<episode num="1732">
+<title gid="2468975432" lang="JA">Sui Yose Jishaku</title></episode>
+<episode num="1733">
+<title gid="3055154628" lang="JA">Dorami ni Omakase</title></episode>
+<episode num="1734">
+<title gid="2581331177" lang="JA">Koroba Nu Saki no Tsue</title></episode>
+<episode num="1735">
+<title gid="3764856287" lang="JA">Kouyaku Kōyaku</title></episode>
+<episode num="1736">
+<title gid="1298535156" lang="JA">Pōtaburu Piramiddo</title></episode>
+<episode num="1737">
+<title gid="2257149749" lang="JA">Himi Tsu Dougu Dai Boshuu Yuushuu Shou Sakuhin Butsu Chi Ru</title></episode>
+<episode num="1738">
+<title gid="3882355217" lang="JA">Nakanaorin</title></episode>
+<episode num="1739">
+<title gid="1570634959" lang="JA">Minidora Ha Kaze no Moto</title></episode>
+<episode num="1740">
+<title gid="3454669466" lang="JA">Himi Tsu Dougu Dai Boshuu Yuushuu Shou Sakuhin Tsuru no Dondengaeshi</title></episode>
+<episode num="1741">
+<title gid="2776419559" lang="JA">Bakyūmuzou</title></episode>
+<episode num="1742">
+<title gid="1130219420" lang="JA">Jitsutaiken Terebi</title></episode>
+<episode num="1743">
+<title gid="1755171012" lang="JA">Himi Tsu Dougu Dai Boshuu Yuushuu Shou Sakuhin Ari to Kirigirisu Bacchi</title></episode>
+<episode num="1744">
+<title gid="669198212" lang="JA">Minidora to Onsen Eggu</title></episode>
+<episode num="1745">
+<title gid="1759037441" lang="JA">O Konomi Rūmu Katarogu</title></episode>
+<episode num="1746">
+<title gid="604741515" lang="JA">Ayatorikkusu</title></episode>
+<episode num="1747">
+<title gid="3236125464" lang="JA">Himi Tsu Dougu Dai Boshuu Yuushuu Shou Sakuhin Ma N Zaishi</title></episode>
+<episode num="1748">
+<title gid="2805715369" lang="JA">Ike! Patorūru Tai</title></episode>
+<episode num="1749">
+<title gid="1738432954" lang="JA">Petto Hoissuru</title></episode>
+<episode num="1750">
+<title gid="1465245776" lang="JA">Gomu.kamu.kandē</title></episode>
+<episode num="1751">
+<title gid="2954342863" lang="JA">Shōto Kattā</title></episode>
+<episode num="1752">
+<title gid="994791038" lang="JA">Nanairo Henka Dama</title></episode>
+<episode num="1753">
+<title gid="1604234660" lang="JA">Burando Imo</title></episode>
+<episode num="1754">
+<title gid="2235097912" lang="JA">Kesshin Hachi Maki</title></episode>
+<episode num="1755">
+<title gid="2610246694" lang="JA">Rakkī Karā Bou</title></episode>
+<episode num="1756">
+<title gid="1936494366" lang="JA">Watatsumi Poseidonsetto</title></episode>
+<episode num="1757">
+<title gid="2408511738" lang="JA">Bo?nasu</title></episode>
+<episode num="1758">
+<title gid="3247581871" lang="JA">Sukeru Ton</title></episode>
+<episode num="1759">
+<title gid="3357166619" lang="JA">Shobon Dama</title></episode>
+<episode num="1760">
+<title gid="1567109215" lang="JA">Imējinabikitto</title></episode>
+<episode num="1761">
+<title gid="1824902558" lang="JA">Dotabata Mushiba Toubou Ki</title></episode>
+<episode num="1762">
+<title gid="2778905260" lang="JA">Arai Gumo</title></episode>
+<episode num="1763">
+<title gid="1307747980" lang="JA">Kappa no o Sara</title></episode>
+<episode num="1764">
+<title gid="3188153284" lang="JA">Manmosuwocchingu</title></episode>
+<episode num="1765">
+<title gid="1698591069" lang="JA">Mei Tantei Nobita!!</title></episode>
+<episode num="1766">
+<title gid="2034146449" lang="JA">Nobita no Iede</title></episode>
+<episode num="1767">
+<title gid="2593865668" lang="JA">Yuuki Hyaku Bai Uchiwa</title></episode>
+<episode num="1768">
+<title gid="1359238054" lang="JA">Konchuu Henshin Sūtsu</title></episode>
+<episode num="1769">
+<title gid="1815542333" lang="JA">Sa Kidori Kapuseru</title></episode>
+<episode num="1770">
+<title gid="1832790996" lang="JA">Ni Nin no Shizuka Chan</title></episode>
+<episode num="1771">
+<title gid="1451394055" lang="JA">Samurai Chonmage</title></episode>
+<episode num="1772">
+<title gid="2228088842" lang="JA">Tameshi ni Sayounara</title></episode>
+<episode num="1773">
+<title gid="1741033047" lang="JA">Gurume T��buru Kake de Tabe Houdai!!</title></episode>
+<episode num="1774">
+<title gid="2418474516" lang="JA">Toushi Shīru</title></episode>
+<episode num="1775">
+<title gid="1263986092" lang="JA">Minidora de Sukūpu!?</title></episode>
+<episode num="1776">
+<title gid="3090920400" lang="JA">Nobita to Nobi Otto</title></episode>
+<episode num="1777">
+<title gid="1653319675" lang="JA">Shinjitsu no Hatajirushi</title></episode>
+<episode num="1778">
+<title gid="2413726857" lang="JA">Sensei Sai Aku no Ichi Nichi!</title></episode>
+<episode num="1779">
+<title gid="825372488" lang="JA">Nobita no Maizou Kin</title></episode>
+<episode num="1780">
+<title gid="698463340" lang="JA">Deki Sugi Raburetā</title></episode>
+<episode num="1781">
+<title gid="1276423973" lang="JA">13 Nen me no Puropōzu</title></episode>
+<episode num="1782">
+<title gid="3556590063" lang="JA">Gōjasu Raito</title></episode>
+<episode num="1783">
+<title gid="1600388831" lang="JA">Nobita Roketto Ginga He!</title></episode>
+<episode num="1784">
+<title gid="855433908" lang="JA">Doraemon Ha Sune Otto no mono!?</title></episode>
+<episode num="1785">
+<title gid="1577223077" lang="JA">Mahoutsukai Shizuka Chan</title></episode>
+<episode num="1786">
+<title gid="3632743676" lang="JA">45 Nen Go...</title></episode>
+<episode num="1787">
+<title gid="2211683784" lang="JA">Doraemon ni Kyuujitsu o?!</title></episode>
+<news datetime="1998-10-29T05:00:00Z" href="http://www.animenewsnetwork.com/news/1998-10-29/viz-video-to-release-chinese-ghost-story-anime">Viz Video to release Chinese Ghost Story anime</news>
+<news datetime="2000-11-12T17:23:46Z" href="http://www.animenewsnetwork.com/news/2000-11-12/chat-transcripts-online">Chat Transcripts online</news>
+<news datetime="2001-01-16T03:56:48Z" href="http://www.animenewsnetwork.com/news/2001-01-15/animage-top-100-anime-listing">Animage Top-100 Anime Listing</news>
+<news datetime="2005-05-05T18:18:56Z" href="http://www.animenewsnetwork.com/news/2005-05-05/anime-postage-stamps">Anime Postage Stamps</news>
+<news datetime="2005-09-23T17:39:30Z" href="http://www.animenewsnetwork.com/news/2005-09-23/tv-asahi-top-100-anime">TV Asahi Top 100 Anime</news>
+<news datetime="2005-09-23T20:38:14Z" href="http://www.animenewsnetwork.com/news/2005-09-23/tv-asahi-top-100-anime-part-2">TV Asahi Top 100 Anime Part 2</news>
+<news datetime="2006-10-12T21:45:00Z" href="http://www.animenewsnetwork.com/news/2006-10-13/japans-favorite-tv-anime">Japan's Favorite TV Anime</news>
+<news datetime="2007-06-16T11:36:52Z" href="http://www.animenewsnetwork.com/news/2007-06-16/johnny-depp-to-guest-voice-on-doraemon-pirates-special">Johnny Depp to Guest-Voice on &lt;cite&gt;Doraemon&lt;/cite&gt; Pirates Special</news>
+<news datetime="2007-12-19T23:38:04Z" href="http://www.animenewsnetwork.com/news/2007-12-19/death-note-earthsea-are-japan's-top-manga/anime-dvds">&lt;cite&gt;Death Note, Earthsea&lt;/cite&gt; are Japan's Top Manga/Anime DVDs</news>
+<news datetime="2008-03-20T03:57:00Z" href="http://www.animenewsnetwork.com/news/2008-03-19/daily-links">Daily Links</news>
+<news datetime="2008-04-02T03:46:26Z" href="http://www.animenewsnetwork.com/news/2008-04-01/japanese-box-office-march-22-23-29-30">Japanese Box Office: March 22–23, 29–30</news>
+<news datetime="2008-04-09T19:56:05Z" href="http://www.animenewsnetwork.com/news/2008-04-09/japanese-box-office-april-5-6">Japanese Box Office: April 5-6</news>
+<news datetime="2008-04-18T16:46:43Z" href="http://www.animenewsnetwork.com/news/2008-04-18/japanese-box-office-april-12-13">Japanese Box Office: April 12–13</news>
+<news datetime="2008-07-18T23:02:48Z" href="http://www.animenewsnetwork.com/news/2008-07-18/2009-doraemon-film-announced-trailer-streamed">2009 &lt;cite&gt;Doraemon&lt;/cite&gt; Film Announced, Trailer Streamed</news>
+<news datetime="2008-10-03T11:17:59Z" href="http://www.animenewsnetwork.com/news/2008-10-03/tv-asahi-acquires-shin-chan-doraemon-shin-ei">TV Asahi Acquires &lt;cite&gt;Shin-chan, Doraemon's&lt;/cite&gt; Shin-ei</news>
+<news datetime="2008-12-10T04:47:42Z" href="http://www.animenewsnetwork.com/news/2008-12-09/japanese-animation-dvd-ranking-december-3-9">Japanese Animation DVD Ranking, December 3-9</news>
+<news datetime="2008-12-19T02:45:07Z" href="http://www.animenewsnetwork.com/news/2008-12-18/ponyo-sky-crawlers-nominated-for-japan-academy-prize">&lt;cite&gt;Ponyo, Sky Crawlers&lt;/cite&gt; Nominated for Japan Academy Prizes</news>
+<news datetime="2009-01-01T05:00:00Z" href="http://www.animenewsnetwork.com/news/2009-01-01/new-year-greetings-anime-style">New Year's Greetings — Anime Style (Update 11)</news>
+<news datetime="2009-03-16T07:14:38Z" href="http://www.animenewsnetwork.com/news/2009-03-16/japanese-box-office-march-7-8">Japanese Box Office, March 7-8</news>
+<news datetime="2009-03-26T04:26:44Z" href="http://www.animenewsnetwork.com/news/2009-03-26/japanese-box-office-march-22-23">Japanese Box Office, March 22-23</news>
+<news datetime="2009-03-31T15:20:58Z" href="http://www.animenewsnetwork.com/news/2009-03-31/japan-anime-game-studios-celebrate-april-fool-day">Japan's Anime, Game Studios Celebrate April Fool's Day (Update 7)</news>
+<news datetime="2009-04-06T10:08:27Z" href="http://www.animenewsnetwork.com/news/2009-04-06/japanese-box-office-march-28-29">Japanese Box Office, March 28-29</news>
+<news datetime="2009-04-13T03:57:00Z" href="http://www.animenewsnetwork.com/news/2009-04-12/japanese-box-office-april-4-5">Japanese Box Office, April 4-5</news>
+<news datetime="2009-04-27T03:57:00Z" href="http://www.animenewsnetwork.com/news/2009-04-26/japanese-box-office-april-18-19">Japanese Box Office, April 18-19</news>
+<news datetime="2009-06-10T00:40:54Z" href="http://www.animenewsnetwork.com/news/2009-06-09/terminator-to-make-cameo-in-doraemon-anime">Terminator to Make Cameo in &lt;cite&gt;Doraemon&lt;/cite&gt; Anime</news>
+<news datetime="2009-07-17T04:30:30Z" href="http://www.animenewsnetwork.com/news/2009-07-17/doraemon-30th-film-to-open-next-march">&lt;cite&gt;Doraemon's&lt;/cite&gt; 30th Film to Open Next March</news>
+<news datetime="2009-07-20T16:39:48Z" href="http://www.animenewsnetwork.com/news/2009-07-20/doraemon-30th-anniversary-film-trailer-streamed">&lt;cite&gt;Doraemon's&lt;/cite&gt; 30th Anniversary Film Trailer Streamed</news>
+<news datetime="2009-09-29T11:11:50Z" href="http://www.animenewsnetwork.com/news/2009-09-29/crayon-shin-chan-anime-continuation-moves-forward">&lt;cite&gt;Crayon Shin-chan&lt;/cite&gt; Anime's Continuation Moves Forward</news>
+<news datetime="2009-10-02T08:38:30Z" href="http://www.animenewsnetwork.com/news/2009-10-02/crayon-shin-chan-anime-continuation-film-confirmed">&lt;cite&gt;Crayon Shin-chan&lt;/cite&gt; Anime's Continuation, Film Confirmed</news>
+<news datetime="2009-11-16T14:23:19Z" href="http://www.animenewsnetwork.com/news/2009-11-16/1st-kingrun-anime-songs-kohaku-tv-event-announced">1st &lt;cite&gt;Kingrun Anime Songs Kōhaku&lt;/cite&gt; TV Event Announced</news>
+<news datetime="2009-11-25T02:47:01Z" href="http://www.animenewsnetwork.com/news/2009-11-24/japanese-animation-dvd-ranking-november-16-22">Japanese Animation DVD Ranking, November 16-22</news>
+<news datetime="2009-12-11T21:47:58Z" href="http://www.animenewsnetwork.com/news/2009-12-11/doraemon/nobita-no-ningyo-daikaisen-trailer-posted">&lt;cite&gt;Doraemon: Nobita no Ningyo Daikaisen's&lt;/cite&gt; Trailer Posted</news>
+<news datetime="2009-12-22T16:40:55Z" href="http://www.animenewsnetwork.com/news/2009-12-22/eva-2.0-summer-wars-win-japan-academy-awards">&lt;cite&gt;Eva 2.0, Summer Wars&lt;/cite&gt; Win Japan Academy Awards</news>
+<news datetime="2009-12-24T15:37:21Z" href="http://www.animenewsnetwork.com/news/2009-12-24/denno-coil-gets-japan-1st-augmented-reality-campaign">&lt;cite&gt;Dennō Coil&lt;/cite&gt; Gets Japan's 1st GPS Augmented Reality Campaign</news>
+<news datetime="2010-01-01T05:00:00Z" href="http://www.animenewsnetwork.com/news/2010-01-01/new-year-greetings-anime-style">New Year's Greetings — Anime Style (Update 8)</news>
+<news datetime="2010-03-06T14:05:32Z" href="http://www.animenewsnetwork.com/news/2010-03-06/4th-annual-seiyu-award-winners-announced">4th Annual Seiyū Award Winners Announced</news>
+<news datetime="2010-04-20T22:47:02Z" href="http://www.animenewsnetwork.com/news/2010-04-20/tokyo-2d-child-porn-bill-delayed-to-at-least-fall">Tokyo's '2D Child Porn' Bill Delayed to at Least Fall</news>
+<news datetime="2010-05-13T15:40:00Z" href="http://www.animenewsnetwork.com/news/2010-05-13/japanese-box-office-may-1-2">Japanese Box Office, May 1-2</news>
+<news datetime="2010-05-19T18:15:29Z" href="http://www.animenewsnetwork.com/news/2010-05-19/1st-3d-doraemon-anime-short-to-premiere-in-shanghai">1st 3D &lt;cite&gt;Doraemon&lt;/cite&gt; Anime Short to Premiere in Shanghai</news>
+<news datetime="2010-05-20T11:00:00Z" href="http://www.animenewsnetwork.com/news/2010-05-20/japan-surveyed-on-anime-manga-other-cultural-exports">Japan Surveyed on Anime, Manga, Other Cultural Exports</news>
+<news datetime="2010-07-06T01:15:21Z" href="http://www.animenewsnetwork.com/news/2010-07-05/colorful-arrietty-stitch-evangelion-promos-streamed">&lt;cite&gt;Colorful, Arrietty, Stitch, Evangelion&lt;/cite&gt; Promos Streamed</news>
+<news datetime="2010-07-13T17:24:11Z" href="http://www.animenewsnetwork.com/news/2010-07-13/2011-doraemon-english-redline-film-trailers-streamed">2011 &lt;cite&gt;Doraemon&lt;/cite&gt;, English &lt;cite&gt;Redline&lt;/cite&gt; Film Trailers Streamed</news>
+<news datetime="2010-07-26T18:41:28Z" href="http://www.animenewsnetwork.com/news/2010-07-26/tokyo-purin-singer-takashi-makino-diagnosed-with-cancer">Tokyo Purin Singer Takashi Makino Diagnosed with Cancer</news>
+<news datetime="2010-07-30T04:34:57Z" href="http://www.animenewsnetwork.com/news/2010-07-30/top-anime-movies-at-japanese-box-office-1st-half-of-2010">Top Anime Movies at Japanese Box Office, 1st Half of 2010</news>
+<news datetime="2010-09-08T14:00:21Z" href="http://www.animenewsnetwork.com/news/2010-09-08/japan-animation-dvd-ranking-august-30-september-5">Japan's Animation DVD Ranking, August 30-September 5</news>
+<news datetime="2010-09-15T02:32:46Z" href="http://www.animenewsnetwork.com/news/2010-09-14/japan-animation-dvd-ranking-september-6-12-part-2">Japan's Animation DVD Ranking, September 6-12 (Part 2)</news>
+<news datetime="2010-09-22T02:31:19Z" href="http://www.animenewsnetwork.com/news/2010-09-21/japan-animation-dvd-ranking-september-13-19-part-2">Japan's Animation DVD Ranking, September 13-19 (Part 2)</news>
+<news datetime="2010-09-23T08:19:00Z" href="http://www.animenewsnetwork.com/news/2010-09-23/nintama-rantaro-gets-new-anime-film-next-march">&lt;cite&gt;Nintama Rantaro&lt;/cite&gt; Gets New Anime Film Next March</news>
+<news datetime="2010-10-05T04:12:00Z" href="http://www.animenewsnetwork.com/news/2010-10-05/studio-kuma-animates-timing-horror-film-for-2012">Studio Kuma Animates &lt;cite&gt;Timing&lt;/cite&gt; Horror Film for 2012</news>
+<news datetime="2010-10-05T17:36:00Z" href="http://www.animenewsnetwork.com/news/2010-10-06/tv-asahi-to-own-100-percent-of-doraemon-shin-ei-animation">TV Asahi to Own 100% of &lt;cite&gt;Doraemon's&lt;/cite&gt; Shin-ei Animation</news>
+<news datetime="2010-10-12T08:48:36Z" href="http://www.animenewsnetwork.com/news/2010-10-12/japan-animation-dvd-ranking-october-4-10-part-1">Japan's Animation DVD Ranking, October 4-10 (Part 1)</news>
+<news datetime="2010-10-13T02:44:22Z" href="http://www.animenewsnetwork.com/news/2010-10-12/japan-animation-dvd-ranking-october-4-10-part-2">Japan's Animation DVD Ranking, October 4-10 (Part 2)</news>
+<news datetime="2010-10-20T03:50:28Z" href="http://www.animenewsnetwork.com/news/2010-10-19/japan-animation-dvd-ranking-october-11-17-part-2">Japan's Animation DVD Ranking, October 11-17 (Part 2)</news>
+<news datetime="2010-11-09T09:00:00Z" href="http://www.animenewsnetwork.com/news/2010-11-09/japan-animation-dvd-ranking-november-1-7-part-1">Japan's Animation DVD Ranking, November 1-7 (Part 1)</news>
+<news datetime="2010-11-10T02:52:25Z" href="http://www.animenewsnetwork.com/news/2010-11-09/japan-animation-dvd-ranking-november-1-7-part-2">Japan's Animation DVD Ranking, November 1-7 (Part 2)</news>
+<news datetime="2010-12-17T17:01:00Z" href="http://www.animenewsnetwork.com/news/2010-12-17/colorful-arrietty-one-piece-earn-japan-academy-nods">&lt;cite&gt;Colorful, Arrietty, One Piece&lt;/cite&gt; Earn Japan Academy Nods</news>
+<news datetime="2010-12-24T18:36:14Z" href="http://www.animenewsnetwork.com/news/2010-12-24/top-anime-movies-at-japanese-box-office/2010">Top Anime Movies at Japanese Box Office: 2010</news>
+<news datetime="2011-03-20T01:49:38Z" href="http://www.animenewsnetwork.com/news/2011-03-19/japanese-box-office-march-5-6">Japanese Box Office, March 5-6</news>
+<news datetime="2011-03-22T02:29:50Z" href="http://www.animenewsnetwork.com/news/2011-03-21/japanese-box-office-march-11-12">Japanese Box Office, March 12-13</news>
+<news datetime="2011-04-05T03:55:00Z" href="http://www.animenewsnetwork.com/news/2011-04-04/japanese-box-office-march-26-27">Japanese Box Office, March 26-27</news>
+<news datetime="2011-04-19T02:45:00Z" href="http://www.animenewsnetwork.com/news/2011-04-18/japanese-box-office-april-9-10">Japanese Box Office, April 9-10</news>
+<news datetime="2012-01-14T08:38:23Z" href="http://www.animenewsnetwork.com/news/2012-01-14/ninja-hattori-kun-comedy-anime-gets-remake-in-india">&lt;cite&gt;Ninja Hattori-kun&lt;/cite&gt; Comedy Anime Gets Remake in India</news>
+<news datetime="2012-01-26T04:44:54Z" href="http://www.animenewsnetwork.com/news/2012-01-25/doraemon-helmer-ayumi-watanabe-confirmed-for-uchu-kyodai">&lt;cite&gt;Doraemon&lt;/cite&gt; Helmer Ayumi Watanabe Confirmed for &lt;cite&gt;Uchū Kyōdai&lt;/cite&gt;</news>
+<news datetime="2015-02-09T09:40:00Z" href="http://www.animenewsnetwork.com:/news/2015-02-09/japan-animation-tv-ranking-january-26-february-1/.84234">Japan's Animation TV Ranking, January 26-February 1</news>
+<news datetime="2015-12-30T20:10:00Z" href="http://www.animenewsnetwork.com:/news/2015-12-30/chibi-maruko-chan-sazae-san-dr-slump-top-list-of-most-viewed-anime-episodes/.97077">&lt;cite&gt;Chibi Maruko-chan, Sazae-san, Dr. Slump&lt;/cite&gt; Top List of Most-Viewed Anime Episodes</news>
+<staff gid="3458260675"><task>Chief Director</task><person id="7245">Tsutomu Shibayama</person></staff>
+<staff gid="1820979621"><task>Screenplay</task><person id="3905">Hideki Sonoda</person></staff>
+<staff gid="3499564654"><task>Screenplay</task><person id="4253">Takashi Yamada</person></staff>
+<staff gid="3162028417"><task>Screenplay</task><person id="5776">Masaki Tsuji</person></staff>
+<staff gid="2056468719"><task>Screenplay</task><person id="8956">Fumihiko Shimo</person></staff>
+<staff gid="2791611877"><task>Storyboard</task><person id="713">Akitaro Daichi</person></staff>
+<staff gid="2947095741"><task>Storyboard</task><person id="1094">Minoru Okazaki</person></staff>
+<staff gid="3699990726"><task>Storyboard</task><person id="2181">Hiroshi Fukutomi</person></staff>
+<staff gid="1663951480"><task>Storyboard</task><person id="2270">Tomomi Mochizuki</person></staff>
+<staff gid="2531095040"><task>Storyboard</task><person id="3352">Hideo Nishimaki</person></staff>
+<staff gid="839524275"><task>Storyboard</task><person id="8224">Makoto Moriwaki</person></staff>
+<staff gid="1841434970"><task>Storyboard</task><person id="11260">Toshifumi Takizawa</person></staff>
+<staff gid="3131066694"><task>Storyboard</task><person id="11433">Masayuki Oozeki</person></staff>
+<staff gid="3809740767"><task>Storyboard</task><person id="12548">Tsutomu Yabuki</person></staff>
+<staff gid="2250452864"><task>Storyboard</task><person id="13517">Mineo Fuji</person></staff>
+<staff gid="1324275553"><task>Storyboard</task><person id="37041">Satoshi Anakura</person></staff>
+<staff gid="3797141686"><task>Storyboard</task><person id="79696">Hiroshi Ishihara</person></staff>
+<staff gid="1187899798"><task>Music</task><person id="118">Shunsuke Kikuchi</person></staff>
+<staff gid="1208509888"><task>Original creator</task><person id="6677">Hiroshi Fujimoto</person></staff>
+<staff gid="3002746213"><task>Original creator</task><person id="40302">Motoo Abiko</person></staff>
+<staff gid="361970385"><task>Character Design</task><person id="19384">Eiichi Nakamura</person></staff>
+<staff gid="2397159645"><task>Chief Animation Director</task><person id="19384">Eiichi Nakamura</person></staff>
+<staff gid="1123717073"><task>Animation Director</task><person id="19384">Eiichi Nakamura</person></staff>
+<cast gid="1114746457" lang="ES"><role>Doraemon</role><person id="3760">Ricardo Tejedo</person></cast>
+<cast gid="2607016947" lang="ES"><role>Suneo</role><person id="3761">Irwin Daayan</person></cast>
+<cast gid="3695037579" lang="ES"><role>Nobita Nobi</role><person id="23440">Laura Torres</person></cast>
+<cast gid="2739045303" lang="ES"><role>Nobita Nobi</role><person id="23449">Romy Mendoza</person></cast>
+<cast gid="1946229508" lang="ES"><role>Nobita Nobi</role><person id="23473">Araceli de Leon</person></cast>
+<cast gid="2114737377" lang="ES"><role>Shizuka</role><person id="23495">Cristina Hernandez</person></cast>
+<cast gid="1369411151" lang="ES"><role>Nobita's father</role><person id="23496">Carlos del Campo</person></cast>
+<cast gid="1524661925" lang="ES"><role>Nobita's mother</role><person id="23783">Magda Giner</person></cast>
+<cast gid="2395697622" lang="ES"><role>Gigante (Gian)</role><person id="23805">Luis Daniel Ramirez</person></cast>
+<cast gid="1843168011" lang="ES"><role>Nobita's father</role><person id="30841">Alfonso Ramirez</person></cast>
+<cast gid="2058607749" lang="ES"><role>Doraemon</role><person id="32815">Ana Orra</person></cast>
+<cast gid="1271841713" lang="ES"><role>Suneo Honekawa</role><person id="41724">Noemi Bayarri</person></cast>
+<cast gid="2580448583" lang="ES"><role>Nobita Nobi</role><person id="44217">Leyla Rangel</person></cast>
+<cast gid="2527936430" lang="ES"><role>Nobita Nobi</role><person id="50364">Geni Rey</person></cast>
+<cast gid="2706909130" lang="ES"><role>Doraemon</role><person id="50502">Eduard Itchart</person></cast>
+<cast gid="3216522064" lang="ES"><role>Nobita</role><person id="50630">Assumpta Navascues</person></cast>
+<cast gid="3084113239" lang="ES"><role>Nobita Nobi</role><person id="50630">Assumpta Navascues</person></cast>
+<cast gid="3018286522" lang="ES"><role>Nobita (new dub)</role><person id="50759">Nuria Martín</person></cast>
+<cast gid="3771381956" lang="ES"><role>Doraemon (new dub)</role><person id="50760">Estívaliz Lizárraga</person></cast>
+<cast gid="1182609739" lang="ES"><role>Nobita (new dub)</role><person id="59597">Nuria Marín Picó</person></cast>
+<cast gid="2499556273" lang="ES"><role>Suneo Honekawa</role><person id="59607">María Rosa Gil</person></cast>
+<cast gid="1109454776" lang="ES"><role>Doraemon</role><person id="62925">Anna Orra</person></cast>
+<cast gid="1247221854" lang="ES"><role>Shizuka Minamoto</role><person id="62933">Meritxell Ané</person></cast>
+<cast gid="2550494236" lang="ES"><role>Takeshi Gôda 'Gegant'</role><person id="63119">Josep Sobrevia</person></cast>
+<cast gid="2418426464" lang="ES"><role>Shizuka Minamoto</role><person id="107750">Laura del Bas</person></cast>
+<cast gid="1084063252" lang="FR"><role>Nobita Nobi</role><person id="3737">Marjolaine Poulain</person></cast>
+<cast gid="1838595344" lang="FR"><role>Papa de Nobita</role><person id="31238">Philippe Roullier</person></cast>
+<cast gid="1817007444" lang="FR"><role>Suneo Honekawa</role><person id="40663">Olivier Korol</person></cast>
+<cast gid="1810885990" lang="FR"><role>Doraemon</role><person id="45716">Brigitte Guedj</person></cast>
+<cast gid="2798840700" lang="FR"><role>Géant</role><person id="52645">Patrick Pellegrin</person></cast>
+<cast gid="2917451135" lang="IT"><role>Doraemon</role><person id="25628">Pietro Ubaldi</person></cast>
+<cast gid="2484557553" lang="IT"><role>Nobita</role><person id="25641">Davide Garbolino</person></cast>
+<cast gid="3472493764" lang="IT"><role>Guglia (Nobita)</role><person id="25915">Massimo Còrizza</person></cast>
+<cast gid="2445499481" lang="IT"><role>Guglia (Nobita)</role><person id="25919">Marco Joannucci</person></cast>
+<cast gid="1249659210" lang="IT"><role>Suneo</role><person id="25929">Patrizia Scianca</person></cast>
+<cast gid="2006468537" lang="IT"><role>Shizuka</role><person id="25931">Federica Valenti</person></cast>
+<cast gid="1863520216" lang="IT"><role>Padre di Nobita</role><person id="25967">Cesare Rasini</person></cast>
+<cast gid="2284058765" lang="IT"><role>Doraemon</role><person id="26010">Liù Bosisio</person></cast>
+<cast gid="888345784" lang="IT"><role>Gian (Jaian)</role><person id="26038">Luca Bottale</person></cast>
+<cast gid="2176244891" lang="IT"><role>Madre di Nobita</role><person id="26697">Elda Olivieri</person></cast>
+<cast gid="2438783684" lang="IT"><role>Madre di Guglia</role><person id="27227">Carla Comaschi</person></cast>
+<cast gid="1466390787" lang="IT"><role>Susy (Shizuka)</role><person id="27227">Carla Comaschi</person></cast>
+<cast gid="2557772093" lang="IT"><role>Dorami</role><person id="45098">Serena Clerici</person></cast>
+<cast gid="2148646542" lang="IT"><role>Suneo Honekawa</role><person id="53294">Fabrizio Vidale</person></cast>
+<cast gid="2363275195" lang="IT"><role>Giangi (Jaian)</role><person id="59501">Luca Bosisio</person></cast>
+<cast gid="2110433895" lang="JA"><role>Nobita's dad</role><person id="784">Masayuki Kato</person></cast>
+<cast gid="2357192767" lang="JA"><role>Dorami</role><person id="1095">Keiko Yokozawa</person></cast>
+<cast gid="3975281529" lang="JA"><role>Nobita</role><person id="3410">Noriko Ohara</person></cast>
+<cast gid="1681474486" lang="JA"><role>Shizuka</role><person id="4633">Michiko Nomura</person></cast>
+<cast gid="3556142509" lang="JA"><role>Suneo</role><person id="7237">Kaneta Kimotsuki</person></cast>
+<cast gid="2165406079" lang="JA"><role>Doraemon</role><person id="7244">Nobuyo Oyama</person></cast>
+<cast gid="750182160" lang="JA"><role>Gian</role><person id="7247">Kazuya Tatekabe</person></cast>
+<cast gid="2975845085" lang="JA"><role>Nobita's mom</role><person id="7709">Sachiko Chijimatsu</person></cast>
+<cast gid="2371364660" lang="JA"><role>Nobita's dad</role><person id="16212">Yousuke Naka</person></cast>
+<cast gid="2838864342" lang="PT"><role>Gian/Gigante</role><person id="48752">Tatá Guarnieri</person></cast>
+<cast gid="1942219767" lang="PT"><role>Nobita Nobi</role><person id="48820">Angelica Santos</person></cast>
+<cast gid="2091180369" lang="PT"><role>Shizuka Minamoto</role><person id="49591">Márcia Gomes</person></cast>
+<cast gid="2404447318" lang="PT"><role>Doraemon</role><person id="49601">Telma Lúcia</person></cast>
+<cast gid="1024799535" lang="PT"><role>Doraemon</role><person id="73065">Zezinho Cutolo</person></cast>
+<cast gid="2424154106" lang="TL"><role>Jiayan/Takeshi (A.K.A Damulag)</role><person id="38916">Robert Brillantes</person></cast>
+<cast gid="1743796109" lang="TL"><role>Suneo</role><person id="38916">Robert Brillantes</person></cast>
+<cast gid="1413594781" lang="TL"><role>Jiayan/Takeshi (A.K.A Damulag)</role><person id="38935">Louie Paraboles</person></cast>
+<cast gid="2748090033" lang="TL"><role>Suneo</role><person id="38935">Louie Paraboles</person></cast>
+<credit gid="1084868273"><task>Production</task><company id="160">TV Asahi</company></credit>
+<credit gid="1729017141"><task>Production</task><company id="1240">Asatsu DK</company></credit>
+<credit gid="2093489902"><task>Production</task><company id="8779">Shin-Ei Animation</company></credit></anime></ann>

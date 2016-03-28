@@ -1,0 +1,689 @@
+<ann><anime id="12306" gid="1845455934" type="TV" name="Toriko" precision="TV" generated-on="2016-03-26T23:09:11Z">
+<related-prev rel="adapted from" id="10748"/>
+<related-next id="15111" rel="related"/>
+<related-next id="15122" rel="related"/>
+<info gid="171512608" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A12306-6.jpg" width="200" height="174"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A12306-6.jpg" width="200" height="174"/><img src="http://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A12306-6.jpg" width="500" height="434"/><img src="http://cdn.animenewsnetwork.com/images/encyc/A12306-6.jpg" width="639" height="555"/></info>
+<info gid="2671616155" type="Main title" lang="JA">Toriko</info>
+<info gid="2594502792" type="Alternative title" lang="JA">トリコ</info>
+<info gid="1557438733" type="Genres">action</info>
+<info gid="3370490434" type="Genres">comedy</info>
+<info gid="2611119631" type="Genres">fantasy</info>
+<info gid="1064300665" type="Objectionable content">TA</info>
+<info gid="2814590242" type="Plot Summary">In a world where the taste and texture of food is extremely important there exist individuals known as Bishoku-ya (luxury food providers) who specialize in the acquisition of rare ingredients and animals. Toriko is one of these hunters and it is his dream to find the most precious foods in the world and create the ultimate dinner course. As one of the most skilled hunters in the world he is regularly hired by restaurants and the rich to seek out new ingredients and rare animals. A man with inhuman ability, he utilizes his incredible strength and knowledge of the animal kingdom to capture ferocious, evasive and rare beasts to further his final goal, the ultimate dinner course composed of the most delicious food in the world. He is currently accompanied by a weak and timid chef who, inspired by Toriko's ambition, travels with him to improve his culinary skills and find rare ingredients.</info>
+<info gid="2241787294" type="Running time">24</info>
+<info gid="3492797126" type="Number of episodes">147</info>
+<info gid="1824995647" type="Vintage">2011-04-03 to 2014-03-30</info>
+<info gid="3898136603" type="Vintage">2012-03-14 (Cartoon Network Korea)</info>
+<info gid="1206826075" type="Vintage">2012-07-07 (Taiwan, Eastern Movie Channel)</info>
+<info gid="1746183827" type="Vintage">2012-12-29 (Taiwan, Taiwan Television)</info>
+<info gid="2289159061" type="Vintage">2013-04-13 (Philippines, GMA Network)</info>
+<info gid="1762667682" type="Vintage">2013-06-23 (Thailand, Modernine TV)</info>
+<info gid="1731487140" type="Vintage">2014-03-10 (ETC...TV - Chile)</info>
+<info gid="2181780100" type="Opening Theme">#1: &quot;Guts Guts!!&quot; (ガツガツ!!) by Akira Kushida</info>
+<info gid="2581925808" type="Opening Theme">#2: &quot;Goushuko My Way&quot; (豪食マイウェイ!!) by Akira Kushida</info>
+<info gid="1160568009" type="Ending Theme">#1: &quot;One Day&quot; by THE ROOTLESS (ep 1)</info>
+<info gid="3062306486" type="Ending Theme">#2: &quot;Satisfaction&quot; by Ftisland (eps 2-25)</info>
+<info gid="3460614125" type="Ending Theme">#3: &quot;DELI-DELI☆DELICIOUS&quot; by Sea☆A (eps 26-38)</info>
+<info gid="1965966582" type="Ending Theme">#4: &quot;Sabrina&quot; by Leo Ieiri (eps 39-51)</info>
+<info gid="2845462109" type="Ending Theme">#5: &quot;Love Chase&quot; by Tomohisa Yamashita (eps 52-62)</info>
+<info gid="2606550036" type="Ending Theme">#6: &quot;Samba de Toriko&quot; by Hyadain (eps 63-75)</info>
+<info gid="1228938625" type="Ending Theme">#7: &quot;Lovely Fruit&quot; by Nana Mizuki (eps 76-87)</info>
+<info gid="1137954200" type="Ending Theme">#8: &quot;Niji&quot; by JUN SKY WALKER(S) (eps 88-98)</info>
+<info gid="1352604983" type="Ending Theme">#9: &quot;Akai Kutsu&quot; by Salley (eps 99-111)</info>
+<info gid="2756279826" type="Ending Theme">#10: &quot;Tautology&quot; by The Dresscodes (eps 112-123)</info>
+<info gid="1371565315" type="Ending Theme">#11: &quot;Believe in Yourself!&quot; by palet (eps 124-135)</info>
+<info gid="2009523713" type="Ending Theme">#12: &quot;Mega Raba&quot; by Rurika Yokoyama (eps 136-147)</info>
+<info gid="754191636" type="Official website" lang="JA" href="http://www.toei-anim.co.jp/tv/toriko/">トリコ 公式サイト 東映アニメーション</info>
+<ratings nb_votes="158" weighted_score="7.0735" bayesian_score="7.10767"/>
+<episode num="1">
+<title gid="1841483196" lang="EN">Arrival on Gourmet Island! The Gourmet Hunter Toriko Appears!</title></episode>
+<episode num="2">
+<title gid="2253141311" lang="EN">The Undiscovered Giant Beast! Toriko, Capture a Gararagator!</title></episode>
+<episode num="3">
+<title gid="1432507160" lang="EN">The Well Mellowed 7-Colored Fruit Juice! Pick the Rainbow Fruit</title></episode>
+<episode num="4">
+<title gid="3710980201" lang="EN">Prepare It! The Poisonous Puffer Whale! The Heavenly King Coco Appears!</title></episode>
+<episode num="5">
+<title gid="3498600147" lang="EN">The Deadly Cave Battle! Fire, Five-Fold Spiked Punch!</title></episode>
+<episode num="6">
+<title gid="2296256049" lang="EN">The Knocking Master! Time to Taste the Puffer Whale!</title></episode>
+<episode num="7">
+<title gid="2768195617" lang="EN">The Strongest Wolf that Ever Lived! The Battle Wolf is Reborn!</title></episode>
+<episode num="8">
+<title gid="2064581126" lang="EN">The Threat Appears! Rumble at the Gourmet Coliseum!</title></episode>
+<episode num="9">
+<title gid="303533773" lang="EN">That Which is Passed Down! Activate, Gourmet Cells!</title></episode>
+<episode num="10">
+<title gid="1599298376" lang="EN">The Man Who Has an Invincible Domain! His Name is Sonny!</title></episode>
+<episode num="11">
+<title gid="1612515266" lang="EN">Regal Isle Dash! Search for the Jewel Meat!</title></episode>
+<episode num="12">
+<title gid="2274866221" lang="EN">The Devils' Game! Clear The Devils' Playground!</title></episode>
+<episode num="13">
+<title gid="3229404319" lang="EN">The Ultimate Backup! Clash, Coco Vs. GT Robot!</title></episode>
+<episode num="14">
+<title gid="1884153233" lang="EN">The Threat of the Deadly Poison! Coco's Formula for Victory!</title></episode>
+<episode num="15">
+<title gid="593417144" lang="EN">The Unyielding Aesthetic! Sunny's Manly Battle!</title></episode>
+<episode num="16">
+<title gid="1483142528" lang="EN">Rin's Final Wish! Awaken, Super Toriko!</title></episode>
+<episode num="17">
+<title gid="1100301941" lang="EN">Super Toriko, the Fists of Anger! This is the Strongest Spike Punch!</title></episode>
+<episode num="18">
+<title gid="2288788028" lang="EN">The Taste Written in his DNA! Toriko, Search for the BB Corn!</title></episode>
+<episode num="19">
+<title gid="2677212280" lang="EN">The Talent of Battle! Show Me, Terry, King in the Making!</title></episode>
+<episode num="20">
+<title gid="2549362359" lang="EN">For Terry’s Sake! Burst By Broiling Heat, BB Corn!</title></episode>
+<episode num="21">
+<title gid="1558418065" lang="EN">The Gourmet Corp. Assassin! The Moment Toriko’s Techniques Evolve!</title></episode>
+<episode num="22">
+<title gid="2705857057" lang="EN">Pressure of Madness! Grinpatch vs. Toriko!</title></episode>
+<episode num="23">
+<title gid="2130725590" lang="EN">The Amusement Park of Eating! The Bellyfull City, Gourmet Town!</title></episode>
+<episode num="24">
+<title gid="1631244490" lang="EN">Dreamtime! Setsuno’s Century Soup!</title></episode>
+<episode num="25">
+<title gid="1719279300" lang="EN">Meeting at the Saloon! Rivalry Between Gourmet Hunters!</title></episode>
+<episode num="26">
+<title gid="442810909" lang="EN">Challenge of the Gourmet Hunter Army! Disembarking at Freezing Hell!</title></episode>
+<episode num="27">
+<title gid="2795445539" lang="EN">Hurry While It’s Hot! A Survival Race on Ice!</title></episode>
+<episode num="28">
+<title gid="1486799970" lang="EN">The Explosive Flame that Shakes the Ice Mountain! The True Identity of the Masked Man!</title></episode>
+<episode num="29">
+<title gid="2224220350" lang="EN">The Insect User In Full Bloom! Tommyrod Vs. Toriko!</title></episode>
+<episode num="30">
+<title gid="2937176022" lang="EN">Gratitude and Pride! Takimaru, use Sennuki Shot With All Your Might!</title></episode>
+<episode num="31">
+<title gid="1937471839" lang="EN">Conclusion! Match and Takimaru's Desperate Big Techniques!</title></episode>
+<episode num="32">
+<title gid="2011793846" lang="EN">The Food Reviver and The Location of the Legendary Soup!</title></episode>
+<episode num="33">
+<title gid="2806999423" lang="EN">Head-On Bout! The Fierce Battle: Toriko Vs. Tommyrod!</title></episode>
+<episode num="34">
+<title gid="2020707891" lang="EN">Desperate Struggle! Tommyrod's Explosive Serious Mode!</title></episode>
+<episode num="35">
+<title gid="1178637080" lang="EN">Miraculous Power! Saiseiya Teppei Joins the Fray!</title></episode>
+<episode num="36">
+<title gid="2306647653" lang="EN">The Last Drop! Whose Hands will the Century Soup Fall Into?</title></episode>
+<episode num="37">
+<title gid="2356138934" lang="EN">Farewell, Ice Hell! Granny Setsu's Hidden Power!</title></episode>
+<episode num="38">
+<title gid="491650274" lang="EN">Splendid Healing! Here Comes the Gourmet Reviver, Yosaku!</title></episode>
+<episode num="39">
+<title gid="2534894218" lang="EN">Race to Finish! Will it Be Toriko's Recovery, or Komatsu's Soup?!</title></episode>
+<episode num="40">
+<title gid="2057452481" lang="EN">To the World of Ultimate Bliss! Taste the Century Soup!</title></episode>
+<episode num="41">
+<title gid="1397898079" lang="EN">Housewarming Party! Everyone Gather at the Sweets House!</title></episode>
+<episode num="42">
+<title gid="1521748217" lang="EN">The Gourmet King Championship! Search for the Ultimate Sweets!</title></episode>
+<episode num="43">
+<title gid="2591948559" lang="EN">Bonding Dish! Partners are Forever!</title></episode>
+<episode num="44">
+<title gid="1480295201" lang="EN">White Hot! Toriko vs. the IGO President!</title></episode>
+<episode num="45">
+<title gid="521028848" lang="EN">Vegetable Garden in the Heavens! Vegetable Sky!</title></episode>
+<episode num="46">
+<title gid="1563643892" lang="EN">Discovery! The King of Vegetables, Ozone Grass!</title></episode>
+<episode num="47">
+<title gid="1069806754" lang="EN">Confession in the Heavens! The Formation of the Invincible Duo!</title></episode>
+<episode num="48">
+<title gid="2933108707" lang="EN">Shocking Encounter! A Mysterious Life Form Appears!</title></episode>
+<episode num="49">
+<title gid="3091909577" lang="EN">Toriko Rushes In! The Truth of the Gourmet World!</title></episode>
+<episode num="50">
+<title gid="3217470917" lang="EN">Enter the Astounding Ringer! The True Meaning of a Partner!</title></episode>
+<episode num="51">
+<title gid="2053652288" lang="EN">The Reunion of Toriko and Luffy! Find the Seafood Fruit!</title></episode>
+<episode num="52">
+<title gid="490827067" lang="EN">Shock! The Broken Kitchen Knife and Cutler Melk!</title></episode>
+<episode num="53">
+<title gid="2731936203" lang="EN">Tension! Toriko’s Knife Versus Melk’s Knife!</title></episode>
+<episode num="54">
+<title gid="1786566167" lang="EN">Supergravity! Conquer Heavy Hole!</title></episode>
+<episode num="55">
+<title gid="2264808274" lang="EN">Hidden Truth! The First Melk Appears!</title></episode>
+<episode num="56">
+<title gid="3620752487" lang="EN">Debut! The Second Generation’s Succession and Melk Stardust!</title></episode>
+<episode num="57">
+<title gid="3226510997" lang="EN">A Work Made with All Her Might! The Completed Melk Knife!</title></episode>
+<episode num="58">
+<title gid="3568009254" lang="EN">Super Celeb! Once in a Lifetime Gourmet Carriage Journey!</title></episode>
+<episode num="59">
+<title gid="2521018707" lang="EN">Finally, He Appears! The Last of the Four Kings, Zebra!</title></episode>
+<episode num="60">
+<title gid="3060701202" lang="EN">Unleash the Roar! The Release of the Condemned Criminal, Zebra!</title></episode>
+<episode num="61">
+<title gid="4033869646" lang="EN">Warning Issued! Zebra Lands on Sand Garden!</title></episode>
+<episode num="62">
+<title gid="1738462823" lang="EN">Komatsu's Disappearance! The Desert Labyrinth of Evil!</title></episode>
+<episode num="63">
+<title gid="2539804627" lang="EN">The Sealed Voice! The Other-Dimensional Gourmet Pyramid!</title></episode>
+<episode num="64">
+<title gid="3289818021" lang="EN">Astounding! The Mysterious Ancient Manuscript and the Creature Inside the Coffin!</title></episode>
+<episode num="65">
+<title gid="1677830766" lang="EN">Shocking Showdown! Salamander Sphinx!</title></episode>
+<episode num="66">
+<title gid="1101627240" lang="EN">Cooperative Cooking! Komatsu Steers Toriko and Zebra!</title></episode>
+<episode num="67">
+<title gid="1635714795" lang="EN">Explosion of Combination Techniques! Taking the World's Best Cola!</title></episode>
+<episode num="68">
+<title gid="1922907887" lang="EN">The Truth Revealed! Komatsu’s Will and the Identity of the Mysterious Creature!</title></episode>
+<episode num="69">
+<title gid="3018641914" lang="EN">Surpass Dad! Midsummer Gobbling Katsu Curry!</title></episode>
+<episode num="70">
+<title gid="4192795253" lang="EN">Connecting Bonds! The Superb Gatsugatsu Curry!</title></episode>
+<episode num="71">
+<title gid="2297567136" lang="EN">A New Stage! Toriko's Determination and the Return of &quot;Him&quot;!</title></episode>
+<episode num="72">
+<title gid="2092504187" lang="EN">A Flowing Food Luck! The Pilgrimage Gourmet Shrine!</title></episode>
+<episode num="73">
+<title gid="914396482" lang="EN">Uwaaa! The Astonishing Surprise Apple!</title></episode>
+<episode num="74">
+<title gid="2031341229" lang="EN">Chicken Beast's Egg! The Memories of Old Man Yocchi and His Wife!</title></episode>
+<episode num="75">
+<title gid="638238107" lang="EN">Glittering Crystal! Shining Gourami!</title></episode>
+<episode num="76">
+<title gid="619966853" lang="EN">Shocking Rapids! Giant Waterfall, Death Falls!</title></episode>
+<episode num="77">
+<title gid="2197892956" lang="EN">Sunny's New Attack! The Result of Gorgeous Training!</title></episode>
+<episode num="78">
+<title gid="902320693" lang="EN">Thirty Times Combo! Thirty-Six-Fold Twin Spiked Punch!</title></episode>
+<episode num="79">
+<title gid="584722744" lang="EN">Cooking by Intuition! Komatsu and the Shining Gourami!</title></episode>
+<episode num="80">
+<title gid="1895364607" lang="EN">Flashy Presentation! Supreme Service With a Meal!</title></episode>
+<episode num="81">
+<title gid="2447724308" lang="EN">Supreme Chitose Ame! Komatsu and Yun's Tale!</title></episode>
+<episode num="82">
+<title gid="3772256168" lang="EN">Assemble on Autumn Mountain! Terry, Yun, Kiss, Queen!</title></episode>
+<episode num="83">
+<title gid="730886298" lang="EN">Reunion! Take-chan of Fairytale Castle!</title></episode>
+<episode num="84">
+<title gid="2353850107" lang="EN">Crossroads! A Chef's Destination!</title></episode>
+<episode num="85">
+<title gid="2382157157" lang="EN">Dramatic Transformation! Hair Salon Barber Gourmet!</title></episode>
+<episode num="86">
+<title gid="2232805891" lang="EN">Gathering of the Four Kings! A Midwinter Night's Miracle!</title></episode>
+<episode num="87">
+<title gid="1864512654" lang="EN">Merry Feastmas! Gourmet Santa's Present!</title></episode>
+<episode num="88">
+<title gid="957689583" lang="EN">Heaven or Hell!? Storming Into the Gourmet Casino!</title></episode>
+<episode num="89">
+<title gid="1420489959" lang="EN">Appearance! The Boss of the Underground Cooking World, Livebearer!</title></episode>
+<episode num="90">
+<title gid="2348969292" lang="EN">A Card Game With Your Life on the Line! Gourmet Tasting!</title></episode>
+<episode num="91">
+<title gid="1886868335" lang="EN">Dead Heat! Coco vs. Livebearer</title></episode>
+<episode num="92">
+<title gid="2485758812" lang="EN">Coco's Strategy! The Big-Miss Cards That Determine the Outcome!</title></episode>
+<episode num="93">
+<title gid="2981800367" lang="EN">Eat or be Eaten! Toriko vs. the Hannya Panda!</title></episode>
+<episode num="94">
+<title gid="2552250180" lang="EN">Climax! The Remaining Worst Ingredients!</title></episode>
+<episode num="95">
+<title gid="2488104995" lang="EN">The Decisive Moment! Coco's Grand Scenario!</title></episode>
+<episode num="96">
+<title gid="2750189189" lang="EN">A Taste that's Out of this World! The Actual Eating of the Meteor Garlic!</title></episode>
+<episode num="97">
+<title gid="1247418905" lang="EN">Pinnacle Showdown! Ichiryuu vs. the Bishokukai's Midora!</title></episode>
+<episode num="98">
+<title gid="2761030440" lang="EN">The Hidden Training Ingredient! Emergency Instructions from Ichiryuu!</title></episode>
+<episode num="99">
+<title gid="3332565276" lang="EN">Run, Strongest Army! Toriko, Luffy, Goku!</title></episode>
+<episode num="100">
+<title gid="1521656542" lang="EN">Commemorating the Hundredth Episode, All Four Heavenly Kings Assemble!</title></episode>
+<episode num="101">
+<title gid="2110538935" lang="EN">Toriko Fainting in Agony?! Capture the World's Smelliest Ingredient!</title></episode>
+<episode num="102">
+<title gid="1283144453" lang="EN">Too Huge! With Pro Wrestling Moves, the Completion of the Ehou Maki</title></episode>
+<episode num="103">
+<title gid="2615908548" lang="EN">Hands Together and Bow! Gourmet Human National Treasure Chin Chinchin Appears!</title></episode>
+<episode num="104">
+<title gid="2000726288" lang="EN">Those Without Gratitude Should Not Enter! The Fearsome Shokurin Temple!</title></episode>
+<episode num="105">
+<title gid="2677153591" lang="EN">Toriko, Completely Defeated?! The Delicate and Uninhibited Power of Food Honor!</title></episode>
+<episode num="106">
+<title gid="2997251318" lang="EN">It's All About Appreciation! The Essentials of Food Honor!</title></episode>
+<episode num="107">
+<title gid="2493388904" lang="EN">An Approaching Threat! Hurry, Toriko! The Road to the Bubble Fruits!</title></episode>
+<episode num="108">
+<title gid="2068575736" lang="EN">Tradgedy! The Demise of Shokurin Temple... Farewell Komatsu!</title></episode>
+<episode num="109">
+<title gid="1955886890" lang="EN">Mighty and Unrivaled! One Who Has Mastered Food Honor!</title></episode>
+<episode num="110">
+<title gid="2055233658" lang="EN">National Treasure Class&quot; One-Swing 100 Million Yen Techniques! Toriko VS Granny Chiyo</title></episode>
+<episode num="111">
+<title gid="3431001604" lang="EN">Phantom Ingredient &quot;CENTER&quot;, Ichiryuu's Strongest Biotope 0!</title></episode>
+<episode num="112">
+<title gid="2643393765" lang="EN">The Legendary Bee &quot;Infinity Bee&quot;, Toriko vs New Type GT Robo</title></episode>
+<episode num="113">
+<title gid="2500801436" lang="EN">Showing his True Strength! Komatsu's Food Honor The Actual Food! The Phantasmal Noodles, &quot;Zenmen&quot;</title></episode>
+<episode num="114">
+<title gid="2776873222" lang="EN">The Four Heavenly Kings Gather! The Gourmet World Beasts the &quot;Four Beast&quot; Awaken!</title></episode>
+<episode num="115">
+<title gid="3399378477" lang="EN">The Battle to Determine the Fate of Mankind! The Four Beasts VS The Four Heavenly Kings!</title></episode>
+<episode num="116">
+<title gid="1904955577" lang="EN">Toriko, Coco, Sunny, Zebra The Four Heavenly Kings' Storm of Attacks!!</title></episode>
+<episode num="117">
+<title gid="2178318003" lang="EN">Toriko's New Crisis The Creeping Four Beast's Main Body!!</title></episode>
+<episode num="118">
+<title gid="2070622015" lang="EN">The Four Beast's Shockng Union and the Green Rain!!</title></episode>
+<episode num="119">
+<title gid="1766546202" lang="EN">The Four Heavenly Kings' Worst Dilemma! Komatsu's Determination!</title></episode>
+<episode num="120">
+<title gid="2308012574" lang="EN">Save Mankind With Your Miraculous Food Luck!!</title></episode>
+<episode num="121">
+<title gid="2249366675" lang="EN">Explode! Curiosity for Taste! The Four Heavenly Kings' Combination Technique!!</title></episode>
+<episode num="122">
+<title gid="3026416578" lang="EN">Ultimate Technique &quot;Dinner of the Kings&quot;</title></episode>
+<episode num="123">
+<title gid="3639895344" lang="EN">The Forthcoming Festival The Wriggling &quot;Dangerous Guys&quot;</title></episode>
+<episode num="124">
+<title gid="3152086024" lang="EN">Toriko VS Gourmet World Monster &quot;Monplant&quot;</title></episode>
+<episode num="125">
+<title gid="1718655750" lang="EN">Toriko's New Technique &quot;Nail Gun&quot;!!</title></episode>
+<episode num="126">
+<title gid="2129022005" lang="EN">Great Imminent Troubles!? Cooking Fest Opens!!</title></episode>
+<episode num="127">
+<title gid="2129365794" lang="EN">Komatsu in Trouble!? Triathlon Cooking!</title></episode>
+<episode num="128">
+<title gid="1733778788" lang="EN">Cooking Legend, Meet Tengu Buranchi!!</title></episode>
+<episode num="129">
+<title gid="1394984151" lang="EN">Sneaky! Stormy! Buranchi, Pulling Ahead!!</title></episode>
+<episode num="130">
+<title gid="1080395806" lang="EN">Life or Death, Scale Death Cooking!!</title></episode>
+<episode num="131">
+<title gid="1740454577" lang="EN">Who is the Strongest Combo? Entire Island Cooking!!</title></episode>
+<episode num="132">
+<title gid="2547469915" lang="EN">Outbreak of War! Bishokukai's Furious All-out Attack!!</title></episode>
+<episode num="133">
+<title gid="3077439177" lang="EN">Protect Komatsu! Toriko vs. Starjun!!</title></episode>
+<episode num="134">
+<title gid="1367581410" lang="EN">Savage Battle! Toriko's Strongest Attack!</title></episode>
+<episode num="135">
+<title gid="2133118196" lang="EN">Climactic Battle! IGO versus Gourmet Corp.!</title></episode>
+<episode num="136">
+<title gid="2457036059" lang="EN">Worst Trump Card! The Gourmet World Monster, &quot;Nitro&quot;!</title></episode>
+<episode num="137">
+<title gid="2814278704" lang="EN">Mortal Combat! Coco vs. Grinpatch!</title></episode>
+<episode num="138">
+<title gid="1063606439" lang="EN">Duel! Sunny vs. Tommyrod</title></episode>
+<episode num="139">
+<title gid="1245234805" lang="EN">The Moment of Conclusion! Sunny's Final Power!!</title></episode>
+<episode num="140">
+<title gid="2855659906" lang="EN">Counterattack! Zebra Gets Moving!!</title></episode>
+<episode num="141">
+<title gid="1934479115" lang="EN">Toriko, Counterattack! Ultimate Routine!!</title></episode>
+<episode num="142">
+<title gid="4018975482" lang="EN">History's Greatest Enemy! &quot;Joa&quot; Appears!!</title></episode>
+<episode num="143">
+<title gid="1523244558" lang="EN">Shock! The True Identity of the Mastermind &quot;Joa&quot;!!</title></episode>
+<episode num="144">
+<title gid="3167362709" lang="EN">The Beginning of the End! Toriko vs. Joa!!</title></episode>
+<episode num="145">
+<title gid="4006932346" lang="EN">An Attack to Come Back from Hopelessness! The Four Heavenly Kings, the Ultimate Technique!!</title></episode>
+<episode num="146">
+<title gid="1531187560" lang="EN">Reach, Komatsu's Cry! Toriko's Awakening!!</title></episode>
+<episode num="147">
+<title gid="1924866102" lang="EN">Toriko and Komatsu, Setting Out on a New Journey!!</title></episode>
+<review href="http://www.animenewsnetwork.com/review/toriko/dvd-collection-1/.82121">Toriko DVD</review>
+<review href="http://www.animenewsnetwork.com/review/toriko/dvd-1">Toriko DVD Set 4</review>
+<review href="http://www.animenewsnetwork.com/review/toriko/dvd-set-part-3">Toriko DVD Set 3</review>
+<review href="http://www.animenewsnetwork.com/review/toriko/dvd-set-part-1">Toriko DVD Set 1 &amp; 2</review>
+<release date="2014-08-26" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=26607">Toriko - Collection 1 (DVD)</release>
+<release date="2014-11-04" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=27551">Toriko - Collection 2 (DVD)</release>
+<release date="2013-01-08" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=22420">Toriko - Part 1 (DVD 1-2)</release>
+<release date="2013-02-05" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=22613">Toriko - Part 2 (DVD 1-2)</release>
+<release date="2013-03-19" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=22875">Toriko - Part 3 (DVD 1-2)</release>
+<release date="2013-05-07" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=23142">Toriko - Part 4 (DVD 1-2)</release>
+<news datetime="2011-03-02T09:45:43Z" href="http://www.animenewsnetwork.com/news/2011-03-02/toriko-one-piece-get-crossover-tv-anime-special">&lt;cite&gt;Toriko, One Piece&lt;/cite&gt; Get Crossover TV Anime Special</news>
+<news datetime="2011-03-10T12:23:14Z" href="http://www.animenewsnetwork.com/news/2011-03-10/toei-replaces-possibly-infringing-dragon-ball-kai-music">Toei Replaces Possibly Infringing &lt;cite&gt;Dragon Ball Kai&lt;/cite&gt; Music</news>
+<news datetime="2011-03-28T17:51:42Z" href="http://www.animenewsnetwork.com/news/2011-03-28/japanese-box-office-march-19-20">Japanese Box Office, March 19-20</news>
+<news datetime="2011-04-13T21:35:43Z" href="http://www.animenewsnetwork.com/news/2011-04-13/funimation-hulu-to-streamtoriko-tv-anime">Funimation, Hulu to Stream &lt;cite&gt;Toriko&lt;/cite&gt; TV Anime</news>
+<news datetime="2011-04-15T03:30:00Z" href="http://www.animenewsnetwork.com/news/2011-04-14/japan-animation-tv-ranking-march-28-april-3">Japan's Animation TV Ranking, March 28-April 3</news>
+<news datetime="2011-04-19T02:45:00Z" href="http://www.animenewsnetwork.com/news/2011-04-18/japanese-box-office-april-9-10">Japanese Box Office, April 9-10</news>
+<news datetime="2011-04-20T02:00:00Z" href="http://www.animenewsnetwork.com/news/2011-04-19/japan-animation-tv-ranking-april-4-10">Japan's Animation TV Ranking, April 4-10</news>
+<news datetime="2011-04-29T03:30:00Z" href="http://www.animenewsnetwork.com/news/2011-04-28/japan-animation-tv-ranking-april-11-17">Japan's Animation TV Ranking, April 11-17</news>
+<news datetime="2011-05-02T23:30:00Z" href="http://www.animenewsnetwork.com/news/2011-05-02/japan-animation-tv-ranking-april-18-24">Japan's Animation TV Ranking, April 18-24</news>
+<news datetime="2011-05-15T03:57:00Z" href="http://www.animenewsnetwork.com/news/2011-05-14/japan-animation-tv-ranking-april-25-may-1">Japan's Animation TV Ranking, April 25-May 1</news>
+<news datetime="2011-05-17T03:00:00Z" href="http://www.animenewsnetwork.com/news/2011-05-16/japan-animation-tv-ranking-may-2-8">Japan's Animation TV Ranking, May 2-8</news>
+<news datetime="2011-05-24T21:30:00Z" href="http://www.animenewsnetwork.com/news/2011-05-24/japan-animation-tv-ranking-may-9-15">Japan's Animation TV Ranking, May 9-15</news>
+<news datetime="2011-05-30T03:57:03Z" href="http://www.animenewsnetwork.com/news/2011-05-29/japan-animation-tv-ranking-may-16-22">Japan's Animation TV Ranking, May 16-22</news>
+<news datetime="2011-06-05T20:00:00Z" href="http://www.animenewsnetwork.com/news/2011-06-05/japan-animation-tv-ranking-may-23-29">Japan's Animation TV Ranking, May 23-29</news>
+<news datetime="2011-06-13T02:45:00Z" href="http://www.animenewsnetwork.com/news/2011-06-12/japan-animation-tv-ranking-may-30-june-5">Japan's Animation TV Ranking, May 30-June 5</news>
+<news datetime="2011-06-18T03:57:00Z" href="http://www.animenewsnetwork.com/news/2011-06-17/north-american-stream-list/june-10-17">North American Stream List: June 10-17</news>
+<news datetime="2011-06-19T03:00:00Z" href="http://www.animenewsnetwork.com/news/2011-06-18/japan-animation-tv-ranking-june-6-12">Japan's Animation TV Ranking, June 6-12</news>
+<news datetime="2011-06-27T02:00:00Z" href="http://www.animenewsnetwork.com/news/2011-06-26/japan-animation-tv-ranking-june-13-19">Japan's Animation TV Ranking, June 13-19</news>
+<news datetime="2011-07-06T14:30:00Z" href="http://www.animenewsnetwork.com/news/2011-07-06/north-american-stream-list/june-25-july-4">North American Stream List: June 25–July 4</news>
+<news datetime="2011-07-08T02:30:00Z" href="http://www.animenewsnetwork.com/news/2011-07-07/japan-animation-tv-ranking-june-20-26">Japan's Animation TV Ranking, June 20-26</news>
+<news datetime="2011-07-10T02:30:00Z" href="http://www.animenewsnetwork.com/news/2011-07-09/north-american-stream-list/july-4-8">North American Stream List: July 4–8</news>
+<news datetime="2011-07-11T03:57:00Z" href="http://www.animenewsnetwork.com/news/2011-07-10/japan-animation-tv-ranking-june-27-july-3">Japan's Animation TV Ranking, June 27-July 3</news>
+<news datetime="2011-07-17T03:57:00Z" href="http://www.animenewsnetwork.com/news/2011-07-16/japan-animation-tv-ranking-july-4-10">Japan's Animation TV Ranking, July 4-10</news>
+<news datetime="2011-07-25T03:30:00Z" href="http://www.animenewsnetwork.com/news/2011-07-24/north-american-stream-list/july-16-22">North American Stream List: July 16-24</news>
+<news datetime="2011-07-29T00:30:00Z" href="http://www.animenewsnetwork.com/news/2011-07-28/japan-animation-tv-ranking-july-11-17">Japan's Animation TV Ranking, July 11-17</news>
+<news datetime="2011-08-09T03:00:00Z" href="http://www.animenewsnetwork.com/news/2011-08-08/japan-animation-tv-ranking-july-15-31">Japan's Animation TV Ranking, July 15-31</news>
+<news datetime="2011-08-16T02:00:00Z" href="http://www.animenewsnetwork.com/news/2011-08-15/japan-animation-tv-ranking-august-1-7">Japan's Animation TV Ranking, August 1-7</news>
+<news datetime="2011-08-21T23:00:00Z" href="http://www.animenewsnetwork.com/news/2011-08-21/japan-animation-tv-ranking-august-8-14">Japan's Animation TV Ranking, August 8-14</news>
+<news datetime="2011-08-29T02:00:00Z" href="http://www.animenewsnetwork.com/news/2011-08-28/japan-animation-tv-ranking-august-15-21">Japan's Animation TV Ranking, August 15-21</news>
+<news datetime="2011-09-05T02:57:00Z" href="http://www.animenewsnetwork.com/news/2011-09-04/japan-animation-tv-ranking-august-22-28">Japan's Animation TV Ranking, August 22-28</news>
+<news datetime="2011-09-19T03:30:00Z" href="http://www.animenewsnetwork.com/news/2011-09-18/japan-animation-tv-ranking-august-29-september-4">Japan's Animation TV Ranking, August 29-September 4</news>
+<news datetime="2011-09-20T03:57:00Z" href="http://www.animenewsnetwork.com/news/2011-09-19/japan-animation-tv-ranking-september-5-11">Japan's Animation TV Ranking, September 5-11</news>
+<news datetime="2011-09-26T02:30:00Z" href="http://www.animenewsnetwork.com/news/2011-09-25/japan-animation-tv-ranking-september-12-18">Japan's Animation TV Ranking, September 12-18</news>
+<news datetime="2011-09-27T00:00:00Z" href="http://www.animenewsnetwork.com/news/2011-09-26/singapore-anime-festival-asia-announces-guest-lineup-theme-song">Singapore's Anime Festival Asia Announces Guest Lineup, Theme Song</news>
+<news datetime="2011-10-09T21:30:00Z" href="http://www.animenewsnetwork.com/news/2011-10-09/north-american-stream-list/october-3-9">North American Stream List: October 3-9</news>
+<news datetime="2011-10-11T03:57:00Z" href="http://www.animenewsnetwork.com/news/2011-10-10/japan-animation-tv-ranking-september-19-25">Japan's Animation TV Ranking, September 19-25</news>
+<news datetime="2011-10-14T03:56:52Z" href="http://www.animenewsnetwork.com/news/2011-10-13/japan-animation-tv-ranking-september-26-october-4">Japan's Animation TV Ranking, September 26-October 4</news>
+<news datetime="2011-10-16T22:00:00Z" href="http://www.animenewsnetwork.com/news/2011-10-16/north-american-stream-list/october-10-16">North American Stream List: October 10-16</news>
+<news datetime="2011-10-21T02:30:00Z" href="http://www.animenewsnetwork.com/news/2011-10-20/japan-animation-tv-ranking-october-3-9">Japan's Animation TV Ranking, October 3-9</news>
+<news datetime="2011-10-23T21:00:00Z" href="http://www.animenewsnetwork.com/news/2011-10-23/north-american-stream-list/october-17-23">North American Stream List: October 17-23</news>
+<news datetime="2011-10-24T03:00:00Z" href="http://www.animenewsnetwork.com/news/2011-10-23/japan-animation-tv-ranking-october-10-16">Japan's Animation TV Ranking, October 10-16</news>
+<news datetime="2011-10-29T21:15:39Z" href="http://www.animenewsnetwork.com/news/2011-10-29/toei-animation-breaks-down-2011-earnings-by-franchise">Toei Animation Breaks Down 2011 Earnings by Franchise</news>
+<news datetime="2011-10-30T03:45:00Z" href="http://www.animenewsnetwork.com/news/2011-10-29/japan-animation-tv-ranking-october-17-23">Japan's Animation TV Ranking, October 17-23</news>
+<news datetime="2011-11-08T11:30:00Z" href="http://www.animenewsnetwork.com/news/2011-11-08/japan-animation-blu-ray-disc-ranking/october-31-november-6/2">Japan's Animation DVD Ranking: October 31-November 6</news>
+<news datetime="2011-11-13T23:00:00Z" href="http://www.animenewsnetwork.com/news/2011-11-13/japan-animation-tv-ranking-october-31-november-6">Japan's Animation TV Ranking, October 31-November 6</news>
+<news datetime="2011-11-28T12:15:00Z" href="http://www.animenewsnetwork.com/news/2011-11-28/aic-adapts-aoshima-atoranjaa-robot-manga-into-anime">AIC Adapts Aoshima's &lt;cite&gt;Atoranjaa&lt;/cite&gt; Robot Into Anime Short</news>
+<news datetime="2011-12-06T04:10:00Z" href="http://www.animenewsnetwork.com/news/2011-12-05/japan-animation-tv-ranking-november-14-20">Japan's Animation TV Ranking, November 14-20</news>
+<news datetime="2011-12-11T17:20:00Z" href="http://www.animenewsnetwork.com/news/2011-12-11/japan-animation-tv-ranking-november-21-27">Japan's Animation TV Ranking, November 21-27</news>
+<news datetime="2012-01-03T00:00:00Z" href="http://www.animenewsnetwork.com/news/2012-01-02/japan-animation-tv-ranking-november-28-december-4">Japan's Animation TV Ranking, November 28-December 4</news>
+<news datetime="2012-01-09T01:00:00Z" href="http://www.animenewsnetwork.com/news/2012-01-08/japanese-anime-tv-ranking/december-5-11">Japan's Animation TV Ranking, December 5-11</news>
+<news datetime="2012-01-10T00:00:00Z" href="http://www.animenewsnetwork.com/news/2012-01-09/japan-animation-tv-ranking-december-12-18">Japan's Animation TV Ranking, December 12-18</news>
+<news datetime="2012-01-16T00:05:00Z" href="http://www.animenewsnetwork.com/news/2012-01-15/japanese-animation-tv-ranking-december-19-25">Japanese Animation TV Ranking, December 19-25</news>
+<news datetime="2012-01-22T23:05:00Z" href="http://www.animenewsnetwork.com/news/2012-01-22/japanese-animation-tv-ranking-january-2-8">Japanese Animation TV Ranking, January 2-8</news>
+<news datetime="2012-01-24T23:00:00Z" href="http://www.animenewsnetwork.com/news/2012-01-24/japanese-animation-tv-ranking-january-9-15">Japanese Animation TV Ranking, January 9-15</news>
+<news datetime="2012-01-29T01:45:00Z" href="http://www.animenewsnetwork.com/news/2012-01-28/japanese-animation-tv-ranking-january-16-22">Japanese Animation TV Ranking, January 16-22</news>
+<news datetime="2012-01-29T22:45:12Z" href="http://www.animenewsnetwork.com/news/2012-01-29/north-american-stream-list/january-23-29">North American Stream List: January 23-29</news>
+<news datetime="2012-02-05T21:00:33Z" href="http://www.animenewsnetwork.com/news/2012-02-05/north-american-stream-list/jan-30-feb-5">North American Stream List: Jan. 30-Feb. 5</news>
+<news datetime="2012-02-12T03:15:00Z" href="http://www.animenewsnetwork.com/news/2012-02-11/japanese-animation-tv-ranking-january-30-february-5">Japanese Animation TV Ranking, January 30-February 5</news>
+<news datetime="2012-02-13T00:00:00Z" href="http://www.animenewsnetwork.com/news/2012-02-12/north-american-stream-list/february-6-12">North American Stream List: February 6-12</news>
+<news datetime="2012-02-20T00:30:00Z" href="http://www.animenewsnetwork.com/news/2012-02-19/north-american-stream-list/feb-13-19">North American Stream List: Feb. 13-19</news>
+<news datetime="2012-02-27T04:10:47Z" href="http://www.animenewsnetwork.com/news/2012-02-26/north-american-stream-list/feb.ruary-20-26">North American Stream List: February 20-26</news>
+<news datetime="2012-02-27T07:30:00Z" href="http://www.animenewsnetwork.com/news/2012-02-27/japanese-animation-tv-ranking-february-6-12">Japanese Animation TV Ranking, February 6-12</news>
+<news datetime="2012-02-28T22:15:00Z" href="http://www.animenewsnetwork.com/news/2012-02-28/japanese-animation-tv-ranking-february-13-19">Japanese Animation TV Ranking, February 13-19</news>
+<news datetime="2012-03-28T22:00:00Z" href="http://www.animenewsnetwork.com/news/2012-03-28/japanese-animation-tv-ranking-march-12-18">Japanese Animation TV Ranking, March 12-18</news>
+<news datetime="2012-03-29T23:15:00Z" href="http://www.animenewsnetwork.com/news/2012-03-29/japanese-animation-tv-ranking-march-19-25">Japanese Animation TV Ranking, March 19-25</news>
+<news datetime="2012-04-09T22:00:00Z" href="http://www.animenewsnetwork.com/news/2012-04-09/japanese-animation-tv-ranking-march-26-april-1">Japanese Animation TV Ranking, March 26-April 1</news>
+<news datetime="2012-04-23T19:30:00Z" href="http://www.animenewsnetwork.com/news/2012-04-23/japanese-animation-tv-ranking-april-2-8">Japanese Animation TV Ranking, April 2-8</news>
+<news datetime="2012-04-24T17:45:00Z" href="http://www.animenewsnetwork.com/news/2012-04-24/japanese-animation-tv-ranking-april-9-15">Japanese Animation TV Ranking, April 9-15</news>
+<news datetime="2012-05-19T22:00:00Z" href="http://www.animenewsnetwork.com/news/2012-05-19/japanese-animation-tv-ranking-april-16-22">Japanese Animation TV Ranking, April 16-22</news>
+<news datetime="2012-05-21T08:00:00Z" href="http://www.animenewsnetwork.com/news/2012-05-21/japanese-animation-tv-ranking-april-23-29">Japanese Animation TV Ranking, April 23-29</news>
+<news datetime="2012-05-22T23:00:00Z" href="http://www.animenewsnetwork.com/news/2012-05-22/japanese-animation-tv-ranking-april-30-may-6">Japanese Animation TV Ranking, April 30-May 6</news>
+<news datetime="2012-05-27T03:30:00Z" href="http://www.animenewsnetwork.com/news/2012-05-26/japanese-animation-tv-ranking-may-7-13">Japanese Animation TV Ranking, May 7-13</news>
+<news datetime="2012-05-28T23:00:00Z" href="http://www.animenewsnetwork.com/news/2012-05-28/japanese-animation-tv-ranking-may-14-20">Japanese Animation TV Ranking, May 14-20</news>
+<news datetime="2012-06-02T18:00:00Z" href="http://www.animenewsnetwork.com/news/2012-06-02/japanese-animation-tv-ranking-may-21-27">Japanese Animation TV Ranking, May 21-27</news>
+<news datetime="2012-06-10T03:15:00Z" href="http://www.animenewsnetwork.com/news/2012-06-09/japanese-animation-tv-ranking-may-28-june-3">Japanese Animation TV Ranking, May 28-June 3</news>
+<news datetime="2012-06-17T17:45:00Z" href="http://www.animenewsnetwork.com/news/2012-06-17/japan-animation-tv-ranking-june-4-10">Japan's Animation TV Ranking, June 4-10</news>
+<news datetime="2012-06-24T23:00:00Z" href="http://www.animenewsnetwork.com/news/2012-06-24/japan-animation-tv-ranking-june-11-17">Japan's Animation TV Ranking, June 11-17</news>
+<news datetime="2012-07-02T00:15:00Z" href="http://www.animenewsnetwork.com/news/2012-07-01/japan-animation-tv-ranking-june-18-24">Japan's Animation TV Ranking, June 18-24</news>
+<news datetime="2012-07-07T23:00:00Z" href="http://www.animenewsnetwork.com/news/2012-07-07/japan-animation-tv-ranking-june-25-july-1">Japan's Animation TV Ranking, June 25-July 1</news>
+<news datetime="2012-07-23T19:30:00Z" href="http://www.animenewsnetwork.com/news/2012-07-23/japan-animation-tv-ranking-july-2-8">Japan's Animation TV Ranking, July 2-8</news>
+<news datetime="2012-07-24T19:15:00Z" href="http://www.animenewsnetwork.com/news/2012-07-24/japan-animation-tv-ranking-july-9-15">Japan's Animation TV Ranking, July 9-15</news>
+<news datetime="2012-08-06T20:00:00Z" href="http://www.animenewsnetwork.com/news/2012-08-06/japan-animation-tv-ranking-july-23-29">Japan's Animation TV Ranking, July 23-29</news>
+<news datetime="2012-08-14T22:15:00Z" href="http://www.animenewsnetwork.com/news/2012-08-14/japan-animation-tv-ranking-july-30-august-5">Japan's Animation TV Ranking, July 30-August 5</news>
+<news datetime="2012-08-20T00:15:00Z" href="http://www.animenewsnetwork.com/news/2012-08-19/japan-animation-tv-ranking-august-6-12">Japan's Animation TV Ranking, August 6-12</news>
+<news datetime="2012-08-27T02:30:00Z" href="http://www.animenewsnetwork.com/news/2012-08-26/japan-animation-tv-ranking-august-13-19">Japan's Animation TV Ranking, August 13-19</news>
+<news datetime="2012-09-02T23:00:00Z" href="http://www.animenewsnetwork.com/news/2012-09-02/japan-animation-tv-ranking-august-20-26">Japan's Animation TV Ranking, August 20-26</news>
+<news datetime="2012-09-10T06:15:00Z" href="http://www.animenewsnetwork.com/news/2012-09-10/japan-animation-tv-ranking-august-27-september-2">Japan's Animation TV Ranking, August 27-September 2</news>
+<news datetime="2012-09-17T17:00:00Z" href="http://www.animenewsnetwork.com/news/2012-09-17/japan-animation-tv-ranking-september-3-9">Japan's Animation TV Ranking, September 3-9</news>
+<news datetime="2012-09-23T23:30:00Z" href="http://www.animenewsnetwork.com/news/2012-09-23/japan-animation-tv-ranking-september-10-16">Japan's Animation TV Ranking, September 10-16</news>
+<news datetime="2012-10-02T03:57:00Z" href="http://www.animenewsnetwork.com/news/2012-10-01/north-american-stream-list/sept-24-31">North American Stream List: Sept. 24-31</news>
+<news datetime="2012-10-08T21:00:00Z" href="http://www.animenewsnetwork.com/news/2012-10-08/japan-animation-tv-ranking-september-17-23">Japan's Animation TV Ranking, September 17-23</news>
+<news datetime="2012-10-09T21:15:00Z" href="http://www.animenewsnetwork.com/news/2012-10-09/japan-animation-tv-ranking-september-24-30">Japan's Animation TV Ranking, September 24-30</news>
+<news datetime="2012-10-14T18:15:49Z" href="http://www.animenewsnetwork.com/news/2012-10-14/funimation-to-release-wolf-children-toriko-on-home-video">Funimation to Release &lt;cite&gt;Wolf Children, Toriko&lt;/cite&gt; on Home Video</news>
+<news datetime="2012-10-15T23:00:00Z" href="http://www.animenewsnetwork.com/news/2012-10-15/japan-animation-tv-ranking-october-1-7">Japan's Animation TV Ranking, October 1-7</news>
+<news datetime="2012-10-22T02:00:00Z" href="http://www.animenewsnetwork.com/news/2012-10-21/japan-animation-tv-ranking-october-8-14">Japan's Animation TV Ranking, October 8-14</news>
+<news datetime="2012-10-28T22:00:00Z" href="http://www.animenewsnetwork.com/news/2012-10-28/japan-animation-tv-ranking-october-15-21">Japan's Animation TV Ranking, October 15-21</news>
+<news datetime="2012-10-31T19:15:00Z" href="http://www.animenewsnetwork.com/news/2012-10-31/japan-animation-dvd-ranking-october-22-28">Japan's Animation DVD Ranking, October 22-28</news>
+<news datetime="2012-11-04T22:15:00Z" href="http://www.animenewsnetwork.com/news/2012-11-04/japan-animation-tv-ranking-october-22-28">Japan's Animation TV Ranking, October 22-28</news>
+<news datetime="2012-11-19T18:00:00Z" href="http://www.animenewsnetwork.com/news/2012-11-19/japan-animation-tv-ranking-november-5-11">Japan's Animation TV Ranking, November 5-11</news>
+<news datetime="2012-11-26T03:30:00Z" href="http://www.animenewsnetwork.com/news/2012-11-25/japan-animation-tv-ranking-november-12-18">Japan's Animation TV Ranking, November 12-18</news>
+<news datetime="2012-12-03T01:30:00Z" href="http://www.animenewsnetwork.com/news/2012-12-02/japan-animation-tv-ranking-november-19-25">Japan's Animation TV Ranking, November 19-25</news>
+<news datetime="2012-12-10T04:00:00Z" href="http://www.animenewsnetwork.com/news/2012-12-09/japan-animation-tv-ranking-november-26-december-2">Japan's Animation TV Ranking, November 26-December 2</news>
+<news datetime="2012-12-15T18:56:59Z" href="http://www.animenewsnetwork.com/news/2012-12-15/funimation-delays-blood-c-toriko-sets-by-2-weeks">Funimation Delays &lt;cite&gt;Blood-C, Toriko&lt;/cite&gt; Sets by 2 Weeks</news>
+<news datetime="2012-12-17T01:30:00Z" href="http://www.animenewsnetwork.com/news/2012-12-16/japan-animation-tv-ranking-december-3-9">Japan's Animation TV Ranking, December 3-9</news>
+<news datetime="2012-12-26T17:00:08Z" href="http://www.animenewsnetwork.com/news/2012-12-26/japan-animation-tv-ranking-december-10-16">Japan's Animation TV Ranking, December 10-16</news>
+<news datetime="2012-12-31T04:00:00Z" href="http://www.animenewsnetwork.com/news/2012-12-30/japan-animation-tv-ranking-december-17-23">Japan's Animation TV Ranking, December 17-23</news>
+<news datetime="2013-01-16T22:45:00Z" href="http://www.animenewsnetwork.com/news/2013-01-16/japan-animation-tv-ranking-december-31-january-6">Japan's Animation TV Ranking, December 31-January 6</news>
+<news datetime="2013-01-21T02:00:00Z" href="http://www.animenewsnetwork.com/news/2013-01-20/japan-tv-animation-ranking-january-7-13">Japan's TV Animation Ranking, January 7-13</news>
+<news datetime="2013-01-22T19:30:00Z" href="http://www.animenewsnetwork.com/news/2013-01-22/north-american-anime-manga-releases-january-20-26">North American Anime, Manga Releases, January 20-26</news>
+<news datetime="2013-01-27T22:30:00Z" href="http://www.animenewsnetwork.com/news/2013-01-27/japan-animation-tv-ranking-january-14-20">Japan's Animation TV Ranking, January 14-20</news>
+<news datetime="2013-02-03T07:00:00Z" href="http://www.animenewsnetwork.com/news/2013-02-03/madman-entertainment-announcements-at-wai-con-2013">Madman Entertainment Announcements at Wai-Con 2013</news>
+<news datetime="2013-02-04T00:00:00Z" href="http://www.animenewsnetwork.com/news/2013-02-03/japan-animation-tv-ranking-january-21-27">Japan's Animation TV Ranking, January 21-27</news>
+<news datetime="2013-02-05T23:00:00Z" href="http://www.animenewsnetwork.com/news/2013-02-05/north-american-anime-manga-releases-february-3-9">North American Anime, Manga Releases, February 3-9</news>
+<news datetime="2013-02-11T13:28:03Z" href="http://www.animenewsnetwork.com/news/2013-02-12/madman-entertainment-panel-from-wai-con-2013">Madman Entertainment Panel from Wai-Con 2013</news>
+<news datetime="2013-02-11T03:00:00Z" href="http://www.animenewsnetwork.com/news/2013-02-10/japan-animation-tv-ranking-january-28-february-3">Japan's Animation TV Ranking, January 28-February 3</news>
+<news datetime="2013-02-18T01:00:00Z" href="http://www.animenewsnetwork.com/news/2013-02-17/japan-animation-tv-ranking-february-4-10">Japan's Animation TV Ranking, February 4-10</news>
+<news datetime="2013-02-25T03:00:00Z" href="http://www.animenewsnetwork.com/news/2013-02-24/japan-animation-tv-ranking-february-11-17">Japan's Animation TV Ranking, February 11-17</news>
+<news datetime="2013-03-11T00:30:00Z" href="http://www.animenewsnetwork.com/news/2013-03-10/japan-animation-tv-ranking-february-25-march-3">Japan's Animation TV Ranking, February 25-March 3</news>
+<news datetime="2013-03-19T23:00:00Z" href="http://www.animenewsnetwork.com/news/2013-03-19/north-american-anime-manga-releases-march-17-23">North American Anime, Manga Releases, March 17-23</news>
+<news datetime="2013-03-24T23:00:00Z" href="http://www.animenewsnetwork.com/news/2013-03-24/japan-animation-tv-ranking-march-11-17">Japan's Animation TV Ranking, March 11-17</news>
+<news datetime="2013-04-01T18:45:00Z" href="http://www.animenewsnetwork.com/news/2013-04-01/japan-animation-tv-ranking-march-18-24">Japan's Animation TV Ranking, March 18-24</news>
+<news datetime="2013-04-07T23:00:00Z" href="http://www.animenewsnetwork.com/news/2013-04-07/japan-animation-tv-ranking-march-25-31">Japan's Animation TV Ranking, March 25-31</news>
+<news datetime="2013-04-14T22:35:00Z" href="http://www.animenewsnetwork.com/news/2013-04-14/japan-animation-tv-ranking-april-1-7">Japan's Animation TV Ranking, April 1-7</news>
+<news datetime="2013-04-22T01:00:00Z" href="http://www.animenewsnetwork.com/news/2013-04-21/japan-animation-tv-ranking-april-8-14">Japan's Animation TV Ranking, April 8-14</news>
+<news datetime="2013-04-29T03:30:00Z" href="http://www.animenewsnetwork.com/news/2013-04-28/japan-animation-tv-ranking-april-15-21">Japan's Animation TV Ranking, April 15-21</news>
+<news datetime="2013-05-05T22:00:00Z" href="http://www.animenewsnetwork.com/news/2013-05-05/japan-animation-tv-ranking-april-22-28">Japan's Animation TV Ranking, April 22-28</news>
+<news datetime="2013-05-07T23:30:00Z" href="http://www.animenewsnetwork.com/news/2013-05-07/north-american-anime-manga-releases-may-5-11">North American Anime, Manga Releases, May 5-11</news>
+<news datetime="2013-05-12T18:00:00Z" href="http://www.animenewsnetwork.com/news/2013-05-12/japan-animation-tv-ranking-april-29-may-5">Japan's Animation TV Ranking, April 29-May 5</news>
+<news datetime="2013-05-13T03:50:00Z" href="http://www.animenewsnetwork.com/news/2013-05-12/japanese-box-office-may-4-5">Japanese Box Office, May 4-5</news>
+<news datetime="2013-05-20T01:30:00Z" href="http://www.animenewsnetwork.com/news/2013-05-19/japan-animation-tv-ranking-may-6-12">Japan's Animation TV Ranking, May 6-12</news>
+<news datetime="2013-06-02T21:00:00Z" href="http://www.animenewsnetwork.com/news/2013-06-02/japan-animation-tv-ranking-may-13-19">Japan's Animation TV Ranking, May 13-19</news>
+<news datetime="2013-06-04T23:30:00Z" href="http://www.animenewsnetwork.com/news/2013-06-04/japan-animation-tv-ranking-may-20-26">Japan's Animation TV Ranking, May 20-26</news>
+<news datetime="2013-06-10T02:00:00Z" href="http://www.animenewsnetwork.com/news/2013-06-09/japan-animation-tv-ranking-may-27-june-2">Japan's Animation TV Ranking, May 27-June 2</news>
+<news datetime="2013-06-17T04:00:00Z" href="http://www.animenewsnetwork.com/news/2013-06-17/japan-animation-tv-ranking-june-3-9">Japan's Animation TV Ranking, June 3-9</news>
+<news datetime="2013-06-23T22:35:00Z" href="http://www.animenewsnetwork.com/news/2013-06-23/japan-animation-tv-ranking-june-10-16">Japan's Animation TV Ranking, June 10-16</news>
+<news datetime="2013-06-23T23:35:00Z" href="http://www.animenewsnetwork.com/news/2013-06-23/japanese-box-office-june-15-16">Japanese Box Office, June 15-16</news>
+<news datetime="2013-06-30T21:00:00Z" href="http://www.animenewsnetwork.com/news/2013-06-30/japan-animation-tv-ranking-june-17-23">Japan's Animation TV Ranking, June 17-23</news>
+<news datetime="2013-07-08T03:30:00Z" href="http://www.animenewsnetwork.com/news/2013-07-07/japan-animation-tv-ranking-june-24-30">Japan's Animation TV Ranking, June 24-30</news>
+<news datetime="2013-07-17T00:15:00Z" href="http://www.animenewsnetwork.com/news/2013-07-16/japan-animation-tv-ranking-july-1-7">Japan's Animation TV Ranking, July 1-7</news>
+<news datetime="2013-07-21T23:30:00Z" href="http://www.animenewsnetwork.com/news/2013-07-21/japanese-animation-tv-ranking-june-8-14">Japan's Animation TV Ranking, July 8-14</news>
+<news datetime="2013-07-28T23:45:00Z" href="http://www.animenewsnetwork.com/news/2013-07-28/japan-animation-tv-ranking-july-15-21">Japan's Animation TV Ranking, July 15-21</news>
+<news datetime="2013-08-04T20:00:00Z" href="http://www.animenewsnetwork.com/news/2013-08-04/japan-animation-tv-ranking-july-22-28">Japan's Animation TV Ranking, July 22-28</news>
+<news datetime="2013-08-19T23:15:00Z" href="http://www.animenewsnetwork.com/news/2013-08-19/japan-animation-tv-ranking-august-5-11">Japan's Animation TV Ranking, August 5-11</news>
+<news datetime="2013-08-25T21:30:00Z" href="http://www.animenewsnetwork.com/news/2013-08-25/japan-animation-tv-ranking-august-12-18">Japan's Animation TV Ranking, August 12-18</news>
+<news datetime="2013-09-02T00:30:00Z" href="http://www.animenewsnetwork.com/news/2013-09-01/japan-animation-tv-ranking-august-19-25">Japan's Animation TV Ranking, August 19-25</news>
+<news datetime="2013-09-09T02:00:00Z" href="http://www.animenewsnetwork.com/news/2013-09-08/japan-animation-tv-ranking-august-26-september-1">Japan's Animation TV Ranking, August 26-September 1</news>
+<news datetime="2013-09-17T00:00:00Z" href="http://www.animenewsnetwork.com/news/2013-09-16/japan-animation-tv-ranking-september-2-8">Japan's Animation TV Ranking, September 2-8</news>
+<news datetime="2013-09-23T07:00:00Z" href="http://www.animenewsnetwork.com/news/2013-09-23/japan-animation-tv-ranking-september-9-15">Japan's Animation TV Ranking, September 9-15</news>
+<news datetime="2013-09-30T02:05:00Z" href="http://www.animenewsnetwork.com/news/2013-09-29/japan-animation-tv-ranking-september-16-22">Japan's Animation TV Ranking, September 16-22</news>
+<news datetime="2013-10-07T02:00:00Z" href="http://www.animenewsnetwork.com/news/2013-10-06/japan-animation-tv-ranking-september-23-29">Japan's Animation TV Ranking, September 23-29</news>
+<news datetime="2013-10-21T02:00:00Z" href="http://www.animenewsnetwork.com/news/2013-10-20/japan-animation-tv-ranking-october-7-13">Japan's Animation TV Ranking, October 7-13</news>
+<news datetime="2013-11-04T02:00:00Z" href="http://www.animenewsnetwork.com/news/2013-11-03/japan-animation-tv-ranking-october-21-27">Japan's Animation TV Ranking, October 21-27</news>
+<news datetime="2013-11-10T20:00:00Z" href="http://www.animenewsnetwork.com/news/2013-11-10/japan-animation-tv-ranking-october-28-november-3">Japan's Animation TV Ranking, October 28-November 3</news>
+<news datetime="2013-11-14T23:30:00Z" href="http://www.animenewsnetwork.com/news/2013-11-14/crunchyroll-to-stream-toriko-anime">Crunchyroll to Stream &lt;cite&gt;Toriko&lt;/cite&gt; Anime</news>
+<news datetime="2013-12-02T10:25:00Z" href="http://www.animenewsnetwork.com/news/2013-12-02/japan-animation-tv-ranking-november-18-24">Japan's Animation TV Ranking, November 18-24</news>
+<news datetime="2013-12-08T23:00:00Z" href="http://www.animenewsnetwork.com/news/2013-12-08/japan-animation-tv-ranking-november-25-december-1">Japan's Animation TV Ranking, November 25-December 1</news>
+<news datetime="2013-12-16T15:25:00Z" href="http://www.animenewsnetwork.com/news/2013-12-16/japan-animation-tv-ranking-december-2-8">Japan's Animation TV Ranking, December 2-8</news>
+<news datetime="2013-12-23T05:15:00Z" href="http://www.animenewsnetwork.com/news/2013-12-23/japan-animation-tv-ranking-december-9-15">Japan's Animation TV Ranking, December 9-15</news>
+<news datetime="2014-01-01T21:30:00Z" href="http://www.animenewsnetwork.com/news/2014-01-01/japan-animation-tv-ranking-december-16-22">Japan's Animation TV Ranking, December 16-22</news>
+<news datetime="2014-01-20T01:00:00Z" href="http://www.animenewsnetwork.com/news/2014-01-19/japan-animation-tv-ranking-december-30-january-5">Japan's Animation TV Ranking, December 30-January 5</news>
+<news datetime="2014-01-20T03:00:00Z" href="http://www.animenewsnetwork.com/news/2014-01-19/japan-animation-tv-ranking-january-6-12">Japan's Animation TV Ranking, January 6-12</news>
+<news datetime="2014-02-02T20:00:00Z" href="http://www.animenewsnetwork.com/news/2014-02-02/japan-animation-tv-ranking-january-20-26">Japan's Animation TV Ranking, January 20-26</news>
+<news datetime="2014-02-16T22:56:27Z" href="http://www.animenewsnetwork.com/news/2014-02-16/japan-animation-tv-ranking/february-3-9">Japan's Animation TV Ranking: February 3-9</news>
+<news datetime="2014-02-21T16:10:00Z" href="http://www.animenewsnetwork.com/news/2014-02-21/toriko-anime-to-end-on-march-30-after-3-years">&lt;cite&gt;Toriko&lt;/cite&gt; Anime to End on March 30 After 3 Years</news>
+<news datetime="2014-02-23T21:30:00Z" href="http://www.animenewsnetwork.com/news/2014-02-23/japanese-anime-tv-ranking/february-10-16">Japan's Animation TV Ranking, February 10-16</news>
+<news datetime="2014-03-03T03:30:00Z" href="http://www.animenewsnetwork.com/news/2014-03-02/japanese-anime-tv-ranking/february-17-23">Japan's Animation TV Ranking, February 17-23</news>
+<news datetime="2014-04-03T22:30:13Z" href="http://www.animenewsnetwork.com/news/2014-04-03/japan-animation-tv-ranking/march-17-23">Japan's Animation TV Ranking, March 17-23</news>
+<news datetime="2014-04-01T03:54:48Z" href="http://www.animenewsnetwork.com/news/2014-03-31/crunchyroll-adds-toriko-catalog-colormail-and-otogi-soushi-motion-comics">Crunchyroll Adds &lt;cite&gt;Toriko&lt;/cite&gt; Catalog, &lt;cite&gt;Colormail&lt;/cite&gt; &amp; &lt;cite&gt;Otogi-Soushi&lt;/cite&gt; Motion Comics</news>
+<news datetime="2014-06-18T15:00:00Z" href="http://www.animenewsnetwork.com:/news/2014-06-19/leo-ieiri-performs-2nd-dragon-ball-z-kai-anime-ending-theme/.75678">Leo Ieiri Performs 2nd &lt;cite&gt;Dragon Ball Z Kai&lt;/cite&gt; Anime's Ending Theme</news>
+<news datetime="2014-08-26T22:00:00Z" href="http://www.animenewsnetwork.com:/news/2014-08-26/north-american-anime-manga-releases-august-24-30/.78058">North American Anime, Manga Releases, August 24-30</news>
+<news datetime="2014-10-19T05:00:00Z" href="http://www.animenewsnetwork.com:/news/2014-10-19/crunchyroll-adds-2-one-piece-x-toriko-crossover-specials/.80088">Crunchyroll Adds 2 &lt;cite&gt;One Piece x Toriko&lt;/cite&gt; Crossover Specials</news>
+<news datetime="2014-11-05T02:30:00Z" href="http://www.animenewsnetwork.com:/news/2014-11-04/north-american-anime-manga-releases-november-2-8/.80658">North American Anime, Manga Releases,  November 2-8</news>
+<staff gid="2671611059"><task>Series Director</task><person id="1238">Hidehito Ueda</person></staff>
+<staff gid="2367416061"><task>Series Director</task><person id="49260">Akifumi Zako</person></staff>
+<staff gid="1667196694"><task>Series Composition</task><person id="75770">Isao Murayama</person></staff>
+<staff gid="2869980799"><task>Script</task><person id="75770">Isao Murayama</person></staff>
+<staff gid="2973721860"><task>Script</task><person id="80648">Tomoko Taguchi</person></staff>
+<staff gid="3129677617"><task>Script</task><person id="110585">Yōichi Takahashi</person></staff>
+<staff gid="1871479586"><task>Storyboard</task><person id="1238">Hidehito Ueda</person></staff>
+<staff gid="1496445338"><task>Storyboard</task><person id="2232">Tetsuya Endo</person></staff>
+<staff gid="2189482057"><task>Storyboard</task><person id="9447">Kônosuke Uda</person></staff>
+<staff gid="1554212461"><task>Storyboard</task><person id="9464">Junji Shimizu</person></staff>
+<staff gid="4050790773"><task>Storyboard</task><person id="10006">Toshiaki Komura</person></staff>
+<staff gid="1101142311"><task>Storyboard</task><person id="10709">Yukio Nishimoto</person></staff>
+<staff gid="792110746"><task>Storyboard</task><person id="13056">Takuya Wada</person></staff>
+<staff gid="2461217013"><task>Storyboard</task><person id="13647">Kazuhisa Takenouchi</person></staff>
+<staff gid="1409790049"><task>Storyboard</task><person id="13655">Masahiro Hosoda</person></staff>
+<staff gid="3218299320"><task>Storyboard</task><person id="14592">Makoto Fuchigami</person></staff>
+<staff gid="1860636303"><task>Storyboard</task><person id="18292">Naotoshi Shida</person></staff>
+<staff gid="1730650242"><task>Storyboard</task><person id="25784">Hiroyuki Kakudou</person></staff>
+<staff gid="2431620399"><task>Storyboard</task><person id="29895">Naoyuki Itou</person></staff>
+<staff gid="2332820919"><task>Storyboard</task><person id="39435">Keiichi Honda</person></staff>
+<staff gid="463954987"><task>Storyboard</task><person id="41372">Yutaka Nakashima</person></staff>
+<staff gid="1102762846"><task>Storyboard</task><person id="41811">Yukihiko Nakao</person></staff>
+<staff gid="2573595057"><task>Storyboard</task><person id="49260">Akifumi Zako</person></staff>
+<staff gid="3199944384"><task>Storyboard</task><person id="54025">Iku Ishiguro</person></staff>
+<staff gid="3343304994"><task>Storyboard</task><person id="65739">Toshinori Fukuzawa</person></staff>
+<staff gid="1795606988"><task>Storyboard</task><person id="89837">Hiroshi Ikehata</person></staff>
+<staff gid="1578649930"><task>Storyboard</task><person id="94753">Kōhei Kureta</person></staff>
+<staff gid="1642788087"><task>Storyboard</task><person id="100398">Tomoya Tanaka</person></staff>
+<staff gid="313668555"><task>Storyboard</task><person id="107007">Koheita Kadokura</person></staff>
+<staff gid="2156984603"><task>Storyboard</task><person id="111373">Hiroyuki Satoh</person></staff>
+<staff gid="1744621325"><task>Episode Director</task><person id="1238">Hidehito Ueda</person></staff>
+<staff gid="2516918844"><task>Episode Director</task><person id="2232">Tetsuya Endo</person></staff>
+<staff gid="2171747386"><task>Episode Director</task><person id="9447">Kônosuke Uda</person></staff>
+<staff gid="235087718"><task>Episode Director</task><person id="9464">Junji Shimizu</person></staff>
+<staff gid="597654429"><task>Episode Director</task><person id="10006">Toshiaki Komura</person></staff>
+<staff gid="1677906689"><task>Episode Director</task><person id="13655">Masahiro Hosoda</person></staff>
+<staff gid="2863264800"><task>Episode Director</task><person id="24181">Hideki Hiroshima</person></staff>
+<staff gid="2379580816"><task>Episode Director</task><person id="25784">Hiroyuki Kakudou</person></staff>
+<staff gid="3921417756"><task>Episode Director</task><person id="29895">Naoyuki Itou</person></staff>
+<staff gid="2018276479"><task>Episode Director</task><person id="41372">Yutaka Nakashima</person></staff>
+<staff gid="1446115794"><task>Episode Director</task><person id="41811">Yukihiko Nakao</person></staff>
+<staff gid="2152694679"><task>Episode Director</task><person id="49260">Akifumi Zako</person></staff>
+<staff gid="3238861933"><task>Episode Director</task><person id="54025">Iku Ishiguro</person></staff>
+<staff gid="3413301917"><task>Episode Director</task><person id="65739">Toshinori Fukuzawa</person></staff>
+<staff gid="3145810053"><task>Episode Director</task><person id="94753">Kōhei Kureta</person></staff>
+<staff gid="2093146930"><task>Episode Director</task><person id="100398">Tomoya Tanaka</person></staff>
+<staff gid="2501642097"><task>Episode Director</task><person id="111373">Hiroyuki Satoh</person></staff>
+<staff gid="2386695697"><task>Music</task><person id="58913">Hiromi Mizutani</person></staff>
+<staff gid="3834215557"><task>Original creator</task><person id="12943">Mitsutoshi Shimabukuro</person></staff>
+<staff gid="1313036700"><task>Character Design</task><person id="3028">Hisashi Kagawa</person></staff>
+<staff gid="2513324503"><task>Character Design</task><person id="18927">Masahiro Shimanuki</person></staff>
+<staff gid="2188069877"><task>Art</task><person id="4874">Masanobu Nomura</person></staff>
+<staff gid="2922356361"><task>Art</task><person id="92713">Shinichi Imano</person></staff>
+<staff gid="1223806997"><task>Chief Animation Director</task><person id="3028">Hisashi Kagawa</person></staff>
+<staff gid="3028829463"><task>Chief Animation Director</task><person id="18931">Kazuya Hisada</person></staff>
+<staff gid="2134859093"><task>Animation Director</task><person id="3028">Hisashi Kagawa</person></staff>
+<staff gid="1029276356"><task>Animation Director</task><person id="3301">Yukiko Nakatani</person></staff>
+<staff gid="1108624671"><task>Animation Director</task><person id="9494">Tatsuya Oka</person></staff>
+<staff gid="3889216447"><task>Animation Director</task><person id="11837">Hideki Hashimoto</person></staff>
+<staff gid="1222087728"><task>Animation Director</task><person id="13935">Tadayoshi Yamamuro</person></staff>
+<staff gid="3350820213"><task>Animation Director</task><person id="15185">Yumiko Ishii</person></staff>
+<staff gid="2577929270"><task>Animation Director</task><person id="15694">Ichiro Ogawa</person></staff>
+<staff gid="2062335827"><task>Animation Director</task><person id="18927">Masahiro Shimanuki</person></staff>
+<staff gid="1721289563"><task>Animation Director</task><person id="18990">Naoki Tate</person></staff>
+<staff gid="1185011491"><task>Animation Director</task><person id="20838">Shiro Izumi</person></staff>
+<staff gid="3337690080"><task>Animation Director</task><person id="25697">Katsumi Tamegai</person></staff>
+<staff gid="2640205190"><task>Animation Director</task><person id="26748">Tomohiro Koyama</person></staff>
+<staff gid="2649243565"><task>Animation Director</task><person id="27537">Yuki Hayashi</person></staff>
+<staff gid="3056151325"><task>Animation Director</task><person id="30342">Yoshiya Yamamoto</person></staff>
+<staff gid="3769002837"><task>Animation Director</task><person id="32142">Katsunori Enokimoto</person></staff>
+<staff gid="2193805032"><task>Animation Director</task><person id="35605">Masakazu Yamazaki</person></staff>
+<staff gid="2745864044"><task>Animation Director</task><person id="37308">Yuuji Hakamada</person></staff>
+<staff gid="2032760299"><task>Animation Director</task><person id="37373">Naoaki Houjou</person></staff>
+<staff gid="279063638"><task>Animation Director</task><person id="39435">Keiichi Honda</person></staff>
+<staff gid="1023141264"><task>Animation Director</task><person id="41905">Keiichi Ichikawa</person></staff>
+<staff gid="1119644835"><task>Animation Director</task><person id="45671">Kenji Matsuoka</person></staff>
+<staff gid="2897868096"><task>Animation Director</task><person id="46702">Noriyoshi Yamazaki</person></staff>
+<staff gid="1258247777"><task>Animation Director</task><person id="60208">Manabu Nii</person></staff>
+<staff gid="1059521493"><task>Animation Director</task><person id="64389">Kenji Yokoyama</person></staff>
+<staff gid="2912788996"><task>Animation Director</task><person id="76999">Akane Umezu</person></staff>
+<staff gid="1620851105"><task>Animation Director</task><person id="77232">Shunryō Yamamura</person></staff>
+<staff gid="2455101921"><task>Animation Director</task><person id="78110">Kana Miyai</person></staff>
+<staff gid="2665795977"><task>Animation Director</task><person id="84999">Emi Hirano</person></staff>
+<staff gid="2295683044"><task>Animation Director</task><person id="100535">Ryō Ōnishi</person></staff>
+<staff gid="2768414746"><task>Animation Director</task><person id="104861">Kōdai Watanabe</person></staff>
+<staff gid="46721028"><task>Art design</task><person id="3619">Akihiro Hirasawa</person></staff>
+<staff gid="1788003732"><task>Art design</task><person id="4874">Masanobu Nomura</person></staff>
+<staff gid="3622002765"><task>Art design</task><person id="75979">Kaoru Aoki</person></staff>
+<staff gid="423746175"><task>Art design</task><person id="96282">Shinichi Konno</person></staff>
+<staff gid="761543536"><task>Art design</task><person id="109400">Saaya Kaneshiro</person></staff>
+<staff gid="2371431887"><task>Producer</task><person id="16746">Kazuya Watanabe</person></staff>
+<staff gid="3022143557"><task>Producer</task><person id="18021">Naoko Satou</person></staff>
+<staff gid="2181097782"><task>Producer</task><person id="63383">Takashi Washio</person></staff>
+<staff gid="1953901886"><task>Producer</task><person id="74625">Makoto Seino</person></staff>
+<staff gid="2471841425"><task>Producer</task><person id="117321">Arisu Takagi</person></staff>
+<cast gid="3173590817" lang="EN"><role>Acacia</role><person id="1116">Chuck Huber</person></cast>
+<cast gid="3080772886" lang="EN"><role>Grinpatch</role><person id="4213">Chris Rager</person></cast>
+<cast gid="2647709861" lang="EN"><role>Midora</role><person id="7108">Patrick Seitz</person></cast>
+<cast gid="1579993101" lang="EN"><role>Tommyrod</role><person id="7734">Greg Ayres</person></cast>
+<cast gid="1892176668" lang="EN"><role>Johannes</role><person id="29209">Robert McCollum</person></cast>
+<cast gid="2648244446" lang="EN"><role>Tom</role><person id="30706">Jerome Fifty-Seven</person></cast>
+<cast gid="781285218" lang="EN"><role>Rin</role><person id="31217">Leah Clark</person></cast>
+<cast gid="2222800142" lang="EN"><role>Toriko</role><person id="42612">Ian Sinclair</person></cast>
+<cast gid="1489269711" lang="EN"><role>Ichiryu</role><person id="43217">R Bruce Elliott</person></cast>
+<cast gid="3265351468" lang="EN"><role>Setsuno</role><person id="44888">Juli Erickson</person></cast>
+<cast gid="2861749688" lang="EN"><role>Komatsu</role><person id="58056">Josh Grelle</person></cast>
+<cast gid="2644749781" lang="EN"><role>Starjun</role><person id="59221">Scott Freeman</person></cast>
+<cast gid="317065185" lang="EN"><role>Teppei</role><person id="62650">David Wald</person></cast>
+<cast gid="1746624862" lang="EN"><role>Cruppo</role><person id="70207">Heather Walker</person></cast>
+<cast gid="2818458759" lang="EN"><role>Tina</role><person id="107863">Morgan Garrett</person></cast>
+<cast gid="2417820579" lang="EN"><role>Coco</role><person id="110389">Jarrod Greene</person></cast>
+<cast gid="944792908" lang="EN"><role>Narrator</role><person id="115171">Chris Guerrero</person></cast>
+<cast gid="3134818852" lang="EN"><role>Sunny</role><person id="115172">Aaron Roberts</person></cast>
+<cast gid="1920196121" lang="EN"><role>Jiro</role><person id="116523">Philip Weber</person></cast>
+<cast gid="3670771681" lang="ES"><role>mansam</role><person id="23780">Jorge Ornelas</person></cast>
+<cast gid="1114288190" lang="ES"><role>sunny</role><person id="24088">Jose Gilberto Vilchis</person></cast>
+<cast gid="918651740" lang="ES"><role>Teppei</role><person id="24144">Edson Matus</person></cast>
+<cast gid="1719273407" lang="ES"><role>bei</role><person id="24155">Gabriel Ortiz</person></cast>
+<cast gid="1815515404" lang="ES"><role>Komatsu</role><person id="24163">Ricardo Bautista</person></cast>
+<cast gid="3681264833" lang="ES"><role>Aimaru</role><person id="48551">Arturo Castañeda</person></cast>
+<cast gid="1535840346" lang="ES"><role>Match</role><person id="53113">Christian Strempler</person></cast>
+<cast gid="241600399" lang="ES"><role>Barrygamon</role><person id="53229">Leonardo García</person></cast>
+<cast gid="2691087709" lang="ES"><role>zonge</role><person id="71283">Salvador Reyes</person></cast>
+<cast gid="3876045560" lang="ES"><role>Toriko</role><person id="84253">Dafnis Fernández</person></cast>
+<cast gid="1994476198" lang="ES"><role>rin</role><person id="97431">Karen Vallejo</person></cast>
+<cast gid="1596614836" lang="ES"><role>johannes</role><person id="98157">Carlo Vázquez</person></cast>
+<cast gid="1338155270" lang="ES"><role>coco</role><person id="98217">Eduardo Ramírez</person></cast>
+<cast gid="3064534997" lang="ES"><role>boogie woods</role><person id="98752">Carlos Torres</person></cast>
+<cast gid="613951980" lang="ES"><role>starjun</role><person id="127189">jorge Roldán</person></cast>
+<cast gid="2037787351" lang="ES"><role>kuruppo</role><person id="127190">rosa Martínez</person></cast>
+<cast gid="3231669690" lang="FR"><role>Toriko</role><person id="40006">Antoine Nouel</person></cast>
+<cast gid="2772566432" lang="FR"><role>tommyrod</role><person id="45719">Vincent De Bouard</person></cast>
+<cast gid="1970587448" lang="FR"><role>match</role><person id="53591">Emmanuel Karsen</person></cast>
+<cast gid="1821903460" lang="FR"><role>Komatsu</role><person id="68049">Dimitri Rougeul</person></cast>
+<cast gid="3562440253" lang="JA"><role>Tina</role><person id="436">Nana Mizuki</person></cast>
+<cast gid="998062307" lang="JA"><role>Tommyrod</role><person id="443">Akira Ishida</person></cast>
+<cast gid="2858075935" lang="JA"><role>Acacia</role><person id="490">Hideyuki Tanaka</person></cast>
+<cast gid="439510451" lang="JA"><role>Stajyun</role><person id="659">Shinichiro Miki</person></cast>
+<cast gid="1628238911" lang="JA"><role>Chiyo</role><person id="663">Chika Sakamoto</person></cast>
+<cast gid="432882514" lang="JA"><role>Jirou</role><person id="692">Toshiyuki Morikawa</person></cast>
+<cast gid="1843274610" lang="JA"><role>Toriko</role><person id="718">Ryotaro Okiayu</person></cast>
+<cast gid="2835690075" lang="JA"><role>Tengu Brunch</role><person id="780">Katsuyuki Konishi</person></cast>
+<cast gid="2124897760" lang="JA"><role>Livebearer</role><person id="832">Akio Ohtsuka</person></cast>
+<cast gid="2811737450" lang="JA"><role>Mansam</role><person id="849">Juurouta Kosugi</person></cast>
+<cast gid="3107797096" lang="JA"><role>Joie</role><person id="1019">Keiichi Nanba</person></cast>
+<cast gid="258803109" lang="JA"><role>Sani</role><person id="1045">Mitsuo Iwata</person></cast>
+<cast gid="2462160280" lang="JA"><role>Ōtake</role><person id="1097">Hiro Yuuki</person></cast>
+<cast gid="1789022056" lang="JA"><role>Ichiryu</role><person id="1177">Kenyuu Horiuchi</person></cast>
+<cast gid="1187764242" lang="JA"><role>Chin Chinchin</role><person id="1311">Yuusaku Yara</person></cast>
+<cast gid="2071070485" lang="JA"><role>Teppei</role><person id="1456">Masaya Onosaka</person></cast>
+<cast gid="3593273901" lang="JA"><role>Yosaku</role><person id="1669">Banjou Ginga</person></cast>
+<cast gid="2767901778" lang="JA"><role>Coco</role><person id="5039">Takahiro Sakurai</person></cast>
+<cast gid="1650206653" lang="JA"><role>Komatsu</role><person id="5108">Romi Park</person></cast>
+<cast gid="2005738381" lang="JA"><role>Grinpatch</role><person id="6902">Yuji Mitsuya</person></cast>
+<cast gid="1631647437" lang="JA"><role>Bei</role><person id="8074">Masahito Yabe</person></cast>
+<cast gid="335455564" lang="JA"><role>Setsuno</role><person id="13603">Sakiko Uran</person></cast>
+<cast gid="1300385939" lang="JA"><role>Johannes</role><person id="14440">Shinji Kawada</person></cast>
+<cast gid="2772317930" lang="JA"><role>Midora</role><person id="21471">Masaki Terasoma</person></cast>
+<cast gid="2366578633" lang="JA"><role>Narrator</role><person id="25067">Kenjiro Ishimaru</person></cast>
+<cast gid="3396497430" lang="JA"><role>Kruppoh</role><person id="25965">Kokoro Kikuchi</person></cast>
+<cast gid="1901044999" lang="JA"><role>Tom</role><person id="28816">Tetsuya Kakihara</person></cast>
+<cast gid="3089466673" lang="JA"><role>Zebra</role><person id="54609">Kenji Matsuda</person></cast>
+<cast gid="3004363902" lang="JA"><role>Rin</role><person id="100861">Asami Tano</person></cast>
+<cast gid="610801699" lang="KO"><role>Komatsu</role><person id="73367">Jeong-Hwa Yang</person></cast>
+<cast gid="3298659473" lang="KO"><role>Toriko</role><person id="96183">Wan-Gyeong Seong</person></cast>
+<cast gid="2198014426" lang="TL"><role>Toriko</role><person id="38929">Montreal Repuyan</person></cast>
+<cast gid="1779054345" lang="TL"><role>Coco</role><person id="38935">Louie Paraboles</person></cast>
+<cast gid="2052131090" lang="TL"><role>Narrator</role><person id="38936">Jefferson Utanes</person></cast>
+<cast gid="2086928618" lang="TL"><role>Sani</role><person id="38936">Jefferson Utanes</person></cast>
+<cast gid="2535053676" lang="TL"><role>Rin</role><person id="39030">Rona Aguilar</person></cast>
+<cast gid="1366691889" lang="TL"><role>Komatsu</role><person id="142391">Kris Miranda</person></cast>
+<credit gid="2420493073"><task>Animation Production</task><company id="145">Toei Animation</company></credit>
+<credit gid="1464220424"><task>Production</task><company id="145">Toei Animation</company></credit>
+<credit gid="2409647829"><task>Production</task><company id="162">Fuji TV</company></credit>
+<credit gid="2024340257"><task>Production</task><company id="909">Shueisha</company></credit>
+<credit gid="934098279"><task>Production</task><company id="1540">Yomiko Advertising, Inc.</company></credit></anime></ann>

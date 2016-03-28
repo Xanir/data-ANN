@@ -1,0 +1,464 @@
+<ann><anime id="885" gid="1183223824" type="TV" name="Lupin III: Part II" precision="TV" generated-on="2016-03-26T15:22:13Z">
+<related-prev rel="sequel of" id="886"/>
+<related-prev rel="part of" id="3053"/>
+<related-next id="887" rel="sequel"/>
+<related-next id="15319" rel="remake"/>
+<info gid="1422922025" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A885-187.jpg" width="200" height="193"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A885-187.jpg" width="200" height="193"/></info>
+<info gid="1539521910" type="Main title" lang="EN">Lupin III: Part II</info>
+<info gid="2701659378" type="Alternative title" lang="FR">Edgar de la Cambriole</info>
+<info gid="1169475626" type="Alternative title" lang="FR">Edgar,Detective Cambrioleur</info>
+<info gid="1920467661" type="Alternative title" lang="IT">Le nuove avventure di Lupin III</info>
+<info gid="2412930096" type="Alternative title" lang="EN">Lupin III's Greatest Capers</info>
+<info gid="1488742913" type="Alternative title" lang="EN">Lupin III: Tales of the Wolf</info>
+<info gid="244401528" type="Alternative title" lang="EN">New Lupin III</info>
+<info gid="1518616669" type="Alternative title" lang="JA">Rupan Sansei: Part II</info>
+<info gid="846425756" type="Alternative title" lang="JA">Shin Lupin III</info>
+<info gid="3378605110" type="Alternative title" lang="JA">ルパン三世 - 新シリーズ</info>
+<info gid="2875890778" type="Genres">adventure</info>
+<info gid="906896963" type="Genres">comedy</info>
+<info gid="1141073893" type="Genres">science fiction</info>
+<info gid="2706933834" type="Objectionable content">TA</info>
+<info gid="2952852734" type="Plot Summary">Lupin III chronicles the adventures of Arsene Lupin III, the world's greatest thief, and his partners in crime: master marksman Daisuke Jigen, beautiful and scheming Fujiko Mine and stoic samurai Goemon Ishikawa XIII. Lupin and his gang travel around the globe in search of the world's greatest treasures and riches and always keeping one step ahead of the tireless Inspector Zenigata, who has vowed to bring Lupin to justice.</info>
+<info gid="684487185" type="Running time">half hour</info>
+<info gid="1967906460" type="Number of episodes">155</info>
+<info gid="2162774612" type="Vintage">1977-10-03 to 1980-10-06</info>
+<info gid="2769940225" type="Vintage">1981 (Italy)</info>
+<info gid="953471356" type="Vintage">2003-01-14 to 2003-06-02 (U.S. [adultswim] {Eps. 1-2, &amp; 4-27 only})</info>
+<info gid="2906467252" type="Vintage">2007-05-07 to 2007-07-20 (G4TechTV Canada, Anime Current - Eps. 1-52)</info>
+<info gid="2952292189" type="Opening Theme">#1: &quot;THEME FROM LUPIN III (Non-vocal)&quot; by Yuji Ohno (eps 1-26)</info>
+<info gid="2902137404" type="Opening Theme">#2: &quot;THEME FROM LUPIN III&quot; by Peatmac Junior (eps 27-51)</info>
+<info gid="2510491950" type="Opening Theme">#3: &quot;LUPIN III '79 (Non-vocal)&quot; by Yuji Ohno (eps 52-103)</info>
+<info gid="3692990127" type="Opening Theme">#4: &quot;LUPIN III '80 (Non-vocal)&quot; by Yuji Ohno (eps 104-155)</info>
+<info gid="2345791399" type="Ending Theme">#1: &quot;LOVE THEME (Non-vocal)&quot; by Yuji Ohno (eps 1-26)</info>
+<info gid="1320732208" type="Ending Theme">#2: &quot;LOVE THEME&quot; by Ichiro Mizuki (eps 27-51)</info>
+<info gid="1123832393" type="Ending Theme">#3: &quot;LOVE SQUALL&quot; by Sandi A.Hohn (eps 52-103)</info>
+<info gid="2234920093" type="Ending Theme">#4: &quot;LOVE IS EVERYTHING&quot; by Noboru Kimura (eps 104-155)</info>
+<info gid="1796284417" type="Official website" lang="JA" href="http://columbia.jp/lupin/">Columbia Music Entertainment's Official &lt;i&gt;Lupin III&lt;/i&gt; Soundtrack Page</info>
+<info gid="1326499730" type="Official website" lang="JA" href="http://lupin-3rd.net/">Lupin the 3rd Network</info>
+<info gid="1521707053" type="Official website" lang="JA" href="http://www.vap.co.jp/lupin/index.html">VAP's Official &lt;i&gt;Lupin III&lt;/i&gt; Homepage</info>
+<ratings nb_votes="382" weighted_score="7.4827" bayesian_score="7.48402"/>
+<episode num="1">
+<title gid="2411209740" lang="EN">The Dashing Entrance of Lupin III</title></episode>
+<episode num="2">
+<title gid="1061988596" lang="EN">A Bouquet of Bills Blossoms in Rio's Sunset</title></episode>
+<episode num="3">
+<title gid="2959719275" lang="EN">Hitler's Legacy</title></episode>
+<episode num="4">
+<title gid="1298659350" lang="EN">I Can Hear Nessie's Song</title></episode>
+<episode num="5">
+<title gid="373827279" lang="EN">I'll Tell You How to Transport Gold Bullion</title></episode>
+<episode num="6">
+<title gid="1435886611" lang="EN">Is the Leaning Tower of Pisa Standing?</title></episode>
+<episode num="7">
+<title gid="2961969468" lang="EN">Tutankhamen's 3000-Year Curse</title></episode>
+<episode num="8">
+<title gid="3620385963" lang="EN">The Venice Superexpress</title></episode>
+<episode num="9">
+<title gid="2014905517" lang="EN">What Do You Think of Ukiyoe Blues?</title></episode>
+<episode num="10">
+<title gid="1633794609" lang="EN">Steal File M123</title></episode>
+<episode num="11">
+<title gid="2026495468" lang="EN">Wager on the Monaco GP</title></episode>
+<episode num="12">
+<title gid="2906334031" lang="EN">A Present for the President</title></episode>
+<episode num="13">
+<title gid="1197016812" lang="EN">The Great San Francisco Chase</title></episode>
+<episode num="14">
+<title gid="1477300700" lang="EN">The Great Caribbean Adventure</title></episode>
+<episode num="15">
+<title gid="3361343273" lang="EN">The Great Detectives Take to the Sky</title></episode>
+<episode num="16">
+<title gid="2574068943" lang="EN">The Two Faces of Lupin</title></episode>
+<episode num="17">
+<title gid="2957016812" lang="EN">Go for the Oildollar!</title></episode>
+<episode num="18">
+<title gid="3199134767" lang="EN">Black Panther</title></episode>
+<episode num="19">
+<title gid="1718913877" lang="EN">Can You Open the Ten-Year Vault?</title></episode>
+<episode num="20">
+<title gid="2123953727" lang="EN">Lupin Up Against the Wall</title></episode>
+<episode num="21">
+<title gid="2904203727" lang="EN">Goemon's Revenge</title></episode>
+<episode num="22">
+<title gid="3155500730" lang="EN">Search the House of Mystery Women</title></episode>
+<episode num="23">
+<title gid="2212705129" lang="EN">Witch of the Fourth Dimension</title></episode>
+<episode num="24">
+<title gid="2404562970" lang="EN">The Great Thief Nezumi-Koozoo Makes his Appearance</title></episode>
+<episode num="25">
+<title gid="560602101" lang="EN">The Coming of the Killer Iron Lizards</title></episode>
+<episode num="26">
+<title gid="1449611923" lang="EN">The Rose and the Pistol</title></episode>
+<episode num="27">
+<title gid="2119137231" lang="EN">Where is the Cinderella Stamp?</title></episode>
+<episode num="28">
+<title gid="2999174281" lang="EN">Lady Detective Melon</title></episode>
+<episode num="29">
+<title gid="2651179254" lang="EN">The Electroshock Pigeon Operation</title></episode>
+<episode num="30">
+<title gid="1080445581" lang="EN">The Wind is Hot in Morocco</title></episode>
+<episode num="31">
+<title gid="71482038" lang="EN">Face the Midnight Sun and Fire</title></episode>
+<episode num="32">
+<title gid="1090483512" lang="EN">Lupin Dies Twice</title></episode>
+<episode num="33">
+<title gid="756015309" lang="EN">To Whom Does Orion's Crown Belong?</title></episode>
+<episode num="34">
+<title gid="1802614157" lang="EN">Lupin Becomes a Vampire</title></episode>
+<episode num="35">
+<title gid="3413070568" lang="EN">Chase the Gorilla Gang</title></episode>
+<episode num="36">
+<title gid="1089404993" lang="EN">Expose the Secret of Tsukikagejoo</title></episode>
+<episode num="37">
+<title gid="1596196878" lang="EN">The Buried Treasure of Genghis Khan</title></episode>
+<episode num="38">
+<title gid="1818116962" lang="EN">The Sweet ICPO Trap</title></episode>
+<episode num="39">
+<title gid="2754925482" lang="EN">A Diamond Disappeared in the Hong Kong Night Sky</title></episode>
+<episode num="40">
+<title gid="2649552246" lang="EN">Operation Missilejack</title></episode>
+<episode num="41">
+<title gid="2843214076" lang="EN">Find Princess Kaguya's Treasure</title></episode>
+<episode num="42">
+<title gid="2889849835" lang="EN">Lupin Becomes a Bride</title></episode>
+<episode num="43">
+<title gid="2369736486" lang="EN">Where Are Peking Man's ones?</title></episode>
+<episode num="44">
+<title gid="2062867332" lang="EN">The Vanishing Special Armored Car</title></episode>
+<episode num="45">
+<title gid="2461075058" lang="EN">Killing is the Smell of Wine</title></episode>
+<episode num="46">
+<title gid="866148383" lang="EN">Lupin Will Fetch a High Price</title></episode>
+<episode num="47">
+<title gid="1478617711" lang="EN">Her Majesty's Slipshod Inspectors</title></episode>
+<episode num="48">
+<title gid="2665484855" lang="EN">Lupin Laughs While the Alarm Bell Rings</title></episode>
+<episode num="49">
+<title gid="2349973391" lang="EN">A Pretty Woman Has Venom</title></episode>
+<episode num="50">
+<title gid="1282661902" lang="EN">Lupin, Whom I Loved (Part 1)</title></episode>
+<episode num="51">
+<title gid="93285664" lang="EN">Lupin, Whom I Loved (Part 2)</title></episode>
+<episode num="52">
+<title gid="2348032603" lang="EN">Emmanuelle is an Angel's Whisper</title></episode>
+<episode num="53">
+<title gid="2931146028" lang="EN">The Mad Fantoma Mark III</title></episode>
+<episode num="54">
+<title gid="3403820066" lang="EN">Detective Hanshichi's Ten-Year Promise</title></episode>
+<episode num="55">
+<title gid="1257626959" lang="EN">Falling Cherry Blossoms - The Mysterious Gang of Five (Part 1)</title></episode>
+<episode num="56">
+<title gid="2420000707" lang="EN">Falling Cherry Blossoms - The Mysterious Gang of Five (Part 2)</title></episode>
+<episode num="57">
+<title gid="1968641947" lang="EN">Will It Be the Computer or Lupin?</title></episode>
+<episode num="58">
+<title gid="2052697472" lang="EN">The Border is the Face of Farewell</title></episode>
+<episode num="59">
+<title gid="482983086" lang="EN">The Mysterious World of Madame X</title></episode>
+<episode num="60">
+<title gid="668529122" lang="EN">A Flower of Suicide Blooms in India</title></episode>
+<episode num="61">
+<title gid="1696288830" lang="EN">The Flying Zantetsuken</title></episode>
+<episode num="62">
+<title gid="3572750120" lang="EN">The Sound of the Devil's Bells Calls Lupin</title></episode>
+<episode num="63">
+<title gid="2939969471" lang="EN">A Trap for a Trap!</title></episode>
+<episode num="64">
+<title gid="2292554625" lang="EN">Christmas is in the Hands of the Goddess</title></episode>
+<episode num="65">
+<title gid="2277415656" lang="EN">Lupin's Enemy is Lupin</title></episode>
+<episode num="66">
+<title gid="1774368358" lang="EN">Shooting Orders!!</title></episode>
+<episode num="67">
+<title gid="1920140805" lang="EN">Lupin's Big Saiyuuki</title></episode>
+<episode num="68">
+<title gid="1712328715" lang="EN">Casino Island - Inversions and More Inversions</title></episode>
+<episode num="69">
+<title gid="682110380" lang="EN">The Woman the Old Man Fell in Love With</title></episode>
+<episode num="70">
+<title gid="1247017306" lang="EN">Classic Thieves and Mynah Birds</title></episode>
+<episode num="71">
+<title gid="2777055600" lang="EN">Lupin Vs. the Shinsengumi</title></episode>
+<episode num="72">
+<title gid="1878761700" lang="EN">The Skateboard Murder Mystery</title></episode>
+<episode num="73">
+<title gid="3159760407" lang="EN">Flowers and Storms and a Theives' Race</title></episode>
+<episode num="74">
+<title gid="2346849196" lang="EN">The Terrifying Chameleon Man</title></episode>
+<episode num="75">
+<title gid="3017183495" lang="EN">Fujiko Doesn't Look Good in a Bridal Gown</title></episode>
+<episode num="76">
+<title gid="3749691748" lang="EN">Do You Know Shakespeare?</title></episode>
+<episode num="77">
+<title gid="1402686998" lang="EN">Arrest Lupin With Horoscopes</title></episode>
+<episode num="78">
+<title gid="1278276971" lang="EN">Diamonds Gleam in a Robot's Eye</title></episode>
+<episode num="79">
+<title gid="1507566762" lang="EN">The Lupin Funeral March</title></episode>
+<episode num="80">
+<title gid="3001372763" lang="EN">The Last Meal is Cup Ramen</title></episode>
+<episode num="81">
+<title gid="2424094769" lang="EN">Fujiko! Men Are Tough</title></episode>
+<episode num="82">
+<title gid="2564578237" lang="EN">The Old Man Hostage Rescue Operation</title></episode>
+<episode num="83">
+<title gid="3562446013" lang="EN">Lupin's Big Western</title></episode>
+<episode num="84">
+<title gid="1440454926" lang="EN">Leave Revenge to Lupin</title></episode>
+<episode num="85">
+<title gid="3747445986" lang="EN">ICPO Secret Directive</title></episode>
+<episode num="86">
+<title gid="1713528794" lang="EN">The Mysterious Nightlight Mask Appears</title></episode>
+<episode num="87">
+<title gid="1324424337" lang="EN">When the Devil Beckons to Lupin</title></episode>
+<episode num="88">
+<title gid="320572188" lang="EN">Lupin's BIg South Pole-North Pole Adventure</title></episode>
+<episode num="89">
+<title gid="3163782482" lang="EN">Play the Thieves' Symphony</title></episode>
+<episode num="90">
+<title gid="2565078330" lang="EN">Bad Guys Are Truly Big Villians</title></episode>
+<episode num="91">
+<title gid="3428525021" lang="EN">The Girl Who Travels Through Time</title></episode>
+<episode num="92">
+<title gid="444327457" lang="EN">Madame and a Thieves' Quartet</title></episode>
+<episode num="93">
+<title gid="1776156360" lang="EN">Operation Great Wall of China Invader</title></episode>
+<episode num="94">
+<title gid="3374514385" lang="EN">Lupin Vs. Superman</title></episode>
+<episode num="95">
+<title gid="2865102914" lang="EN">From the Ghost Ship With Love</title></episode>
+<episode num="96">
+<title gid="1678574414" lang="EN">Lupin's Gourmet Heaven</title></episode>
+<episode num="97">
+<title gid="2036675924" lang="EN">Find the Treasure of Lupin I</title></episode>
+<episode num="98">
+<title gid="2165299537" lang="EN">The Day the Old Man Died</title></episode>
+<episode num="99">
+<title gid="3565984058" lang="EN">The Combat Magnum Scattered in the Wasteland</title></episode>
+<episode num="100">
+<title gid="1640259301" lang="EN">The Famous Painting Theft Ultra Operation</title></episode>
+<episode num="101">
+<title gid="1718220498" lang="EN">Versailles Burned With Love</title></episode>
+<episode num="102">
+<title gid="2668438510" lang="EN">Lupin is Fond of Chanel</title></episode>
+<episode num="103">
+<title gid="655262328" lang="EN">The Wolf Saw an Angel</title></episode>
+<episode num="104">
+<title gid="947248723" lang="EN">The Most Dangerous Golden Bed</title></episode>
+<episode num="105">
+<title gid="2567034326" lang="EN">Horror - A Woman Disappeared on Devil's Head Island</title></episode>
+<episode num="106">
+<title gid="2335936860" lang="EN">You're a Cat, I'm a Dried Tuna</title></episode>
+<episode num="107">
+<title gid="2446793290" lang="EN">A Wedding Ring is an Accursed Trap</title></episode>
+<episode num="108">
+<title gid="2325083195" lang="EN">Zantetsuken's Lament</title></episode>
+<episode num="109">
+<title gid="2913351102" lang="EN">Lupin's Toughest Battle Ever</title></episode>
+<episode num="110">
+<title gid="2101362495" lang="EN">Hot Shot: This is Fujiko</title></episode>
+<episode num="111">
+<title gid="2482020289" lang="EN">Is the Invader Safe Open?</title></episode>
+<episode num="112">
+<title gid="954346824" lang="EN">Goemon's Close Call</title></episode>
+<episode num="113">
+<title gid="1569821883" lang="EN">The Name of the Operation is Chuushingura</title></episode>
+<episode num="114">
+<title gid="1986277225" lang="EN">The Secret of the Mystery Painting, &quot;The First Supper&quot;</title></episode>
+<episode num="115">
+<title gid="2158002469" lang="EN">Mona Lisa Smiles Twice</title></episode>
+<episode num="116">
+<title gid="1276016891" lang="EN">Have the 108 Bells Rung?</title></episode>
+<episode num="117">
+<title gid="1399976951" lang="EN">The Chewing-Gum Disguise Operation</title></episode>
+<episode num="118">
+<title gid="1790331000" lang="EN">The Southern Cross Looked Like Diamonds</title></episode>
+<episode num="119">
+<title gid="1649384955" lang="EN">Lupin, Who Killed Lupin</title></episode>
+<episode num="120">
+<title gid="3721498441" lang="EN">Frankenstein Attacks Lupin</title></episode>
+<episode num="121">
+<title gid="361505923" lang="EN">The Treasure My Grandfather Left Behind</title></episode>
+<episode num="122">
+<title gid="2030504647" lang="EN">Rare Find: Napoleon's Fortune</title></episode>
+<episode num="123">
+<title gid="3002590430" lang="EN">Paris is for Thieves</title></episode>
+<episode num="124">
+<title gid="1510556248" lang="EN">1999: A Popcorn Odyssey</title></episode>
+<episode num="125">
+<title gid="2671118051" lang="EN">The Big Oildollar Plot</title></episode>
+<episode num="126">
+<title gid="2424800249" lang="EN">Together With Lupin to Hell</title></episode>
+<episode num="127">
+<title gid="2011590896" lang="EN">Direct Hit! Operation Dead Ball</title></episode>
+<episode num="128">
+<title gid="3529666916" lang="EN">The Old Woman and Lupin Thievery Contest</title></episode>
+<episode num="129">
+<title gid="2524556340" lang="EN">In Jigen, I Saw the Gentleness of a Man's Soul</title></episode>
+<episode num="130">
+<title gid="1912121894" lang="EN">Lupin Vs. the Mystery Man With Two Faces</title></episode>
+<episode num="131">
+<title gid="417407789" lang="EN">Two Goemons - The Mystery of Zantetsuken</title></episode>
+<episode num="132">
+<title gid="1067479640" lang="EN">The Himalayan Holy Mountain Thieves' Cult</title></episode>
+<episode num="133">
+<title gid="1179604138" lang="EN">Keep Your Hands Off the Hot Treasure</title></episode>
+<episode num="134">
+<title gid="1804783489" lang="EN">The Climactic Lupin Arrest Operation</title></episode>
+<episode num="135">
+<title gid="606544185" lang="EN">Poison and Magic and Lupin III</title></episode>
+<episode num="136">
+<title gid="2987069486" lang="EN">Revenge of the Gold Butterfly</title></episode>
+<episode num="137">
+<title gid="3859613847" lang="EN">The Magnificent Team-Play Operation</title></episode>
+<episode num="138">
+<title gid="229062431" lang="EN">The Treasure of Pompeii and Venomous Snakes</title></episode>
+<episode num="139">
+<title gid="1075469913" lang="EN">Steal Everything of Lupin's</title></episode>
+<episode num="140">
+<title gid="1962739190" lang="EN">Wolf, Run, Pig, Fall Down</title></episode>
+<episode num="141">
+<title gid="2373159263" lang="EN">1980 Moscow Revelation</title></episode>
+<episode num="142">
+<title gid="1652114585" lang="EN">The Big Favorite Disappeared at the Grand Race</title></episode>
+<episode num="143">
+<title gid="2097936042" lang="EN">The Miami Bank Raid Anniversary</title></episode>
+<episode num="144">
+<title gid="3489292553" lang="EN">Fujiko's Close Call Rescue Operation</title></episode>
+<episode num="145">
+<title gid="2924151299" lang="EN">Wings of Death - Albatross</title></episode>
+<episode num="146">
+<title gid="1626968051" lang="EN">Lupin's Splendid Failure</title></episode>
+<episode num="147">
+<title gid="2493107335" lang="EN">The Mermaid that Disappeared in the Midnight Sun</title></episode>
+<episode num="148">
+<title gid="2629003122" lang="EN">The Target is 555 Meters</title></episode>
+<episode num="149">
+<title gid="1707299037" lang="EN">The Treasure of Mecca Wore a Veil</title></episode>
+<episode num="150">
+<title gid="2754396180" lang="EN">Piano Symphony &quot;Zoo&quot;</title></episode>
+<episode num="151">
+<title gid="1220839408" lang="EN">The Arrest Lupin Highway Operation</title></episode>
+<episode num="152">
+<title gid="2531848897" lang="EN">Jigen and a Hat and a Pistol</title></episode>
+<episode num="153">
+<title gid="2212304139" lang="EN">The Bills that Came from God</title></episode>
+<episode num="154">
+<title gid="2278474479" lang="EN">The Hexagon's Great Legacy</title></episode>
+<episode num="155">
+<title gid="1301112400" lang="EN">Farewell My Beloved Lupin</title></episode>
+<review href="http://www.animenewsnetwork.com/review/lupin-iii/dvd-1">Lupin III DVD 1</review>
+<release date="2004-07-06" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=17019">Lupin the 3rd - Royal Scramble + Toy (DVD 7)</release>
+<release date="2005-10-11" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=5192">Lupin the 3rd - The Flying Sword (DVD 12)</release>
+<release date="2006-01-03" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=5400">Lupin the 3rd - All's Fair In Love &amp; Thievery (DVD 13)</release>
+<release date="2006-04-04" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=6222">Lupin the 3rd - For Larva or Money (DVD 14)</release>
+<release date="2006-07-04" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=10381">Lupin the 3rd - Thievin' Ain't Easy (DVD 15)</release>
+<release date="2003-01-28" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=996">Lupin the 3rd - The World’s Most Wanted (DVD 1)</release>
+<release date="2003-03-11" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1000">Lupin the 3rd - Love Heist (DVD 2)</release>
+<release date="2003-07-08" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1243">Lupin the 3rd - Family Jewels (DVD 3)</release>
+<release date="2003-10-14" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1475">Lupin the 3rd - Thieves' Paradise (DVD 4)</release>
+<release date="2004-01-14" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2342">Lupin the 3rd - Mission: Irresistible (DVD 5)</release>
+<release date="2004-04-13" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2477">Lupin the 3rd - Lupin the Target (DVD 6)</release>
+<release date="2004-07-06" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2712">Lupin the 3rd - Royal Scramble (DVD 7)</release>
+<release date="2004-10-12" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2981">Lupin the 3rd - Sweet Betrayals (DVD 8)</release>
+<release date="2004-10-12" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2982">Lupin the 3rd - Sweet Betrayals + Choro Q Car (DVD 8)</release>
+<release date="2005-01-11" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=3230">Lupin the 3rd - Scent of Murder (DVD 9)</release>
+<release date="2005-01-11" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=3231">Lupin the 3rd - Scent of Murder + Choro Q Car (DVD 9)</release>
+<release date="2005-04-12" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=3759">Lupin the 3rd - Enchanted Lupin (DVD 10)</release>
+<release date="2005-04-12" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=3760">Lupin the 3rd - Enchanted Lupin + Choro Q Toy [Limited Edition] (DVD 10)</release>
+<release date="2005-07-12" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=4226">Lupin the 3rd - From Moscow With Love (DVD 11)</release>
+<release date="2004-06-30" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2913">Lupin the 3rd (DVD 1-3)</release>
+<news datetime="2009-04-17T06:33:20Z" href="http://www.animenewsnetwork.com/news/2009-04-17/sherlock-hound-tv-anime-streamed-for-free-on-youtube">&lt;cite&gt;Sherlock Hound&lt;/cite&gt; Anime Streamed in English on YouTube</news>
+<news datetime="2014-12-08T20:40:00Z" href="http://www.animenewsnetwork.com:/news/2014-12-08/lupin-iii-gets-japanese-dvd-release-in-magazine-installments/.81915">&lt;cite&gt;Lupin III&lt;/cite&gt; Gets Japanese DVD Release in Magazine Installments</news>
+<news datetime="2015-12-20T06:30:00Z" href="http://www.animenewsnetwork.com:/news/2015-12-20/discotek-adds-lupin-the-third-series-2-tv-anime/.96723">Discotek Adds &lt;cite&gt;Lupin the Third Series 2&lt;/cite&gt; TV Anime</news>
+<staff gid="1447288822"><task>Chief Director</task><person id="10359">Seijun Suzuki</person></staff>
+<staff gid="717861204"><task>Director</task><person id="1428">Kyosuke Mikuriya</person></staff>
+<staff gid="222487273"><task>Director</task><person id="3352">Hideo Nishimaki</person></staff>
+<staff gid="1445771698"><task>Director</task><person id="3416">Hideo Takayashiki</person></staff>
+<staff gid="1129371210"><task>Director</task><person id="4761">Tsutomu Teruki</person></staff>
+<staff gid="501864052"><task>Director</task><person id="8366">Noboru Ishiguro</person></staff>
+<staff gid="277084580"><task>Director</task><person id="9441">Shigetsugu Yoshida</person></staff>
+<staff gid="3021149562"><task>Director</task><person id="10375">Yasumi Mikamoto</person></staff>
+<staff gid="1723166454"><task>Director</task><person id="10376">Ichinori Tanahashi</person></staff>
+<staff gid="278417303"><task>Director</task><person id="10377">Yagi Ishikura</person></staff>
+<staff gid="3909987367"><task>Director</task><person id="19467">Kazunori Tanahashi</person></staff>
+<staff gid="2757952404"><task>Screenplay</task><person id="3416">Hideo Takayashiki</person></staff>
+<staff gid="282080563"><task>Screenplay</task><person id="4761">Tsutomu Teruki</person></staff>
+<staff gid="1805101234"><task>Screenplay</task><person id="6497">Mamoru Konno</person></staff>
+<staff gid="2127516438"><task>Screenplay</task><person id="8516">Yoshio Urasawa</person></staff>
+<staff gid="3399805190"><task>Screenplay</task><person id="8985">Hiroyasu Yamaura</person></staff>
+<staff gid="396376798"><task>Screenplay</task><person id="10321">Tadaaki Yamazaki</person></staff>
+<staff gid="3437479632"><task>Screenplay</task><person id="10322">Kiyoshi Miyata</person></staff>
+<staff gid="2623842352"><task>Screenplay</task><person id="10323">Atsushi Yamatoya</person></staff>
+<staff gid="2592425001"><task>Screenplay</task><person id="10326">Mon Shichijoo</person></staff>
+<staff gid="3636078531"><task>Screenplay</task><person id="10378">Sadayuki Okuyama</person></staff>
+<staff gid="1906435564"><task>Screenplay</task><person id="10379">Shouichiyoshi Ookubo</person></staff>
+<staff gid="1127399016"><task>Screenplay</task><person id="10380">Kazuyuki Sugi</person></staff>
+<staff gid="2712967400"><task>Screenplay</task><person id="10381">Masao Itou</person></staff>
+<staff gid="149433421"><task>Screenplay</task><person id="10382">Misuke Tsurumo</person></staff>
+<staff gid="608165028"><task>Screenplay</task><person id="10383">Mitsuo Shijuumono</person></staff>
+<staff gid="3137530041"><task>Screenplay</task><person id="10384">Noboru Shiroyama</person></staff>
+<staff gid="3910275327"><task>Screenplay</task><person id="10385">Oil Sarata</person></staff>
+<staff gid="2138686635"><task>Screenplay</task><person id="10386">Osu Tagami</person></staff>
+<staff gid="2962507316"><task>Screenplay</task><person id="10387">Ran Mouri</person></staff>
+<staff gid="1094262167"><task>Screenplay</task><person id="10388">Tomotaaki Takahashi</person></staff>
+<staff gid="1791240621"><task>Screenplay</task><person id="10389">Yutaka Kaneko</person></staff>
+<staff gid="1992661726"><task>Screenplay</task><person id="34253">Yuu Tagami</person></staff>
+<staff gid="3845467039"><task>Screenplay</task><person id="51324">Mitsuo Aimono</person></staff>
+<staff gid="1665163713"><task>Screenplay</task><person id="99482">Shōichirō Ōkubo</person></staff>
+<staff gid="1205075758"><task>Screenplay</task><person id="101924">Banmei Takahashi</person></staff>
+<staff gid="2573553917"><task>Storyboard</task><person id="1428">Kyosuke Mikuriya</person></staff>
+<staff gid="2045339273"><task>Storyboard</task><person id="3545">Kenji Kodama</person></staff>
+<staff gid="3493947843"><task>Storyboard</task><person id="3613">Johei Matsuura</person></staff>
+<staff gid="3549516542"><task>Storyboard</task><person id="4761">Tsutomu Teruki</person></staff>
+<staff gid="2262944527"><task>Storyboard</task><person id="5450">Yoshikata Nitta</person></staff>
+<staff gid="1816070570"><task>Storyboard</task><person id="10375">Yasumi Mikamoto</person></staff>
+<staff gid="2067690000"><task>Storyboard</task><person id="10391">Taizo Ishimara</person></staff>
+<staff gid="1748977587"><task>Storyboard</task><person id="128474">Seiji Okuda</person></staff>
+<staff gid="19886447"><task>Music</task><person id="9423">Yuji Ohno</person></staff>
+<staff gid="1516103579"><task>Original Concept</task><person id="63263">Maurice Leblanc</person></staff>
+<staff gid="650340217"><task>Original creator</task><person id="41">Monkey Punch</person></staff>
+<staff gid="2369022403"><task>Character Design</task><person id="2218">Tsukasa Tannai</person></staff>
+<staff gid="394442155"><task>Character Design</task><person id="3545">Kenji Kodama</person></staff>
+<staff gid="2661685676"><task>Character Design</task><person id="10373">Takeo Kitahara</person></staff>
+<staff gid="2201261294"><task>Character Design</task><person id="10374">Takashi Asakura</person></staff>
+<staff gid="3329965831"><task>Art Director</task><person id="6509">Noboru Tatsuike</person></staff>
+<staff gid="2281077464"><task>Director of Photography</task><person id="6547">Hajime Hasegawa</person></staff>
+<staff gid="1415389947"><task>Director of Photography</task><person id="6551">Kenichi Kobayashi</person></staff>
+<staff gid="212627640"><task>Executive producer</task><person id="8501">Yutaka Fujioka</person></staff>
+<staff gid="2598461312"><task>Producer</task><person id="1424">Yoshimitsu Takahashi</person></staff>
+<staff gid="3867696164"><task>Producer</task><person id="10372">Seiji Takahashi</person></staff>
+<cast gid="2888435454" lang="EN"><role>Goemon Ishikawa</role><person id="536">Steve Kramer</person></cast>
+<cast gid="2964702659" lang="EN"><role>Daisuke Jigen</role><person id="632">Steve Bulen</person></cast>
+<cast gid="1949047312" lang="EN"><role>Daisuke Jigen</role><person id="1090">Richard Epcar</person></cast>
+<cast gid="146176217" lang="EN"><role>Goemon Ishikawa</role><person id="1143">Lex Lang</person></cast>
+<cast gid="2531078900" lang="EN"><role>Arsene Lupin III/The Wolf</role><person id="3525">Bob Bergen</person></cast>
+<cast gid="2952637614" lang="EN"><role>Fujiko Mine</role><person id="4831">Edie Mirman</person></cast>
+<cast gid="841126803" lang="EN"><role>Inspector Koichi Zenigata</role><person id="4987">Dan Martin</person></cast>
+<cast gid="1436700443" lang="EN"><role>Arsene Lupin III</role><person id="7006">Tony Oliver</person></cast>
+<cast gid="1557868451" lang="EN"><role>Fujiko Mine</role><person id="7125">Michelle Ruff</person></cast>
+<cast gid="57175858" lang="EN"><role>Inspector Zenigata</role><person id="10866">Jake Martin</person></cast>
+<cast gid="3311754406" lang="EN"><role>Inspector Koichi Zenigata</role><person id="14080">David Povall</person></cast>
+<cast gid="818696153" lang="ES"><role>Goemon</role><person id="47744">José María Carrero</person></cast>
+<cast gid="1165749907" lang="ES"><role>Fujiko</role><person id="47756">Raquel Martín</person></cast>
+<cast gid="1375394615" lang="ES"><role>Inspector Zenigata</role><person id="64957">Ángel Rodríguez</person></cast>
+<cast gid="2016039153" lang="ES"><role>Lupin III</role><person id="69366">Juan Navarro Torello</person></cast>
+<cast gid="2440434509" lang="ES"><role>Lupin III</role><person id="70098">Txema Moscoso</person></cast>
+<cast gid="2036432753" lang="ES"><role>Daisuke Jigen</role><person id="97215">Iker Muñoz</person></cast>
+<cast gid="846833735" lang="FR"><role>Edgar de la Cambriole</role><person id="29434">Philippe Ogouz</person></cast>
+<cast gid="1903540725" lang="IT"><role>Isp. Zenigata Koichi</role><person id="26147">Marcello Prando</person></cast>
+<cast gid="2217610947" lang="IT"><role>Goemon Ishikawa</role><person id="26157">Massimo Rossi</person></cast>
+<cast gid="3281165315" lang="IT"><role>Daisuke Jigen</role><person id="26166">Sandro Pellegrini</person></cast>
+<cast gid="2139743181" lang="IT"><role>Fujiko Mine (Margot)</role><person id="26302">Piera Vidale</person></cast>
+<cast gid="632696273" lang="IT"><role>Lupin III</role><person id="56609">Roberto Del Guidice</person></cast>
+<cast gid="2059571490" lang="JA"><role>Arsene Lupin III</role><person id="788">Yasuo Yamada</person></cast>
+<cast gid="2496758417" lang="JA"><role>Jigen Daisuke</role><person id="2170">Kiyoshi Kobayashi</person></cast>
+<cast gid="159593294" lang="JA"><role>Goemon Ishikawa</role><person id="2379">Makio Inoue</person></cast>
+<cast gid="409388831" lang="JA"><role>Fujiko Mine</role><person id="4219">Eiko Masuyama</person></cast>
+<cast gid="2329993684" lang="JA"><role>Inspector Zenigata</role><person id="15629">Goro Naya</person></cast>
+<cast gid="2772694128" lang="TL"><role>Fujiko Mine</role><person id="15935">Rose Barin</person></cast>
+<cast gid="1250893459" lang="TL"><role>Goemon Ishikawa</role><person id="15937">Fourth Lee</person></cast>
+<cast gid="1947452610" lang="TL"><role>Jigen Daisuke</role><person id="15939">Vincent Gutierrez</person></cast>
+<cast gid="3179333909" lang="TL"><role>Goemon Ishikawa</role><person id="38943">Fourth Brillante Lee</person></cast>
+<cast gid="1651817364" lang="TL"><role>Arsene Lupin III</role><person id="39767">Richie Padilla</person></cast>
+<credit gid="1108206433"><task>Production</task><company id="1631">Studio Telecom</company></credit></anime></ann>

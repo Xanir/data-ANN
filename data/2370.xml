@@ -1,0 +1,67 @@
+<ann><anime id="2370" gid="2898186714" type="TV" name="Skyers 5" precision="TV" generated-on="2016-03-27T01:53:06Z">
+<related-next id="2381" rel="sequel"/>
+<info gid="483615075" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A2370-12.jpg" width="200" height="198"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A2370-12.jpg" width="200" height="198"/><img src="http://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A2370-12.jpg" width="388" height="385"/></info>
+<info gid="1234541129" type="Main title" lang="EN">Skyers 5</info>
+<info gid="3142161385" type="Alternative title" lang="ES">El Agente S-5</info>
+<info gid="1388391142" type="Alternative title" lang="PT">Tarot Kid</info>
+<info gid="782295479" type="Alternative title" lang="JA">スカイヤーズ５</info>
+<info gid="2260318354" type="Genres">action</info>
+<info gid="2236455119" type="Genres">adventure</info>
+<info gid="2157267194" type="Genres">science fiction</info>
+<info gid="1882973988" type="Objectionable content">OC</info>
+<info gid="2851175638" type="Running time">25</info>
+<info gid="3918901943" type="Number of episodes">12</info>
+<info gid="451325600" type="Vintage">1967-10-04 to 1967-12-27</info>
+<info gid="2544176488" type="Vintage">1982 (México)</info>
+<episode num="1">
+<title gid="1638874245" lang="JA">GOUSUTOPURAN wo kudake</title></episode>
+<episode num="2">
+<title gid="2747890558" lang="JA">27 wa ? no bangou</title></episode>
+<episode num="3">
+<title gid="1588250473" lang="JA">GOUSUTO banzai</title></episode>
+<episode num="4">
+<title gid="982314471" lang="JA">CHANNERU X wo sagase</title></episode>
+<episode num="5">
+<title gid="2696939112" lang="JA">sono HANDORU wo hanasuna</title></episode>
+<episode num="6">
+<title gid="1714239363" lang="JA">shinigami no yuurei</title></episode>
+<episode num="7">
+<title gid="1476397699" lang="JA">ARAJIN sakusen</title></episode>
+<episode num="8">
+<title gid="3742765031" lang="JA">jigoku no WARUTSU</title></episode>
+<episode num="9">
+<title gid="801121970" lang="JA">hikare OURORA</title></episode>
+<episode num="10">
+<title gid="1067768206" lang="JA">oujo no ken</title></episode>
+<episode num="11">
+<title gid="1826063783" lang="JA">kieta uchuujin</title></episode>
+<episode num="12">
+<title gid="3138107546" lang="JA">kieta sekkeizu</title></episode>
+<staff gid="2833736654"><task>Director</task><person id="3775">Haruyuki Kawajima</person></staff>
+<staff gid="3292358865"><task>Director</task><person id="63093">Haruji Sasaki</person></staff>
+<staff gid="764993906"><task>Series Composition</task><person id="3775">Haruyuki Kawajima</person></staff>
+<staff gid="3334412199"><task>Script</task><person id="14819">Kenji Nakano</person></staff>
+<staff gid="1552168772"><task>Script</task><person id="63096">Masao Murayama</person></staff>
+<staff gid="3261369231"><task>Script</task><person id="63097">Shota Fujimura</person></staff>
+<staff gid="3302261859"><task>Script</task><person id="63098">Katsuo Takahashi</person></staff>
+<staff gid="3432317902"><task>Script</task><person id="63104">Norimasa Mayumi</person></staff>
+<staff gid="3215500570"><task>Episode Director</task><person id="5799">Shuichi Seki</person></staff>
+<staff gid="3006072260"><task>Episode Director</task><person id="62939">Toru Murayama</person></staff>
+<staff gid="2183586514"><task>Episode Director</task><person id="63094">Hideshige Tsukikawa</person></staff>
+<staff gid="886059593"><task>Music</task><person id="19380">Ichiro Tsukasa</person></staff>
+<staff gid="3498723431"><task>Original Work</task><person id="13333">Noboru Kawasaki</person></staff>
+<staff gid="2745106431"><task>Original Work</task><person id="63095">Takashi Ishibashi</person></staff>
+<staff gid="571186004"><task>Character Design</task><person id="13333">Noboru Kawasaki</person></staff>
+<staff gid="1357720583"><task>Art Director</task><person id="76443">Minori Izumitani</person></staff>
+<staff gid="3192502637"><task>Art Director</task><person id="76444">Tadashi Igarashi</person></staff>
+<staff gid="3169612179"><task>Animation Director</task><person id="5799">Shuichi Seki</person></staff>
+<staff gid="1665673135"><task>Animation Director</task><person id="63094">Hideshige Tsukikawa</person></staff>
+<staff gid="1110887444"><task>Animation Director</task><person id="63099">Hisaei Nanba</person></staff>
+<staff gid="1976997369"><task>Animation Director</task><person id="63100">Yoshiyuki Kumao</person></staff>
+<cast gid="1720209634" lang="JA"><role>Samson</role><person id="2084">Takuzou Kamiyama</person></cast>
+<cast gid="3222988886" lang="JA"><role>Yuri</role><person id="7708">Youko Kuri</person></cast>
+<cast gid="2449704399" lang="JA"><role>Captain</role><person id="62000">Kyousuke Maki</person></cast>
+<cast gid="1256648757" lang="JA"><role>Polka</role><person id="63102">Setsuo Kawai</person></cast>
+<cast gid="2575322374" lang="JA"><role>Shuntaro</role><person id="104877">Hideo Nakamura</person></cast>
+<cast gid="1882852885" lang="PT"><role>Sansão</role><person id="83660">Ribeiro Santos</person></cast>
+<credit gid="2102157808"><task>Production</task><company id="521">Tele-Cartoon Japan</company></credit></anime></ann>

@@ -1,0 +1,499 @@
+<ann><anime id="422" gid="3529590821" type="TV" name="Astro Boy" precision="TV 1/1963" generated-on="2016-03-27T02:02:07Z">
+<related-prev rel="adapted from" id="1343"/>
+<related-next id="388" rel="remake"/>
+<related-next id="3884" rel="compilation"/>
+<info gid="2755931356" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A422-121.jpg" width="200" height="163"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A422-121.jpg" width="200" height="163"/><img src="http://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A422-121.jpg" width="214" height="174"/></info>
+<info gid="2223450940" type="Main title" lang="EN">Astro Boy</info>
+<info gid="1685854010" type="Alternative title" lang="EN">Mighty Atom</info>
+<info gid="470254386" type="Alternative title" lang="JA">Tetsuwan Atom</info>
+<info gid="651461880" type="Alternative title" lang="JA">鉄腕アトム</info>
+<info gid="2491891716" type="Genres">action</info>
+<info gid="2505754177" type="Genres">adventure</info>
+<info gid="2119397525" type="Genres">science fiction</info>
+<info gid="3372809326" type="Themes">mecha</info>
+<info gid="1855326641" type="Objectionable content">AA</info>
+<info type="Plot Summary">In the distant year 2003, Japan is a techonological utopia, and robots are everywhere. One such robot, Tobio, was built by the brilliant Dr. Tenma to replace his dead son. But when it soon becomes apparent that Tobio is an imperfect copy of his departed child, Dr. Tenma throws him out. He is rescued from the scrap heap by the benevolent Professor Ochanomizu, a crusader for robot cival rights. Now the little robot, renamed Astro Boy, is given a mission to defend Japan and the world from all manner of sinister threats. Using his seven super-abilities and 100,000 horsepower worth of strength to battle evil, Astro hopes to set an example to the world of the good which all robots are capeable of. &lt;em class=de-emphasized&gt;(from manga)&lt;/em&gt;</info>
+<info gid="3651736868" type="Number of episodes">193</info>
+<info gid="3915970599" type="Vintage">1963-01-01 to 1966-12-31</info>
+<info gid="2675947135" type="Vintage">1974 (México - Canal 5)</info>
+<info gid="1158265959" type="Vintage">2007-07-15 (USA, Cartoon Network - Adult Swim)</info>
+<info gid="2804730103" type="Opening Theme">&quot;Tetsuwan Atom&quot; by Kamitakada Shounen Gasshoudan</info>
+<info gid="2797532381" type="Official website" lang="EN" href="http://www.adultswim.com/shows/astroboy/">Adult Swim's Official Astro Boy Website</info>
+<info gid="973083132" type="Official website" lang="EN" href="http://en-f.tezuka.co.jp/anime/sakuhin/ts/ts002.html">Astro Boy @ TEZUKA OSAMU @ WORLD</info>
+<info gid="972416258" type="Official website" lang="EN" href="http://astroboy.com.au/">Madman's Official Astro Boy Website</info>
+<info gid="812315739" type="Official website" lang="JA" href="http://ja-f.tezuka.co.jp/anime/sakuhin/ts/ts002.html">鉄腕アトム @ TEZUKA OSAMU @ WORLD</info>
+<ratings nb_votes="234" weighted_score="5.8884" bayesian_score="5.97443"/>
+<episode num="1">
+<title gid="1622625600" lang="EN">The Birth of Astro Boy</title></episode>
+<episode num="2">
+<title gid="2562822091" lang="EN">Frankenstein</title></episode>
+<episode num="3">
+<title gid="1729302775" lang="EN">Adventure on – Mars</title></episode>
+<episode num="4">
+<title gid="2243281204" lang="EN">Guernica</title></episode>
+<episode num="5">
+<title gid="1876671651" lang="EN">Sphinx</title></episode>
+<episode num="6">
+<title gid="502020975" lang="EN">Lightning Man</title></episode>
+<episode num="7">
+<title gid="1132700486" lang="EN">Captain Atom</title></episode>
+<episode num="8">
+<title gid="3779811094" lang="EN">Ghost Manufacturing Machine</title></episode>
+<episode num="9">
+<title gid="3076922948" lang="EN">Black Looks</title></episode>
+<episode num="10">
+<title gid="202841986" lang="EN">The Fool Ivan</title></episode>
+<episode num="11">
+<title gid="1973278733" lang="EN">Time Machine</title></episode>
+<episode num="12">
+<title gid="1358555165" lang="EN">Cruciform Island</title></episode>
+<episode num="13">
+<title gid="2725317630" lang="EN">The Eyes of Christ</title></episode>
+<episode num="14">
+<title gid="2129434355" lang="EN">The Artificial Sun</title></episode>
+<episode num="15">
+<title gid="2711734049" lang="EN">Plant People</title></episode>
+<episode num="16">
+<title gid="3160035513" lang="EN">The Vehicle, White Planet</title></episode>
+<episode num="17">
+<title gid="1464214970" lang="EN">Robot Land</title></episode>
+<episode num="18">
+<title gid="2363199524" lang="EN">Gadem</title></episode>
+<episode num="19">
+<title gid="1109731111" lang="EN">Astro Boy vs. Garon</title></episode>
+<episode num="20">
+<title gid="2778437683" lang="EN">Gaseous Beings</title></episode>
+<episode num="21">
+<title gid="953025879" lang="EN">Satellite R-45</title></episode>
+<episode num="22">
+<title gid="2276753487" lang="EN">Sea Serpent Island</title></episode>
+<episode num="23">
+<title gid="1924584831" lang="EN">The Mutant</title></episode>
+<episode num="24">
+<title gid="2279337744" lang="EN">The Submarine Kingdom</title></episode>
+<episode num="25">
+<title gid="1426970417" lang="EN">The Deep-Underground Tank</title></episode>
+<episode num="26">
+<title gid="1844116739" lang="EN">Atlas</title></episode>
+<episode num="27">
+<title gid="839160687" lang="EN">Planet Pearl</title></episode>
+<episode num="28">
+<title gid="2816923909" lang="EN">Mad Machine</title></episode>
+<episode num="29">
+<title gid="2200248521" lang="EN">The Memorable Day</title></episode>
+<episode num="30">
+<title gid="835080244" lang="EN">Fuhrer ZZZ</title></episode>
+<episode num="31">
+<title gid="1937466141" lang="EN">The Black Cosmic Ray</title></episode>
+<episode num="32">
+<title gid="2622467751" lang="EN">Hot Dog Corps</title></episode>
+<episode num="33">
+<title gid="3025990588" lang="EN">Two Magicians</title></episode>
+<episode num="34">
+<title gid="2688833792" lang="EN">Midoro – Marsh</title></episode>
+<episode num="35">
+<title gid="3064171293" lang="EN">The Human Farm</title></episode>
+<episode num="36">
+<title gid="1995040402" lang="EN">The Religion of Pui Pui</title></episode>
+<episode num="37">
+<title gid="2306802557" lang="EN">Uran</title></episode>
+<episode num="38">
+<title gid="2572732627" lang="EN">The Disturbed Small Planet</title></episode>
+<episode num="39">
+<title gid="2112634755" lang="EN">Red Cat</title></episode>
+<episode num="40">
+<title gid="3100228970" lang="EN">Neo Caesar</title></episode>
+<episode num="41">
+<title gid="2800364968" lang="EN">X Bomb</title></episode>
+<episode num="42">
+<title gid="1667917105" lang="EN">The Yellow Horse</title></episode>
+<episode num="43">
+<title gid="1964850561" lang="EN">His Highness Dead Cross</title></episode>
+<episode num="44">
+<title gid="2093576173" lang="EN">The Egyptian Conspirators</title></episode>
+<episode num="45">
+<title gid="3399911233" lang="EN">Cleopatra’s Necklace</title></episode>
+<episode num="46">
+<title gid="3262915548" lang="EN">The Robot Spaceship</title></episode>
+<episode num="47">
+<title gid="1942405282" lang="EN">The Cosmic Crab</title></episode>
+<episode num="48">
+<title gid="1468648743" lang="EN">The Tenma Tribe</title></episode>
+<episode num="49">
+<title gid="2205952650" lang="EN">Transparent Giant</title></episode>
+<episode num="50">
+<title gid="3617444045" lang="EN">Astroboy Goes to the West</title></episode>
+<episode num="51">
+<title gid="2161878799" lang="EN">The Little Elephant Pura</title></episode>
+<episode num="52">
+<title gid="1918453644" lang="EN">The Snow Lion</title></episode>
+<episode num="53">
+<title gid="2331086557" lang="EN">Goodbye 1963</title></episode>
+<episode num="54">
+<title gid="621477500" lang="EN">Duel on the Alps – January 4, 1964</title></episode>
+<episode num="55">
+<title gid="1064970297" lang="EN">Rejuvenating Gas</title></episode>
+<episode num="56">
+<title gid="1572108227" lang="EN">Earth Defense Army</title></episode>
+<episode num="57">
+<title gid="1176037919" lang="EN">Robot School</title></episode>
+<episode num="58">
+<title gid="2723468566" lang="EN">The Thirteen Mysterious Statues of God</title></episode>
+<episode num="59">
+<title gid="3047257153" lang="EN">The Robot Buron X</title></episode>
+<episode num="60">
+<title gid="618836544" lang="EN">The Demon Bees</title></episode>
+<episode num="61">
+<title gid="1874063685" lang="EN">Space Parasites</title></episode>
+<episode num="62">
+<title gid="2834249120" lang="EN">The Phantom Ship</title></episode>
+<episode num="63">
+<title gid="440340653" lang="EN">The Artificial Iceberg</title></episode>
+<episode num="64">
+<title gid="1633585014" lang="EN">Count Bat</title></episode>
+<episode num="65">
+<title gid="1484810694" lang="EN">Brave Escapee</title></episode>
+<episode num="66">
+<title gid="2836704673" lang="EN">The Space Viking</title></episode>
+<episode num="67">
+<title gid="2851763222" lang="EN">Heroes of the Night</title></episode>
+<episode num="68">
+<title gid="2074077627" lang="EN">Rebellion of the Dinosaur People</title></episode>
+<episode num="69">
+<title gid="1580655734" lang="EN">The Secret of the Clock Tower</title></episode>
+<episode num="70">
+<title gid="1330345923" lang="EN">Rafflesia</title></episode>
+<episode num="71">
+<title gid="2837061403" lang="EN">The Last Day of Earth</title></episode>
+<episode num="72">
+<title gid="2123052337" lang="EN">7 Days of Drifting in Space</title></episode>
+<episode num="73">
+<title gid="2154349120" lang="EN">Big Titan</title></episode>
+<episode num="74">
+<title gid="2746830508" lang="EN">Earth Expedition</title></episode>
+<episode num="75">
+<title gid="710057745" lang="EN">Flying City</title></episode>
+<episode num="76">
+<title gid="761359102" lang="EN">The Monster Machine</title></episode>
+<episode num="77">
+<title gid="2433858891" lang="EN">Cape Town Lullaby</title></episode>
+<episode num="78">
+<title gid="3427103146" lang="EN">The World in Five Hundred Thousand Years</title></episode>
+<episode num="79">
+<title gid="3273730050" lang="EN">Dr Brain</title></episode>
+<episode num="80">
+<title gid="3059700915" lang="EN">Humanoid Bill</title></episode>
+<episode num="81">
+<title gid="3079193942" lang="EN">Dreaming Machine</title></episode>
+<episode num="82">
+<title gid="2609879108" lang="EN">The Robot Olympics</title></episode>
+<episode num="83">
+<title gid="1959234501" lang="EN">The Strange Bird, Garuda</title></episode>
+<episode num="84">
+<title gid="3140662073" lang="EN">The Dolphin Civilization</title></episode>
+<episode num="85">
+<title gid="2347381077" lang="EN">The Demented Beltway</title></episode>
+<episode num="86">
+<title gid="2370044800" lang="EN">The Time Gun</title></episode>
+<episode num="87">
+<title gid="1619283232" lang="EN">Princess Kaguya</title></episode>
+<episode num="88">
+<title gid="2107991745" lang="EN">The Bacteria Corps</title></episode>
+<episode num="89">
+<title gid="2422335292" lang="EN">Gomes’ Ghost</title></episode>
+<episode num="90">
+<title gid="2060225873" lang="EN">The Robot Fortress</title></episode>
+<episode num="91">
+<title gid="2291066154" lang="EN">Garon’s Counterattack</title></episode>
+<episode num="92">
+<title gid="1042280306" lang="EN">Robot Future</title></episode>
+<episode num="93">
+<title gid="1469059161" lang="EN">Three Robot Knights</title></episode>
+<episode num="94">
+<title gid="1574373005" lang="EN">Confrontation in Space</title></episode>
+<episode num="95">
+<title gid="929843756" lang="EN">Cobalt</title></episode>
+<episode num="96">
+<title gid="2499072010" lang="EN">Angel of the Alps</title></episode>
+<episode num="97">
+<title gid="2932230451" lang="EN">The Evil Punch Card</title></episode>
+<episode num="98">
+<title gid="2535258651" lang="EN">Zeo’s Legacy</title></episode>
+<episode num="99">
+<title gid="1278024117" lang="EN">Little Columbus</title></episode>
+<episode num="100">
+<title gid="792129907" lang="EN">The Robot House</title></episode>
+<episode num="101">
+<title gid="3496071150" lang="EN">The Unmapped World</title></episode>
+<episode num="102">
+<title gid="1636424649" lang="EN">Queen of the Devils’ Place</title></episode>
+<episode num="103">
+<title gid="2544262143" lang="EN">Stairs Leading into Space</title></episode>
+<episode num="104">
+<title gid="1548108123" lang="EN">The Devil’s Balloon</title></episode>
+<episode num="105">
+<title gid="236798901" lang="EN">General Atom</title></episode>
+<episode num="106">
+<title gid="1865888436" lang="EN">The Boy from Outer Space</title></episode>
+<episode num="107">
+<title gid="1409049470" lang="EN">Release of the Earth</title></episode>
+<episode num="108">
+<title gid="843965471" lang="EN">Saturn Man</title></episode>
+<episode num="109">
+<title gid="2660036746" lang="EN">Phoenix</title></episode>
+<episode num="110">
+<title gid="3092685903" lang="EN">Expedition on Mercury</title></episode>
+<episode num="111">
+<title gid="3255570776" lang="EN">Robot Polymer</title></episode>
+<episode num="112">
+<title gid="3520333780" lang="EN">Samson's Hair</title></episode>
+<episode num="113">
+<title gid="2290378478" lang="EN">Back, the Country without Laughter</title></episode>
+<episode num="114">
+<title gid="2969344787" lang="EN">Metro Monster</title></episode>
+<episode num="115">
+<title gid="1472452821" lang="EN">The Big Runaway Safe</title></episode>
+<episode num="116">
+<title gid="3080483956" lang="EN">The Biggest Robot on Earth (part one)</title></episode>
+<episode num="117">
+<title gid="785095420" lang="EN">The Biggest Robot on Earth (part two)</title></episode>
+<episode num="118">
+<title gid="1432685408" lang="EN">Robot Grabby</title></episode>
+<episode num="119">
+<title gid="2311947803" lang="EN">The Flying Lens</title></episode>
+<episode num="120">
+<title gid="2525858141" lang="EN">Time Hunter</title></episode>
+<episode num="121">
+<title gid="1051364741" lang="EN">Ganimate</title></episode>
+<episode num="122">
+<title gid="2343001329" lang="EN">The Monster Mantler</title></episode>
+<episode num="123">
+<title gid="2144056122" lang="EN">Captain Dog</title></episode>
+<episode num="124">
+<title gid="1892760688" lang="EN">Parting Gift</title></episode>
+<episode num="125">
+<title gid="681316835" lang="EN">Find the Bacteria</title></episode>
+<episode num="126">
+<title gid="2236479486" lang="EN">Roboids</title></episode>
+<episode num="127">
+<title gid="1356912793" lang="EN">The Experimental Robot</title></episode>
+<episode num="128">
+<title gid="2465787941" lang="EN">Treasures of the Inca Empire</title></episode>
+<episode num="129">
+<title gid="2120853631" lang="EN">Atom vs. Atom</title></episode>
+<episode num="130">
+<title gid="1898111038" lang="EN">The Storm on Mars</title></episode>
+<episode num="131">
+<title gid="1033738697" lang="EN">The Moon Champion</title></episode>
+<episode num="132">
+<title gid="542154912" lang="EN">Prince Louis</title></episode>
+<episode num="133">
+<title gid="1059939350" lang="EN">Revenge After Ten Years</title></episode>
+<episode num="134">
+<title gid="2176062113" lang="EN">Operation Escape</title></episode>
+<episode num="135">
+<title gid="3466290785" lang="EN">The Robot-Dog Backy</title></episode>
+<episode num="136">
+<title gid="1051680670" lang="EN">Inspector Jaguar</title></episode>
+<episode num="137">
+<title gid="2542778176" lang="EN">Little Cooley</title></episode>
+<episode num="138">
+<title gid="1606423491" lang="EN">A Long Day</title></episode>
+<episode num="139">
+<title gid="1255354682" lang="EN">Astro Boy Stolen</title></episode>
+<episode num="140">
+<title gid="2019923629" lang="EN">The King and Atom</title></episode>
+<episode num="141">
+<title gid="3935025650" lang="EN">The Locomotive - March</title></episode>
+<episode num="142">
+<title gid="530785898" lang="EN">Minya's Star</title></episode>
+<episode num="143">
+<title gid="2790842200" lang="EN">Bird Street Story</title></episode>
+<episode num="144">
+<title gid="2085641744" lang="EN">Lost Friendship</title></episode>
+<episode num="145">
+<title gid="2229203241" lang="EN">Atom in the Deep Sea</title></episode>
+<episode num="146">
+<title gid="2478914711" lang="EN">Report from the Future</title></episode>
+<episode num="147">
+<title gid="203482341" lang="EN">Mid-air Screen</title></episode>
+<episode num="148">
+<title gid="3211872367" lang="EN">Robio and Robiet</title></episode>
+<episode num="149">
+<title gid="2428016622" lang="EN">The Can Capriccio</title></episode>
+<episode num="150">
+<title gid="3143856547" lang="EN">Miss Magnet</title></episode>
+<episode num="151">
+<title gid="1661444765" lang="EN">Lonely Atom</title></episode>
+<episode num="152">
+<title gid="529429569" lang="EN">The Robot Bombs</title></episode>
+<episode num="153">
+<title gid="1466636723" lang="EN">The Red Merry-Go-Round</title></episode>
+<episode num="154">
+<title gid="2427340201" lang="EN">Blue Bird Story</title></episode>
+<episode num="155">
+<title gid="3556147734" lang="EN">The Crazed Boundary</title></episode>
+<episode num="156">
+<title gid="2157120344" lang="EN">Robot - Mayor</title></episode>
+<episode num="157">
+<title gid="2156711920" lang="EN">Gypsy's Star</title></episode>
+<episode num="158">
+<title gid="2459059102" lang="EN">Funny Companion</title></episode>
+<episode num="159">
+<title gid="3266834354" lang="EN">Devil and Angel</title></episode>
+<episode num="160">
+<title gid="1175956815" lang="EN">The Golden Flute</title></episode>
+<episode num="161">
+<title gid="2543889314" lang="EN">Dream-selling Aliens</title></episode>
+<episode num="162">
+<title gid="1909007513" lang="EN">Operation Candy</title></episode>
+<episode num="163">
+<title gid="2967338895" lang="EN">Road to Another World</title></episode>
+<episode num="164">
+<title gid="2628282221" lang="EN">The Space Spider</title></episode>
+<episode num="165">
+<title gid="3141548952" lang="EN">A Great Fuss Over Babies</title></episode>
+<episode num="166">
+<title gid="2652242199" lang="EN">The Jewel-Eating Monster</title></episode>
+<episode num="167">
+<title gid="871813526" lang="EN">Plenty of Balloons</title></episode>
+<episode num="168">
+<title gid="1944048163" lang="EN">The Island That Jumped Up</title></episode>
+<episode num="169">
+<title gid="1247385602" lang="EN">Gift from the Future</title></episode>
+<episode num="170">
+<title gid="2888329280" lang="EN">Two Princesses</title></episode>
+<episode num="171">
+<title gid="2948614223" lang="EN">Kutcher Forever</title></episode>
+<episode num="172">
+<title gid="2864006962" lang="EN">The Herald Brothers</title></episode>
+<episode num="173">
+<title gid="2599140308" lang="EN">Robotty</title></episode>
+<episode num="174">
+<title gid="1396665932" lang="EN">The Great Submarine Canal</title></episode>
+<episode num="175">
+<title gid="2968507772" lang="EN">Robot Wars (part one)</title></episode>
+<episode num="176">
+<title gid="3257943414" lang="EN">Robot Wars (part two)</title></episode>
+<episode num="177">
+<title gid="1687068631" lang="EN">The Gigantic Robot</title></episode>
+<episode num="178">
+<title gid="3194235150" lang="EN">Chi-tan's Nighttime Adventure</title></episode>
+<episode num="179">
+<title gid="1338372375" lang="EN">Blue Horseman (part one)</title></episode>
+<episode num="180">
+<title gid="2758773634" lang="EN">Blue Horseman (part two)</title></episode>
+<episode num="181">
+<title gid="852010858" lang="EN">Japanese People from Space</title></episode>
+<episode num="182">
+<title gid="2685919986" lang="EN">Time War</title></episode>
+<episode num="183">
+<title gid="2948180157" lang="EN">Star of Africa</title></episode>
+<episode num="184">
+<title gid="2219466126" lang="EN">Monsters Come out at Night</title></episode>
+<episode num="185">
+<title gid="2210266602" lang="EN">Baily's Legend</title></episode>
+<episode num="186">
+<title gid="3027045766" lang="EN">Tengu of Kurama</title></episode>
+<episode num="187">
+<title gid="1123645400" lang="EN">Confusion at the Shooting Studio</title></episode>
+<episode num="188">
+<title gid="2776259015" lang="EN">Miracle of Mesopotamia</title></episode>
+<episode num="189">
+<title gid="2324292298" lang="EN">Wandering Roppi</title></episode>
+<episode num="190">
+<title gid="3228229466" lang="EN">Medussa's Mansion</title></episode>
+<episode num="191">
+<title gid="2580187996" lang="EN">The Greatest Adventure on Earth</title></episode>
+<episode num="192">
+<title gid="3164503392" lang="EN">Medussa’s Mansion</title></episode>
+<episode num="193">
+<title gid="2537495849" lang="EN">The Greatest Adventure on Earth</title></episode>
+<release date="2009-10-06" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=15279">Astro Boy - Beginning (DVD 1)</release>
+<release date="2006-08-29" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=7159">Astro Boy - Ultra DVD Box Set 2 Limited Edition (Dub.DVD)</release>
+<release date="2009-10-06" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=14809">Astro Boy - Mini Collection 1 (Dub.DVD)</release>
+<release date="2009-10-06" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=14810">Astro Boy - Mini Collection 2 (Dub.DVD)</release>
+<release date="2006-03-28" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=6104">Astro Boy - Ultra Collector's Edition DVD Set (Dub.DVD 1)</release>
+<release date="2007-09-01" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=10187">Astro Boy - Essays (Fred Schodt) (Novel)</release>
+<news datetime="1999-01-06T05:00:00Z" href="http://www.animenewsnetwork.com/news/1999-01-06/dai-anime-scavenger-hunt-announces-winners">Dai-Anime Scavenger Hunt announces winners</news>
+<news datetime="2000-02-23T03:03:15Z" href="http://www.animenewsnetwork.com/news/2000-02-22/anime-news-briefs">Anime News Briefs</news>
+<news datetime="2000-07-30T02:18:44Z" href="http://www.animenewsnetwork.com/news/2000-07-29/new-movie-from-katsuhiro-otomo-and-rin-taro">New movie from Katsuhiro Otomo and Rin Taro</news>
+<news datetime="2001-01-12T00:55:55Z" href="http://www.animenewsnetwork.com/news/2001-01-11/viz-graphic-novels">Viz Graphic Novels</news>
+<news datetime="2001-01-16T03:56:48Z" href="http://www.animenewsnetwork.com/news/2001-01-15/animage-top-100-anime-listing">Animage Top-100 Anime Listing</news>
+<news datetime="2001-02-22T04:16:16Z" href="http://www.animenewsnetwork.com/news/2001-02-21/protoculture-addicts-64-available">Protoculture Addicts 64 available!</news>
+<news datetime="2001-06-06T02:07:07Z" href="http://www.animenewsnetwork.com/news/2001-06-05/viz-press-release-extravaganza">Viz Press Release Extravaganza!</news>
+<news datetime="2002-04-02T05:52:22Z" href="http://www.animenewsnetwork.com/news/2002-04-02/animefringe-april-2002">AnimeFringe: April 2002</news>
+<news datetime="2002-06-28T12:41:44Z" href="http://www.animenewsnetwork.com/news/2002-06-28/more-manga-pr">More Manga PR</news>
+<news datetime="2002-09-11T04:52:33Z" href="http://www.animenewsnetwork.com/news/2002-09-11/akron-oh-museum-hosts-contemporary-art-and-culture-of-anime">Akron, OH Museum Hosts Contemporary Art and Culture of Anime</news>
+<news datetime="2005-06-02T19:23:26Z" href="http://www.animenewsnetwork.com/news/2005-06-02/anchor-bay-to-release-astro-boy">Anchor Bay to Release Astro Boy</news>
+<news datetime="2005-06-03T04:09:55Z" href="http://www.animenewsnetwork.com/news/2005-06-03/astro-boy-correction">Astro Boy Correction</news>
+<news datetime="2005-06-03T14:13:52Z" href="http://www.animenewsnetwork.com/news/2005-06-03/astro-boy-follow-up">Astro Boy Follow-Up</news>
+<news datetime="2005-09-23T17:39:30Z" href="http://www.animenewsnetwork.com/news/2005-09-23/tv-asahi-top-100-anime">TV Asahi Top 100 Anime</news>
+<news datetime="2005-09-23T20:38:14Z" href="http://www.animenewsnetwork.com/news/2005-09-23/tv-asahi-top-100-anime-part-2">TV Asahi Top 100 Anime Part 2</news>
+<news datetime="2005-11-24T19:36:16Z" href="http://www.animenewsnetwork.com/news/2005-11-24/classic-anime-on-the-big-screen-in-montreal">Classic Anime on the Big Screen in Montreal</news>
+<news datetime="2006-01-09T16:01:08Z" href="http://www.animenewsnetwork.com/news/2006-01-09/astro-boy-not-the-first-anime">Astro Boy not the First Anime</news>
+<news datetime="2006-10-12T21:45:00Z" href="http://www.animenewsnetwork.com/news/2006-10-13/japans-favorite-tv-anime">Japan's Favorite TV Anime</news>
+<news datetime="2007-05-09T16:22:28Z" href="http://www.animenewsnetwork.com/news/2007-05-09/yamato-macross-director-to-create-biopic-on-engineer">&lt;cite&gt;Yamato&lt;/cite&gt;, &lt;cite&gt;Macross&lt;/cite&gt; Director to Create Biopic on Engineer</news>
+<news datetime="2007-05-16T07:31:41Z" href="http://www.animenewsnetwork.com/news/2007-05-16/anime-bootleggers">Anime Bootleggers Sentenced to 42 Months In Prison</news>
+<news datetime="2007-08-27T16:33:16Z" href="http://www.animenewsnetwork.com/news/2007-08-27/manga-entertainment-anime-titles-to-play-on-heavy.com">Manga Entertainment Anime Titles to Play on Heavy.com</news>
+<news datetime="2007-09-05T16:24:27Z" href="http://www.animenewsnetwork.com/news/2007-09-05/tezuka-anime-downloads-added-to-american-itunes-store">Tezuka Anime Downloads Added to American iTunes Store</news>
+<news datetime="2007-09-19T18:20:20Z" href="http://www.animenewsnetwork.com/news/2007-09-19/manga-entertainment-expands-anime-download-offerings">Manga Entertainment Expands Anime Download Offerings</news>
+<news datetime="2007-10-04T08:52:24Z" href="http://www.animenewsnetwork.com/news/2007-10-04/websites-for-astro-boy-super-robot-wars-ova-launched">Websites for &lt;cite&gt;Astro Boy, Super Robot Wars OVA&lt;/cite&gt; Launched</news>
+<news datetime="2007-10-04T15:36:11Z" href="http://www.animenewsnetwork.com/news/2007-10-04/cw-to-replace-kids-wb-block-with-4kids-on-saturdays">CW to Replace Kids' WB! Block with 4Kids on Saturdays</news>
+<news datetime="2007-12-24T19:48:23Z" href="http://www.animenewsnetwork.com/news/2007-12-24/adult-swim-to-show-astro-boy-marathon-on-christmas-day">Adult Swim to Show &lt;cite&gt;Astro Boy&lt;/cite&gt; Marathon on Christmas Day</news>
+<news datetime="2008-01-18T19:19:58Z" href="http://www.animenewsnetwork.com/news/2008-01-18/speed-racer-gatchaman-writer-jinzo-toriumi-passes-away">&lt;cite&gt;Speed Racer, Gatchaman&lt;/cite&gt; Writer Jinzo Toriumi Passes Away</news>
+<news datetime="2008-01-19T07:06:48Z" href="http://www.animenewsnetwork.com/news/2008-01-19/amazon-unbox-service-offering-some-free-anime-episodes">Amazon Unbox Service Offering Some Free Anime Episodes</news>
+<news datetime="2008-01-25T18:42:04Z" href="http://www.animenewsnetwork.com/news/2008-01-25/appleseed-director-aramaki-to-attend-d.c-screening">&lt;cite&gt;Appleseed&lt;/cite&gt; Director Aramaki to Attend D.C. Screening</news>
+<news datetime="2008-02-29T22:31:32Z" href="http://www.animenewsnetwork.com/news/2008-02-29/free-bakugan-no.1-on-itunes-hd-afro-samurai-on-xbox-live">Free &lt;cite&gt;Bakugan&lt;/cite&gt; #1 on iTunes; HD &lt;cite&gt;Afro Samurai&lt;/cite&gt; on Xbox Live</news>
+<news datetime="2008-02-29T11:24:23Z" href="http://www.animenewsnetwork.com/news/2008-02-29/miike-i.g-create-mobile-phone-detectives-7-tv-drama">Miike, I.G Create &lt;cite&gt;Mobile Phone Detectives 7&lt;/cite&gt; TV Drama</news>
+<news datetime="2008-05-06T15:57:15Z" href="http://www.animenewsnetwork.com/news/2008-05-06/june-licensing-intl-expo-to-feature-anime-franchises">June's Licensing Int'l Expo to Feature Anime Franchises</news>
+<news datetime="2008-05-15T14:23:14Z" href="http://www.animenewsnetwork.com/news/2008-05-15/new-york-times-interviews-1st-speed-racer-voice-actor">&lt;cite&gt;New York Times&lt;/cite&gt; Interviews 1st &lt;cite&gt;Speed Racer&lt;/cite&gt; Voice Actor</news>
+<news datetime="2008-05-15T17:09:04Z" href="http://www.animenewsnetwork.com/news/2008-05-15/yamato-macross-director-noboru-ishiguro-interviewed">&lt;cite&gt;Yamato, Macross&lt;/cite&gt; Director Noboru Ishiguro Interviewed</news>
+<news datetime="2008-06-29T09:52:16Z" href="http://www.animenewsnetwork.com/news/2008-06-29/stone-bridge-press-to-publish-english-book-on-satoshi-kon">Stone Bridge Press to Publish English Book on Satoshi Kon</news>
+<news datetime="2008-08-01T03:31:02Z" href="http://www.animenewsnetwork.com/news/2008-07-31/kitaro-films-wwii-anime-to-play-at-locarno-film-fest">&lt;cite&gt;Kitaro&lt;/cite&gt; Films, WWII Anime to Play at Locarno Film Fest</news>
+<news datetime="2008-12-05T23:39:26Z" href="http://www.animenewsnetwork.com/news/2008-12-05/grave-of-the-fireflies-tezuka-marathon-in-dc-saturday">&lt;cite&gt;Grave of the Fireflies&lt;/cite&gt;, Tezuka Marathon in DC Saturday</news>
+<news datetime="2009-01-22T10:09:50Z" href="http://www.animenewsnetwork.com/news/2009-01-22/weekly-osamu-tezuka-tv-show-to-remake-19-classic-manga">&lt;cite&gt;Weekly Osamu Tezuka&lt;/cite&gt; TV Show to Remake 19 Classic Manga</news>
+<news datetime="2009-01-31T08:26:14Z" href="http://www.animenewsnetwork.com/news/2009-01-31/gundam-creator-yoshiyuki-tomino-at-italian-convention">&lt;cite&gt;Gundam&lt;/cite&gt; Creator Yoshiyuki Tomino at Italian Convention</news>
+<news datetime="2009-02-17T17:59:13Z" href="http://www.animenewsnetwork.com/news/2009-02-17/sakura-con-to-host-voice-actor-kappei-yamaguchi">Sakura-Con to Host Voice Actor Kappei Yamaguchi</news>
+<news datetime="2009-03-07T18:59:06Z" href="http://www.animenewsnetwork.com/news/2009-03-07/3rd-annual-seiyu-award-winners-officially-announced">3rd Annual Seiyū Award Winners Officially Announced</news>
+<news datetime="2009-06-19T16:00:00Z" href="http://www.animenewsnetwork.com/news/2009-06-19/gundam-yoshiyuki-tomino-to-appear-at-ny-anime-fest">&lt;cite&gt;Gundam's&lt;/cite&gt; Yoshiyuki Tomino to Appear at NY Anime Fest</news>
+<news datetime="2009-07-06T20:51:22Z" href="http://www.animenewsnetwork.com/news/2009-07-06/13-osamu-tezuka-anime-shorts-ship-on-u.s-dvd-on-july-28">13 Osamu Tezuka Anime Shorts Ship on U.S. DVD on July 28</news>
+<news datetime="2009-11-12T17:44:25Z" href="http://www.animenewsnetwork.com/news/2009-11-12/dc-museum-starts-month-long-tezuka-film-fest-on-friday">DC Museum Starts Month-Long Tezuka Film Fest on Friday</news>
+<news datetime="2009-11-17T04:23:14Z" href="http://www.animenewsnetwork.com/news/2009-11-16/new-york-intl-children-film-fest-to-show-tezuka-films">New York Int'l Children's Film Fest to Show Tezuka Films This Month</news>
+<news datetime="2010-01-23T19:53:04Z" href="http://www.animenewsnetwork.com/news/2010-01-23/hawaii-kawaii-kon-hosts-director-aramaki-actor-kishio">Hawaii's Kawaii Kon Hosts Director Aramaki, Actor Kishio</news>
+<news datetime="2010-05-20T11:00:00Z" href="http://www.animenewsnetwork.com/news/2010-05-20/japan-surveyed-on-anime-manga-other-cultural-exports">Japan Surveyed on Anime, Manga, Other Cultural Exports</news>
+<news datetime="2010-07-15T17:42:57Z" href="http://www.animenewsnetwork.com/news/2010-07-15/speed-racer-voice-actor-peter-fernandez-passes-away">&lt;cite&gt;Speed Racer&lt;/cite&gt; Voice Actor Peter Fernandez Passes Away</news>
+<news datetime="2010-08-15T17:47:48Z" href="http://www.animenewsnetwork.com/news/2010-08-15/ghibli-earthsea-opens-with-us$20100-in-5-theaters">Ghibli's &lt;cite&gt;Earthsea&lt;/cite&gt; Opens with US$20,100 in 5 Theaters</news>
+<news datetime="2010-09-02T22:53:22Z" href="http://www.animenewsnetwork.com/news/2010-09-02/gatchaman-animator-sadao-miyamoto-appears-in-la">&lt;cite&gt;Gatchaman&lt;/cite&gt; Animator Sadao Miyamoto Appears in LA</news>
+<news datetime="2010-09-08T00:48:23Z" href="http://www.animenewsnetwork.com/news/2010-09-08/voice-actor-ayao-wada-passes-away">Voice Actor Ayao Wada Passes Away</news>
+<news datetime="2011-02-16T05:56:34Z" href="http://www.animenewsnetwork.com/news/2011-02-16/some-of-the-5th-annual-seiyu-award-winners-announced">Some of the 5th Annual Seiyū Award Winners Announced</news>
+<news datetime="2011-02-20T00:35:40Z" href="http://www.animenewsnetwork.com/news/2011-02-19/english-subbed-denno-coil-anime-sold-in-iphone/ios-app">English-Subbed &lt;cite&gt;Dennō Coil&lt;/cite&gt; Anime Sold in iPhone/iOS App</news>
+<news datetime="2011-03-05T10:11:29Z" href="http://www.animenewsnetwork.com/news/2011-03-05/5th-annual-seiyu-award-winners-announced">5th Annual Seiyū Award Winners Announced</news>
+<news datetime="2011-04-18T03:20:24Z" href="http://www.animenewsnetwork.com/news/2011-04-17/anime-director-osamu-dezaki-passes-away">Anime Director Osamu Dezaki Passes Away</news>
+<news datetime="2011-06-19T00:11:08Z" href="http://www.animenewsnetwork.com/news/2011-06-19/anime-included-in-barbican-animation-show">Anime Included in Barbican Animation Show</news>
+<news datetime="2011-07-13T03:00:00Z" href="http://www.animenewsnetwork.com/news/2011-07-12/otakon-hosts-angel-scandys-premiere-director-concert">Otakon Hosts &lt;cite&gt;Angel ScandyS&lt;/cite&gt; Premiere, Director, Concert</news>
+<news datetime="2013-06-12T17:10:00Z" href="http://www.animenewsnetwork.com/news/2013-06-12/tezuka-pro-in-talks-to-create-local-versions-of-astro-boy-around-the-world">Tezuka Pro in Talks to Create Local Versions of &lt;cite&gt;Astro Boy&lt;/cite&gt; Around the World</news>
+<news datetime="2014-12-22T04:57:00Z" href="http://www.animenewsnetwork.com:/news/2014-12-21/astro-boy-reboot-1st-image-unveiled/.82493">&lt;cite&gt;Astro Boy&lt;/cite&gt; Reboot's 1st Image Unveiled</news>
+<news datetime="2015-02-09T07:00:00Z" href="http://www.animenewsnetwork.com:/news/2015-02-09/free-anime-in-australia-9-jan-15-feb/.84247">Free Anime in Australia: 9/Jan - 15/Feb</news>
+<news datetime="2015-12-30T20:10:00Z" href="http://www.animenewsnetwork.com:/news/2015-12-30/chibi-maruko-chan-sazae-san-dr-slump-top-list-of-most-viewed-anime-episodes/.97077">&lt;cite&gt;Chibi Maruko-chan, Sazae-san, Dr. Slump&lt;/cite&gt; Top List of Most-Viewed Anime Episodes</news>
+<staff gid="1010517369"><task>Series Director</task><person id="883">Osamu Tezuka</person></staff>
+<staff gid="1514894202"><task>Script</task><person id="100">Yoshiyuki Tomino</person></staff>
+<staff gid="3413210346"><task>Script</task><person id="5776">Masaki Tsuji</person></staff>
+<staff gid="438351928"><task>Screenplay</task><person id="100">Yoshiyuki Tomino</person></staff>
+<staff gid="2953855113"><task>Storyboard</task><person id="100">Yoshiyuki Tomino</person></staff>
+<staff gid="2633332906"><task>Episode Director</task><person id="65">Osamu Dezaki</person></staff>
+<staff gid="3084760496"><task>Episode Director</task><person id="100">Yoshiyuki Tomino</person></staff>
+<staff gid="2823282496"><task>Episode Director</task><person id="3328">Gisaburō Sugii</person></staff>
+<staff gid="2338503334"><task>Episode Director</task><person id="5556">Eiichi Yamamoto</person></staff>
+<staff gid="1214919127"><task>Music</task><person id="14196">Tatsuo Takai</person></staff>
+<staff gid="1983701989"><task>Original Manga</task><person id="883">Osamu Tezuka</person></staff>
+<cast gid="2522980568" lang="EN"><role>Astro</role><person id="3544">Billie Lou Watt</person></cast>
+<cast gid="1632176547" lang="ES"><role>Astroboy</role><person id="98831">Esperanzita Martínez</person></cast>
+<cast gid="3710482355" lang="ES"><role>Dr. Elefun</role><person id="98832">Félix Antelo</person></cast>
+<cast gid="2577609777" lang="JA"><role>Uran</role><person id="3271">Reiko Mutoh</person></cast>
+<cast gid="1289618618" lang="JA"><role>Atom</role><person id="7690">Mari Shimizu</person></cast>
+<cast gid="1504369455" lang="JA"><role>Atom</role><person id="7698">Kazue Tagami</person></cast>
+<cast gid="1081644659" lang="JA"><role>Uran</role><person id="7700">Yoko Mizugaki</person></cast>
+<cast gid="2808680984" lang="JA"><role>Uran</role><person id="19782">Kazuko Yoshikawa</person></cast>
+<cast gid="3210164291" lang="JA"><role>Dr Ochanomizu</role><person id="20069">Hisashi Katsuta</person></cast>
+<credit gid="3140723144"><task>Production</task><company id="12078">Mushi Production</company></credit></anime></ann>

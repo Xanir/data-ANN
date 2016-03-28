@@ -1,0 +1,352 @@
+<ann><anime id="1100" gid="505263260" type="TV" name="Mazinger Z" precision="TV" generated-on="2016-03-27T05:40:20Z">
+<related-prev rel="adapted from" id="3859"/>
+<related-next id="1007" rel="related"/>
+<related-next id="1997" rel="sequel"/>
+<related-next id="1999" rel="related"/>
+<related-next id="3556" rel="spinoff"/>
+<related-next id="3593" rel="sequel"/>
+<related-next id="3767" rel="related"/>
+<related-next id="3879" rel="spinoff"/>
+<related-next id="4839" rel="related"/>
+<related-next id="8949" rel="spinoff"/>
+<related-next id="10653" rel="alternate retelling"/>
+<related-next id="15511" rel="related"/>
+<info gid="684327135" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A1100-17.jpg" width="200" height="150"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A1100-17.jpg" width="200" height="150"/><img src="http://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A1100-17.jpg" width="320" height="240"/></info>
+<info gid="2602578067" type="Main title" lang="EN">Mazinger Z</info>
+<info gid="2701326744" type="Alternative title" lang="IT">Mazinga Z</info>
+<info gid="3453680072" type="Alternative title" lang="ES">Mazinger z mastin</info>
+<info gid="1990288224" type="Alternative title" lang="EN">Tranzor Z</info>
+<info gid="3381810727" type="Alternative title" lang="AR">مازنجر</info>
+<info gid="2551302184" type="Alternative title" lang="JA">マジンガーZ</info>
+<info gid="611105938" type="Alternative title" lang="ZH-TW">無敵鐵金剛</info>
+<info gid="2878521610" type="Alternative title" lang="KO">마징가 제트</info>
+<info gid="3363870628" type="Genres">action</info>
+<info gid="3291302956" type="Genres">adventure</info>
+<info gid="2611409579" type="Genres">science fiction</info>
+<info gid="1162719488" type="Themes">mecha</info>
+<info gid="1396528692" type="Themes">super robot</info>
+<info gid="2090146155" type="Objectionable content">OC</info>
+<info gid="3094419879" type="Plot Summary">From the island of Bardos in the Aegean Sea comes a new threat to humanity in the form of Doctor Hell and his army of mechanical beasts. However, a new hero stands in his way: Mazinger Z, a giant robot built out of the indestructible metal &lt;i&gt;chogokin&lt;/i&gt; and equipped with an arsenal of advanced weaponry. Piloting Mazinger Z is hotheaded teenager Kouji Kabuto, who strives to avenge the death of his grandfather and protect Japan from Doctor Hell's forces.</info>
+<info gid="1340801164" type="Running time">half hour</info>
+<info gid="626736807" type="Number of episodes">92</info>
+<info gid="3263997668" type="Vintage">1972-12-03 to 1974-09-01</info>
+<info gid="3669506484" type="Vintage">1980-01-21 (Italy)</info>
+<info gid="815445326" type="Vintage">1984 (México - Canal 5)</info>
+<info gid="2842303665" type="Vintage">1994 (TV Azteca - Azteca 13)</info>
+<info gid="2241937430" type="Vintage">1997 (TV Azteca - Azteca 7)</info>
+<info gid="691717468" type="Vintage">2012-07-07 (Mexico, Cadena Tres)</info>
+<info gid="273987296" type="Opening Theme">&quot;Mazinger Z&quot; by Ichiro Mizuki</info>
+<info gid="1057772099" type="Ending Theme">&quot;Bokura no Mazinger Z&quot; by Ichiro Mizuki</info>
+<info gid="3000743785" type="Official website" lang="JA" href="http://www.toei-anim.co.jp/lineup/tv/mazingerz/">Toei Animation's &lt;i&gt;Mazinger Z&lt;/i&gt; Homepage</info>
+<ratings nb_votes="135" weighted_score="6.7604" bayesian_score="6.82738"/>
+<episode num="1">
+<title gid="2298557400" lang="EN">Birth of the Wondrous Robot</title></episode>
+<episode num="2">
+<title gid="3203006662" lang="EN">Stop the Ashura army</title></episode>
+<episode num="3">
+<title gid="2131814792" lang="EN">Operation annihilate Mazinger Z</title></episode>
+<episode num="4">
+<title gid="1538502814" lang="EN">Mazinger Z driven into a corner</title></episode>
+<episode num="5">
+<title gid="1771617403" lang="EN">Ghost Mazinger appearance</title></episode>
+<episode num="6">
+<title gid="1493302251" lang="EN">Doctor Hell's pair of great mechanical beasts</title></episode>
+<episode num="7">
+<title gid="3649305639" lang="EN">Baron Ashura's great strategy</title></episode>
+<episode num="8">
+<title gid="3166376454" lang="EN">Great devil Abdora's true form</title></episode>
+<episode num="9">
+<title gid="1945308267" lang="EN">Deimos F3 is the demon's bastard son</title></episode>
+<episode num="10">
+<title gid="1564855693" lang="EN">Strong arm flying in the sky Daian</title></episode>
+<episode num="11">
+<title gid="425542377" lang="EN">Blast phantom's gun Garen!!</title></episode>
+<episode num="12">
+<title gid="3112791138" lang="EN">Traitor! Great transformation robot Bicong</title></episode>
+<episode num="13">
+<title gid="388369099" lang="EN">Demon's great slalom attack!!</title></episode>
+<episode num="14">
+<title gid="2110581217" lang="EN">Infuriate! Sleeping giant Spartan</title></episode>
+<episode num="15">
+<title gid="2196468848" lang="EN">Operation great tsunami mechanical beast</title></episode>
+<episode num="16">
+<title gid="2120825640" lang="EN">Kouji Kabuto's assassination order!!</title></episode>
+<episode num="17">
+<title gid="3716207505" lang="EN">Abyss mechanical beast Holzon V3</title></episode>
+<episode num="18">
+<title gid="2536033065" lang="EN">Pirate gang of blood Glossam!</title></episode>
+<episode num="19">
+<title gid="3896191497" lang="EN">Flying devil beast Devira X!!</title></episode>
+<episode num="20">
+<title gid="1488550363" lang="EN">Flying mechanical beast Stronger</title></episode>
+<episode num="21">
+<title gid="2331634809" lang="EN">Ghost Town's Duel</title></episode>
+<episode num="22">
+<title gid="1746630455" lang="EN">Ambush attack!! Sea floor stronghold Salude</title></episode>
+<episode num="23">
+<title gid="1949729493" lang="EN">Mechanical beast Dan Dan operation big wheel</title></episode>
+<episode num="24">
+<title gid="2598079266" lang="EN">Mach mechanical beast Jinrai</title></episode>
+<episode num="25">
+<title gid="1453304446" lang="EN">Third brother Aeros operation big eruption</title></episode>
+<episode num="26">
+<title gid="862722427" lang="EN">Clash! Samurai Kouji VS Ashura mechanical beast</title></episode>
+<episode num="27">
+<title gid="2053673282" lang="EN">Aphrodite A operation take lives</title></episode>
+<episode num="28">
+<title gid="1976083592" lang="EN">Dark command, operation steal super-alloy</title></episode>
+<episode num="29">
+<title gid="1380095174" lang="EN">Great reversal Mazin Power!!</title></episode>
+<episode num="30">
+<title gid="2782581326" lang="EN">Watch out Shiro, launch Mazinger Z!!</title></episode>
+<episode num="31">
+<title gid="3344977483" lang="EN">Prisoner beast machine operation electromagnetic waves</title></episode>
+<episode num="32">
+<title gid="2407118458" lang="EN">Three headed beast machine of terror</title></episode>
+<episode num="33">
+<title gid="3326858697" lang="EN">Big air-raid! Baras K is the sky's outlaw</title></episode>
+<episode num="34">
+<title gid="1735031231" lang="EN">Deep red flash of lightning, sky flying Mazinger</title></episode>
+<episode num="35">
+<title gid="2931455872" lang="EN">God of death mechanical beast, Desma's fierce attack</title></episode>
+<episode num="36">
+<title gid="3706138485" lang="EN">Metamorphosis mechanical beast living in the Great Lakes</title></episode>
+<episode num="37">
+<title gid="2112540566" lang="EN">Messenger from the darkness, scrander certain kill</title></episode>
+<episode num="38">
+<title gid="1197255930" lang="EN">Enigmatic robot Minerva X</title></episode>
+<episode num="39">
+<title gid="235599623" lang="EN">Challenge risking the life! Crimson sea Salude</title></episode>
+<episode num="40">
+<title gid="2656886299" lang="EN">Devil governor count Brocken</title></episode>
+<episode num="41">
+<title gid="1785062713" lang="EN">Broken wings sky's struggle to the death</title></episode>
+<episode num="42">
+<title gid="3269540109" lang="EN">Devil's command!! Concentrated attack on air and land</title></episode>
+<episode num="43">
+<title gid="1420758337" lang="EN">Assault!! Parachute surprise attack force</title></episode>
+<episode num="44">
+<title gid="2437830051" lang="EN">Big charge!! Bottom of new sea stronghold Rood</title></episode>
+<episode num="45">
+<title gid="2045755548" lang="EN">Photonic Energy Research Lab devil's target!</title></episode>
+<episode num="46">
+<title gid="1595662919" lang="EN">Ninja twin mechanical beasts appear</title></episode>
+<episode num="47">
+<title gid="1455119789" lang="EN">Heroic! Operation Hell's W</title></episode>
+<episode num="48">
+<title gid="2430948277" lang="EN">Boss Robot combat initiation!!</title></episode>
+<episode num="49">
+<title gid="2720230165" lang="EN">Great fight of the robot of madness</title></episode>
+<episode num="50">
+<title gid="2599047013" lang="EN">Shooting down!! Jet Scrander</title></episode>
+<episode num="51">
+<title gid="968574400" lang="EN">Assasins from hell Skull's Army!</title></episode>
+<episode num="52">
+<title gid="3582618547" lang="EN">Kouji's crisis, Sayaka mobilizes Mazinger!</title></episode>
+<episode num="53">
+<title gid="3247295637" lang="EN">Second step metamorphosis!! Eye deceiving mechanical beast</title></episode>
+<episode num="54">
+<title gid="2260520536" lang="EN">Explosion!! Powerful Rocket Punch!!</title></episode>
+<episode num="55">
+<title gid="3187235594" lang="EN">Mt. Fuji great straight descent operation</title></episode>
+<episode num="56">
+<title gid="2851484773" lang="EN">Stolen super-alloy Z!</title></episode>
+<episode num="57">
+<title gid="2877417643" lang="EN">Dr. Hell's Japan occupation!!</title></episode>
+<episode num="58">
+<title gid="2106095715" lang="EN">Front base hell's castle!!</title></episode>
+<episode num="59">
+<title gid="2996939055" lang="EN">Hell's castle, the devil's battle proclamation!!</title></episode>
+<episode num="60">
+<title gid="1767926165" lang="EN">Mazinger Z secret weapon shooting!!</title></episode>
+<episode num="61">
+<title gid="924289541" lang="EN">Song of the robot of fate Ryne X</title></episode>
+<episode num="62">
+<title gid="690526364" lang="EN">Unexpected?! Boss Robot mid-air flight</title></episode>
+<episode num="63">
+<title gid="3429012428" lang="EN">The beautiful girl carrying a bomb</title></episode>
+<episode num="64">
+<title gid="2074919309" lang="EN">Woman 007 VS Brocken devilish homicide</title></episode>
+<episode num="65">
+<title gid="2268902545" lang="EN">The ballon bomb carried by the wind</title></episode>
+<episode num="66">
+<title gid="2026088946" lang="EN">Shapeless hitman Jenova M9</title></episode>
+<episode num="67">
+<title gid="1810011330" lang="EN">Don't cry Kouji! The life placed in the Cross</title></episode>
+<episode num="68">
+<title gid="2001489261" lang="EN">The bodyguard from hell Archduke Gorgon</title></episode>
+<episode num="69">
+<title gid="1894087291" lang="EN">Air solution! Hover Pilder</title></episode>
+<episode num="70">
+<title gid="1628257657" lang="EN">Invulnerable commander Kouji Kabuto!!</title></episode>
+<episode num="71">
+<title gid="2095549910" lang="EN">Crisis relief!! New Pilder GO!!</title></episode>
+<episode num="72">
+<title gid="3391849928" lang="EN">Certain kill!! Giant swing Rocket Punch</title></episode>
+<episode num="73">
+<title gid="3165425899" lang="EN">Abducted Mazinger Z</title></episode>
+<episode num="74">
+<title gid="2253822184" lang="EN">Heroic!! End of Aphrodite A!!</title></episode>
+<episode num="75">
+<title gid="3492095981" lang="EN">Suicidal attack! Gorgon's mechanical beast</title></episode>
+<episode num="76">
+<title gid="1889984139" lang="EN">Lover of the era Diana A!</title></episode>
+<episode num="77">
+<title gid="2804608576" lang="EN">Dying officer Count Brocken</title></episode>
+<episode num="78">
+<title gid="2032379620" lang="EN">Baron Ashura's falls in the Pacific Ocean!!</title></episode>
+<episode num="79">
+<title gid="3145348641" lang="EN">One second before Mazinger's explosion!!</title></episode>
+<episode num="80">
+<title gid="2446561091" lang="EN">Fall in Birds Island's trap!!</title></episode>
+<episode num="81">
+<title gid="3202127917" lang="EN">Sleep in hell!! Kouji Kabuto!!</title></episode>
+<episode num="82">
+<title gid="2601782645" lang="EN">The one who crossed the Devil's hand, Mazinger Z</title></episode>
+<episode num="83">
+<title gid="2167174514" lang="EN">First meeting!! Demon Officer Viscount Pigman!!</title></episode>
+<episode num="84">
+<title gid="1733170976" lang="EN">The deep sea is the graveyard of Mazinger Z!!</title></episode>
+<episode num="85">
+<title gid="2749998517" lang="EN">Bizarre!! The black shadow's attack!!</title></episode>
+<episode num="86">
+<title gid="1906278656" lang="EN">General attack! Triple great operation of death</title></episode>
+<episode num="87">
+<title gid="1154848566" lang="EN">Bomb victim!! The terrorific Pigman Viscount!!</title></episode>
+<episode num="88">
+<title gid="2967598575" lang="EN">Life or death? Hell's Island's battle to an inevitable death!!</title></episode>
+<episode num="89">
+<title gid="3461124748" lang="EN">Now or never!! The 4,000m under earth wonder!!</title></episode>
+<episode num="90">
+<title gid="1768553914" lang="EN">Enrage Shiro!! Defeat your mother's vestige!!</title></episode>
+<episode num="91">
+<title gid="2201822229" lang="EN">Last Chance!! Dr. Hell's decisive battle to the death!!</title></episode>
+<episode num="92">
+<title gid="2966876666" lang="EN">Death Match!! Resurrect our Mazinger Z!!</title></episode>
+<review href="http://www.animenewsnetwork.com/review/mazinger-z/sub.dvd-tv-series-vol-1/.76178">Mazinger Z Sub.DVD Part 1</review>
+<release date="2014-04-29" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=26432">Mazinger Z - TV Series Vol. 1 (Sub.DVD)</release>
+<release date="2014-12-23" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=27910">Mazinger Z - TV Series Vol. 2 (Sub.DVD)</release>
+<news datetime="2001-01-16T03:56:48Z" href="http://www.animenewsnetwork.com/news/2001-01-15/animage-top-100-anime-listing">Animage Top-100 Anime Listing</news>
+<news datetime="2001-10-16T02:14:30Z" href="http://www.animenewsnetwork.com/news/2001-10-15/december-merchandise-releases">December Merchandise Releases</news>
+<news datetime="2004-03-15T16:45:43Z" href="http://www.animenewsnetwork.com/news/2004-03-15/new-anime">New Anime</news>
+<news datetime="2005-02-08T17:59:48Z" href="http://www.animenewsnetwork.com/news/2005-02-08/super-robot-wars-alpha-3-for-ps2">Super Robot Wars Alpha 3 for PS2</news>
+<news datetime="2005-09-23T17:39:30Z" href="http://www.animenewsnetwork.com/news/2005-09-23/tv-asahi-top-100-anime">TV Asahi Top 100 Anime</news>
+<news datetime="2005-09-23T20:38:14Z" href="http://www.animenewsnetwork.com/news/2005-09-23/tv-asahi-top-100-anime-part-2">TV Asahi Top 100 Anime Part 2</news>
+<news datetime="2006-10-12T21:45:00Z" href="http://www.animenewsnetwork.com/news/2006-10-13/japans-favorite-tv-anime">Japan's Favorite TV Anime</news>
+<news datetime="2007-01-11T06:54:35Z" href="http://www.animenewsnetwork.com/news/2007-01-11/animazement-announces-7-japanese-guests">Animazement Announces 7 Japanese Guests</news>
+<news datetime="2007-09-28T13:34:41Z" href="http://www.animenewsnetwork.com/news/2007-09-28/italian-police-confiscate-80-000-pirated-anime-dvds">Italian Police Confiscate 80,000 Pirated Anime DVDs</news>
+<news datetime="2008-09-22T18:10:14Z" href="http://www.animenewsnetwork.com/news/2008-09-22/27-year-old-canadian-wins-aniplex-singing-contest">27-Year-Old Canadian Wins Animax's Singing Contest</news>
+<news datetime="2009-02-23T01:18:17Z" href="http://www.animenewsnetwork.com/news/2009-02-22/shin-mazinger-shogeki-z-hen-tv-remake-set-for-2009">&lt;cite&gt;Shin Mazinger Shōgeki! Z-Hen&lt;/cite&gt; TV Remake Set for 2009</news>
+<news datetime="2009-03-05T08:53:54Z" href="http://www.animenewsnetwork.com/news/2009-03-05/staff/shin-mazinger-is-not-new-mazinger-z-or-remake">Staff: &lt;cite&gt;Shin Mazinger&lt;/cite&gt; is Not New &lt;cite&gt;Mazinger Z&lt;/cite&gt; or Remake</news>
+<news datetime="2009-07-23T16:12:16Z" href="http://www.animenewsnetwork.com/news/2009-07-23/mazinger-z-north-star-scriptwriter-susumu-takaku-dies">&lt;cite&gt;Mazinger Z, North Star&lt;/cite&gt; Scriptwriter Susumu Takaku Dies</news>
+<news datetime="2009-11-16T14:23:19Z" href="http://www.animenewsnetwork.com/news/2009-11-16/1st-kingrun-anime-songs-kohaku-tv-event-announced">1st &lt;cite&gt;Kingrun Anime Songs Kōhaku&lt;/cite&gt; TV Event Announced</news>
+<news datetime="2010-01-01T04:00:00Z" href="http://www.animenewsnetwork.com/news/2009-12-31/in-memoriam">In Memoriam</news>
+<news datetime="2010-01-15T11:46:50Z" href="http://www.animenewsnetwork.com/news/2010-01-15/gegege-no-kitaro-voice-actor-isamu-tanonaka-passes-away">&lt;cite&gt;Gegege no Kitarō&lt;/cite&gt; Voice Actor Isamu Tanonaka Passes Away</news>
+<news datetime="2010-09-14T00:58:43Z" href="http://www.animenewsnetwork.com/news/2010-09-14/singapore-anime-festival-asia-announces-guest-lineup">Singapore's Anime Festival Asia Announces Guest Lineup</news>
+<news datetime="2010-09-25T17:08:57Z" href="http://www.animenewsnetwork.com/news/2010-09-25/bakuman-mazinkaizer-skl-arakawa-under-the-bridge-2-videos-posted">&lt;cite&gt;Bakuman, Mazinkaizer SKL, Arakawa Under the Bridge × 2&lt;/cite&gt; Videos Posted</news>
+<news datetime="2011-01-25T21:54:56Z" href="http://www.animenewsnetwork.com/news/2011-01-25/sazae-san-cast-toei-staffers-win-tokyo-anime-awards">&lt;cite&gt;Sazae-san&lt;/cite&gt; Cast, Toei Staffers Win Tokyo Anime Awards</news>
+<news datetime="2011-09-27T00:00:00Z" href="http://www.animenewsnetwork.com/news/2011-09-26/singapore-anime-festival-asia-announces-guest-lineup-theme-song">Singapore's Anime Festival Asia Announces Guest Lineup, Theme Song</news>
+<news datetime="2011-11-28T12:15:00Z" href="http://www.animenewsnetwork.com/news/2011-11-28/aic-adapts-aoshima-atoranjaa-robot-manga-into-anime">AIC Adapts Aoshima's &lt;cite&gt;Atoranjaa&lt;/cite&gt; Robot Into Anime Short</news>
+<news datetime="2012-10-06T22:25:29Z" href="http://www.animenewsnetwork.com/news/2012-10-06/discotek-adds-mazinger-z-super-robot-tv-anime">Discotek Adds &lt;cite&gt;Mazinger Z&lt;/cite&gt; Super Robot TV Anime</news>
+<news datetime="2013-07-29T06:40:00Z" href="http://www.animenewsnetwork.com/news/2013-07-29/toei-robot-girls-z-tv-anime-shorts-to-premiere-in-january">Toei's &lt;cite&gt;Robot Girls Z&lt;/cite&gt; TV Anime Shorts to Premiere in January</news>
+<news datetime="2014-01-14T22:53:48Z" href="http://www.animenewsnetwork.com/news/2014-01-14/discotek-adds-amazing-nuts-video-anime-anthology">Discotek Adds &lt;cite&gt;Amazing Nuts!&lt;/cite&gt; Video Anime Anthology</news>
+<news datetime="2014-02-27T02:45:00Z" href="http://www.animenewsnetwork.com/news/2014-02-26/discotek-licenses-school-days-magical-heart-kokoro-chan">Discotek Licenses &lt;cite&gt;School Days, Magical Heart Kokoro-chan&lt;/cite&gt;</news>
+<news datetime="2014-04-29T22:30:55Z" href="http://www.animenewsnetwork.com/news/2014-04-29/north-american-anime-manga-releases-april-27-may-3">North American Anime, Manga Releases, April 27-May 3</news>
+<news datetime="2014-12-23T21:00:33Z" href="http://www.animenewsnetwork.com:/news/2014-12-23/north-american-anime-manga-releases-december-21-27/.82564">North American Anime, Manga Releases, December 21-27</news>
+<staff gid="4141900295"><task>Director</task><person id="8979">Tomoharu Katsumata</person></staff>
+<staff gid="508236802"><task>Screenplay</task><person id="5555">Keisuke Fujikawa</person></staff>
+<staff gid="2758724495"><task>Screenplay</task><person id="8985">Hiroyasu Yamaura</person></staff>
+<staff gid="2422564942"><task>Screenplay</task><person id="21700">Hirokazu Fuse</person></staff>
+<staff gid="2464774159"><task>Screenplay</task><person id="41233">Susumu Takaku</person></staff>
+<staff gid="2744505525"><task>Episode Director</task><person id="1484">Takeshi Tamiya</person></staff>
+<staff gid="1588627140"><task>Episode Director</task><person id="4306">Katsuhisa Yamada</person></staff>
+<staff gid="3242655181"><task>Episode Director</task><person id="5426">Takashi Kuoka</person></staff>
+<staff gid="2323227976"><task>Episode Director</task><person id="7037">Yugo Serikawa</person></staff>
+<staff gid="4486414"><task>Episode Director</task><person id="8979">Tomoharu Katsumata</person></staff>
+<staff gid="1347099559"><task>Episode Director</task><person id="8989">Masamune Ochiai</person></staff>
+<staff gid="1052648264"><task>Episode Director</task><person id="8990">Nobuo Onuki</person></staff>
+<staff gid="1249682202"><task>Episode Director</task><person id="8991">Bonjin Nagaki</person></staff>
+<staff gid="2503478522"><task>Episode Director</task><person id="10911">Nobutaka Nishizawa</person></staff>
+<staff gid="1484834697"><task>Episode Director</task><person id="19241">Tsunehito Nagaki</person></staff>
+<staff gid="2064946781"><task>Episode Director</task><person id="20492">Tsunekiyo Otani</person></staff>
+<staff gid="2541300589"><task>Episode Director</task><person id="20507">Yoshio Takami</person></staff>
+<staff gid="1381207889"><task>Episode Director</task><person id="25853">Kouichi Sasaki</person></staff>
+<staff gid="2920511425"><task>Episode Director</task><person id="30417">Yasuo Yamayoshi</person></staff>
+<staff gid="1635223315"><task>Episode Director</task><person id="49281">Toshio Katsuta</person></staff>
+<staff gid="804792173"><task>Episode Director</task><person id="59622">Tokushige Shirane</person></staff>
+<staff gid="639610338"><task>Episode Director</task><person id="63402">Masayuki Akehi</person></staff>
+<staff gid="1674607543"><task>Episode Director</task><person id="72201">Yoshikatsu Kasai</person></staff>
+<staff gid="3102980607"><task>Music</task><person id="8764">Michiaki Watanabe</person></staff>
+<staff gid="1613192478"><task>Music</task><person id="22300">Akira Ifukube</person></staff>
+<staff gid="2877995473"><task>Original creator</task><person id="3140">Go Nagai</person></staff>
+<staff gid="3702685228"><task>Character Design</task><person id="2775">Yoshiyuki Hane</person></staff>
+<staff gid="2134814761"><task>Character Design</task><person id="9157">Keisuke Morishita</person></staff>
+<staff gid="2485690559"><task>Art</task><person id="3226">Mataji Urata</person></staff>
+<staff gid="911846174"><task>Art</task><person id="3498">Geki Katsumata</person></staff>
+<staff gid="2049727644"><task>Art</task><person id="19421">Makoto Yamazaki</person></staff>
+<staff gid="2208739728"><task>Art</task><person id="19457">Tadami Shimokawa</person></staff>
+<staff gid="963181796"><task>Art</task><person id="20668">Iwamitsu Itoo</person></staff>
+<staff gid="2752894260"><task>Art</task><person id="21701">Tadanao Tsuji</person></staff>
+<staff gid="3086481199"><task>Art</task><person id="24368">Tomoo Fukumoto</person></staff>
+<staff gid="629933970"><task>Art</task><person id="24500">Fumihiro Uchikawa</person></staff>
+<staff gid="783829312"><task>Art</task><person id="26844">Toshikazu Yamaguchi</person></staff>
+<staff gid="1449498706"><task>Art</task><person id="42657">Makoto Yasuhide</person></staff>
+<staff gid="3501305510"><task>Animation Director</task><person id="2775">Yoshiyuki Hane</person></staff>
+<staff gid="2383921147"><task>Animation Director</task><person id="3303">Reiko Okuyama</person></staff>
+<staff gid="1985844554"><task>Animation Director</task><person id="8986">Kazuo Nakamura</person></staff>
+<staff gid="3101820943"><task>Animation Director</task><person id="8989">Masamune Ochiai</person></staff>
+<staff gid="2148750149"><task>Animation Director</task><person id="9157">Keisuke Morishita</person></staff>
+<staff gid="1329115191"><task>Animation Director</task><person id="10374">Takashi Asakura</person></staff>
+<staff gid="1659716424"><task>Animation Director</task><person id="11412">Takao Kozai</person></staff>
+<staff gid="2385491803"><task>Animation Director</task><person id="13388">Toshio Mori</person></staff>
+<staff gid="1637170904"><task>Animation Director</task><person id="14435">Hidemi Kubo</person></staff>
+<staff gid="1743532358"><task>Animation Director</task><person id="19241">Tsunehito Nagaki</person></staff>
+<staff gid="2205090163"><task>Animation Director</task><person id="19418">Koichi Tsunoda</person></staff>
+<staff gid="3061852626"><task>Animation Director</task><person id="19606">Eiji Uemura</person></staff>
+<staff gid="3602383329"><task>Animation Director</task><person id="23218">Minoru Kibata</person></staff>
+<staff gid="2961435207"><task>Sound Director</task><person id="72677">Kanji Fukunaga</person></staff>
+<cast gid="2883358119" lang="ES"><role>Koji Kabuto</role><person id="23490">Jesus Barrero</person></cast>
+<cast gid="2659807407" lang="ES"><role>Boss</role><person id="25115">Carlos Segundo</person></cast>
+<cast gid="696759667" lang="ES"><role>Koji Kabuto</role><person id="30913">Juan Alfonso Carralero</person></cast>
+<cast gid="1833737042" lang="ES"><role>Sayaka Yumi</role><person id="31617">Gloria Gonzalez</person></cast>
+<cast gid="2446399045" lang="ES"><role>Sayaka Yumi</role><person id="31688">Núria Trifol</person></cast>
+<cast gid="1994313217" lang="ES"><role>Koji Kabuto</role><person id="50493">Albert Trifol Segarra</person></cast>
+<cast gid="1897610969" lang="ES"><role>Shiro Kabuto</role><person id="50738">Nuria Doménech</person></cast>
+<cast gid="1895391929" lang="ES"><role>Baron Ashler (mujer)</role><person id="50742">Enriqueta Linares</person></cast>
+<cast gid="1850199652" lang="ES"><role>Shiro Kabuto</role><person id="52070">Nuria Mediavilla</person></cast>
+<cast gid="2213838666" lang="ES"><role>Boss</role><person id="52336">Pepe Mediavilla</person></cast>
+<cast gid="1850955051" lang="ES"><role>Professor Yumi</role><person id="52337">Enric Isasi-Isasmendi</person></cast>
+<cast gid="2614932461" lang="ES"><role>Narrator (ep35) &amp; Baron Ashler (Male)</role><person id="60952">Raxel Antonio Raxel</person></cast>
+<cast gid="2145126631" lang="ES"><role>Baró Ashura (home)</role><person id="62934">Francesc Figuerola</person></cast>
+<cast gid="3043774616" lang="ES"><role>Líder</role><person id="62936">Jaume Villanueva</person></cast>
+<cast gid="1634779216" lang="ES"><role>Baró Ashura (dona)</role><person id="62969">TERESA MANRESA</person></cast>
+<cast gid="1720133947" lang="ES"><role>Koji Kabuto</role><person id="67963">Julia Gallego</person></cast>
+<cast gid="2215622640" lang="ES"><role>Dr. Yumi</role><person id="67966">Dionisio Macias</person></cast>
+<cast gid="1681001028" lang="ES"><role>Sayaka</role><person id="69800">Esperanza Navarro</person></cast>
+<cast gid="1592733963" lang="ES"><role>Baron Ashler (hombre)</role><person id="69801">Miguel Alonso</person></cast>
+<cast gid="2632246166" lang="IT"><role>Professor Gennosuke Yumi</role><person id="8994">Aldo Massasso</person></cast>
+<cast gid="3930166727" lang="IT"><role>Sayaka Yumi</role><person id="8995">Liliana Sorrentino</person></cast>
+<cast gid="880185074" lang="IT"><role>Boss</role><person id="8996">Gilfranco Baroni</person></cast>
+<cast gid="610325313" lang="IT"><role>Doctor Hell</role><person id="8997">Lino Troisi</person></cast>
+<cast gid="410971465" lang="IT"><role>Baron Ashura (female version)</role><person id="8998">Laura Gianola</person></cast>
+<cast gid="223781510" lang="IT"><role>Shiro</role><person id="8999">Fabrizio Manfredi</person></cast>
+<cast gid="3885893276" lang="IT"><role>Baron Ashura (male version)</role><person id="9000">Antonio Colonnello</person></cast>
+<cast gid="1379421395" lang="IT"><role>Baron Ashura (female version)</role><person id="95956">Laura Gianoli</person></cast>
+<cast gid="3144265940" lang="JA"><role>Koji Kabuto</role><person id="1023">Hiroya Ishimaru</person></cast>
+<cast gid="533848154" lang="JA"><role>Sayaka Yumi</role><person id="1593">Minori Matsushima</person></cast>
+<cast gid="649546116" lang="JA"><role>Boss</role><person id="2071">Hiroshi Ohtake</person></cast>
+<cast gid="3153825294" lang="JA"><role>Baron Ashura</role><person id="2172">Hidekatsu Shibata</person></cast>
+<cast gid="2429009400" lang="JA"><role>Professor Gennosuke Yumi</role><person id="2394">Jouji Yanami</person></cast>
+<cast gid="1236343074" lang="JA"><role>Dr. Hell</role><person id="5682">Kousei Tomita</person></cast>
+<cast gid="2447871967" lang="JA"><role>Shiro Kabuto</role><person id="7361">Kazuko Sawada</person></cast>
+<cast gid="2991959805" lang="JA"><role>Baron Ashura</role><person id="9123">Haruko Kitahama</person></cast>
+<cast gid="3811163346" lang="JA"><role>Sayaka Yumi</role><person id="17097">Tomoko Matsushima</person></cast>
+<cast gid="3203274118" lang="JA"><role>Sayaka Yumi</role><person id="64873">Kotoe Taichi</person></cast>
+<cast gid="1632965710" lang="KO"><role>Baron Ashura (Male)</role><person id="96424">Hyeon-Jik Kim</person></cast>
+<cast gid="4006195920" lang="KO"><role>Aeri (Sayaka Yumi)</role><person id="97778">Park Sohyeon</person></cast>
+<cast gid="2193141240" lang="KO"><role>Cheoli (Shiro Kabuto)</role><person id="97783">Wu Munhui</person></cast>
+<cast gid="893728726" lang="KO"><role>Soi Dori (Kouji Kabuto)</role><person id="98264">Kim Yeongok</person></cast>
+<cast gid="1221604737" lang="KO"><role>Baron Ashura (Female)</role><person id="98265">Kim Seokok</person></cast>
+<cast gid="1740530336" lang="KO"><role>Dr. Hell</role><person id="98266">Park Il</person></cast>
+<credit gid="60924882"><task>Production</task><company id="145">Toei Animation</company></credit>
+<credit gid="2874190321"><task>Production</task><company id="764">Dynamic Planning</company></credit></anime></ann>

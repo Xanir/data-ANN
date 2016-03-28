@@ -1,0 +1,546 @@
+<ann><anime id="1513" gid="166218160" type="TV" name="Kinnikuman" precision="TV" generated-on="2016-03-27T01:08:33Z">
+<related-prev rel="adapted from" id="3073"/>
+<related-next id="1525" rel="sequel"/>
+<related-next id="3640" rel="sequel"/>
+<related-next id="6485" rel="spinoff"/>
+<info gid="617849677" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A1513-11.jpg" width="200" height="131"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A1513-11.jpg" width="200" height="131"/><img src="http://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A1513-11.jpg" width="320" height="210"/></info>
+<info gid="813965525" type="Main title" lang="JA">Kinnikuman</info>
+<info gid="2165673552" type="Alternative title" lang="ES">Kinnikuman El Hombre Músculos</info>
+<info gid="1217001137" type="Alternative title" lang="EN">M.U.S.C.L.E.</info>
+<info gid="3202292497" type="Alternative title" lang="FR">Mr. Muscleman</info>
+<info gid="2903329001" type="Alternative title" lang="EN">Muscleman</info>
+<info gid="810018926" type="Alternative title" lang="JA">キン肉マン</info>
+<info gid="2084655509" type="Genres">adventure</info>
+<info gid="2199961483" type="Genres">comedy</info>
+<info gid="256664554" type="Genres">science fiction</info>
+<info gid="3090481141" type="Genres">tournament</info>
+<info gid="2547662792" type="Objectionable content">TA</info>
+<info gid="2640970797" type="Plot Summary">Kinnikuman is a superhero...a bad one. The one day a person named Meat tells Kinnikuman that he is the prince of an alien planet. Kinnikuman must save the day numerous times fighting evil chōjin and competing in tournaments to prove himself to his family and to gain respect and money.</info>
+<info gid="2571774591" type="Running time">23</info>
+<info gid="1145617686" type="Number of episodes">137</info>
+<info gid="2696426687" type="Vintage">1983-04-03 to 1986-08-19</info>
+<info gid="1120057750" type="Vintage">1989-03-22 (France)</info>
+<info gid="1665290297" type="Vintage">1991-04-05 (TV3 - Televisió de Catalunya)</info>
+<info gid="3324680759" type="Vintage">2000-07-30 to 2000-10-09 (Chile) (52 cap)</info>
+<info gid="1039533956" type="Opening Theme">#1: &quot;Kinnikuman Go Fight!&quot; (キン肉マンGo Fight!) by Akira Kushida (eps 1-65)</info>
+<info gid="743864244" type="Opening Theme">#2: &quot;Honō no Kinnikuman&quot; (炎のキン肉マン; &quot;Blazing Kinnikuman&quot;) by Akira Kushida, Koorogi '73, and SHINES (eps 66-124)</info>
+<info gid="3151587856" type="Opening Theme">#3: &quot;Kinnikuman Senpū (Sensation)&quot; (キン肉マン旋風!) by Akira Kushida (eps 125-137)</info>
+<info gid="2188304173" type="Ending Theme">#1: &quot;Niku 2×9 Rock 'n Roll&quot; by Akira Kushida, Akira Kamiya, and Tetsuo Mizutori (eps 1-65)</info>
+<info gid="2911674192" type="Ending Theme">#2: &quot;Kinniku Mambo&quot; (キン肉マンボ) by Akira Kamiya, Koorogi '73, and SHINES (eps 66-96, 107-124)</info>
+<info gid="484507191" type="Ending Theme">#3: &quot;Kinnikuman Ondo&quot; (キン肉マン音頭) by Akira Kamiya, Minori Matsushima, Koorogi '73, and SHINES (eps 97-106)</info>
+<info gid="1988868548" type="Ending Theme">#4: &quot;Kinnikuman Club&quot; (キン肉マン倶楽部) by Akira Kamiya (eps 125-137)</info>
+<info gid="2148793909" type="Insert song">&quot;Akadō Suzunosuke no Uta&quot; (赤胴鈴之助の歌) by Mitsuo Kaneko (ep 56)</info>
+<info gid="2484503918" type="Insert song">&quot;Akuma no Mōgyū&quot; (悪魔の猛牛) by Takayuki Miyauchi (eps 82,86)</info>
+<info gid="1789042564" type="Insert song">&quot;Ashura Jigoku&quot; (阿修羅地獄) by Gakurō Fukuda (ep 74)</info>
+<info gid="3547968176" type="Insert song">&quot;Asia no Ōkami&quot; (アジアの狼) by Yōji Saitō (ep 108)</info>
+<info gid="847380914" type="Insert song">&quot;Chakkiri Bushi&quot; (ちゃっきり節) by Issei Futamata (ep 30)</info>
+<info gid="2599791357" type="Insert song">&quot;Dohyō no Eiyū&quot; (土俵の英雄) by Akira Kushida (ep 69)</info>
+<info gid="1935914690" type="Insert song">&quot;Gekkō Kamen wa Dare Deshō&quot; (月光仮面は誰でしょう) by Yoshiko Kondō (ep 56)</info>
+<info gid="1392666024" type="Insert song">&quot;Hakuba Dōji&quot; (白馬童子) by Kuranosuke Hamaguchi (ep 56)</info>
+<info gid="2320363826" type="Insert song">&quot;Kanashimi no Bear Claw&quot; (悲しみのベアークロー) by Woo (eps 62,72,75)</info>
+<info gid="2660953900" type="Insert song">&quot;Kiseki no Gyakuten Fighter&quot; (奇跡の逆転ファイター) by Akira Kamiya (ep 71)</info>
+<info gid="2539973085" type="Insert song">&quot;Kung Fu Fighter&quot; (カンフーファイター) by Koorogi '73 (ep 109)</info>
+<info gid="393705438" type="Insert song">&quot;Megumi no Hito&quot; (め組のひと) by Rats &amp; Star (ep 42)</info>
+<info gid="2275373209" type="Insert song">&quot;Ride of the Valkyries&quot; (Walkürenritt) by Richard Wagner (ep 16)</info>
+<info gid="1907280677" type="Insert song">&quot;See You Again, Hero!&quot; by Akira Kamiya (eps 59,65,69)</info>
+<info gid="1324705229" type="Insert song">&quot;Texas Bronco&quot; (テキサスブロンコ) by Akira Kushida (eps 59,99)</info>
+<info gid="2219114775" type="Insert song">&quot;Tsuki&quot; (月) by Tetsuo Mizutori (ep 7)</info>
+<info gid="3072719742" type="Insert song">&quot;Yuke! Tiger Mask&quot; (行け!タイガーマスク) by Hideyo Morimoto (ep 45)</info>
+<info gid="3832586433" type="Official website" lang="JA" href="http://www.toei-anim.co.jp/lineup/tv/kinniku/">Toei Animation</info>
+<info gid="1290725462" type="Official website" lang="JA" href="http://www.toei-anim.co.jp/oldies/tv/066_kinniku/">Toei Animation-Oldies</info>
+<ratings nb_votes="35" weighted_score="4.9138" bayesian_score="5.62043"/>
+<episode num="1">
+<title gid="2100515668" lang="EN">Messenger From Planet Kinniku/The Man From America</title></episode>
+<episode num="2">
+<title gid="2702622150" lang="EN">The Target is Nessie!/Save Planet Kinniku!</title></episode>
+<episode num="3">
+<title gid="2038368813" lang="EN">Space Monster Invasion/Kinnikuman's Great Hustle</title></episode>
+<episode num="4">
+<title gid="1230032603" lang="EN">Groovy Natsuko/Annoying Part-Time Jobs</title></episode>
+<episode num="5">
+<title gid="1097011748" lang="EN">Kinkotsuman and The Battle of Flesh and Blood/Kinnikuman's Broken Heart</title></episode>
+<episode num="6">
+<title gid="986385545" lang="EN">Kinnikuman is Sexy!?/The Competition's Japanese Representative</title></episode>
+<episode num="7">
+<title gid="2366670660" lang="EN">Hero Olympics/Kinkotsuman's Trap</title></episode>
+<episode num="8">
+<title gid="3026158004" lang="EN">Space Marathon/Deciding Match Battle Royal</title></episode>
+<episode num="9">
+<title gid="1871222386" lang="EN">Natsuko Becomes Giant/The Hidden Secret</title></episode>
+<episode num="10">
+<title gid="3174828965" lang="EN">Gong on the Tournament Finals/Watch Out Terryman</title></episode>
+<episode num="11">
+<title gid="2023841183" lang="EN">The Great Reversal/Ice Top Death Match</title></episode>
+<episode num="12">
+<title gid="3533642231" lang="EN">The Deadly Camel Clutch/ It's Showing! The Spirit of The West</title></episode>
+<episode num="13">
+<title gid="2208994922" lang="EN">Terryman's Demonic Transformation/The Killer Boston Crab</title></episode>
+<episode num="14">
+<title gid="463305003" lang="EN">Zangyaku Appears!/Kinnikuman Advances to the Finals</title></episode>
+<episode num="15">
+<title gid="1447417247" lang="EN">Secret Snowy Mountain Training/Ramenman's Great Outburst</title></episode>
+<episode num="16">
+<title gid="1876381103" lang="EN">Let's Go! Fighting Style/It's Here! The Human Rocket</title></episode>
+<episode num="17">
+<title gid="1564718731" lang="EN">Terrifying! Robin's Killer Techniques/Course of Death</title></episode>
+<episode num="18">
+<title gid="1853640134" lang="EN">The Electrifying Hellish Message/Can Kinnikuman Turn it Around?</title></episode>
+<episode num="19">
+<title gid="1378057042" lang="EN">Kinnikuman Flies The World/Hawaii! The Enigmatic Kamehame</title></episode>
+<episode num="20">
+<title gid="405160681" lang="EN">The 7 Second Fall!/No Rope Death Match</title></episode>
+<episode num="21">
+<title gid="624206094" lang="EN">Kinnikuman's One-Shot Fight/Finishing Move - Fuu Rin Ka Zan</title></episode>
+<episode num="22">
+<title gid="847821216" lang="EN">The Choujin League Collapses!/Watch Out Suguru</title></episode>
+<episode num="23">
+<title gid="2562221606" lang="EN">The Terrible Magician Appears/The 4 Murderous Techniques</title></episode>
+<episode num="24">
+<title gid="2723112390" lang="EN">Tendon vs. Kinnikuman/The Secret of Skull Bozu</title></episode>
+<episode num="25">
+<title gid="2711457135" lang="EN">Robin Mask Returns/Duel! Amazon Grand Canyon</title></episode>
+<episode num="26">
+<title gid="2715540641" lang="EN">Skies of Hell Death Match/Robin Mask's End</title></episode>
+<episode num="27">
+<title gid="14825804" lang="EN">The Choujin Olympics Again/The Super Strong Rikishiman Appears</title></episode>
+<episode num="28">
+<title gid="1844917965" lang="EN">The Trapping Choujin Sieve/The Challenging Gasoline Pool</title></episode>
+<episode num="29">
+<title gid="2450014634" lang="EN">Kinniku-ban - Young and In Love/Shove The Bullet Train</title></episode>
+<episode num="30">
+<title gid="3588605482" lang="EN">Final Preliminary - The Choujin Ravine Match/The Deadly Roller Game</title></episode>
+<episode num="31">
+<title gid="2065655702" lang="EN">Deadly Struggle Before The Goal/The Choujin Pachinko Balls</title></episode>
+<episode num="32">
+<title gid="2184298747" lang="EN">Warsman - The Iron Claw/It's Appeared! The Murderous Defense</title></episode>
+<episode num="33">
+<title gid="2257540318" lang="EN">Blocken Jr.'s Challenge/It's Here! Kinnikuman's Finishing Move</title></episode>
+<episode num="34">
+<title gid="1472920595" lang="EN">Concrete Death Match/Blocken Jr.'s Fierce Attack</title></episode>
+<episode num="35">
+<title gid="2882110673" lang="EN">Secret Technique - The Great Wall of China/The American and Soviet Choujin Clash!</title></episode>
+<episode num="36">
+<title gid="2539709043" lang="EN">Benkiman's Trap/Ramenman the Genuine Choujin</title></episode>
+<episode num="37">
+<title gid="1870108363" lang="EN">Sumo Choujin Rikishiman/Gamble at The Edge!</title></episode>
+<episode num="38">
+<title gid="1226477617" lang="EN">Casket Death Match/Fighting Computer Choujin</title></episode>
+<episode num="39">
+<title gid="1001465330" lang="EN">The Deadly Bear Claws/Scrambled Soft Recovery</title></episode>
+<episode num="40">
+<title gid="3042709909" lang="EN">Mask Removal Death Match!/Ramenman and the Promise</title></episode>
+<episode num="41">
+<title gid="2029479760" lang="EN">The Tearing Paro Special/It's Here! The Kinniku Buster</title></episode>
+<episode num="42">
+<title gid="1514477992" lang="EN">Decisive Battle Under The Sun!/What is Barracuda's True Identity!?</title></episode>
+<episode num="43">
+<title gid="1924035916" lang="EN">Beware The Computer Choujin!/The Battered Mask</title></episode>
+<episode num="44">
+<title gid="2302919463" lang="EN">Critical Point - Kinniku Guard/The Greatest Pinch!</title></episode>
+<episode num="45">
+<title gid="2513818341" lang="EN">Robin Mask's Revenge/Burning Inner Strength!</title></episode>
+<episode num="46">
+<title gid="364443933" lang="EN">90 Minute Struggle! The One-Shot Match/Give Up, Kinnikuman!?</title></episode>
+<episode num="47">
+<title gid="2105408383" lang="EN">Come like a Miracle, Flaming Spirit!!/Historic First! V2</title></episode>
+<episode num="48">
+<title gid="2210265087" lang="EN">Arrival!! The Seven Devil Choujins/Meat Has Been Seperated</title></episode>
+<episode num="49">
+<title gid="1742038702" lang="EN">The Devil Choujin Series Begins/The Hellish SteCase King</title></episode>
+<episode num="50">
+<title gid="3791263778" lang="EN">Devil's Symphany/Secret Technique! Three Minute Murder</title></episode>
+<episode num="51">
+<title gid="2640317304" lang="EN">Devil Choujin Black Hole/Terrible Fourth Dimensional Wrestling</title></episode>
+<episode num="52">
+<title gid="2823435095" lang="EN">Shadow Hitman! The Split-Image Technique/Life or Death!? The Hole of Darkness</title></episode>
+<episode num="53">
+<title gid="3661118156" lang="EN">Hooray!! The Yellow Hole/I am Indestructible!!</title></episode>
+<episode num="54">
+<title gid="2733376165" lang="EN">Idol Choujins vs. Devil Choujins/The Devil Choujins Full-On Attack!!</title></episode>
+<episode num="55">
+<title gid="3304707956" lang="EN">The Terrible Devil Tomboy/Great Underwater Tactics</title></episode>
+<episode num="56">
+<title gid="1006852288" lang="EN">Beware The Mummy Package!!/Finishing Move!! The Hellish Fang</title></episode>
+<episode num="57">
+<title gid="2124431752" lang="EN">The Mysterious Truth of the Choujin!?/The Valuable Trump Blade - The Bear Claw</title></episode>
+<episode num="58">
+<title gid="2556288560" lang="EN">The Resurrection of the Human Spirit/Double Bear Claw</title></episode>
+<episode num="59">
+<title gid="2031516000" lang="EN">Terryman Falls into the Canyon/The Mysterious Red Spots!</title></episode>
+<episode num="60">
+<title gid="859458434" lang="EN">The Binding Devil Choujin Blood/The Intense St. Helens Eruption</title></episode>
+<episode num="61">
+<title gid="1459514860" lang="EN">Meat Helps Kinnikuman/Mysterious Choujin Mongolman</title></episode>
+<episode num="62">
+<title gid="432237680" lang="EN">Shower of Hell/10 Million Power at Full Throttle!</title></episode>
+<episode num="63">
+<title gid="2233820381" lang="EN">The Secret of the Long Horn/The Fiery Reversals</title></episode>
+<episode num="64">
+<title gid="1631707731" lang="EN">The Tattered Ring/It's Here! The New Kinniku Buster</title></episode>
+<episode num="65">
+<title gid="2530869689" lang="EN">The 1 Second Time Limit!!/The Ring of Frienship</title></episode>
+<episode num="66">
+<title gid="2318084454" lang="EN">The Legend of the Gold Mask/Challenge of the Devil Knights</title></episode>
+<episode num="67">
+<title gid="749716996" lang="EN">Outrageous! The Hellish Crocodile/Changing Choujin Sneagator</title></episode>
+<episode num="68">
+<title gid="3538396763" lang="EN">The Fiendish Frill-Necked Lizard!!/Sneagator's True Form</title></episode>
+<episode num="69">
+<title gid="2707798960" lang="EN">Come Like a Miracle Silver Mask/The Mortal Entrance</title>
+<title part="A" gid="2121813654" lang="JA">奇蹟を呼ぶ銀マスク の巻</title>
+<title part="B" gid="1627463991" lang="JA">命あげます土俵入り の巻</title></episode>
+<episode num="70">
+<title gid="2440121923" lang="EN">Planetman's Space Hell/Is the Justice Choujin Done For?!</title>
+<title part="A" gid="1997790112" lang="JA">宇宙地獄プラネットマン の巻</title>
+<title part="B" gid="3222694891" lang="JA">正義超人全滅か?! の巻</title></episode>
+<episode num="71">
+<title gid="2064022914" lang="EN">Geronimo's War Cry/Chased to the Bottom of Hell</title>
+<title part="A" gid="3412162558" lang="JA">ジェロニモのおたけび の巻</title>
+<title part="B" gid="2355115557" lang="JA">地獄の底まで追いかけろ の巻</title></episode>
+<episode num="72">
+<title gid="1882621291" lang="EN">The Deadly Five-Story Ring/Junkman's Counterattack!</title>
+<title part="A" gid="3114480467" lang="JA">死の五重リング の巻</title>
+<title part="B" gid="1744108378" lang="JA">反撃!ジャンクマン の巻</title></episode>
+<episode num="73">
+<title gid="1519244317" lang="EN">It's Here! The Robin Strategy/The Ninja's Binding Spider Web</title>
+<title part="A" gid="3674114597" lang="JA">見たか!このロビン戦法 の巻</title>
+<title part="B" gid="2822675676" lang="JA">ザ・ニンジャくも糸縛り の巻</title></episode>
+<episode num="74">
+<title gid="3513098704" lang="EN">Hooray! The Red Rain of Berlin/Hellish Technique Ashura Buster</title>
+<title part="A" gid="1972774278" lang="JA">出た!ベルリンの赤い雨 の巻</title>
+<title part="B" gid="1319655652" lang="JA">地獄技アシュラバスター の巻</title></episode>
+<episode num="75">
+<title gid="1491049010" lang="EN">Both Arms Stolen/Watch Out Warsman!</title>
+<title part="A" gid="2077055153" lang="JA">奪われた両腕 の巻</title>
+<title part="B" gid="2532333165" lang="JA">危うし!ウォーズマン の巻</title></episode>
+<episode num="76">
+<title gid="3134957760" lang="EN">Terryman's Deadly Resolution/Geronimo's Fierce Attack!</title>
+<title part="A" gid="1656937841" lang="JA">死を覚悟したテリーマン の巻</title>
+<title part="B" gid="1191335619" lang="JA">猛攻!ジェロニモ の巻</title></episode>
+<episode num="77">
+<title gid="2019936996" lang="EN">The Murderous Hell's Pyramid/The Immortal Choujin Spirit</title>
+<title part="A" gid="2074263246" lang="JA">殺人技地獄のピラミッド の巻</title>
+<title part="B" gid="1926748826" lang="JA">不死身の超人魂 の巻</title></episode>
+<episode num="78">
+<title gid="2605808895" lang="EN">Mystery of The Gold Mask/Akuma Shogun Appears</title>
+<title part="A" gid="2082661504" lang="JA">黄金マスクのナゾ の巻</title>
+<title part="B" gid="3678746050" lang="JA">悪魔将軍登場 の巻</title></episode>
+<episode num="79">
+<title gid="3109718385" lang="EN">The Explosive Hell's Guillotine!/Buffaloman's Revival!</title>
+<title part="A" gid="3425937684" lang="JA">炸裂!地獄の断頭台 の巻</title>
+<title part="B" gid="1004727128" lang="JA">復活!バッファローマン の巻</title></episode>
+<episode num="80">
+<title gid="2754845510" lang="EN">Come Like a Storm Hellish Spider Web/The Devastating Kinniku Buster!</title>
+<title part="A" gid="1191629911" lang="JA">嵐を呼ぶクモの巣地獄 の巻</title>
+<title part="B" gid="2053219830" lang="JA">破れたり!キン肉バスター の巻</title></episode>
+<episode num="81">
+<title gid="1622005596" lang="EN">The Crushing Ashura Buster/Buffaloman's Rebellion!</title>
+<title part="A" gid="2189282298" lang="JA">アシュラバスターを破れ の巻</title>
+<title part="B" gid="2423005616" lang="JA">バッファローマン反逆! の巻</title></episode>
+<episode num="82">
+<title gid="1930908720" lang="EN">Harsh Training! The New Finishing Move!!/Direct Hit! The Skull Crush</title>
+<title part="A" gid="1584230798" lang="JA">猛特訓!新必殺技!! の巻</title>
+<title part="B" gid="1415133195" lang="JA">直撃!スカルクラッシュ の巻</title></episode>
+<episode num="83">
+<title gid="2815453325" lang="EN">Akuma Shogun the Hollow Choujin/The Explosive Neo Kinniku Buster</title>
+<title part="A" gid="1517165709" lang="JA">悪魔将軍は軟体超人 の巻</title>
+<title part="B" gid="2299800497" lang="JA">ネオキン肉バスター炸裂 の巻</title></episode>
+<episode num="84">
+<title gid="2936040580" lang="EN">Explosive Diamond Power/The Fiery Megaton Punch</title>
+<title part="A" gid="2285158280" lang="JA">炸裂ダイアモンドパワー の巻</title>
+<title part="B" gid="1054991503" lang="JA">火事場のメガトンパンチ の巻</title></episode>
+<episode num="85">
+<title gid="1266606162" lang="EN">Survivor Death Match/The Chairman's Friendship</title>
+<title part="A" gid="3106265525" lang="JA">生き残りデスマッチ の巻</title>
+<title part="B" gid="1387728218" lang="JA">委員長の友情 の巻</title></episode>
+<episode num="86">
+<title gid="2541170463" lang="EN">Kinnikuman vs. Akuma Shogun/Victory of Justice and Friendship</title>
+<title part="A" gid="2380754307" lang="JA">キン肉マンVS悪魔将軍 の巻</title>
+<title part="B" gid="1740057875" lang="JA">正義と友情の勝利 の巻</title></episode>
+<episode num="87">
+<title gid="2804539395" lang="EN">The Dream Tag Tournament/Challenge of the Three Gates!</title>
+<title part="A" gid="3370513260" lang="JA">夢のタッグトーナメント の巻</title>
+<title part="B" gid="2348539892" lang="JA">挑戦!三つの関門 の巻</title></episode>
+<episode num="88">
+<title gid="3089189761" lang="EN">Kinnikuman Great Appears/Great Riot! The Hellish Combo</title>
+<title part="A" gid="3763646914" lang="JA">キン肉マングレート登場 の巻</title>
+<title part="B" gid="3322215084" lang="JA">大暴れ!地獄のコンビ の巻</title></episode>
+<episode num="89">
+<title gid="756786916" lang="EN">The Dreadful Fourth Dimensional Trap!/Watch Out Kinnikuman Great!</title>
+<title part="A" gid="1996925881" lang="JA">恐るべし四次元のワナ の巻</title>
+<title part="B" gid="2090834446" lang="JA">危うし!キン肉マングレート の巻</title></episode>
+<episode num="90">
+<title gid="2488296467" lang="EN">The Miraculous Muscle Docking/The Terrible Perfect Choujins!</title>
+<title part="A" gid="869079348" lang="JA">驚異マッスルドッキング の巻</title>
+<title part="B" gid="215318051" lang="JA">戦慄!完璧超人 の巻</title></episode>
+<episode num="91">
+<title gid="528094862" lang="EN">The Hellish Blood-Spilling Screw/The Bosses Appear</title>
+<title part="A" gid="2360762042" lang="JA">血を吹く地獄のネジ廻し の巻</title>
+<title part="B" gid="3152520323" lang="JA">首領(どん)出現! の巻</title></episode>
+<episode num="92">
+<title gid="2676309319" lang="EN">Big the Budo's True Form/Rough Technique! The Robin Special</title>
+<title part="A" gid="1923187251" lang="JA">ビッグ・ザ・武道の正体 の巻</title>
+<title part="B" gid="2872587679" lang="JA">荒技!ロビンスペシャル の巻</title></episode>
+<episode num="93">
+<title gid="1836797364" lang="EN">The Non-Removable Mask/Robin Mask's Counterattack!</title>
+<title part="A" gid="1346382344" lang="JA">はがされたマスク の巻</title>
+<title part="B" gid="1667639101" lang="JA">逆襲!ロビンマスク の巻</title></episode>
+<episode num="94">
+<title gid="3213916523" lang="EN">Birth of a New Terryman/Take That! The Hell's Tornado</title>
+<title part="A" gid="2031651396" lang="JA">ニュー・テリーマン誕生 の巻</title>
+<title part="B" gid="2203018842" lang="JA">食らえ!竜巻地獄 の巻</title></episode>
+<episode num="95">
+<title gid="1887156679" lang="EN">The Cursed Roller Strategy/The Hell's Sand Ball</title>
+<title part="A" gid="1972832115" lang="JA">呪いのローラー作戦 の巻</title>
+<title part="B" gid="870839877" lang="JA">地獄の砂団子 の巻</title></episode>
+<episode num="96">
+<title gid="2146942095" lang="EN">Terryman's Resurrection/The Blood Spilling Devil's Combo</title>
+<title part="A" gid="3187878138" lang="JA">テリーマン甦る の巻</title>
+<title part="B" gid="2898769912" lang="JA">血に飢えた悪魔コンビ の巻</title></episode>
+<episode num="97">
+<title gid="1267555790" lang="EN">The Explosive Hellish Clothesline/Kinnikuman Great's True Identity</title>
+<title part="A" gid="2740114754" lang="JA">地獄のクロスライン炸裂 の巻</title>
+<title part="B" gid="1892335431" lang="JA">キン肉マングレートの正体 の巻</title></episode>
+<episode num="98">
+<title gid="2040750357" lang="EN">The Semi-Finals Begin!/Lumber Jack Death Match</title>
+<title part="A" gid="3085304745" lang="JA">準決勝始まる! の巻</title>
+<title part="B" gid="2720443334" lang="JA">ランバージャックデスマッチ の巻</title></episode>
+<episode num="99">
+<title gid="112742681" lang="EN">Terryman's Anguish/Kinnikuman Great's Come-Back</title>
+<title part="A" gid="3050955556" lang="JA">苦悩のテリーマン の巻</title>
+<title part="B" gid="2563417966" lang="JA">キン肉マングレート復活 の巻</title></episode>
+<episode num="100">
+<title part="A" gid="3497332486" lang="JA">サンシャインマグナム の巻</title>
+<title part="B" gid="102271457" lang="JA">極意!タヌキ寝入り殺法 の巻</title>
+<title gid="3123185614" lang="EN">Sunshine Magnum/Essential Point! The Sleeping Technique</title></episode>
+<episode num="101">
+<title part="A" gid="1846349319" lang="JA">魔界のプリンス の巻</title>
+<title part="B" gid="2862284602" lang="JA">恐怖のアシュラ火玉弾 の巻</title>
+<title gid="354274000" lang="EN">The Prince of Hell/Beware of Ashura's Fireball Bullets</title></episode>
+<episode num="102">
+<title part="A" gid="1890972091" lang="JA">破れたり呪いのローラー の巻</title>
+<title part="B" gid="2264377643" lang="JA">悪魔将軍よみがえる!? の巻</title>
+<title gid="2433500147" lang="EN">The Crushing Cursed Roller/Akuma Shogun's Resurrection!?</title></episode>
+<episode num="103">
+<title part="A" gid="1819766540" lang="JA">燃えあがる悪魔霊術 の巻</title>
+<title part="B" gid="2450823123" lang="JA">アシュラマン泣く! の巻</title>
+<title gid="1300462688" lang="EN">The Burning Devil Spirit/Ashuraman Weeps!</title></episode>
+<episode num="104">
+<title part="A" gid="1373659817" lang="JA">友情のコンビネーション の巻</title>
+<title part="B" gid="1110673829" lang="JA">サンシャインの最後 の巻</title>
+<title gid="1572497130" lang="EN">The Friendship Combination/The End of Sunshine</title></episode>
+<episode num="105">
+<title part="A" gid="3656733940" lang="JA">残酷!鉄条網マッチ の巻</title>
+<title part="B" gid="1415176814" lang="JA">危うし!モンゴルマン の巻</title>
+<title gid="2855356637" lang="EN">The Harsh Barbed-Wire Match/Watch Out Mongolman!</title></episode>
+<episode num="106">
+<title part="A" gid="2683983931" lang="JA">甦ったロングホーン の巻</title>
+<title part="B" gid="2818903056" lang="JA">崩壊!マウンテンリング の巻</title>
+<title gid="2674274730" lang="EN">Return of the Long Horn/The Mountain Ring Collapses!</title></episode>
+<episode num="107">
+<title part="A" gid="836319367" lang="JA">ピラミッドリング出現! の巻</title>
+<title part="B" gid="1232244396" lang="JA">北海道空中に飛���出す! の巻</title>
+<title gid="1782519537" lang="EN">The Pyramid Ring Arrives!/Jump for the Skies of Hokkaido!</title></episode>
+<episode num="108">
+<title part="A" gid="2951395696" lang="JA">ピラミッドリングの謎 の巻</title>
+<title part="B" gid="689289692" lang="JA">必殺!サンダーサーベル の巻</title>
+<title gid="1315453927" lang="EN">Mystery of the Pyramid Ring/The Vicious Thunder Sabre!</title></episode>
+<episode num="109">
+<title part="A" gid="2683962603" lang="JA">バッファローマンの友情 の巻</title>
+<title part="B" gid="1864641798" lang="JA">磁気嵐クロスボンバー の巻</title>
+<title gid="910172188" lang="EN">Buffaloman's Friendship/The Magnetic Cross Bomber</title></episode>
+<episode num="110">
+<title part="A" gid="432314972" lang="JA">ラーメンマンは死なず! の巻</title>
+<title part="B" gid="1618160614" lang="JA">奪われたキン肉マンの腕 の巻</title>
+<title gid="2117371709" lang="EN">Ramenman's Deadly Defeat!/Kinikuman's Theft</title></episode>
+<episode num="111">
+<title part="A" gid="3036709643" lang="JA">友情のロングホーン の巻</title>
+<title part="B" gid="3779043009" lang="JA">決勝!ソードデスマッチ の巻</title>
+<title gid="1469331097" lang="EN">Long Horn of Friendship/The Finals! Sword Death Match</title></episode>
+<episode num="112">
+<title part="A" gid="758910662" lang="JA">無制限三本勝負 の巻</title>
+<title part="B" gid="2570126253" lang="JA">火事場の頭脳プレー の巻</title>
+<title gid="3223402148" lang="EN">No-Limit Best-of-Three Match/The Fiery Mind Tricks</title></episode>
+<episode num="113">
+<title part="A" gid="558114859" lang="JA">マスク狩り・残り30秒 の巻</title>
+<title part="B" gid="1836931539" lang="JA">炸裂!磁気クラッシュ の巻</title>
+<title gid="2404397955" lang="EN">Mask Hunt - The Last 30 Seconds/The Explosive Magnetic Crush!</title></episode>
+<episode num="114">
+<title part="A" gid="1087693273" lang="JA">初の敗北! の巻</title>
+<title part="B" gid="3141791987" lang="JA">アシュラマンの友情 の巻</title>
+<title gid="3303545050" lang="EN">The First Defeat!/Ashuraman's Friendship</title></episode>
+<episode num="115">
+<title part="A" gid="2553831544" lang="JA">復活!ザ・マシンガンズ の巻</title>
+<title part="B" gid="1967569796" lang="JA">マスク・ジ・エンド の巻</title>
+<title gid="985883485" lang="EN">Revival of The Machineguns!/Mask The End</title></episode>
+<episode num="116">
+<title part="A" gid="3687108430" lang="JA">見た!キン肉マンの素顔 の巻</title>
+<title part="B" gid="2375948967" lang="JA">ネプチューンキング出現 の巻</title>
+<title gid="2964278771" lang="EN">It's Here! Kinnikuman's Uncovered Face/Neptune King Makes his Appearance</title></episode>
+<episode num="117">
+<title part="A" gid="1635898921" lang="JA">くし刺し!テリーマン の���</title>
+<title part="B" gid="2033065097" lang="JA">奇跡を呼ぶ友情パワー の巻</title>
+<title gid="283986942" lang="EN">Terryman is Skewered!/Come Like a Miracle, Power of Friendship</title></episode>
+<episode num="118">
+<title part="A" gid="3238382307" lang="JA">火事場の段違い平行棒 の巻</title>
+<title part="B" gid="2492866011" lang="JA">アポロンウィンドウの謎 の巻</title>
+<title gid="1099284530" lang="EN">The Fiery Uneven Sides/The Mysterious Apron Window</title></episode>
+<episode num="119">
+<title part="A" gid="1685357402" lang="JA">前方後円墳に鍵をかけろ の巻</title>
+<title part="B" gid="3982284795" lang="JA">光り輝くトロフィー! の巻</title>
+<title gid="2205643555" lang="EN">Trapped in the Ancient Graveyard/The Shining Trophy!</title></episode>
+<episode num="120">
+<title part="A" gid="3158775879" lang="JA">プリンスキン肉丸・転覆 の卷</title>
+<title part="B" gid="2251263779" lang="JA">ザ・サイコー超人軍団出現 の卷</title>
+<title gid="1245869810" lang="EN">The Prince Kinniku Capsizes/The Psycho Choujin Army Appears</title></episode>
+<episode num="121">
+<title part="A" gid="2827282782" lang="JA">軍師ヤマカーン登場 の卷</title>
+<title part="B" gid="602436067" lang="JA">変身超人カレイヤス の卷</title>
+<title gid="2140020652" lang="EN">The Strategist Yama Khan Appears/Transforming Choujin Kareiyasu</title></episode>
+<episode num="122">
+<title part="A" gid="2645141528" lang="JA">溶かされたキン肉マン の卷</title>
+<title part="B" gid="1124029481" lang="JA">大乱戦!マリはどこに? の卷</title>
+<title gid="1799541383" lang="EN">Kinnikuman Melts Away/Great Melee! Where is Mari?</title></episode>
+<episode num="123">
+<title part="A" gid="2273274214" lang="JA">出た!サイコージョーズ の卷</title>
+<title part="B" gid="2013331984" lang="JA">ヤマカーンとの一騎打ち の卷</title>
+<title gid="2625478170" lang="EN">They're Here! The Psycho Jaws/The Fighting Yama Khan</title></episode>
+<episode num="124">
+<title part="A" gid="1337486620" lang="JA">最強!サイコーワープ の卷</title>
+<title part="B" gid="1663151246" lang="JA">正義超人よ・永遠なれ! の卷</title>
+<title part="C" gid="1547664226" lang="JA">超人ビッグファイト</title>
+<title gid="3617592404" lang="EN">The Strongest! Psycho Warp/The Justice Choujin is Immortal!</title></episode>
+<episode num="125">
+<title part="A" gid="2393653435" lang="JA">2人のキン肉マン あれっ!?の卷</title>
+<title part="B" gid="2942562103" lang="JA">守れ!正義の剣(つるぎ) の卷</title>
+<title gid="1934776203" lang="EN">Kinnikuman the Doubleman/Protect the Sword of Justice!</title></episode>
+<episode num="126">
+<title part="A" gid="3742736350" lang="JA">棺桶配達人ダーティバロン の卷</title>
+<title part="B" gid="1052573251" lang="JA">火花散る���獄のリング の卷</title>
+<title gid="1121464311" lang="EN">Pallbearer Dirty Baron/The Sparking Hellish Ring</title></episode>
+<episode num="127">
+<title part="A" gid="2469705571" lang="JA">休火山大爆発!? の卷</title>
+<title part="B" gid="2313266931" lang="JA">夜霧のワイルドバクト の卷</title>
+<title gid="2288402259" lang="EN">The Volcano's Great Explosion!?/The Foggy Wild Bakuto</title></episode>
+<episode num="128">
+<title part="A" gid="1264308025" lang="JA">極悪!!バクトトランプ の卷</title>
+<title part="B" gid="3577983201" lang="JA">生きていたダーティバロン の卷</title>
+<title gid="597405407" lang="EN">Bakuto's Heinous Trump!!/Dirty Baron's Fresh Appearance</title></episode>
+<episode num="129">
+<title part="A" gid="1502250467" lang="JA">恐怖の三次元トランプ の卷</title>
+<title part="B" gid="1077015540" lang="JA">ズタボロ!テリーマン の卷</title></episode>
+<episode num="130">
+<title part="A" gid="1360508073" lang="JA">衝撃!ニューロングホーン の卷</title>
+<title part="B" gid="2119712903" lang="JA">悪魔になったバッファローマン の卷</title>
+<title gid="3167672687" lang="EN">The Shocking New Long Horn!/Buffaloman's Devilish Burn</title></episode>
+<episode num="131">
+<title part="A" gid="2858282424" lang="JA">ラーメンマンの決意 の卷</title>
+<title part="B" gid="2067358427" lang="JA">必殺技・広州大水車 の卷</title>
+<title gid="2920526682" lang="EN">Ramenman's Determination/Finishing Move - The Great Chinese Water Wheel</title></episode>
+<episode num="132">
+<title part="A" gid="2015247352" lang="JA">串刺し!ラーメンマン の卷</title>
+<title part="B" gid="1319260681" lang="JA">四川・大昇竜! の卷</title>
+<title gid="712530168" lang="EN">Ramenman is Skewered!/Szechwan - The Great Rising Dragon!</title></episode>
+<episode num="133">
+<title part="A" gid="2242457050" lang="JA">不利だっ!変則タッグマッチ の卷</title>
+<title part="B" gid="1883958856" lang="JA">スカイデビルの大怪獣 の卷</title>
+<title gid="3728914235" lang="EN">Disadvantaged! The Irregular Tag Match/Great Monster Sky Devil</title></episode>
+<episode num="134">
+<title part="A" gid="1305468434" lang="JA">絶体絶命!ロビンマスク の卷</title>
+<title part="B" gid="2986683476" lang="JA">千人咬み殺しのブルドッキー の卷</title>
+<title gid="2228166320" lang="EN">Robin Mask's Desperate Situation!/The Murderous Superhuman Grind of Blue Docky</title></episode>
+<episode num="135">
+<title part="A" gid="2456255513" lang="JA">怒れ!ブロッケンJr の卷</title>
+<title part="B" gid="2787707670" lang="JA">脅威!死神の七つ道具 の卷</title>
+<title gid="2232770289" lang="EN">Blocken Jr.'s Anger!/Threatening! The Seven Tools of The God of Death</title></episode>
+<episode num="136">
+<title part="A" gid="1295938950" lang="JA">見よ!世���の一大決戦 の卷</title>
+<title part="B" gid="2754672857" lang="JA">火事場のクソ力+α の卷</title>
+<title gid="3737171754" lang="EN">It's Here! The Biggest Battle of The Century/Burning Inner Strength</title></episode>
+<episode num="137">
+<title part="A" gid="1066625288" lang="JA">ロングホーン乱れ打ち! の卷</title>
+<title part="B" gid="2770893905" lang="JA">正義の剣はだれの手に!? の卷</title>
+<title gid="2654257752" lang="EN">The Long Horn's Disturbing Strike!/Whose Hand Wields The Sword of Justice!?</title></episode>
+<news datetime="2002-01-13T16:54:55Z" href="http://www.animenewsnetwork.com/news/2002-01-13/4kids-entertainment-launches-a-new-show">4Kids Entertainment Launches a New Show</news>
+<news datetime="2005-09-23T17:39:30Z" href="http://www.animenewsnetwork.com/news/2005-09-23/tv-asahi-top-100-anime">TV Asahi Top 100 Anime</news>
+<news datetime="2006-10-12T21:45:00Z" href="http://www.animenewsnetwork.com/news/2006-10-13/japans-favorite-tv-anime">Japan's Favorite TV Anime</news>
+<news datetime="2008-12-24T04:57:00Z" href="http://www.animenewsnetwork.com/news/2008-12-23/japanese-animation-dvd-ranking-december-16-22">Japanese Animation DVD Ranking, December 16-22</news>
+<news datetime="2009-11-16T14:23:19Z" href="http://www.animenewsnetwork.com/news/2009-11-16/1st-kingrun-anime-songs-kohaku-tv-event-announced">1st &lt;cite&gt;Kingrun Anime Songs Kōhaku&lt;/cite&gt; TV Event Announced</news>
+<news datetime="2010-01-18T08:04:58Z" href="http://www.animenewsnetwork.com/news/2010-01-18/dragon-ball-actor-daisuke-gouri-reportedly-passes-away">&lt;cite&gt;Dragon Ball&lt;/cite&gt; Actor Daisuke Gouri Passes Away</news>
+<news datetime="2010-07-20T11:26:04Z" href="http://www.animenewsnetwork.com/news/2010-07-20/kinnikuman-voice-actor-tetsuo-mizutori-passes-away">&lt;cite&gt;Kinnikuman&lt;/cite&gt; Voice Actor Tetsuo Mizutori Passes Away</news>
+<news datetime="2011-10-08T11:00:00Z" href="http://www.animenewsnetwork.com/news/2011-10-08/voice-actor-akira-kamiya-puts-work-on-hold-for-hospital-stay">Voice Actor Akira Kamiya Puts Work on Hold for Hospital Stay</news>
+<news datetime="2011-11-28T12:15:00Z" href="http://www.animenewsnetwork.com/news/2011-11-28/aic-adapts-aoshima-atoranjaa-robot-manga-into-anime">AIC Adapts Aoshima's &lt;cite&gt;Atoranjaa&lt;/cite&gt; Robot Into Anime Short</news>
+<staff gid="327238723"><task>Director</task><person id="5559">Takeshi Shirato</person></staff>
+<staff gid="3552131178"><task>Director</task><person id="6354">Tetsuo Imazawa</person></staff>
+<staff gid="3161625820"><task>Director</task><person id="9460">Takenori Kawada</person></staff>
+<staff gid="2721663116"><task>Director</task><person id="30417">Yasuo Yamayoshi</person></staff>
+<staff gid="1791559564"><task>Script</task><person id="641">Kenji Terada</person></staff>
+<staff gid="3605085214"><task>Script</task><person id="3976">Haruya Yamazaki</person></staff>
+<staff gid="2159024813"><task>Music</task><person id="25852">Shinsuke Kazato</person></staff>
+<staff gid="1180233705"><task>Original story</task><person id="18548">Yudetamago</person></staff>
+<staff gid="2613719023"><task>Original Manga</task><person id="17238">Takashi Shimada</person></staff>
+<staff gid="3088055359"><task>Original Manga</task><person id="23053">Yoshinori Nakai</person></staff>
+<staff gid="2881398995"><task>Character Design</task><person id="13388">Toshio Mori</person></staff>
+<staff gid="3091187326"><task>Art Director</task><person id="18972">Minoru Nakamura</person></staff>
+<staff gid="2006249338"><task>Art Director</task><person id="41379">Hiroshi Misono</person></staff>
+<staff gid="2870420986"><task>Producer</task><person id="1484">Takeshi Tamiya</person></staff>
+<staff gid="2058046595"><task>Producer</task><person id="2001">Hidehiko Takei</person></staff>
+<cast gid="2900014894" lang="ES"><role>KIN-NIKUMAN</role><person id="23402">Jorge Araneda J.</person></cast>
+<cast gid="1299568386" lang="ES"><role>MITO</role><person id="23408">René Pinochet</person></cast>
+<cast gid="1652273738" lang="ES"><role>ROBIN MASK</role><person id="23414">Sandro Larenas</person></cast>
+<cast gid="2543826836" lang="ES"><role>Natsuko</role><person id="23425">Laura Olazabal</person></cast>
+<cast gid="1795117537" lang="ES"><role>Terryman</role><person id="50363">Oriol Rafel</person></cast>
+<cast gid="2481673518" lang="ES"><role>Menja-tallarines</role><person id="50565">Joan Pera</person></cast>
+<cast gid="2385978636" lang="ES"><role>Warsman</role><person id="50567">Vicens Manuel Doménech</person></cast>
+<cast gid="2695676897" lang="ES"><role>Robin</role><person id="52352">Xavier Fernández</person></cast>
+<cast gid="2016758092" lang="ES"><role>Blockman Jr.</role><person id="63187">Eduard Farelo</person></cast>
+<cast gid="1851397523" lang="ES"><role>Musculator</role><person id="63319">Jordi Vila</person></cast>
+<cast gid="2491186371" lang="FR"><role>Marie</role><person id="15777">Joëlle Fossier</person></cast>
+<cast gid="2405927621" lang="FR"><role>Muscleman's Father</role><person id="27769">Serge Lhorca</person></cast>
+<cast gid="3405268899" lang="FR"><role>Noodleman</role><person id="29301">Olivier Destrez</person></cast>
+<cast gid="2941600405" lang="FR"><role>Ramenman</role><person id="29301">Olivier Destrez</person></cast>
+<cast gid="3419358706" lang="FR"><role>Muscleman</role><person id="29417">Michel Barbey</person></cast>
+<cast gid="3154328637" lang="FR"><role>Mitsu</role><person id="47566">Laurence Badie</person></cast>
+<cast gid="1802655430" lang="FR"><role>Noodleman</role><person id="47568">Gerard Berner</person></cast>
+<cast gid="2146763104" lang="FR"><role>Robin des etoiles</role><person id="47568">Gerard Berner</person></cast>
+<cast gid="2145263428" lang="FR"><role>Terryman</role><person id="47568">Gerard Berner</person></cast>
+<cast gid="2510562275" lang="JA"><role>Terryman</role><person id="490">Hideyuki Tanaka</person></cast>
+<cast gid="2827168718" lang="JA"><role>Natsuko Shouno</role><person id="511">Hiromi Tsuru</person></cast>
+<cast gid="2137436955" lang="JA"><role>Geronimo</role><person id="852">Kaneto Shiozawa</person></cast>
+<cast gid="2215716611" lang="JA"><role>Warsman</role><person id="869">Hideyuki Hori</person></cast>
+<cast gid="3144877664" lang="JA"><role>Ashuraman</role><person id="871">Daisuke Gouri</person></cast>
+<cast gid="1529047213" lang="JA"><role>Robin Mask</role><person id="871">Daisuke Gouri</person></cast>
+<cast gid="611532341" lang="JA"><role>Buffaloman</role><person id="930">Masaharu Satou</person></cast>
+<cast gid="2741638599" lang="JA"><role>Iwao</role><person id="930">Masaharu Satou</person></cast>
+<cast gid="1689980153" lang="JA"><role>Sunshine</role><person id="930">Masaharu Satou</person></cast>
+<cast gid="2598898346" lang="JA"><role>Kinkotsuman</role><person id="1015">Issei Futamata</person></cast>
+<cast gid="1896610039" lang="JA"><role>Rikishiman</role><person id="1505">Masashi Hirose</person></cast>
+<cast gid="2491388869" lang="JA"><role>Kinnikuman</role><person id="1583">Akira Kamiya</person></cast>
+<cast gid="3782143522" lang="JA"><role>Meat Alexandria</role><person id="1593">Minori Matsushima</person></cast>
+<cast gid="220730225" lang="JA"><role>Meat-kun</role><person id="1593">Minori Matsushima</person></cast>
+<cast gid="1392037882" lang="JA"><role>Ramenman</role><person id="1669">Banjou Ginga</person></cast>
+<cast gid="3575320065" lang="JA"><role>Announcer</role><person id="2069">Kouji Totani</person></cast>
+<cast gid="914926445" lang="JA"><role>Announcer Yoshigai</role><person id="2069">Kouji Totani</person></cast>
+<cast gid="1945056366" lang="JA"><role>Detective Gobugari</role><person id="2069">Kouji Totani</person></cast>
+<cast gid="1758918728" lang="JA"><role>Nakano-san</role><person id="2071">Hiroshi Ohtake</person></cast>
+<cast gid="761712811" lang="JA"><role>Brocken Jr.</role><person id="2762">Tetsuo Mizutori</person></cast>
+<cast gid="2562584976" lang="JA"><role>Yosaku-san</role><person id="2762">Tetsuo Mizutori</person></cast>
+<cast gid="2583316818" lang="JA"><role>Kinkotsu-Obaba</role><person id="4111">Keiko Yamamoto</person></cast>
+<cast gid="769800939" lang="JA"><role>Nachiguron</role><person id="4111">Keiko Yamamoto</person></cast>
+<cast gid="2943047809" lang="JA"><role>Kinnikuman Great</role><person id="4130">Eiji Kanie</person></cast>
+<cast gid="2340600793" lang="JA"><role>Mongolman</role><person id="4130">Eiji Kanie</person></cast>
+<cast gid="1547254784" lang="JA"><role>Prince Kamehame</role><person id="4130">Eiji Kanie</person></cast>
+<cast gid="2897121635" lang="JA"><role>Ramenman</role><person id="4130">Eiji Kanie</person></cast>
+<cast gid="2262146231" lang="JA"><role>Ramenman/Mongolman</role><person id="4130">Eiji Kanie</person></cast>
+<cast gid="2714253436" lang="JA"><role>Warsman</role><person id="7238">Ryouichi Tanaka</person></cast>
+<cast gid="2054793103" lang="JA"><role>Mari Nikaido</role><person id="7252">Chisato Nakajima</person></cast>
+<cast gid="2637954535" lang="JA"><role>King Mayumi Kinniku</role><person id="7673">Kazuhiko Kishino</person></cast>
+<cast gid="3043021376" lang="JA"><role>Neptuneman</role><person id="7673">Kazuhiko Kishino</person></cast>
+<cast gid="1439465272" lang="JA"><role>Kazuo Nakano</role><person id="7674">Sanji Hase</person></cast>
+<cast gid="1575674103" lang="JA"><role>Nakano-san</role><person id="7674">Sanji Hase</person></cast>
+<cast gid="756679252" lang="JA"><role>Queen Sayuri Kinniku</role><person id="8672">Nana Yamaguchi</person></cast>
+<cast gid="2798903448" lang="JA"><role>Akuma Shogun</role><person id="17338">Yonehiko Kitagawa</person></cast>
+<cast gid="2423462757" lang="JA"><role>Big The Budo</role><person id="17338">Yonehiko Kitagawa</person></cast>
+<cast gid="2303700370" lang="JA"><role>Chairman Harabote</role><person id="17338">Yonehiko Kitagawa</person></cast>
+<cast gid="2328714634" lang="JA"><role>Chairman Harabote Muscle</role><person id="17338">Yonehiko Kitagawa</person></cast>
+<credit gid="3360606214"><task>Production</task><company id="145">Toei Animation</company></credit></anime></ann>

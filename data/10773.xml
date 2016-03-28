@@ -1,0 +1,40 @@
+<ann><anime id="10773" gid="2456370453" type="TV" name="Hello Kitty's Furry Tale Theater" precision="TV" generated-on="2016-03-27T04:02:07Z">
+<info gid="2973489942" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A10773-3.jpg" width="135" height="200"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A10773-3.jpg" width="135" height="200"/><img src="http://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A10773-3.jpg" width="261" height="387"/></info>
+<info gid="2408358442" type="Main title" lang="EN">Hello Kitty's Furry Tale Theater</info>
+<info gid="491271992" type="Alternative title" lang="EN">Hello Kitty's Fairy Tale Theater</info>
+<info gid="1644400643" type="Genres">comedy</info>
+<info gid="155219496" type="Genres">fantasy</info>
+<info gid="1504819917" type="Plot Summary">Hello Kitty and friends put on plays that spoof well-known fairy tales and movies.</info>
+<info gid="2339580011" type="Running time">half hour</info>
+<info gid="2915494554" type="Number of episodes">13</info>
+<info gid="1142601505" type="Vintage">1987-09-19 to 1987-12-12</info>
+<ratings nb_votes="1" weighted_score="6"/>
+<episode num="1">
+<title gid="3306445602" lang="EN">Wizard of Paws/Pinocchio Penguin</title></episode>
+<episode num="2">
+<title gid="2168037150" lang="EN">Cinderkitty/The Pawed Piper</title></episode>
+<episode num="3">
+<title gid="2027086184" lang="EN">K.T.-The Kitty Terrestrial/Peter Penguin</title></episode>
+<episode num="4">
+<title gid="2563334063" lang="EN">Kittylocks &amp; the 3 Bears/Paws-The Great</title></episode>
+<episode num="5">
+<title gid="1712532377" lang="EN">Cat Wars/Tar-Sam of the Jungle</title></episode>
+<episode num="6">
+<title gid="933787235" lang="EN">Sleeping Kitty/Kitty and the Kong</title></episode>
+<episode num="7">
+<title gid="1718068001" lang="EN">Kitty &amp; the Beast/Little Red Bunny Hood</title></episode>
+<episode num="8">
+<title gid="1449921928" lang="EN">Snow White Kitty &amp; One Drawf/Franken</title></episode>
+<episode num="9">
+<title gid="3210534931" lang="EN">Catula/Paws of the Round Table</title></episode>
+<episode num="10">
+<title gid="1129127219" lang="EN">Rumbledogskin/Robin Penguin</title></episode>
+<episode num="11">
+<title gid="3843603110" lang="EN">Hello Mother Goose/Crocodile Penguin</title></episode>
+<episode num="12">
+<title gid="1320741266" lang="EN">Grinder Genie &amp; the Magic Lamp/Phantom of the Theater</title></episode>
+<episode num="13">
+<title gid="1964340014" lang="EN">How Scrinchio Stole Xmas/Phantom of the Theater</title></episode>
+<cast gid="3522012969" lang="EN"><role>Hello Kitty</role><person id="7719">Tara Strong</person></cast>
+<cast gid="3057642220" lang="JA"><role>Hello Kitty</role><person id="807">Kyoko Hikami</person></cast>
+<credit gid="1474443935"><task>Production</task><company id="505">Sanrio</company></credit></anime></ann>

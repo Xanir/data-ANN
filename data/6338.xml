@@ -1,0 +1,50 @@
+<ann><anime id="6338" gid="2012814569" type="movie" name="Tanoshii Moomin Ikka: Moomin Tani no Suisei" precision="movie" generated-on="2016-03-27T03:53:07Z">
+<related-prev rel="related to" id="2006"/>
+<info gid="1089241110" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A6338-5.jpg" width="200" height="150"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A6338-5.jpg" width="200" height="150"/></info>
+<info gid="1614838436" type="Main title" lang="JA">Tanoshii Moomin Ikka: Moomin Tani no Suisei</info>
+<info gid="2443768582" type="Alternative title" lang="EN">Comet in Moominland</info>
+<info gid="3979071252" type="Alternative title" lang="PL">Kometa Nad Doliną Muminków</info>
+<info gid="1438657906" type="Alternative title" lang="JA">楽しいムーミン一家 ムーミン谷の彗星</info>
+<info gid="1465559350" type="Genres">adventure</info>
+<info gid="2327460143" type="Genres">comedy</info>
+<info gid="558136871" type="Genres">fantasy</info>
+<info gid="1307768025" type="Plot Summary">Unusual things have been happening in Moominvalley. Moomin, Sniff and Mee leave for the Observatory on the Lonely Mountains to confirm the Muskrat's words: a comet is about to hit Moominvalley and destroy everything. On the way they meet Snufkin, the Hemulen and the Snorks and experience many adventures.</info>
+<info gid="1218187718" type="Running time">62</info>
+<info type="Vintage">1992-08-08</info>
+<info gid="580519193" type="Premiere date">1992-08-08 (Japan)</info>
+<info gid="3395434685" type="Opening Theme">&quot;Shiawase no morugaane&quot; by Emiko Shiratori</info>
+<info gid="2256613886" type="Ending Theme">&quot;Kono uchuu he, tsutae tai&quot; by Emiko Shiratori</info>
+<info gid="2567550940" type="Official website" lang="JA" href="http://www.mxtv.co.jp/moomin/">ムーミン谷の彗星 @ MXTV</info>
+<ratings nb_votes="40" weighted_score="7.4718" bayesian_score="7.48433"/>
+<staff gid="2829113858"><task>Director</task><person id="1542">Hiroshi Saitô</person></staff>
+<staff gid="1538166406"><task>Script</task><person id="10893">Akira Miyazaki</person></staff>
+<staff gid="262879904"><task>Music</task><person id="46686">Sumio Shiratori</person></staff>
+<staff gid="2865179360"><task>Original story</task><person id="7036">Tove Jansson</person></staff>
+<staff gid="813029239"><task>Original story</task><person id="58076">Lars Jansson</person></staff>
+<staff gid="2356820006"><task>Character Design</task><person id="4781">Yasuhiro Nakura</person></staff>
+<staff gid="2571167365"><task>Art Director</task><person id="7144">Jirou Kouno</person></staff>
+<staff gid="1121860717"><task>Animation Director</task><person id="36248">Toshiki Yamazaki</person></staff>
+<staff gid="2973966092"><task>Director of Photography</task><person id="226">Hisao Shirai</person></staff>
+<staff gid="1374584011"><task>Executive producer</task><person id="39879">Dennis Livson</person></staff>
+<staff gid="1942531098"><task>Producer</task><person id="31483">Kazuo Tabata</person></staff>
+<cast gid="2461241322" lang="JA"><role>Snufkin</role><person id="662">Takehito Koyasu</person></cast>
+<cast gid="1620790367" lang="JA"><role>Muuminpapa</role><person id="832">Akio Ohtsuka</person></cast>
+<cast gid="2108099702" lang="JA"><role>Muumin</role><person id="845">Minami Takayama</person></cast>
+<cast gid="2814752808" lang="JA"><role>Mii</role><person id="853">Rei Sakuma</person></cast>
+<cast gid="2666790996" lang="JA"><role>Floren</role><person id="1041">Mika Kanai</person></cast>
+<cast gid="1866027340" lang="JA"><role>Hemulen</role><person id="2759">Minoru Yada</person></cast>
+<cast gid="1101661207" lang="JA"><role>Sniff</role><person id="4668">Ryusei Nakao</person></cast>
+<cast gid="2601695877" lang="JA"><role>Muuminmama</role><person id="9860">Ikuko Tani</person></cast>
+<cast gid="1820436502" lang="JA"><role>Jakounezumi</role><person id="21764">Masato Yamanouchi</person></cast>
+<cast gid="2881307726" lang="JA"><role>Snork</role><person id="40825">Yasuyuki Hirata</person></cast>
+<cast gid="1503140239" lang="PL"><role>Mała Mii</role><person id="67234">Krystyna Kozanecka</person></cast>
+<cast gid="3068442267" lang="PL"><role>Ryjek</role><person id="67237">Jozef Mika</person></cast>
+<cast gid="1739101300" lang="PL"><role>Włóczykij</role><person id="67250">Artur Kaczmarski</person></cast>
+<cast gid="2494698655" lang="PL"><role>Muminek</role><person id="71410">Jacek Kawalec</person></cast>
+<cast gid="1280948695" lang="PL"><role>Mamusia Muminka</role><person id="71411">Anna Wróblówna</person></cast>
+<cast gid="1216357624" lang="PL"><role>Tatuś Muminka</role><person id="71412">Janusz Bukowski</person></cast>
+<cast gid="3162974871" lang="PL"><role>Panna Migotka</role><person id="71413">Małgorzata Boratyńska</person></cast>
+<cast gid="3154549952" lang="PL"><role>Homek</role><person id="71910">Jacek Braciak</person></cast>
+<cast gid="354727300" lang="PL"><role>Migotek</role><person id="121794">Krzysztof Ibisz</person></cast>
+<credit gid="2044519321"><task>Production</task><company id="239">Telescreen</company></credit>
+<credit gid="2311855581"><task>Production</task><company id="2743">Visual 80</company></credit></anime></ann>

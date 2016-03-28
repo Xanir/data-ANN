@@ -1,0 +1,30 @@
+<ann><anime id="10670" gid="1171595237" type="movie" name="Nine" precision="movie" generated-on="2016-03-27T04:02:03Z">
+<related-prev rel="remixed from" id="3266"/>
+<related-next id="8961" rel="sequel"/>
+<info gid="547752585" type="Main title" lang="EN">Nine</info>
+<info gid="1124837076" type="Alternative title" lang="JA">ナイン</info>
+<info gid="3266225893" type="Genres">romance</info>
+<info gid="2966512074" type="Genres">tournament</info>
+<info gid="3153932642" type="Themes">baseball</info>
+<info gid="2628309325" type="Running time">71</info>
+<info type="Vintage">1983-09-16</info>
+<info gid="1824391618" type="Premiere date">1983-09-16 (Japan)</info>
+<info gid="2449092722" type="Opening Theme">&quot;Aoi Photograph (青いフォトグラフ)&quot; by Mariko Kurata</info>
+<info gid="2856291842" type="Ending Theme">&quot;Manatsu no Runner (真夏のランナー)&quot; by Mariko Kurata</info>
+<staff gid="1715382857"><task>Director</task><person id="3328">Gisaburō Sugii</person></staff>
+<staff gid="1874716184"><task>Screenplay</task><person id="21700">Hirokazu Fuse</person></staff>
+<staff gid="717387858"><task>Music</task><person id="10726">Hiroaki Serizawa</person></staff>
+<staff gid="1494277349"><task>Music</task><person id="24707">Yasushi Tsuchida</person></staff>
+<staff gid="1155677468"><task>Original creator</task><person id="3137">Mitsuru Adachi</person></staff>
+<staff gid="2119709434"><task>Character Design</task><person id="14">Minoru Maeda</person></staff>
+<staff gid="3027521368"><task>Art Director</task><person id="33">Hiroshi Ohno</person></staff>
+<staff gid="2714020594"><task>Animation Director</task><person id="203">Tsuneo Maeda</person></staff>
+<staff gid="744365433"><task>Executive producer</task><person id="16525">Yukichi Ohashi</person></staff>
+<staff gid="2236916032"><task>Producer</task><person id="211">Ken Fujita</person></staff>
+<staff gid="3875727049"><task>Producer</task><person id="8806">Masamichi Fujiwara</person></staff>
+<staff gid="3133985060"><task>Producer</task><person id="75595">Eiichi Kubota</person></staff>
+<cast gid="3308543712" lang="JA"><role>Katsuya Niimi</role><person id="1105">Tohru Furuya</person></cast>
+<cast gid="1329296222" lang="JA"><role>Susumu Harasawa</role><person id="2378">Kei Tomiyama</person></cast>
+<cast gid="1262321813" lang="JA"><role>Yuri Nakao</role><person id="68941">Mariko Kurata</person></cast>
+<credit gid="3284382035"><task>Animation Production</task><company id="95">Group TAC</company></credit>
+<credit gid="1438564544"><task>Production</task><company id="162">Fuji TV</company></credit></anime></ann>

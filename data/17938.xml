@@ -1,0 +1,51 @@
+<ann><anime id="17938" gid="721551383" type="ONA" name="Koyomimonogatari" precision="ONA" generated-on="2016-03-27T05:53:18Z">
+<related-prev rel="spinoff of" id="16342"/>
+<info gid="1831792370" type="Main title" lang="JA">Koyomimonogatari</info>
+<info gid="3125540432" type="Alternative title" lang="JA">暦物語</info>
+<info gid="2654978789" type="Plot Summary">Every month starting from April, one of the heroines of the Monogatari Series encounters some kind of mystery in their life and Koyomi solves them all.</info>
+<info gid="3070396621" type="Running time">14</info>
+<info gid="2026793970" type="Vintage">2016-01-09</info>
+<info gid="1453149135" type="Opening Theme">#1: &quot;perfect slumbers&quot; by Yui Horie</info>
+<info gid="2775990075" type="Opening Theme">#2: &quot;staple stable&quot; by Chiwa Saito</info>
+<info gid="1962768584" type="Opening Theme">#3: &quot;Kaerimichi&quot; (帰り道, The Way Back Home) by Emiri Katou (ep 3)</info>
+<info gid="791128981" type="Opening Theme">#4: &quot;ambivalent world&quot; by Miyuki Sawashiro (ep 4)</info>
+<info gid="2912923009" type="Opening Theme">#5: &quot;Renai Circulation&quot; (恋愛サーキュレーション, Love Circulation) by Kana Hanazawa (ep 5)</info>
+<info gid="683946448" type="Opening Theme">#6: &quot;Marshmallow Justice&quot; by Eri Kitamura (ep 6)</info>
+<info gid="2330639060" type="Opening Theme">#7: &quot;Platinum Disco&quot; by Yuka Iguchi (ep 7)</info>
+<info gid="3108601639" type="Opening Theme">#8: &quot;decent black&quot; by Kaori Mizuhashi (ep 8)</info>
+<info gid="2384755460" type="Opening Theme">#9: &quot;mein schatz&quot; by Ryūichi Takada (ep 9)</info>
+<info gid="999961322" type="Opening Theme">#10: &quot;Orange Mint&quot; (オレンジミント) by Saori Hayami (ep 10)</info>
+<info gid="222377642" type="Ending Theme">&quot;whiz&quot; by TrySail</info>
+<info gid="2776304070" type="Official website" lang="JA" href="http://www.monogatari-series.com/koyomimonogatari/">「暦物語」 公式サイト</info>
+<ratings nb_votes="6" weighted_score="8.2344"/>
+<episode num="1">
+<title gid="2160538183" lang="EN">Koyomi Stone</title></episode>
+<news datetime="2015-12-10T05:30:00Z" href="http://www.animenewsnetwork.com:/news/2015-12-10/koyomimonogatari-gets-short-anime-debuting-in-app-on-january-9/.96314">&lt;cite&gt;Koyomimonogatari&lt;/cite&gt; Gets Short Anime Debuting in App on January 9</news>
+<staff gid="229258402"><task>Chief Director</task><person id="1610">Akiyuki Shinbo</person></staff>
+<staff gid="3208160913"><task>Director</task><person id="79397">Tomoyuki Itamura</person></staff>
+<staff gid="2430658904"><task>Series Composition</task><person id="1610">Akiyuki Shinbo</person></staff>
+<staff gid="952993926"><task>Series Composition</task><person id="69855">Fuyashi Tou</person></staff>
+<staff gid="3651414849"><task>Music</task><person id="55249">Satoru Kousaki</person></staff>
+<staff gid="2272416493"><task>Original creator</task><person id="72953">NisiOisin</person></staff>
+<staff gid="2245582785"><task>Original Character Design</task><person id="72954">VOfan</person></staff>
+<staff gid="1819312848"><task>Character Design</task><person id="2813">Akio Watanabe</person></staff>
+<staff gid="2427249763"><task>Art Director</task><person id="70719">Ken Naito</person></staff>
+<staff gid="793913486"><task>Chief Animation Director</task><person id="2813">Akio Watanabe</person></staff>
+<staff gid="2641485574"><task>Chief Animation Director</task><person id="37982">Shinya Nishizawa</person></staff>
+<staff gid="1593663132"><task>Chief Animation Director</task><person id="75943">Taisuke Iwasaki</person></staff>
+<staff gid="1348235287"><task>Sound Director</task><person id="254">Yota Tsuruoka</person></staff>
+<staff gid="1662275543"><task>Director of Photography</task><person id="68849">Rei Egami</person></staff>
+<cast gid="2378752810" lang="JA"><role>Izuko Gaen</role><person id="278">Satsuki Yukino</person></cast>
+<cast gid="1909988486" lang="JA"><role>Tsubasa Hanekawa</role><person id="386">Yui Horie</person></cast>
+<cast gid="4106917722" lang="JA"><role>Shinobu Oshino</role><person id="527">Maaya Sakamoto</person></cast>
+<cast gid="1962672008" lang="JA"><role>Ougi Oshino</role><person id="5179">Kaori Mizuhashi</person></cast>
+<cast gid="1148183420" lang="JA"><role>Suruga Kanbaru</role><person id="5735">Miyuki Sawashiro</person></cast>
+<cast gid="1887858808" lang="JA"><role>Koyomi Araragi</role><person id="5902">Hiroshi Kamiya</person></cast>
+<cast gid="3394476589" lang="JA"><role>Hitagi Senjougahara</role><person id="13834">Chiwa Saito</person></cast>
+<cast gid="2278056668" lang="JA"><role>Karen Araragi</role><person id="13838">Eri Kitamura</person></cast>
+<cast gid="598562253" lang="JA"><role>Yozuru Kagenui</role><person id="16480">Ryoko Shiraishi</person></cast>
+<cast gid="738614427" lang="JA"><role>Tsukihi Araragi</role><person id="28316">Yuka Iguchi</person></cast>
+<cast gid="2909307745" lang="JA"><role>Mayoi Hachikuji</role><person id="28606">Emiri Katō</person></cast>
+<cast gid="2191811676" lang="JA"><role>Nadeko Sengoku</role><person id="53741">Kana Hanazawa</person></cast>
+<cast gid="2511164208" lang="JA"><role>Yotsugi Ononoki</role><person id="63462">Saori Hayami</person></cast>
+<credit gid="1925531495"><task>Animation Production</task><company id="677">SHAFT</company></credit></anime></ann>

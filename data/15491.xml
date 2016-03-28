@@ -1,0 +1,484 @@
+<ann><anime id="15491" gid="2272510494" type="TV" name="Pokémon XY" precision="TV" generated-on="2016-03-27T05:29:41Z">
+<related-prev rel="sequel of" id="14333"/>
+<related-next id="15765" rel="related"/>
+<related-next id="16656" rel="related"/>
+<related-next id="17213" rel="related"/>
+<related-next id="17650" rel="sequel"/>
+<related-next id="17651" rel="side story"/>
+<info gid="3291879807" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A15491-3291879807.1379634503.jpg" width="200" height="175"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A15491-3291879807.1379634503.jpg" width="200" height="175"/><img src="http://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A15491-3291879807.1379634503.jpg" width="500" height="436"/><img src="http://cdn.animenewsnetwork.com/images/encyc/A15491-3291879807.1379634503.jpg" width="559" height="488"/></info>
+<info gid="683358734" type="Main title" lang="EN">Pokémon XY</info>
+<info gid="3181013591" type="Alternative title" lang="JA">Pocket Monsters XY</info>
+<info gid="750288884" type="Alternative title" lang="NL">Pokémon de Serie: XY</info>
+<info gid="1078189890" type="Alternative title" lang="ES">Pokémon XY: Expediciones en Kalos</info>
+<info gid="2293717190" type="Alternative title" lang="IT">Pokèmon: Serie XY</info>
+<info gid="2124106246" type="Alternative title" lang="ES">Pokémon: Temporada XY</info>
+<info gid="2569933061" type="Alternative title" lang="JA">ポケットモンスターXY</info>
+<info gid="1222635645" type="Genres">adventure</info>
+<info gid="2110566279" type="Plot Summary">satoshi (ash) travel to the kalos region with his pokemon, pikachu. as always in his goal to be the pokemon master, he will start to collect gim badged to go to the kalos pokemon league meanwhile he get new pokemons, friends, trainers and rivals.</info>
+<info gid="3447418831" type="Vintage">2013-10-17</info>
+<info gid="3147584664" type="Vintage">2013-10-19 (Spain-ClanTV)</info>
+<info gid="1515269367" type="Vintage">2013-10-19 (United States-Cartoon Network Preview)</info>
+<info gid="900268598" type="Vintage">2014-01-18 (United States-Cartoon Network Premiere)</info>
+<info gid="744873760" type="Vintage">2014-04-14 (Italy)</info>
+<info gid="1944472920" type="Vintage">2014-04-20 (Netherlands)</info>
+<info gid="1098503126" type="Vintage">2014-04-27 (Spain-Disney XD)</info>
+<info gid="2332473691" type="Vintage">2014-08-23 (Philippines, 9TV)</info>
+<info gid="1608656215" type="Vintage">2014-09-01 (Poland - Disney XD Poland)</info>
+<info gid="2111542907" type="Vintage">2015-10-28 (Vietnam - VTV2)</info>
+<info gid="2672467214" type="Opening Theme">#1: &quot;Pokemon Theme&quot; by Ben Dixon and The Sad Truth (eps 1-49)</info>
+<info gid="2947998099" type="Opening Theme">#1: &quot;V (Volt)&quot; by Yusuke (eps 1-28)</info>
+<info gid="3817112965" type="Opening Theme">#2: &quot;Be a hero&quot; by Ben Dixon and The Sad Truth (eps 50-)</info>
+<info gid="1341780606" type="Opening Theme">#2: &quot;Mega-V (Mega Volt&quot; by Yusuke (eps 29-54)</info>
+<info gid="3926375683" type="Opening Theme">#3: &quot;Getter Bambang&quot; (ゲッタバンバン) by Tomohisa Sakō</info>
+<info gid="2993438835" type="Ending Theme">#1: &quot;X Kaikyou Y Keshiki&quot; by J☆Dee’Z (eps 1-28)</info>
+<info gid="2243882473" type="Ending Theme">#2: &quot;Peace Smile!&quot; by J☆Dee’Z (eps 29-46)</info>
+<info gid="1167967859" type="Ending Theme">#3: &quot;Doridori&quot; (ドリドリ) by Shoko Nakagawa</info>
+<info gid="3211204207" type="Ending Theme">#4: &quot;GaoGao All Stars&quot; by Little Glee Monster (eps 68-92)</info>
+<info gid="2349640439" type="Insert song">&quot;Brilliantly&quot; by Tomohisa Sakō (eps 83,85,87)</info>
+<info gid="3324130973" type="Insert song">&quot;DreamDream&quot; by Shoko Nakagawa (eps 64,89,90)</info>
+<info gid="3391451180" type="Insert song">&quot;Getter BamBang&quot; by Tomohisa Sako (ep 67)</info>
+<info gid="857559214" type="Insert song">&quot;V (Volt)&quot; by Yusuke (eps 36,51-52,56,58,61-62)</info>
+<info gid="1014291333" type="Official website" lang="JA" href="http://www.tv-tokyo.co.jp/anime/pokemon_xy/index2.html">ポケットモンスター エックスワイ</info>
+<ratings nb_votes="29" weighted_score="6.7321" bayesian_score="6.97687"/>
+<episode num="1">
+<title gid="2412940160" lang="EN">We've Arrived In The Kalos Region! Dreams and Adventures Begin!!</title></episode>
+<episode num="2">
+<title gid="3302754864" lang="EN">Mega Evolution and Prism Tower!</title></episode>
+<episode num="3">
+<title gid="1998292927" lang="EN">Keromatsu VS. Yayakoma! Aerial battle maneuvers!</title></episode>
+<episode num="4">
+<title gid="937223577" lang="EN">Pikachu and Dedenne! Cheek Rub!</title></episode>
+<episode num="5">
+<title gid="1628526157" lang="EN">The Hakudan Gym Battle! The Magnificent Bibiyon's Dance Battle!!</title></episode>
+<episode num="6">
+<title gid="1146869520" lang="EN">Decisive battle on the ice! Pikachu VS. Bibiyon!</title></episode>
+<episode num="7">
+<title gid="2559319539" lang="EN">Leave it to Serena?! The charging Sihorn Race!</title></episode>
+<episode num="8">
+<title gid="1075284465" lang="EN">Pokemon Trimmer and Torimian!</title></episode>
+<episode num="9">
+<title gid="1478813251" lang="EN">Capture Miare Gym! Citron's secret!</title></episode>
+<episode num="10">
+<title gid="1857041874" lang="EN">Harimaron VS Mega Mega Nyarth!!</title></episode>
+<episode num="11">
+<title gid="2185475812" lang="EN">Pursuit in the Bamboo Forest! Yancham and Goronda!</title></episode>
+<episode num="12">
+<title gid="3524089784" lang="EN">Capture the Pokémon Buyer! The Kofūrai Impersonation Plan!!</title></episode>
+<episode num="13">
+<title gid="1706332695" lang="EN">Nymphia VS Keromatsu! Big Commotion in the Kindergarten!!</title></episode>
+<episode num="14">
+<title gid="2942146850" lang="EN">The Mysterious Rain Shelter! Nyasupā is Watching!!</title></episode>
+<episode num="15">
+<title gid="1676270337" lang="EN">Harimaron VS. Mafoxy! A diet battle?!</title></episode>
+<episode num="16">
+<title gid="2698209038" lang="EN">Dedenne is Pichu, Pichu is Dedenne?!</title></episode>
+<episode num="17">
+<title gid="1585176397" lang="EN">Keromatsu VS Gekogashira! Ninja battle!</title></episode>
+<episode num="18">
+<title gid="2062389882" lang="EN">Wake up, Kabigon! Battle in Parfum Palace!</title></episode>
+<episode num="19">
+<title gid="1947767533" lang="EN">Madame X's plot! The scary Calamanero!</title></episode>
+<episode num="20">
+<title gid="1020586612" lang="EN">Battle Chateau challenge! Viola VS. Zakuro!</title></episode>
+<episode num="21">
+<title gid="1143789207" lang="EN">Debut! Serena and Fokko on Pokévision!</title></episode>
+<episode num="22">
+<title gid="2037480293" lang="EN">Fish up the golden Koiking!</title></episode>
+<episode num="23">
+<title gid="885709124" lang="EN">The bond of the aurora! Amarus and Amaruruga!</title></episode>
+<episode num="24">
+<title gid="1357027782" lang="EN">Shōyō Gym Battle! Pikachu VS Chigoras!!</title></episode>
+<episode num="25">
+<title gid="3123750172" lang="EN">Peroppafu and Peroream!! The Sweet Battle isn't a Piece of Cake!?</title></episode>
+<episode num="26">
+<title gid="2883722648" lang="EN">Flabebe and the Fairy Flower!</title></episode>
+<episode num="27">
+<title gid="546995112" lang="EN">Champion Carnet appears! The Mega Sirknight in the mist!</title></episode>
+<episode num="28">
+<title gid="2252165820" lang="EN">Ta-da! Fake Satoshi Appears!!</title></episode>
+<episode num="29">
+<title gid="3249715138" lang="EN">Corni and Lucario! The secret of Mega Evolution!</title></episode>
+<episode num="30">
+<title gid="1905451422" lang="EN">Lucario VS. Bursyamo! The cave of trials!</title></episode>
+<episode num="31">
+<title gid="2363519280" lang="EN">Mega Lucario VS. Mega Lucario! The Wave-Guiding storm!</title></episode>
+<episode num="32">
+<title gid="3745971031" lang="EN">Hearts calling to each other! To the other side of Wave-Guiding!</title></episode>
+<episode num="33">
+<title gid="1670897850" lang="EN">Mega Lucario VS. Mega Kucheat! The Mega Evolution bond!</title></episode>
+<episode num="34">
+<title gid="2823574012" lang="EN">Champion of the forest! Luchabull appears!</title></episode>
+<episode num="35">
+<title gid="737504968" lang="EN">A Sky Battle?! Luchabull VS. Fiarrow!!</title></episode>
+<episode num="36">
+<title gid="1770055052" lang="EN">Reflection Cave! Mirror World Satoshi and Satoshi!?</title></episode>
+<episode num="37">
+<title gid="3512627543" lang="EN">Ohrot of the crawling forest!</title></episode>
+<episode num="38">
+<title gid="1714921580" lang="EN">Pokémon Summer Camp! Enter the rival trio!!</title></episode>
+<episode num="39">
+<title gid="2123231742" lang="EN">Serena VS. Sana! PokéVision Showdown!!</title></episode>
+<episode num="40">
+<title gid="783310102" lang="EN">PokéEnteering! The X in the mist!</title></episode>
+<episode num="41">
+<title gid="2379489578" lang="EN">Team battle! Competing for the Hall of Fame!!</title></episode>
+<episode num="42">
+<title gid="3321129674" lang="EN">Master Tower! The History of Mega Evolution!!</title></episode>
+<episode num="43">
+<title gid="2683390154" lang="EN">Shara Gym Match! Pikachu VS. Mega Lucario!!</title></episode>
+<episode num="44">
+<title gid="1408199044" lang="EN">Citron VS. Eureka!? A sibling battle for Nyaonix!!</title></episode>
+<episode num="45">
+<title gid="1244880058" lang="EN">The clumsy Pukurin VS. the rampaging Bohmander!</title></episode>
+<episode num="46">
+<title gid="1586768332" lang="EN">Serena's first capture?! Pancham VS. Fokko!</title></episode>
+<episode num="47">
+<title gid="1620197534" lang="EN">Citron's campus of memories! An electrifying reunion!</title></episode>
+<episode num="48">
+<title gid="1410231310" lang="EN">Dispatch the Laplace protection team! Do you best, Eureka!</title></episode>
+<episode num="49">
+<title gid="2026552633" lang="EN">Dance, Yancham, Captivate, Fokko! The dance for tomorrow!</title></episode>
+<episode num="50">
+<title gid="1578949973" lang="EN">The undersea castle! Kuzumo and Dramidoro!</title></episode>
+<episode num="51">
+<title gid="2069260408" lang="EN">Luchabull and Dark Luchabull!</title></episode>
+<episode num="52">
+<title gid="3040272458" lang="EN">Ninja arts showdown! Gekogashira VS. Gamenodes!</title></episode>
+<episode num="53">
+<title gid="1569693075" lang="EN">Serena's Earnest! The wild Meecle race!</title></episode>
+<episode num="54">
+<title gid="1604150338" lang="EN">Calamanero VS. Maiika! The bonds that would save the world!</title></episode>
+<episode num="55">
+<title gid="419092218" lang="EN">The weakest dragon! Numera appears!</title></episode>
+<episode num="56">
+<title gid="1771324488" lang="EN">Do your best, Dedenne! Do it for Numera!</title></episode>
+<episode num="57">
+<title gid="485885684" lang="EN">Vanipeti panic! An ice covered whiteout!</title></episode>
+<episode num="58">
+<title gid="1678343999" lang="EN">Hiyoku Gym battle! Gekogashira VS. Gogoat!</title></episode>
+<episode num="59">
+<title gid="505901586" lang="EN">Satoshi and Serena's first date?! The tree of promises and the presents!!</title></episode>
+<episode num="60">
+<title gid="3914417109" lang="EN">Aim to be the Kalos Queen! Serena makes her debut!</title></episode>
+<episode num="61">
+<title gid="504491142" lang="EN">Decisive battle in the wildnerness! Fight, Numera!</title></episode>
+<episode num="62">
+<title gid="3316710918" lang="EN">Protect the future of science! The electric labyrinth!</title></episode>
+<episode num="63">
+<title gid="3470862123" lang="EN">A fork in the path of indecision?! Musashi and Sonansu!</title></episode>
+<episode num="64">
+<title gid="1637032963" lang="EN">Fokko VS Mafoxy! A splendid performance battle!</title></episode>
+<episode num="65">
+<title gid="3090901283" lang="EN">Kameil and Raichu appear! Good luck, Numeil!</title></episode>
+<episode num="66">
+<title gid="2574483071" lang="EN">The Miare City investigation! Citroid VS. Black Citroid!</title></episode>
+<episode num="67">
+<title gid="1684320062" lang="EN">Miare Gym Battle! Satoshi VS. Citron!</title></episode>
+<episode num="68">
+<title gid="2517449749" lang="EN">The coveted Mega Evolution! Gablias's bonds!</title></episode>
+<episode num="69">
+<title gid="1141258797" lang="EN">Battle in the wetlands! Numelgon VS. Florges!</title></episode>
+<episode num="70">
+<title gid="3211409591" lang="EN">Conclusion! Numelgon, go over the rainbow!</title></episode>
+<episode num="71">
+<title gid="2572710911" lang="EN">The worst luck? Eureka VS. Nyasu!</title></episode>
+<episode num="72">
+<title gid="1033056574" lang="EN">Hospitality of the Scary House!</title></episode>
+<episode num="73">
+<title gid="2892686630" lang="EN">Battle at the fashion show! Tatsubay VS Shushupu!!</title></episode>
+<episode num="74">
+<title gid="2330295018" lang="EN">Kunoe Gym battle! The beautiful Fairy trap!</title></episode>
+<episode num="75">
+<title gid="2570875888" lang="EN">Three match rival battle! Towards the future!</title></episode>
+<episode num="76">
+<title gid="2191834225" lang="EN">The wind, the egg, and Onbat!</title></episode>
+<episode num="77">
+<title gid="1271649501" lang="EN">The Pokemon Sky Relay! Fly, Onbat!</title></episode>
+<episode num="78">
+<title gid="904535929" lang="EN">Fierce battle at the Monster Ball factory! Pikachu vs. Nyasu!</title></episode>
+<episode num="79">
+<title gid="1784198920" lang="EN">Tairenar and Yancham! A captivating fiery performance!</title></episode>
+<episode num="80">
+<title gid="1698887531" lang="EN">Satoshi leaps through time! Rotom's wish!</title></episode>
+<episode num="81">
+<title gid="2449634638" lang="EN">The Pumpjinn Festival! Farewell, Bakeccha!?</title></episode>
+<episode num="82">
+<title gid="2344448932" lang="EN">Crossing the Snow Mountains! Mammoo and Yukinooh!</title></episode>
+<episode num="83">
+<title gid="2498459368" lang="EN">Harimaron! Its first errand!!</title></episode>
+<episode num="84">
+<title gid="1882674321" lang="EN">A Broken Twig and a Broken Heart! Tairenar's Strong Feelings!!</title></episode>
+<episode num="85">
+<title gid="1435756180" lang="EN">Photo Op on Fire! Snap the Legend!!</title></episode>
+<episode num="86">
+<title gid="1229852342" lang="EN">Eureka the caretaker! The spoiled Chigoras!</title></episode>
+<episode num="87">
+<title gid="2890501665" lang="EN">Memories of the train! Citron and Horubii!</title></episode>
+<episode num="88">
+<title gid="2463685411" lang="EN">The Eievui Who is Shy of Strangers!? The Catcher in the Flower Garden!!</title></episode>
+<episode num="89">
+<title gid="2827706991" lang="EN">A Tag Battle is a Friendship Battle! Eievui's First Time in a Fight!!</title></episode>
+<episode num="90">
+<title gid="2330308353" lang="EN">The happy dance comes after the quiz?! The HyakkokuTriPokalon Tournament!</title></episode>
+<episode num="91">
+<title gid="2808989362" lang="EN">The Crisis in Kalos! The Battle of the Giant Sundial!!</title></episode>
+<episode num="92">
+<title gid="2478986535" lang="EN">The Double Battle in the Hyakkoku Gym! Gojika's Future Sight!</title></episode>
+<release date="2015-08-04" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=28682">Pokémon XY - Set 1 (Dub.DVD)</release>
+<release date="2016-01-19" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=30002">Pokémon XY - Set 2 (Dub.DVD)</release>
+<news datetime="2013-09-04T13:20:00Z" href="http://www.animenewsnetwork.com/news/2013-09-04/pokemon-x-and-y-gets-classic-starter-pokemon-3ds-xl-variants">&lt;cite&gt;Pokémon X &amp; Y&lt;/cite&gt; Get Classic Starter Pokémon, 3DS XL Variants</news>
+<news datetime="2013-09-11T06:40:00Z" href="http://www.animenewsnetwork.com/news/2013-09-11/pokemon-the-series/xy-anime-previewed-in-latest-promo-video">&lt;cite&gt;Pokémon the Series: XY&lt;/cite&gt; Anime Previewed in Latest Promo Video</news>
+<news datetime="2013-09-23T14:32:30Z" href="http://www.animenewsnetwork.com/news/2013-09-23/new-pokemon-xy-anime-trailer-introduces-ash-new-travel-companions">New &lt;cite&gt;Pokémon XY&lt;/cite&gt; Anime Trailer Introduces Ash's New Travel Companions</news>
+<news datetime="2013-09-26T17:30:00Z" href="http://www.animenewsnetwork.com/news/2013-09-26/pokemon-xy-anime-latest-trailer-introduces-main-cast">&lt;cite&gt;Pokémon XY&lt;/cite&gt; Anime's Latest Trailer Introduces Main Cast</news>
+<news datetime="2013-10-27T21:00:00Z" href="http://www.animenewsnetwork.com/news/2013-10-27/japan-animation-tv-ranking-october-14-20">Japan's Animation TV Ranking, October 14-20</news>
+<news datetime="2013-11-04T02:00:00Z" href="http://www.animenewsnetwork.com/news/2013-11-03/japan-animation-tv-ranking-october-21-27">Japan's Animation TV Ranking, October 21-27</news>
+<news datetime="2013-11-10T20:00:00Z" href="http://www.animenewsnetwork.com/news/2013-11-10/japan-animation-tv-ranking-october-28-november-3">Japan's Animation TV Ranking, October 28-November 3</news>
+<news datetime="2013-11-24T20:00:00Z" href="http://www.animenewsnetwork.com/news/2013-11-24/japan-animation-tv-ranking-november-11-17">Japan's Animation TV Ranking, November 11-17</news>
+<news datetime="2013-12-02T10:25:00Z" href="http://www.animenewsnetwork.com/news/2013-12-02/japan-animation-tv-ranking-november-18-24">Japan's Animation TV Ranking, November 18-24</news>
+<news datetime="2013-12-08T23:00:00Z" href="http://www.animenewsnetwork.com/news/2013-12-08/japan-animation-tv-ranking-november-25-december-1">Japan's Animation TV Ranking, November 25-December 1</news>
+<news datetime="2013-12-16T15:25:00Z" href="http://www.animenewsnetwork.com/news/2013-12-16/japan-animation-tv-ranking-december-2-8">Japan's Animation TV Ranking, December 2-8</news>
+<news datetime="2013-12-19T20:01:05Z" href="http://www.animenewsnetwork.com/news/2013-12-19/pokemon-xy-premieres-on-cartoon-network-on-january-18">&lt;cite&gt;Pokémon XY&lt;/cite&gt; Premieres on Cartoon Network on January 18</news>
+<news datetime="2013-12-23T05:15:00Z" href="http://www.animenewsnetwork.com/news/2013-12-23/japan-animation-tv-ranking-december-9-15">Japan's Animation TV Ranking, December 9-15</news>
+<news datetime="2014-01-01T21:30:00Z" href="http://www.animenewsnetwork.com/news/2014-01-01/japan-animation-tv-ranking-december-16-22">Japan's Animation TV Ranking, December 16-22</news>
+<news datetime="2014-01-18T05:00:00Z" href="http://www.animenewsnetwork.com/news/2014-01-18/cartoon-network-debuts-pokemon-the-series/xy-in-u.s-on-saturday">Cartoon Network Debuts &lt;i&gt;Pokémon the Series: XY&lt;/i&gt; in U.S. on Saturday</news>
+<news datetime="2014-01-20T03:00:00Z" href="http://www.animenewsnetwork.com/news/2014-01-19/japan-animation-tv-ranking-january-6-12">Japan's Animation TV Ranking, January 6-12</news>
+<news datetime="2014-02-09T22:43:50Z" href="http://www.animenewsnetwork.com/news/2014-02-09/japan-animation-tv-ranking-january-27-february-2">Japan's Animation TV Ranking, January 27-February 2</news>
+<news datetime="2014-02-23T21:30:00Z" href="http://www.animenewsnetwork.com/news/2014-02-23/japanese-anime-tv-ranking/february-10-16">Japan's Animation TV Ranking, February 10-16</news>
+<news datetime="2014-02-28T04:54:42Z" href="http://www.animenewsnetwork.com/news/2014-02-27/netflix-hulu-split-pokemon-streaming-rights">Netflix, Hulu Split &lt;cite&gt;Pokémon&lt;/cite&gt; Streaming Rights</news>
+<news datetime="2014-03-03T03:30:00Z" href="http://www.animenewsnetwork.com/news/2014-03-02/japanese-anime-tv-ranking/february-17-23">Japan's Animation TV Ranking, February 17-23</news>
+<news datetime="2014-03-10T02:00:00Z" href="http://www.animenewsnetwork.com/news/2014-03-09/japan-animation-tv-ranking/february-24-march-2">Japan's Animation TV Ranking, February 24-March 2</news>
+<news datetime="2014-03-24T02:00:00Z" href="http://www.animenewsnetwork.com/news/2014-03-23/japanese-anime-tv-ranking/march-10-15">Japan's Animation TV Ranking, March 10-15</news>
+<news datetime="2014-04-03T22:30:13Z" href="http://www.animenewsnetwork.com/news/2014-04-03/japan-animation-tv-ranking/march-17-23">Japan's Animation TV Ranking, March 17-23</news>
+<news datetime="2014-04-09T06:30:00Z" href="http://www.animenewsnetwork.com/news/2014-04-09/japan-animation-tv-ranking/march-24-30">Japan's Animation TV Ranking, March 24-30</news>
+<news datetime="2014-04-14T10:00:00Z" href="http://www.animenewsnetwork.com/news/2014-04-14/japan-animation-tv-ranking/march-31-april-6">Japan's Animation TV Ranking, March 31-April 6</news>
+<news datetime="2014-04-15T14:45:00Z" href="http://www.animenewsnetwork.com/news/2014-04-15/pokemon-xy-planetarium-anime-to-premiere-this-july">&lt;cite&gt;Pokémon XY&lt;/cite&gt; Planetarium Anime to Premiere This July</news>
+<news datetime="2014-04-20T20:00:00Z" href="http://www.animenewsnetwork.com/news/2014-04-20/japanese-anime-tv-ranking/april-7-13">Japan's Animation TV Ranking, April 7-13</news>
+<news datetime="2014-04-21T17:30:36Z" href="http://www.animenewsnetwork.com/news/2014-04-21/pokemon-xy-episode-about-sunken-passenger-ship-delayed">&lt;cite&gt;Pokémon XY&lt;/cite&gt; Episode About Sunken Passenger Ship Delayed</news>
+<news datetime="2014-04-28T08:20:00Z" href="http://www.animenewsnetwork.com/news/2014-04-28/japan-animation-tv-ranking/april-14-20">Japan's Animation TV Ranking, April 14-20</news>
+<news datetime="2014-05-04T23:00:00Z" href="http://www.animenewsnetwork.com/news/2014-05-04/japan-animation-tv-ranking/april-21-27">Japan's Animation TV Ranking, April 21-27</news>
+<news datetime="2014-05-19T22:30:19Z" href="http://www.animenewsnetwork.com/news/2014-05-19/japanese-anime-tv-ranking/may-5-11">Japan's Animation TV Ranking, May 5-11</news>
+<news datetime="2014-05-23T13:25:00Z" href="http://www.animenewsnetwork.com:/news/2014-05-23/pokemon-xy-mega-mega-1-hour-special-promo-streamed/.74844">&lt;cite&gt;Pokémon XY Mega Mega 1-Hour Special's&lt;/cite&gt; Promo Streamed</news>
+<news datetime="2014-05-27T00:00:00Z" href="http://www.animenewsnetwork.com:/news/2014-05-27/japan-animation-tv-ranking-may-12-18/.74902">Japan's Animation TV Ranking, May 12-18</news>
+<news datetime="2014-06-02T23:00:27Z" href="http://www.animenewsnetwork.com:/news/2014-06-03/japan-animation-tv-ranking-may-19-25/.75116">Japan's Animation TV Ranking, May 19-25</news>
+<news datetime="2014-06-16T01:00:00Z" href="http://www.animenewsnetwork.com:/news/2014-06-16/japan-animation-tv-ranking-june-2-8/.75599">Japan's Animation TV Ranking, June 2-8</news>
+<news datetime="2014-06-23T20:30:07Z" href="http://www.animenewsnetwork.com:/news/2014-06-24/japan-animation-tv-ranking-june-9-15/.75831">Japan's Animation TV Ranking, June 9-15</news>
+<news datetime="2014-07-02T05:30:00Z" href="http://www.animenewsnetwork.com:/news/2014-07-02/japan-animation-tv-ranking-june-16-22/.76113">Japan's Animation TV Ranking, June 16-22</news>
+<news datetime="2014-07-14T21:30:09Z" href="http://www.animenewsnetwork.com:/news/2014-07-15/japan-animation-tv-ranking-june-30-july-6/.76662">Japan's Animation TV Ranking, June 30-July 6</news>
+<news datetime="2014-07-21T06:15:00Z" href="http://www.animenewsnetwork.com:/news/2014-07-21/japan-animation-tv-ranking-july-7-13/.76868">Japan's Animation TV Ranking, July 7-13</news>
+<news datetime="2014-08-04T11:30:00Z" href="http://www.animenewsnetwork.com:/news/2014-08-04/japan-animation-tv-ranking-july-21-27/.77264">Japan's Animation TV Ranking, July 21-27</news>
+<news datetime="2014-08-11T09:45:00Z" href="http://www.animenewsnetwork.com:/news/2014-08-11/japan-animation-tv-ranking-july-28-august-3/.77502">Japan's Animation TV Ranking, July 28-August 3</news>
+<news datetime="2014-08-18T07:30:00Z" href="http://www.animenewsnetwork.com:/news/2014-08-18/japan-animation-tv-ranking-august-4-10/.77713">Japan's Animation TV Ranking, August 4-10</news>
+<news datetime="2014-08-25T02:00:00Z" href="http://www.animenewsnetwork.com:/news/2014-08-25/japan-animation-tv-ranking-august-11-17/.77980">Japan's Animation TV Ranking, August 11-17</news>
+<news datetime="2014-09-01T02:15:00Z" href="http://www.animenewsnetwork.com:/news/2014-08-31/japan-animation-tv-ranking-august-18-24/.78227">Japan's Animation TV Ranking, August 18-24</news>
+<news datetime="2014-09-08T08:00:00Z" href="http://www.animenewsnetwork.com:/news/2014-09-08/japan-animation-tv-ranking-august-26-september-1/.78504">Japan's Animation TV Ranking, August 26-September 1</news>
+<news datetime="2014-09-15T13:45:00Z" href="http://www.animenewsnetwork.com:/news/2014-09-15/japan-animation-tv-ranking-september-1-7/.78781">Japan's Animation TV Ranking, September 1-7</news>
+<news datetime="2014-09-24T04:00:00Z" href="http://www.animenewsnetwork.com:/news/2014-09-24/pokemon-xy-special-strongest-mega-evolution-ii-promo-streamed/.78947">&lt;cite&gt;Pokémon XY Special: Strongest Mega Evolution II's&lt;/cite&gt; Promo Streamed</news>
+<news datetime="2014-09-29T22:40:00Z" href="http://www.animenewsnetwork.com:/news/2014-09-29/japan-animation-tv-ranking-september-15-21/.79311">Japan's Animation TV Ranking, September 15-21</news>
+<news datetime="2014-10-07T21:40:00Z" href="http://www.animenewsnetwork.com:/news/2014-10-07/pokemon-xy-sunken-ship-episode-to-air-after-being-delayed/.79393">&lt;cite&gt;Pokémon XY's&lt;/cite&gt; Sunken Ship Episode to Air After Being Delayed</news>
+<news datetime="2014-10-06T20:40:00Z" href="http://www.animenewsnetwork.com:/news/2014-10-06/japan-animation-tv-ranking-september-22-28/.79601">Japan's Animation TV Ranking, September 22-28</news>
+<news datetime="2014-10-13T08:00:00Z" href="http://www.animenewsnetwork.com:/news/2014-10-13/japan-animation-tv-ranking-september-29-october-5/.79854">Japan's Animation TV Ranking, September 29-October 5</news>
+<news datetime="2014-10-20T22:40:00Z" href="http://www.animenewsnetwork.com:/news/2014-10-20/japan-animation-tv-ranking-october-6-12/.80115">Japan's Animation TV Ranking, October 6-12</news>
+<news datetime="2014-10-28T00:00:00Z" href="http://www.animenewsnetwork.com:/news/2014-10-27/japan-animation-tv-ranking-october-13-19/.80371">Japan's Animation TV Ranking, October 13-19</news>
+<news datetime="2014-11-10T08:00:00Z" href="http://www.animenewsnetwork.com:/news/2014-11-10/japan-animation-tv-ranking-october-27-november-2/.80850">Japan's Animation TV Ranking, October 27-November 2</news>
+<news datetime="2014-11-17T09:30:00Z" href="http://www.animenewsnetwork.com:/news/2014-11-17/japan-animation-tv-ranking-november-3-9/.81107">Japan's Animation TV Ranking, November 3-9</news>
+<news datetime="2014-11-25T01:30:00Z" href="http://www.animenewsnetwork.com:/news/2014-11-24/japan-animation-tv-ranking-november-10-16/.81373">Japan's Animation TV Ranking, November 10-16</news>
+<news datetime="2014-12-01T09:15:00Z" href="http://www.animenewsnetwork.com:/news/2014-12-01/japan-animation-tv-ranking-november-17-23/.81611">Japan's Animation TV Ranking, November 17-23</news>
+<news datetime="2014-12-09T12:30:00Z" href="http://www.animenewsnetwork.com:/news/2014-12-09/japan-animation-tv-ranking-november-24-30/.81896">Japan's Animation TV Ranking, November 24-30</news>
+<news datetime="2014-12-23T07:00:00Z" href="http://www.animenewsnetwork.com:/news/2014-12-23/japan-animation-tv-ranking-december-8-14/.82487">Japan's Animation TV Ranking, December  8-14</news>
+<news datetime="2015-01-16T23:20:00Z" href="http://www.animenewsnetwork.com:/news/2015-01-16/japan-animation-tv-ranking-december-29-january-4/.83367">Japan's Animation TV Ranking, December 29-January 4</news>
+<news datetime="2015-02-03T20:30:00Z" href="http://www.animenewsnetwork.com:/news/2015-02-03/japan-animation-tv-ranking-january-19-25/.83985">Japan's Animation TV Ranking, January 19-25</news>
+<news datetime="2015-03-13T14:00:00Z" href="http://www.animenewsnetwork.com:/news/2015-03-13/pokemon-mega-evolution-special-iii-promo-stars-primal-reversion-groudon-kyogre/.85926">&lt;cite&gt;Pokémon: Mega Evolution Special III&lt;/cite&gt; Promo Stars Primal Reversion Groudon, Kyogre</news>
+<news datetime="2015-03-17T19:20:00Z" href="http://www.animenewsnetwork.com:/news/2015-03-17/japan-animation-tv-ranking-march-2-8/.86006">Japan's Animation TV Ranking, March 2-8</news>
+<news datetime="2015-04-09T00:20:00Z" href="http://www.animenewsnetwork.com:/news/2015-04-08/japan-animation-tv-ranking-march-23-29/.86916">Japan's Animation TV Ranking, March 23-29</news>
+<news datetime="2015-04-12T22:00:00Z" href="http://www.animenewsnetwork.com:/news/2015-04-12/japan-animation-tv-ranking-march-30-april-5/.87069">Japan's Animation TV Ranking, March 30-April 5</news>
+<news datetime="2015-05-11T20:20:00Z" href="http://www.animenewsnetwork.com:/news/2015-05-11/japan-animation-tv-ranking-april-27-may-3/.88066">Japan's Animation TV Ranking, April 27-May 3</news>
+<news datetime="2015-05-22T21:30:00Z" href="http://www.animenewsnetwork.com:/news/2015-05-22/japan-animation-tv-ranking-may-11-17/.88474">Japan's Animation TV Ranking, May 11-17</news>
+<news datetime="2015-06-14T12:00:00Z" href="http://www.animenewsnetwork.com:/news/2015-06-14/pikachu-gets-his-own-1-hour-tv-special/.89229">Pikachu Gets His Own 1-Hour TV Special</news>
+<news datetime="2015-06-26T03:30:00Z" href="http://www.animenewsnetwork.com:/news/2015-06-25/japan-animation-tv-ranking-june-8-14/.89495">Japan's Animation TV Ranking, June 8-14</news>
+<news datetime="2015-06-27T14:30:00Z" href="http://www.animenewsnetwork.com:/news/2015-06-27/japan-animation-tv-ranking-june-15-21/.89718">Japan's Animation TV Ranking, June 15-21</news>
+<news datetime="2015-07-10T00:00:00Z" href="http://www.animenewsnetwork.com:/news/2015-07-09/japan-animation-tv-ranking-june-22-28/.90269">Japan's Animation TV Ranking, June 22-28</news>
+<news datetime="2015-07-10T00:05:00Z" href="http://www.animenewsnetwork.com:/news/2015-07-09/japan-animation-tv-ranking-june-29-july-5/.90270">Japan's Animation TV Ranking, June 29-July 5</news>
+<news datetime="2015-07-17T02:15:00Z" href="http://www.animenewsnetwork.com:/news/2015-07-16/japan-animation-tv-ranking-july-6-12/.90542">Japan's Animation TV Ranking, July 6-12</news>
+<news datetime="2015-07-30T22:00:00Z" href="http://www.animenewsnetwork.com:/news/2015-07-30/japan-animation-tv-ranking-july-20-26/.91104">Japan's Animation TV Ranking, July 20-26</news>
+<news datetime="2015-08-04T20:40:00Z" href="http://www.animenewsnetwork.com:/news/2015-08-04/north-american-anime-manga-releases-august-2-8/.91293">North American Anime, Manga Releases, August 2-8</news>
+<news datetime="2015-08-06T21:40:00Z" href="http://www.animenewsnetwork.com:/news/2015-08-06/japan-animation-tv-ranking-july-27-august-2/.91383">Japan's Animation TV Ranking, July 27-August 2</news>
+<news datetime="2015-09-04T23:40:00Z" href="http://www.animenewsnetwork.com:/news/2015-09-04/japan-animation-tv-ranking-august-24-30/.92553">Japan's Animation TV Ranking, August 24-30</news>
+<news datetime="2015-10-08T22:40:00Z" href="http://www.animenewsnetwork.com:/news/2015-10-08/japan-animation-tv-ranking-september-14-20/.93943">Japan's Animation TV Ranking, September 14-20</news>
+<news datetime="2015-10-08T23:00:00Z" href="http://www.animenewsnetwork.com:/news/2015-10-08/japan-animation-tv-ranking-september-21-27/.93944">Japan's Animation TV Ranking, September 21-27</news>
+<news datetime="2015-10-09T23:40:00Z" href="http://www.animenewsnetwork.com:/news/2015-10-09/japan-animation-tv-ranking-september-28-october-4/.94011">Japan's Animation TV Ranking, September 28-October 4</news>
+<news datetime="2015-10-29T20:20:00Z" href="http://www.animenewsnetwork.com:/news/2015-10-29/japan-animation-tv-ranking-october-19-25/.94792">Japan's Animation TV Ranking, October 19-25</news>
+<news datetime="2015-11-12T05:15:00Z" href="http://www.animenewsnetwork.com:/news/2015-11-12/pokemon-hoopa-short-film-listed-on-teletoon-for-november-14/.95195">&lt;cite&gt;Pokémon: Hoopa&lt;/cite&gt; Short, Film Listed on Teletoon For November 14</news>
+<news datetime="2015-11-26T23:00:00Z" href="http://www.animenewsnetwork.com:/news/2015-11-26/japan-animation-tv-ranking-november-16-22/.95835">Japan's Animation TV Ranking, November 16-22</news>
+<news datetime="2016-01-19T22:20:00Z" href="http://www.animenewsnetwork.com:/news/2016-01-19/north-american-anime-manga-releases-january-17-23/.97758">North American Anime, Manga Releases, January 17-23</news>
+<staff gid="1289589069"><task>Chief Director</task><person id="3943">Kunihiko Yuyama</person></staff>
+<staff gid="3359792252"><task>Director</task><person id="81645">Tetsuo Yajima</person></staff>
+<staff gid="1981564304"><task>Series Composition</task><person id="1623">Atsuhiro Tomioka</person></staff>
+<staff gid="3238850967"><task>Script</task><person id="1295">Akemi Omode</person></staff>
+<staff gid="2883647125"><task>Script</task><person id="1623">Atsuhiro Tomioka</person></staff>
+<staff gid="3233210965"><task>Script</task><person id="4526">Yukiyoshi Ohashi</person></staff>
+<staff gid="2175135808"><task>Script</task><person id="4565">Shinzo Fujita</person></staff>
+<staff gid="2317299643"><task>Script</task><person id="7856">Junki Takegami</person></staff>
+<staff gid="929469783"><task>Script</task><person id="8134">Shoji Yonemura</person></staff>
+<staff gid="1917712693"><task>Storyboard</task><person id="3614">Shigeru Ueda</person></staff>
+<staff gid="335275785"><task>Storyboard</task><person id="9410">Fumihiro Yoshimura</person></staff>
+<staff gid="1067782138"><task>Storyboard</task><person id="9460">Takenori Kawada</person></staff>
+<staff gid="2896936593"><task>Storyboard</task><person id="10003">Mitsuko Kase</person></staff>
+<staff gid="1535845645"><task>Storyboard</task><person id="10189">Yuji Asada</person></staff>
+<staff gid="2759763906"><task>Storyboard</task><person id="16342">Masakatsu Iijima</person></staff>
+<staff gid="2949375250"><task>Storyboard</task><person id="19089">Ken'ichi Nishida</person></staff>
+<staff gid="3466554043"><task>Storyboard</task><person id="26334">Kaori Higuchi</person></staff>
+<staff gid="3542424897"><task>Storyboard</task><person id="28186">Akira Sotoyama</person></staff>
+<staff gid="1092777857"><task>Storyboard</task><person id="31718">Yumi Kamakura</person></staff>
+<staff gid="2003653910"><task>Storyboard</task><person id="41555">Hiromasa Amano</person></staff>
+<staff gid="1603322493"><task>Storyboard</task><person id="46901">Takahiro Ikezoe</person></staff>
+<staff gid="1941821267"><task>Storyboard</task><person id="55117">Kazuomi Koga</person></staff>
+<staff gid="3850866715"><task>Storyboard</task><person id="79991">Yoshifumi Sueda</person></staff>
+<staff gid="3635979104"><task>Storyboard</task><person id="81645">Tetsuo Yajima</person></staff>
+<staff gid="1398397610"><task>Storyboard</task><person id="93196">Daiki Tomiyasu</person></staff>
+<staff gid="1577694864"><task>Episode Director</task><person id="582">Hiroshi Uchida</person></staff>
+<staff gid="1062212449"><task>Episode Director</task><person id="3614">Shigeru Ueda</person></staff>
+<staff gid="2031710497"><task>Episode Director</task><person id="8103">Yorifusa Yamaguchi</person></staff>
+<staff gid="3956418003"><task>Episode Director</task><person id="9410">Fumihiro Yoshimura</person></staff>
+<staff gid="1931512442"><task>Episode Director</task><person id="10189">Yuji Asada</person></staff>
+<staff gid="2361570276"><task>Episode Director</task><person id="14917">Shinji Seya</person></staff>
+<staff gid="3205846342"><task>Episode Director</task><person id="19089">Ken'ichi Nishida</person></staff>
+<staff gid="1586401928"><task>Episode Director</task><person id="55117">Kazuomi Koga</person></staff>
+<staff gid="1812926723"><task>Episode Director</task><person id="77415">Chou Kobayashi</person></staff>
+<staff gid="1865627905"><task>Episode Director</task><person id="79316">Fumio Maezono</person></staff>
+<staff gid="1380813874"><task>Episode Director</task><person id="79991">Yoshifumi Sueda</person></staff>
+<staff gid="3784816914"><task>Episode Director</task><person id="93196">Daiki Tomiyasu</person></staff>
+<staff gid="1727223214"><task>Unit Director</task><person id="10189">Yuji Asada</person></staff>
+<staff gid="1963023301"><task>Unit Director</task><person id="31718">Yumi Kamakura</person></staff>
+<staff gid="2929934542"><task>Unit Director</task><person id="81645">Tetsuo Yajima</person></staff>
+<staff gid="2750065145"><task>Music</task><person id="12130">Shinji Miyazaki</person></staff>
+<staff gid="1104872856"><task>Original Concept</task><person id="3902">Satoshi Tajiri</person></staff>
+<staff gid="2556994669"><task>Original Concept</task><person id="3950">Junichi Masuda</person></staff>
+<staff gid="3454314850"><task>Original Concept</task><person id="9800">Ken Sugimori</person></staff>
+<staff gid="3554650895"><task>Character Design</task><person id="37060">Toshihito Hirooka</person></staff>
+<staff gid="2192819861"><task>Art Director</task><person id="8107">Katsuyoshi Kanemura</person></staff>
+<staff gid="1643540618"><task>Chief Animation Director</task><person id="37060">Toshihito Hirooka</person></staff>
+<staff gid="1595924784"><task>Animation Director</task><person id="582">Hiroshi Uchida</person></staff>
+<staff gid="1315047796"><task>Animation Director</task><person id="14173">Masaaki Iwane</person></staff>
+<staff gid="3807304501"><task>Animation Director</task><person id="14917">Shinji Seya</person></staff>
+<staff gid="3107779815"><task>Animation Director</task><person id="18529">Izumi Shimura</person></staff>
+<staff gid="2075463463"><task>Animation Director</task><person id="24477">Kunihiko Natsume</person></staff>
+<staff gid="1460445128"><task>Animation Director</task><person id="26748">Tomohiro Koyama</person></staff>
+<staff gid="2513246968"><task>Animation Director</task><person id="37285">Masakuni Kaneko</person></staff>
+<staff gid="2672927403"><task>Animation Director</task><person id="38845">Atsushi Ogata</person></staff>
+<staff gid="3457660617"><task>Animation Director</task><person id="41660">Hiroyuki Furukawa</person></staff>
+<staff gid="2673989985"><task>Animation Director</task><person id="45190">Shinji Matsuda</person></staff>
+<staff gid="842869284"><task>Animation Director</task><person id="63864">Tatsuya Annoura</person></staff>
+<staff gid="827760171"><task>Animation Director</task><person id="74717">Kanae Matsunaga</person></staff>
+<staff gid="3941514058"><task>Animation Director</task><person id="79319">Mai Tsutsumi</person></staff>
+<staff gid="2201697034"><task>Animation Director</task><person id="81582">Takashi Shinohara</person></staff>
+<staff gid="1908869392"><task>Animation Director</task><person id="90044">Kazumasa Tanaka</person></staff>
+<staff gid="2379504647"><task>Animation Director</task><person id="129040">Momoko Yamaguchi</person></staff>
+<staff gid="1127456904"><task>Sound Director</task><person id="317">Masafumi Mima</person></staff>
+<staff gid="2974408825"><task>Cgi Director</task><person id="106107">Takashi Ono</person></staff>
+<staff gid="1342908620"><task>Director of Photography</task><person id="226">Hisao Shirai</person></staff>
+<staff gid="1433683535"><task>Producer</task><person id="18451">Susumu Matsuyama</person></staff>
+<staff gid="129934972"><task>Producer</task><person id="52187">Ryou Sasaki</person></staff>
+<staff gid="1187494473"><task>Producer</task><person id="59257">Nobuyuki Hosoya</person></staff>
+<staff gid="2071833907"><task>Producer</task><person id="68675">Shigehiro Tanaka</person></staff>
+<staff gid="2006956316"><task>Producer</task><person id="80133">Takurō Muratsubaki</person></staff>
+<cast gid="2976822000" lang="DA"><role>Pikachu</role><person id="846">Ikue Ohtani</person></cast>
+<cast gid="1491602156" lang="DA"><role>Ash Ketchum</role><person id="31768">Mathias Klenske</person></cast>
+<cast gid="1719347989" lang="DE"><role>Ash's Pikachu</role><person id="846">Ikue Ohtani</person></cast>
+<cast gid="2603995619" lang="DE"><role>Ash Ketchum</role><person id="21775">Caroline Combrinck</person></cast>
+<cast gid="1478812324" lang="DE"><role>Jessie</role><person id="28506">Scarlet Cavadenti</person></cast>
+<cast gid="2052557443" lang="DE"><role>Meowth</role><person id="28627">Gerhard Acktun</person></cast>
+<cast gid="1991416858" lang="DE"><role>James</role><person id="28913">Matthias Klie</person></cast>
+<cast gid="2029509502" lang="DE"><role>Bonnie</role><person id="28925">Shandra Schadt</person></cast>
+<cast gid="1396538004" lang="DE"><role>Serena</role><person id="71009">Gabrielle Pietermann</person></cast>
+<cast gid="3046973707" lang="DE"><role>Clemont</role><person id="127671">Tobias Kern</person></cast>
+<cast gid="3093827354" lang="EN"><role>Ash's Pikachu</role><person id="846">Ikue Ohtani</person></cast>
+<cast gid="1569591170" lang="EN"><role>James</role><person id="4302">Jimmy Zoppi</person></cast>
+<cast gid="1506099017" lang="EN"><role>Meowth</role><person id="4302">Jimmy Zoppi</person></cast>
+<cast gid="2188335999" lang="EN"><role>Jessie</role><person id="20943">Michele Knotz</person></cast>
+<cast gid="2250971247" lang="EN"><role>Ash Ketchum</role><person id="59901">Sarah Natochenny</person></cast>
+<cast gid="2399929250" lang="EN"><role>Alexa</role><person id="89391">Jessica Paquet</person></cast>
+<cast gid="2704747243" lang="EN"><role>Bonnie</role><person id="99555">Alyson Leigh Rosenfeld</person></cast>
+<cast gid="1836123285" lang="EN"><role>Nurse Joy</role><person id="99555">Alyson Leigh Rosenfeld</person></cast>
+<cast gid="2255895479" lang="EN"><role>Serena</role><person id="122571">Haven Paschall</person></cast>
+<cast gid="3612528301" lang="EN"><role>Clemont</role><person id="124913">Michael Liscio, Jr.</person></cast>
+<cast gid="972905617" lang="ES"><role>Pikachu</role><person id="846">Ikue Ohtani</person></cast>
+<cast gid="2251703185" lang="ES"><role>James</role><person id="23446">Jose Antonio Macias</person></cast>
+<cast gid="1461642912" lang="ES"><role>Jessie</role><person id="23785">Diana Perez</person></cast>
+<cast gid="2504178487" lang="ES"><role>Alexa</role><person id="24146">Nallely Solis</person></cast>
+<cast gid="1469738558" lang="ES"><role>Meowth</role><person id="36754">Gerardo Vásquez</person></cast>
+<cast gid="2303997818" lang="ES"><role>Serena</role><person id="47711">Isacha Mengíbar</person></cast>
+<cast gid="3015104689" lang="ES"><role>James</role><person id="47734">Iván Jara</person></cast>
+<cast gid="2136559011" lang="ES"><role>Meowth</role><person id="50723">José Escobosa</person></cast>
+<cast gid="2018837765" lang="ES"><role>Ash Ketchum</role><person id="50916">Adolfo Moreno</person></cast>
+<cast gid="2255371531" lang="ES"><role>Jessie</role><person id="50917">Amparo Valencia</person></cast>
+<cast gid="1490800771" lang="ES"><role>Ash Ketchum</role><person id="51516">Miguel Angel Leal</person></cast>
+<cast gid="2007248070" lang="ES"><role>Clem</role><person id="69529">Blanca Hualde</person></cast>
+<cast gid="2437757035" lang="ES"><role>Nurse Joy</role><person id="73422">Mildred Barrera</person></cast>
+<cast gid="1456230265" lang="ES"><role>Lem</role><person id="75994">Miguel Antelo</person></cast>
+<cast gid="2128029012" lang="ES"><role>Bonnie</role><person id="106443">Jocelyn Robles</person></cast>
+<cast gid="2607926338" lang="ES"><role>Clemont</role><person id="130904">José Ángel Torres</person></cast>
+<cast gid="2242000482" lang="ES"><role>Serena</role><person id="131177">Verania Ortiz</person></cast>
+<cast gid="1235910976" lang="FR"><role>Pikachu</role><person id="846">Ikue Ohtani</person></cast>
+<cast gid="790378518" lang="FR"><role>Sasha</role><person id="39963">Aurélien Ringelheim</person></cast>
+<cast gid="2665064825" lang="FR"><role>Jessie</role><person id="39965">Catherine Conet</person></cast>
+<cast gid="1412265308" lang="IT"><role>James</role><person id="18128">Simone D'Andrea</person></cast>
+<cast gid="1126743512" lang="IT"><role>Meowth</role><person id="25628">Pietro Ubaldi</person></cast>
+<cast gid="1527885574" lang="IT"><role>Ash Ketchum</role><person id="25641">Davide Garbolino</person></cast>
+<cast gid="2437383629" lang="IT"><role>Jessie</role><person id="25645">Emanuela Pacotto</person></cast>
+<cast gid="3023700374" lang="IT"><role>Narrator</role><person id="26042">Federico Danti</person></cast>
+<cast gid="3685812442" lang="IT"><role>Bonnie</role><person id="95302">Valentina Pallavicino</person></cast>
+<cast gid="1636472852" lang="IT"><role>Clemont</role><person id="95303">Simone Lupinacci</person></cast>
+<cast gid="1656354438" lang="IT"><role>Serena</role><person id="125435">Deborah Morese</person></cast>
+<cast gid="2366552247" lang="JA"><role>Sōnansu</role><person id="384">Yuji Ueda</person></cast>
+<cast gid="2513489211" lang="JA"><role>Musashi</role><person id="391">Megumi Hayashibara</person></cast>
+<cast gid="701302028" lang="JA"><role>Kojirō</role><person id="659">Shinichiro Miki</person></cast>
+<cast gid="1163467262" lang="JA"><role>Satoshi's Pikachu</role><person id="846">Ikue Ohtani</person></cast>
+<cast gid="2036647387" lang="JA"><role>Eureka</role><person id="1041">Mika Kanai</person></cast>
+<cast gid="2944698386" lang="JA"><role>Satoshi</role><person id="1172">Rica Matsumoto</person></cast>
+<cast gid="2052116802" lang="JA"><role>Nyarth</role><person id="3900">Inuko Inuyama</person></cast>
+<cast gid="1577538895" lang="JA"><role>Eureka</role><person id="46112">Mariya Ise</person></cast>
+<cast gid="1613457579" lang="JA"><role>Citron</role><person id="58051">Yuuki Kaji</person></cast>
+<cast gid="2731757941" lang="JA"><role>Serena</role><person id="69542">Mayuki Makiguchi</person></cast>
+<cast gid="3247192329" lang="KO"><role>Satoshi's Pikachu</role><person id="846">Ikue Ohtani</person></cast>
+<cast gid="2118415561" lang="KO"><role>Kojiro</role><person id="96381">Yeong-Seon Kim</person></cast>
+<cast gid="2142206476" lang="KO"><role>Satoshi</role><person id="96417">Seon-Ju Lee</person></cast>
+<cast gid="1352692721" lang="NL"><role>Pikachu</role><person id="846">Ikue Ohtani</person></cast>
+<cast gid="1666938950" lang="NL"><role>Jessie</role><person id="21864">Hilde de Mildt</person></cast>
+<cast gid="1667166042" lang="NL"><role>Ash Ketchum</role><person id="22021">Christa Lips</person></cast>
+<cast gid="3396255426" lang="NL"><role>Meowth</role><person id="22023">Fred Meijer</person></cast>
+<cast gid="2220870100" lang="NL"><role>James</role><person id="69814">Paul Disbergen</person></cast>
+<cast gid="1909194701" lang="NL"><role>Clemont</role><person id="127624">Christian Nieuwenhuizen</person></cast>
+<cast gid="2366350978" lang="NL"><role>Bonnie</role><person id="127625">Manou Jue Cardoso</person></cast>
+<cast gid="2613146392" lang="NL"><role>Serena</role><person id="127626">Tara Hetharia</person></cast>
+<cast gid="2348020424" lang="PL"><role>Pikachu</role><person id="846">Ikue Ohtani</person></cast>
+<cast gid="3574095463" lang="PL"><role>Ash Ketchum</role><person id="67204">Hanna Kinder-Kiss</person></cast>
+<cast gid="2870485963" lang="PL"><role>Jessie</role><person id="71160">Izabela Dąbrowska</person></cast>
+<cast gid="2864735090" lang="PL"><role>James</role><person id="112706">Jarosław Budnik</person></cast>
+<cast gid="1012360794" lang="PL"><role>Meowth</role><person id="112707">Mirosław Wieprzewski</person></cast>
+<cast gid="789137976" lang="PL"><role>Serena</role><person id="112710">Dominika Sell</person></cast>
+<cast gid="738368066" lang="PL"><role>Clemont</role><person id="121716">Maciej Falana</person></cast>
+<cast gid="1770605665" lang="PL"><role>Pokedex</role><person id="124777">Marta Dobecka</person></cast>
+<cast gid="2764369304" lang="PL"><role>Bonnie</role><person id="130845">Natalia Jankiewicz</person></cast>
+<cast gid="3669313273" lang="PT"><role>Pikachu</role><person id="846">Ikue Ohtani</person></cast>
+<cast gid="2745315678" lang="PT"><role>Ash Ketchum</role><person id="48732">Fábio Lucindo</person></cast>
+<cast gid="2543935157" lang="PT"><role>James</role><person id="48735">Márcio Araújo</person></cast>
+<cast gid="1910907741" lang="PT"><role>Meowth</role><person id="48737">Armando Tiraboschi</person></cast>
+<cast gid="237597189" lang="PT"><role>Bonnie</role><person id="48816">Jussara Marques</person></cast>
+<cast gid="366859543" lang="PT"><role>Clemont</role><person id="109259">Bruno Mello</person></cast>
+<cast gid="2320868153" lang="PT"><role>Serena</role><person id="126922">Michelle Giudice</person></cast>
+<cast gid="3526192251" lang="RU"><role>Pikachu</role><person id="846">Ikue Ohtani</person></cast>
+<cast gid="2247361814" lang="SV"><role>Ash's Pikachu</role><person id="846">Ikue Ohtani</person></cast>
+<cast gid="2658768215" lang="SV"><role>Ash Ketchum</role><person id="36369">Dick Eriksson</person></cast>
+<cast gid="808107108" lang="SV"><role>Clemont</role><person id="145568">Adam Portnoff</person></cast>
+<cast gid="1638953960" lang="SV"><role>Bonnie</role><person id="145569">Dorothea Norling</person></cast>
+<cast gid="3139024292" lang="TL"><role>Jessie</role><person id="15925">Charmaine Cordoviz</person></cast>
+<cast gid="2015808346" lang="TL"><role>Serena</role><person id="15925">Charmaine Cordoviz</person></cast>
+<cast gid="527386482" lang="TL"><role>Clemont</role><person id="38936">Jefferson Utanes</person></cast>
+<cast gid="660119795" lang="TL"><role>James</role><person id="38936">Jefferson Utanes</person></cast>
+<cast gid="2243224856" lang="TL"><role>Bonnie</role><person id="39030">Rona Aguilar</person></cast>
+<cast gid="1514297747" lang="TL"><role>Ash Ketchum</role><person id="57604">Klariz Magboo</person></cast>
+<cast gid="4102581515" lang="TL"><role>Nurse Joy</role><person id="66572">Ahlee Reyes</person></cast>
+<credit gid="2626249462"><task>Animation Production</task><company id="1211">Oriental Light and Magic</company></credit>
+<credit gid="1687397559"><task>Production</task><company id="262">TV Tokyo</company></credit>
+<credit gid="1693522837"><task>Production</task><company id="344">Medianet</company></credit>
+<credit gid="2101247784"><task>Production</task><company id="1017">Shogakukan Productions Co., Ltd.</company></credit></anime></ann>

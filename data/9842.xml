@@ -1,0 +1,77 @@
+<ann><anime id="9842" gid="2203605043" type="OAV" name="Lucky Star OVA" precision="OAV" generated-on="2016-03-27T01:49:41Z">
+<related-prev rel="sequel of" id="7222"/>
+<info gid="2921558596" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A9842-7.jpg" width="160" height="200"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A9842-7.jpg" width="160" height="200"/><img src="http://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A9842-7.jpg" width="328" height="410"/></info>
+<info gid="2035590717" type="Main title" lang="JA">Lucky Star OVA</info>
+<info gid="1603683020" type="Alternative title" lang="EN">Lucky Star</info>
+<info gid="1474799205" type="Alternative title" lang="JA">らき☆すた</info>
+<info gid="4115697237" type="Genres">comedy</info>
+<info gid="698707152" type="Genres">slice of life</info>
+<info gid="854391836" type="Themes">moe</info>
+<info gid="3414149369" type="Themes">otaku</info>
+<info gid="1681933736" type="Themes">parody</info>
+<info gid="2994710981" type="Themes">twins</info>
+<info gid="2325064511" type="Plot Summary">A series of short vignettes starring characters from the Lucky Star series</info>
+<info gid="778301570" type="Running time">42</info>
+<info type="Vintage">2008-09-26</info>
+<info gid="2035413126" type="Ending Theme">&quot;Ai o Torimodose!!&quot; by Uchoten</info>
+<info gid="2045227719" type="Insert song">&quot;Attack No. 1 no Theme (アタックNo.1のテーマ)&quot; by Kaori Fukuhara</info>
+<ratings nb_votes="1124" weighted_score="7.8299" bayesian_score="7.82639"/>
+<episode num="1">
+<title gid="2946194387" lang="EN">JK</title></episode>
+<release date="2009-08-04" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=14159">Lucky Star OVA (Sub.DVD)</release>
+<news datetime="2008-05-08T10:24:55Z" href="http://www.animenewsnetwork.com/news/2008-05-08/original-staffers-plan-lucky-star-video-for-summer">Original Staffers Plan &lt;cite&gt;Lucky Star&lt;/cite&gt; Video for Summer</news>
+<news datetime="2008-09-19T15:55:19Z" href="http://www.animenewsnetwork.com/news/2008-09-19/lucky-star-ova-promotional-video-streamed">&lt;cite&gt;Lucky Star OVA's&lt;/cite&gt; Promotional Video Streamed</news>
+<news datetime="2008-10-16T22:10:50Z" href="http://www.animenewsnetwork.com/news/2008-10-16/japanese-animation-dvd-ranking-september-24-october-14">Japanese Animation DVD Ranking, September 24-October 14</news>
+<news datetime="2008-10-24T03:12:41Z" href="http://www.animenewsnetwork.com/news/2008-10-23/japanese-animation-dvd-ranking-october-15-21">Japanese Animation DVD Ranking, October 15-21</news>
+<news datetime="2008-12-03T09:21:26Z" href="http://www.animenewsnetwork.com/news/2008-12-03/amazon-japan-posts-2008-top-10-dvds-cds-toys">Amazon Japan Posts 2008's Top-10 DVDs, CDs, Toys</news>
+<news datetime="2009-02-06T06:09:01Z" href="http://www.animenewsnetwork.com/news/2009-02-06/staff-for-renewed-airing-of-haruhi-suzumiya-announced">Staff for 'Renewed' Airing of &lt;cite&gt;Haruhi Suzumiya&lt;/cite&gt; Announced</news>
+<news datetime="2011-01-07T06:36:22Z" href="http://www.animenewsnetwork.com/news/2011-01-07/lucky-star-bd-ships-in-japan-in-may-with-english-track">&lt;cite&gt;Lucky Star&lt;/cite&gt; BD Box in Japan in May with English Dub/Sub</news>
+<staff gid="2298772655"><task>Director</task><person id="9153">Yasuhiro Takemoto</person></staff>
+<staff gid="3855101862"><task>Screenplay</task><person id="9153">Yasuhiro Takemoto</person></staff>
+<staff gid="2074066621"><task>Screenplay</task><person id="13295">Tomoe Aratani</person></staff>
+<staff gid="939485112"><task>Screenplay</task><person id="38089">Katsuhiko Muramoto</person></staff>
+<staff gid="837746504"><task>Screenplay</task><person id="56765">Joe Itou</person></staff>
+<staff gid="903557413"><task>Screenplay</task><person id="61664">Kagami Yoshimizu</person></staff>
+<staff gid="1735552035"><task>Screenplay</task><person id="75184">Touko Machida</person></staff>
+<staff gid="2907507901"><task>Storyboard</task><person id="9153">Yasuhiro Takemoto</person></staff>
+<staff gid="2045964772"><task>Episode Director</task><person id="9153">Yasuhiro Takemoto</person></staff>
+<staff gid="2655100532"><task>Episode Director</task><person id="37454">Kazuya Sakamoto</person></staff>
+<staff gid="825571016"><task>Episode Director</task><person id="37456">Taichi Ishidate</person></staff>
+<staff gid="2082317251"><task>Episode Director</task><person id="39701">Noriyuki Kitanohara</person></staff>
+<staff gid="1763005782"><task>Episode Director</task><person id="39705">Naoko Yamada</person></staff>
+<staff gid="1854596681"><task>Episode Director</task><person id="112018">Noriko Takao</person></staff>
+<staff gid="1493937263"><task>Music</task><person id="55249">Satoru Kousaki</person></staff>
+<staff gid="2719308677"><task>Original creator</task><person id="61664">Kagami Yoshimizu</person></staff>
+<staff gid="2922772290"><task>Original Character Design</task><person id="61664">Kagami Yoshimizu</person></staff>
+<staff gid="2125858049"><task>Character Design</task><person id="37459">Yukiko Horiguchi</person></staff>
+<staff gid="2589406345"><task>Art Director</task><person id="1824">Seiki Tamura</person></staff>
+<staff gid="2706796033"><task>Chief Animation Director</task><person id="37459">Yukiko Horiguchi</person></staff>
+<staff gid="2112173298"><task>Animation Director</task><person id="37457">Futoshi Nishiya</person></staff>
+<staff gid="1712154468"><task>Animation Director</task><person id="37459">Yukiko Horiguchi</person></staff>
+<staff gid="2048248948"><task>Animation Director</task><person id="38090">Mariko Takahashi</person></staff>
+<staff gid="3966128838"><task>Animation Director</task><person id="88726">Seiichi Akitake</person></staff>
+<staff gid="1659429593"><task>Sound Director</task><person id="254">Yota Tsuruoka</person></staff>
+<staff gid="2186837686"><task>Director of Photography</task><person id="49310">Kazuya Takao</person></staff>
+<staff gid="3217748146"><task>Producer</task><person id="10470">Atsushi Itou</person></staff>
+<staff gid="928805110"><task>Producer</task><person id="28845">Hideaki Hatta</person></staff>
+<cast gid="3393101616" lang="JA"><role>Hiyori Tamura / Hiyorin</role><person id="334">Kaori Shimizu</person></cast>
+<cast gid="2018004205" lang="JA"><role>Meito Anisawa</role><person id="529">Tomokazu Seki</person></cast>
+<cast gid="1290744994" lang="JA"><role>Yutaka Kobayakawa</role><person id="6579">Shizuka Hasegawa</person></cast>
+<cast gid="1413774723" lang="JA"><role>Konata Izumi</role><person id="6581">Aya Hirano</person></cast>
+<cast gid="1766700412" lang="JA"><role>Akira Kogami</role><person id="8217">Hiromi Konno</person></cast>
+<cast gid="923979422" lang="JA"><role>Nanako Kuroi- sensei</role><person id="9877">Konomi Maeda</person></cast>
+<cast gid="2319041225" lang="JA"><role>Minoru Shiraishi</role><person id="14922">Minoru Shiraishi</person></cast>
+<cast gid="755163753" lang="JA"><role>Minami Iwasaki</role><person id="22271">Minori Chihara</person></cast>
+<cast gid="2469965688" lang="JA"><role>Miyuki Takara</role><person id="27752">Aya Endo</person></cast>
+<cast gid="1151175027" lang="JA"><role>Kagami Hiiragi</role><person id="28606">Emiri Katō</person></cast>
+<cast gid="2514100147" lang="JA"><role>Ayano Minegeshi</role><person id="29877">Mai Aizawa</person></cast>
+<cast gid="2269590511" lang="JA"><role>Tsukasa Hiiragi</role><person id="57357">Kaori Fukuhara</person></cast>
+<cast gid="1907950077" lang="JA"><role>Patricia &quot;Patty&quot; Martin</role><person id="57571">Nozomi Sasaki</person></cast>
+<cast gid="3123660691" lang="JA"><role>Misao Kusakabe</role><person id="57741">Kaoru Mizuhara</person></cast>
+<credit gid="1779137792"><task>Animation Production</task><company id="235">Kyoto Animation</company></credit>
+<credit gid="2294032778"><task>Production</task><company id="52">MOVIC</company></credit>
+<credit gid="446880669"><task>Production</task><company id="82">Kadokawa Shoten</company></credit>
+<credit gid="1658958408"><task>Production</task><company id="235">Kyoto Animation</company></credit>
+<credit gid="3105865743"><task>Production</task><company id="614">The Klockworx Co., Ltd.</company></credit>
+<credit gid="1873419284"><task>Production</task><company id="8683">Lucky Paradise</company></credit>
+<credit gid="2993027789"><task>Production</task><company id="11412">Lucky Paradise 2008</company></credit></anime></ann>

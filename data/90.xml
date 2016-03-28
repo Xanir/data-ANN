@@ -1,0 +1,797 @@
+<ann><anime id="90" gid="781832437" type="TV" name="Urusei Yatsura" precision="TV" generated-on="2016-03-27T02:41:33Z">
+<related-prev rel="adapted from" id="2419"/>
+<related-next id="648" rel="sequel"/>
+<related-next id="6337" rel="related"/>
+<info gid="1856639030" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A90-492.jpg" width="200" height="192"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A90-492.jpg" width="200" height="192"/><img src="http://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A90-492.jpg" width="469" height="450"/></info>
+<info gid="1667830773" type="Main title" lang="EN">Urusei Yatsura</info>
+<info gid="282806312" type="Alternative title" lang="EN">Lam, the Invader Girl</info>
+<info gid="2785530651" type="Alternative title" lang="FR">Lamu</info>
+<info gid="1588502268" type="Alternative title" lang="IT">Lamu' la Ragazza Dello Spazio</info>
+<info gid="3480117122" type="Alternative title" lang="FR">Lum</info>
+<info gid="2023981159" type="Alternative title" lang="ES">Lum, la chica invasora</info>
+<info gid="2168059142" type="Alternative title" lang="IT">Mi hai rapito il cuore, Lamù [ep.130-195]</info>
+<info gid="2592523265" type="Alternative title" lang="IT">SuperLamù [ep.87-129]</info>
+<info gid="3903896900" type="Alternative title" lang="EN">Those Obnoxious Aliens</info>
+<info gid="1153121370" type="Alternative title" lang="PT">Turma do Barulho</info>
+<info gid="335501312" type="Alternative title" lang="JA">うる星やつら</info>
+<info gid="2559047079" type="Genres">action</info>
+<info gid="3819699144" type="Genres">comedy</info>
+<info gid="86082595" type="Genres">romance</info>
+<info gid="1865517058" type="Genres">science fiction</info>
+<info gid="209408929" type="Themes">aliens</info>
+<info gid="2040336165" type="Themes">school</info>
+<info gid="481470278" type="Objectionable content">TA</info>
+<info gid="1532947678" type="Plot Summary">Urusei Yatsura is the story of the unluckiest and most lecherous young man alive, Ataru Moroboshi. When aliens decide to invade Earth, Ataru is randomly selected to defend his planet by playing a game of the aliens national sport, tag. Should he win, the world shall be saved. However, Ataru is motivated for far less noble reasons, as the one he plays against is revealed to be the curvaceous alien princess, Lum. The game goes for 10 days, and on the last day, Ataru, motivated by his girlfriend assuring him marriage (and consequently, a marriage night one can assume) should he win, finally catches Lum. However, with his victory he gives a cry of joy for his coming marriage, which is misinterpreted by Lum to be a marriage proposal. She promptly agrees, beginning the two's &quot;marriage&quot; together.</info>
+<info gid="2603357521" type="Running time">half hour</info>
+<info gid="1594856716" type="Number of episodes">195</info>
+<info gid="1879951902" type="Vintage">1981-10-14 to 1986-03-19</info>
+<info gid="1330491381" type="Vintage">1988-08-31 (France)</info>
+<info gid="3593493490" type="Vintage">1992-12-06 (TV3 - Televisió de Catalunya)</info>
+<info gid="2479765107" type="Opening Theme">#1: &quot;Lum no Love Song&quot; (ラムのラブソング) by Yuuko Matsutani (eps 001-077)</info>
+<info gid="3239873817" type="Opening Theme">#2: &quot;Dancing Star&quot; by Izumi Kobayashi (eps 078-106)</info>
+<info gid="3790606057" type="Opening Theme">#3: &quot;Pajama Jama da!&quot; by Kanako Narikiyo (eps 107-127)</info>
+<info gid="1233308959" type="Opening Theme">#4: &quot;Chance on Love&quot; by Cindy (eps 128-149)</info>
+<info gid="2794626747" type="Opening Theme">#5: &quot;Rock the Planet&quot; by Steffanie (eps 150-165)</info>
+<info gid="2273106981" type="Opening Theme">#6: &quot;Tonogata Gomen Asobase&quot; by Shoko Minami (eps 166-195)</info>
+<info gid="1756753637" type="Ending Theme">#1: &quot;Uchū wa Taihen da!&quot; (宇宙は大ヘンだ！) by Yuuko Matsutani (eps 001-021)</info>
+<info gid="88353122" type="Ending Theme">#2: &quot;Kokorobosoi na&quot; by Helen Sasano (eps 022-043)</info>
+<info gid="3497001366" type="Ending Theme">#3: &quot;Hoshizora Cycling&quot; by Virgin VS (eps 044-054, 065-077)</info>
+<info gid="1219847589" type="Ending Theme">#4: &quot;I, I, You and Ai&quot; by Izumi Kobayashi (eps 055-064)</info>
+<info gid="3608133970" type="Ending Theme">#5: &quot;Yume wa Love Me More&quot; by Izumi Kobayashi (eps 078-106)</info>
+<info gid="2381027204" type="Ending Theme">#6: &quot;Koi no Mobius&quot; by Rittsu (eps 107-127)</info>
+<info gid="1080634232" type="Ending Theme">#7: &quot;Open Invitation&quot; by Cindy (eps 128-149)</info>
+<info gid="2259989672" type="Ending Theme">#8: &quot;Every Day&quot; by Steffanie (eps 150-165)</info>
+<info gid="57945786" type="Ending Theme">#9: &quot;Good Luck&quot; by Shoko Minami (eps 166-195)</info>
+<info gid="2412949645" type="Official website" lang="JA" href="http://pierrot.jp/title/urusei/index.html">Studio Pierrot's Official Urusei Yatsura Homepage</info>
+<info gid="1491778238" type="Official website" lang="EN" href="http://pierrot.jp/english/title/urusei.html">Lam, the Invader Girl @ Pierrot</info>
+<ratings nb_votes="428" weighted_score="7.4638" bayesian_score="7.46554"/>
+<episode num="1">
+<title part="A" gid="3365690102" lang="EN">I'm Lum the Notorious!</title>
+<title part="B" gid="3225565539" lang="EN">It's Raining Oil in Our Town</title></episode>
+<episode num="2">
+<title part="A" gid="2030657511" lang="EN">Mail from Space – Ten Arrives!</title>
+<title part="B" gid="476491063" lang="EN">Mrs. Swallow and Mrs. Penguin</title></episode>
+<episode num="3">
+<title part="A" gid="2954369058" lang="EN">The Coming of Rei, the Handsome Shapechanger!</title>
+<title part="B" gid="2366238509" lang="EN">Die, Ladykiller!</title></episode>
+<episode num="4">
+<title part="A" gid="2967985493" lang="EN">Kintaro from the Autumn Sky!</title>
+<title part="B" gid="3741112063" lang="EN">Gonna Live Like a Man!</title></episode>
+<episode num="5">
+<title part="A" gid="1801503956" lang="EN">Sakura, Raving Beauty of Mystery</title>
+<title part="B" gid="1784083717" lang="EN">Virus in Distress</title></episode>
+<episode num="6">
+<title part="A" gid="3515806837" lang="EN">Black Hole Love Triangle</title>
+<title part="B" gid="226683157" lang="EN">It's a Lovesick Little Demon!</title></episode>
+<episode num="7">
+<title part="A" gid="2585895397" lang="EN">Electric Shocks Scare Me!</title>
+<title part="B" gid="249327640" lang="EN">Voodoo Dolls of Vengeance</title></episode>
+<episode num="8">
+<title part="A" gid="1488852128" lang="EN">Neptune is Beyond My Closet</title>
+<title part="B" gid="2696177845" lang="EN">That Crazy Age of the Dinosaurs</title></episode>
+<episode num="9">
+<title part="A" gid="3389532359" lang="EN">Princess Kurama, Sleeping Beauty</title>
+<title part="B" gid="1492902904" lang="EN">Athletics in Women's Hell!</title></episode>
+<episode num="10">
+<title gid="1295817568" lang="EN">Pitter Patter Christmas Eve</title>
+<title part="A" gid="3084654680" lang="JA">ときめきの聖夜（前編）</title>
+<title part="B" gid="845839369" lang="JA">ときめきの聖夜（後編）</title></episode>
+<episode num="11">
+<title gid="2000279252" lang="EN">Ataru Genji Goes to the Heian Capital</title>
+<title part="A" gid="850189905" lang="JA">あたる源氏平安京にゆく（前編）</title>
+<title part="B" gid="344262315" lang="JA">あたる源氏平安京にゆく（後編）</title></episode>
+<episode num="12">
+<title part="A" gid="2113843676" lang="EN">Battle Royal of Love</title>
+<title part="B" gid="568280748" lang="EN">Father, You Were Strong</title></episode>
+<episode num="13">
+<title part="A" gid="1969093342" lang="EN">Hawaiian Swimsuit Thief</title>
+<title part="B" gid="2434791208" lang="EN">Full Course from Hell</title></episode>
+<episode num="14">
+<title part="A" gid="2266576138" lang="EN">Mendou Brings Trouble!</title>
+<title part="B" gid="28407188" lang="EN">Constellation-Go-Round</title></episode>
+<episode num="15">
+<title part="A" gid="1342207651" lang="EN">The Great Spring War</title>
+<title part="B" gid="2625716814" lang="EN">The Benten Gang's Return Match</title></episode>
+<episode num="16">
+<title part="A" gid="1101861238" lang="EN">Oh! Lone Teacher!</title>
+<title part="B" gid="1632055871" lang="EN">Terrifying Visiting Day</title></episode>
+<episode num="17">
+<title part="A" gid="854595765" lang="EN">The 4-D Camera</title>
+<title part="B" gid="3376711333" lang="EN">Demonic Jogging</title></episode>
+<episode num="18">
+<title part="A" gid="2319669493" lang="EN">Girls' Day! Introducing Ran</title>
+<title part="B" gid="1468113590" lang="EN">Ran's Invitation</title></episode>
+<episode num="19">
+<title part="A" gid="381459592" lang="EN">The Tearful Diary of Tomorrow</title>
+<title part="B" gid="1502857316" lang="EN">Whose Kid Is This?</title></episode>
+<episode num="20">
+<title part="A" gid="2369807926" lang="EN">Sleepy Springtime Classroom</title>
+<title part="B" gid="3340367803" lang="EN">Peach-Blossom Poetry Contest</title></episode>
+<episode num="21">
+<title part="A" gid="1592315361" lang="EN">The Duel! Ataru vs. Ataru</title>
+<title part="B" gid="1940373518" lang="EN">Wake up to a Nightmare</title></episode>
+<episode num="21.5">
+<title part="A" gid="2501442945" lang="EN">Urusei Yatsura All-Star Bash</title>
+<title part="B" gid="3288339355" lang="EN">Grade School Excursion! Run For It!</title></episode>
+<episode num="22">
+<title gid="1220349185" lang="EN">The Great Space Matchmaking Operation</title></episode>
+<episode num="23">
+<title gid="3983400492" lang="EN">The Big Springtime Picnic Uproar!</title></episode>
+<episode num="24">
+<title gid="3138573488" lang="EN">Beware of Earmuffs!</title></episode>
+<episode num="25">
+<title gid="3742566084" lang="EN">Fly, Imo!</title></episode>
+<episode num="26">
+<title gid="1297010082" lang="EN">Ten's Love</title></episode>
+<episode num="27">
+<title gid="3043508955" lang="EN">What a Dracula!</title></episode>
+<episode num="28">
+<title gid="3003850219" lang="EN">Lum's Education Lecture Course for Boys</title></episode>
+<episode num="29">
+<title gid="1888624352" lang="EN">From the Gardenia, with Love</title></episode>
+<episode num="30">
+<title gid="431471224" lang="EN">A Beautiful Girl Brings Rain</title></episode>
+<episode num="31">
+<title gid="491383186" lang="EN">Gimme Back My Horn!</title></episode>
+<episode num="32">
+<title gid="1162402383" lang="EN">Shocking Library – Quiet Please!</title></episode>
+<episode num="33">
+<title gid="337762481" lang="EN">Mr. Hanawa Arrives! It's the Springtime of Youth</title></episode>
+<episode num="34">
+<title gid="2201505378" lang="EN">Goblin in Distress, Yearning for People</title></episode>
+<episode num="35">
+<title gid="817089162" lang="EN">Darling's Had It This Time!</title></episode>
+<episode num="36">
+<title gid="3796158532" lang="EN">Rei Returns! The Big Study Hall Panic!!</title></episode>
+<episode num="37">
+<title gid="529425296" lang="EN">The Coming of the Mysterious Red Mantle!</title></episode>
+<episode num="38">
+<title gid="3258551007" lang="EN">Steal Darling! The Copy Operation!!</title></episode>
+<episode num="39">
+<title gid="3269841903" lang="EN">Thrilling Summer Date</title></episode>
+<episode num="40">
+<title gid="3029937514" lang="EN">So Long, Goodbye, Summer Days</title></episode>
+<episode num="41">
+<title gid="1340061985" lang="EN">Panic in a Typhoon!</title></episode>
+<episode num="42">
+<title gid="1610397503" lang="EN">Drunkard's Boogie</title></episode>
+<episode num="43">
+<title gid="31701682" lang="EN">The Terror of Meow</title></episode>
+<episode num="44">
+<title gid="3327216027" lang="EN">After You've Gone</title></episode>
+<episode num="45">
+<title gid="540875210" lang="EN">Lum's Class Reunion</title></episode>
+<episode num="46">
+<title gid="722628093" lang="EN">Lunchtime Eat-Out'ers Gather Round!</title></episode>
+<episode num="47">
+<title gid="1990414959" lang="EN">Terror! The Deserted Fossil Grounds Mystery</title></episode>
+<episode num="48">
+<title gid="3784090636" lang="EN">Princess Kurama – A New Challenge!</title></episode>
+<episode num="49">
+<title gid="949108428" lang="EN">The Terrifying Cavity Wars!</title></episode>
+<episode num="50">
+<title gid="1393170356" lang="EN">The Mendou Siblings!</title></episode>
+<episode num="51">
+<title gid="118426619" lang="EN">There's a Cat on the Stairs</title></episode>
+<episode num="52">
+<title gid="412522151" lang="EN">Can a Racoon Repay a Favor?!</title></episode>
+<episode num="53">
+<title gid="1707231019" lang="EN">The Do-or-Die Subspace Part-Time Job</title></episode>
+<episode num="54">
+<title gid="3298488764" lang="EN">The Big Year-End Party that Lum Organized!</title></episode>
+<episode num="55">
+<title gid="3370650885" lang="EN">Bad Boy Musashi: A Success Story</title></episode>
+<episode num="56">
+<title gid="2957688258" lang="EN">We'll Risk Our Lives During Classtime!</title></episode>
+<episode num="57">
+<title gid="676388758" lang="EN">Domestic Quarrel – To Eat or Be Eaten?!</title></episode>
+<episode num="58">
+<title gid="2508779139" lang="EN">Steal the Kiss of Miss Snow Queen!</title></episode>
+<episode num="59">
+<title gid="1856044196" lang="EN">St. Valentine's Day Horror</title></episode>
+<episode num="60">
+<title gid="1658081248" lang="EN">Love, Love, Catchball!</title></episode>
+<episode num="61">
+<title gid="2722173777" lang="EN">The Mendo Family's Masquerade War</title></episode>
+<episode num="62">
+<title gid="636525265" lang="EN">Space Cold Panic!</title></episode>
+<episode num="63">
+<title gid="3016005115" lang="EN">Ryunosuke Arrives! I Love the Sea!</title></episode>
+<episode num="64">
+<title gid="1170349903" lang="EN">Goodbye Season</title></episode>
+<episode num="65">
+<title gid="803634292" lang="EN">Ran-chan's Great Date Plan</title></episode>
+<episode num="66">
+<title gid="507021877" lang="EN">Happy Birthday My Darling</title></episode>
+<episode num="67">
+<title gid="124106629" lang="EN">Seeing Shangri-La as a Hell Camp!</title></episode>
+<episode num="68">
+<title gid="3099367638" lang="EN">The Groom's Name is Ryunosuke</title></episode>
+<episode num="69">
+<title gid="3124418428" lang="EN">Bottled Letter Seashore Mystery!</title></episode>
+<episode num="70">
+<title gid="2323889345" lang="EN">Dramatic Appearance! Mizunokoji Ton-chan!</title></episode>
+<episode num="71">
+<title gid="2246091567" lang="EN">Shinobu's Cinderella Story</title></episode>
+<episode num="72">
+<title gid="258689924" lang="EN">Lum-chan the Ruthless Rebel</title></episode>
+<episode num="73">
+<title gid="2555075039" lang="EN">The Big Showdown! Sakura vs. Sakuranbo</title></episode>
+<episode num="74">
+<title gid="3999205547" lang="EN">Ghost Story! Old Man Willow!</title></episode>
+<episode num="75">
+<title gid="330702739" lang="EN">And Then There Were None</title></episode>
+<episode num="76">
+<title gid="1655797180" lang="EN">Firefighter Mommy Visits!</title></episode>
+<episode num="77">
+<title gid="3286777803" lang="EN">Darling's Dying!?</title></episode>
+<episode num="78">
+<title gid="3466397600" lang="EN">Pitiful! Mother of Love and Banishment!?</title></episode>
+<episode num="79">
+<title gid="554333023" lang="EN">The House of Mendou - Summer Xmas</title></episode>
+<episode num="80">
+<title gid="205340887" lang="EN">Panic in the Haunted Inn</title></episode>
+<episode num="81">
+<title gid="3363605490" lang="EN">Oh! The Memories of Mother</title></episode>
+<episode num="82">
+<title gid="201904910" lang="EN">Full of Sunshine, Full of Amours</title></episode>
+<episode num="83">
+<title gid="1539246443" lang="EN">Big Battle! Ten vs. Ataru</title></episode>
+<episode num="84">
+<title gid="2716274698" lang="EN">Terror! Attack of the Killer Potatoes!</title></episode>
+<episode num="85">
+<title gid="963534284" lang="EN">Galactic Teacher CAO-2 Strikes Back!</title></episode>
+<episode num="86">
+<title gid="668747446" lang="EN">Outraged! Piteous Boy Shutaro!</title></episode>
+<episode num="87">
+<title gid="453034504" lang="EN">WOW! The Mysterious Matsutake Mushroom Soup!</title></episode>
+<episode num="88">
+<title gid="258830304" lang="EN">Enraged Lum!</title></episode>
+<episode num="89">
+<title gid="3934948130" lang="EN">Lum &amp; Ataru – A Night Alone</title></episode>
+<episode num="90">
+<title gid="2898149860" lang="EN">Lady Ryuunosuke!</title></episode>
+<episode num="91">
+<title gid="906167670" lang="EN">Document! Who'll Be Miss Tomobiki?</title></episode>
+<episode num="92">
+<title gid="3252888226" lang="EN">Bizarre! The Medicine of Selflessness!</title></episode>
+<episode num="93">
+<title gid="1545838244" lang="EN">Shutaro's Jinxed Morning</title></episode>
+<episode num="94">
+<title gid="1970426664" lang="EN">The Story of a Traveling Snowman</title></episode>
+<episode num="95">
+<title gid="218630089" lang="EN">Lum-chan's Ancient Japanese Fairytales</title></episode>
+<episode num="96">
+<title gid="1223827384" lang="EN">Shine! The Blessed Bra!!</title></episode>
+<episode num="97">
+<title gid="1463146776" lang="EN">Duel! Benten vs. the Three Daughters</title></episode>
+<episode num="98">
+<title gid="3644151850" lang="EN">Plenty of Lum-chan's!</title></episode>
+<episode num="99">
+<title gid="1831219044" lang="EN">Certain Death! Stand-Up Eating Contest</title></episode>
+<episode num="100">
+<title gid="2223539792" lang="EN">The Great Vault! Courageous Survival!!!</title></episode>
+<episode num="101">
+<title gid="1623941954" lang="EN">Operation; Peek in the Woman's Bath</title></episode>
+<episode num="102">
+<title gid="1448990516" lang="EN">Sakura, Sad Years of Youth</title></episode>
+<episode num="103">
+<title gid="2373026841" lang="EN">Burning Ran's Emotional Video Mail</title></episode>
+<episode num="104">
+<title gid="3060200815" lang="EN">Sakura San of Youth</title></episode>
+<episode num="105">
+<title gid="1184995498" lang="EN">Scramble! To the Rescue of Lum!</title></episode>
+<episode num="106">
+<title gid="744275167" lang="EN">A Fight to the Death! Ataru vs. The Mendo Brigade!</title></episode>
+<episode num="107">
+<title gid="166289462" lang="EN">Dimensional Switch, Where's Darling?</title></episode>
+<episode num="108">
+<title gid="2598521934" lang="EN">Crash! Her Ladyship and the Football of Love</title></episode>
+<episode num="109">
+<title gid="493641405" lang="EN">Ran-chan, Tasting the Tearful Love of a First Kiss</title></episode>
+<episode num="110">
+<title gid="2672541347" lang="EN">The Indelible Magic Lipstick</title></episode>
+<episode num="111">
+<title gid="3881682644" lang="EN">Deadly Combat! The Mendo Family's Flower Display Death Match</title></episode>
+<episode num="112">
+<title gid="3390689300" lang="EN">Benten &amp; Ryunosuke; Run for the Morrow</title></episode>
+<episode num="113">
+<title gid="1308298692" lang="EN">Great Horrors! Oyuki is Finally Angered!</title></episode>
+<episode num="114">
+<title gid="369325681" lang="EN">Ten-chan's Wonderful Love Story</title></episode>
+<episode num="115">
+<title gid="1921632454" lang="EN">Haunted House Special! Quest for Mendo Estate Treasure!</title></episode>
+<episode num="116">
+<title gid="500085349" lang="EN">Love and War! Battle of Glove vs. Pants!!</title></episode>
+<episode num="117">
+<title gid="735429506" lang="EN">Lum-chan's Becoming a Cow?</title></episode>
+<episode num="118">
+<title gid="2176791605" lang="EN">Great Achievement! The Film of Lum-chan's Youth</title></episode>
+<episode num="119">
+<title gid="677569630" lang="EN">Ghostbusting! Exorcising the Beautiful Sakura!</title></episode>
+<episode num="120">
+<title gid="857373460" lang="EN">Attack of the Protozoa! Panic at the Poolside</title></episode>
+<episode num="121">
+<title gid="2254058533" lang="EN">Here Again! The Hunter of Love, Princess Kurama</title></episode>
+<episode num="122">
+<title gid="698072406" lang="EN">The Fox's Unrequited Love</title></episode>
+<episode num="123">
+<title gid="728086556" lang="EN">Ryunosuke Confused! Solid Rock Mother Cherishes Her Young Pebble!</title></episode>
+<episode num="124">
+<title gid="1546115685" lang="EN">The Stairs! Footsteps in the Girls Dorm!!</title></episode>
+<episode num="125">
+<title gid="1546218879" lang="EN">Pool Spooks! Burning with Forbidden Love</title></episode>
+<episode num="126">
+<title gid="3092647464" lang="EN">Ran-chan's Panic: No Tomorrow for Tomobiki</title></episode>
+<episode num="127">
+<title gid="2824480806" lang="EN">Where is Love's Home? Kuriko and Chojuro</title></episode>
+<episode num="128">
+<title gid="844361763" lang="EN">Man or Bird? Gokakenran, Champion of Justice!</title></episode>
+<episode num="129">
+<title gid="3748266516" lang="EN">Attack your Seniors! Revenge of the Infamous Three Daughters</title></episode>
+<episode num="130">
+<title gid="208147416" lang="EN">Blaze, Secret Powers! Stick to the Straight and Narrow Path</title></episode>
+<episode num="131">
+<title gid="1795837656" lang="EN">Don't Die! Ryoko Special Straw Doll</title></episode>
+<episode num="132">
+<title gid="689754004" lang="EN">Hell Encounter! Armored Girl; Beauty or Beast? Part 1</title></episode>
+<episode num="133">
+<title gid="2424470671" lang="EN">Love of the Armored Girl! Maidenly Feelings Reeling Part 2</title></episode>
+<episode num="134">
+<title gid="2052991465" lang="EN">I Dearly Need You! Return of the Honest Fox!</title></episode>
+<episode num="135">
+<title gid="2991445434" lang="EN">What Do I Care for Talking Flowers!</title></episode>
+<episode num="136">
+<title gid="798152900" lang="EN">The Birth of Ten-chan's Son? I Didn't Know a Thing</title></episode>
+<episode num="137">
+<title gid="3016328321" lang="EN">Lum's Courageous Duel! An Ironic Victory</title></episode>
+<episode num="138">
+<title gid="687083027" lang="EN">Job Hunting! Sneaky Return of the Reject!</title></episode>
+<episode num="139">
+<title gid="2386330296" lang="EN">Tomobiki High School Survival! Who Are the Survivors!</title></episode>
+<episode num="140">
+<title gid="1870302521" lang="EN">The Mysterious Giant Cake! Love's Fleeing Panic!!</title></episode>
+<episode num="141">
+<title gid="2192421839" lang="EN">Underground Reincarnation! What's Darling Thinking Of!?</title></episode>
+<episode num="142">
+<title gid="1351101756" lang="EN">Snow Panic? The Mendo Family Cherry Blossom Display Banquet!</title></episode>
+<episode num="143">
+<title gid="178143384" lang="EN">From the Far Spring! The Tale of the Lonely Fairy!</title></episode>
+<episode num="144">
+<title gid="837311777" lang="EN">To Dreamland! Darling Battle Royal Abduction</title></episode>
+<episode num="145">
+<title gid="3652028857" lang="EN">Return of the Three Daughters! The Great Scheme to Seduce Darling!</title></episode>
+<episode num="146">
+<title gid="3748109074" lang="EN">The Scampering Kotatsu Cat! Anything to Get Warm</title></episode>
+<episode num="147">
+<title gid="3784358924" lang="EN">Ryunosuke's Father's Self Sacrificing Devotion! His Wife is Within Images!</title></episode>
+<episode num="148">
+<title gid="3677367521" lang="EN">Spring Blossom! Frozen by Oyuki's Cold</title></episode>
+<episode num="149">
+<title gid="3033660957" lang="EN">Panic Among Friends! I Love to Eat Blowfish</title></episode>
+<episode num="150">
+<title gid="136102343" lang="EN">The Armored Girl Returns! Plenty of Older Brothers</title></episode>
+<episode num="151">
+<title gid="3579428969" lang="EN">The Boredom Syndrome! Is Tomobiki Wasting Away?</title></episode>
+<episode num="152">
+<title gid="1488737937" lang="EN">Look Out, Ran! Kotatsu Neko's Primary Love is Oden!?</title></episode>
+<episode num="153">
+<title gid="705302901" lang="EN">The Armored Girl Returns Again! A Storm Raising Date</title></episode>
+<episode num="154">
+<title gid="2293580983" lang="EN">Arrival of the Mysterious Priest! The Bell Battle Royal</title></episode>
+<episode num="155">
+<title gid="2031434484" lang="EN">First Love Relived!? A Return to the Past for Lum and Rei</title></episode>
+<episode num="156">
+<title gid="3276329593" lang="EN">Appearance of the Youthful Old Man! Shine, Great Teahouse of Dreams!</title></episode>
+<episode num="157">
+<title gid="2287244637" lang="EN">I Love Darling's Sincerity</title></episode>
+<episode num="158">
+<title gid="1607134528" lang="EN">The Honest Fox Again! I Love Shinobu</title></episode>
+<episode num="159">
+<title gid="1173838853" lang="EN">I Love the Sea! Prayers for the Thriving Hamachaya!?</title></episode>
+<episode num="160">
+<title gid="1047690804" lang="EN">Ryunosuke vs. Benten! The Fruitless Duel of Passion</title></episode>
+<episode num="161">
+<title gid="1716837585" lang="EN">The Magic Bottle! What's to Become of Me?</title></episode>
+<episode num="162">
+<title gid="1441015634" lang="EN">The Great Devil's Debut! Lum's Dangerous Purchase!</title></episode>
+<episode num="163">
+<title gid="2054465540" lang="EN">Goodness! Words Aren't Getting to Darling</title></episode>
+<episode num="164">
+<title gid="1949180920" lang="EN">The Devil's Summer! Ten-chan's Eel Lunch Plot!</title></episode>
+<episode num="165">
+<title gid="3582408102" lang="EN">Visitation Panic! I Didn't Mean Any Harm</title></episode>
+<episode num="166">
+<title gid="64397874" lang="EN">Scary! Is That an Octopus on Shutaro's Head?</title></episode>
+<episode num="167">
+<title gid="1574665185" lang="EN">Invader From Space! He's After Lum's Lips!</title></episode>
+<episode num="168">
+<title gid="3680032426" lang="EN">Space Survival! They are the Eaters</title></episode>
+<episode num="169">
+<title gid="1676066700" lang="EN">It's a Thrill! The Terrible Overhead Cooler</title></episode>
+<episode num="170">
+<title gid="1340136345" lang="EN">Love Attack! The Romance Never Stops!!</title></episode>
+<episode num="171">
+<title gid="1672381747" lang="EN">Rare Form! Worries for Mother the Firefighter!!</title></episode>
+<episode num="172">
+<title gid="341399825" lang="EN">Hardselling Happiness! Out of Focus Bluebird!!</title></episode>
+<episode num="173">
+<title gid="1593395985" lang="EN">Great Uproar! Ryunosuke's First Time Wearing a Swimsuit!!</title></episode>
+<episode num="174">
+<title gid="2562742238" lang="EN">I Want a Bride! The Fox's Love Adventure!</title></episode>
+<episode num="175">
+<title gid="33423355" lang="EN">How Persistent! The Three Daughters' Great Animal Plan!</title></episode>
+<episode num="176">
+<title gid="478790185" lang="EN">Fast Money in Fast Fighting! Hamachaya's Forbidden Business</title></episode>
+<episode num="177">
+<title gid="354646152" lang="EN">Wish Upon a Star! The Winning Family's Consumer Panic</title></episode>
+<episode num="178">
+<title gid="385617918" lang="EN">Special Delivery Kiss! Darling's First Jealousy!</title></episode>
+<episode num="179">
+<title gid="864051255" lang="EN">Scary Sake! Sakura's Possession a Big Failure</title></episode>
+<episode num="180">
+<title gid="3163302646" lang="EN">It's Strange! Cherry's Yoga School!</title></episode>
+<episode num="181">
+<title gid="1224259588" lang="EN">Good-bye Onsen-Sensei!? Tearful Good-bye Marathon Banquet!</title></episode>
+<episode num="182">
+<title gid="1957264599" lang="EN">Pure Love Sakura! The Slippery Soap of Separation?</title></episode>
+<episode num="183">
+<title gid="631290125" lang="EN">Asuka vs. Older Brother! Battle for Certain Love!</title></episode>
+<episode num="184">
+<title gid="3483571985" lang="EN">Darling's Ill Omen! The Dreaded Shijimoto Oracle!!</title></episode>
+<episode num="185">
+<title gid="3523889674" lang="EN">New Years Panic! The Mendo Family's Human Parcheesi Tournament!</title></episode>
+<episode num="186">
+<title gid="3168632535" lang="EN">Dreaming Ten-chan! The Great Adventure at the End of the Rainbow!</title></episode>
+<episode num="187">
+<title gid="1271393775" lang="EN">I Want to Date! Ataru's Test Program!</title></episode>
+<episode num="188">
+<title gid="850971396" lang="EN">Darling Said He Loved Me</title></episode>
+<episode num="189">
+<title gid="440575777" lang="EN">Death-Defying House Call! A Teacher Life is Dangerous too</title></episode>
+<episode num="190">
+<title gid="3649864821" lang="EN">Total Chaos! Ran-chan's Double Doll!</title></episode>
+<episode num="191">
+<title gid="927496894" lang="EN">Blind Love! You Bet Your Life, Honest Fox</title></episode>
+<episode num="192">
+<title gid="1687790133" lang="EN">Come Quickly, Darling! Lum's Dangerous Marriage Talk</title></episode>
+<episode num="193">
+<title gid="1656360105" lang="EN">It's Unbearable! Ran's Mischief Campaign</title></episode>
+<episode num="194">
+<title gid="3218330247" lang="EN">Urusei Yatsura Pre-Departure Special! Shine!</title></episode>
+<episode num="195">
+<title gid="3122471043" lang="EN">All-Star Banquet! We Are Immortal!!</title></episode>
+<review href="http://www.animenewsnetwork.com/review/urusei-yatsura/dvd-boxset">Urusei Yatsura DVD Boxset</review>
+<review href="http://www.animenewsnetwork.com/review/urusei-yatsura/vhs-20">Urusei Yatsura VHS 20</review>
+<release date="2005-01-11" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=16127">Urusei Yatsura (DVD 36)</release>
+<release date="2005-01-11" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=16128">Urusei Yatsura (DVD 40)</release>
+<release date="2001-04-24" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=10610">Urusei Yatsura (Sub.DVD 2)</release>
+<release date="2001-07-03" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=10611">Urusei Yatsura (Sub.DVD 3)</release>
+<release date="2002-02-26" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=10612">Urusei Yatsura (Sub.DVD 6)</release>
+<release date="2004-03-09" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=10613">Urusei Yatsura (Sub.DVD 10)</release>
+<release date="2004-03-09" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=10614">Urusei Yatsura (Sub.DVD 11)</release>
+<release date="2004-04-06" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=10615">Urusei Yatsura (Sub.DVD 12)</release>
+<release date="2004-04-06" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=10616">Urusei Yatsura (Sub.DVD 13)</release>
+<release date="2004-04-06" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=10608">Urusei Yatsura (Sub.DVD 14)</release>
+<release date="2002-06-16" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=10609">Urusei Yatsura (Sub.DVD 15)</release>
+<release date="2005-06-07" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=4442">Urusei Yatsura (Sub.DVD 26)</release>
+<release date="2005-06-07" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=4443">Urusei Yatsura (Sub.DVD 27)</release>
+<release date="2005-06-07" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=4444">Urusei Yatsura (Sub.DVD 28)</release>
+<release date="2005-07-12" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=4775">Urusei Yatsura (Sub.DVD 29)</release>
+<release date="2005-07-12" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=4776">Urusei Yatsura (Sub.DVD 30)</release>
+<release date="2005-08-09" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=4767">Urusei Yatsura (Sub.DVD 31)</release>
+<release date="2005-08-09" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=4768">Urusei Yatsura (Sub.DVD 32)</release>
+<release date="2005-08-09" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=4769">Urusei Yatsura (Sub.DVD 33)</release>
+<release date="2005-09-06" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=5168">Urusei Yatsura (Sub.DVD 34)</release>
+<release date="2005-09-06" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=5169">Urusei Yatsura (Sub.DVD 35)</release>
+<release date="2006-01-15" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=5292">Urusei Yatsura (Sub.DVD 36)</release>
+<release date="2006-01-15" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=5293">Urusei Yatsura (Sub.DVD 37)</release>
+<release date="2006-01-15" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=5294">Urusei Yatsura (Sub.DVD 38)</release>
+<release date="2006-01-15" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=5295">Urusei Yatsura (Sub.DVD 39)</release>
+<release date="2006-01-15" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=5296">Urusei Yatsura (Sub.DVD 40)</release>
+<release date="2006-03-15" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=5297">Urusei Yatsura (Sub.DVD 41)</release>
+<release date="2006-03-15" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=5298">Urusei Yatsura (Sub.DVD 42)</release>
+<release date="2006-03-15" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=5299">Urusei Yatsura (Sub.DVD 43)</release>
+<release date="2006-03-15" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=5300">Urusei Yatsura (Sub.DVD 44)</release>
+<release date="2006-03-15" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=5301">Urusei Yatsura (Sub.DVD 45)</release>
+<release date="2006-06-06" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=6347">Urusei Yatsura (Sub.DVD 50)</release>
+<release date="2006-04-15" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=5302">Urusei Yatsura (Sub.DVD 46)</release>
+<release date="2006-04-15" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=5303">Urusei Yatsura (Sub.DVD 47)</release>
+<release date="2006-04-15" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=5304">Urusei Yatsura (Sub.DVD 48)</release>
+<release date="2006-04-15" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=5305">Urusei Yatsura (Sub.DVD 49)</release>
+<release date="2001-03-27" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=793">Urusei Yatsura (Sub.DVD 1)</release>
+<release date="2001-09-25" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=224">Urusei Yatsura (Sub.DVD 4)</release>
+<release date="2002-01-30" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=423">Urusei Yatsura (Sub.DVD 5)</release>
+<release date="2002-03-15" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=567">Urusei Yatsura (Sub.DVD 7)</release>
+<release date="2002-03-29" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=568">Urusei Yatsura (Sub.DVD 8)</release>
+<release date="2002-04-15" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=569">Urusei Yatsura (Sub.DVD 9)</release>
+<release date="2003-08-05" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1549">Urusei Yatsura (Sub.DVD 16)</release>
+<release date="2003-08-05" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1550">Urusei Yatsura (Sub.DVD 17)</release>
+<release date="2003-08-05" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1551">Urusei Yatsura (Sub.DVD 18)</release>
+<release date="2003-08-05" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1552">Urusei Yatsura (Sub.DVD 19)</release>
+<release date="2003-08-05" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1553">Urusei Yatsura (Sub.DVD 20)</release>
+<release date="2003-08-10" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2363">Urusei Yatsura (Sub.DVD 21)</release>
+<release date="2003-08-10" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2364">Urusei Yatsura (Sub.DVD 22)</release>
+<release date="2003-08-10" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2365">Urusei Yatsura (Sub.DVD 23)</release>
+<release date="2003-08-10" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2366">Urusei Yatsura (Sub.DVD 24)</release>
+<release date="2005-05-10" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2367">Urusei Yatsura (Sub.DVD 25)</release>
+<release date="1995-06-28" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1810">Urusei Yatsura (Sub.VHS 1)</release>
+<news datetime="1999-02-28T05:00:00Z" href="http://www.animenewsnetwork.com/news/1999-02-28/news-briefs">News Briefs</news>
+<news datetime="1999-04-28T04:00:00Z" href="http://www.animenewsnetwork.com/news/1999-04-28/animeigo-announces-new-life-form-uy-21">AnimEigo announces new life form, UY 21</news>
+<news datetime="1999-05-06T04:00:00Z" href="http://www.animenewsnetwork.com/news/1999-05-06/psme-to-air-on-kteh">PSME to air on KTEH</news>
+<news datetime="1999-09-20T04:00:00Z" href="http://www.animenewsnetwork.com/news/1999-09-20/news-briefs">News Briefs</news>
+<news datetime="2000-03-01T18:04:02Z" href="http://www.animenewsnetwork.com/news/2000-03-01/viz-series-goes-brodcast">Viz Series Goes Brodcast</news>
+<news datetime="2000-10-11T23:41:39Z" href="http://www.animenewsnetwork.com/news/2000-10-11/anime-weekend-in-atlanta">Anime Weekend in Atlanta News</news>
+<news datetime="2000-11-27T17:10:11Z" href="http://www.animenewsnetwork.com/news/2000-11-27/animeigo-dvds-in-retail-outlets">AnimEigo DVDs in retail outlets?</news>
+<news datetime="2001-01-07T02:38:25Z" href="http://www.animenewsnetwork.com/news/2001-01-06/anime-dates-and-delays">Anime Dates and Delays</news>
+<news datetime="2001-01-16T03:56:48Z" href="http://www.animenewsnetwork.com/news/2001-01-15/animage-top-100-anime-listing">Animage Top-100 Anime Listing</news>
+<news datetime="2001-01-25T21:00:11Z" href="http://www.animenewsnetwork.com/news/2001-01-25/sakuracon-announces-guests">SakuraCon Announces guests</news>
+<news datetime="2001-02-05T05:01:36Z" href="http://www.animenewsnetwork.com/news/2001-02-05/sakuracon-february-press-release">SakuraCon February Press Release</news>
+<news datetime="2001-11-18T03:21:18Z" href="http://www.animenewsnetwork.com/news/2001-11-17/january-merchandise-releases">January Merchandise Releases</news>
+<news datetime="2005-09-23T17:39:30Z" href="http://www.animenewsnetwork.com/news/2005-09-23/tv-asahi-top-100-anime">TV Asahi Top 100 Anime</news>
+<news datetime="2005-09-23T20:38:14Z" href="http://www.animenewsnetwork.com/news/2005-09-23/tv-asahi-top-100-anime-part-2">TV Asahi Top 100 Anime Part 2</news>
+<news datetime="2006-10-12T21:45:00Z" href="http://www.animenewsnetwork.com/news/2006-10-13/japans-favorite-tv-anime">Japan's Favorite TV Anime</news>
+<news datetime="2007-05-31T08:28:13Z" href="http://www.animenewsnetwork.com/news/2007-05-31/survey-roots-otaku">Survey about &quot;Roots&quot; of Otaku Lifestyle Published</news>
+<news datetime="2007-10-05T06:06:23Z" href="http://www.animenewsnetwork.com/news/2007-10-05/mamoru-oshii's-tachigui-film-runs-on-azn-tv-october-25">Mamoru Oshii's &lt;cite&gt;Tachigui&lt;/cite&gt; Film Runs on AZN TV October 25</news>
+<news datetime="2007-10-05T18:14:08Z" href="http://www.animenewsnetwork.com/news/2007-10-05/japan-tour-to-visit-vampire-hunter-d-creators-pierrot">Japan Tour to Visit &lt;cite&gt;Vampire Hunter D&lt;/cite&gt; Creators, Pierrot</news>
+<news datetime="2007-10-11T19:01:57Z" href="http://www.animenewsnetwork.com/news/2007-10-11/kawai-holds-orchestral-concert-oshii-hosts-radio-show">Kawai Holds Orchestral Concert, Oshii Hosts Radio Show</news>
+<news datetime="2007-12-05T03:43:25Z" href="http://www.animenewsnetwork.com/news/2007-12-04/coo-gurren-lagann-kafka-win-media-arts-awards">&lt;cite&gt;Coo, Gurren-Lagann,&lt;/cite&gt; 'Kafka' Win Media Arts Awards</news>
+<news datetime="2008-06-04T19:44:28Z" href="http://www.animenewsnetwork.com/news/2008-06-04/anime-expo-to-host-character-designer-akemi-takada">Anime Expo to Host Character Designer Akemi Takada</news>
+<news datetime="2008-07-19T10:06:56Z" href="http://www.animenewsnetwork.com/news/2008-07-19/battle-royale-soundtrack-to-be-sold-in-u.s-digitally">&lt;cite&gt;Battle Royale&lt;/cite&gt; Soundtrack to be Sold in U.S. Digitally</news>
+<news datetime="2008-09-14T03:57:00Z" href="http://www.animenewsnetwork.com/news/2008-09-13/shuffle-nishimata-illustrates-rice-bag-strawberries">&lt;cite&gt;Shuffle's&lt;/cite&gt; Nishimata Illustrates Rice Bag, Strawberries</news>
+<news datetime="2009-03-10T22:12:14Z" href="http://www.animenewsnetwork.com/news/2009-03-10/rumiko-takahashi-mitsuru-adachi-collaborate-on-manga">Rumiko Takahashi, Mitsuru Adachi Collaborate on Manga</news>
+<news datetime="2009-05-29T17:43:54Z" href="http://www.animenewsnetwork.com/news/2009-05-29/mamoru-oshii-says-he-want-to-make-new-film-in-poland">Mamoru Oshii Says He Wants to Make New Film in Poland</news>
+<news datetime="2009-06-26T21:26:00Z" href="http://www.animenewsnetwork.com/news/2009-06-26/michael-jackson-1958-2009-and-the-zillion-anime-connections">Michael Jackson (1958-2009) &amp; the &lt;cite&gt;Zillion&lt;/cite&gt; Anime Connections</news>
+<news datetime="2009-07-11T03:50:09Z" href="http://www.animenewsnetwork.com/news/2009-07-10/live-action-blood/the-last-vampire-film-opens-in-u.s">Live-Action &lt;cite&gt;Blood: The Last Vampire&lt;/cite&gt; Film Opens in U.S.</news>
+<news datetime="2009-07-13T08:09:53Z" href="http://www.animenewsnetwork.com/news/2009-07-13/live-action-blood-film-opens-with-estimated-us$103000">Live-Action &lt;cite&gt;Blood&lt;/cite&gt; Film Opens with US$110,029</news>
+<news datetime="2009-07-19T20:32:35Z" href="http://www.animenewsnetwork.com/news/2009-07-19/live-action-blood/the-last-vampire-in-6-more-theaters">Live-Action &lt;cite&gt;Blood: The Last Vampire&lt;/cite&gt; in 6 More Theaters</news>
+<news datetime="2009-07-22T03:57:00Z" href="http://www.animenewsnetwork.com/news/2009-07-21/live-action-blood-film-adds-us$40774-in-2nd-weekend-updated">Live-Action &lt;cite&gt;Blood&lt;/cite&gt; Film Adds US$40,774 in 2nd Weekend</news>
+<news datetime="2010-02-22T22:02:25Z" href="http://www.animenewsnetwork.com/news/2010-02-22/seattle-sakura-con-to-premiere-trigun-film">Seattle's Sakura-Con Hosts &lt;cite&gt;Trigun&lt;/cite&gt; Film Premiere, Staff</news>
+<news datetime="2010-03-06T14:05:32Z" href="http://www.animenewsnetwork.com/news/2010-03-06/4th-annual-seiyu-award-winners-announced">4th Annual Seiyū Award Winners Announced</news>
+<news datetime="2010-05-14T18:39:44Z" href="http://www.animenewsnetwork.com/news/2010-05-14/designer-akemi-takada-to-draw-in-live-stream-saturday">Designer Akemi Takada to Draw in Live Stream Saturday (Update 2)</news>
+<news datetime="2011-02-10T04:44:11Z" href="http://www.animenewsnetwork.com/news/2011-02-09/animeigo-urusei-yatsura-license-expires-in-september">AnimEigo's &lt;cite&gt;Urusei Yatsura&lt;/cite&gt; License Expires in September</news>
+<news datetime="2011-02-28T21:45:51Z" href="http://www.animenewsnetwork.com/news/2011-02-28/new-anime-chronicle-podcast-online">New Anime Chronicle Podcast Online</news>
+<news datetime="2011-06-17T18:49:16Z" href="http://www.animenewsnetwork.com/news/2011-06-17/anime-expo-hosts-toshio-furukawa">Anime Expo Hosts Toshio Furukawa</news>
+<news datetime="2011-07-08T03:44:52Z" href="http://www.animenewsnetwork.com/news/2011-07-07/animeigo-youre-under-arrest-license-ends-in-january">AnimEigo's &lt;cite&gt;You're Under Arrest&lt;/cite&gt; License Ends in January</news>
+<news datetime="2011-10-10T11:00:00Z" href="http://www.animenewsnetwork.com/news/2011-10-10/mamoru-oshii-creates-chimamire-my-love-manga/anime-hybrid">Mamoru Oshii Creates &lt;cite&gt;Chimamire My Love&lt;/cite&gt; Manga/Anime Hybrid</news>
+<news datetime="2011-10-10T17:00:00Z" href="http://www.animenewsnetwork.com/news/2011-10-10/dragon-quest-manga-fujiwara-.hack-ito-make-digital-media-work">&lt;cite&gt;Dragon Quest&lt;/cite&gt; Manga's Fujiwara, &lt;cite&gt;.hack's&lt;/cite&gt; Ito Make Digital Media Work</news>
+<news datetime="2012-02-20T04:52:16Z" href="http://www.animenewsnetwork.com/news/2012-02-19/new-rumic-theater-installment-runs-next-month">New &lt;cite&gt;Rumic Theater&lt;/cite&gt; Installment Runs Next Month</news>
+<news datetime="2014-05-18T16:48:05Z" href="http://www.animenewsnetwork.com/news/2014-05-19/toshihiro-kawamoto-to-attend-smash-as-special-guest">Toshihiro Kawamoto to attend SMASH as special guest</news>
+<staff gid="3933936371"><task>Director</task><person id="52">Mamoru Oshii</person></staff>
+<staff gid="111095635"><task>Director</task><person id="57">Kazuo Yamazaki</person></staff>
+<staff gid="1128157209"><task>Script</task><person id="52">Mamoru Oshii</person></staff>
+<staff gid="1411444827"><task>Script</task><person id="1692">Hiroyuki Hoshiyama</person></staff>
+<staff gid="1763494682"><task>Script</task><person id="2627">Yu Yamamoto</person></staff>
+<staff gid="1405043354"><task>Script</task><person id="3148">Tomoko Konparu</person></staff>
+<staff gid="3964979580"><task>Script</task><person id="3337">Keiji Hayakawa</person></staff>
+<staff gid="3987204666"><task>Script</task><person id="4526">Yukiyoshi Ohashi</person></staff>
+<staff gid="1740899080"><task>Script</task><person id="5776">Masaki Tsuji</person></staff>
+<staff gid="3129342944"><task>Script</task><person id="26018">Akira Nakahara</person></staff>
+<staff gid="2165834984"><task>Script</task><person id="44808">Tadashi Fukui</person></staff>
+<staff gid="3661897169"><task>Script</task><person id="44809">Hiro Iwasaki</person></staff>
+<staff gid="3004279835"><task>Script</task><person id="44810">Shusuke Kaneko</person></staff>
+<staff gid="808011613"><task>Script</task><person id="44811">Hiroshi Konishikawa</person></staff>
+<staff gid="3690034163"><task>Script</task><person id="44812">Ichirô Izumi</person></staff>
+<staff gid="1329003409"><task>Script</task><person id="56583">Tokio Tsuchiya</person></staff>
+<staff gid="827133659"><task>Screenplay</task><person id="93">Takao Koyama</person></staff>
+<staff gid="2886897608"><task>Screenplay</task><person id="17498">Michiru Shimada</person></staff>
+<staff gid="3283811055"><task>Screenplay</task><person id="20600">Kazunori Ito</person></staff>
+<staff gid="2467197471"><task>Storyboard</task><person id="242">Kazufumi Nomura</person></staff>
+<staff gid="753532771"><task>Episode Director</task><person id="52">Mamoru Oshii</person></staff>
+<staff gid="736835403"><task>Episode Director</task><person id="57">Kazuo Yamazaki</person></staff>
+<staff gid="1144587341"><task>Episode Director</task><person id="58">Junji Nishimura</person></staff>
+<staff gid="2698083731"><task>Episode Director</task><person id="77">Yuji Moriyama</person></staff>
+<staff gid="1749468657"><task>Episode Director</task><person id="961">Tetsuro Amino</person></staff>
+<staff gid="3110589990"><task>Episode Director</task><person id="1691">Naoyuki Yoshinaga</person></staff>
+<staff gid="1079651550"><task>Episode Director</task><person id="2270">Tomomi Mochizuki</person></staff>
+<staff gid="1640603373"><task>Episode Director</task><person id="3154">Osamu Sekita</person></staff>
+<staff gid="3513094032"><task>Episode Director</task><person id="3337">Keiji Hayakawa</person></staff>
+<staff gid="1856529129"><task>Episode Director</task><person id="4344">Takashi Ano</person></staff>
+<staff gid="1520081536"><task>Episode Director</task><person id="4679">Osamu Uemura</person></staff>
+<staff gid="3666105889"><task>Episode Director</task><person id="5847">Tsukasa Abe</person></staff>
+<staff gid="3377822458"><task>Episode Director</task><person id="7343">Jun'ichi Sakata</person></staff>
+<staff gid="1749447913"><task>Episode Director</task><person id="8096">Mamoru Hamatsu</person></staff>
+<staff gid="1409291802"><task>Episode Director</task><person id="8224">Makoto Moriwaki</person></staff>
+<staff gid="2143373809"><task>Episode Director</task><person id="8552">Tameo Kohanawa</person></staff>
+<staff gid="2971273919"><task>Episode Director</task><person id="8740">Norio Kashima</person></staff>
+<staff gid="1545573247"><task>Episode Director</task><person id="8838">Tsuneo Tominaga</person></staff>
+<staff gid="2981966393"><task>Episode Director</task><person id="9702">Iku Suzuki</person></staff>
+<staff gid="2362837115"><task>Episode Director</task><person id="10364">Yuzo Aoki</person></staff>
+<staff gid="727794721"><task>Episode Director</task><person id="12309">Yoshihide Kuriyama</person></staff>
+<staff gid="1958471112"><task>Episode Director</task><person id="19436">Masuji Harada</person></staff>
+<staff gid="2180947632"><task>Episode Director</task><person id="29608">Yumiko Suda</person></staff>
+<staff gid="3423129238"><task>Episode Director</task><person id="30818">Motosuke Takahashi</person></staff>
+<staff gid="2361084594"><task>Episode Director</task><person id="32839">Toshiyuki Sakurai</person></staff>
+<staff gid="2046928438"><task>Episode Director</task><person id="37361">Tomokazu Kougo</person></staff>
+<staff gid="1920646707"><task>Episode Director</task><person id="43194">Tomomasa Yamazaki</person></staff>
+<staff gid="252942447"><task>Episode Director</task><person id="58306">Tamiko Kojima</person></staff>
+<staff gid="1876889257"><task>Music</task><person id="4133">Katsu Hoshi</person></staff>
+<staff gid="1846596694"><task>Music</task><person id="4338">Fumitaka Anzai</person></staff>
+<staff gid="2842576762"><task>Music</task><person id="15491">Micky Yoshino</person></staff>
+<staff gid="2444278046"><task>Music</task><person id="25852">Shinsuke Kazato</person></staff>
+<staff gid="2785155352"><task>Music</task><person id="44802">Shinsuke Kazado</person></staff>
+<staff gid="3758110056"><task>Original creator</task><person id="149">Rumiko Takahashi</person></staff>
+<staff gid="1703339167"><task>Character Design</task><person id="53">Akemi Takada</person></staff>
+<staff gid="2176068910"><task>Animation Director</task><person id="36">Kazuhiro Furuhashi</person></staff>
+<staff gid="3394485607"><task>Animation Director</task><person id="53">Akemi Takada</person></staff>
+<staff gid="3159637684"><task>Animation Director</task><person id="59">Atsuko Nakajima</person></staff>
+<staff gid="1691617654"><task>Animation Director</task><person id="75">Katsuhiko Nishijima</person></staff>
+<staff gid="2604457282"><task>Animation Director</task><person id="77">Yuji Moriyama</person></staff>
+<staff gid="3247405300"><task>Animation Director</task><person id="1691">Naoyuki Yoshinaga</person></staff>
+<staff gid="2339309892"><task>Animation Director</task><person id="2659">Tsukasa Dokite</person></staff>
+<staff gid="2665796277"><task>Animation Director</task><person id="4647">Toshihiro Hirano</person></staff>
+<staff gid="1395923884"><task>Animation Director</task><person id="7488">Toshiko Sasaki</person></staff>
+<staff gid="1910365369"><task>Animation Director</task><person id="8356">Atsushi Matoba</person></staff>
+<staff gid="2556404501"><task>Animation Director</task><person id="8408">Setsuko Shibuichi</person></staff>
+<staff gid="881723648"><task>Animation Director</task><person id="9667">Yuji Yatabe</person></staff>
+<staff gid="2898925695"><task>Animation Director</task><person id="10748">Yuichi Endo</person></staff>
+<staff gid="1803591635"><task>Animation Director</task><person id="10954">Noboru Furuse</person></staff>
+<staff gid="2136813441"><task>Animation Director</task><person id="11164">Takeshi Ozaka</person></staff>
+<staff gid="3172879094"><task>Animation Director</task><person id="11213">Hidetoshi Oomori</person></staff>
+<staff gid="2497736217"><task>Animation Director</task><person id="17971">Masaaki Kannan</person></staff>
+<staff gid="817229302"><task>Animation Director</task><person id="19531">Masami Abe</person></staff>
+<staff gid="1823986160"><task>Animation Director</task><person id="19749">Hayao Nobe</person></staff>
+<staff gid="1050450540"><task>Animation Director</task><person id="20259">Masahiko Imai</person></staff>
+<staff gid="1988918201"><task>Animation Director</task><person id="20455">Takafumi Hayashi</person></staff>
+<staff gid="2671484824"><task>Animation Director</task><person id="22431">Asami Endo</person></staff>
+<staff gid="3606454682"><task>Animation Director</task><person id="24049">Masanori Shino</person></staff>
+<staff gid="2601006134"><task>Animation Director</task><person id="25190">Masato Sawada</person></staff>
+<staff gid="559596715"><task>Animation Director</task><person id="30818">Motosuke Takahashi</person></staff>
+<staff gid="1271850743"><task>Animation Director</task><person id="38405">Saburô Kuroda</person></staff>
+<staff gid="1012550567"><task>Animation Director</task><person id="44804">Kyôko Takagi</person></staff>
+<staff gid="2300164148"><task>Animation Director</task><person id="44805">Kantarô Asa</person></staff>
+<staff gid="1237618118"><task>Sound Director</task><person id="2228">Shigeharu Shiba</person></staff>
+<staff gid="1625184417"><task>Producer</task><person id="637">Yuji Nunokawa</person></staff>
+<staff gid="2696716893"><task>Producer</task><person id="38370">Takao Inoue</person></staff>
+<cast gid="2120500320" lang="EN"><role>Ataru</role><person id="2555">Michael Sinterniklaas</person></cast>
+<cast gid="3030202081" lang="EN"><role>Lum</role><person id="3980">Martha Ellen Senseney</person></cast>
+<cast gid="13300350" lang="EN"><role>Shinobu</role><person id="3989">Katherine Burton</person></cast>
+<cast gid="1003997992" lang="EN"><role>Sakuramboo (Cherry)</role><person id="3990">Eric Paisley</person></cast>
+<cast gid="2499189571" lang="EN"><role>Ten</role><person id="3993">Mindi L. Lyons</person></cast>
+<cast gid="1838443390" lang="EN"><role>Megane / Satoshi</role><person id="10886">Marc Garber</person></cast>
+<cast gid="1154190377" lang="EN"><role>Perm / Kosuke</role><person id="32646">Jonathan Guggenheim</person></cast>
+<cast gid="2232472815" lang="EN"><role>Ran</role><person id="67791">Andrea Kwan</person></cast>
+<cast gid="2303326461" lang="EN"><role>Ataru Moroboshi</role><person id="70281">Candice Moore</person></cast>
+<cast gid="1936537539" lang="EN"><role>Lum</role><person id="70283">Claudia Thompson</person></cast>
+<cast gid="2484152639" lang="EN"><role>Shutaro Mendo</role><person id="70285">Russell Wait</person></cast>
+<cast gid="3618810704" lang="ES"><role>Cherry</role><person id="32819">Rafael Calvo</person></cast>
+<cast gid="476835184" lang="ES"><role>Lum (Lamu)</role><person id="47702">Marta Sáinz</person></cast>
+<cast gid="1226587513" lang="ES"><role>Ryûno Fujinami</role><person id="47715">Pilar Dominguez</person></cast>
+<cast gid="2747557525" lang="ES"><role>Shinobu Miyake</role><person id="47739">Pepa Agudo</person></cast>
+<cast gid="1405920870" lang="ES"><role>Gafitas (Megane)</role><person id="47744">José María Carrero</person></cast>
+<cast gid="2043224789" lang="ES"><role>Sr. Moroboshi</role><person id="47745">Francisco Andrés Valdivia</person></cast>
+<cast gid="1061498900" lang="ES"><role>Sra. Moroboshi</role><person id="47746">Carolina Tak</person></cast>
+<cast gid="1565587695" lang="ES"><role>Ran</role><person id="47756">Raquel Martín</person></cast>
+<cast gid="2067604474" lang="ES"><role>Gorila (Kakugari)</role><person id="50383">Jorge Teixeira</person></cast>
+<cast gid="1160569205" lang="ES"><role>Shutaro Mendo</role><person id="50565">Joan Pera</person></cast>
+<cast gid="3218354895" lang="ES"><role>Ten</role><person id="50622">Blanca Rada</person></cast>
+<cast gid="3515083600" lang="ES"><role>Ataru Moroboshi</role><person id="50627">Rais David Báscones</person></cast>
+<cast gid="2837757090" lang="ES"><role>Shûtarô Mendô</role><person id="50848">Juan Rueda</person></cast>
+<cast gid="1830321139" lang="ES"><role>Tapón (Chibi)</role><person id="50848">Juan Rueda</person></cast>
+<cast gid="2205923600" lang="ES"><role>Shutaro Mendo</role><person id="52329">Joaquim Sota</person></cast>
+<cast gid="2323248912" lang="ES"><role>Megane</role><person id="63184">Xavier Cassan</person></cast>
+<cast gid="2132423030" lang="ES"><role>Benten</role><person id="63188">Carme Canet</person></cast>
+<cast gid="1250262178" lang="ES"><role>Benten</role><person id="63270">Roser Contreras</person></cast>
+<cast gid="2456040021" lang="ES"><role>Lamu</role><person id="63310">Isabel Muntaner</person></cast>
+<cast gid="1162116728" lang="ES"><role>Benten</role><person id="63313">Pilar Morales</person></cast>
+<cast gid="805089879" lang="ES"><role>Ataru Moroboshi</role><person id="63316">Carme Capdet</person></cast>
+<cast gid="1248387683" lang="ES"><role>Oyuki</role><person id="64474">Rosa Aguado</person></cast>
+<cast gid="1965286407" lang="ES"><role>Ten</role><person id="105338">Rosa Nualart</person></cast>
+<cast gid="2866895117" lang="ES"><role>Ataru Moroboshi</role><person id="113410">Raquel Capdet</person></cast>
+<cast gid="2690137155" lang="ES"><role>Shinobu Miyake</role><person id="113411">Esther Artero</person></cast>
+<cast gid="2422348356" lang="ES"><role>Lan (Ran)</role><person id="114390">Amèlia Ambrós</person></cast>
+<cast gid="1252740221" lang="ES"><role>Cherry</role><person id="114391">Pep Ballester</person></cast>
+<cast gid="2862799510" lang="ES"><role>Kakugari</role><person id="114392">Quim Mesalles</person></cast>
+<cast gid="3330923371" lang="FR"><role>Mendo</role><person id="27773">Maurice Sarfati</person></cast>
+<cast gid="1894019501" lang="FR"><role>Ronny Ataru</role><person id="28740">Marie-Laure Beneston</person></cast>
+<cast gid="2789179107" lang="FR"><role>Ten</role><person id="29388">Magali Barney</person></cast>
+<cast gid="2079005662" lang="FR"><role>Lamu</role><person id="57221">Nathaniele Esther</person></cast>
+<cast gid="524247704" lang="IT"><role>Ataru Moroboshi</role><person id="8999">Fabrizio Manfredi</person></cast>
+<cast gid="1766935672" lang="IT"><role>Chibi</role><person id="8999">Fabrizio Manfredi</person></cast>
+<cast gid="1994446625" lang="IT"><role>Kakugari</role><person id="8999">Fabrizio Manfredi</person></cast>
+<cast gid="1253357955" lang="IT"><role>Megane</role><person id="8999">Fabrizio Manfredi</person></cast>
+<cast gid="1215047064" lang="IT"><role>Perma</role><person id="8999">Fabrizio Manfredi</person></cast>
+<cast gid="2562062307" lang="IT"><role>Ryunosuke Fujinami</role><person id="15623">Gabriella Andreini</person></cast>
+<cast gid="2583704344" lang="IT"><role>Lamu (Lum)</role><person id="15787">Rosalinda Galli</person></cast>
+<cast gid="3387917821" lang="IT"><role>Kakugari</role><person id="18197">Oreste Baldini</person></cast>
+<cast gid="2546196421" lang="IT"><role>Mendo Shutaro</role><person id="18204">Giorgio Locuratolo</person></cast>
+<cast gid="3539750331" lang="IT"><role>Perma</role><person id="18204">Giorgio Locuratolo</person></cast>
+<cast gid="1284848591" lang="IT"><role>Mendo Shutaro</role><person id="25907">Luciano Marchitiello</person></cast>
+<cast gid="2387310369" lang="IT"><role>Chibi</role><person id="25912">Alessio Cigliano</person></cast>
+<cast gid="3839293408" lang="IT"><role>Mendo Shutaro</role><person id="25912">Alessio Cigliano</person></cast>
+<cast gid="2580265525" lang="IT"><role>Chibi</role><person id="25914">Massimiliano Manfredi</person></cast>
+<cast gid="3061447823" lang="IT"><role>Megane</role><person id="25914">Massimiliano Manfredi</person></cast>
+<cast gid="350499438" lang="IT"><role>Perma</role><person id="25914">Massimiliano Manfredi</person></cast>
+<cast gid="1002140742" lang="IT"><role>Ataru Moroboshi</role><person id="25915">Massimo Còrizza</person></cast>
+<cast gid="1554585226" lang="IT"><role>Chibi</role><person id="25915">Massimo Còrizza</person></cast>
+<cast gid="2928218030" lang="IT"><role>Kakugari</role><person id="25915">Massimo Còrizza</person></cast>
+<cast gid="1445286488" lang="IT"><role>Lamu (Lum)</role><person id="25934">Roberta Gallina Laurenti</person></cast>
+<cast gid="1685924895" lang="IT"><role>Ten</role><person id="25936">Lara Parmiani</person></cast>
+<cast gid="1594659551" lang="IT"><role>Megane</role><person id="25937">Marco Balzarotti</person></cast>
+<cast gid="1865328846" lang="IT"><role>Perma</role><person id="26003">Corrado Conforti</person></cast>
+<cast gid="1366145576" lang="IT"><role>Ataru Moroboshi</role><person id="26006">Riccardo Rossi</person></cast>
+<cast gid="1838040625" lang="IT"><role>Ran</role><person id="26007">Claudia Razzi</person></cast>
+<cast gid="2654285175" lang="IT"><role>Sakurambo</role><person id="26045">Giorgio Melazzi</person></cast>
+<cast gid="3404061829" lang="IT"><role>Megane</role><person id="26060">Vittorio Guerrieri</person></cast>
+<cast gid="2177222166" lang="IT"><role>Perma</role><person id="26115">Monica Cadueri</person></cast>
+<cast gid="1827560404" lang="IT"><role>Ran</role><person id="26115">Monica Cadueri</person></cast>
+<cast gid="2047391995" lang="IT"><role>Shinobu Miyake</role><person id="26115">Monica Cadueri</person></cast>
+<cast gid="1685838837" lang="IT"><role>Shinobu Miyake</role><person id="26130">Cinzia Massironi</person></cast>
+<cast gid="1989162946" lang="IT"><role>Ataru Moroboshi</role><person id="26131">Nicola Bartolini Carrassi</person></cast>
+<cast gid="1887838886" lang="IT"><role>Mendo Shutaro</role><person id="26161">Gianluca Iacono</person></cast>
+<cast gid="2053957399" lang="IT"><role>Megane</role><person id="26165">Fabio Boccanera</person></cast>
+<cast gid="1826903972" lang="IT"><role>Mendo Shutaro</role><person id="26165">Fabio Boccanera</person></cast>
+<cast gid="702474173" lang="IT"><role>Ryunosuke Fujinami</role><person id="26168">Laura Boccanera</person></cast>
+<cast gid="1300347249" lang="IT"><role>Shinobu Miyake</role><person id="26168">Laura Boccanera</person></cast>
+<cast gid="1897264338" lang="IT"><role>Ten</role><person id="26168">Laura Boccanera</person></cast>
+<cast gid="1572610951" lang="IT"><role>Chibi</role><person id="26185">Susanna Fassetta</person></cast>
+<cast gid="2042753219" lang="IT"><role>Ran</role><person id="26185">Susanna Fassetta</person></cast>
+<cast gid="1831916793" lang="IT"><role>Ryunosuke Fujinami</role><person id="26185">Susanna Fassetta</person></cast>
+<cast gid="767815033" lang="IT"><role>Shinobu Miyake</role><person id="26185">Susanna Fassetta</person></cast>
+<cast gid="1636374797" lang="IT"><role>Ten</role><person id="26185">Susanna Fassetta</person></cast>
+<cast gid="2286777281" lang="IT"><role>Chibi</role><person id="26243">Fabrizio Mazzotta</person></cast>
+<cast gid="1072720553" lang="IT"><role>Kakugari</role><person id="26243">Fabrizio Mazzotta</person></cast>
+<cast gid="3774864645" lang="IT"><role>Megane</role><person id="26243">Fabrizio Mazzotta</person></cast>
+<cast gid="1533361025" lang="IT"><role>Mendo Shutaro</role><person id="26243">Fabrizio Mazzotta</person></cast>
+<cast gid="2219706516" lang="IT"><role>Sakura</role><person id="26305">Serena Spaziani</person></cast>
+<cast gid="3503478387" lang="IT"><role>Kakugari</role><person id="26307">Angelo Nicotra</person></cast>
+<cast gid="2755769630" lang="IT"><role>Sakurambo</role><person id="26307">Angelo Nicotra</person></cast>
+<cast gid="4250660014" lang="IT"><role>Ataru Moroboshi</role><person id="26369">Alessandro Tiberi</person></cast>
+<cast gid="1757760696" lang="IT"><role>Ten</role><person id="26375">Isa Di Marzio</person></cast>
+<cast gid="1466452070" lang="IT"><role>Chibi</role><person id="26382">Stefano Onofri</person></cast>
+<cast gid="2017579679" lang="IT"><role>Megane</role><person id="26382">Stefano Onofri</person></cast>
+<cast gid="706694626" lang="IT"><role>Mendo Shutaro</role><person id="26382">Stefano Onofri</person></cast>
+<cast gid="2486036351" lang="IT"><role>Perma</role><person id="26382">Stefano Onofri</person></cast>
+<cast gid="1622001357" lang="IT"><role>Ryunosuke Fujinami</role><person id="26385">Gilberta Crispino</person></cast>
+<cast gid="2431121103" lang="IT"><role>Kakugari</role><person id="26390">Aldo Stella</person></cast>
+<cast gid="3222671428" lang="IT"><role>Chibi</role><person id="26545">Pasquale Ruiu</person></cast>
+<cast gid="1690606706" lang="IT"><role>Ran</role><person id="26559">Graziella Polesinanti</person></cast>
+<cast gid="1930886289" lang="IT"><role>Ataru Moroboshi</role><person id="26561">Mino Caprio</person></cast>
+<cast gid="3645615517" lang="IT"><role>Megane</role><person id="26561">Mino Caprio</person></cast>
+<cast gid="1561327782" lang="IT"><role>Megane</role><person id="26584">Stefano Mondini</person></cast>
+<cast gid="553589688" lang="IT"><role>Sakura</role><person id="27034">Emanuela Baroni</person></cast>
+<cast gid="880047776" lang="IT"><role>Sakurambo</role><person id="27178">Dante Biagioni</person></cast>
+<cast gid="3889746605" lang="IT"><role>Ten</role><person id="27424">Tatiana Dessi</person></cast>
+<cast gid="2057883092" lang="IT"><role>Megane</role><person id="27601">Luca Dal Fabbro</person></cast>
+<cast gid="3772693751" lang="IT"><role>Mendo Shutaro</role><person id="27601">Luca Dal Fabbro</person></cast>
+<cast gid="2255318749" lang="IT"><role>Sakurambo</role><person id="27601">Luca Dal Fabbro</person></cast>
+<cast gid="2861369385" lang="IT"><role>Chibi</role><person id="27631">Christian Fassetta</person></cast>
+<cast gid="1979651907" lang="IT"><role>Mendo Shutaro</role><person id="27631">Christian Fassetta</person></cast>
+<cast gid="1085239376" lang="IT"><role>Perma</role><person id="27631">Christian Fassetta</person></cast>
+<cast gid="878338921" lang="IT"><role>Shinobu Miyake</role><person id="28105">Ludovica Marineo</person></cast>
+<cast gid="1596510501" lang="IT"><role>Ryunosuke Fujinami</role><person id="28106">Renata Biserni</person></cast>
+<cast gid="3926119515" lang="IT"><role>Sakura</role><person id="28106">Renata Biserni</person></cast>
+<cast gid="3713054062" lang="IT"><role>Sakura</role><person id="28114">Roberta Rem</person></cast>
+<cast gid="2259522176" lang="IT"><role>Shinobu Miyake</role><person id="29556">Maria Letizia Scifoni</person></cast>
+<cast gid="2573864317" lang="IT"><role>Ran</role><person id="40724">Valeria Vidali</person></cast>
+<cast gid="690928779" lang="IT"><role>Kakugari</role><person id="53332">Mirko Mazzanti</person></cast>
+<cast gid="1772318583" lang="IT"><role>Megane</role><person id="53524">Gabriele Lopez</person></cast>
+<cast gid="2069968465" lang="IT"><role>Chibi</role><person id="53695">Luca Ferrante</person></cast>
+<cast gid="1904485192" lang="IT"><role>Perma</role><person id="53699">George Castiglia</person></cast>
+<cast gid="3174042627" lang="IT"><role>Lamu (Lum)</role><person id="61218">Paola Quattrini</person></cast>
+<cast gid="2434160218" lang="JA"><role>Ataru's father</role><person id="284">Kenichi Ogata</person></cast>
+<cast gid="3793542137" lang="JA"><role>Ryuunosuke Fujinami</role><person id="301">Mayumi Tanaka</person></cast>
+<cast gid="3075181955" lang="JA"><role>Onsen-mark</role><person id="426">Michihiro Ikemizu</person></cast>
+<cast gid="3991907520" lang="JA"><role>Megane</role><person id="427">Shigeru Chiba</person></cast>
+<cast gid="2477867619" lang="JA"><role>Benten</role><person id="928">Yuko Mita</person></cast>
+<cast gid="1921298452" lang="JA"><role>Ataru Moroboshi</role><person id="1011">Toshio Furukawa</person></cast>
+<cast gid="265103655" lang="JA"><role>Chibi</role><person id="1015">Issei Futamata</person></cast>
+<cast gid="510625421" lang="JA"><role>Cherry</role><person id="1529">Ichirô Nagai</person></cast>
+<cast gid="1977633823" lang="JA"><role>Ten</role><person id="1533">Kazuko Sugiyama</person></cast>
+<cast gid="518387633" lang="JA"><role>Shinobu Miyake</role><person id="1582">Saeko Shimazu</person></cast>
+<cast gid="1199978720" lang="JA"><role>Shuutarou Mendou</role><person id="1583">Akira Kamiya</person></cast>
+<cast gid="479448366" lang="JA"><role>Ran</role><person id="1585">Kazue Komiya</person></cast>
+<cast gid="1136020008" lang="JA"><role>Lum</role><person id="1662">Fumi Hirano</person></cast>
+<cast gid="1456239890" lang="JA"><role>Sakura</role><person id="2107">Machiko Washio</person></cast>
+<cast gid="1246248304" lang="JA"><role>Kakugari</role><person id="2765">Shinji Nomura</person></cast>
+<cast gid="1573080770" lang="JA"><role>Ran</role><person id="3408">You Inoue</person></cast>
+<cast gid="3751035096" lang="JA"><role>Oyuki</role><person id="3410">Noriko Ohara</person></cast>
+<cast gid="792787003" lang="JA"><role>Ataru's Mother</role><person id="3411">Natsumi Sakuma</person></cast>
+<cast gid="343720975" lang="JA"><role>Perm</role><person id="5023">Akira Murayama</person></cast>
+<cast gid="1908013784" lang="PT"><role>Lum</role><person id="48871">Cecília Lemes</person></cast>
+<cast gid="3020412544" lang="PT"><role>Ataru Moroboshi</role><person id="48883">Orlando Vigiani</person></cast>
+<cast gid="1222946549" lang="PT"><role>Ataru Moroboshi</role><person id="52571">Orlando Viggiani</person></cast>
+<credit gid="2322594881"><task>Animation Production</task><company id="35">Studio DEEN</company></credit>
+<credit gid="1664793689"><task>Animation Production</task><company id="118">Pierrot</company></credit>
+<credit gid="1202909663"><task>Production</task><company id="162">Fuji TV</company></credit>
+<credit gid="1005466727"><task>Production</task><company id="771">Kitty Films</company></credit></anime></ann>

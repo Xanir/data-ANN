@@ -1,0 +1,784 @@
+<ann><anime id="10604" gid="1735879400" type="TV" name="Kaasan - Mom's Life" precision="TV" generated-on="2016-03-27T03:14:47Z">
+<related-prev rel="adapted from" id="5885"/>
+<info gid="2338828584" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A10604-3.jpg" width="200" height="200"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A10604-3.jpg" width="200" height="200"/><img src="http://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A10604-3.jpg" width="370" height="370"/></info>
+<info gid="1914088756" type="Main title" lang="EN">Kaasan - Mom's Life</info>
+<info gid="995050083" type="Alternative title" lang="JA">Mainichi Kaa-san</info>
+<info gid="1936710972" type="Alternative title" lang="ZH-TW">元氣媽媽</info>
+<info gid="3196387825" type="Alternative title" lang="JA">毎日かあさん</info>
+<info gid="3847457282" type="Genres">comedy</info>
+<info gid="3494318497" type="Genres">slice of life</info>
+<info gid="2601136219" type="Running time">25</info>
+<info gid="3031365314" type="Vintage">2009-04-01</info>
+<info gid="1947527188" type="Opening Theme">#1: &quot;Mainichi Kaa-san&quot; by Mori Kumiko</info>
+<info gid="2826953965" type="Opening Theme">#2: &quot;Aruite Yukou&quot; by Billiken</info>
+<info gid="2504307619" type="Ending Theme">#1: &quot;Tadaima&quot; by Satou Hiromichi</info>
+<info gid="2085812567" type="Ending Theme">#2: &quot;Kaa-san no Senaka&quot; by Billiken</info>
+<info gid="1244027985" type="Official website" lang="JA" href="http://www.tv-tokyo.co.jp/anime/kasan/">テレビ東京・あにてれ 毎日かあさん</info>
+<info gid="3033909405" type="Official website" lang="JA" href="http://www.kaasan.jp/">毎日かあさん元気広場</info>
+<ratings nb_votes="22" weighted_score="7.2665" bayesian_score="7.36173"/>
+<episode num="1">
+<title part="A" gid="2253694168" lang="JA">uke ta</title>
+<title part="B" gid="911966749" lang="JA">taiyou nihoero</title>
+<title part="C" gid="3013606924" lang="JA">goaisatsu</title>
+<title part="D" gid="873488736" lang="JA">kani haha</title>
+<title part="E" gid="2831529591" lang="JA">meuru</title>
+<title gid="1067179615" lang="JA">becchori</title></episode>
+<episode num="2">
+<title part="A" gid="2475476784" lang="JA">mangaka kaasan</title>
+<title part="B" gid="2060360458" lang="JA">mangaka kaasan ooisogashi</title>
+<title part="C" gid="3897625587" lang="JA">kanroku</title>
+<title part="D" gid="1878791039" lang="JA">byutsu</title></episode>
+<episode num="3">
+<title part="A" gid="1978063824" lang="JA">seirei kourin</title>
+<title part="B" gid="1766043234" lang="JA">seirei no gyakushuu</title>
+<title part="C" gid="1707589726" lang="JA">watashiwomite !</title>
+<title part="D" gid="1197429063" lang="JA">kyoudai</title></episode>
+<episode num="4">
+<title part="A" gid="2448957501" lang="JA">bazaaha taihen</title>
+<title part="B" gid="4155370589" lang="JA">dotou no hoikuen</title>
+<title part="C" gid="1334003045" lang="JA">moushimasen</title>
+<title part="D" gid="2193420239" lang="JA">tenohira</title></episode>
+<episode num="5">
+<title part="A" gid="315539241" lang="JA">ore ha kaeru ze</title>
+<title part="B" gid="2975498687" lang="JA">somosomone</title>
+<title part="C" gid="2255297796" lang="JA">umaizo</title>
+<title part="D" gid="3092388502" lang="JA">issho</title></episode>
+<episode num="6">
+<title part="A" gid="1734932188" lang="JA">jiichan</title>
+<title part="B" gid="2212835228" lang="JA">kihon desu</title>
+<title part="C" gid="3585822194" lang="JA">shuki</title>
+<title part="D" gid="1547329208" lang="JA">basshin</title></episode>
+<episode num="7">
+<title part="A" gid="4057562377" lang="JA">gobogobo</title>
+<title part="B" gid="1876321512" lang="JA">warukunai</title>
+<title part="C" gid="2893154718" lang="JA">kaijuu</title>
+<title part="D" gid="570582534" lang="JA">puttsun</title></episode>
+<episode num="8">
+<title part="A" gid="2290926619" lang="JA">o kataduke</title>
+<title part="B" gid="1646156595" lang="JA">kuku</title>
+<title part="C" gid="1579808558" lang="JA">yaru ki</title>
+<title part="D" gid="1864183643" lang="JA">yaru ki dasu</title></episode>
+<episode num="9">
+<title part="A" gid="1170742502" lang="JA">shirugadeta</title>
+<title part="B" gid="1912076068" lang="JA">yappari , muri !</title>
+<title part="C" gid="1122468139" lang="JA">randoseru</title>
+<title part="D" gid="2274783576" lang="JA">yume</title></episode>
+<episode num="10">
+<title part="A" gid="2434806733" lang="JA">dassou</title>
+<title part="B" gid="2634864490" lang="JA">inuhasoto</title>
+<title part="C" gid="876038391" lang="JA">wagahaihainudearu</title>
+<title part="D" gid="3305133595" lang="JA">mata dassou</title></episode>
+<episode num="11">
+<title part="A" gid="1552718145" lang="JA">isogashii</title>
+<title part="B" gid="1636858981" lang="JA">otokonoko nookaasan</title>
+<title part="C" gid="1581923018" lang="JA">sou , sore !</title>
+<title part="D" gid="2564566599" lang="JA">daidokoro</title></episode>
+<episode num="12">
+<title part="A" gid="2053583911" lang="JA">saa kue</title>
+<title part="B" gid="287514777" lang="JA">kaikin</title>
+<title part="C" gid="4177883695" lang="JA">o mae gawarui</title>
+<title part="D" gid="2685409302" lang="JA">oya no senaka</title></episode>
+<episode num="13">
+<title part="A" gid="1764985985" lang="JA">shiteyattari</title>
+<title part="B" gid="2454040674" lang="JA">metsu</title>
+<title part="C" gid="3700927477" lang="JA">utsurundesu</title>
+<title part="D" gid="3009909651" lang="JA">yomichi</title></episode>
+<episode num="14">
+<title part="A" gid="1293933518" lang="JA">hito kufuu</title>
+<title part="B" gid="2059481256" lang="JA">kono nichi dakeha !</title>
+<title part="C" gid="1673572416" lang="JA">mou iya</title>
+<title part="D" gid="3595528172" lang="JA">semi no koe</title></episode>
+<episode num="15">
+<title part="A" gid="1709248910" lang="JA">natsuyasumi ha owa ranai</title>
+<title part="B" gid="1990454269" lang="JA">mada natsuyasumi ha owa ranai</title>
+<title part="C" gid="1099948225" lang="JA">madamada natsuyasumi ha owa ranai</title>
+<title part="D" gid="2940405386" lang="JA">madamadamada natsuyasumi ha owa ranai</title></episode>
+<episode num="16">
+<title part="A" gid="1895503793" lang="JA">furusato</title>
+<title part="B" gid="2111420543" lang="JA">azuki arai</title>
+<title part="C" gid="2754959143" lang="JA">chichi no namae</title>
+<title part="D" gid="2039850967" lang="JA">aoi tokoro</title></episode>
+<episode num="17">
+<title part="A" gid="658506399" lang="JA">tsui teru ?</title>
+<title part="B" gid="2505287925" lang="JA">nite ru ?</title>
+<title part="C" gid="941458778" lang="JA">homedokoro ?</title>
+<title part="D" gid="1436647328" lang="JA">ushiro sugata</title></episode>
+<episode num="18">
+<title part="A" gid="2928387772" lang="JA">abura wonosete</title>
+<title part="B" gid="3606657024" lang="JA">satori</title>
+<title part="C" gid="2303231261" lang="JA">baabekyuu</title>
+<title part="D" gid="2400539724" lang="JA">shinyuu</title></episode>
+<episode num="19">
+<title part="A" gid="1509586452" lang="JA">sakusen</title>
+<title part="B" gid="1494243273" lang="JA">shiohigari</title>
+<title part="C" gid="2134652485" lang="JA">otamasukui</title>
+<title part="D" gid="1651076302" lang="JA">shou kaasan</title></episode>
+<episode num="20">
+<title part="A" gid="259861609" lang="JA">ashitakara</title>
+<title part="B" gid="2785548931" lang="JA">chantoashitakara</title>
+<title part="C" gid="2143998757" lang="JA">yoru noohanashi</title>
+<title part="D" gid="3944834351" lang="JA">zeitakuna nayami</title></episode>
+<episode num="21">
+<title part="A" gid="3287972391" lang="JA">choppu</title>
+<title part="B" gid="2264709319" lang="JA">naritai</title>
+<title part="C" gid="2399223547" lang="JA">kaasanno chiebukuro ~ sentaku hen ~</title>
+<title part="D" gid="1751555644" lang="JA">ngyaa , gabatsu</title>
+<title part="E" gid="1333792477" lang="JA">o kura dashi</title></episode>
+<episode num="22">
+<title part="A" gid="3144255023" lang="JA">dokedokedoke</title>
+<title part="B" gid="2440612251" lang="JA">biimu</title>
+<title part="C" gid="267566632" lang="JA">takaramono</title>
+<title part="D" gid="1695793948" lang="JA">nakayoshi</title></episode>
+<episode num="23">
+<title part="A" gid="2447314448" lang="JA">ameagari no zou</title>
+<title part="B" gid="835797629" lang="JA">kuchigenka</title>
+<title part="C" gid="2048116440" lang="JA">kie takaasan</title>
+<title part="D" gid="3195233951" lang="JA">matsuri no yoru</title></episode>
+<episode num="24">
+<title part="A" gid="1297043423" lang="JA">bunjino himitsu</title>
+<title part="B" gid="632471831" lang="JA">bunji , ichinensei</title>
+<title part="C" gid="1704394004" lang="JA">saigo no kani haha</title>
+<title part="D" gid="2806005231" lang="JA">aa hoikuen</title></episode>
+<episode num="25">
+<title part="A" gid="2744389297" lang="JA">danshi tarumono</title>
+<title part="B" gid="360456469" lang="JA">san baka</title>
+<title part="C" gid="1725418871" lang="JA">onna no tan'i</title>
+<title part="D" gid="3501168013" lang="JA">utataneheno michi</title></episode>
+<episode num="26">
+<title part="A" gid="2991635419" lang="JA">jaritsu page</title>
+<title part="B" gid="1951932661" lang="JA">heso no goma</title>
+<title part="C" gid="425903108" lang="JA">suusuu</title>
+<title part="D" gid="3344552567" lang="JA">bouizutouku</title></episode>
+<episode num="27">
+<title part="A" gid="2657093159" lang="JA">kasa wosase !</title>
+<title part="B" gid="1791623094" lang="JA">shiritori</title>
+<title part="C" gid="3609441764" lang="JA">harouin</title>
+<title part="D" gid="741065150" lang="JA">najimazu</title></episode>
+<episode num="28">
+<title part="A" gid="1843945772" lang="JA">daichi kun</title>
+<title part="B" gid="1831699209" lang="JA">aa , kanji</title>
+<title part="C" gid="2778643699" lang="JA">touhi</title>
+<title part="D" gid="2646941499" lang="JA">haji rai</title></episode>
+<episode num="29">
+<title part="A" gid="2098373666" lang="JA">mugi chan 5 toujou !</title>
+<title part="B" gid="1924876187" lang="JA">pikunikku</title>
+<title part="C" gid="1453617763" lang="JA">mugi channo himitsu</title>
+<title part="D" gid="2339288699" lang="JA">shina nakuteyokatta</title></episode>
+<episode num="30">
+<title part="A" gid="3390711451" lang="JA">dokusho jikan</title>
+<title part="B" gid="2287412295" lang="JA">kanji</title>
+<title part="C" gid="1086916385" lang="JA">ninpou musume</title>
+<title part="D" gid="942326862" lang="JA">otsukai</title></episode>
+<episode num="31">
+<title part="A" gid="2291557146" lang="JA">ikeike bunjiman</title>
+<title part="B" gid="2581573059" lang="JA">musuko yo , dokoni ...</title>
+<title part="C" gid="1985113811" lang="JA">gasa ire</title>
+<title part="D" gid="1980658844" lang="JA">bunjino totsugeki tomodachi nchino ban go meshi</title></episode>
+<episode num="32">
+<title part="A" gid="1706878090" lang="JA">tsuduko domo no jikan</title>
+<title part="B" gid="997925500" lang="JA">noreta !</title>
+<title part="C" gid="2562684786" lang="JA">otouto ?</title>
+<title part="D" gid="3258520149" lang="JA">hikizan</title>
+<title part="E" gid="974338204" lang="JA">hikizan no gyakushuu</title>
+<title gid="2951118578" lang="JA">kodomo no jikan</title></episode>
+<episode num="33">
+<title part="A" gid="1082838411" lang="JA">zattsu . suupaa sentou</title>
+<title part="B" gid="3551342338" lang="JA">omamagoto</title>
+<title part="C" gid="2781071337" lang="JA">kun ga tayori da</title>
+<title part="D" gid="737340464" lang="JA">manga ie san</title></episode>
+<episode num="34">
+<title part="A" gid="956660199" lang="JA">shiro fumichan kuro fumichan</title>
+<title part="B" gid="473370402" lang="JA">hare butai</title>
+<title part="C" gid="3090421668" lang="JA">oomachigai</title>
+<title part="D" gid="1543463475" lang="JA">baka taishou</title></episode>
+<episode num="35">
+<title part="A" gid="2799546665" lang="JA">ikeike bunjiman 2</title>
+<title part="B" gid="1757755329" lang="JA">haha tachinoo chakai</title>
+<title part="C" gid="2050532335" lang="JA">otoko no kyuujitsu</title>
+<title part="D" gid="3301682031" lang="JA">yokubou tsuri^</title></episode>
+<episode num="36">
+<title part="A" gid="323413636" lang="JA">nige rokaasan !</title>
+<title part="B" gid="1235817044" lang="JA">tensai gei</title>
+<title part="C" gid="1976128695" lang="JA">yukigassen</title>
+<title part="D" gid="1763266515" lang="JA">nen no owari ni</title></episode>
+<episode num="37">
+<title part="A" gid="1861575361" lang="JA">gantan</title>
+<title part="B" gid="2822601276" lang="JA">hanetsuki</title>
+<title part="C" gid="1202920435" lang="JA">mochi umaine</title>
+<title part="D" gid="1831431839" lang="JA">mazui</title></episode>
+<episode num="38">
+<title part="A" gid="1530057873" lang="JA">doubutsuen</title>
+<title part="B" gid="1803596602" lang="JA">yasei nosakebi</title>
+<title part="C" gid="3750746881" lang="JA">otoko no soukikyouiku</title>
+<title part="D" gid="1200427178" lang="JA">daikoubutsu</title></episode>
+<episode num="39">
+<title part="A" gid="3276339588" lang="JA">ikeike bunjiman 3</title>
+<title part="B" gid="1337661542" lang="JA">pui chan , pii chan</title>
+<title part="C" gid="1253124717" lang="JA">shakai kengaku</title>
+<title part="D" gid="1951752751" lang="JA">kansatsu nikki</title></episode>
+<episode num="40">
+<title part="A" gid="1924920891" lang="JA">bunjino totsugeki ! tomodachi nchino bangohan 2</title>
+<title part="B" gid="1594027590" lang="JA">tsuitachi kaasan</title>
+<title part="C" gid="3647486447" lang="JA">mini ikouka</title>
+<title part="D" gid="1496202709" lang="JA">chichi no senaka</title></episode>
+<episode num="41">
+<title part="A" gid="2207014136" lang="JA">dojjibouru</title>
+<title part="B" gid="3504061138" lang="JA">nanka ko^fun</title>
+<title part="C" gid="2259620829" lang="JA">yoshuu</title>
+<title part="D" gid="2730971179" lang="JA">o tanjoukai</title></episode>
+<episode num="42">
+<title part="A" gid="2541540195" lang="JA">maboroshi</title>
+<title part="B" gid="2854600124" lang="JA">13 - 7 =?</title>
+<title part="C" gid="1644627249" lang="JA">oni ha soto</title>
+<title part="D" gid="2095039796" lang="JA">tacchi</title></episode>
+<episode num="43">
+<title part="A" gid="1221072713" lang="JA">chichioya yuzuri</title>
+<title part="B" gid="1327161960" lang="JA">otoko no kyoushitsu</title>
+<title part="C" gid="2450934797" lang="JA">shiroi sukaato</title>
+<title part="D" gid="2615990119" lang="JA">mei joyuu</title></episode>
+<episode num="44">
+<title part="A" gid="3353287007" lang="JA">pinyarikun</title>
+<title part="B" gid="3211340893" lang="JA">oneechan</title>
+<title part="C" gid="1208109260" lang="JA">haihiiru</title>
+<title part="D" gid="2779373981" lang="JA">rikei do</title></episode>
+<episode num="45">
+<title part="A" gid="1629683170" lang="JA">asa pparakara</title>
+<title part="B" gid="3194595752" lang="JA">kareu</title>
+<title part="C" gid="1821596284" lang="JA">kame reusu</title>
+<title part="D" gid="2288595248" lang="JA">howaitodeu soudou</title></episode>
+<episode num="46">
+<title part="A" gid="1811596731" lang="JA">kinshu</title>
+<title part="B" gid="2046846975" lang="JA">yutori</title>
+<title part="C" gid="1584293144" lang="JA">otoko no senaka</title>
+<title part="D" gid="2647699000" lang="JA">shashin</title></episode>
+<episode num="47">
+<title part="A" gid="1757410502" lang="JA">dokokara</title>
+<title part="B" gid="1824542183" lang="JA">o kura dashi</title>
+<title part="C" gid="2242142223" lang="JA">battaman gokko</title>
+<title part="D" gid="2823137719" lang="JA">kodomono tobira</title></episode>
+<episode num="48">
+<title part="A" gid="2480301617" lang="JA">paama ya san</title>
+<title part="B" gid="2262410130" lang="JA">yashi no jitsubai ri</title>
+<title part="C" gid="1627809267" lang="JA">toirezappun mizuumi</title>
+<title part="D" gid="1308655856" lang="JA">kanbojia daisuki</title></episode>
+<episode num="49">
+<title part="A" gid="2982565021" lang="JA">4 tsui 1</title>
+<title part="B" gid="3571432523" lang="JA">onimotsurensa</title>
+<title part="C" gid="1163158390" lang="JA">suizokukan</title>
+<title part="D" gid="1970424239" lang="JA">sakana ha sakana</title></episode>
+<episode num="50">
+<title part="A" gid="4130912688" lang="JA">gakkou e no michi</title>
+<title part="B" gid="3783098652" lang="JA">kyuushoku</title>
+<title part="C" gid="2479877104" lang="JA">mazui raamen ya</title>
+<title part="D" gid="2911517318" lang="JA">pii pii ana</title></episode>
+<episode num="51">
+<title part="A" gid="2431853224" lang="JA">chimaki soudou</title>
+<title part="B" gid="2980040808" lang="JA">uchuu no houkai</title>
+<title part="C" gid="1149478496" lang="JA">haru to dorodoro</title>
+<title part="D" gid="2046255991" lang="JA">otama resukyuu tai</title></episode>
+<episode num="52">
+<title part="A" gid="1334524170" lang="JA">o tomari kai</title>
+<title part="B" gid="3263225320" lang="JA">chichi noudon'a ratame , haha no suiton</title>
+<title part="C" gid="3418423045" lang="JA">tsume houdai</title>
+<title part="D" gid="1172944466" lang="JA">suki</title></episode>
+<episode num="53">
+<title part="A" gid="701099467" lang="JA">undoukai</title>
+<title part="B" gid="3187295706" lang="JA">nigero !</title>
+<title part="C" gid="3619510092" lang="JA">mede korosu</title>
+<title part="D" gid="3034443387" lang="JA">hashirehashire !</title></episode>
+<episode num="54">
+<title part="A" gid="1049444283" lang="JA">zarigani</title>
+<title part="B" gid="3763882870" lang="JA">chichi no junshin</title>
+<title part="C" gid="1602809993" lang="JA">uchuu hikoushi</title>
+<title part="D" gid="1675233180" lang="JA">uchuu hikoushi ninaru</title></episode>
+<episode num="55">
+<title part="A" gid="2601245011" lang="JA">hatsukoi ..., fumi</title>
+<title part="B" gid="3717912519" lang="JA">hatsukoi ..., bunji</title>
+<title part="C" gid="1140623022" lang="JA">otamapyon</title>
+<title part="D" gid="1904070193" lang="JA">fuufu ai</title></episode>
+<episode num="56">
+<title part="A" gid="3399900363" lang="JA">densetsu no karii</title>
+<title part="B" gid="1542645501" lang="JA">baachanno koi</title>
+<title part="C" gid="3631100466" lang="JA">ha ganuketa</title>
+<title part="D" gid="3862889392" lang="JA">futari deotsukai</title></episode>
+<episode num="57">
+<title part="A" gid="2197664786" lang="JA">asagohan</title>
+<title part="B" gid="2260558644" lang="JA">sakkaa sama</title>
+<title part="C" gid="1548991911" lang="JA">chichi no nichi ..., tte ?</title>
+<title part="D" gid="2246512650" lang="JA">ame no nichi</title></episode>
+<episode num="58">
+<title part="A" gid="3191513489" lang="JA">bazaa</title>
+<title part="B" gid="937625382" lang="JA">shokunin waza</title>
+<title part="C" gid="2600942089" lang="JA">tsuwamono</title>
+<title part="D" gid="3384842899" lang="JA">uchiage</title></episode>
+<episode num="59">
+<title part="A" gid="990711988" lang="JA">ikeike bunjiman 4</title>
+<title part="B" gid="1979904812" lang="JA">shiroka kuroka</title>
+<title part="C" gid="2101674861" lang="JA">nakanaori</title>
+<title part="D" gid="2229720214" lang="JA">suranpu kaasan</title></episode>
+<episode num="60">
+<title part="A" gid="2587988277" lang="JA">daichi kunchideo benkyou</title>
+<title part="B" gid="2539416581" lang="JA">mottekaere</title>
+<title part="C" gid="2185327583" lang="JA">teiden</title>
+<title part="D" gid="2747182961" lang="JA">mada teiden</title></episode>
+<episode num="61">
+<title part="A" gid="544680683" lang="JA">safaripa^ku</title>
+<title part="B" gid="1247537279" lang="JA">tousan VS okita kun</title>
+<title part="C" gid="3074915799" lang="JA">ani to imouto</title>
+<title part="D" gid="2889589602" lang="JA">kaerimichi</title></episode>
+<episode num="62">
+<title part="A" gid="1023660475" lang="JA">kodomo no sekai</title>
+<title part="B" gid="2338387880" lang="JA">harukanaru yama nootakebi</title>
+<title part="C" gid="2600479541" lang="JA">kazoku daisakusen</title>
+<title part="D" gid="2219892582" lang="JA">fuufu no kaiwa</title></episode>
+<episode num="63">
+<title part="A" gid="1555520757" lang="JA">tesuto no yama</title>
+<title part="B" gid="2535857464" lang="JA">seireisan</title>
+<title part="C" gid="3324170403" lang="JA">hime nokokoro</title>
+<title part="D" gid="2518230828" lang="JA">mottainai kun</title></episode>
+<episode num="64">
+<title part="A" gid="3307994830" lang="JA">ochita</title>
+<title part="B" gid="2561060787" lang="JA">doubutsu</title>
+<title part="C" gid="4155163803" lang="JA">maegami</title>
+<title part="D" gid="843730419" lang="JA">natsu no shirase</title></episode>
+<episode num="65">
+<title part="A" gid="2993672716" lang="JA">oyako genka</title>
+<title part="B" gid="1011885806" lang="JA">ka</title>
+<title part="C" gid="1340563258" lang="JA">musume no youkyuu</title>
+<title part="D" gid="2051120420" lang="JA">tsukue no naka</title></episode>
+<episode num="66">
+<title part="A" gid="948761176" lang="JA">kosokoso</title>
+<title part="B" gid="1269425033" lang="JA">natsuyasumi</title>
+<title part="C" gid="3213666211" lang="JA">umibe no kyouiku</title>
+<title part="D" gid="2675498914" lang="JA">kaizokusen</title></episode>
+<episode num="67">
+<title part="A" gid="2672078743" lang="JA">kyoufu no gasshuku</title>
+<title part="B" gid="2376115723" lang="JA">guheu</title>
+<title part="C" gid="3050625811" lang="JA">amai zo</title>
+<title part="D" gid="2030714032" lang="JA">bunbun</title></episode>
+<episode num="68">
+<title part="A" gid="2422808996" lang="JA">muetai shounen</title>
+<title part="B" gid="2814465590" lang="JA">kabutogani</title>
+<title part="C" gid="2545759093" lang="JA">tetsudou kaasan</title>
+<title part="D" gid="1900934582" lang="JA">bunjinoo yomesan</title></episode>
+<episode num="69">
+<title part="A" gid="3623847987" lang="JA">zujou chuui</title>
+<title part="B" gid="1995004600" lang="JA">nuta ben</title>
+<title part="C" gid="1676126511" lang="JA">ai chan kantoku</title>
+<title part="D" gid="2940297459" lang="JA">oyako bakappuru</title></episode>
+<episode num="70">
+<title part="A" gid="2501393026" lang="JA">eigakan</title>
+<title part="B" gid="1287839704" lang="JA">o nakama</title>
+<title part="C" gid="870695244" lang="JA">5 baka</title>
+<title part="D" gid="1691651474" lang="JA">itsumademo</title></episode>
+<episode num="71">
+<title part="A" gid="1749826444" lang="JA">kyoufu no yoru</title>
+<title part="B" gid="1147730681" lang="JA">keutai tte ...</title>
+<title part="C" gid="2674906908" lang="JA">jikken</title>
+<title part="D" gid="2272690142" lang="JA">nigaoe</title></episode>
+<episode num="72">
+<title part="A" gid="2451803643" lang="JA">onna no ko pawaa</title>
+<title part="B" gid="1489321594" lang="JA">sunakku kaasan</title>
+<title part="C" gid="2991506986" lang="JA">zoku sunakku kaasan</title>
+<title part="D" gid="1291715398" lang="JA">geujitsu no aki</title></episode>
+<episode num="73">
+<title part="A" gid="1921842683" lang="JA">joshibu daietto</title>
+<title part="B" gid="2858889612" lang="JA">joshi touku</title>
+<title part="C" gid="1848744891" lang="JA">bou</title>
+<title part="D" gid="2727820793" lang="JA">ishi</title></episode>
+<episode num="74">
+<title part="A" gid="2092574131" lang="JA">kakiage</title>
+<title part="B" gid="2707534473" lang="JA">mugi shiki daietto</title>
+<title part="C" gid="1726776296" lang="JA">haha no uso</title>
+<title part="D" gid="2807189447" lang="JA">onaka no nakami</title></episode>
+<episode num="75">
+<title part="A" gid="1348291235" lang="JA">choi waru</title>
+<title part="B" gid="1281224406" lang="JA">dekiru otoko</title>
+<title part="C" gid="611946049" lang="JA">puripuri</title>
+<title part="D" gid="2266984669" lang="JA">iden</title></episode>
+<episode num="76">
+<title part="A" gid="1945918729" lang="JA">pinyarikun no gyakushuu</title>
+<title part="B" gid="3393443921" lang="JA">kodomo no kaze</title>
+<title part="C" gid="2805347677" lang="JA">otona no kaze</title>
+<title part="D" gid="2564745896" lang="JA">kekkon no jouken</title></episode>
+<episode num="77">
+<title part="A" gid="1334686270" lang="JA">onna no yuujou</title>
+<title part="B" gid="3424167757" lang="JA">oshaberi</title>
+<title part="C" gid="3354952706" lang="JA">o furo</title>
+<title part="D" gid="1087358780" lang="JA">okorinbo kaasan</title></episode>
+<episode num="78">
+<title part="A" gid="1862319093" lang="JA">guruguru</title>
+<title part="B" gid="1700842460" lang="JA">oyako</title>
+<title part="C" gid="2189277055" lang="JA">kimochi hawakaru</title>
+<title part="D" gid="3375007123" lang="JA">meron</title></episode>
+<episode num="79">
+<title part="A" gid="2752833638" lang="JA">omiai</title>
+<title part="B" gid="2054197241" lang="JA">oyobare</title>
+<title part="C" gid="1439346414" lang="JA">buumu</title>
+<title part="D" gid="3493673976" lang="JA">aki no sora</title></episode>
+<episode num="80">
+<title part="A" gid="2109428241" lang="JA">furii damu</title>
+<title part="B" gid="3121819688" lang="JA">osoushiki</title>
+<title part="C" gid="1590237740" lang="JA">aniyome</title>
+<title part="D" gid="1950851091" lang="JA">tadaima</title></episode>
+<episode num="81">
+<title part="A" gid="2650633215" lang="JA">kakkoyoute</title>
+<title part="B" gid="1676917947" lang="JA">kossetsu</title>
+<title part="C" gid="3586123660" lang="JA">manga ie bunji</title>
+<title part="D" gid="2668926511" lang="JA">hisohiso</title></episode>
+<episode num="82">
+<title part="A" gid="1345378205" lang="JA">ichi nichi ichizen aratame tsuitachi ichi men</title>
+<title part="B" gid="1691488120" lang="JA">kie tabunjitachi</title>
+<title part="C" gid="2035096518" lang="JA">kirakeshi</title>
+<title part="D" gid="3436376837" lang="JA">fumi , gyaru ninaru ?</title></episode>
+<episode num="83">
+<title part="A" gid="1162427897" lang="JA">shokuchuu shokubutsu</title>
+<title part="B" gid="1346592793" lang="JA">kouen debyuu</title>
+<title part="C" gid="2474150256" lang="JA">samuu i</title>
+<title part="D" gid="2059608438" lang="JA">santa sannio negai</title></episode>
+<episode num="84">
+<title part="A" gid="1934330311" lang="JA">mai zoku</title>
+<title part="B" gid="1708223202" lang="JA">bentou senshuken</title>
+<title part="C" gid="2389945702" lang="JA">rettsu , deisukasshon !</title>
+<title part="D" gid="743175838" lang="JA">iedeshoujo fumi</title></episode>
+<episode num="85">
+<title part="A" gid="1625640311" lang="JA">mugi ie no nazo</title>
+<title part="B" gid="3259694033" lang="JA">doresu</title>
+<title part="C" gid="2850623678" lang="JA">doriru yare doriru</title>
+<title part="D" gid="548186720" lang="JA">raamen no saigetsu</title></episode>
+<episode num="86">
+<title part="A" gid="983596387" lang="JA">kojuuto</title>
+<title part="B" gid="1523018127" lang="JA">jukusui naka</title>
+<title part="C" gid="2533506921" lang="JA">sonkei</title>
+<title part="D" gid="2484630643" lang="JA">doushi</title></episode>
+<episode num="87">
+<title part="A" gid="2113840070" lang="JA">inu mo aruke ba</title>
+<title part="B" gid="210533359" lang="JA">kan keiko</title>
+<title part="C" gid="3197499010" lang="JA">tousan no kamera</title>
+<title part="D" gid="2152478274" lang="JA">egao</title></episode>
+<episode num="88">
+<title part="A" gid="2098195780" lang="JA">ire kui</title>
+<title part="B" gid="3324383248" lang="JA">kani e no michi</title>
+<title part="C" gid="2578449411" lang="JA">rotenburo</title>
+<title part="D" gid="2842896942" lang="JA">fuyu no doubutsuen</title></episode>
+<episode num="89">
+<title part="A" gid="3089040687" lang="JA">shindafuri</title>
+<title part="B" gid="2134622561" lang="JA">furansowa</title>
+<title part="C" gid="2888310176" lang="JA">sukii</title>
+<title part="D" gid="149558176" lang="JA">dekkaidou</title></episode>
+<episode num="90">
+<title part="A" gid="1646591077" lang="JA">aso chan</title>
+<title part="B" gid="3649571470" lang="JA">futari no himitsu</title>
+<title part="C" gid="3304420606" lang="JA">ani , kitaru !</title>
+<title part="D" gid="2545692328" lang="JA">aka tonbo</title></episode>
+<episode num="91">
+<title part="A" gid="2234299876" lang="JA">aka zukinchan</title>
+<title part="B" gid="1905536627" lang="JA">karaage</title>
+<title part="C" gid="2852922763" lang="JA">aiaigasa</title>
+<title part="D" gid="2391982388" lang="JA">0 ten kinen</title></episode>
+<episode num="92">
+<title part="A" gid="2025252925" lang="JA">kaeru jikan</title>
+<title part="B" gid="3336136243" lang="JA">sewachoco</title>
+<title part="C" gid="3008380499" lang="JA">katsukare</title>
+<title part="D" gid="2868651354" lang="JA">おかえりなさい隊放送枠移動</title></episode>
+<episode num="93">
+<title part="A" gid="1556472165" lang="JA">cupid no ya</title>
+<title part="B" gid="2650037425" lang="JA">dare...?</title>
+<title part="C" gid="650909222" lang="JA">karai!</title>
+<title part="D" gid="2645152610" lang="JA">rojou no tensai</title></episode>
+<episode num="94">
+<title part="A" gid="3023011624" lang="JA">konkatsu</title>
+<title part="B" gid="2647890371" lang="JA">sodatsuna</title>
+<title part="C" gid="2260559822" lang="JA">dress no shita wa</title>
+<title part="D" gid="1559219830" lang="EN">Date</title></episode>
+<episode num="95">
+<title part="A" gid="1258115657" lang="JA">koko kara saki ga</title>
+<title part="B" gid="2466527459" lang="JA">kenka</title>
+<title part="C" gid="1960782486" lang="JA">JON to kaasan</title>
+<title part="D" gid="2275415593" lang="JA">neru</title></episode>
+<episode num="96">
+<title part="A" gid="1461706559" lang="EN">Beyonce</title>
+<title part="B" gid="3927189849" lang="JA">mugi minus 1</title>
+<title part="C" gid="2212050937" lang="EN">Borscht</title>
+<title part="D" gid="1306019181" lang="JA">okuradashi</title></episode>
+<episode num="97">
+<title part="A" gid="3120578179" lang="JA">pinyari tousan</title>
+<title part="B" gid="2472856127" lang="JA">otokonoko onnanoko</title>
+<title part="C" gid="3960201226" lang="JA">okaasan no hissatsuwaza</title>
+<title part="D" gid="2436201147" lang="JA">tousan vs kaasan</title></episode>
+<episode num="98">
+<title part="A" gid="2162447780" lang="JA">honto</title>
+<title part="B" gid="1743023578" lang="JA">uso uso</title>
+<title part="C" gid="1839894436" lang="JA">oyaji no tashinami</title>
+<title part="D" gid="1925941321" lang="JA">ame no hi no egao</title></episode>
+<episode num="99">
+<title part="A" gid="873633911" lang="JA">chiisai midori no ojisan</title>
+<title part="B" gid="1564011403" lang="EN">Produce</title>
+<title part="C" gid="1881262140" lang="EN">Button</title>
+<title part="D" gid="780286848" lang="JA">SUNAKKU tousan</title></episode>
+<episode num="100">
+<title part="A" gid="1272117906" lang="JA">nari kiri fumi</title>
+<title part="B" gid="1658601591" lang="JA">nari kiri bunji</title>
+<title part="C" gid="3053838143" lang="JA">tou-san kaizou</title>
+<title part="D" gid="4008073280" lang="JA">mijikai</title></episode>
+<episode num="101">
+<title part="A" gid="1438661891" lang="JA">pinyari 333</title>
+<title part="B" gid="2230310524" lang="JA">buriya-san</title>
+<title part="C" gid="2389546583" lang="JA">tou-san no deban</title>
+<title part="D" gid="2882819982" lang="JA">aso-chan to boku</title></episode>
+<episode num="102">
+<title part="A" gid="1049870854" lang="JA">FURIMA</title>
+<title part="B" gid="2322368991" lang="JA">FURIFURI MAMA</title>
+<title part="C" gid="3090050980" lang="JA">kaa-san no gyakushuu</title>
+<title part="D" gid="1780050821" lang="JA">tou-san no kyuujitsu</title></episode>
+<episode num="103">
+<title part="A" gid="2648758919" lang="JA">oppai</title>
+<title part="B" gid="3355976553" lang="JA">SEREBU... ?</title>
+<title part="C" gid="2570037785" lang="JA">SUUPAA tou-san</title>
+<title part="D" gid="2757833204" lang="JA">JON to MERII</title></episode>
+<episode num="104">
+<title part="A" gid="2273753008" lang="JA">chabashira</title>
+<title part="B" gid="772190223" lang="JA">KAMERAMAN</title>
+<title part="C" gid="3727352397" lang="JA">otoko doushi</title>
+<title part="D" gid="1712972762" lang="JA">otakara shoppu</title></episode>
+<episode num="105">
+<title part="A" gid="1405260310" lang="JA">akumu</title>
+<title part="B" gid="2151872616" lang="JA">otoko no genryou</title>
+<title part="C" gid="1042268192" lang="JA">kyouryuu haku e GO !</title>
+<title part="D" gid="1791803118" lang="JA">obaa-chan, to</title></episode>
+<episode num="106">
+<title part="A" gid="3020628123" lang="JA">pinyarino wakusei</title>
+<title part="B" gid="2829751446" lang="JA">mugi-chan okoru !</title>
+<title part="C" gid="1971841513" lang="JA">mugi-chan no gyakushuu</title>
+<title part="D" gid="1328549039" lang="JA">natsuyasumi</title></episode>
+<episode num="107">
+<title part="A" gid="2289524647" lang="JA">yubiwa no nedan</title>
+<title part="B" gid="1665798747" lang="JA">omaneki</title>
+<title part="C" gid="1018185444" lang="JA">shiro to kuro to ani</title>
+<title part="D" gid="2203642473" lang="JA">momoTARO ko</title></episode>
+<episode num="108">
+<title part="A" gid="2840336733" lang="JA">UTOUTO</title>
+<title part="B" gid="666723889" lang="JA">HETOHETO</title>
+<title part="C" gid="703368472" lang="JA">PUKAPUKA</title>
+<title part="D" gid="2975894846" lang="JA">HIYAHIYA</title></episode>
+<episode num="109">
+<title part="A" gid="2763206640" lang="JA">nemui</title>
+<title part="B" gid="1097513220" lang="JA">enikki</title>
+<title part="C" gid="639687725" lang="JA">yukata</title>
+<title part="D" gid="1548556160" lang="JA">omatsuri</title></episode>
+<episode num="110">
+<title part="A" gid="4019060981" lang="JA">MINI TOMATO</title>
+<title part="B" gid="2790360716" lang="JA">hitori tabi</title>
+<title part="C" gid="2924866700" lang="JA">yori michi meijin</title>
+<title part="D" gid="772261738" lang="JA">pinyari daigi ri</title></episode>
+<episode num="111">
+<title part="A" gid="1469278072" lang="JA">seirei no seirei</title>
+<title part="B" gid="1172123792" lang="JA">kaeri dou</title>
+<title part="C" gid="2340589344" lang="JA">shiawase ni naritai</title>
+<title part="D" gid="821769999" lang="JA">gokigen</title></episode>
+<episode num="112">
+<title part="A" gid="1352367398" lang="JA">WAIHAA</title>
+<title part="B" gid="2138540764" lang="JA">WAIHAA saikou</title>
+<title part="C" gid="1629662151" lang="JA">hajime mashita</title>
+<title part="D" gid="507557989" lang="JA">sanpo</title></episode>
+<episode num="113">
+<title part="A" gid="1839752955" lang="JA">mirai no sugata</title>
+<title part="B" gid="2861331794" lang="JA">jikan ryokou</title>
+<title part="C" gid="2647097200" lang="JA">otoko tte...</title>
+<title part="D" gid="1429200858" lang="JA">shou 1 no natsuyasumi</title></episode>
+<episode num="114">
+<title part="A" gid="3690997580" lang="JA">tokubetsu na hi</title>
+<title part="B" gid="1597886308" lang="JA">seichou</title>
+<title part="C" gid="1393960646" lang="JA">wakare</title>
+<title part="D" gid="1190018589" lang="JA">nekomusume</title></episode>
+<episode num="115">
+<title part="A" gid="2122839958" lang="JA">uchi no KAMI-san</title>
+<title part="B" gid="1244362995" lang="JA">GAARUZU</title>
+<title part="C" gid="598730222" lang="JA">BOKU no otouto</title>
+<title part="D" gid="162128528" lang="JA">BABA tomo</title></episode>
+<episode num="116">
+<title part="A" gid="3822725469" lang="JA">REDIISUPAKKU</title>
+<title part="B" gid="1674262122" lang="JA">MEGANE</title>
+<title part="C" gid="503864431" lang="JA">FUREKISHIBURU</title>
+<title part="D" gid="1583602504" lang="JA">ichi nensei</title></episode>
+<episode num="117">
+<title part="A" gid="1141800310" lang="JA">seichou shita ka ?</title>
+<title part="B" gid="2267565295" lang="JA">hayari mono</title>
+<title part="C" gid="3006816317" lang="JA">yume wa, hakanaku</title>
+<title part="D" gid="2923792431" lang="JA">PAPA ni</title></episode>
+<episode num="118">
+<title part="A" gid="2218615237" lang="JA">uma to shika</title>
+<title part="B" gid="2650625126" lang="JA">juku</title>
+<title part="C" gid="1478776104" lang="JA">kimi no hitomi ni, kanpai</title>
+<title part="D" gid="1514628909" lang="JA">BOKU no kutsu, shirimasen ka ?</title></episode>
+<episode num="119">
+<title part="A" gid="3188473714" lang="JA">NEKO no seikaku</title>
+<title part="B" gid="3080472456" lang="JA">BASU ensoku</title>
+<title part="C" gid="1621319559" lang="JA">KONPURIITO</title>
+<title part="D" gid="2583301474" lang="JA">UNPOKOPII</title></episode>
+<episode num="120">
+<title part="A" gid="1324931776" lang="JA">chiisana PENTAGON</title>
+<title part="B" gid="1622608871" lang="JA">HAATO no PENTAGON</title>
+<title part="C" gid="2038625801" lang="JA">yume no kareshi</title>
+<title part="D" gid="1943886565" lang="JA">hitori ne</title></episode>
+<episode num="121">
+<title part="A" gid="2744106589" lang="JA">REGINSU danshi</title>
+<title part="B" gid="3183165300" lang="JA">PAJAMA</title>
+<title part="C" gid="260406353" lang="JA">san kaku ori</title>
+<title part="D" gid="2488463487" lang="JA">warizan</title></episode>
+<episode num="122">
+<title part="A" gid="1779901707" lang="JA">gakkyuu shinbun</title>
+<title part="B" gid="3814519760" lang="JA">PUREZENTO ?</title>
+<title part="C" gid="2042168384" lang="JA">hirusagari</title>
+<title part="D" gid="1381531480" lang="JA">jinsei... tte ?</title></episode>
+<episode num="123">
+<title part="A" gid="3693145351" lang="JA">jugyou sankan</title>
+<title part="B" gid="1890864168" lang="JA">dakko</title>
+<title part="C" gid="1555059165" lang="JA">kara age ryoku</title>
+<title part="D" gid="1801340916" lang="JA">FUKUZATSU</title></episode>
+<episode num="124">
+<title part="A" gid="3644710012" lang="JA">BABA wa tsuyoshi</title>
+<title part="B" gid="1357867135" lang="JA">tenkousei</title>
+<title part="C" gid="906235238" lang="JA">ichi nensei to roku nensei</title>
+<title part="D" gid="3096218476" lang="JA">minna sorotte</title></episode>
+<episode num="125">
+<title part="A" gid="2412531031" lang="JA">uranai</title>
+<title part="B" gid="2189932294" lang="JA">obentou</title>
+<title part="C" gid="2178882502" lang="JA">ICHIGO ichikai</title>
+<title part="D" gid="1982715477" lang="JA">DNA</title></episode>
+<episode num="126">
+<title part="A" gid="1230352687" lang="JA">ICHIBAN</title>
+<title part="B" gid="2807827564" lang="JA">yuki onna</title>
+<title part="C" gid="1423480297" lang="JA">kizukai</title>
+<title part="D" gid="2474458628" lang="JA">shuuchuu</title></episode>
+<episode num="127">
+<title part="A" gid="2751635379" lang="JA">fuufu kenka</title>
+<title part="B" gid="3376137960" lang="JA">keitai !</title>
+<title part="C" gid="1459219078" lang="JA">SEKUSHII DYUO</title>
+<title part="D" gid="2261347341" lang="JA">ARUBAMU</title></episode>
+<episode num="128">
+<title part="A" gid="836127115" lang="JA">ARUBAITO</title>
+<title part="B" gid="4115247583" lang="JA">onna migaki</title>
+<title part="C" gid="3546658650" lang="JA">kyouto e ikou !</title>
+<title part="D" gid="1648560141" lang="JA">neko to kaa-san</title></episode>
+<episode num="129">
+<title part="A" gid="3769719035" lang="JA">TORAUMA</title>
+<title part="B" gid="3040778860" lang="JA">obaa-chan no KEETAI</title>
+<title part="C" gid="1709025458" lang="JA">jijitsu wa shousetsu yoriki nari</title>
+<title part="D" gid="1964705003" lang="JA">NEJI mawashi</title></episode>
+<episode num="130">
+<title part="A" gid="2498519579" lang="JA">ichi nichi no koi</title>
+<title part="B" gid="4173948389" lang="JA">osumou SANTA</title>
+<title part="C" gid="2008004910" lang="JA">obaa-chan no aji</title>
+<title part="D" gid="2464109771" lang="JA">kobanare</title></episode>
+<episode num="131">
+<title part="A" gid="2786995287" lang="JA">otoshidama</title>
+<title part="B" gid="1789528838" lang="JA">sakebi hajime</title>
+<title part="C" gid="2086722362" lang="JA">kotoshi mo, ichi nichi ichi men</title>
+<title part="D" gid="2055458234" lang="JA">otona ? kodomo ?</title></episode>
+<episode num="132">
+<title part="A" gid="3173003237" lang="JA">ibukuro</title>
+<title part="B" gid="3675455683" lang="JA">okan</title>
+<title part="C" gid="780686810" lang="JA">musume yo</title>
+<title part="D" gid="1030814114" lang="JA">otome no kai</title></episode>
+<episode num="133">
+<title part="A" gid="527942186" lang="JA">kyuushuu e</title>
+<title part="B" gid="2298873290" lang="JA">nagasaki nite</title>
+<title part="C" gid="1097259861" lang="JA">zashiki wara shi</title>
+<title part="D" gid="2434772388" lang="JA">tadaima</title></episode>
+<episode num="134">
+<title part="A" gid="2147444930" lang="JA">chiisana PURAIDO</title>
+<title part="B" gid="1294829905" lang="JA">ko wa oya no kagami</title>
+<title part="C" gid="2402457279" lang="JA">sunao de genki</title>
+<title part="D" gid="1587552300" lang="JA">SUTAIRU</title></episode>
+<episode num="135">
+<title part="A" gid="2362909833" lang="JA">orusuban</title>
+<title part="B" gid="491321164" lang="JA">tsuzuku</title>
+<title part="C" gid="2863461578" lang="JA">yuki ASOBI</title>
+<title part="D" gid="182319530" lang="JA">arigatou</title></episode>
+<episode num="136">
+<title part="A" gid="1689275349" lang="JA">norainu mitai ni</title>
+<title part="B" gid="3696857541" lang="JA">DOTTO no HANKACHI</title>
+<title part="C" gid="1337870505" lang="JA">dai gassaku</title>
+<title part="D" gid="2869740048" lang="JA">MINI ennichi</title></episode>
+<episode num="137">
+<title part="A" gid="2325714551" lang="JA">SUTANPU</title>
+<title part="B" gid="3666477696" lang="JA">seirei no hitori goto</title>
+<title part="C" gid="1771655841" lang="JA">chichi to musume</title>
+<title part="D" gid="1493467504" lang="JA">nitamono fuufu</title></episode>
+<episode num="138">
+<title part="A" gid="1164386837" lang="JA">danna no sodate kata</title>
+<title part="B" gid="3251524406" lang="JA">SUTAA☆bun i</title>
+<title part="C" gid="1750625758" lang="JA">UINNA-chan</title>
+<title part="D" gid="2650275734" lang="JA">kaa-san tanjoubi</title></episode>
+<episode num="139">
+<title part="A" gid="1810664640" lang="JA">NEKO no te</title>
+<title part="B" gid="1615674549" lang="JA">ko no kokoro, oyashirazu</title>
+<title part="C" gid="1275916933" lang="JA">shiritori</title>
+<title part="D" gid="2049298367" lang="JA">ojii-chan no megane</title></episode>
+<episode num="140">
+<title part="A" gid="841073777" lang="JA">nikushoku kei danshi</title>
+<title part="B" gid="2466753131" lang="JA">RONRII.DORAIBAA</title>
+<title part="C" gid="2675230075" lang="JA">kiki tourai !</title>
+<title part="D" gid="1878657585" lang="JA">inu mo kuwanai</title></episode>
+<episode num="141">
+<title part="A" gid="1050442658" lang="JA">otoko ga umareta hi</title>
+<title part="B" gid="367716856" lang="JA">otoko no HANBAAGU</title>
+<title part="C" gid="3666111111" lang="JA">otoko no HIMITSU</title>
+<title part="D" gid="2103432556" lang="JA">gakkou wo yasunda hi</title></episode>
+<episode num="142">
+<title part="A" gid="2079969666" lang="JA">kutsushita</title>
+<title part="B" gid="3397601046" lang="JA">KARAFURU</title>
+<title part="C" gid="3274797254" lang="JA">zutto, kaa-san</title></episode>
+<news datetime="2009-02-27T10:34:51Z" href="http://www.animenewsnetwork.com/news/2009-02-27/tv-tokyo-to-establish-new-anime-department">TV Tokyo to Establish New Anime Department</news>
+<news datetime="2009-03-18T05:30:00Z" href="http://www.animenewsnetwork.com/news/2009-03-18/crunchyroll-to-add-chi-mainichi-kasan-saki-anime">Crunchyroll to Add &lt;cite&gt;Chi's, Mainichi Kāsan, Saki &lt;/cite&gt; Anime</news>
+<news datetime="2009-04-22T06:25:34Z" href="http://www.animenewsnetwork.com/video-news/crunchyroll-anime-now-on-ann">Video News: Crunchyroll Anime Now on ANN</news>
+<news datetime="2010-05-22T17:28:58Z" href="http://www.animenewsnetwork.com/news/2010-05-22/detroit-metal-city-creator-draws-in-live-stream-sunday">&lt;cite&gt;Detroit Metal City&lt;/cite&gt; Creator Draws in Live Stream Sunday</news>
+<news datetime="2010-07-17T10:00:00Z" href="http://www.animenewsnetwork.com/news/2010-07-17/golgo-13-black-butler-ii-captain-tylor-streamed">&lt;cite&gt;Golgo 13&lt;/cite&gt;, &lt;cite&gt;Black Butler II, Captain Tylor&lt;/cite&gt; Streamed</news>
+<news datetime="2010-09-15T23:56:43Z" href="http://www.animenewsnetwork.com/news/2010-09-15/crunchyroll-adds-squid-girl-kaminomi-letter-bee-2">Crunchyroll Adds &lt;cite&gt;Squid Girl, KamiNomi, Letter Bee 2&lt;/cite&gt;</news>
+<news datetime="2010-11-06T03:57:00Z" href="http://www.animenewsnetwork.com/news/2010-11-05/japan-animation-tv-ranking-october-11-17">Japan's Animation TV Ranking, October 11-17</news>
+<news datetime="2010-11-13T20:40:05Z" href="http://www.animenewsnetwork.com/news/2010-11-13/go-lion-ultra-maniac-oreimo-togainu-streamed">&lt;cite&gt;Go Lion, Ultra Maniac, Oreimo, Togainu&lt;/cite&gt; Streamed</news>
+<news datetime="2010-12-03T04:55:23Z" href="http://www.animenewsnetwork.com/news/2010-12-02/lucky-star-spice-and-wolf-ii-uta-kata-streamed">&lt;cite&gt;Lucky Star&lt;/cite&gt;, &lt;cite&gt;Spice and Wolf II&lt;/cite&gt;, &lt;cite&gt;Uta∽Kata&lt;/cite&gt; Streamed</news>
+<news datetime="2010-12-17T18:07:44Z" href="http://www.animenewsnetwork.com/news/2010-12-17/nyan-koi-h20-ninomiya-kun-air-movie-beck-streamed">&lt;cite&gt;Nyan Koi!, H20, Ninomiya-kun, Air Movie, Beck&lt;/cite&gt; Streamed</news>
+<news datetime="2010-12-22T21:41:49Z" href="http://www.animenewsnetwork.com/news/2010-12-22/crunchyroll-adds-seitokai-no-ichizon-demonbane-anime">Crunchyroll Adds &lt;cite&gt;Seitokai no Ichizon, Demonbane&lt;/cite&gt; Anime</news>
+<news datetime="2010-12-27T13:54:20Z" href="http://www.animenewsnetwork.com/news/2010-12-27/hell-girl-3-seitokai-no-ichizon-regios-streamed">&lt;cite&gt;Hell Girl 3, Seitokai no Ichizon, Regios&lt;/cite&gt; Streamed</news>
+<news datetime="2011-01-24T04:57:00Z" href="http://www.animenewsnetwork.com/news/2011-01-23/japan-animation-tv-ranking-january-10-16">Japan's Animation TV Ranking, January 10-16</news>
+<news datetime="2011-02-28T18:23:31Z" href="http://www.animenewsnetwork.com/news/2011-02-28/japanese-box-office-february-19-20">Japanese Box Office, February 19-20</news>
+<news datetime="2011-04-04T03:57:00Z" href="http://www.animenewsnetwork.com/news/2011-04-03/crunchyroll-reports-possible-simulcast-delays">Crunchyroll Reports Possible Simulcast Delays</news>
+<news datetime="2011-06-02T13:00:00Z" href="http://www.animenewsnetwork.com/news/2011-06-02/chicago-college-to-host-thermae-romae-mari-yamazaki">Chicago College to Host &lt;cite&gt;Thermae Romae's&lt;/cite&gt; Mari Yamazaki</news>
+<news datetime="2011-06-18T03:57:00Z" href="http://www.animenewsnetwork.com/news/2011-06-17/north-american-stream-list/june-10-17">North American Stream List: June 10-17</news>
+<news datetime="2011-07-06T14:30:00Z" href="http://www.animenewsnetwork.com/news/2011-07-06/north-american-stream-list/june-25-july-4">North American Stream List: June 25–July 4</news>
+<news datetime="2011-07-10T02:30:00Z" href="http://www.animenewsnetwork.com/news/2011-07-09/north-american-stream-list/july-4-8">North American Stream List: July 4–8</news>
+<news datetime="2011-07-25T03:30:00Z" href="http://www.animenewsnetwork.com/news/2011-07-24/north-american-stream-list/july-16-22">North American Stream List: July 16-24</news>
+<news datetime="2011-09-30T21:48:53Z" href="http://www.animenewsnetwork.com/news/2011-09-30/crunchyroll-to-stream-new-hunter-x-hunger-anime">Crunchyroll to Stream New &lt;cite&gt;Hunter x Hunter&lt;/cite&gt; Anime</news>
+<news datetime="2011-10-09T21:30:00Z" href="http://www.animenewsnetwork.com/news/2011-10-09/north-american-stream-list/october-3-9">North American Stream List: October 3-9</news>
+<news datetime="2011-10-16T22:00:00Z" href="http://www.animenewsnetwork.com/news/2011-10-16/north-american-stream-list/october-10-16">North American Stream List: October 10-16</news>
+<news datetime="2011-10-23T21:00:00Z" href="http://www.animenewsnetwork.com/news/2011-10-23/north-american-stream-list/october-17-23">North American Stream List: October 17-23</news>
+<news datetime="2012-01-29T22:45:12Z" href="http://www.animenewsnetwork.com/news/2012-01-29/north-american-stream-list/january-23-29">North American Stream List: January 23-29</news>
+<news datetime="2012-02-05T21:00:33Z" href="http://www.animenewsnetwork.com/news/2012-02-05/north-american-stream-list/jan-30-feb-5">North American Stream List: Jan. 30-Feb. 5</news>
+<news datetime="2012-02-13T00:00:00Z" href="http://www.animenewsnetwork.com/news/2012-02-12/north-american-stream-list/february-6-12">North American Stream List: February 6-12</news>
+<news datetime="2012-02-20T00:30:00Z" href="http://www.animenewsnetwork.com/news/2012-02-19/north-american-stream-list/feb-13-19">North American Stream List: Feb. 13-19</news>
+<news datetime="2012-02-27T04:10:47Z" href="http://www.animenewsnetwork.com/news/2012-02-26/north-american-stream-list/feb.ruary-20-26">North American Stream List: February 20-26</news>
+<news datetime="2012-08-20T06:00:00Z" href="http://www.animenewsnetwork.com/news/2012-08-20/kaasan-mom-life-and-my-three-daughters-unite-in-crossover-manga">&lt;cite&gt;Kaasan - Mom's Life&lt;/cite&gt; &amp; &lt;cite&gt;My Three Daughters&lt;/cite&gt; Unite in Crossover Manga</news>
+<staff gid="2863464184"><task>Director</task><person id="291">Mitsuru Hongo</person></staff>
+<staff gid="2603716907"><task>Series Composition</task><person id="4629">Natsuko Takahashi</person></staff>
+<staff gid="1695551189"><task>Episode Director</task><person id="73001">Naokatsu Tsuda</person></staff>
+<staff gid="3881079676"><task>Music</task><person id="12558">Masaki Kurihara</person></staff>
+<staff gid="1709421593"><task>Original creator</task><person id="90971">Rieko Nishihara</person></staff>
+<staff gid="724572075"><task>Character Design</task><person id="49201">Kenta Mizutani</person></staff>
+<staff gid="2445638758"><task>Art Director</task><person id="75971">Nobuaki Mihara</person></staff>
+<staff gid="1869717630"><task>Chief Animation Director</task><person id="21194">Takaaki Wada</person></staff>
+<staff gid="1135167042"><task>Sound Director</task><person id="4683">Yūki Matsuoka</person></staff>
+<staff gid="3434525416"><task>Producer</task><person id="4879">Fukashi Azuma</person></staff>
+<staff gid="1463857390"><task>Producer</task><person id="89608">Masanori Miyake</person></staff>
+<staff gid="2326473761"><task>Producer</task><person id="90969">Fukashi Higashi</person></staff>
+<staff gid="1835229551"><task>Producer</task><person id="94672">Kang Seok Woo</person></staff>
+<cast gid="2086230832" lang="JA"><role>Bunji</role><person id="7696">Mie Sonozaki</person></cast>
+<cast gid="828087370" lang="JA"><role>Mother</role><person id="17463">Kumiko Mori</person></cast>
+<cast gid="629029252" lang="JA"><role>Grandma</role><person id="55150">Rei Okamoto</person></cast>
+<cast gid="1951241656" lang="JA"><role>Fumi</role><person id="66120">Yuna Fujii</person></cast>
+<cast gid="1127453545" lang="JA"><role>Father</role><person id="75973">Hiromasa Taguchi</person></cast>
+<cast gid="3557531002" lang="TL"><role>Rieko Kamohara</role><person id="39336">Yvette Tagura</person></cast>
+<cast gid="700401648" lang="TL"><role>Bunji Kamohara</role><person id="60845">Christian Velarde</person></cast>
+<credit gid="1842634639"><task>Animation Production</task><company id="361">GALLOP</company></credit>
+<credit gid="1740832333"><task>Production</task><company id="316">NAS</company></credit></anime></ann>

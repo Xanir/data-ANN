@@ -1,0 +1,64 @@
+<ann><anime id="1000" gid="3536962738" type="OAV" name="Idol Project" precision="OAV" generated-on="2016-03-27T03:55:30Z">
+<info gid="2748936676" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A1000-25.jpg" width="150" height="200"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A1000-25.jpg" width="150" height="200"/><img src="http://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A1000-25.jpg" width="276" height="368"/></info>
+<info gid="677431132" type="Main title" lang="EN">Idol Project</info>
+<info gid="3902050517" type="Alternative title" lang="JA">アイドル・プロジェクト</info>
+<info gid="3168438540" type="Genres">comedy</info>
+<info gid="1964582568" type="Genres">science fiction</info>
+<info gid="2729477409" type="Themes">fanservice</info>
+<info gid="2763365497" type="Objectionable content">TA</info>
+<info gid="1097574859" type="Plot Summary">Mimu wants desperately to be an idol, like her inspiration Yuri. Various obstacles rise up to keep her from reaching her audition and singing, and she wonders if her dream of being an idol be realized.</info>
+<info gid="1307932753" type="Running time">27</info>
+<info gid="3667303735" type="Number of episodes">4</info>
+<info type="Vintage">1995-09-22</info>
+<info gid="3404212216" type="Opening Theme">&quot;Don't Stop! - Su-Te-Ki ni Meguri Aitai&quot; by Idol Project</info>
+<info gid="2318286511" type="Ending Theme">#01: &quot;Kimi no Heart wo Neraiuchi (Take Aim and Shoot for Your Heart)&quot; by Idol Project (ep 1)</info>
+<info gid="2031685843" type="Ending Theme">#02: &quot;Again&quot; by Ai Orikasa (ep 2)</info>
+<ratings nb_votes="74" weighted_score="5.6578" bayesian_score="5.93649"/>
+<episode num="1">
+<title gid="2071000321" lang="EN">Starland Festival</title></episode>
+<episode num="2">
+<title gid="3345459983" lang="EN">Tropical Paradise</title></episode>
+<episode num="3">
+<title gid="1655562762" lang="EN">Shocking Report</title></episode>
+<episode num="4">
+<title gid="1645599650" lang="EN">Final Concert</title></episode>
+<review href="http://www.animenewsnetwork.com/review/idol-project/dvd-1">Idol Project DVD 1</review>
+<release date="2002-12-17" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=929">Idol Project (DVD 1)</release>
+<release date="2003-04-29" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1195">Idol Project - Final Concert (DVD 2)</release>
+<release date="2004-02-24" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2428">Idol Project - Super Pop Anthology (DVD 1-2)</release>
+<staff gid="2593340685"><task>Director</task><person id="4604">Yasuchika Nagaoka</person></staff>
+<staff gid="2184486179"><task>Screenplay</task><person id="20563">Noritaka Suzuki</person></staff>
+<staff gid="387033817"><task>Screenplay</task><person id="21306">Hiromitsu Amano</person></staff>
+<staff gid="2681818427"><task>Music</task><person id="116">Kanji Saito</person></staff>
+<staff gid="1605460326"><task>Original story</task><person id="20563">Noritaka Suzuki</person></staff>
+<staff gid="1942712867"><task>Character Design</task><person id="20563">Noritaka Suzuki</person></staff>
+<staff gid="3307601981"><task>Art Director</task><person id="12072">Yukiko Iijima</person></staff>
+<staff gid="1759377248"><task>Animation Director</task><person id="4650">Keisuke Watabe</person></staff>
+<staff gid="2748209603"><task>Animation Director</task><person id="20563">Noritaka Suzuki</person></staff>
+<staff gid="1431839207"><task>Sound Director</task><person id="8755">Hiroki Matsuoka</person></staff>
+<staff gid="1261803455"><task>Director of Photography</task><person id="21307">Hideki Imiizumi</person></staff>
+<cast gid="273423231" lang="EN"><role>Pal-pu Ran Ran</role><person id="1405">Julie Pickering</person></cast>
+<cast gid="3384934702" lang="EN"><role>Ruka Essenpolka</role><person id="4018">Lara Jill Miller</person></cast>
+<cast gid="925191267" lang="EN"><role>Extra Kaidou</role><person id="4228">Ellen Wilkinson</person></cast>
+<cast gid="1360227972" lang="EN"><role>Corvette Hyers</role><person id="7122">Tina Dixon</person></cast>
+<cast gid="1683051772" lang="EN"><role>Mimu Emilton</role><person id="7125">Michelle Ruff</person></cast>
+<cast gid="2214689374" lang="EN"><role>Layla B. Simmons</role><person id="8275">Sue Beth Arden</person></cast>
+<cast gid="1852528662" lang="EN"><role>Ruka Essenpolka</role><person id="12804">Willow Armstrong</person></cast>
+<cast gid="2561321501" lang="EN"><role>Yurie</role><person id="12805">Sheri Peppars</person></cast>
+<cast gid="1664573096" lang="EN"><role>Shion Suzukase</role><person id="66657">Midge Mayes</person></cast>
+<cast gid="3199357208" lang="IT"><role>Corvette</role><person id="25934">Roberta Gallina Laurenti</person></cast>
+<cast gid="2294610864" lang="IT"><role>Ruka</role><person id="25936">Lara Parmiani</person></cast>
+<cast gid="3412951066" lang="IT"><role>Extra</role><person id="25938">Alessandra Karpoff</person></cast>
+<cast gid="2538752917" lang="IT"><role>Shion</role><person id="26136">Renata Bertolas</person></cast>
+<cast gid="1775115190" lang="IT"><role>Mimu Emilton</role><person id="26237">Debora Magnaghi</person></cast>
+<cast gid="2597991470" lang="IT"><role>Leila</role><person id="26523">Jenny De Cesarei</person></cast>
+<cast gid="1975319389" lang="IT"><role>Yuri</role><person id="26640">Sonia Mazza</person></cast>
+<cast gid="2073540887" lang="JA"><role>Yuri</role><person id="417">Ai Orikasa</person></cast>
+<cast gid="1980866224" lang="JA"><role>Layla B. Simmons</role><person id="503">Aya Hisakawa</person></cast>
+<cast gid="1570606466" lang="JA"><role>Ruka Essenpolka</role><person id="504">Satomi Koorogi</person></cast>
+<cast gid="3524571022" lang="JA"><role>Corvette Hyers</role><person id="542">Kikuko Inoue</person></cast>
+<cast gid="3171423742" lang="JA"><role>Extra Kaidou</role><person id="1041">Mika Kanai</person></cast>
+<cast gid="2776120477" lang="JA"><role>Mimu Emilton</role><person id="1460">Mariko Kouda</person></cast>
+<cast gid="1914420161" lang="JA"><role>Shion Suzukaze</role><person id="3132">Rie Iwatsubo</person></cast>
+<cast gid="57729705" lang="JA"><role>Pal Pu Ran Ran</role><person id="7148">Hinako Kanamaru</person></cast>
+<credit gid="2361469079"><task>Production</task><company id="488">KSS</company></credit></anime></ann>

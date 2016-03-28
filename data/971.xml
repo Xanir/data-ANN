@@ -1,0 +1,641 @@
+<ann><anime id="971" gid="556035983" type="TV" name="Dr. Slump" precision="TV" generated-on="2016-03-27T03:55:30Z">
+<related-prev rel="adapted from" id="970"/>
+<related-next id="972" rel="alternate retelling"/>
+<related-next id="3637" rel="related"/>
+<info gid="1714422816" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A971-15.jpg" width="200" height="159"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A971-15.jpg" width="200" height="159"/><img src="http://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A971-15.jpg" width="320" height="255"/></info>
+<info gid="1276669580" type="Main title" lang="EN">Dr. Slump</info>
+<info gid="1493259591" type="Alternative title" lang="FR">Dr Slump et la petite Arale</info>
+<info gid="3327235037" type="Alternative title" lang="EN">Dr. Slump &amp;amp; Arale-chan</info>
+<info gid="2885177400" type="Alternative title" lang="ES">Dr. Slump: Las Travesuras de Arale</info>
+<info gid="2187424087" type="Alternative title" lang="JA">Dr.スランプ アラレちゃん</info>
+<info gid="1745160843" type="Alternative title" lang="IT">Il Dr. Slump e Arale</info>
+<info gid="3609258114" type="Alternative title" lang="AR">رنا</info>
+<info gid="2501036225" type="Genres">action</info>
+<info gid="3653349982" type="Genres">comedy</info>
+<info gid="411853614" type="Genres">science fiction</info>
+<info gid="2516582714" type="Objectionable content">OC</info>
+<info gid="1599187918" type="Plot Summary">Dr Slump creates a little android girl, Arale, very stong, happy and totally common senseless. They live in Penguin Village where the strangest things happen (i.e. the dawn is announced by a little pig wearing a basquee).</info>
+<info gid="264400283" type="Number of episodes">243</info>
+<info gid="2741669116" type="Vintage">1981-04-08 to 1986-02-19</info>
+<info gid="1612306008" type="Opening Theme">#1: &quot;Waiwai World&quot; by Ado Mizumori and Koorogi '73</info>
+<info gid="2940903430" type="Opening Theme">#2: &quot;Waiwai Koushinkyoku&quot; by Mami Koyama</info>
+<info gid="3721116729" type="Ending Theme">#1: &quot;Ara Ara Arale-chan&quot; by Ado Mizumori and Koorogi '73</info>
+<info gid="2840866940" type="Ending Theme">#2: &quot;Arale-chan Ondo&quot; by Mami Koyama</info>
+<info gid="3426853919" type="Ending Theme">#3: &quot;Ichiban Hoshi Miitsuketa&quot; by Ado Mizumori</info>
+<info gid="1381795254" type="Ending Theme">#4: &quot;Anata ni Shinjitsuichiro&quot; by Mitsuko Horie</info>
+<info gid="1697613579" type="Official website" lang="JA" href="http://www.toei-anim.co.jp/lineup/tv/arale/">Dr. スランプ アラレちゃん @ Toei Animation</info>
+<ratings nb_votes="131" weighted_score="6.6484" bayesian_score="6.72735"/>
+<episode num="1">
+<title gid="1871776429" lang="EN">Arale's Birth / Hey! Friends</title></episode>
+<episode num="2">
+<title gid="2639605215" lang="EN">Arale Goes to School! / It is! ...not there</title></episode>
+<episode num="3">
+<title gid="2609883448" lang="EN">Time Slipper Big Adventure / What Egg is This?!</title></episode>
+<episode num="4">
+<title gid="2137846768" lang="EN">Huh?! Is it a Boy? Is it a Girl? / Gatchan the Courier</title></episode>
+<episode num="5">
+<title gid="2053942709" lang="EN">Friends With a Bear!! / New Invention! Dekachibi Ray Gun</title></episode>
+<episode num="6">
+<title gid="2864909479" lang="EN">The Teacher is Coming! / Arale is Kidnapped!</title></episode>
+<episode num="7">
+<title gid="3149105467" lang="EN">Charging Arale-chan</title></episode>
+<episode num="8">
+<title gid="2243331733" lang="EN">Donbe Story</title></episode>
+<episode num="9">
+<title gid="1713370584" lang="EN">Strawberry Panties Epic Battle</title></episode>
+<episode num="10">
+<title gid="2513647247" lang="EN">Ah! Earth SOS!!</title></episode>
+<episode num="11">
+<title gid="3803443176" lang="EN">Teketeke Children / Scary Scary Policewoman</title></episode>
+<episode num="12">
+<title gid="1322605484" lang="EN">Transform Ponpoko Gun / Arale Flies in the Sky!</title></episode>
+<episode num="13">
+<title gid="3203349177" lang="EN">The Terrifying Good Girl</title></episode>
+<episode num="14">
+<title gid="3141509193" lang="EN">Hero Suppaman</title></episode>
+<episode num="15">
+<title gid="2630453586" lang="EN">Arale's Errand / Yay Yay Wildland</title></episode>
+<episode num="16">
+<title gid="1613613473" lang="EN">Living for Tomorrow! / Arale is Akane!?</title></episode>
+<episode num="17">
+<title gid="2223418874" lang="EN">Fearful Monsters Night</title></episode>
+<episode num="18">
+<title gid="1138764178" lang="EN">The Fairy Tale Machine / Shiverman the Hitman</title></episode>
+<episode num="19">
+<title gid="2177459761" lang="EN">Arale Swims in the Ancient Past</title></episode>
+<episode num="20">
+<title gid="3332303661" lang="EN">Kinoko-chan Leaves Home</title></episode>
+<episode num="21">
+<title gid="1141946934" lang="EN">The Great Space Date Adventure</title></episode>
+<episode num="22">
+<title gid="1649471480" lang="EN">Dumbfounded Senbei</title></episode>
+<episode num="23">
+<title gid="2061139346" lang="EN">Arale's Hoyoyo Date / Byebye Mecchanko Power</title></episode>
+<episode num="24">
+<title gid="1473430362" lang="EN">Arale's Big Change!!</title></episode>
+<episode num="24.5">
+<title gid="2995233057" lang="EN">Penguin Village SOS!! / Affairs of the Heart! / Anything is OK, Mr. Handy</title></episode>
+<episode num="25">
+<title gid="2433185922" lang="EN">Exchange Student from the City</title></episode>
+<episode num="26">
+<title gid="2721523199" lang="EN">Arale Eyeball Epic Battle!!</title></episode>
+<episode num="27">
+<title gid="1844228966" lang="EN">Yay! A New Friend</title></episode>
+<episode num="28">
+<title gid="2463826602" lang="EN">Goodbye Gacchan!!</title></episode>
+<episode num="29">
+<title gid="1502500557" lang="EN">How Adorable! The Lovely Middle-aged Trio</title></episode>
+<episode num="30">
+<title gid="2436460641" lang="EN">Heart Pounding Excitement! Piisuke's First Love</title></episode>
+<episode num="31">
+<title gid="2810916472" lang="EN">The Araletouchables</title></episode>
+<episode num="32">
+<title gid="2628613917" lang="EN">Arale's Lullaby Dream</title></episode>
+<episode num="33">
+<title gid="2036444068" lang="EN">A Masterpiece? Nekozukin-chan</title></episode>
+<episode num="34">
+<title gid="1492589447" lang="EN">Hell's Messenger Chibiru</title></episode>
+<episode num="35">
+<title gid="2844989100" lang="EN">Sad Sad Santa</title></episode>
+<episode num="36">
+<title gid="2390591317" lang="EN">Messed-up Devilgirl</title></episode>
+<episode num="36.5">
+<title gid="2281069606" lang="EN">Penguin Village's Hero Legend</title></episode>
+<episode num="37">
+<title gid="2046036432" lang="EN">Arale's Musical Cinderella</title></episode>
+<episode num="38">
+<title gid="3462862089" lang="EN">Mysterious Monster Expert?!</title></episode>
+<episode num="39">
+<title gid="2280898215" lang="EN">Showdown! Musashi VS Arale-chan</title></episode>
+<episode num="40">
+<title gid="2219913764" lang="EN">Hero Suppaman Part II</title></episode>
+<episode num="41">
+<title gid="1860482048" lang="EN">The Reality Machine / Riders at Dawn</title></episode>
+<episode num="42">
+<title gid="2357644659" lang="EN">Jungle King Perzan</title></episode>
+<episode num="43">
+<title gid="2124979218" lang="EN">Whoa?! Penguin Village Dom-Dom-Dom</title></episode>
+<episode num="44">
+<title gid="342358115" lang="EN">Arale-chan Goes to City Island</title></episode>
+<episode num="45">
+<title gid="3452613661" lang="EN">The Fiendish Transformation</title></episode>
+<episode num="46">
+<title gid="1272021215" lang="EN">Penguin Village in Love</title></episode>
+<episode num="47">
+<title gid="1406055136" lang="EN">Caveman Hoyoyo in the Dinosaur Age</title></episode>
+<episode num="48">
+<title gid="1882978738" lang="EN">Chibiru-kun's Part Time Job</title></episode>
+<episode num="49">
+<title gid="3813605810" lang="EN">Leave it to Akiko</title></episode>
+<episode num="50">
+<title gid="1655918797" lang="EN">Yay! A Date for Mr. Copy</title></episode>
+<episode num="51">
+<title gid="1516278810" lang="EN">Thankies! The Kick The Can Celebration Party</title></episode>
+<episode num="52">
+<title gid="2965916596" lang="EN">Arale's Thief Hoyoyo Team</title></episode>
+<episode num="53">
+<title gid="3086791217" lang="EN">Anko and Nonko Discover the Countryside</title></episode>
+<episode num="54">
+<title gid="2363190532" lang="EN">The Children's Festival Spluk Spluk Phoo Phoo</title></episode>
+<episode num="55">
+<title gid="3032217997" lang="EN">Super Driver</title></episode>
+<episode num="56">
+<title gid="2339119715" lang="EN">Am I Wicked Strong?!</title></episode>
+<episode num="57">
+<title gid="522055162" lang="EN">The Miniature House of Our Dreams</title></episode>
+<episode num="58">
+<title gid="2941125663" lang="EN">Arale's Thief Hoyoyo Team Part II</title></episode>
+<episode num="59">
+<title gid="3141555655" lang="EN">Heart Pounding Excitement Time Stop</title></episode>
+<episode num="60">
+<title gid="2445611870" lang="EN">Suppaman Just In Time</title></episode>
+<episode num="61">
+<title gid="1674495713" lang="EN">Exploration! Mammoth Midori</title></episode>
+<episode num="62">
+<title gid="4034908200" lang="EN">Scary! Monster Prince</title></episode>
+<episode num="63">
+<title gid="1004310516" lang="EN">Arale's New Star Festival Story</title></episode>
+<episode num="64">
+<title gid="762805182" lang="EN">Goo Ga Senbei</title></episode>
+<episode num="65">
+<title gid="2169643152" lang="EN">The Twinkling Night Sky Drum and Fife Band</title></episode>
+<episode num="66">
+<title gid="2798528474" lang="EN">We're Not Angels</title></episode>
+<episode num="67">
+<title gid="4063360873" lang="EN">Maerchen (Fairy Tale) of Love!! Tricycle Story</title></episode>
+<episode num="68">
+<title gid="3396574782" lang="EN">The Great Combot Caper of 2013</title></episode>
+<episode num="69">
+<title gid="1615297530" lang="EN">Invaders from Space</title></episode>
+<episode num="70">
+<title gid="3053857407" lang="EN">Arale's Arabian Night</title></episode>
+<episode num="71">
+<title gid="1977018329" lang="EN">Dr. Mashirito's Ambition</title></episode>
+<episode num="72">
+<title gid="3501488661" lang="EN">Dr. Mashirito's Ambition Part II</title></episode>
+<episode num="73">
+<title gid="3553795968" lang="EN">Penguin Village Wars</title></episode>
+<episode num="74">
+<title gid="1534394834" lang="EN">Penguin Village Wars Part II</title></episode>
+<episode num="75">
+<title gid="1739389810" lang="EN">Arale's Lost Item</title></episode>
+<episode num="76">
+<title gid="589849107" lang="EN">Tale of the Penguin Village of Eight Gravestones</title></episode>
+<episode num="77">
+<title gid="1961452203" lang="EN">Suppaman of Justice VS Senbee of Love</title></episode>
+<episode num="78">
+<title gid="2724511231" lang="EN">Happy Date in Mystery Land</title></episode>
+<episode num="79">
+<title gid="476281701" lang="EN">Energetic Arale</title></episode>
+<episode num="80">
+<title gid="1936905998" lang="EN">Penguin Village Grand Prix</title></episode>
+<episode num="81">
+<title gid="2787419684" lang="EN">Penguin Village Grand Prix Part II</title></episode>
+<episode num="82">
+<title gid="1034965629" lang="EN">Penguin Village Grand Prix Part III</title></episode>
+<episode num="83">
+<title gid="3891010771" lang="EN">Penguin Village Mystery</title></episode>
+<episode num="84">
+<title gid="1623102126" lang="EN">The Big Head is Coming</title></episode>
+<episode num="85">
+<title gid="2397487969" lang="EN">The Fearful Vegetable Man</title></episode>
+<episode num="86">
+<title gid="2873795998" lang="EN">The Secret of Arale's Birth</title></episode>
+<episode num="87">
+<title gid="1021820521" lang="EN">Arale the Super Prize Girl</title></episode>
+<episode num="88">
+<title gid="2113258656" lang="EN">Story of the Red Sandal Strap</title></episode>
+<episode num="89">
+<title gid="530164233" lang="EN">Here Comes the Tsuns</title></episode>
+<episode num="90">
+<title gid="2823519177" lang="EN">Heart Pounding! School Panic</title></episode>
+<episode num="91">
+<title gid="2065419197" lang="EN">Look, Look, the Lensmen</title></episode>
+<episode num="92">
+<title gid="322264117" lang="EN">Shooting Star Wish Star</title></episode>
+<episode num="93">
+<title gid="3045874961" lang="EN">Luck In, Evil Out in Space</title></episode>
+<episode num="94">
+<title gid="3183209878" lang="EN">An Angel Lives!</title></episode>
+<episode num="95">
+<title gid="1765038259" lang="EN">Nikochan Flies</title></episode>
+<episode num="96">
+<title gid="1193106280" lang="EN">Ghost Date</title></episode>
+<episode num="97">
+<title gid="2042396569" lang="EN">Love is a Punch to the Heart</title></episode>
+<episode num="98">
+<title gid="2294905047" lang="EN">Farewell, Tsuns</title></episode>
+<episode num="99">
+<title gid="1772134325" lang="EN">Mr. Skop Awakes</title></episode>
+<episode num="100">
+<title gid="863035636" lang="EN">Official Business! Space Detective Story</title></episode>
+<episode num="101">
+<title gid="1966999724" lang="EN">The Secret of Mashirito Castle</title></episode>
+<episode num="102">
+<title gid="1053092987" lang="EN">Adventure, Adventure, Big Adventure!!</title></episode>
+<episode num="103">
+<title gid="2584287748" lang="EN">The Thief who Loved Books</title></episode>
+<episode num="104">
+<title gid="1313642884" lang="EN">HareHore Arale's Field Trip</title></episode>
+<episode num="105">
+<title gid="1915842224" lang="EN">Three Suppamans</title></episode>
+<episode num="106">
+<title gid="3425315747" lang="EN">The Yellow Carp Banner of Happiness</title></episode>
+<episode num="107">
+<title gid="2183885651" lang="EN">Transform Konkon Helment</title></episode>
+<episode num="108">
+<title gid="1069224209" lang="EN">Welcome Mr. Yakuza</title></episode>
+<episode num="109">
+<title gid="3865318352" lang="EN">Continue! We are the Suppamen</title></episode>
+<episode num="110">
+<title gid="1389828480" lang="EN">Chibiru and the Devil's Big Dictionary</title></episode>
+<episode num="111">
+<title gid="2436912057" lang="EN">Kinoko, Teacher for a Day</title></episode>
+<episode num="112">
+<title gid="2829752343" lang="EN">Four Angry Rogues</title></episode>
+<episode num="113">
+<title gid="2896188383" lang="EN">Love Excursion SOS!!</title></episode>
+<episode num="114">
+<title gid="2856787619" lang="EN">Arale's Picture Diary</title></episode>
+<episode num="115">
+<title gid="1940596520" lang="EN">The Demon of Penguin Village</title></episode>
+<episode num="116">
+<title gid="2373485410" lang="EN">Super Baseball</title></episode>
+<episode num="117">
+<title gid="1985265291" lang="EN">Goodbye Great King Nikochan</title></episode>
+<episode num="118">
+<title gid="970026530" lang="EN">Space Showdown! Arale VS Komattachan</title></episode>
+<episode num="119">
+<title gid="2937677955" lang="EN">Runabout Youth</title></episode>
+<episode num="120">
+<title gid="2166643566" lang="EN">Decision! Penguin Village's Champion</title></episode>
+<episode num="121">
+<title gid="2175383234" lang="EN">Mystery Beauty Disappeared in the Fog</title></episode>
+<episode num="122">
+<title gid="397833287" lang="EN">Lovelove Contact</title></episode>
+<episode num="123">
+<title gid="2840230878" lang="EN">Hurray! Epic Battle for Proposal</title></episode>
+<episode num="124">
+<title gid="2095801576" lang="EN">Marriage! Marriage!! Professor and Teacher</title></episode>
+<episode num="125">
+<title gid="2118013388" lang="EN">Flying in the Sky Honeymoon of Love</title></episode>
+<episode num="126">
+<title gid="380474923" lang="EN">Exciting Newlywed Life</title></episode>
+<episode num="127">
+<title gid="1063733275" lang="EN">Arale Watch Out! The Strongest Rival Appears</title></episode>
+<episode num="128">
+<title gid="1982900653" lang="EN">Torn Between Justice and Love</title></episode>
+<episode num="129">
+<title gid="2328449100" lang="EN">Finally Appears! Hit Man Senbee</title></episode>
+<episode num="130">
+<title gid="1506808472" lang="EN">I'm Obocchaman</title></episode>
+<episode num="131">
+<title gid="1372194499" lang="EN">Hurry! Telepathy of Love</title></episode>
+<episode num="132">
+<title gid="3172556351" lang="EN">Heart Pounding Tonight</title></episode>
+<episode num="133">
+<title gid="1734504558" lang="EN">There is a Placement Test</title></episode>
+<episode num="134">
+<title gid="503339987" lang="EN">Gacchan Gacchan</title></episode>
+<episode num="135">
+<title gid="3650399289" lang="EN">Yay! Bori Bari Bori Bari</title></episode>
+<episode num="136">
+<title gid="2517955119" lang="EN">Suppaman's Brother Appears!</title></episode>
+<episode num="137">
+<title gid="3169626096" lang="EN">Cho Arrested!</title></episode>
+<episode num="138">
+<title gid="2933541989" lang="EN">Christmas Day Hurts</title></episode>
+<episode num="139">
+<title gid="3690789243" lang="EN">To Wonderland - Taro Suppaman!</title></episode>
+<episode num="140">
+<title gid="2775033929" lang="EN">Go For It Arale! Earth's Greatest Crisis!!</title></episode>
+<episode num="141">
+<title gid="919343143" lang="EN">Mashirito Achieves His Goal?!</title></episode>
+<episode num="142">
+<title gid="1279505122" lang="EN">Coalescence is Bad!</title></episode>
+<episode num="143">
+<title gid="1101966316" lang="EN">Senbei Died?!</title></episode>
+<episode num="144">
+<title gid="2006852412" lang="EN">Pupupu! Go to the Sky!</title></episode>
+<episode num="145">
+<title gid="2117111306" lang="EN">Donbe's Love Story</title></episode>
+<episode num="146">
+<title gid="2027458777" lang="EN">Burn! Suppaman</title></episode>
+<episode num="147">
+<title gid="2629523300" lang="EN">Your and My Journey</title></episode>
+<episode num="148">
+<title gid="2526310334" lang="EN">Gatsu-chan is Great</title></episode>
+<episode num="149">
+<title gid="968438698" lang="JA">Okotaeshimasu Special</title></episode>
+<episode num="150">
+<title gid="3517939353" lang="EN">Shape Up Miss Midori</title></episode>
+<episode num="151">
+<title gid="1978328388" lang="EN">Turbo-kun is Born!!</title></episode>
+<episode num="152">
+<title gid="2341065415" lang="EN">Father is an Alien?!</title></episode>
+<episode num="153">
+<title gid="2317674030" lang="EN">Onigokko of Fear</title></episode>
+<episode num="154">
+<title gid="487956589" lang="EN">Straight! Turbo-kun</title></episode>
+<episode num="155">
+<title gid="623809901" lang="EN">Showdown! Japan vs. U.S. Baseball Tournament</title></episode>
+<episode num="156">
+<title gid="783444785" lang="EN">Japan vs. U.S. Baseball Tournament, Part II</title></episode>
+<episode num="157">
+<title gid="1848601817" lang="EN">This is a Dream!!</title></episode>
+<episode num="158">
+<title gid="1721943980" lang="EN">Wanted Restaurant</title></episode>
+<episode num="159">
+<title gid="681502070" lang="EN">I'm Sorry at Midnight</title></episode>
+<episode num="160">
+<title gid="2445143124" lang="EN">Fear the Human Fly</title></episode>
+<episode num="161">
+<title gid="2240545862" lang="EN">Ncha! Great King Enma</title></episode>
+<episode num="162">
+<title gid="2293771423" lang="EN">The Christmas Lie</title></episode>
+<episode num="163">
+<title gid="2565016733" lang="EN">Who is the Strongest in the World!!</title></episode>
+<episode num="164">
+<title gid="3864262481" lang="EN">I Did It! I Did It! World's Number One!!</title></episode>
+<episode num="165">
+<title gid="2933035288" lang="JA">Tora Hachi Ojiisan no Bunchou</title></episode>
+<episode num="166">
+<title gid="3913177541" lang="JA">gatsu channo shoutai !!</title></episode>
+<episode num="167">
+<title gid="3490608005" lang="JA">kami sama ooi ni ikaru !!</title></episode>
+<episode num="168">
+<title gid="3283506503" lang="JA">ganbare tanuki kun !</title></episode>
+<episode num="169">
+<title gid="1235385440" lang="JA">ohisashiburino daihatsumei !!</title></episode>
+<episode num="170">
+<title gid="2066355941" lang="JA">oharusanno youkai daisensou !</title></episode>
+<episode num="171">
+<title gid="1728789324" lang="JA">fukushuu no dodonpa !</title></episode>
+<episode num="172">
+<title gid="1336975284" lang="JA">kyahaha deyuurei shima</title></episode>
+<episode num="173">
+<title gid="950824937" lang="JA">suppamanrepoutaa daisakusen</title></episode>
+<episode num="174">
+<title gid="2907304243" lang="JA">nazono hikoubuttai</title></episode>
+<episode num="175">
+<title gid="1830645022" lang="JA">kake zurimawaru seishun</title></episode>
+<episode num="176">
+<title gid="656090017" lang="JA">kake zurimawaru seishun kanketsu hen</title></episode>
+<episode num="177">
+<title gid="2620895713" lang="JA">gobusata nikochan</title></episode>
+<episode num="178">
+<title gid="819000449" lang="JA">piisuke . ai no daibouken</title></episode>
+<episode num="179">
+<title gid="2157727634" lang="JA">ukkari koukou sannensei</title></episode>
+<episode num="180">
+<title gid="2265481040" lang="JA">arare no jidousha menkeshou</title></episode>
+<episode num="181">
+<title gid="3154803752" lang="JA">shissou ! outobai kozou</title></episode>
+<episode num="182">
+<title gid="1212329665" lang="JA">asufaruto ni kake ru koi !</title></episode>
+<episode num="183">
+<title gid="707778654" lang="JA">aiamu NO.1 porisuman</title></episode>
+<episode num="184">
+<title gid="1309595781" lang="JA">arare VS chaamii yamada</title></episode>
+<episode num="185">
+<title gid="1372691279" lang="JA">sayonara !! arare san</title></episode>
+<episode num="186">
+<title gid="1855932043" lang="JA">sutaa sangayattekita !!</title></episode>
+<episode num="187">
+<title gid="2597690582" lang="JA">mitaka ! choujin suppaman</title></episode>
+<episode num="188">
+<title gid="396138912" lang="JA">dote kabocha no densetsu</title></episode>
+<episode num="189">
+<title gid="1934507684" lang="JA">ou ! mai kinkochan</title></episode>
+<episode num="190">
+<title gid="1566013706" lang="JA">yatta ! kuizu de 100 man en</title></episode>
+<episode num="191">
+<title gid="2334750570" lang="JA">pengin mura renzokusatsujinjiken</title></episode>
+<episode num="192">
+<title gid="3463658030" lang="JA">yume no pengin mura guranpuri</title></episode>
+<episode num="193">
+<title gid="1549774934" lang="JA">hashire ! tobase ! tsuppashire !!</title></episode>
+<episode num="194">
+<title gid="919901862" lang="JA">kettei ! pengin mura no niimura chou</title></episode>
+<episode num="195">
+<title gid="1653875709" lang="JA">ai ha mirai detashikamete</title></episode>
+<episode num="196">
+<title gid="2536728868" lang="JA">mouichido 10 nengo</title></episode>
+<episode num="197">
+<title gid="1657412964" lang="JA">arare nosuupaa pianisuto</title></episode>
+<episode num="198">
+<title gid="2928914768" lang="JA">himitsu jouhou kyoku</title></episode>
+<episode num="199">
+<title gid="2214981892" lang="JA">himitsu jouhou kyoku kanketsu hen</title></episode>
+<episode num="200">
+<title gid="2801252999" lang="JA">hisashiburi ! kaette kita akiko san</title></episode>
+<episode num="201">
+<title gid="2761144771" lang="JA">arare no nihonmukashi banashi</title></episode>
+<episode num="202">
+<title gid="1453389269" lang="JA">minnaminnao tomo dachi</title></episode>
+<episode num="203">
+<title gid="1234436309" lang="JA">hatsukoi himitsu shirei</title></episode>
+<episode num="204">
+<title gid="299587887" lang="JA">hachamecha rabupanikku</title></episode>
+<episode num="205">
+<title gid="839627457" lang="JA">shiawaseno nekomimi san</title></episode>
+<episode num="206">
+<title gid="2257846033" lang="JA">gekitotsu ! are^ sui hoshi</title></episode>
+<episode num="207">
+<title gid="3192702622" lang="JA">kyoufu noojouhin gokko</title></episode>
+<episode num="208">
+<title gid="2441201393" lang="JA">komattachan no gyakushuu</title></episode>
+<episode num="209">
+<title gid="3388147350" lang="JA">arare san ! kekkon shite kudasai</title></episode>
+<episode num="210">
+<title gid="2800840144" lang="JA">senbee . senbee</title></episode>
+<episode num="211">
+<title gid="3165558385" lang="JA">tatakae !! kin'enman</title></episode>
+<episode num="212">
+<title gid="1409182430" lang="JA">nakanaori kyuupiddorobo</title></episode>
+<episode num="213">
+<title gid="445322503" lang="JA">dokutaa nou hoyoyo daisakusen</title></episode>
+<episode num="214">
+<title gid="2552099183" lang="JA">arigatou ! suppaman</title></episode>
+<episode num="215">
+<title gid="820531625" lang="JA">sairento . rabu</title></episode>
+<episode num="216">
+<title gid="3004222411" lang="JA">chouchou sanga kuru yo !</title></episode>
+<episode num="217">
+<title gid="1213250376" lang="JA">suppaman no komoriuta</title></episode>
+<episode num="218">
+<title gid="2058239255" lang="JA">kisekino yakizakana teishoku</title></episode>
+<episode num="219">
+<title gid="1332387155" lang="JA">ijigen henogo shoutai</title></episode>
+<episode num="220">
+<title gid="3708148264" lang="JA">kaminari samaga ochiru nichi</title></episode>
+<episode num="221">
+<title gid="2850530622" lang="JA">suparuta . uo^zu</title></episode>
+<episode num="222">
+<title gid="861225934" lang="JA">ganbaretsu ! puroresuraa san</title></episode>
+<episode num="223">
+<title gid="1740015446" lang="JA">taiyou san iede shichitta !?</title></episode>
+<episode num="224">
+<title gid="3184500150" lang="JA">tokimeki teiiruumu</title></episode>
+<episode num="225">
+<title gid="2157007434" lang="JA">neko san'irankanee !!</title></episode>
+<episode num="226">
+<title gid="1380970857" lang="JA">kyoufu no doriimu . mashin</title></episode>
+<episode num="227">
+<title gid="1661242707" lang="JA">arare VS tokai shima noijimetsu ko</title></episode>
+<episode num="228">
+<title gid="719627637" lang="JA">omocha nonchacha</title></episode>
+<episode num="229">
+<title gid="2881283745" lang="JA">アラレのエアポート'85</title></episode>
+<episode num="230">
+<title gid="1434944756" lang="JA">arare no kae tama daisakusen</title></episode>
+<episode num="231">
+<title gid="1505214180" lang="JA">waa i ! meruhenrando !!</title></episode>
+<episode num="232">
+<title gid="3751139136" lang="JA">norimaki shi no shizuka naru tsuitachi</title></episode>
+<episode num="233">
+<title gid="2981969220" lang="JA">bareta !! chikyuu nohimitsu</title></episode>
+<episode num="234">
+<title gid="2557908568" lang="JA">hoyoyo !! chikyuu barabara</title></episode>
+<episode num="235">
+<title gid="846943518" lang="JA">juudai happyoushimaa su !!</title></episode>
+<episode num="236">
+<title gid="2535304612" lang="JA">kyoufu no burakku . santa !!</title></episode>
+<episode num="237">
+<title gid="3278588671" lang="JA">oudeishon dayo !! zen'inshuugou</title></episode>
+<episode num="238">
+<title gid="1605277703" lang="JA">gekitotsu !! shuyaku taitorumacchi</title></episode>
+<episode num="239">
+<title gid="730023635" lang="JA">sora tobu ga^ru . furendo</title></episode>
+<episode num="240">
+<title gid="2663560625" lang="JA">sayonara arare chan kie ta pengin mura</title></episode>
+<episode num="241">
+<title gid="1603253184" lang="JA">sayonara arare chan mishira nu arare no koibito</title></episode>
+<episode num="242">
+<title gid="4009243876" lang="JA">sayonara arare chan kyoufu ! dokidoki bagenseuru</title></episode>
+<episode num="243">
+<title gid="2372715292" lang="JA">sayonara arare chan baicha ! mataneii !!</title></episode>
+<news datetime="2001-01-16T03:56:48Z" href="http://www.animenewsnetwork.com/news/2001-01-15/animage-top-100-anime-listing">Animage Top-100 Anime Listing</news>
+<news datetime="2005-09-23T17:39:30Z" href="http://www.animenewsnetwork.com/news/2005-09-23/tv-asahi-top-100-anime">TV Asahi Top 100 Anime</news>
+<news datetime="2005-09-23T20:38:14Z" href="http://www.animenewsnetwork.com/news/2005-09-23/tv-asahi-top-100-anime-part-2">TV Asahi Top 100 Anime Part 2</news>
+<news datetime="2006-10-12T21:45:00Z" href="http://www.animenewsnetwork.com/news/2006-10-13/japans-favorite-tv-anime">Japan's Favorite TV Anime</news>
+<news datetime="2009-09-04T09:14:36Z" href="http://www.animenewsnetwork.com/news/2009-09-04/wall-e-eden-of-the-east-haruhi-chan-win-anime-kobe-awards">&lt;cite&gt;WALL-E, Eden of the East, Haruhi-chan&lt;/cite&gt; Win Anime Kobe Awards</news>
+<news datetime="2010-01-15T11:46:50Z" href="http://www.animenewsnetwork.com/news/2010-01-15/gegege-no-kitaro-voice-actor-isamu-tanonaka-passes-away">&lt;cite&gt;Gegege no Kitarō&lt;/cite&gt; Voice Actor Isamu Tanonaka Passes Away</news>
+<news datetime="2010-03-06T14:05:32Z" href="http://www.animenewsnetwork.com/news/2010-03-06/4th-annual-seiyu-award-winners-announced">4th Annual Seiyū Award Winners Announced</news>
+<news datetime="2010-11-12T21:42:26Z" href="http://www.animenewsnetwork.com/news/2010-11-12/p.a-works-mai-no-maho-to-katei-no-hi-anime-detailed">P.A. Works' &lt;cite&gt;Mai no Mahō to Katei no Hi&lt;/cite&gt; Anime Detailed</news>
+<news datetime="2011-06-17T18:49:16Z" href="http://www.animenewsnetwork.com/news/2011-06-17/anime-expo-hosts-toshio-furukawa">Anime Expo Hosts Toshio Furukawa</news>
+<news datetime="2014-02-12T07:25:46Z" href="http://www.animenewsnetwork.com/news/2014-02-12/haikyu-dr-slump-bobobo-bo-join-j-stars-victory-vs-game">&lt;cite&gt;Haikyu, Dr. Slump, Bobobo-bo&lt;/cite&gt; Join &lt;cite&gt;J-Stars Victory Vs.&lt;/cite&gt; Game</news>
+<news datetime="2015-12-30T20:10:00Z" href="http://www.animenewsnetwork.com:/news/2015-12-30/chibi-maruko-chan-sazae-san-dr-slump-top-list-of-most-viewed-anime-episodes/.97077">&lt;cite&gt;Chibi Maruko-chan, Sazae-san, Dr. Slump&lt;/cite&gt; Top List of Most-Viewed Anime Episodes</news>
+<staff gid="1980044178"><task>Director</task><person id="1094">Minoru Okazaki</person></staff>
+<staff gid="1949484385"><task>Script</task><person id="3785">Yasushi Hirano</person></staff>
+<staff gid="1902848644"><task>Script</task><person id="5558">Toyoo Ashida</person></staff>
+<staff gid="1900455095"><task>Script</task><person id="5617">Shun'ichi Yukimuro</person></staff>
+<staff gid="2491236827"><task>Script</task><person id="5776">Masaki Tsuji</person></staff>
+<staff gid="1747884229"><task>Script</task><person id="17498">Michiru Shimada</person></staff>
+<staff gid="1780755699"><task>Storyboard</task><person id="7257">Hiromitsu Morita</person></staff>
+<staff gid="471345884"><task>Storyboard</task><person id="18929">Yukio Ebisawa</person></staff>
+<staff gid="1688029120"><task>Storyboard</task><person id="22337">Yoshio Mukainakano</person></staff>
+<staff gid="3095031332"><task>Storyboard</task><person id="25584">Katsumi Endo</person></staff>
+<staff gid="2132295666"><task>Storyboard</task><person id="96889">Kousei Maeda</person></staff>
+<staff gid="2661663299"><task>Storyboard</task><person id="128474">Seiji Okuda</person></staff>
+<staff gid="1421364526"><task>Episode Director</task><person id="119">Daisuke Nishio</person></staff>
+<staff gid="2135423847"><task>Episode Director</task><person id="1094">Minoru Okazaki</person></staff>
+<staff gid="1710749090"><task>Episode Director</task><person id="4305">Akinori Nagaoka</person></staff>
+<staff gid="1099548299"><task>Episode Director</task><person id="5558">Toyoo Ashida</person></staff>
+<staff gid="1903071742"><task>Episode Director</task><person id="7257">Hiromitsu Morita</person></staff>
+<staff gid="1400689725"><task>Episode Director</task><person id="8979">Tomoharu Katsumata</person></staff>
+<staff gid="807144461"><task>Episode Director</task><person id="9547">Hiroki Shibata</person></staff>
+<staff gid="3029601103"><task>Episode Director</task><person id="9630">Yutaka Satō</person></staff>
+<staff gid="2617178234"><task>Episode Director</task><person id="11433">Masayuki Oozeki</person></staff>
+<staff gid="965893263"><task>Episode Director</task><person id="13647">Kazuhisa Takenouchi</person></staff>
+<staff gid="3836170887"><task>Episode Director</task><person id="14110">Hiroyuki Ikeda</person></staff>
+<staff gid="338152065"><task>Episode Director</task><person id="22337">Yoshio Mukainakano</person></staff>
+<staff gid="1458596347"><task>Episode Director</task><person id="34843">Yoshihiro Ueda</person></staff>
+<staff gid="1400339273"><task>Episode Director</task><person id="109359">Yūji Katō</person></staff>
+<staff gid="1091202880"><task>Episode Director</task><person id="129344">Hiroe Arakawa</person></staff>
+<staff gid="2025087562"><task>Music</task><person id="118">Shunsuke Kikuchi</person></staff>
+<staff gid="2543910277"><task>Original Manga</task><person id="12">Akira Toriyama</person></staff>
+<staff gid="2027862708"><task>Character Design</task><person id="14">Minoru Maeda</person></staff>
+<staff gid="2000075114"><task>Art</task><person id="13">Yuji Ikeda</person></staff>
+<staff gid="2213835569"><task>Art</task><person id="1640">Tadao Kubota</person></staff>
+<staff gid="1078005942"><task>Art</task><person id="3226">Mataji Urata</person></staff>
+<staff gid="2430345576"><task>Art</task><person id="3370">Takamura Mukuo</person></staff>
+<staff gid="2312751368"><task>Art</task><person id="19213">Jin Kageyama</person></staff>
+<staff gid="3369190112"><task>Art</task><person id="19370">Sadakazu Akashi</person></staff>
+<staff gid="2694189902"><task>Art</task><person id="19419">Hidenobu Hata</person></staff>
+<staff gid="2617954953"><task>Art</task><person id="20337">Etsuko Ogasawara</person></staff>
+<staff gid="2375245582"><task>Art</task><person id="20504">Isamu Tsuchida</person></staff>
+<staff gid="2932990568"><task>Art</task><person id="26844">Toshikazu Yamaguchi</person></staff>
+<staff gid="2727202777"><task>Art</task><person id="129855">Hisaharu Sumiyama</person></staff>
+<staff gid="874907895"><task>Animation Director</task><person id="2665">Kazuo Komatsubara</person></staff>
+<staff gid="2949181560"><task>Animation Director</task><person id="4647">Toshihiro Hirano</person></staff>
+<staff gid="1614338610"><task>Animation Director</task><person id="5558">Toyoo Ashida</person></staff>
+<staff gid="1156244324"><task>Animation Director</task><person id="20323">Rie Nishiyama</person></staff>
+<staff gid="2310151499"><task>Animation Director</task><person id="69838">Sachio Ebisawa</person></staff>
+<staff gid="2519989288"><task>Sound Director</task><person id="61230">Nobuhiro Komatsu</person></staff>
+<staff gid="445578880"><task>Producer</task><person id="1606">Kenji Shimizu</person></staff>
+<staff gid="1694519817"><task>Producer</task><person id="61418">Tokizō Tsuchiya</person></staff>
+<cast gid="641741526" lang="ES"><role>Akane</role><person id="3757">Sarah Souza</person></cast>
+<cast gid="1506428636" lang="ES"><role>Midori Yamabuki</role><person id="23477">Monica Manjarrez</person></cast>
+<cast gid="1330074021" lang="ES"><role>Akane</role><person id="23483">Belinda Martinez</person></cast>
+<cast gid="1971347502" lang="ES"><role>Arale Norimaki</role><person id="23790">Monica Estrada</person></cast>
+<cast gid="2441603535" lang="ES"><role>Taro</role><person id="23805">Luis Daniel Ramirez</person></cast>
+<cast gid="3158203049" lang="ES"><role>Senbei Norimaki</role><person id="25116">Ismael Larumbe</person></cast>
+<cast gid="1313310286" lang="ES"><role>Arale Norimaki</role><person id="32820">Ana Pallejà</person></cast>
+<cast gid="1664170530" lang="ES"><role>Midori Yamabuki</role><person id="41724">Noemi Bayarri</person></cast>
+<cast gid="2975212611" lang="ES"><role>Tarô Soramame</role><person id="47729">Manuel Osto</person></cast>
+<cast gid="179759931" lang="ES"><role>Arale Norimaki</role><person id="50492">Marta Barbará</person></cast>
+<cast gid="1690915500" lang="ES"><role>Pisuke Soramame</role><person id="50515">Vicky Martínez</person></cast>
+<cast gid="2442725136" lang="ES"><role>Arale Norimaki</role><person id="50517">Ana María Camps</person></cast>
+<cast gid="1171991575" lang="ES"><role>Pisuke</role><person id="50738">Nuria Doménech</person></cast>
+<cast gid="1952093776" lang="ES"><role>Akane Kimidori</role><person id="50754">Berta Cortés</person></cast>
+<cast gid="3095097509" lang="ES"><role>Akane Kimidori</role><person id="50771">Mayte Supervia</person></cast>
+<cast gid="1508714055" lang="ES"><role>Arale Norimaki</role><person id="52070">Nuria Mediavilla</person></cast>
+<cast gid="2032472407" lang="ES"><role>Sembei Norimaki</role><person id="52358">Alfonso Vallés</person></cast>
+<cast gid="2020446639" lang="ES"><role>Akane Kimidori</role><person id="55630">Maria Moscardó</person></cast>
+<cast gid="2997236965" lang="ES"><role>King Nikochan</role><person id="59608">Angel del Río</person></cast>
+<cast gid="1571158893" lang="ES"><role>Pagos</role><person id="59608">Angel del Río</person></cast>
+<cast gid="2312246860" lang="ES"><role>Sembei Norimaki</role><person id="62924">Ramon Puig</person></cast>
+<cast gid="2088367371" lang="ES"><role>Taro Soramame</role><person id="62932">Gal Soler</person></cast>
+<cast gid="1542633078" lang="ES"><role>Akane Kimidori</role><person id="62935">Teresa Soler</person></cast>
+<cast gid="1542446317" lang="ES"><role>Midori Yamabuki</role><person id="62969">TERESA MANRESA</person></cast>
+<cast gid="2602211117" lang="ES"><role>Midori Yamabuki</role><person id="63188">Carme Canet</person></cast>
+<cast gid="2177023319" lang="ES"><role>Arale Norimaki</role><person id="63193">Mònica Padrós</person></cast>
+<cast gid="2576043313" lang="ES"><role>Obokaman</role><person id="63270">Roser Contreras</person></cast>
+<cast gid="2694278526" lang="ES"><role>Taro Soramame</role><person id="63318">Pep Sais</person></cast>
+<cast gid="510436537" lang="ES"><role>Aoi Kimidori</role><person id="63334">Iris Lago</person></cast>
+<cast gid="2398044416" lang="ES"><role>Sembei Norimaki</role><person id="63340">Pep Torrents</person></cast>
+<cast gid="3199742894" lang="ES"><role>Taro Soramame</role><person id="64164">Lluis Gavalda</person></cast>
+<cast gid="2332860833" lang="ES"><role>Turbo Norimaki</role><person id="113411">Esther Artero</person></cast>
+<cast gid="3540719963" lang="ES"><role>Pisuke Soramame</role><person id="127933">Margarida Gual</person></cast>
+<cast gid="2879166172" lang="ES"><role>Pisuke Soramame</role><person id="127934">Gemma Laborda</person></cast>
+<cast gid="1428022695" lang="ES"><role>Akane Kimidori</role><person id="127935">Anna Grau</person></cast>
+<cast gid="2729347058" lang="FR"><role>Professeur Slump</role><person id="28873">Francis Lax</person></cast>
+<cast gid="1212869065" lang="FR"><role>Arale</role><person id="29024">Evelyne Grandjean</person></cast>
+<cast gid="832638313" lang="IT"><role>Prof. Senbei, Dr. Slump</role><person id="25628">Pietro Ubaldi</person></cast>
+<cast gid="1850894175" lang="IT"><role>Arale</role><person id="25929">Patrizia Scianca</person></cast>
+<cast gid="1888938503" lang="IT"><role>Arale</role><person id="26383">Francesca Rossiello</person></cast>
+<cast gid="1479139568" lang="IT"><role>Dr. Slump</role><person id="26560">Bruno Cattaneo</person></cast>
+<cast gid="3348924760" lang="JA"><role>Nikochan's Servant</role><person id="427">Shigeru Chiba</person></cast>
+<cast gid="3248556346" lang="JA"><role>Tsukutsun Tsun</role><person id="427">Shigeru Chiba</person></cast>
+<cast gid="2817867518" lang="JA"><role>Senbei Norimaki</role><person id="548">Kenji Utsumi</person></cast>
+<cast gid="2338402910" lang="JA"><role>Tsururin Tsun</role><person id="928">Yuko Mita</person></cast>
+<cast gid="2604043630" lang="JA"><role>Turbo kun</role><person id="928">Yuko Mita</person></cast>
+<cast gid="3512459708" lang="JA"><role>Pagos</role><person id="930">Masaharu Satou</person></cast>
+<cast gid="235873776" lang="JA"><role>Tarou Soramame</role><person id="1011">Toshio Furukawa</person></cast>
+<cast gid="879774227" lang="JA"><role>Arale Norimaki</role><person id="1249">Mami Koyama</person></cast>
+<cast gid="700210194" lang="JA"><role>Suppaman</role><person id="1250">Tesshô Genda</person></cast>
+<cast gid="1361939846" lang="JA"><role>Dr. Mashirito</role><person id="1446">Nachi Nozawa</person></cast>
+<cast gid="2138443035" lang="JA"><role>Akane Kimidori</role><person id="1533">Kazuko Sugiyama</person></cast>
+<cast gid="2586155913" lang="JA"><role>King Nikochan</role><person id="2071">Hiroshi Ohtake</person></cast>
+<cast gid="3471069304" lang="JA"><role>Gara</role><person id="2086">Isamu Tanonaka</person></cast>
+<cast gid="3244705745" lang="JA"><role>Obotchaman</role><person id="2595">Mitsuko Horie</person></cast>
+<cast gid="2030376453" lang="JA"><role>Midori Yamabuki</role><person id="3409">Mariko Mukai</person></cast>
+<cast gid="2699670196" lang="JA"><role>Dr. Mashirito</role><person id="4274">Keiichi Noda</person></cast>
+<cast gid="2224193234" lang="JA"><role>Gatchan's</role><person id="7675">Seiko Nakano</person></cast>
+<cast gid="1983052639" lang="JA"><role>Aoi Kimidori</role><person id="9972">Naomi Jinbo</person></cast>
+<cast gid="1826960050" lang="JA"><role>Piisuke Soramame</role><person id="9972">Naomi Jinbo</person></cast>
+<credit gid="2212304219"><task>Animation Production</task><company id="145">Toei Animation</company></credit>
+<credit gid="2506023605"><task>Production</task><company id="145">Toei Animation</company></credit>
+<credit gid="1804503519"><task>Production</task><company id="162">Fuji TV</company></credit>
+<credit gid="1276170447"><task>Production</task><company id="909">Shueisha</company></credit></anime></ann>

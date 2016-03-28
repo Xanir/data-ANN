@@ -1,0 +1,476 @@
+<ann><anime id="46" gid="407003953" type="TV" name="Mobile Suit Gundam" precision="TV" generated-on="2016-03-27T05:38:42Z">
+<related-prev rel="part of" id="4189"/>
+<related-next id="22" rel="spinoff"/>
+<related-next id="24" rel="spinoff"/>
+<related-next id="154" rel="compilation"/>
+<related-next id="1381" rel="sequel"/>
+<related-next id="1580" rel="spinoff"/>
+<related-next id="1628" rel="alternate retelling"/>
+<related-next id="2555" rel="adaptation"/>
+<related-next id="2980" rel="related"/>
+<related-next id="3903" rel="adaptation"/>
+<related-next id="3983" rel="spinoff"/>
+<related-next id="4095" rel="spinoff"/>
+<related-next id="4893" rel="spinoff"/>
+<related-next id="5539" rel="spinoff"/>
+<related-next id="5677" rel="sequel"/>
+<related-next id="5678" rel="prequel"/>
+<related-next id="5679" rel="sequel"/>
+<related-next id="5681" rel="spinoff"/>
+<related-next id="5696" rel="spinoff"/>
+<related-next id="6302" rel="spinoff"/>
+<related-next id="9213" rel="related"/>
+<related-next id="11053" rel="side story"/>
+<related-next id="11143" rel="related"/>
+<related-next id="13105" rel="prequel"/>
+<related-next id="13640" rel="related"/>
+<related-next id="17126" rel="side story"/>
+<related-next id="17533" rel="alternate retelling"/>
+<related-next id="17680" rel="related"/>
+<info gid="2174554493" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A46-202.1444288279.jpg" width="200" height="143"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A46-202.1444288279.jpg" width="200" height="143"/><img src="http://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A46-202.1444288279.jpg" width="350" height="250"/></info>
+<info gid="1681431185" type="Main title" lang="EN">Mobile Suit Gundam</info>
+<info gid="1756895035" type="Alternative title" lang="EN">First Gundam</info>
+<info gid="888554542" type="Alternative title" lang="EN">Gundam</info>
+<info gid="1492925168" type="Alternative title" lang="IT">Il ritorno di Gundam</info>
+<info gid="2548898012" type="Alternative title" lang="JA">Kidō Senshi Gundam</info>
+<info gid="422348789" type="Alternative title" lang="ES">Los Guerreros Moviles Gundam</info>
+<info gid="2261939069" type="Alternative title" lang="EN">Mobile Soldier Gundam</info>
+<info gid="3962004783" type="Alternative title" lang="EN">Mobile Suit Gundam 0079</info>
+<info gid="2711603041" type="Alternative title" lang="JA">ファーストガンダム</info>
+<info gid="1489027917" type="Alternative title" lang="JA">機動戦士ガンダム</info>
+<info gid="551550553" type="Genres">action</info>
+<info gid="1836656585" type="Genres">drama</info>
+<info gid="1737446770" type="Genres">science fiction</info>
+<info gid="1454920310" type="Themes">mecha</info>
+<info gid="3969570557" type="Themes">military</info>
+<info gid="2415735871" type="Themes">real robot</info>
+<info gid="3685775576" type="Objectionable content">TA</info>
+<info gid="350586357" type="Plot Summary">In the year Universial Century 0079, humanity lives in space colonies called Sides. Side 3, the Principality of Zeon, has declared war on the Earth Federation. After the intial fighting, an 8-month stalemate occured. However that stalemate breaks when Amuro Ray stumbles into the Gundam, the Earth Federation's secret weapon. Now Amuro and the crew of White Base must stand up to Zeon in order to end the war.</info>
+<info gid="2307236650" type="Running time">half hour</info>
+<info gid="2234550693" type="Number of episodes">43</info>
+<info gid="3147957933" type="Vintage">1979-04-07 to 1980-01-26</info>
+<info gid="1646779790" type="Vintage">2001-07-23 to 2001-09-12 (USA - Cancelled)</info>
+<info gid="2316972041" type="Opening Theme">&quot;Tobe! Gundam&quot; (翔べ! ガンダム; Fly! Gundam) by Koh Ikeda</info>
+<info gid="3072896612" type="Ending Theme">&quot;Eien ni Amuro&quot; (永遠にアムロ; Forever Amuro) by Koh Ikeda</info>
+<info gid="640371514" type="Insert song">&quot;Char ga Kuru&quot; (シャア���来る; Char is Coming) by Kouichiro Hori</info>
+<info gid="2803940042" type="Insert song">&quot;Ima wa Oyasumi&quot; (いまはおやすみ; Good Night For Now) by Keiko Toda</info>
+<info gid="1982924021" type="Insert song">&quot;Kirameki no Lalah&quot; (きらめきのララァ; Glittering Lalah) by Keiko Toda</info>
+<info gid="1670415505" type="Official website" lang="JA" href="http://www.bandai-museum.jp/miru/g_museum/g_museum.html">Bandai's Mobile Suit Museum</info>
+<info gid="3122328979" type="Official website" lang="EN" href="http://www.gundam.info">Gundam.info</info>
+<info gid="1694014039" type="Official website" lang="JA" href="http://www.gundam.jp/tv">機動戦士ガンダム公式Web</info>
+<ratings nb_votes="1116" weighted_score="7.6082" bayesian_score="7.60722"/>
+<episode num="1">
+<title gid="1842554805" lang="EN">Gundam Rises Upon the Earth!!</title></episode>
+<episode num="2">
+<title gid="1159527067" lang="EN">The Order to Destroy Gundam</title></episode>
+<episode num="3">
+<title gid="866687729" lang="EN">Attack the Enemy Supply Ship!</title></episode>
+<episode num="4">
+<title gid="210443210" lang="EN">The Battle to Escape from Luna II</title></episode>
+<episode num="5">
+<title gid="1987365437" lang="EN">Breaking Into the Atmosphere</title></episode>
+<episode num="6">
+<title gid="3747064375" lang="EN">Garma Strikes</title></episode>
+<episode num="7">
+<title gid="1948999574" lang="EN">The Core Fighter's Escape</title></episode>
+<episode num="8">
+<title gid="878239714" lang="EN">Battlefield Wasteland</title></episode>
+<episode num="9">
+<title gid="3003565317" lang="EN">Fly! Gundam</title></episode>
+<episode num="10">
+<title gid="992404628" lang="EN">Garma Falls</title></episode>
+<episode num="11">
+<title gid="1746216825" lang="EN">Icelina, Remaining Love</title></episode>
+<episode num="12">
+<title gid="1534082474" lang="EN">The Threat of Zeon</title></episode>
+<episode num="13">
+<title gid="1800004080" lang="EN">See You Again, Mom...</title></episode>
+<episode num="14">
+<title gid="485227453" lang="EN">Time, Be Still</title></episode>
+<episode num="15">
+<title gid="559881263" lang="EN">Cucuruz Doan's Island</title></episode>
+<episode num="16">
+<title gid="1933683032" lang="EN">Sayla Sorties</title></episode>
+<episode num="17">
+<title gid="2265936754" lang="EN">Amuro Deserts</title></episode>
+<episode num="18">
+<title gid="1079185736" lang="EN">The Red Hot Adzam Leader</title></episode>
+<episode num="19">
+<title gid="588079319" lang="EN">Ramba Ral's Suicide Attack!</title></episode>
+<episode num="20">
+<title gid="1485318871" lang="EN">Battle to Death! White Base</title></episode>
+<episode num="21">
+<title gid="101306159" lang="EN">The Hatred in Fighting</title></episode>
+<episode num="22">
+<title gid="3141162954" lang="EN">Breakthrough M'Quve's Trap!</title></episode>
+<episode num="23">
+<title gid="2757307727" lang="EN">The Battle to Rescue Matilda</title></episode>
+<episode num="24">
+<title gid="2515570017" lang="EN">Close Combat! Triple Dom</title></episode>
+<episode num="25">
+<title gid="857650933" lang="EN">The Battle of Odessa</title></episode>
+<episode num="26">
+<title gid="340712974" lang="EN">Char's Revival</title></episode>
+<episode num="27">
+<title gid="2515192642" lang="EN">Infiltrated by a Female Spy!</title></episode>
+<episode num="28">
+<title gid="1751446858" lang="EN">The Atlantic, Dyed with Blood</title></episode>
+<episode num="29">
+<title gid="1434493630" lang="EN">Jaburo Falls!</title></episode>
+<episode num="30">
+<title gid="2658365553" lang="EN">A Tiny Line of Defense</title></episode>
+<episode num="31">
+<title gid="39769719" lang="EN">Zanzibar, Pursuit!</title></episode>
+<episode num="32">
+<title gid="1192721777" lang="EN">Forced Breakthrough</title></episode>
+<episode num="33">
+<title gid="2302784411" lang="EN">Conscon's Assault</title></episode>
+<episode num="34">
+<title gid="889553740" lang="EN">The Fated Encounter</title></episode>
+<episode num="35">
+<title gid="2214705251" lang="EN">The Battle to Capture Solomon</title></episode>
+<episode num="36">
+<title gid="2481178230" lang="EN">Be Afraid! The Mobile Big Zam</title></episode>
+<episode num="37">
+<title gid="2319663903" lang="EN">The Duel in Texas</title></episode>
+<episode num="38">
+<title gid="2446365935" lang="EN">Reunion, Char and Sayla</title></episode>
+<episode num="39">
+<title gid="1053835517" lang="EN">The Newtype, Challia Bull</title></episode>
+<episode num="40">
+<title gid="1242367580" lang="EN">Elmeth's Lalah</title></episode>
+<episode num="41">
+<title gid="2574317385" lang="EN">Cosmic Glow</title></episode>
+<episode num="42">
+<title gid="2168887102" lang="EN">Space Fortress A Baoa Qu</title></episode>
+<episode num="43">
+<title gid="1333820010" lang="EN">Escape</title></episode>
+<review href="http://www.animenewsnetwork.com/review/mobile-suit-gundam/blu-ray-collection-02/.95370">Mobile Suit Gundam Part II Blu-Ray</review>
+<review href="http://www.animenewsnetwork.com/review/mobile-suit-gundam/blu-ray-collection-01/.94590">Mobile Suit Gundam Blu-Ray</review>
+<review href="http://www.animenewsnetwork.com/review/mobile-suit-gundam-collection-1/dvd">Mobile Suit Gundam - Collection 1 DVD</review>
+<review href="http://www.animenewsnetwork.com/review/mobile-suit-gundam/dvd-5">Mobile Suit Gundam DVD 5</review>
+<review href="http://www.animenewsnetwork.com/review/mobile-suit-gundam/dvd-3">Mobile Suit Gundam DVD 3</review>
+<review href="http://www.animenewsnetwork.com/review/mobile-suit-gundam/dvd-4">Mobile Suit Gundam DVD 4</review>
+<review href="http://www.animenewsnetwork.com/review/mobile-suit-gundam/dvd-2">Mobile Suit Gundam DVD 2</review>
+<review href="http://www.animenewsnetwork.com/review/mobile-suit-gundam/dvd-1">Mobile Suit Gundam DVD 1</review>
+<release date="2015-11-03" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=29766">Mobile Suit Gundam - Collection 01 (Blu-Ray)</release>
+<release date="2015-12-01" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=29768">Mobile Suit Gundam - Collection 02 (Blu-Ray)</release>
+<release date="2001-08-07" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=15819">Mobile Suit Gundam - The Battle Begins (DVD)</release>
+<release date="2001-10-02" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=15820">Mobile Suit Gundam - The Red Comet (DVD 2)</release>
+<release date="2001-10-02" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=15821">Mobile Suit Gundam - The Threat Of Zeon (DVD 3)</release>
+<release date="2001-12-04" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=15822">Mobile Suit Gundam - Desert Of Despair (DVD 4)</release>
+<release date="2001-12-04" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=15823">Mobile Suit Gundam - In Love And War (DVD 5)</release>
+<release date="2002-02-05" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=15824">Mobile Suit Gundam - The Black Tri-Star (DVD 6)</release>
+<release date="2002-02-05" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=15825">Mobile Suit Gundam - Return To Space (DVD 7)</release>
+<release date="2002-04-09" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=15826">Mobile Suit Gundam - The Battle Of Solomon (DVD 8)</release>
+<release date="2002-04-09" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=15827">Mobile Suit Gundam - New Type (DVD 9)</release>
+<release date="2002-06-04" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=15828">Mobile Suit Gundam - Lalah's Fate (DVD 10)</release>
+<release date="2011-09-13" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=18623">Mobile Suit Gundam - Complete Collection 1 [Anime Legends] (DVD)</release>
+<release date="2012-02-07" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=20238">Mobile Suit Gundam - Complete Collection 2 [Anime Legends] (DVD)</release>
+<release date="2015-11-03" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=29765">Mobile Suit Gundam - Collection 01 (DVD)</release>
+<release date="2015-12-01" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=29767">Mobile Suit Gundam - Collection 02 (DVD)</release>
+<release date="2001-08-07" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=428">Mobile Suit Gundam - The Battle Begins (Dub.DVD 1)</release>
+<release date="2001-10-02" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=137">Mobile Suit Gundam - The Red Comet (Dub.DVD 2)</release>
+<release date="2001-10-02" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=138">Mobile Suit Gundam - Threat of Zeon Uncut (Dub.DVD 3)</release>
+<release date="2001-12-04" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=155">Mobile Suit Gundam - Desert of Despair (Dub.DVD 4)</release>
+<release date="2001-12-04" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=156">Mobile Suit Gundam - In Love and War Uncut (Dub.DVD 5)</release>
+<release date="2001-12-18" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=158">Mobile Suit Gundam - The Black Tri-Star (Dub.DVD 6)</release>
+<release date="2002-02-05" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=398">Mobile Suit Gundam - Return to Space (Dub.DVD 7)</release>
+<release date="2002-04-09" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=444">Mobile Suit Gundam - The Battle of Solomon (Dub.DVD 8)</release>
+<release date="2002-04-09" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=445">Mobile Suit Gundam - NewTypes and the Future (Dub.DVD 9)</release>
+<release date="2002-06-04" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=530">Mobile Suit Gundam - Lalah's Fate (Dub.DVD 10)</release>
+<release date="2011-11-16" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=20225">Mobile Suit Gundam - Collection 1 (DVD)</release>
+<release date="2012-04-10" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=19783">Mobile Suit Gundam - Awakening, Escalation, Confrontation (Novel)</release>
+<release date="2001-08-07" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=15356">Mobile Suit Gundam - The Battle Begins (Dub.VHS 1)</release>
+<release date="2001-10-02" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1754">Mobile Suit Gundam - The Red Comet (Dub.VHS 2)</release>
+<release date="2001-10-02" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1753">Mobile Suit Gundam - Threat of Zeon (Dub.VHS 3)</release>
+<release date="2001-12-04" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1755">Mobile Suit Gundam - Desert of Despair (Dub.VHS 4)</release>
+<release date="2001-12-04" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1757">Mobile Suit Gundam - In Love and War (Dub.VHS 5)</release>
+<release date="2001-12-18" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1878">Mobile Suit Gundam - The Black Tri-Star (Dub.VHS 6)</release>
+<release date="2002-02-05" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1938">Mobile Suit Gundam - Return to Space (Dub.VHS 7)</release>
+<release date="2002-04-09" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1944">Mobile Suit Gundam - The Battle of Solomon (Dub.VHS 8)</release>
+<release date="2002-04-09" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1945">Mobile Suit Gundam - NewTypes and the Future (Dub.VHS 9)</release>
+<release date="2002-06-04" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1969">Mobile Suit Gundam - Lalah's Fate (Dub.VHS 10)</release>
+<news datetime="1998-08-15T04:00:00Z" href="http://www.animenewsnetwork.com/news/1998-08-15/otakon-98-wrap-up">Otakon 98 Wrap-Up</news>
+<news datetime="1998-11-10T05:00:00Z" href="http://www.animenewsnetwork.com/news/1998-11-10/viz-announces-new-comics-videos">Viz announces new comics, videos</news>
+<news datetime="1999-09-20T04:00:00Z" href="http://www.animenewsnetwork.com/news/1999-09-20/news-briefs">News Briefs</news>
+<news datetime="2000-11-03T02:40:42Z" href="http://www.animenewsnetwork.com/news/2000-11-02/releases-from-viz">Releases from Viz</news>
+<news datetime="2000-12-02T19:06:08Z" href="http://www.animenewsnetwork.com/news/2000-12-02/gundam-news-from-aka-kon">Gundam News from AKA KON</news>
+<news datetime="2001-01-16T03:56:48Z" href="http://www.animenewsnetwork.com/news/2001-01-15/animage-top-100-anime-listing">Animage Top-100 Anime Listing</news>
+<news datetime="2001-02-16T00:01:54Z" href="http://www.animenewsnetwork.com/news/2001-02-15/newly-remastered-ms-gundam-to-be-shown-in-toronto">Newly remastered MS Gundam to be Shown in Toronto</news>
+<news datetime="2001-07-07T19:48:06Z" href="http://www.animenewsnetwork.com/news/2001-07-07/bandai-at-ax">Bandai at AX</news>
+<news datetime="2001-07-17T01:06:34Z" href="http://www.animenewsnetwork.com/news/2001-07-16/wizard-lists-top-50-anime">Wizard lists Top 50 Anime</news>
+<news datetime="2001-08-13T01:43:03Z" href="http://www.animenewsnetwork.com/news/2001-08-12/newtype-top-10-anime">Newtype top 10 Anime</news>
+<news datetime="2001-11-02T16:16:15Z" href="http://www.animenewsnetwork.com/news/2001-11-02/viz-to-publish-big-o-manga">Viz to publish Big O Manga</news>
+<news datetime="2001-11-18T03:21:18Z" href="http://www.animenewsnetwork.com/news/2001-11-17/january-merchandise-releases">January Merchandise Releases</news>
+<news datetime="2002-02-25T17:22:13Z" href="http://www.animenewsnetwork.com/news/2002-02-25/anime-central-guest-announcement">Anime Central Guest Announcement</news>
+<news datetime="2002-07-25T16:40:21Z" href="http://www.animenewsnetwork.com/news/2002-07-25/top-anime-listing">Top Anime Listing</news>
+<news datetime="2002-07-29T12:47:13Z" href="http://www.animenewsnetwork.com/news/2002-07-29/otakon-2002-bandai-panel">Otakon 2002: Bandai Panel</news>
+<news datetime="2003-02-17T08:44:35Z" href="http://www.animenewsnetwork.com/news/2003-02-17/bandai-publicizes-new-anime-at-toy-fair">Bandai Publicizes New Anime at Toy Fair</news>
+<news datetime="2004-05-12T16:51:51Z" href="http://www.animenewsnetwork.com/news/2004-05-12/animage-awards">Animage Awards</news>
+<news datetime="2005-05-05T18:18:56Z" href="http://www.animenewsnetwork.com/news/2005-05-05/anime-postage-stamps">Anime Postage Stamps</news>
+<news datetime="2005-09-23T20:38:14Z" href="http://www.animenewsnetwork.com/news/2005-09-23/tv-asahi-top-100-anime-part-2">TV Asahi Top 100 Anime Part 2</news>
+<news datetime="2006-10-12T21:45:00Z" href="http://www.animenewsnetwork.com/news/2006-10-13/japans-favorite-tv-anime">Japan's Favorite TV Anime</news>
+<news datetime="2007-01-09T19:48:59Z" href="http://www.animenewsnetwork.com/news/2007-01-09/japan-post-evangelion-stamps">Japan Post Announces Evangelion Stamp Series</news>
+<news datetime="2007-04-16T19:51:12Z" href="http://www.animenewsnetwork.com/news/2007-04-16/japan-post-anime-stamp">Japan Post Announces Next Anime Stamp Series</news>
+<news datetime="2007-05-11T13:54:20Z" href="http://www.animenewsnetwork.com/news/2007-05-11/tv-tokyo-program-crowns-king-of-foreign-otaku">TV Tokyo Program Crowns King of Foreign Otaku</news>
+<news datetime="2007-06-01T16:53:26Z" href="http://www.animenewsnetwork.com/news/2007-06-01/japanese-animation-dvd-ranking-may-23-29">Japanese Animation DVD Ranking, May 23–29</news>
+<news datetime="2007-06-02T15:55:01Z" href="http://www.animenewsnetwork.com/news/2007-06-02/mobile-suit-gundam-00-tv-series-announced-for-october">&lt;cite&gt;Mobile Suit Gundam 00&lt;/cite&gt; TV Series Announced for October</news>
+<news datetime="2007-06-05T16:54:25Z" href="http://www.animenewsnetwork.com/news/2007-06-05/mobile-suit-gundam-00-staff-main-character-confirmed">&lt;cite&gt;Mobile Suit Gundam 00&lt;/cite&gt; Main Character, Staff Identified</news>
+<news datetime="2007-06-20T21:07:22Z" href="http://www.animenewsnetwork.com/news/2007-06-20/18-meter-robot-statue-to-stand-at-creator's-birthplace">18-Meter Robot Statue to Stand at Creator's Birthplace</news>
+<news datetime="2007-07-12T18:49:33Z" href="http://www.animenewsnetwork.com/news/2007-07-12/gundam's-char-dvd-player-recalled-due-to-fire-hazard">&lt;cite&gt;Gundam's&lt;/cite&gt; Char DVD Player Recalled Due to Fire Hazard</news>
+<news datetime="2007-07-16T15:11:19Z" href="http://www.animenewsnetwork.com/news/2007-07-16/gundam's-amuro-japan's-prime-minister-bring-out-vote">&lt;cite&gt;Gundam's&lt;/cite&gt; Amuro, Japan's Prime Minister Bring Out Vote</news>
+<news datetime="2007-07-18T10:29:39Z" href="http://www.animenewsnetwork.com/news/2007-07-18/gundam's-father-voices-to-unveil-18m-life-size-robot">&lt;cite&gt;Gundam's&lt;/cite&gt; Father, Voices to Unveil 18m, Life-Size Robot</news>
+<news datetime="2007-07-19T15:00:32Z" href="http://www.animenewsnetwork.com/news/2007-07-19/gundam's-voice-of-amuro-pilots-wii-game-demo">&lt;cite&gt;Gundam's&lt;/cite&gt; Voice of Amuro Pilots Wii Game Demo</news>
+<news datetime="2007-08-07T10:14:53Z" href="http://www.animenewsnetwork.com/news/2007-08-07/bandai-offers-us$1600-gundam-t-shirt">Bandai Offers US$1600 Gundam T-Shirt</news>
+<news datetime="2007-08-28T13:24:18Z" href="http://www.animenewsnetwork.com/news/2007-08-28/votoms-model-gundam-balloon-float-at-japan's-c3">1/1 &lt;cite&gt;Votoms&lt;/cite&gt; Model, &lt;cite&gt;Gundam&lt;/cite&gt; Balloon Float at Japan's C3</news>
+<news datetime="2007-08-29T16:02:30Z" href="http://www.animenewsnetwork.com/news/2007-08-29/5-channels-to-collaborate-on-gundam-festival-during-gundam-00's-premiere-month">Japan's SkyPerfectTV to Air 23 &lt;cite&gt;Gundam&lt;/cite&gt; Works in October</news>
+<news datetime="2007-08-31T13:59:45Z" href="http://www.animenewsnetwork.com/news/2007-08-31/nippon2007-asia's-first-worldcon-opens">Nippon2007, Asia's First WorldCon, Opens</news>
+<news datetime="2007-09-13T10:45:40Z" href="http://www.animenewsnetwork.com/news/2007-09-13/new-gundam-game-to-feature-robot-mecha-from-15-titles">New &lt;cite&gt;Gundam&lt;/cite&gt; Game to Feature Robot Mecha from 15 Titles</news>
+<news datetime="2007-09-25T02:03:02Z" href="http://www.animenewsnetwork.com/news/2007-09-24/bones-co-founder-hiroshi-osaka-passes-away-at-44">Bones Co-Founder Hiroshi Ōsaka Passes Away at 44</news>
+<news datetime="2007-10-31T09:27:29Z" href="http://www.animenewsnetwork.com/news/2007-10-31/banpresto-announces-new-gundam-goods-for-prize-drawing">Banpresto Announces New &lt;cite&gt;Gundam&lt;/cite&gt; Goods for Prize Drawing</news>
+<news datetime="2007-11-06T04:30:10Z" href="http://www.animenewsnetwork.com/news/2007-11-05/gackt-gundam-songs">Gackt to Release Album of &lt;cite&gt;Gundam&lt;/cite&gt; Songs</news>
+<news datetime="2007-11-06T19:22:31Z" href="http://www.animenewsnetwork.com/news/2007-11-06/dot-anime-has-gundam-flags-in-us-char's-robe-in-japan">Dot-Anime Has &lt;cite&gt;Gundam&lt;/cite&gt; Flags in US, Char's Robe in Japan</news>
+<news datetime="2007-11-09T21:00:21Z" href="http://www.animenewsnetwork.com/news/2007-11-09/gunbuster-vs-diebuster's-english-site-trailer-posted">&lt;cite&gt;Gunbuster vs. Diebuster's&lt;/cite&gt; English Site, Trailer Posted</news>
+<news datetime="2007-11-20T09:12:12Z" href="http://www.animenewsnetwork.com/news/2007-11-20/ghost-in-the-shell-2-artist-posts-decade-old-debut-work">&lt;cite&gt;Ghost in the Shell 2&lt;/cite&gt; Artist Posts Decade-Old Debut Work</news>
+<news datetime="2007-12-27T19:23:00Z" href="http://www.animenewsnetwork.com/news/2007-12-27/gundam-characters-hawk-instant-noodles-in-japan">&lt;cite&gt;Gundam&lt;/cite&gt; Characters Hawk Instant Noodles in Japan</news>
+<news datetime="2007-12-28T01:10:46Z" href="http://www.animenewsnetwork.com/news/2007-12-27/japanese-animation-dvd-ranking-december-19-25">Japanese Animation DVD Ranking, December 19–25</news>
+<news datetime="2007-12-30T11:24:33Z" href="http://www.animenewsnetwork.com/news/2008-01-01/best-selling-anime-of-2007">Japanese Animation DVD Ranking: Top 20 DVDs of 2007</news>
+<news datetime="2008-01-11T23:49:00Z" href="http://www.animenewsnetwork.com/news/2008-01-12/oshii-to-take-guest-post-at-tokyo-keizai-university">Oshii to Take Guest Post at Tokyo Keizai University</news>
+<news datetime="2008-01-15T09:03:42Z" href="http://www.animenewsnetwork.com/news/2008-01-15/japanese-animation-dvd-ranking-december-26-january-1">Japanese Animation DVD Ranking, December 26–January 1</news>
+<news datetime="2008-01-17T10:32:58Z" href="http://www.animenewsnetwork.com/news/2008-01-17/japanese-animation-dvd-ranking-january-2-15">Japanese Animation DVD Ranking, January 2–15</news>
+<news datetime="2008-01-27T10:44:57Z" href="http://www.animenewsnetwork.com/news/2008-01-27/japanese-animation-dvd-ranking-january-16-22">Japanese Animation DVD Ranking, January 16–22</news>
+<news datetime="2008-02-18T19:54:02Z" href="http://www.animenewsnetwork.com/news/2008-02-18/bandai-top-franchises">Bandai's Top Franchises: &lt;cite&gt;Gundam, Rangers, Dragon Ball&lt;/cite&gt;</news>
+<news datetime="2008-03-01T00:54:49Z" href="http://www.animenewsnetwork.com/news/2008-02-29/usa-cartoon-network-to-run-blue-dragon-this-spring">America's Cartoon Network to Run &lt;cite&gt;Blue Dragon&lt;/cite&gt; This Spring</news>
+<news datetime="2008-03-25T17:06:26Z" href="http://www.animenewsnetwork.com/news/2008-03-25/gundam-ms-igloo-2-anime-announced">&lt;cite&gt;Gundam MS IGLOO 2&lt;/cite&gt; Anime Announced</news>
+<news datetime="2008-05-01T14:42:57Z" href="http://www.animenewsnetwork.com/news/2008-05-01/sunrise-producer-kenji-uchida-promoted-to-president">Sunrise Producer Kenji Uchida Promoted to President</news>
+<news datetime="2008-05-07T15:34:59Z" href="http://www.animenewsnetwork.com/news/2008-05-07/hiroshima-to-host-intl-gundam-society">Hiroshima to Host International &lt;cite&gt;Gundam&lt;/cite&gt; Society</news>
+<news datetime="2008-05-26T03:57:04Z" href="http://www.animenewsnetwork.com/news/2008-05-25/japanese-mall-uses-gundam-figure-in-olympic-tribute">Japanese Mall Uses &lt;cite&gt;Gundam&lt;/cite&gt; Figure in Olympic Tribute</news>
+<news datetime="2008-05-27T01:49:49Z" href="http://www.animenewsnetwork.com/news/2008-05-26/gundam-painting-auctioned-for-us$600000+in-hong-kong">&lt;cite&gt;Gundam&lt;/cite&gt; Painting Auctioned for US$600,000+ in Hong Kong</news>
+<news datetime="2008-06-23T18:00:53Z" href="http://www.animenewsnetwork.com/news/2008-06-23/tekkonkinkreet-n.y-salad-dororo-win-technical-awards">&lt;cite&gt;Tekkonkinkreet, N.Y. Salad, Dororo&lt;/cite&gt; Win Technical Awards</news>
+<news datetime="2008-07-10T03:14:32Z" href="http://www.animenewsnetwork.com/news/2008-07-09/eva-01-is-japan-no.4-selling-dvd-of-2008-1st-half">&lt;cite&gt;Eva:01&lt;/cite&gt; is Japan's #4 Selling DVD of 2008's 1st Half</news>
+<news datetime="2008-07-31T08:14:30Z" href="http://www.animenewsnetwork.com/news/2008-07-31/japanese-govt-hosts-world-cosplay-summit-finalists">Japanese Gov't Hosts World Cosplay Summit Finalists</news>
+<news datetime="2008-08-07T09:51:24Z" href="http://www.animenewsnetwork.com/news/2008-08-07/store-sells-pundam-epangelion-cosplay-for-dogs">Store Sells 'Pundam,' 'Epangelion' Cosplay for Dogs</news>
+<news datetime="2008-08-25T17:29:15Z" href="http://www.animenewsnetwork.com/news/2008-08-25/2nd-cg-gundam-ms-igloo-2-promo-video-streamed">2nd CG &lt;cite&gt;Gundam: MS IGLOO 2&lt;/cite&gt; Promo Video Streamed</news>
+<news datetime="2008-12-03T09:21:26Z" href="http://www.animenewsnetwork.com/news/2008-12-03/amazon-japan-posts-2008-top-10-dvds-cds-toys">Amazon Japan Posts 2008's Top-10 DVDs, CDs, Toys</news>
+<news datetime="2009-01-04T15:21:39Z" href="http://www.animenewsnetwork.com/news/2009-01-04/2008-top-selling-light-novels-in-japan">2008's Top-Selling Light Novels in Japan</news>
+<news datetime="2009-02-25T00:42:45Z" href="http://www.animenewsnetwork.com/news/2009-02-24/blue-dragon-1st-episode-posted-on-itunes-for-free">&lt;cite&gt;Blue Dragon's&lt;/cite&gt; 1st Episode Posted on iTunes for Free</news>
+<news datetime="2009-03-11T04:57:23Z" href="http://www.animenewsnetwork.com/news/2009-03-11/18-meter-gundam-to-rise-at-tokyo-odaiba-island-in-july">18-Meter Gundam to Rise at Tokyo's Odaiba Island in July</news>
+<news datetime="2009-03-11T09:02:53Z" href="http://www.animenewsnetwork.com/news/2009-03-11/bandai-head/no-plans-for-2009-gundam-tv-series">Bandai Head: No Plans for 2009 &lt;cite&gt;Gundam&lt;/cite&gt; TV Series</news>
+<news datetime="2009-03-17T07:59:38Z" href="http://www.animenewsnetwork.com/news/2009-03-17/revamped-rx-78-7-gundam-to-be-in-gundam-senki-ps3-game">Revamped RX-78-7 Gundam to Be in &lt;cite&gt;Gundam Senki&lt;/cite&gt; PS3 Game</news>
+<news datetime="2009-04-21T15:21:14Z" href="http://www.animenewsnetwork.com/news/2009-04-21/gundam-unicorn-novels-anime-adaptation-confirmed">&lt;cite&gt;Gundam Unicorn&lt;/cite&gt; Novels' Anime Adaptation Reportedly Confirmed</news>
+<news datetime="2009-04-22T09:31:08Z" href="http://www.animenewsnetwork.com/news/2009-04-22/gundam-unicorn-anime-officially-announced">&lt;cite&gt;Gundam Unicorn&lt;/cite&gt; Anime Officially Announced</news>
+<news datetime="2009-04-23T06:55:49Z" href="http://www.animenewsnetwork.com/news/2009-04-23/18-meter-lifesize-gundam-making-of-video-streamed">18-Meter Lifesize Gundam's 'Making-of' Video Streamed</news>
+<news datetime="2009-05-02T16:20:04Z" href="http://www.animenewsnetwork.com/news/2009-05-02/sunrise-animates-tokyo-panic-cruise-theme-attraction">Sunrise Animates &lt;cite&gt;Tokyo Panic Cruise&lt;/cite&gt; Ride Attraction</news>
+<news datetime="2009-06-09T14:47:25Z" href="http://www.animenewsnetwork.com/news/2009-06-09/18-meter-lifesize-gundam-statue-nears-completion">18-Meter 'Life-size' Gundam Statue Nears Completion</news>
+<news datetime="2009-06-13T21:17:13Z" href="http://www.animenewsnetwork.com/news/2009-06-13/18-meter-life-size-gundam-videos-night-shots-posted">18-Meter Life-Size Gundam's Videos, Night Shots Posted</news>
+<news datetime="2009-06-14T16:33:01Z" href="http://www.animenewsnetwork.com/news/2009-06-14/life-size-gundam-statue-special-effects-on-video">Life-Size Gundam Statue's Special Effects on Video</news>
+<news datetime="2009-06-19T16:00:00Z" href="http://www.animenewsnetwork.com/news/2009-06-19/gundam-yoshiyuki-tomino-to-appear-at-ny-anime-fest">&lt;cite&gt;Gundam's&lt;/cite&gt; Yoshiyuki Tomino to Appear at NY Anime Fest</news>
+<news datetime="2009-06-27T16:44:01Z" href="http://www.animenewsnetwork.com/news/2009-06-27/new-gundam-manga-launching-in-japan-gundam-ace-mag">New &lt;cite&gt;Gundam&lt;/cite&gt; Manga Launching in Japan's &lt;cite&gt;Gundam Ace&lt;/cite&gt; Mag</news>
+<news datetime="2009-06-30T08:46:44Z" href="http://www.animenewsnetwork.com/news/2009-06-30/animators-split-on-proposed-national-media-arts-center">Animators Split on Proposed National Media Arts Center</news>
+<news datetime="2009-07-07T17:03:15Z" href="http://www.animenewsnetwork.com/news/2009-07-07/yoshiyuki-tomino-reportedly-on-ring-of-gundam-short">Yoshiyuki Tomino Reportedly on 'Ring of Gundam' Short</news>
+<news datetime="2009-07-10T14:28:28Z" href="http://www.animenewsnetwork.com/news/2009-07-10/1/1-scale-life-size-gundam-finally-really-completed">1/1-Scale 'Life-Size' Gundam (Finally, Really) Completed (Update 3)</news>
+<news datetime="2009-07-14T14:39:30Z" href="http://www.animenewsnetwork.com/news/2009-07-14/gundam-zz-bd-boxes-to-ship-with-gundam-frag-cg-shorts">&lt;cite&gt;Gundam ZZ&lt;/cite&gt; BD-Boxes to Ship with 'Gundam Frag' CG Shorts</news>
+<news datetime="2009-07-24T13:40:19Z" href="http://www.animenewsnetwork.com/news/2009-07-24/gundam-ms-movie-files-get-dvd/umd-release">&lt;cite&gt;Gundam MS Movie Files&lt;/cite&gt; Get DVD/UMD Release</news>
+<news datetime="2009-07-29T16:01:37Z" href="http://www.animenewsnetwork.com/news/2009-07-29/japanese-animation-dvd-ranking-july-20-26">Japanese Animation DVD Ranking, July 20-26</news>
+<news datetime="2009-07-31T04:03:55Z" href="http://www.animenewsnetwork.com/news/2009-07-31/magazine-posts-correction-on-gundam-unicorn-release">Magazine Posts Correction on &lt;cite&gt;Gundam Unicorn's&lt;/cite&gt; Release</news>
+<news datetime="2009-08-13T04:26:56Z" href="http://www.animenewsnetwork.com/news/2009-08-13/newtype-posts-correction-on-gundam-unicorn-release">&lt;cite&gt;Newtype&lt;/cite&gt; Posts Correction on &lt;cite&gt;Gundam Unicorn's&lt;/cite&gt; Release</news>
+<news datetime="2009-08-14T13:38:10Z" href="http://www.animenewsnetwork.com/news/2009-08-14/gundam-rock-english-cover-album-to-ship-in-japan">&lt;cite&gt;Gundam Rock&lt;/cite&gt; English Cover Album to Ship in Japan</news>
+<news datetime="2009-08-16T21:38:15Z" href="http://www.animenewsnetwork.com/news/2009-08-16/bandai-channel-to-stream-anime-in-u.s-eurasia-at-start-of-2010">Bandai Channel to Stream Anime in U.S., Eurasia at Start of 2010</news>
+<news datetime="2009-08-19T08:54:52Z" href="http://www.animenewsnetwork.com/news/2009-08-19/gundam-unicorn-novelist-outlines-1st-anime-installment">&lt;cite&gt;Gundam Unicorn&lt;/cite&gt; Novelist Outlines 1st Anime Installment</news>
+<news datetime="2009-08-21T05:37:19Z" href="http://www.animenewsnetwork.com/news/2009-08-21/gundam-unicorn-to-be-6-50-minute-ovas">&lt;cite&gt;Gundam Unicorn&lt;/cite&gt; to Be 6 50-Minute OVAs (Update 2)</news>
+<news datetime="2009-08-21T08:02:10Z" href="http://www.animenewsnetwork.com/news/2009-08-21/part-of-yoshiyuki-tomino-ring-of-gundam-previewed">Part of Yoshiyuki Tomino's 'Ring of Gundam' Previewed</news>
+<news datetime="2009-08-28T02:28:25Z" href="http://www.animenewsnetwork.com/news/2009-08-27/afro-samurai/resurrection-shigemi-ikeda-wins-emmy">&lt;cite&gt;Afro Samurai: Resurrection's&lt;/cite&gt; Shigemi Ikeda Wins Emmy</news>
+<news datetime="2009-09-19T05:26:04Z" href="http://www.animenewsnetwork.com/news/2009-09-19/firm-uses-gundam-model-making-to-test-job-applicants">Firm Uses &lt;cite&gt;Gundam&lt;/cite&gt; Model-Making to Test Job Applicants</news>
+<news datetime="2009-10-21T03:00:00Z" href="http://www.animenewsnetwork.com/news/2009-10-20/japanese-animation-dvd-ranking-october-12-18">Japanese Animation DVD Ranking, October 12-18</news>
+<news datetime="2009-10-21T08:33:12Z" href="http://www.animenewsnetwork.com/news/2009-10-21/thai-fans-build-life-size-gundam-bust-before-expo">Thai Fans Build Life-Size &lt;cite&gt;Gundam&lt;/cite&gt; Bust Before Expo</news>
+<news datetime="2009-10-23T02:44:04Z" href="http://www.animenewsnetwork.com/news/2009-10-22/gundam-unicorn-to-have-english-dub-5-language-subs">&lt;cite&gt;Gundam Unicorn&lt;/cite&gt; to Have English Dub, 5-Language Subs</news>
+<news datetime="2009-11-27T05:12:17Z" href="http://www.animenewsnetwork.com/news/2009-11-27/gundam-plastic-model-tree-to-rise-in-akihabara">&lt;cite&gt;Gundam&lt;/cite&gt; Plastic Model Tree to Rise in Akihabara</news>
+<news datetime="2009-12-14T20:22:48Z" href="http://www.animenewsnetwork.com/news/2009-12-14/namie-amuro-gundam-amuro-make-joint-music-video">Namie Amuro, &lt;cite&gt;Gundam's&lt;/cite&gt; Amuro Make Joint Music Video</news>
+<news datetime="2009-12-23T20:59:54Z" href="http://www.animenewsnetwork.com/news/2009-12-23/gundam/zeon-children-academy-manga-starts-in-january">&lt;cite&gt;Gundam: Zeon Children's Academy&lt;/cite&gt; Manga Starts in January</news>
+<news datetime="2009-12-25T06:17:44Z" href="http://www.animenewsnetwork.com/news/2009-12-25/gundam-unicorn-anime-english-cast-announced">&lt;cite&gt;Gundam Unicorn&lt;/cite&gt; Anime's English Dubbing Cast Announced</news>
+<news datetime="2010-01-11T18:34:29Z" href="http://www.animenewsnetwork.com/news/2010-01-11/nico-nico-douga-launches-dvd-commenting-service">Nico Nico Douga Launches DVD Commenting Service</news>
+<news datetime="2010-01-14T22:19:21Z" href="http://www.animenewsnetwork.com/news/2010-01-14/english-gundam-uc-on-amazon-other-gundam-to-get-streams">English &lt;cite&gt;Gundam UC&lt;/cite&gt; on Amazon, Other &lt;cite&gt;Gundam&lt;/cite&gt; to Get Streams</news>
+<news datetime="2010-01-28T00:07:15Z" href="http://www.animenewsnetwork.com/news/2010-01-27/male-arrested-in-japan-for-uploading-via-perfect-dark">Male Arrested in Japan for Uploading via Perfect Dark (Update 2)</news>
+<news datetime="2010-01-28T08:55:48Z" href="http://www.animenewsnetwork.com/news/2010-01-28/gundam-unicorn-world-premiere-in-hong-kong-on">&lt;cite&gt;Gundam Unicorn's&lt;/cite&gt; World Premiere in Hong Kong on 2/6</news>
+<news datetime="2010-02-01T05:28:08Z" href="http://www.animenewsnetwork.com/news/2010-02-01/all-of-z-gundam-2-gundam-uc-trailers-now-streaming">All of &lt;cite&gt;Z Gundam&lt;/cite&gt;, 2 &lt;cite&gt;Gundam UC&lt;/cite&gt; Trailers Now Streaming</news>
+<news datetime="2010-02-15T04:10:00Z" href="http://www.animenewsnetwork.com/news/2010-02-14/first-gundam-anime-all-of-gundam-seed-now-streaming">First &lt;cite&gt;Gundam&lt;/cite&gt; Anime, All of &lt;cite&gt;Gundam Seed&lt;/cite&gt; Now Streaming</news>
+<news datetime="2010-02-16T08:05:15Z" href="http://www.animenewsnetwork.com/news/2010-02-16/some-of-the-4th-annual-seiyu-award-winners-revealed">Some of the 4th Annual Seiyū Award Winners Revealed</news>
+<news datetime="2010-02-24T04:12:15Z" href="http://www.animenewsnetwork.com/news/2010-02-23/bandai-ent-delays-releases-of-code-geass-gundam-00">Bandai Ent. Delays Releases of &lt;cite&gt;Code Geass&lt;/cite&gt;, &lt;cite&gt;Gundam 00&lt;/cite&gt;</news>
+<news datetime="2010-02-25T02:24:12Z" href="http://www.animenewsnetwork.com/news/2010-02-24/gundam-uc-u.s-theatrical-premiere-in-san-francisco">&lt;cite&gt;Gundam UC's&lt;/cite&gt; U.S. Theatrical Premiere in San Francisco</news>
+<news datetime="2010-03-06T14:05:32Z" href="http://www.animenewsnetwork.com/news/2010-03-06/4th-annual-seiyu-award-winners-announced">4th Annual Seiyū Award Winners Announced</news>
+<news datetime="2010-03-11T04:57:00Z" href="http://www.animenewsnetwork.com/news/2010-03-10/mizuno-draws-faith-no-more-poster-kuriyama-on-mtv-iggy">Mizuno Draws Faith No More Poster, Kuriyama on MTV Iggy</news>
+<news datetime="2010-03-11T22:00:24Z" href="http://www.animenewsnetwork.com/news/2010-03-11/anime-expo-announces-toshihiro-kawamoto-as-a-guest-of-honor">Anime Expo to Host &lt;cite&gt;Bebop&lt;/cite&gt; Designer Toshihiro Kawamoto</news>
+<news datetime="2010-03-26T05:17:28Z" href="http://www.animenewsnetwork.com/news/2010-03-26/kindaichi-creator-gundam-designer-animate-kihei-senki-legacies">&lt;cite&gt;Kindaichi&lt;/cite&gt; Creator, &lt;cite&gt;Gundam&lt;/cite&gt; Designer Animate &lt;cite&gt;Kihei Senki Legacies&lt;/cite&gt;</news>
+<news datetime="2010-04-08T03:54:50Z" href="http://www.animenewsnetwork.com/news/2010-04-07/gundam-trilogy-sakuran-yatterman-run-in-california">&lt;cite&gt;Gundam&lt;/cite&gt; Trilogy, &lt;cite&gt;Sakuran, Yatterman&lt;/cite&gt; Run in California</news>
+<news datetime="2010-04-08T08:00:00Z" href="http://www.animenewsnetwork.com/news/2010-04-08/bandai-schedules-mobile-suit-zeta-gundam-films-in-june">Bandai Schedules &lt;cite&gt;Mobile Suit Zeta Gundam&lt;/cite&gt; Films in June</news>
+<news datetime="2010-04-21T03:58:31Z" href="http://www.animenewsnetwork.com/news/2010-04-20/gundam-plastic-models/over-400-million-served">&lt;cite&gt;Gundam&lt;/cite&gt; Plastic Models: Over 400 Million Served</news>
+<news datetime="2010-05-20T11:00:00Z" href="http://www.animenewsnetwork.com/news/2010-05-20/japan-surveyed-on-anime-manga-other-cultural-exports">Japan Surveyed on Anime, Manga, Other Cultural Exports</news>
+<news datetime="2010-06-10T14:00:00Z" href="http://www.animenewsnetwork.com/news/2010-06-10/singer-namie-amuro-turned-into-tatsunoko-character">Singer Namie Amuro Turned into Tatsunoko Character</news>
+<news datetime="2010-07-20T11:26:04Z" href="http://www.animenewsnetwork.com/news/2010-07-20/kinnikuman-voice-actor-tetsuo-mizutori-passes-away">&lt;cite&gt;Kinnikuman&lt;/cite&gt; Voice Actor Tetsuo Mizutori Passes Away</news>
+<news datetime="2010-07-27T03:18:35Z" href="http://www.animenewsnetwork.com/news/2010-07-26/gundam-w/endless-waltz-anime-to-spawn-new-manga">&lt;cite&gt;Gundam W: Endless Waltz&lt;/cite&gt; Anime to Spawn New Manga</news>
+<news datetime="2010-08-01T02:28:39Z" href="http://www.animenewsnetwork.com/news/2010-07-31/bandai-ent-adds-my-otome-0-s.ifr-sora-kake-girl">Bandai Ent. Adds &lt;cite&gt;My-Otome 0~S.ifr~, Sora Kake Girl&lt;/cite&gt;</news>
+<news datetime="2010-08-07T06:06:36Z" href="http://www.animenewsnetwork.com/news/2010-08-07/guin-saga-summer-wars-pluto-win-at-japan-sci-fi-con">&lt;cite&gt;Guin Saga, Summer Wars, Pluto&lt;/cite&gt; Win at Japan Sci-Fi Con</news>
+<news datetime="2010-08-25T14:44:07Z" href="http://www.animenewsnetwork.com/news/2010-08-25/dubbed-gundam-uc-zakuro-aria-promos-streamed">Dubbed &lt;cite&gt;Gundam UC #2, Zakuro, Hidan no Aria&lt;/cite&gt; Promos Streamed (Update 2)</news>
+<news datetime="2010-08-30T18:30:38Z" href="http://www.animenewsnetwork.com/news/2010-08-30/last-6-monster-anime-episodes-premiere-on-syfy-tonight">Last 6 &lt;cite&gt;Monster&lt;/cite&gt; Anime Episodes Premiere on Syfy Tonight</news>
+<news datetime="2010-09-15T01:00:30Z" href="http://www.animenewsnetwork.com/news/2010-09-15/linkin-park-rock-album-to-bundle-gundam-plastic-model">Linkin Park Rock Album to Bundle &lt;cite&gt;Gundam&lt;/cite&gt; Plastic Model</news>
+<news datetime="2010-10-09T15:37:48Z" href="http://www.animenewsnetwork.com/news/2010-10-09/bandai-ent-adds-1st-gundam-tv-with-english-subs">Bandai Ent. Adds &lt;cite&gt;Gundam 00&lt;/cite&gt; Film, Subbed 1st &lt;cite&gt;Gundam&lt;/cite&gt; TV</news>
+<news datetime="2010-10-09T17:07:03Z" href="http://www.animenewsnetwork.com/news/2010-10-09/bandai-ent-adds-gundam-00-film-subbed-1st-gundam-tv-updated">&lt;a href=&quot;/news/2010-10-09/bandai-ent-adds-1st-gundam-tv-with-english-subs&quot;&gt;Bandai Ent. Adds &lt;cite&gt;Gundam 00&lt;/cite&gt; Film, Subbed 1st &lt;cite&gt;Gundam&lt;/cite&gt; TV (Updated)&lt;/a&gt;</news>
+<news datetime="2010-10-09T18:57:48Z" href="http://www.animenewsnetwork.com/news/2010-10-09/crunchyroll-adds-milky-holmes-demonbane-macademi">Crunchyroll Adds &lt;cite&gt;Milky Holmes, Demonbane, Macademi&lt;/cite&gt;</news>
+<news datetime="2010-12-03T04:55:23Z" href="http://www.animenewsnetwork.com/news/2010-12-02/lucky-star-spice-and-wolf-ii-uta-kata-streamed">&lt;cite&gt;Lucky Star&lt;/cite&gt;, &lt;cite&gt;Spice and Wolf II&lt;/cite&gt;, &lt;cite&gt;Uta∽Kata&lt;/cite&gt; Streamed</news>
+<news datetime="2010-12-01T03:22:20Z" href="http://www.animenewsnetwork.com/news/2010-11-30/japan-animation-dvd-ranking-november-22-28-part-2">Japan's Animation DVD Ranking, November 22-28 (Part 2)</news>
+<news datetime="2010-12-29T02:41:11Z" href="http://www.animenewsnetwork.com/news/2010-12-28/japan-animation-dvd-ranking-december-20-26-part-2">Japan's Animation DVD Ranking, December 20-26 (Part 2)</news>
+<news datetime="2011-01-30T04:45:35Z" href="http://www.animenewsnetwork.com/news/2011-01-30/madman-acquisitions-from-wai-con-2011">Madman acquisitions from Wai-Con 2011</news>
+<news datetime="2011-03-10T06:38:54Z" href="http://www.animenewsnetwork.com/news/2011-03-10/voice-actor-kan-tokumaru-passes-away-at-69">Voice Actor Kan Tokumaru Passes Away at 69</news>
+<news datetime="2011-03-29T14:37:03Z" href="http://www.animenewsnetwork.com/news/2011-03-30/japan-foundation-sydney-hosting-japan/kingdom-of-characters-exhibit">Japan Foundation Sydney hosting Japan: Kingdom of Characters exhibit</news>
+<news datetime="2011-04-25T10:30:00Z" href="http://www.animenewsnetwork.com/news/2011-04-25/new-kadokawa-manga-mag-new-z-gundam-manga-revealed">New Kadokawa Manga Mag, New &lt;cite&gt;Z Gundam&lt;/cite&gt; Manga Revealed</news>
+<news datetime="2011-05-05T06:45:00Z" href="http://www.animenewsnetwork.com/news/2011-05-05/california-fanime-to-host-voice-actor-tohru-furuya">California's Fanime to Host Voice Actor Tohru Furuya</news>
+<news datetime="2011-05-17T13:19:12Z" href="http://www.animenewsnetwork.com/news/2011-05-17/art-director-mitsuki-nakamura-passes-away">Art Director Mitsuki Nakamura Passes Away</news>
+<news datetime="2011-05-23T14:58:02Z" href="http://www.animenewsnetwork.com/news/2011-05-24/weekly-wrapup-15/5-21/5">Weekly Wrapup 15/5 - 21/5</news>
+<news datetime="2011-06-04T13:10:29Z" href="http://www.animenewsnetwork.com/news/2011-06-04/gundam-t-shirt-range-from-uniqlo">&lt;cite&gt;Gundam&lt;/cite&gt; T-Shirt Range From Uniqlo</news>
+<news datetime="2011-06-13T04:55:00Z" href="http://www.animenewsnetwork.com/news/2011-06-13/sgt-frog-susumu-yamaguchi-to-direct-gundam-age">&lt;cite&gt;Sgt. Frog's&lt;/cite&gt; Susumu Yamaguchi to Direct &lt;cite&gt;Gundam AGE&lt;/cite&gt;</news>
+<news datetime="2011-06-22T09:59:42Z" href="http://www.animenewsnetwork.com/news/2011-06-22/gundam-the-origin-manga-to-launch-anime-project">&lt;cite&gt;Gundam The Origin&lt;/cite&gt; Manga to Launch Anime Project</news>
+<news datetime="2011-07-18T15:42:11Z" href="http://www.animenewsnetwork.com/news/2011-07-19/weekly-wrapup-10/july-16/july">Weekly Wrapup - 10/July - 16/July</news>
+<news datetime="2011-09-07T02:08:35Z" href="http://www.animenewsnetwork.com/news/2011-09-06/1st-gundam-film-trilogy-streamed-with-english-subs">1st &lt;cite&gt;Gundam&lt;/cite&gt; Film Trilogy Streamed With English Subs</news>
+<news datetime="2011-09-14T01:00:00Z" href="http://www.animenewsnetwork.com/news/2011-09-13/north-american-anime-manga-releases/september-11-17">North American Anime, Manga Releases: September 11-17</news>
+<news datetime="2011-09-27T14:40:00Z" href="http://www.animenewsnetwork.com/news/2011-09-27/japan-animation-dvd-ranking-september-19-25">Japan's Animation DVD Ranking, September 19-25</news>
+<news datetime="2011-10-16T16:46:04Z" href="http://www.animenewsnetwork.com/news/2011-10-16/beez-entertainment-to-sell-off-titles-at-london-mcm-expo">Beez Entertainment to Sell Off Titles at London MCM Expo</news>
+<news datetime="2011-10-20T21:40:00Z" href="http://www.animenewsnetwork.com/news/2011-10-20/stone-bridge-press-to-publish-new-editions-of-gundam-novels-in-2012">Stone Bridge Press to Publish New Editions of &lt;cite&gt;Gundam&lt;/cite&gt; Novels in 2012</news>
+<news datetime="2011-11-06T00:30:00Z" href="http://www.animenewsnetwork.com/news/2011-11-05/bandai-namco-breaks-down-revenues-by-franchise">Bandai Namco Breaks Down Revenues by Franchise</news>
+<news datetime="2011-12-07T15:55:33Z" href="http://www.animenewsnetwork.com/news/2011-12-07/maro-kart-7-gundam-ex-vs-top-chart-with-423619-and-349756">&lt;cite&gt;Mario Kart 7, Gundam EX Vs.&lt;/cite&gt; Top Chart With 423,619 &amp; 349,756</news>
+<news datetime="2012-04-19T04:52:57Z" href="http://www.animenewsnetwork.com/news/2012-04-19/avcon-2012-preregistration-open">AVCon 2012 Preregistration Open</news>
+<news datetime="2011-12-14T16:40:00Z" href="http://www.animenewsnetwork.com/news/2011-12-14/monster-hunter-3-g-sells-521959-to-top-weekly-chart">&lt;cite&gt;Monster Hunter 3 G&lt;/cite&gt; Sells 521,959 to Top Weekly Chart</news>
+<news datetime="2011-12-27T03:57:12Z" href="http://www.animenewsnetwork.com/news/2011-12-26/gatchaman-kuri-ashita-no-joe-yamazaki-win-tokyo-anime-awards">&lt;cite&gt;Gatchaman's&lt;/cite&gt; Kuri, &lt;cite&gt;Ashita no Joe's&lt;/cite&gt; Yamazaki Win Tokyo Anime Awards</news>
+<news datetime="2012-01-21T00:30:58Z" href="http://www.animenewsnetwork.com/news/2012-01-20/discotek-licenses-the-venus-wars-sci-fi-anime-film">Discotek Adds &lt;cite&gt;The Venus Wars&lt;/cite&gt; Science-Fiction Anime Film</news>
+<news datetime="2012-01-26T10:37:27Z" href="http://www.animenewsnetwork.com/news/2012-01-26/brad-swaile-to-return-to-amecon">Brad Swaile to Return to AmeCon</news>
+<news datetime="2012-02-01T22:35:00Z" href="http://www.animenewsnetwork.com/news/2012-02-01/armored-core-v-sells-163906-resident-evil-revelations-sells-146559">&lt;cite&gt;Armored Core V&lt;/cite&gt; Sells 163,906; &lt;cite&gt;Resident Evil Revelations&lt;/cite&gt; Sells 146,559</news>
+<news datetime="2012-02-09T14:08:54Z" href="http://www.animenewsnetwork.com/news/2012-02-10/ann-au-review-mobile-suit-gundam">ANN|Au Review - Mobile Suit Gundam</news>
+<news datetime="2012-02-08T03:00:00Z" href="http://www.animenewsnetwork.com:/news/2012-02-08/north-american-anime-manga-releases-february-5-11/.48592">North American Anime, Manga Releases, February 5-11</news>
+<news datetime="2012-02-17T18:20:00Z" href="http://www.animenewsnetwork.com/news/2012-02-17/california-am2-to-host-designer-toshihiro-kawamoto">California's AM2 to Host Designer Toshihiro Kawamoto</news>
+<news datetime="2012-11-18T19:45:04Z" href="http://www.animenewsnetwork.com/news/2012-11-18/man-arrested-for-selling-unauthorized-akb48-gundam-clocks">Man Arrested For Selling Unauthorized AKB48, &lt;cite&gt;Gundam&lt;/cite&gt; Clocks</news>
+<news datetime="2013-03-30T06:10:00Z" href="http://www.animenewsnetwork.com/news/2013-03-30/robot-anime-valvrave-3rd-promo-6-more-cast-members-revealed">Robot Anime &lt;cite&gt;Valvrave's&lt;/cite&gt; 3rd Promo, 6 More Cast Members Revealed</news>
+<news datetime="2013-09-03T08:55:00Z" href="http://www.animenewsnetwork.com/news/2013-09-03/japan-animation-blu-ray-disc-ranking-august-26-september-1">Japan's Animation Blu-ray Disc Ranking, August 26-September 1</news>
+<news datetime="2013-09-10T08:30:00Z" href="http://www.animenewsnetwork.com/news/2013-09-10/japan-animation-blu-ray-disc-ranking-september-2-8">Japan's Animation Blu-ray Disc Ranking, September 2-8</news>
+<news datetime="2013-10-10T16:50:00Z" href="http://www.animenewsnetwork.com/news/2013-10-10/shin-gundam-musou/dynasty-warriors/gundam-game-teased-in-promo-ad">&lt;cite&gt;Shin Gundam Musou/Dynasty Warriors: Gundam&lt;/cite&gt; Game Teased in Promo, Ad</news>
+<news datetime="2014-02-19T04:49:27Z" href="http://www.animenewsnetwork.com/news/2014-02-18/australia-madman-aims-to-bring-back-1st-gundam-series">Australia's Madman Aims to Bring Back 1st &lt;i&gt;Gundam&lt;/i&gt; Series</news>
+<news datetime="2014-03-20T09:15:00Z" href="http://www.animenewsnetwork.com/news/2014-03-20/gundam-35th-year-marked-with-reconguista-in-g-the-origin">&lt;cite&gt;Gundam's&lt;/cite&gt; 35th Year Marked With &lt;cite&gt;Reconguista in G&lt;/cite&gt;, &lt;cite&gt;The Origin&lt;/cite&gt;</news>
+<news datetime="2014-05-02T11:30:00Z" href="http://www.animenewsnetwork.com/news/2014-05-02/gundam-side-stories-ps3-9-minute-video-explores-various-missions">&lt;cite&gt;Gundam Side Stories&lt;/cite&gt; PS3's 9-Minute Video Explores Various Missions</news>
+<news datetime="2014-10-11T17:47:00Z" href="http://www.animenewsnetwork.com:/news/2014-10-11/sunrise-partners-with-right-stuf-to-release-gundam-franchise-stateside/.79830">Sunrise Partners with Right Stuf to Release &lt;cite&gt;Gundam&lt;/cite&gt; Franchise Stateside</news>
+<news datetime="2015-07-03T21:56:38Z" href="http://www.animenewsnetwork.com:/news/2015-07-03/right-stuf-sunrise-to-release-original-gundam-tv-anime-on-blu-ray-disc/.90041">Right Stuf/Sunrise to Release Original &lt;cite&gt;Gundam&lt;/cite&gt; TV Anime on Blu-ray Disc</news>
+<news datetime="2015-07-24T17:50:00Z" href="http://www.animenewsnetwork.com:/news/2015-07-24/tokyo-international-film-festival-to-host-mobile-suit-gundam-event/.90853">Tokyo International Film Festival to Host &lt;cite&gt;Mobile Suit Gundam&lt;/cite&gt; Event</news>
+<news datetime="2015-07-25T13:10:36Z" href="http://www.animenewsnetwork.com:/news/2015-07-25/manchester-comic-con-announcements/.90889">Manchester Comic Con Announcements</news>
+<news datetime="2015-07-29T19:02:59Z" href="http://www.animenewsnetwork.com:/news/2015-07-29/anime-limited-updates/.91051">Anime Limited Updates</news>
+<news datetime="2015-11-03T22:40:00Z" href="http://www.animenewsnetwork.com:/news/2015-11-03/north-american-anime-manga-releases-november-1-7/.94975">North American Anime, Manga Releases, November 1-7</news>
+<news datetime="2015-12-01T23:47:20Z" href="http://www.animenewsnetwork.com:/news/2015-12-01/north-american-anime-manga-releases-november-29-december-5/.95987">North American Anime, Manga Releases, November 29-December 5</news>
+<news datetime="2015-12-29T16:20:00Z" href="http://www.animenewsnetwork.com:/news/2015-12-29/top-selling-media-franchises-in-japan-2015/.97051">Top-Selling Media Franchises in Japan: 2015</news>
+<news datetime="2016-01-13T22:34:56Z" href="http://www.animenewsnetwork.com:/news/2016-01-13/anime-limited-updates/.97528">Anime Limited Updates</news>
+<staff gid="360785792"><task>Chief Director</task><person id="100">Yoshiyuki Tomino</person></staff>
+<staff gid="2564105098"><task>Script</task><person id="100">Yoshiyuki Tomino</person></staff>
+<staff gid="1616184701"><task>Script</task><person id="701">Yoshihisa Araki</person></staff>
+<staff gid="721039668"><task>Script</task><person id="703">Kenichi Matsuzaki</person></staff>
+<staff gid="2240526607"><task>Script</task><person id="1692">Hiroyuki Hoshiyama</person></staff>
+<staff gid="2388241369"><task>Script</task><person id="2627">Yu Yamamoto</person></staff>
+<staff gid="2418455590"><task>Storyboard</task><person id="2429">Shinya Sadamitsu</person></staff>
+<staff gid="2054380932"><task>Storyboard</task><person id="29367">Minoru Yokitani</person></staff>
+<staff gid="3910708004"><task>Storyboard</task><person id="47553">Kazuo Yamasaki</person></staff>
+<staff gid="2013673897"><task>Storyboard</task><person id="47554">Hiro Kuno</person></staff>
+<staff gid="1726677083"><task>Episode Director</task><person id="97">Takeyuki Kanda</person></staff>
+<staff gid="730903444"><task>Unit Director</task><person id="2429">Shinya Sadamitsu</person></staff>
+<staff gid="3441200270"><task>Unit Director</task><person id="3154">Osamu Sekita</person></staff>
+<staff gid="1154912491"><task>Unit Director</task><person id="8901">Ryoji Fujiwara</person></staff>
+<staff gid="2414421680"><task>Unit Director</task><person id="8902">Eikichi Kojika</person></staff>
+<staff gid="2271713596"><task>Unit Director</task><person id="8903">Yuichiro Yokoyama</person></staff>
+<staff gid="823045310"><task>Unit Director</task><person id="29186">Hiroshi Matano</person></staff>
+<staff gid="916123734"><task>Unit Director</task><person id="29187">Susumu Sekita</person></staff>
+<staff gid="2314597980"><task>Unit Director</task><person id="29367">Minoru Yokitani</person></staff>
+<staff gid="2863229631"><task>Unit Director</task><person id="29368">Susumu Gyoda</person></staff>
+<staff gid="1402521492"><task>Unit Director</task><person id="29369">Hiroshi Hisano</person></staff>
+<staff gid="97972123"><task>Music</task><person id="707">Takeo Watanabe</person></staff>
+<staff gid="2417515103"><task>Music</task><person id="708">Yuji Matsuyama</person></staff>
+<staff gid="3940528968"><task>Original creator</task><person id="19">Hajime Yatate</person></staff>
+<staff gid="3904573793"><task>Original creator</task><person id="100">Yoshiyuki Tomino</person></staff>
+<staff gid="674112464"><task>Character Design</task><person id="705">Yoshikazu Yasuhiko</person></staff>
+<staff gid="961343956"><task>Art Director</task><person id="4383">Mitsuki Nakamura</person></staff>
+<staff gid="1600163905"><task>Animation Director</task><person id="57">Kazuo Yamazaki</person></staff>
+<staff gid="3797173580"><task>Animation Director</task><person id="705">Yoshikazu Yasuhiko</person></staff>
+<staff gid="3224394502"><task>Animation Director</task><person id="8986">Kazuo Nakamura</person></staff>
+<staff gid="2353671370"><task>Animation Director</task><person id="9974">Kazuo Tomizawa</person></staff>
+<staff gid="3293694707"><task>Animation Director</task><person id="29370">Yoshinobu Aobachi</person></staff>
+<staff gid="2838397502"><task>Animation Director</task><person id="29371">Manabu Oizumi</person></staff>
+<staff gid="1650497226"><task>Animation Director</task><person id="29372">Kazuyuki Suzumura</person></staff>
+<staff gid="2024081879"><task>Mechanical design</task><person id="123">Kunio Okawara</person></staff>
+<staff gid="3368454618"><task>Sound Director</task><person id="4430">Noriyoshi Matsuura</person></staff>
+<staff gid="1663050063"><task>Director of Photography</task><person id="6555">Akio Saitô</person></staff>
+<staff gid="2455158139"><task>Director of Photography</task><person id="8897">Takafumi Hirata</person></staff>
+<staff gid="3793559270"><task>Producer</task><person id="709">Wataru Sekioka</person></staff>
+<staff gid="3715151163"><task>Producer</task><person id="710">Hobuyuki Okuma</person></staff>
+<staff gid="3194978127"><task>Producer</task><person id="711">Yasuo Shibue</person></staff>
+<cast gid="700892477" lang="EN"><role>Ryu Jose</role><person id="747">Ward Perry</person></cast>
+<cast gid="3528758356" lang="EN"><role>Lalah Sune</role><person id="748">Willow Johnson</person></cast>
+<cast gid="2211673662" lang="EN"><role>General Revil</role><person id="750">Michael Dobson</person></cast>
+<cast gid="2456825622" lang="EN"><role>Garma Zabi</role><person id="752">Brian Dobson</person></cast>
+<cast gid="2443496619" lang="EN"><role>Casval Rem Daikun / Char Aznable</role><person id="922">Michael Kopsa</person></cast>
+<cast gid="2526587330" lang="EN"><role>Dozle Zabi</role><person id="924">French Tickner</person></cast>
+<cast gid="2980434065" lang="EN"><role>Ramba Ral</role><person id="1602">John Payne</person></cast>
+<cast gid="2112826586" lang="EN"><role>Hayato Kobayashi</role><person id="2458">Matt Smith</person></cast>
+<cast gid="1651498034" lang="EN"><role>Amuro Ray</role><person id="2969">Brad Swaile</person></cast>
+<cast gid="379432815" lang="EN"><role>Kacilia Zabi</role><person id="2975">Michelle Porter</person></cast>
+<cast gid="1223581086" lang="EN"><role>Crowley Hamon</role><person id="3607">Lenore Zann</person></cast>
+<cast gid="736552047" lang="EN"><role>Katz</role><person id="3945">Cathy Weseluck</person></cast>
+<cast gid="461355622" lang="EN"><role>Mirai Yashima</role><person id="3945">Cathy Weseluck</person></cast>
+<cast gid="3130511974" lang="EN"><role>Kai Shiden</role><person id="3999">Richard Cox</person></cast>
+<cast gid="3262889115" lang="EN"><role>Artesia Som Daikun / Sayla Mass</role><person id="4312">Alaina Burnett</person></cast>
+<cast gid="983855839" lang="EN"><role>Bright Noah</role><person id="4314">Chris Kalhoon</person></cast>
+<cast gid="3968198473" lang="EN"><role>Frau Bow</role><person id="4316">Kristie Marsden</person></cast>
+<cast gid="3494538331" lang="EN"><role>Gihren Zabi</role><person id="4317">Hiro Kanagawa</person></cast>
+<cast gid="456979635" lang="EN"><role>Slegger Law</role><person id="4322">Bill Mondy</person></cast>
+<cast gid="1496959631" lang="IT"><role>Garma Zabi</role><person id="25913">Roberto Del Giudice</person></cast>
+<cast gid="433425151" lang="IT"><role>Hayato Kobayashi</role><person id="25915">Massimo Còrizza</person></cast>
+<cast gid="2633229893" lang="IT"><role>Bright Noah</role><person id="25918">Giorgio Borghetti</person></cast>
+<cast gid="2896943100" lang="IT"><role>Hayato Kobayashi</role><person id="26003">Corrado Conforti</person></cast>
+<cast gid="1937589493" lang="IT"><role>Sayla Mass</role><person id="26049">Laura Lenghi</person></cast>
+<cast gid="3348481917" lang="IT"><role>Kai Shiden</role><person id="26054">Stefano Crescentini</person></cast>
+<cast gid="2233840206" lang="IT"><role>Kai Shiden</role><person id="26060">Vittorio Guerrieri</person></cast>
+<cast gid="3231091666" lang="IT"><role>Maggiore Shia (Char Aznable)</role><person id="26157">Massimo Rossi</person></cast>
+<cast gid="828158460" lang="IT"><role>Char Aznable</role><person id="26165">Fabio Boccanera</person></cast>
+<cast gid="1429830462" lang="IT"><role>Frau Bow</role><person id="26191">Domitilla D'Amico</person></cast>
+<cast gid="585875555" lang="IT"><role>Bright Noah</role><person id="26537">Stefano Carraro</person></cast>
+<cast gid="2109725520" lang="IT"><role>Seira Masu (Sayla Mass)</role><person id="26538">Vicky Morandi</person></cast>
+<cast gid="1138258476" lang="IT"><role>Peter (Amuro) Rei</role><person id="26539">Saverio Garbarino</person></cast>
+<cast gid="549480650" lang="IT"><role>Mirka (Frau Bow)</role><person id="26540">Paola Del Bosco</person></cast>
+<cast gid="1196386867" lang="IT"><role>Flamnet (Mirai Yashima)</role><person id="26567">Eva Ricca</person></cast>
+<cast gid="3320679667" lang="IT"><role>Seira Masu (Sayla Mass)</role><person id="28446">Francesca Bregni</person></cast>
+<cast gid="3240243935" lang="IT"><role>Amuro Ray</role><person id="38012">Davide Perino</person></cast>
+<cast gid="1732519165" lang="IT"><role>Kikka Kitamoto</role><person id="44700">Eva Padoan</person></cast>
+<cast gid="182457898" lang="IT"><role>Mirai Yashima</role><person id="46980">Emanuela D'Amico</person></cast>
+<cast gid="3431308687" lang="IT"><role>Haro</role><person id="51274">Barbara Pitotti</person></cast>
+<cast gid="2435717505" lang="IT"><role>Ryu Hosei</role><person id="53294">Fabrizio Vidale</person></cast>
+<cast gid="2715883609" lang="IT"><role>Letz Cofan</role><person id="55643">Tommaso Gatto</person></cast>
+<cast gid="1200593705" lang="IT"><role>Katz Hawin</role><person id="57531">Alex Polidori</person></cast>
+<cast gid="473093941" lang="JA"><role>Hayato Kobayashi</role><person id="554">Kiyonobu Suzuki</person></cast>
+<cast gid="3820688477" lang="JA"><role>Bright Noah</role><person id="699">Hirotaka Suzuoki</person></cast>
+<cast gid="1995867517" lang="JA"><role>M'Quve</role><person id="852">Kaneto Shiozawa</person></cast>
+<cast gid="1472303539" lang="JA"><role>Dozle Zabi</role><person id="871">Daisuke Gouri</person></cast>
+<cast gid="2148856633" lang="JA"><role>Matilda Ajan</role><person id="931">Keiko Toda</person></cast>
+<cast gid="2722204388" lang="JA"><role>Kai Shiden</role><person id="1011">Toshio Furukawa</person></cast>
+<cast gid="1591298146" lang="JA"><role>Char Aznable</role><person id="1014">Shuuichi Ikeda</person></cast>
+<cast gid="2003783789" lang="JA"><role>Amuro Ray</role><person id="1105">Tohru Furuya</person></cast>
+<cast gid="2374056511" lang="JA"><role>General Revil</role><person id="1156">Masaru Ikeda</person></cast>
+<cast gid="2290487525" lang="JA"><role>Kycilia Zabi</role><person id="1249">Mami Koyama</person></cast>
+<cast gid="1589827105" lang="JA"><role>Slegger Law</role><person id="1250">Tesshô Genda</person></cast>
+<cast gid="2441180837" lang="JA"><role>Ryu Jose</role><person id="1259">Shozo Iizuka</person></cast>
+<cast gid="2958213401" lang="JA"><role>Ramba Ral</role><person id="1505">Masashi Hirose</person></cast>
+<cast gid="1223123215" lang="JA"><role>Degwin Sodo Zabi</role><person id="1529">Ichirô Nagai</person></cast>
+<cast gid="1460379373" lang="JA"><role>Gihren Zabi</role><person id="1669">Banjou Ginga</person></cast>
+<cast gid="1160369504" lang="JA"><role>Lalah Sune</role><person id="2060">Keiko Han</person></cast>
+<cast gid="3886008849" lang="JA"><role>Garma Zabi</role><person id="2116">Katsuji Mori</person></cast>
+<cast gid="894247762" lang="JA"><role>Katz Hawin</role><person id="2176">Fuyumi Shiraishi</person></cast>
+<cast gid="576390038" lang="JA"><role>Mirai Yashima</role><person id="2176">Fuyumi Shiraishi</person></cast>
+<cast gid="2577570122" lang="JA"><role>Frau Bow</role><person id="2435">Rumiko Ukai</person></cast>
+<cast gid="3370157133" lang="JA"><role>Letz Cofan</role><person id="2435">Rumiko Ukai</person></cast>
+<cast gid="3204369797" lang="JA"><role>Haro</role><person id="3408">You Inoue</person></cast>
+<cast gid="2995542475" lang="JA"><role>Kikka Kitamoto</role><person id="3408">You Inoue</person></cast>
+<cast gid="1447122756" lang="JA"><role>Sayla Mass</role><person id="3408">You Inoue</person></cast>
+<credit gid="1280520968"><task>Production</task><company id="34">Sunrise</company></credit>
+<credit gid="2403077418"><task>Production</task><company id="1153">Nagoya Broadcasting Network</company></credit>
+<credit gid="2438793500"><task>Production</task><company id="9991">Sotsu Co., Ltd.</company></credit></anime></ann>

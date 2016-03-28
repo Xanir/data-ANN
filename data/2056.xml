@@ -1,0 +1,53 @@
+<ann><anime id="2056" gid="882493879" type="OAV" name="Lil' Red Riding Hood Cha-Cha" precision="OAV" generated-on="2016-03-27T01:48:19Z">
+<related-prev rel="sequel of" id="539"/>
+<info gid="1903021316" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A2056-1903021316.1319927099.jpg" width="200" height="150"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A2056-1903021316.1319927099.jpg" width="200" height="150"/><img src="http://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A2056-1903021316.1319927099.jpg" width="500" height="375"/><img src="http://cdn.animenewsnetwork.com/images/encyc/A2056-1903021316.1319927099.jpg" width="640" height="480"/></info>
+<info gid="2531808789" type="Main title" lang="EN">Lil' Red Riding Hood Cha-Cha</info>
+<info gid="2197238918" type="Alternative title" lang="JA">Aka-zukin Cha-Cha</info>
+<info gid="2340966348" type="Alternative title" lang="JA">赤ずきんチャチャ</info>
+<info gid="3206670315" type="Genres">comedy</info>
+<info gid="2385287386" type="Genres">magic</info>
+<info gid="2603238867" type="Themes">magical girl</info>
+<info gid="922010106" type="Objectionable content">AA</info>
+<info gid="1273372690" type="Plot Summary">Unable to understand how Urara Academy is able to form the most powerful magic users in the world, the principal of the elite Momiji Academy sends a spy to investigate the matter. Disguised as a transfer student, the young Poppy is dumbfounded by the chaotic environment, the odd staff, and the carefree students that attend the school.</info>
+<info gid="2979287634" type="Running time">half hour</info>
+<info gid="3215988105" type="Number of episodes">3</info>
+<info gid="2531458850" type="Vintage">1995-12-06 to 1996-03-06</info>
+<info gid="1833242829" type="Opening Theme">&quot;Make Me Smile&quot; by Yuki Matsuura</info>
+<info gid="3479346050" type="Ending Theme">&quot;Negai wa Hitotsu&quot; by Yuki Matsuura</info>
+<ratings nb_votes="64" weighted_score="7.1032" bayesian_score="7.17406"/>
+<episode num="1">
+<title gid="1856412379" lang="EN">Popy Comes to School</title></episode>
+<episode num="2">
+<title gid="2265679961" lang="EN">Capturing a Hot Spring Trip!</title></episode>
+<episode num="3">
+<title gid="2170797163" lang="EN">Goodbye Chacha! A Field Day with Tears</title></episode>
+<staff gid="3378735123"><task>Director</task><person id="12531">Hatsuki Tsuji</person></staff>
+<staff gid="2761558572"><task>Script</task><person id="8509">Hiroshi Toda</person></staff>
+<staff gid="2912804774"><task>Storyboard</task><person id="12531">Hatsuki Tsuji</person></staff>
+<staff gid="2602099826"><task>Music</task><person id="114">Toshihiko Sahashi</person></staff>
+<staff gid="1444198403"><task>Music</task><person id="41091">Satoshi Tezuka</person></staff>
+<staff gid="3501997218"><task>Original Manga</task><person id="46636">Min Ayahana</person></staff>
+<staff gid="598275209"><task>Character Design</task><person id="3151">Hajime Watanabe</person></staff>
+<staff gid="3472765992"><task>Art Director</task><person id="251">Shichiro Kobayashi</person></staff>
+<staff gid="2434889055"><task>Animation Director</task><person id="17288">Masayuki Onchi</person></staff>
+<staff gid="1995503681"><task>Sound Director</task><person id="5458">Kazuya Tanaka</person></staff>
+<staff gid="2360978100"><task>Director of Photography</task><person id="33043">Yasunori Hayama</person></staff>
+<staff gid="2108753809"><task>Producer</task><person id="4345">Akio Wakana</person></staff>
+<staff gid="1911392805"><task>Producer</task><person id="52482">Youko Matsushita</person></staff>
+<cast gid="2081200490" lang="JA"><role>Shiine</role><person id="282">Noriko Hidaka</person></cast>
+<cast gid="1545577784" lang="JA"><role>Piisuke</role><person id="787">Sumi Shimamoto</person></cast>
+<cast gid="1261342488" lang="JA"><role>Urara Principal</role><person id="787">Sumi Shimamoto</person></cast>
+<cast gid="3162088071" lang="JA"><role>Poppy</role><person id="1172">Rica Matsumoto</person></cast>
+<cast gid="1697591938" lang="JA"><role>Barabaraman-sensei</role><person id="1278">Tsutomu Kashiwakura</person></cast>
+<cast gid="1386563212" lang="JA"><role>Mayachon-sensei</role><person id="1575">Chieko Honda</person></cast>
+<cast gid="2934981823" lang="JA"><role>Dorothy</role><person id="1584">Miina Tominaga</person></cast>
+<cast gid="1098854673" lang="JA"><role>Elizabeth</role><person id="1584">Miina Tominaga</person></cast>
+<cast gid="2762776178" lang="JA"><role>Rascal-sensei</role><person id="1658">Taiki Matsuno</person></cast>
+<cast gid="2123860535" lang="JA"><role>Akazukin Chacha</role><person id="2405">Masami Suzuki</person></cast>
+<cast gid="1267376516" lang="JA"><role>Yakko</role><person id="2406">Mayumi Akado</person></cast>
+<cast gid="2437298544" lang="JA"><role>Seravi</role><person id="2407">Tohru Senrui</person></cast>
+<cast gid="530078003" lang="JA"><role>Riiya</role><person id="2409">Shingo Katori</person></cast>
+<cast gid="772090055" lang="JA"><role>Marin</role><person id="2410">Tomo Sakurai</person></cast>
+<cast gid="1990473379" lang="JA"><role>Orin</role><person id="2411">Noriko Namiki</person></cast>
+<credit gid="2625911429"><task>Animation Production</task><company id="29">Studio Gallop</company></credit>
+<credit gid="1664325264"><task>Production</task><company id="316">NAS</company></credit></anime></ann>

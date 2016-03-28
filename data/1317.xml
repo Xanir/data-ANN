@@ -1,0 +1,281 @@
+<ann><anime id="1317" gid="3687186258" type="TV" name="Doraemon" precision="TV 1/1973" generated-on="2016-03-27T03:55:46Z">
+<related-prev rel="adapted from" id="1335"/>
+<related-next id="1318" rel="alternate retelling"/>
+<related-next id="1887" rel="sequel"/>
+<related-next id="1897" rel="spinoff"/>
+<info gid="3828836488" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A1317-11.jpg" width="142" height="200"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A1317-11.jpg" width="142" height="200"/></info>
+<info gid="2512859520" type="Main title" lang="JA">Doraemon</info>
+<info gid="1920544825" type="Alternative title" lang="ES">Doraemon: El Gato Cosmico</info>
+<info gid="854657661" type="Alternative title" lang="AR">عبقور</info>
+<info gid="147749463" type="Alternative title" lang="JA">ドラえもん</info>
+<info gid="538352549" type="Genres">action</info>
+<info gid="3508584222" type="Genres">comedy</info>
+<info gid="2608607643" type="Genres">science fiction</info>
+<info gid="2047386252" type="Objectionable content">AA</info>
+<info gid="1182235475" type="Plot Summary">Nobita Nobi is so hapless that his 22&lt;sup&gt;nd&lt;/sup&gt; century decendants are still impoverished as a result of his 20&lt;sup&gt;th&lt;/sup&gt; century bumbling. In a bid to raise their social status, their servant, a robotic cat named Doraemon, decides to travel back in time and guide Nobita on the proper path to fortune. Unfortunately Doraemon, a dysfunctional robot that the familly acquired by accident (but chose to keep nonetheless), isn't much better off than Nobita. The robot leads Nobita on many adventures, and while Nobita's life certainly is more exciting with the robot cat from the future, it is questionable if it is in fact better in the way that Doraemon planned.</info>
+<info gid="2531159290" type="Running time">half hour</info>
+<info gid="1881312693" type="Number of episodes">26</info>
+<info gid="1992012311" type="Vintage">1973-04-01 to 1973-09-30</info>
+<info gid="675528377" type="Opening Theme">&quot;Doraemon (1973 OP)&quot; by Harumi Naitoh</info>
+<info gid="3081332563" type="Ending Theme">&quot;Doraemon Rumba (1973 ED)&quot; by Harumi Naitoh</info>
+<info gid="419639363" type="Official website" lang="JA" href="http://dora-world.com/">Dora-World</info>
+<info gid="1494696940" type="Official website" lang="ES" href="http://www.doraemon-world.es/">Doraemon</info>
+<info gid="2429889412" type="Official website" lang="EN" href="http://www.shopro-entertainment.com/doraemon.html">ShoPro's &lt;i&gt;Doraemon&lt;/i&gt; Page</info>
+<info gid="2530004935" type="Official website" lang="JA" href="http://www.tv-asahi.co.jp/doraemon/">TV Asahi's Doraemon site</info>
+<ratings nb_votes="239" weighted_score="7.1463" bayesian_score="7.16573"/>
+<episode num="1">
+<title gid="1099106509" lang="EN">Every Beginning is Heavy</title>
+<title part="A" gid="2807789578" lang="JA">Deta!! Doraemon</title>
+<title part="B" gid="2959066632" lang="JA">Pekopekobatta ōsōdō</title></episode>
+<episode num="2">
+<title gid="3842604971" lang="EN">Who is Who-</title>
+<title part="A" gid="2557264387" lang="JA">Yane no ue no suteki na ko</title>
+<title part="B" gid="2740582952" lang="JA">Nobita no go senzo-san</title></episode>
+<episode num="3">
+<title gid="3915605450" lang="EN">The New One</title>
+<title part="A" gid="3505948628" lang="JA">Kyūpiddo de suki suki sakusen</title>
+<title part="B" gid="119762028" lang="JA">Yowami o nigire</title></episode>
+<episode num="4">
+<title gid="50112462" lang="EN">Three Schuelerinen for Majorca</title>
+<title part="A" gid="1628706111" lang="JA">Nezumi ni yowai neko mo aru</title>
+<title part="B" gid="2765562435" lang="JA">Gakitaishō o yattsukero</title></episode>
+<episode num="5">
+<title gid="503646082" lang="EN">The Opening</title>
+<title part="A" gid="4067455057" lang="JA">Oseji kagami</title>
+<title part="B" gid="1743282465" lang="JA">Papa to mama no kekkon kinenbi</title></episode>
+<episode num="6">
+<title gid="2367793147" lang="EN">The Luegenbaronin</title>
+<title part="A" gid="2397176097" lang="JA">Noroi kamera</title>
+<title part="B" gid="2108363331" lang="JA">Takarakuji ōatari sakusen</title></episode>
+<episode num="7">
+<title gid="2327927612" lang="EN">The Hour of the Truth</title>
+<title part="A" gid="1590757081" lang="JA">Kettō! Nobita to Jaian</title>
+<title part="B" gid="2299582836" lang="JA">Watashi ha dare deshō</title></episode>
+<episode num="8">
+<title gid="536158743" lang="EN">Dodo</title>
+<title part="A" gid="2977422434" lang="JA">Abekonbe sōdō</title>
+<title part="B" gid="2037372313" lang="JA">Obake yashiki no nazo</title></episode>
+<episode num="9">
+<title gid="3696911001" lang="EN">Dodos Trip</title>
+<title part="A" gid="2390305497" lang="JA">Kuikku surō daisakusen</title>
+<title part="B" gid="717089144" lang="JA">Nobita wa ame otoko</title></episode>
+<episode num="10">
+<title part="A" gid="1152274795" lang="JA">Urutora Mikisā</title>
+<title gid="875978901" lang="EN">An Old Relatives</title>
+<title part="B" gid="509408684" lang="JA">Negaiboshi nagareboshi</title></episode>
+<episode num="11">
+<title part="A" gid="1415198891" lang="JA">Fushigi na furoshiki</title>
+<title part="B" gid="2113912315" lang="JA">Nobita no obā-chan</title>
+<title gid="1289061624" lang="EN">Saves the Flowers!</title></episode>
+<episode num="12">
+<title part="A" gid="2261973441" lang="JA">Dai rīgu aka batto</title>
+<title part="B" gid="1161173769" lang="JA">Otoko wa chikara de shōbu suru</title>
+<title gid="3817271540" lang="EN">Once with It Its</title></episode>
+<episode num="13">
+<title part="A" gid="926831421" lang="JA">Gacha-ko tōjō</title>
+<title part="B" gid="959812805" lang="JA">Oshaberi kuchibe ni</title>
+<title gid="3219072950" lang="EN">The Respected Degrees</title></episode>
+<episode num="14">
+<title part="A" gid="2524673370" lang="JA">Suki suki kamera</title>
+<title part="B" gid="2472596683" lang="JA">Amanogawa de deito shiyō</title>
+<title gid="643450255" lang="EN">Invasion of the Bad Frogs</title></episode>
+<episode num="15">
+<title part="A" gid="2579804823" lang="JA">Hen'na robotto kā</title>
+<title part="B" gid="1856810645" lang="JA">Nikoniko sekken</title>
+<title gid="1559932548" lang="EN">Majorcas Inadvertent Trip</title></episode>
+<episode num="16">
+<title part="A" gid="1868075742" lang="JA">Ore shochō no dairi</title>
+<title part="B" gid="2621390435" lang="JA">Sā natsu da! Sukī o yarō</title>
+<title gid="1869212098" lang="EN">Petri Welfare</title></episode>
+<episode num="17">
+<title part="A" gid="2707122350" lang="JA">Seiseki-hyō wa iyada nā</title>
+<title part="B" gid="1947557138" lang="JA">Jibun no kage o tsukamaero</title>
+<title gid="666162970" lang="EN">Quiet Secret</title></episode>
+<episode num="18">
+<title part="A" gid="2546787751" lang="JA">Sensuikan de umi he ikō</title>
+<title part="B" gid="2127714985" lang="JA">Kurruta hara tokei</title>
+<title gid="1723078679" lang="EN">Forbidden Charm</title></episode>
+<episode num="19">
+<title part="A" gid="1770836623" lang="JA">Kyanpu sōdō</title>
+<title part="B" gid="3145529112" lang="JA">Wasurenagusa tte nani dakke</title>
+<title gid="2616804608" lang="EN">The Entfuehrung</title></episode>
+<episode num="20">
+<title part="A" gid="1478660233" lang="JA">Kūrā parasoru</title>
+<title part="B" gid="3121837182" lang="JA">Itsudemo nikki</title>
+<title gid="3914687125" lang="EN">New Beginning</title></episode>
+<episode num="21">
+<title part="A" gid="910659101" lang="JA">Shukudai obake ga deta</title>
+<title part="B" gid="2170541387" lang="JA">Otenki bokkusu</title>
+<title gid="3722921925" lang="EN">Dangerous Gluecksbringer</title></episode>
+<episode num="22">
+<title part="A" gid="2900831641" lang="JA">Boku ni kiyoki ichi-pyō o</title>
+<title part="B" gid="2232545039" lang="JA">Mangaka shugyō</title>
+<title gid="2870448371" lang="EN">Over the Ear Gehauen</title></episode>
+<episode num="23">
+<title part="A" gid="963104678" lang="JA">Sutekina gārufurendo</title>
+<title gid="3183376202" lang="EN">A Hard Test</title>
+<title part="B" gid="3633569934" lang="JA">Gaippai sōdō</title></episode>
+<episode num="24">
+<title part="A" gid="3516101884" lang="JA">Sokkuri kureyon</title>
+<title part="B" gid="2108926088" lang="JA">Shizuka no tanjōbi</title>
+<title gid="3305436020" lang="EN">Fight for the Magic Shop</title></episode>
+<episode num="25">
+<title part="A" gid="2632034263" lang="JA">Uchū hikōshi ni naritai</title>
+<title part="B" gid="703512463" lang="JA">Maigo magomago ōsōdō</title>
+<title gid="2976951619" lang="EN">Call Never the Spirit to the Joke</title></episode>
+<episode num="26">
+<title part="A" gid="1433649709" lang="JA">Nendoron ōsōdō</title>
+<title gid="968350156" lang="EN">Attendance with the Queen</title>
+<title part="B" gid="3075406007" lang="JA">Sayōnara Doraemon</title></episode>
+<episode num="27">
+<title gid="3910796048" lang="EN">Daddy Oh Day</title></episode>
+<episode num="28">
+<title gid="648829895" lang="EN">Holidays Love</title></episode>
+<episode num="29">
+<title gid="3511661453" lang="EN">The TAP Is Away!</title></episode>
+<episode num="30">
+<title gid="3611717703" lang="EN">Grandfather Appears</title></episode>
+<episode num="31">
+<title gid="3523504277" lang="EN">A Gift for Tamira</title></episode>
+<episode num="32">
+<title gid="2782268402" lang="EN">Rike against Masuharu</title></episode>
+<episode num="33">
+<title gid="3340729301" lang="EN">Run Doremi, Run</title></episode>
+<episode num="34">
+<title gid="356741423" lang="EN">Sophies Nut-Mother</title></episode>
+<episode num="35">
+<title gid="3761419335" lang="EN">Who Is Nicole Segawa</title></episode>
+<episode num="36">
+<title gid="1736772530" lang="EN">Examination with Obstacles</title></episode>
+<episode num="37">
+<title gid="1399504765" lang="EN">Attendance from the Witch World</title></episode>
+<episode num="38">
+<title gid="1787106361" lang="EN">A Monster for Ryuta</title></episode>
+<episode num="39">
+<title gid="736917633" lang="EN">Butterflies in the Belly</title></episode>
+<episode num="40">
+<title gid="2323169202" lang="EN">Weil`S Tastes So Good!</title></episode>
+<episode num="41">
+<title gid="1404993236" lang="EN">Lost Talent</title></episode>
+<episode num="42">
+<title gid="55358695" lang="EN">Controversy over Nicole</title></episode>
+<episode num="43">
+<title gid="61713891" lang="EN">Fireworks and Tears</title></episode>
+<episode num="44">
+<title gid="142393494" lang="EN">Ring Freely!</title></episode>
+<episode num="45">
+<title gid="526725921" lang="EN">Santa Claus in Emergencies</title></episode>
+<episode num="46">
+<title gid="2206349243" lang="EN">There the Witches Are Astonished</title></episode>
+<episode num="47">
+<title gid="1451468575" lang="EN">Daddy's Rendezvous</title></episode>
+<episode num="48">
+<title gid="638195271" lang="EN">Wrong Hope</title></episode>
+<episode num="49">
+<title gid="2836470754" lang="EN">Seeing Again</title></episode>
+<episode num="50">
+<title gid="267668078" lang="EN">The Witch Examination</title></episode>
+<episode num="51">
+<title gid="828828252" lang="EN">Heavy Decision</title></episode>
+<news datetime="2007-04-27T09:48:36Z" href="http://www.animenewsnetwork.com/news/2007-04-27/japanese-anime-tv-ranking-april-16-22">Japanese Anime TV Ranking, April 16-22</news>
+<news datetime="2007-05-24T20:29:15Z" href="http://www.animenewsnetwork.com/news/2007-05-24/japanese-anime-tv-ranking-april-30-may-20">Japanese Anime TV Ranking: April 30-May 20</news>
+<news datetime="2007-06-11T16:11:02Z" href="http://www.animenewsnetwork.com/news/2007-06-11/nyc-museum-on-anime-big-in-japan-unknown-in-america">NYC Museum on Anime &quot;Big in Japan, Unknown in America&quot;</news>
+<news datetime="2007-06-16T11:36:52Z" href="http://www.animenewsnetwork.com/news/2007-06-16/johnny-depp-to-guest-voice-on-doraemon-pirates-special">Johnny Depp to Guest-Voice on &lt;cite&gt;Doraemon&lt;/cite&gt; Pirates Special</news>
+<news datetime="2007-06-19T11:40:29Z" href="http://www.animenewsnetwork.com/news/2007-06-19/japanese-box-office-june-16-17/2">Japanese Box Office, June 16-17</news>
+<news datetime="2007-07-16T18:50:23Z" href="http://www.animenewsnetwork.com/news/2007-07-16/stranger-yes-pre-cure-5-movie-trailers-posted-online">&lt;cite&gt;Stranger&lt;/cite&gt;, &lt;cite&gt;Yes! Pre-Cure 5&lt;/cite&gt; Movie Trailers Posted Online</news>
+<news datetime="2007-07-20T13:43:45Z" href="http://www.animenewsnetwork.com/news/2007-07-20/megazone-ps3-site-opens-gegege-no-kitaro-heads-to-wii">&lt;cite&gt;Megazone&lt;/cite&gt; PS3 Site Opens, &lt;cite&gt;Gegege no Kitarō&lt;/cite&gt; Heads to Wii</news>
+<news datetime="2007-07-24T02:07:54Z" href="http://www.animenewsnetwork.com/news/2007-07-23/shin-ei-to-air-time-traveling-war-fable-of-two-walnuts">Shin-Ei to Air Time-Traveling War Fable of &lt;cite&gt;Two Walnuts&lt;/cite&gt;</news>
+<news datetime="2007-08-02T19:39:26Z" href="http://www.animenewsnetwork.com/news/2007-08-02/japanese-anime-market-grew-to-242-billion-yen-in-2006">Japanese Anime Market Grew to 242 Billion Yen in 2006</news>
+<news datetime="2007-08-23T03:57:45Z" href="http://www.animenewsnetwork.com/news/2007-08-22/japan's-four-big-film-companies-open-official-database">Japan's Four Big Film Companies Open Official Database</news>
+<news datetime="2007-08-29T22:17:26Z" href="http://www.animenewsnetwork.com/news/2007-08-29/sazae-san-is-last-tv-anime-using-cels-not-computers">&lt;cite&gt;Sazae-san&lt;/cite&gt; is Last TV Anime Using Cels, Not Computers</news>
+<news datetime="2007-09-12T19:46:51Z" href="http://www.animenewsnetwork.com/news/2007-09-12/bandai-namco-tgs">Bandai Namco Releases Tokyo Game Show Lineup</news>
+<news datetime="2007-12-14T23:27:59Z" href="http://www.animenewsnetwork.com/news/2007-12-15/japanese-animation-dvd-ranking-december-5-11">Japanese Animation DVD Ranking, December 5–11</news>
+<news datetime="2007-12-13T08:41:51Z" href="http://www.animenewsnetwork.com/news/2007-12-13/japanese-animation-dvd-ranking-december-5-11/2">Japanese Animation DVD Ranking, December 5–11</news>
+<news datetime="2007-12-14T22:53:50Z" href="http://www.animenewsnetwork.com/news/2007-12-14/japanese-anime-tv-ranking-december-3-9">Japanese Anime TV Ranking: December 3–9</news>
+<news datetime="2007-12-31T17:22:32Z" href="http://www.animenewsnetwork.com/news/2007-12-31/japanese-box-office-top-10-anime-movies-of-2007">Japanese Box Office: Top 10 Anime Movies of 2007</news>
+<news datetime="2008-01-22T06:10:53Z" href="http://www.animenewsnetwork.com/news/2008-01-22/japanese-anime-tv-ranking-december-31-january-13">Japanese Anime TV Ranking: December 31–January 13</news>
+<news datetime="2008-02-18T04:58:00Z" href="http://www.animenewsnetwork.com/news/2008-02-17/japanese-anime-tv-ranking-february-4-10">Japanese Anime TV Ranking: February 4–10</news>
+<news datetime="2008-03-01T13:13:06Z" href="http://www.animenewsnetwork.com/news/2008-03-01/japanese-anime-tv-ranking-february-18-25">Japanese Anime TV Ranking: February 18–25</news>
+<news datetime="2008-03-08T06:00:00Z" href="http://www.animenewsnetwork.com/news/2008-03-08/japanese-anime-tv-ranking-february-25-march-2">Japanese Anime TV Ranking: February 25–March 2</news>
+<news datetime="2008-04-14T20:23:57Z" href="http://www.animenewsnetwork.com/news/2008-04-14/japanese-anime-tv-ranking-march-17-23-conan-rises">Japanese Anime TV Ranking, March 17–23: &lt;cite&gt;Conan&lt;/cite&gt; Rises</news>
+<news datetime="2008-04-16T18:03:39Z" href="http://www.animenewsnetwork.com/news/2008-04-16/japanese-anime-tv-ranking-march-24-30-seasonal-break">Japanese Anime TV Ranking, March 24–30: Seasonal Break</news>
+<news datetime="2008-04-22T15:33:41Z" href="http://www.animenewsnetwork.com/news/2008-04-22/japanese-anime-tv-ranking-april-7-13-blue-dragon">Japanese Anime TV Ranking, April 7–13: &lt;cite&gt;Blue Dragon&lt;/cite&gt;</news>
+<news datetime="2008-04-25T03:54:37Z" href="http://www.animenewsnetwork.com/news/2008-04-24/japanese-anime-tv-ranking-april-14-20">Japanese Anime TV Ranking, April 14–20</news>
+<news datetime="2008-11-12T04:42:27Z" href="http://www.animenewsnetwork.com/news/2008-11-11/2006-doraemon-film-to-be-shown-in-d.c-on-november-14">2006 &lt;cite&gt;Doraemon&lt;/cite&gt; Film to be Shown in D.C. on November 14</news>
+<news datetime="2009-08-14T02:13:55Z" href="http://www.animenewsnetwork.com/news/2009-08-13/japan-animation-tv-ranking-july-20-26">Japan's Animation TV Ranking, July 20-26</news>
+<news datetime="2009-08-30T03:57:00Z" href="http://www.animenewsnetwork.com/news/2009-08-29/japan-animation-tv-ranking-august-3-9">Japan's Animation TV Ranking, August 3-9</news>
+<news datetime="2009-08-30T16:38:35Z" href="http://www.animenewsnetwork.com/news/2009-08-30/taro-aso-to-step-down-as-head-of-defeated-ruling-party">Tarō Asō to Step Down as Head of Defeated Ruling Party (Update 3)</news>
+<news datetime="2009-12-24T15:37:21Z" href="http://www.animenewsnetwork.com/news/2009-12-24/denno-coil-gets-japan-1st-augmented-reality-campaign">&lt;cite&gt;Dennō Coil&lt;/cite&gt; Gets Japan's 1st GPS Augmented Reality Campaign</news>
+<news datetime="2010-01-20T13:39:07Z" href="http://www.animenewsnetwork.com/news/2010-01-20/japan-animation-tv-ranking-december-21-27">Japan's Animation TV Ranking, December 27-January 3</news>
+<news datetime="2010-03-13T03:37:01Z" href="http://www.animenewsnetwork.com/news/2010-03-12/japanese-box-office-march-6-7">Japanese Box Office, March 6-7</news>
+<news datetime="2010-03-22T03:00:00Z" href="http://www.animenewsnetwork.com/news/2010-03-21/japanese-box-office-march-13-14">Japanese Box Office, March 13-14</news>
+<news datetime="2010-03-29T21:50:15Z" href="http://www.animenewsnetwork.com/news/2010-03-29/japanese-box-office-march-20-21">Japanese Box Office, March 20-21</news>
+<news datetime="2010-04-09T03:27:35Z" href="http://www.animenewsnetwork.com/news/2010-04-08/japanese-box-office-march-27-28">Japanese Box Office, March 27-28</news>
+<news datetime="2010-04-11T10:33:38Z" href="http://www.animenewsnetwork.com/news/2010-04-11/japanese-box-office-april-3-4">Japanese Box Office, April 3-4</news>
+<news datetime="2010-04-17T08:06:01Z" href="http://www.animenewsnetwork.com/news/2010-04-17/japanese-box-office-april-10-11">Japanese Box Office, April 10-11</news>
+<news datetime="2010-04-25T15:59:43Z" href="http://www.animenewsnetwork.com/news/2010-04-25/japanese-box-office-april-17-18">Japanese Box Office, April 17-18</news>
+<news datetime="2010-04-30T02:58:21Z" href="http://www.animenewsnetwork.com/news/2010-04-29/japanese-box-office-april-24-25">Japanese Box Office, April 24-25</news>
+<news datetime="2010-05-13T15:40:00Z" href="http://www.animenewsnetwork.com/news/2010-05-13/japanese-box-office-may-1-2">Japanese Box Office, May 1-2</news>
+<news datetime="2010-06-18T22:56:25Z" href="http://www.animenewsnetwork.com/news/2010-06-18/anime-expo-mangagamer-to-host-3-more-guests-for-2010">Anime Expo, MangaGamer to Host 3 More Guests for 2010</news>
+<news datetime="2010-08-21T00:59:13Z" href="http://www.animenewsnetwork.com/news/2010-08-21/report/domestic/intl-animation-market-in-japan-grew-1.6-percent-in-09">Report: Domestic/Int'l Animation Market in Japan Grew 1.6% in '09</news>
+<news datetime="2010-09-19T21:58:16Z" href="http://www.animenewsnetwork.com/news/2010-09-19/japan-animation-tv-ranking-september-6-12">Japan's Animation TV Ranking, September 6-12</news>
+<news datetime="2011-05-25T15:15:00Z" href="http://www.animenewsnetwork.com/news/2011-05-25/songs-from-evangelion-other-anime-win-jasrac-awards">Songs From &lt;cite&gt;Evangelion,&lt;/cite&gt; Other Anime Win JASRAC Awards</news>
+<news datetime="2011-07-15T21:00:00Z" href="http://www.animenewsnetwork.com/news/2011-07-15/2012-doraemon-film-revealed-with-trailer">2012 &lt;cite&gt;Doraemon&lt;/cite&gt; Film Revealed with Trailer</news>
+<news datetime="2013-02-18T11:54:05Z" href="http://www.animenewsnetwork.com/news/2013-02-18/some-of-the-7th-annual-seiyu-award-winners-announced">Some of the 7th Annual Seiyū Award Winners Announced</news>
+<news datetime="2014-05-12T00:00:00Z" href="http://www.animenewsnetwork.com/news/2014-05-11/doraemon-anime-visual-and-script-changes-for-u.s-tv-detailed">&lt;cite&gt;Doraemon&lt;/cite&gt; Anime's Visual &amp; Script Changes for U.S. TV Detailed</news>
+<news datetime="2014-09-03T20:00:00Z" href="http://www.animenewsnetwork.com:/news/2014-09-03/11-minute-dubbed-doraemon-story-video-streamed/.78293">11-Minute Dubbed &lt;cite&gt;Doraemon&lt;/cite&gt; Story Video Streamed</news>
+<staff gid="1151822898"><task>Music</task><person id="118">Shunsuke Kikuchi</person></staff>
+<staff gid="2910296408"><task>Original creator</task><person id="6677">Hiroshi Fujimoto</person></staff>
+<cast gid="2322956684" lang="ES"><role>Doraemon</role><person id="3760">Ricardo Tejedo</person></cast>
+<cast gid="2348055413" lang="ES"><role>Suneo</role><person id="3761">Irwin Daayan</person></cast>
+<cast gid="1650663832" lang="ES"><role>Nobita Nobi</role><person id="23440">Laura Torres</person></cast>
+<cast gid="3650405671" lang="ES"><role>Shizuka</role><person id="23495">Cristina Hernandez</person></cast>
+<cast gid="1042700968" lang="ES"><role>Time police</role><person id="25115">Carlos Segundo</person></cast>
+<cast gid="3160891425" lang="ES"><role>Nobita Nobi</role><person id="50630">Assumpta Navascues</person></cast>
+<cast gid="2276488834" lang="ES"><role>Suneo Honekawa</role><person id="59607">María Rosa Gil</person></cast>
+<cast gid="1004815707" lang="ES"><role>Doraemon</role><person id="62925">Anna Orra</person></cast>
+<cast gid="2189061198" lang="ES"><role>Shizuka Minamoto</role><person id="62933">Meritxell Ané</person></cast>
+<cast gid="2845811862" lang="ES"><role>Takeshi Gôda 'Gegant'</role><person id="63119">Josep Sobrevia</person></cast>
+<cast gid="2164155280" lang="IT"><role>Doraemon</role><person id="25628">Pietro Ubaldi</person></cast>
+<cast gid="1768992312" lang="IT"><role>Nobita</role><person id="25641">Davide Garbolino</person></cast>
+<cast gid="1421241180" lang="IT"><role>Nobita</role><person id="25915">Massimo Còrizza</person></cast>
+<cast gid="1399899491" lang="IT"><role>Nobita</role><person id="25919">Marco Joannucci</person></cast>
+<cast gid="1269216818" lang="IT"><role>Suneo</role><person id="25929">Patrizia Scianca</person></cast>
+<cast gid="1313262972" lang="IT"><role>Shizuka</role><person id="25931">Federica Valenti</person></cast>
+<cast gid="1010890677" lang="IT"><role>Suneo's mother</role><person id="25933">Elisabetta Spinelli</person></cast>
+<cast gid="2177344631" lang="IT"><role>Nobita's father</role><person id="25967">Cesare Rasini</person></cast>
+<cast gid="1281967588" lang="IT"><role>Doraemon</role><person id="26010">Liù Bosisio</person></cast>
+<cast gid="3400622953" lang="IT"><role>Nobita's teacher</role><person id="26034">Sergio Romanò</person></cast>
+<cast gid="2487241982" lang="IT"><role>Jaian</role><person id="26038">Luca Bottale</person></cast>
+<cast gid="2564047012" lang="IT"><role>Nobita's mother</role><person id="26697">Elda Olivieri</person></cast>
+<cast gid="2443090866" lang="IT"><role>Shizuka's mother</role><person id="26872">Marina Thovez</person></cast>
+<cast gid="3248603872" lang="IT"><role>Nobita's mother</role><person id="27227">Carla Comaschi</person></cast>
+<cast gid="1660812791" lang="IT"><role>Shizuka</role><person id="27227">Carla Comaschi</person></cast>
+<cast gid="1943234742" lang="IT"><role>Dorami</role><person id="45098">Serena Clerici</person></cast>
+<cast gid="863331434" lang="IT"><role>Jaian's mother</role><person id="51076">Rosalba Bongiovanni</person></cast>
+<cast gid="4168818821" lang="IT"><role>Jaian</role><person id="59501">Luca Bosisio</person></cast>
+<cast gid="1239822009" lang="JA"><role>Doraemon</role><person id="508">Masako Nozawa</person></cast>
+<cast gid="1414781884" lang="JA"><role>Suneo</role><person id="873">Shun Yashiro</person></cast>
+<cast gid="969035715" lang="JA"><role>Nobita</role><person id="2085">Yoshiko Ohta</person></cast>
+<cast gid="3229373475" lang="JA"><role>Shizuka Minamoto</role><person id="4633">Michiko Nomura</person></cast>
+<cast gid="3205362864" lang="JA"><role>Doraemon</role><person id="5682">Kousei Tomita</person></cast>
+<cast gid="2357477685" lang="JA"><role>Jyaian</role><person id="7237">Kaneta Kimotsuki</person></cast>
+<cast gid="3956295395" lang="JA"><role>Suneo</role><person id="7237">Kaneta Kimotsuki</person></cast>
+<cast gid="2209860178" lang="JA"><role>Takeshi Gouda</role><person id="7237">Kaneta Kimotsuki</person></cast>
+<cast gid="1643318975" lang="JA"><role>Shizuka</role><person id="14892">Masako Ebisu</person></cast>
+<cast gid="1505728669" lang="PT"><role>Takeshi Goda &quot;Gigante&quot;</role><person id="48752">Tatá Guarnieri</person></cast>
+<cast gid="3354840995" lang="PT"><role>Nobita Nobi</role><person id="48820">Angelica Santos</person></cast>
+<cast gid="2523778911" lang="PT"><role>Nobisuke Nobi</role><person id="48939">Dráusio de Oliveira</person></cast>
+<cast gid="2726141870" lang="PT"><role>Shizuka Minamoto</role><person id="49591">Márcia Gomes</person></cast>
+<cast gid="1811686035" lang="PT"><role>Tamako Nobi</role><person id="49591">Márcia Gomes</person></cast>
+<cast gid="1505717705" lang="PT"><role>Suneo Honekawa</role><person id="49624">Isaura Gomes</person></cast>
+<cast gid="2162883716" lang="PT"><role>Doraemon</role><person id="73065">Zezinho Cutolo</person></cast>
+<cast gid="783641864" lang="TL"><role>Doraemon</role><person id="38910">Bernie Malejana</person></cast>
+<cast gid="949046083" lang="TL"><role>Jyaian</role><person id="38916">Robert Brillantes</person></cast>
+<cast gid="3589660840" lang="TL"><role>Suneo</role><person id="38916">Robert Brillantes</person></cast>
+<cast gid="1949423483" lang="TL"><role>Doraemon</role><person id="38936">Jefferson Utanes</person></cast>
+<cast gid="2001531195" lang="TL"><role>Nobita</role><person id="38936">Jefferson Utanes</person></cast>
+<cast gid="2327690046" lang="TL"><role>Mr. Nobi</role><person id="46545">Ed Belo</person></cast>
+<cast gid="2208992857" lang="TL"><role>Doraemon</role><person id="46668">Jimmy Figueroa</person></cast>
+<cast gid="2017991352" lang="TL"><role>Nobita</role><person id="66364">Julius Figueroa</person></cast>
+<credit gid="3933085373"><task>Production</task><company id="455">Tokyo Movie Shinsha</company></credit></anime></ann>

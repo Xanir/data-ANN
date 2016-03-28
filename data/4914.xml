@@ -1,0 +1,58 @@
+<ann><anime id="4914" gid="2478594019" type="OAV" name="Stratos 4 Advance" precision="OAV" generated-on="2016-03-27T05:45:29Z">
+<related-prev rel="sequel of" id="3566"/>
+<related-next id="6361" rel="sequel"/>
+<info gid="2663169119" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A4914-11.jpg" width="145" height="200"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A4914-11.jpg" width="145" height="200"/><img src="http://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A4914-11.jpg" width="260" height="359"/></info>
+<info gid="956478305" type="Main title" lang="JA">Stratos 4 Advance</info>
+<info gid="1869345809" type="Alternative title" lang="JA">ストラトス・フォー アドヴァンス</info>
+<info gid="1962129918" type="Genres">comedy</info>
+<info gid="1655247546" type="Genres">science fiction</info>
+<info gid="832628948" type="Themes">military</info>
+<info gid="1347410661" type="Plot Summary">Having failed the Comet Blaster exams mysteriously, Mikaze and her friends are sent back to the base. Although now 3 new trainees have arrived and they are promoted to instructor positions. Meanwhile more comets are on their way to Earth and the mysteries behind the rift in the Cosmic Emergency Management Agency as well as the alien parasites begin to unravel.</info>
+<info gid="2520275618" type="Number of episodes">6</info>
+<info type="Vintage">2005-03-25</info>
+<info gid="1825988593" type="Opening Theme">&quot;１st Priority&quot; by Melocure</info>
+<info gid="1799788188" type="Ending Theme">&quot;Chiisana Uta&quot; by Megumi Hinata</info>
+<info gid="2322180538" type="Official website" lang="JA" href="http://www.stratos4.jp/ova/index.html">Stratos4 Official Web Site O.V.A Information</info>
+<ratings nb_votes="108" weighted_score="7.1846" bayesian_score="7.22095"/>
+<episode num="1">
+<title gid="2287051339" lang="EN">Code:201 - Wave Off</title></episode>
+<episode num="2">
+<title gid="1580415616" lang="EN">Code:202 - Roll Out</title></episode>
+<episode num="3">
+<title gid="1655213233" lang="EN">Code:203 - Angle of Attack</title></episode>
+<episode num="4">
+<title gid="108915587" lang="EN">Code:204 - Clear Air Turbulence</title></episode>
+<episode num="5">
+<title gid="2788144777" lang="EN">Code:205 - Dash One</title></episode>
+<episode num="6">
+<title gid="2786408684" lang="EN">Code:206 - Lost Position</title></episode>
+<staff gid="1606006587"><task>Director</task><person id="27">Takeshi Mori</person></staff>
+<staff gid="2928257415"><task>Screenplay</task><person id="27">Takeshi Mori</person></staff>
+<staff gid="1708243329"><task>Music</task><person id="151">Masamichi Amano</person></staff>
+<staff gid="791050019"><task>Character Design</task><person id="359">Noriyasu Yamauchi</person></staff>
+<staff gid="2887048926"><task>Chief Animation Director</task><person id="359">Noriyasu Yamauchi</person></staff>
+<staff gid="2949643583"><task>Mechanical design</task><person id="359">Noriyasu Yamauchi</person></staff>
+<staff gid="1240171033"><task>Mechanical design</task><person id="11211">Tomohiro Kawahara</person></staff>
+<staff gid="2327520536"><task>Sound Director</task><person id="254">Yota Tsuruoka</person></staff>
+<staff gid="4008598938"><task>Director of Photography</task><person id="14909">Toru Fukushi</person></staff>
+<cast gid="974606792" lang="JA"><role>Shizuha Doi</role><person id="334">Kaori Shimizu</person></cast>
+<cast gid="531236936" lang="JA"><role>Kei Fujitani</role><person id="529">Tomokazu Seki</person></cast>
+<cast gid="1432326643" lang="JA"><role>Mikaze Honjo</role><person id="778">Yumi Kakazu</person></cast>
+<cast gid="1484025202" lang="JA"><role>Rin Mikuriya</role><person id="834">Hisako Kyouda</person></cast>
+<cast gid="3020568477" lang="JA"><role>Kazuma Iwasaki</role><person id="867">Kouji Tsujitani</person></cast>
+<cast gid="3877542266" lang="JA"><role>Karin Kikuhara</role><person id="912">Fumiko Orikasa</person></cast>
+<cast gid="2224799303" lang="JA"><role>Sayaka Kisaragi</role><person id="1376">Sayaka Ohara</person></cast>
+<cast gid="1555227216" lang="JA"><role>Ayamo Nakamura</role><person id="1628">Shiho Kikuchi</person></cast>
+<cast gid="3819846469" lang="JA"><role>Kiriko Aoki</role><person id="5179">Kaori Mizuhashi</person></cast>
+<cast gid="2528015633" lang="JA"><role>Mirei Tachibana</role><person id="6844">Akeno Watanabe</person></cast>
+<cast gid="2276463842" lang="JA"><role>Mana Ninomiya</role><person id="7341">Haruhi Terada</person></cast>
+<cast gid="955150813" lang="JA"><role>Touko Mukai</role><person id="39763">Misa Kimura</person></cast>
+<cast gid="2073249879" lang="PT"><role>Tsubasa Miyazaki</role><person id="48735">Márcio Araújo</person></cast>
+<cast gid="2490144054" lang="PT"><role>Karin Kikuhara</role><person id="48758">Tânia Gaidarji</person></cast>
+<cast gid="3613557032" lang="PT"><role>Sayaka Kisaragi</role><person id="48769">Marli Bortoleto</person></cast>
+<cast gid="1627228237" lang="PT"><role>Shizuha Doi</role><person id="48818">Luciana Baroli</person></cast>
+<cast gid="3142031928" lang="PT"><role>Kazuma Iwasaki</role><person id="48884">Hermes Baroli</person></cast>
+<cast gid="3284788137" lang="PT"><role>Sora Ikeda</role><person id="48893">Ulisses Bezerra</person></cast>
+<cast gid="2092600661" lang="PT"><role>Mikaze Honjo</role><person id="49237">Tatiane Keplermaier</person></cast>
+<credit gid="2387265751"><task>Animation Production</task><company id="19">Studio Fantasia</company></credit>
+<credit gid="2323521120"><task>Production</task><company id="18">Bandai Visual</company></credit></anime></ann>

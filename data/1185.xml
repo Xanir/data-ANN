@@ -1,0 +1,1199 @@
+<ann><anime id="1185" gid="958833489" type="TV" name="ATASHIn'CHI" precision="TV" generated-on="2016-03-27T05:48:25Z">
+<related-prev rel="side story of" id="4944"/>
+<related-next id="4950" rel="related"/>
+<related-next id="17691" rel="sequel"/>
+<info gid="2329735290" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A1185-9.jpg" width="200" height="150"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A1185-9.jpg" width="200" height="150"/></info>
+<info gid="1102223474" type="Main title" lang="JA">ATASHIn'CHI</info>
+<info gid="2206887336" type="Alternative title" lang="ES">¡Ay, mi madre!</info>
+<info gid="1671487519" type="Alternative title" lang="JA">あたしンち</info>
+<info gid="2284193028" type="Alternative title" lang="ZH-TW">我們這一家</info>
+<info gid="2568538961" type="Genres">comedy</info>
+<info gid="2595887028" type="Genres">drama</info>
+<info gid="2764971314" type="Genres">slice of life</info>
+<info gid="3607706255" type="Plot Summary">A humorous take on the day-to-day life of a &quot;normal&quot; Japanese family. The family in question is the Tachibanis, consisting of a housewife mom, a salary-man dad, and teenager siblings Yuusuke and Mikan.</info>
+<info gid="3210657053" type="Running time">19</info>
+<info gid="1781350330" type="Number of episodes">662</info>
+<info gid="2896298101" type="Vintage">2002-04-19 to 2009-09-19</info>
+<info gid="3237209297" type="Vintage">2008-06-02 to 2008-08-08 (Philippines, GMA Bulilit TV)</info>
+<info gid="1504304102" type="Opening Theme">&quot;saraba&quot; by kinmokusei</info>
+<info gid="2893482142" type="Ending Theme">&quot;kite kite atashin'chi&quot; by Hirayama Aya</info>
+<info gid="1656654743" type="Official website" lang="JA" href="http://www.shin-ei-animation.jp/atashinchi/">Atashin'chi @ Shin'ei Animation</info>
+<info gid="293781633" type="Official website" lang="JA" href="http://www.tv-asahi.co.jp/atashi/">TV Asahi's Atashi'n chi Website</info>
+<info gid="3171658240" type="Official website" lang="ZH-TW" href="http://www.e-muse.com.tw/property/ata_shin_chi/introduction/20070404/index.html">我們這一家TV版中文官方網站</info>
+<ratings nb_votes="25" weighted_score="7.0793" bayesian_score="7.23106"/>
+<episode num="1">
+<title gid="2639097784" lang="EN">That's why it isn't so/Do not be surprised~</title>
+<title part="A" gid="2191721157" lang="JA">dakaraso- janakute</title>
+<title part="B" gid="1945431688" lang="JA">BIKKURI shinai de ne~</title></episode>
+<episode num="2">
+<title gid="1580767940" lang="EN">I did not say it/Please come back</title>
+<title part="A" gid="1387428599" lang="JA">iun janakatta</title>
+<title part="B" gid="2125531317" lang="JA">kaette kinasai</title></episode>
+<episode num="3">
+<title gid="2809615681" lang="EN">Good grief/Father, hahha</title>
+<title part="A" gid="2131041898" lang="JA">mouuuu</title>
+<title part="B" gid="3831155299" lang="JA">chichi , hahha</title></episode>
+<episode num="4">
+<title gid="1137995616" lang="EN">The way to eat the bread/Mother's sense of justice</title>
+<title part="A" gid="1663582465" lang="JA">PAN no mimi nadono tabekata</title>
+<title part="B" gid="2359116924" lang="JA">okaa-san no seigikan</title></episode>
+<episode num="5">
+<title gid="3819979328" lang="EN">We are family/Full of expectations...</title>
+<title part="A" gid="2788711152" lang="JA">ikka danran</title>
+<title part="B" gid="1742635152" lang="JA">manki no ARE wo ...</title></episode>
+<episode num="6">
+<title gid="3429277175" lang="EN">Mother's sight is faltering?/Unsmart move</title>
+<title part="A" gid="1957883266" lang="JA">haha , me ga kasumu ?</title>
+<title part="B" gid="1473166326" lang="JA">ki ga kikanai nee</title></episode>
+<episode num="7">
+<title gid="2485338461" lang="EN">Mother again/Father &quot;That's good&quot;</title>
+<title part="A" gid="2457522676" lang="JA">ma-ta okaa-san desho</title>
+<title part="B" gid="1437276770" lang="JA">chichi ARE ga ii</title></episode>
+<episode num="8">
+<title gid="1934892494" lang="EN">Mother, Asian resort/Yoshioka</title>
+<title part="A" gid="1685332050" lang="JA">haha , AJIANRIZOuTO</title>
+<title part="B" gid="3984683717" lang="JA">yoshioka , kotsun</title></episode>
+<episode num="9">
+<title gid="3058234314" lang="EN">Everyone has given up on humans?/Yuzu has always been like that</title>
+<title part="A" gid="2542458376" lang="JA">mikan , ningen yameru ?</title>
+<title part="B" gid="1058538349" lang="JA">YUZU , itsumodoori de</title></episode>
+<episode num="10">
+<title gid="2028814789" lang="EN">Mother, it is not thrown away/Yuzu is a natto fan</title>
+<title part="A" gid="1559775949" lang="JA">haha , suterarenai</title>
+<title part="B" gid="2237026915" lang="JA">YUZU wa nattou bugyou</title></episode>
+<episode num="11">
+<title gid="1637483575" lang="JA">母、あらわるっ／母のボキャブラ</title>
+<title part="A" gid="2973129209" lang="JA">haha , arawaru</title>
+<title part="B" gid="504847830" lang="JA">haha no BOKYABURA</title></episode>
+<episode num="12">
+<title gid="1002910059" lang="JA">母のダイエットっ／みかん、インタビュー</title>
+<title part="A" gid="1437021825" lang="JA">haha no DAIETTO</title>
+<title part="B" gid="1877474514" lang="JA">mikan , INTABYUU</title></episode>
+<episode num="13">
+<title gid="1595415209" lang="JA">火事場の母ヂカラ／あたしンちの秘密</title>
+<title part="A" gid="1596413366" lang="JA">kajiba no haha DIKARA</title>
+<title part="B" gid="3653651832" lang="JA">atashinchi no himitsu</title></episode>
+<episode num="14">
+<title gid="1639617025" lang="JA">フレンチ母／真夏の夜の… …っ</title>
+<title part="A" gid="1753136814" lang="JA">FURENCHI haha</title>
+<title part="B" gid="3161546142" lang="JA">manatsu no yoru no ...</title></episode>
+<episode num="15">
+<title gid="2620765620" lang="JA">母の氷戦争／母、アレを切るっ</title>
+<title part="A" gid="2529440892" lang="JA">haha no koori sensou</title>
+<title part="B" gid="2014045202" lang="JA">haha , ARE wo kiru</title></episode>
+<episode num="16">
+<title gid="3999353482" lang="JA">ユズがプールで…っ！／やきとりミステリー</title>
+<title part="A" gid="3013861982" lang="JA">YUZU ga PUURU de...!</title>
+<title part="B" gid="211234562" lang="JA">yakitori MISUTERII</title></episode>
+<episode num="17">
+<title gid="4033778548" lang="JA">母が水着で…っ！／母の料理のワケ</title>
+<title part="A" gid="3325359300" lang="JA">haha ga mizugi de... !</title>
+<title part="B" gid="2109847390" lang="JA">haha no ryouri no WAKE</title></episode>
+<episode num="18">
+<title gid="615232831" lang="JA">母、ホメてのばすっ／ともだちンち</title>
+<title part="A" gid="2577506810" lang="JA">haha , HOME te nobasu</title>
+<title part="B" gid="918111106" lang="JA">tomodachi nchi</title></episode>
+<episode num="19">
+<title gid="2474189455" lang="JA">母の歩き方／ベランダでどっきりっ!?</title>
+<title part="A" gid="2208498750" lang="JA">haha no arukikata</title>
+<title part="B" gid="2065576482" lang="JA">BERANDA de dokkiri !?</title></episode>
+<episode num="20">
+<title gid="1770852512" lang="JA">ブレーカー落ちて…／母、クルクル舞うっ!?</title>
+<title part="A" gid="2096058310" lang="JA">BUREEKAA ochite ...</title>
+<title part="B" gid="1203001270" lang="JA">haha , KURUKURU mau !?</title></episode>
+<episode num="21">
+<title gid="2267063908" lang="JA">理想と現実／母の呪縛っ！</title>
+<title part="A" gid="2558957722" lang="JA">risou to genji</title>
+<title part="B" gid="726666737" lang="JA">haha no jubaku !</title></episode>
+<episode num="22">
+<title gid="3382779889" lang="JA">母の手伝わせ方っ／もっと優しくして～</title>
+<title part="A" gid="1553930095" lang="JA">haha no tetsudawase hou</title>
+<title part="B" gid="3125988442" lang="JA">motto yasashi kushite~</title></episode>
+<episode num="23">
+<title gid="399971326" lang="JA">いつにない父／憧れのネ-チャンっ</title>
+<title part="A" gid="2881250851" lang="JA">itsuninai chichi</title>
+<title part="B" gid="324833573" lang="JA">akogare no NE-CHAN</title></episode>
+<episode num="24">
+<title gid="632403654" lang="JA">ベア研の文化祭(前編)(後編)</title>
+<title part="A" gid="1301791075" lang="JA">BEA ken no bunkasai ( zenpen )</title>
+<title part="B" gid="2219347085" lang="JA">BEA ken no bunkasai ( kouhen )</title></episode>
+<episode num="25">
+<title gid="2241396784" lang="JA">ボインねーちゃんっ／母、耳ビンカ～ン</title>
+<title part="A" gid="1458671790" lang="JA">BOIN ne-chan</title>
+<title part="B" gid="3557693134" lang="JA">haha , mimi BINKA~N</title></episode>
+<episode num="26">
+<title gid="1586478908" lang="JA">ユズ、パジャマでっ／母、デパートでっ</title>
+<title part="A" gid="2381731560" lang="JA">YUSU , PAJAMA de</title>
+<title part="B" gid="2750249715" lang="JA">haha , DEPAATO de</title></episode>
+<episode num="27">
+<title gid="1066256388" lang="JA">カーナビが来たっ／母、アレはどこ？</title>
+<title part="A" gid="932505515" lang="JA">KAANABI ga kita</title>
+<title part="B" gid="2380774126" lang="JA">haha , ARE wa doko ?</title></episode>
+<episode num="28">
+<title gid="681504473" lang="JA">母の一石三鳥っ／ねむい、ねむい…</title>
+<title part="A" gid="3713161593" lang="JA">haha no isseki san tori</title>
+<title part="B" gid="1081237143" lang="JA">nemui , nemui ...</title></episode>
+<episode num="29">
+<title gid="2264993766" lang="JA">ユズ、男同士／母、あとから言うっ</title>
+<title part="A" gid="2983618884" lang="JA">YUSU , otokodoushi</title>
+<title part="B" gid="3197983295" lang="JA">haha , atokara iu</title></episode>
+<episode num="30">
+<title gid="2676036249" lang="JA">母の習性っ／なんども確認</title>
+<title part="A" gid="2040683427" lang="JA">haha no shuusei</title>
+<title part="B" gid="1820741623" lang="JA">nandomo kakunin</title></episode>
+<episode num="31">
+<title gid="2280902972" lang="JA">新田のカレシ!?／ユズ、福引大明神さまっ</title>
+<title part="A" gid="1653094001" lang="JA">nitta no KARESHI !?</title>
+<title part="B" gid="2568653166" lang="JA">YUSU , fukubiki daimyoujin-sama</title></episode>
+<episode num="32">
+<title gid="518879092" lang="JA">母、メリークリスマスっ／もういくつ寝ると…</title>
+<title part="A" gid="834770028" lang="JA">haha , MERIIKURISUMASU</title>
+<title part="B" gid="3006475881" lang="JA">mou ikutsu neru to ...</title></episode>
+<episode num="33">
+<title gid="1837647246" lang="JA">母、重さピッタリ！／ふしぎなあの子</title>
+<title part="A" gid="1659608854" lang="JA">haha , omosa PITTARI !</title>
+<title part="B" gid="2195383636" lang="JA">fushigina ano ko</title></episode>
+<episode num="34">
+<title gid="2445569502" lang="JA">母、銀座でっ／戦う長電話</title>
+<title part="A" gid="1360950460" lang="JA">haha , ginza de</title>
+<title part="B" gid="2193917601" lang="JA">tatakau nagadenwa</title></episode>
+<episode num="35">
+<title gid="2578897127" lang="JA">自転車、盗まれて／石田マカロニ</title>
+<title part="A" gid="1996962248" lang="JA">jitensha , nusumarete</title>
+<title part="B" gid="1376225228" lang="JA">ishida MAKARONI</title></episode>
+<episode num="36">
+<title gid="527669954" lang="JA">ユズ、ファンクラブ／母、なんでわかるのっ</title>
+<title part="A" gid="1088236188" lang="JA">YUSU , FANKURABU</title>
+<title part="B" gid="1549877785" lang="JA">haha , nande wakaru no</title></episode>
+<episode num="37">
+<title gid="3702238040" lang="JA">バレンタインデーっ！／父、京都のおみやげっ</title>
+<title part="A" gid="3562738910" lang="JA">BARENTAINDEE !</title>
+<title part="B" gid="3666129752" lang="JA">chichi , kyouto no omiyage</title></episode>
+<episode num="38">
+<title gid="1461224718" lang="JA">母、ついでついでにっ／あったか、ババシャツ</title>
+<title part="A" gid="1568880002" lang="JA">haha , tsuide tsuide ni</title>
+<title part="B" gid="2379504745" lang="JA">attaka , BABASHA</title></episode>
+<episode num="39">
+<title gid="1151279930" lang="JA">父、捨て魔っ／新しいクッション</title>
+<title part="A" gid="2424740429" lang="JA">chichi , sute ma</title>
+<title part="B" gid="1807518873" lang="JA">atarashii KUSSHON</title></episode>
+<episode num="40">
+<title gid="2232692242" lang="JA">ホワイトデーっ／母、トキメキ忘れる</title>
+<title part="A" gid="810805055" lang="JA">HOWAITODEE</title>
+<title part="B" gid="2259137969" lang="JA">haha , TOKIMEKI wasureru</title></episode>
+<episode num="41">
+<title gid="2598923136" lang="JA">さくら���サクラ／母、おちついてっ</title>
+<title part="A" gid="2953446592" lang="JA">sakura , SAKURA</title>
+<title part="B" gid="2066057645" lang="JA">haha , ochitsuite</title></episode>
+<episode num="42">
+<title gid="1741504975" lang="JA">ユズ、ツナ缶っ／母、プレゼント悩む！</title>
+<title part="A" gid="2455205055" lang="JA">YUSU , tsuna kan</title>
+<title part="B" gid="1873401890" lang="JA">haha , PUREZENTO nayamu !</title></episode>
+<episode num="43">
+<title gid="2753099446" lang="JA">ユズ、かくれファン／母、すっぱぁ～いっ</title>
+<title part="A" gid="940523789" lang="JA">YUSU , kakure FAN</title>
+<title part="B" gid="1192402694" lang="JA">haha , suppaa~i</title></episode>
+<episode num="44">
+<title gid="3582617782" lang="JA">父、ひげヒゲ～／母、大きめ大きめっ</title>
+<title part="A" gid="2144763349" lang="JA">chichi , hige HIGE~</title>
+<title part="B" gid="2481577327" lang="JA">haha , ooki me ooki me</title></episode>
+<episode num="45">
+<title gid="2251712926" lang="JA">父、全集を買うっ／母、バスに乗らないとっ</title>
+<title part="A" gid="2733754383" lang="JA">chichi , zenshuu wo kau</title>
+<title part="B" gid="3181623480" lang="JA">haha , BASU ni noranai to</title></episode>
+<episode num="46">
+<title gid="3303400039" lang="JA">親友、しみちゃん／母、お昼寝のジャマっ</title>
+<title part="A" gid="2659802447" lang="JA">shinyuu , shimi-chan</title>
+<title part="B" gid="2844177214" lang="JA">haha , ohirune no JAMA</title></episode>
+<episode num="47">
+<title gid="3055412099" lang="JA">しみちゃんダイエット／母、大げさに言うっ</title>
+<title part="A" gid="483298606" lang="JA">shimi-chan DAIETTO</title>
+<title part="B" gid="1699854896" lang="JA">haha , oogesa ni iu</title></episode>
+<episode num="48">
+<title gid="2482959989" lang="JA">その名も春山ふぶき／おそろしきスッポンポンっ</title>
+<title part="A" gid="1515353608" lang="JA">sono na mo haruyama fubuki</title>
+<title part="B" gid="1461204054" lang="JA">osoroshiki SUPPONPON</title></episode>
+<episode num="49">
+<title gid="3221187410" lang="JA">母、登山行きたいっ／寝顔、スヤスヤ…</title>
+<title part="A" gid="1453140191" lang="JA">haha , tozan ikitai</title>
+<title part="B" gid="2107752206" lang="JA">negao , SUYASUYA ...</title></episode>
+<episode num="50">
+<title gid="1595132677" lang="JA">虫、無視、けんちん汁っ／母、小言マシーン</title>
+<title part="A" gid="2653613135" lang="JA">mushi , mushi , kenchin shiru</title>
+<title part="B" gid="1915240917" lang="JA">haha , kogoto MASHIIN</title></episode>
+<episode num="51">
+<title gid="754024626" lang="JA">ユズ、試験前っ／母、センタクの順番</title>
+<title part="A" gid="1672833649" lang="JA">YUSU , shikenmae</title>
+<title part="B" gid="3087754453" lang="JA">haha , SENTAKU no junban</title></episode>
+<episode num="52">
+<title gid="2620211872" lang="JA">母、通販買うっ／要注意！春山ふぶき</title>
+<title part="A" gid="968321448" lang="JA">haha , tsuuhan kau</title>
+<title part="B" gid="2635137590" lang="JA">youchuui ! haruyama fubuki</title></episode>
+<episode num="53">
+<title gid="1778673657" lang="JA">おかずの法則／視線、ちらっ</title>
+<title part="A" gid="1307171021" lang="JA">okazun o housoku</title>
+<title part="B" gid="254216099" lang="JA">shisen , chira</title></episode>
+<episode num="54">
+<title gid="2633956342" lang="JA">父、うっかりと／お願い、ホメないでっ</title>
+<title part="A" gid="3214327023" lang="JA">chichi , ukkari to</title>
+<title part="B" gid="2906451501" lang="JA">onegai , HOME naide</title></episode>
+<episode num="55">
+<title gid="2432093395" lang="JA">毛穴パックって／母、何でも父にきく</title>
+<title part="A" gid="2975443415" lang="JA">keana PAKKU tte</title>
+<title part="B" gid="735533305" lang="JA">haha , nandemo chichi ni kiku</title></episode>
+<episode num="56">
+<title gid="3102476741" lang="JA">タチバナ家のお中元／みかん、水着かうっ</title>
+<title part="A" gid="3642855246" lang="JA">TACHIBANA ie no ochuugen</title>
+<title part="B" gid="860354998" lang="JA">mikan , mizugi kau</title></episode>
+<episode num="57">
+<title gid="3185977568" lang="JA">ユズ、考えるっ／なんでも改造親子</title>
+<title part="A" gid="1710030056" lang="JA">YUSU , kangaeru</title>
+<title part="B" gid="909550222" lang="JA">nandemo kaizou oyako</title></episode>
+<episode num="58">
+<title gid="2684483292" lang="JA">花火はどっちに？／ユズ、夜中に…</title>
+<title part="A" gid="1821911805" lang="JA">hanabi wa docchi ni ?</title>
+<title part="B" gid="2092852113" lang="JA">YUSU , yonaka ni ...</title></episode>
+<episode num="59">
+<title gid="2308760315" lang="JA">BEA ken , natsugasshuku</title></episode>
+<episode num="60">
+<title gid="3985815099" lang="JA">夏休みはせつないっ／みかん、夏休みの目標</title>
+<title part="A" gid="2541030702" lang="JA">natsuyasumi wa setsunai</title>
+<title part="B" gid="2926700608" lang="JA">mikan , natsuyasumi no mokuhyou</title></episode>
+<episode num="61">
+<title gid="1004720114" lang="JA">理想のカレシ／ユズのパンツっ</title>
+<title part="A" gid="1795369161" lang="JA">risou no KARESHI</title>
+<title part="B" gid="1983718163" lang="JA">YUSU no PANTSU</title></episode>
+<episode num="62">
+<title gid="1980103586" lang="JA">冷蔵庫のあけかた／ハナ毛疑惑っ</title>
+<title part="A" gid="2271006880" lang="JA">reizouko no akekata</title>
+<title part="B" gid="2366667323" lang="JA">HANA ke giwaku</title></episode>
+<episode num="63">
+<title gid="441011007" lang="JA">川島、気になる／父、せっかちっ</title>
+<title part="A" gid="1741203315" lang="JA">kawashima , ki ni naru</title>
+<title part="B" gid="1901347591" lang="JA">chichi , sekkachi</title></episode>
+<episode num="64">
+<title gid="1159170080" lang="JA">母、まとめたがりっ／吉岡の香水</title>
+<title part="A" gid="1212237102" lang="JA">haha , matometagari</title>
+<title part="B" gid="2469008888" lang="JA">yoshioka no kousui</title></episode>
+<episode num="65">
+<title gid="1931823272" lang="JA">母、クロスワード／肩、もみもみっ</title>
+<title part="A" gid="1849377551" lang="JA">haha , KUROSUWAADO</title>
+<title part="B" gid="2812492132" lang="JA">kata , momimomi</title></episode>
+<episode num="66">
+<title gid="1914499988" lang="JA">atashinchi &quot; jounetsu no 60 fun &quot; mou 1 kai misechautsu !! SUPESHARU</title></episode>
+<episode num="67">
+<title part="A" gid="3879681020" lang="JA">haha , kaimono tanomu</title>
+<title part="B" gid="2063672525" lang="JA">fukuramu , fukuramu</title></episode>
+<episode num="68">
+<title part="A" gid="3257004963" lang="JA">mikan to NASU no kankei</title>
+<title part="B" gid="1987695552" lang="JA">chichi , zoukin gake</title></episode>
+<episode num="69">
+<title part="A" gid="383089709" lang="JA">mikan , okozukai APPU ?</title>
+<title part="B" gid="2437155161" lang="JA">aa , mabushii</title></episode>
+<episode num="70">
+<title part="A" gid="2096554941" lang="JA">ishida , USO tsukanai</title>
+<title part="B" gid="3210766125" lang="JA">kikai ha ikiteiru !?</title></episode>
+<episode num="71">
+<title part="A" gid="1324186695" lang="JA">chichi , haha , onsen ryokou !</title>
+<title part="B" gid="2859073682" lang="JA">aa , hazukashii</title></episode>
+<episode num="72">
+<title part="A" gid="945291063" lang="JA">imadoki no ko wa</title>
+<title part="B" gid="2197013529" lang="JA">YUSU , MAYONEEZU</title></episode>
+<episode num="73">
+<title part="A" gid="1037404376" lang="JA">jinsei , saramawashi</title>
+<title part="B" gid="1739340185" lang="JA">itsuno hi ka hako</title></episode>
+<episode num="74">
+<title part="A" gid="3337515117" lang="JA">mikan , boushi ni yowai</title>
+<title part="B" gid="646936452" lang="JA">aa , MATSUTAKE ga</title></episode>
+<episode num="75">
+<title gid="2977176301" lang="JA">atashinchi SUPESHARU ( eiga koukaimae SUPESHARU )</title></episode>
+<episode num="76">
+<title part="A" gid="2085338522" lang="JA">YUSU , moyamoya</title>
+<title part="B" gid="2428598638" lang="JA">haha no oshare KAN</title></episode>
+<episode num="77">
+<title part="A" gid="3741957879" lang="JA">haha , chikoku ma</title>
+<title part="B" gid="3905945997" lang="JA">chichi , chakkari to</title></episode>
+<episode num="78">
+<title part="A" gid="3099339218" lang="JA">shitagi toii onna</title>
+<title part="B" gid="1579082428" lang="JA">chichi , haha , odekake</title></episode>
+<episode num="79">
+<title part="A" gid="2532667140" lang="JA">tossano shou USO</title>
+<title part="B" gid="2783284253" lang="JA">kawashima , henshin</title></episode>
+<episode num="80">
+<title part="A" gid="1525558001" lang="JA">mikan , kawaisou na nin ?</title>
+<title part="B" gid="2698502378" lang="JA">haha no aijou</title></episode>
+<episode num="81">
+<title part="A" gid="3488163706" lang="JA">nitta , ki ga tsuku onna</title>
+<title part="B" gid="2369231623" lang="JA">chichi , yasei teki</title></episode>
+<episode num="82">
+<title part="A" gid="1507718633" lang="JA">mikan , zense wa nani</title>
+<title part="B" gid="970590651" lang="JA">haha , mimi ga ZATSU</title></episode>
+<episode num="83">
+<title part="A" gid="1154207260" lang="JA">YUSU , damasareru</title>
+<title part="B" gid="1545200815" lang="JA">haha , mikan , GUCHI</title></episode>
+<episode num="84">
+<title part="A" gid="2918983279" lang="JA">chichi , surudoi</title>
+<title part="B" gid="1280312072" lang="JA">haha , chikoku ma</title></episode>
+<episode num="85">
+<title part="A" gid="1848877482" lang="JA">haha , atama no kaiten</title>
+<title part="B" gid="620281510" lang="JA">YUSU no nichiyoubi</title></episode>
+<episode num="86">
+<title part="A" gid="2068564604" lang="JA">mikan , juunin nami</title>
+<title part="B" gid="1353191290" lang="JA">YUSU , kokoro no SUICCHI</title></episode>
+<episode num="87">
+<title part="A" gid="2278537199" lang="JA">chichi , otoko no bigaku</title>
+<title part="B" gid="1224872513" lang="JA">mikan , kawaii</title></episode>
+<episode num="88">
+<title part="A" gid="3127284154" lang="JA">chichi no ikigai</title>
+<title part="B" gid="2941318375" lang="JA">haha , zaiakukan</title></episode>
+<episode num="89">
+<title part="A" gid="1543162604" lang="JA">mikan , ienai</title>
+<title part="B" gid="1707898951" lang="JA">chichi , PASOKON kau</title></episode>
+<episode num="90">
+<title part="A" gid="2573874866" lang="JA">haha no yarikata</title>
+<title part="B" gid="2209168917" lang="JA">mikan , DOKA kui</title></episode>
+<episode num="91">
+<title part="A" gid="1298612155" lang="JA">yoshioka , ITA dengiwaku</title>
+<title part="B" gid="1170030505" lang="JA">jinsei no KOTSU</title></episode>
+<episode num="92">
+<title part="A" gid="2649321537" lang="JA">SAKURA no omoide</title>
+<title part="B" gid="2096067618" lang="JA">nihonjin no MANAA</title></episode>
+<episode num="93">
+<title gid="1380541378" lang="JA">YUSU , hakkushon</title></episode>
+<episode num="94">
+<title part="A" gid="1841091618" lang="JA">haha , kekkou BURANDO shugi</title>
+<title part="B" gid="1524077749" lang="JA">chichi , KEEKI wo katte kuru</title></episode>
+<episode num="95">
+<title part="A" gid="3588588039" lang="JA">mikan , kamin TAIMU</title>
+<title part="B" gid="965242699" lang="JA">haha , tonikaku WAINKARAA</title></episode>
+<episode num="96">
+<title part="A" gid="2749373660" lang="JA">mikan , chotto SUNE ru</title>
+<title part="B" gid="3062867570" lang="JA">me no doku , shita no doku</title></episode>
+<episode num="97">
+<title part="A" gid="911975867" lang="JA">mikan , 155 SENCHI</title>
+<title part="B" gid="1561559865" lang="JA">TACHIBANA ie , asahiru ban gohan</title></episode>
+<episode num="98">
+<title part="A" gid="1186901966" lang="JA">ima shika dekinai koto</title>
+<title part="B" gid="2844258113" lang="JA">mie hari fukuro</title></episode>
+<episode num="99">
+<title part="A" gid="3347349844" lang="JA">chichi , PANCHIPANCHIPANCHI !!</title>
+<title part="B" gid="2924796087" lang="JA">haha , BAAGEN suki</title></episode>
+<episode num="100">
+<title part="A" gid="1131846566" lang="JA">BOUGYAKUBUJIN ?</title>
+<title part="B" gid="1944853702" lang="JA">hitokoto , ii nasai</title></episode>
+<episode num="101">
+<title part="A" gid="2930155403" lang="JA">haha , tougei ni idomu ( zenpen )</title>
+<title part="B" gid="1667018492" lang="JA">haha , tougei ni idomu ( kouhen )</title></episode>
+<episode num="102">
+<title part="A" gid="1708084377" lang="JA">chichi , suki na TAIPU</title>
+<title part="B" gid="1251696187" lang="JA">chigai no wakaru TACHIBANA-ke</title></episode>
+<episode num="103">
+<title part="A" gid="1960689649" lang="JA">shimi-chan TAROTTO</title>
+<title part="B" gid="2209227478" lang="JA">haha , mise takunai</title></episode>
+<episode num="104">
+<title part="A" gid="3234560038" lang="JA">mikan , katazuke nasai</title>
+<title part="B" gid="1601777815" lang="JA">haha , MANSHON daiji</title></episode>
+<episode num="105">
+<title part="A" gid="1442390764" lang="JA">natsuyasumi no katazuke</title>
+<title part="B" gid="1084321682" lang="JA">chichi , natsukaze</title></episode>
+<episode num="106">
+<title part="A" gid="2556525942" lang="JA">haha no taishibou</title>
+<title part="B" gid="2072692447" lang="JA">natsuyasumi no omoide</title></episode>
+<episode num="107">
+<title part="A" gid="1733645206" lang="JA">mikan , ayashii ugoki</title>
+<title part="B" gid="2389477236" lang="JA">wakatte inai koto</title></episode>
+<episode num="108">
+<title part="A" gid="2873400144" lang="JA">kokoro no tabi</title>
+<title part="B" gid="822411571" lang="JA">YUSU , kyu-kutsu</title></episode>
+<episode num="109">
+<title part="A" gid="3374467194" lang="JA">chichi , haha , HAIKINGU</title>
+<title part="B" gid="2253785940" lang="JA">yondara sugu kite</title></episode>
+<episode num="110">
+<title part="A" gid="1752276713" lang="JA">chikoku da , chikoku da</title>
+<title part="B" gid="778112863" lang="JA">chichi , kekka OURAI</title></episode>
+<episode num="111">
+<title gid="1093608172" lang="JA">将来はお笑い芸人？／カルメ焼き、ふくらまないっ</title>
+<title part="A" gid="3737451374" lang="JA">shourai wa owarai geinin ?</title>
+<title part="B" gid="3622823909" lang="JA">KARUME yaki , fukuramanai</title></episode>
+<episode num="112">
+<title gid="2530716536" lang="JA">父、背広貯金っ／川島、文化祭に行く</title>
+<title part="A" gid="1642127302" lang="JA">chichi , sebiro chokin</title>
+<title part="B" gid="2250052087" lang="JA">kawashima , bunkasai ni iku</title></episode>
+<episode num="113">
+<title gid="174890851" lang="JA">狭くなったあたしンち／イケてる日、イケてない日</title>
+<title part="A" gid="3548627163" lang="JA">semaku natta atashinchi</title>
+<title part="B" gid="2206965442" lang="JA">IKE teru hi , IKE tenai hi</title></episode>
+<episode num="114">
+<title gid="1374148629" lang="JA">幻の味、フカヒレ／父、漢方薬を飲むっ</title>
+<title part="A" gid="1326832758" lang="JA">maboroshi no aji , fukahire</title>
+<title part="B" gid="1070875647" lang="JA">chichi , kanpouyaku wo nomu</title></episode>
+<episode num="115">
+<title gid="1939242890" lang="JA">母、むせるっ／ちちまわす？</title>
+<title part="A" gid="2503857531" lang="JA">haha , museru</title>
+<title part="B" gid="2100017232" lang="JA">chichimawasu ?</title></episode>
+<episode num="116">
+<title gid="3345746980" lang="JA">お手伝いの体制／父の基準っ</title>
+<title part="A" gid="1669668698" lang="JA">otetsudai no taisei</title>
+<title part="B" gid="505155163" lang="JA">chichi no kijun</title></episode>
+<episode num="117">
+<title gid="1529272392" lang="JA">みかんの日記／夫婦の会話っ</title>
+<title part="A" gid="3865863225" lang="JA">mikan no nikki</title>
+<title part="B" gid="1179288362" lang="JA">fuufu no kaiwa</title></episode>
+<episode num="118">
+<title gid="742078584" lang="JA">ベア研のクリスマス／ユズ、年賀状をかくっ</title>
+<title part="A" gid="2226876724" lang="JA">BEA ken no KURISUMASU</title>
+<title part="B" gid="1344460411" lang="JA">YUSU , nengajou wo kaku</title></episode>
+<episode num="119">
+<title gid="3187061600" lang="JA">映画館で泣いちゃう／母、親孝行っ</title>
+<title part="A" gid="3402515752" lang="JA">eigakan de nai chau</title>
+<title part="B" gid="2404252662" lang="JA">haha , oyakoukou</title></episode>
+<episode num="120">
+<title gid="805173459" lang="JA">ムジュンことばっ／コーヒードリッパー</title>
+<title part="A" gid="1117426880" lang="JA">MUJUN kotoba</title>
+<title part="B" gid="1519018967" lang="JA">KOUHIIDORIPPAA</title></episode>
+<episode num="121">
+<title gid="2917496523" lang="JA">ムチャクチャな言い訳っ／それぞれの冬</title>
+<title part="A" gid="1721457731" lang="JA">MUCHAKUCHA na iiwake</title>
+<title part="B" gid="2737730310" lang="JA">sorezore no fuyu</title></episode>
+<episode num="122">
+<title gid="3337044794" lang="JA">父のコダワリっ／ユズ、アイドルの夢</title>
+<title part="A" gid="2622882175" lang="JA">chichi no KODAWARI</title>
+<title part="B" gid="3102310503" lang="JA">YUSU , AIDORU no yume</title></episode>
+<episode num="123">
+<title gid="3269388576" lang="JA">冬の開け閉め／みかん、女風呂のぞきたいっ</title>
+<title part="A" gid="419801999" lang="JA">fuyu no hirake shime</title>
+<title part="B" gid="1925318262" lang="JA">mikan , onna furo no zokitai</title></episode>
+<episode num="124">
+<title gid="3246507091" lang="JA">ハンコがないっ／ユズ、モノ思いにふける</title>
+<title part="A" gid="3357209463" lang="JA">HANKO ga nai</title>
+<title part="B" gid="3692639216" lang="JA">YUSU , MONO omoi ni fukeru</title></episode>
+<episode num="125">
+<title gid="323213884" lang="JA">起きるのつらいっ／ユズ、身体を自覚しない</title>
+<title part="A" gid="776712388" lang="JA">okiru no tsurai</title>
+<title part="B" gid="2534099386" lang="JA">YUSU , shintai wo jikaku shinai</title></episode>
+<episode num="126">
+<title gid="1378093975" lang="JA">レンギョウの花／母、おでかけの約束っ</title>
+<title part="A" gid="557164670" lang="JA">RENGYOU no hana</title>
+<title part="B" gid="2362485424" lang="JA">haha , odekake no yakusoku</title></episode>
+<episode num="127">
+<title gid="2096397279" lang="JA">ユズ、幸せっ／母、話が通じない人？</title>
+<title part="A" gid="1722161525" lang="JA">YUSU , shiawase</title>
+<title part="B" gid="2235589193" lang="JA">haha , hanashi ga tsuuji nai nin ?</title></episode>
+<episode num="128">
+<title gid="1774071733" lang="JA">母、内ベンケイっ／着たい服と似合う服</title>
+<title part="A" gid="3577595439" lang="JA">haha , nai BENKEI</title>
+<title part="B" gid="1887487136" lang="JA">kitai fuku to niau fuku</title></episode>
+<episode num="129">
+<title gid="2877781171" lang="JA">母、イチかバチかっ／父、ワインにはまるっ</title>
+<title part="A" gid="2279541016" lang="JA">haha , ICHI ka BACHI ka</title>
+<title part="B" gid="3110247342" lang="JA">chichi , WAIN ni hamaru</title></episode>
+<episode num="130">
+<title gid="974093343" lang="JA">父、ハッサクむかない／みかん、天使の声を聞く!?</title>
+<title part="A" gid="2549856300" lang="JA">chichi , hASSAKU mukanai</title>
+<title part="B" gid="2007004859" lang="JA">mikan , tenshi no koe wo kiku !?</title></episode>
+<episode num="131">
+<title gid="2572904403" lang="JA">母、カッパと出会う／父、湿布と戦うっ</title>
+<title part="A" gid="3124944430" lang="JA">haha , KAPPA to deau</title>
+<title part="B" gid="1907546097" lang="JA">chichi , shippu to tatakau</title></episode>
+<episode num="132">
+<title gid="1465715655" lang="JA">母、写真の腕前っ／みかん、アハ～ン柔道</title>
+<title part="A" gid="3181952023" lang="JA">haha , shashin no udemae</title>
+<title part="B" gid="1148023425" lang="JA">mikan , AHA~N juudou</title></episode>
+<episode num="133">
+<title gid="323962852" lang="JA">母、センスがへんっ／ユズヒコのユウウツ</title>
+<title part="A" gid="2759866913" lang="JA">haha , SENSU ga hen</title>
+<title part="B" gid="1853358535" lang="JA">YUSUHIKO no YUUU</title></episode>
+<episode num="134">
+<title gid="1913511825" lang="JA">みかん、ニオイグル���／父のビックリっ！</title>
+<title part="A" gid="1399063702" lang="JA">mikan , NIOIGURUME</title>
+<title part="B" gid="2226030791" lang="JA">chichi no BIKKURI !</title></episode>
+<episode num="135">
+<title gid="956013800" lang="JA">みかん７歳、迷子になる／ジンクスいろいろっ</title>
+<title part="A" gid="2475857602" lang="JA">mikan 7 toshi , maigo ni naru</title>
+<title part="B" gid="2378700389" lang="JA">JINKUSU iroiro</title></episode>
+<episode num="136">
+<title gid="3348475476" lang="JA">母、努力を認めてもらえない／みかん、一夜漬けっ</title>
+<title part="A" gid="3817240881" lang="JA">haha , doryoku wo mitomete moraenai</title>
+<title part="B" gid="1890796690" lang="JA">mikan , ichiyazuke</title></episode>
+<episode num="137">
+<title gid="3704603612" lang="JA">母、間が悪いっ／みかん、衣替えシーズン</title>
+<title part="A" gid="1401786519" lang="JA">haha , kan ga warui</title>
+<title part="B" gid="1526214335" lang="JA">mikan , koromokae SHIIZUN</title></episode>
+<episode num="138">
+<title gid="2964443212" lang="JA">父、母、モヤモヤ／みかん、他人の手の味っ</title>
+<title part="A" gid="3662531968" lang="JA">chichi , haha , MOYAMOYA</title>
+<title part="B" gid="1566490394" lang="JA">mikan , tanin no ten o aji</title></episode>
+<episode num="139">
+<title gid="1746640948" lang="JA">母、手だけマダム／ユズヒコ、猫手っ</title>
+<title part="A" gid="2786450482" lang="JA">haha , tedake MADAMU</title>
+<title part="B" gid="1512047486" lang="JA">YUSUHIKO , nekote</title></episode>
+<episode num="140">
+<title gid="2552100497" lang="JA">ヨガボールに挑戦／遅刻する人、される人っ</title>
+<title part="A" gid="2294818854" lang="JA">YOGABOURU ni chousen</title>
+<title part="B" gid="2625026165" lang="JA">chikoku suru hito , sareru hito</title></episode>
+<episode num="141">
+<title gid="1524326118" lang="JA">父、ニンニク大王っ／弟の受難</title>
+<title part="A" gid="2009282930" lang="JA">chichi , NINNIKU daiou</title>
+<title part="B" gid="1227755177" lang="JA">otouto no junan</title></episode>
+<episode num="142">
+<title gid="4056621303" lang="JA">信じる者は救われる／みかん、ノート苦手っ</title>
+<title part="A" gid="3579708192" lang="JA">shinjiru mono wa sukuwareru</title>
+<title part="B" gid="1832876555" lang="JA">mikan , NOUTO nigate</title></episode>
+<episode num="143">
+<title gid="1929837536" lang="JA">クラスメイトの写真／川島、恋のおまじないっ</title>
+<title part="A" gid="3349814449" lang="JA">KURASUMEITO no shashin</title>
+<title part="B" gid="1698963792" lang="JA">kawashima , koi no omajinai</title></episode>
+<episode num="144">
+<title gid="2461924916" lang="JA">母、料理本を信じない／みかん、脱ぎかけっ</title>
+<title part="A" gid="2033669606" lang="JA">haha , ryouri hon wo shinjinai</title>
+<title part="B" gid="1587972323" lang="JA">mikan , nugi kake</title></episode>
+<episode num="145">
+<title gid="1387993490" lang="JA">父、笑いのツボ／ユズ、サッカー観戦っ</title>
+<title part="A" gid="1356920356" lang="JA">chichi , warai no TSUBO</title>
+<title part="B" gid="1192734049" lang="JA">YUSU , SAKKAA kansen</title></episode>
+<episode num="146">
+<title gid="1864305117" lang="JA">母、夏の音楽っ／みかん、なんかいい日</title>
+<title part="A" gid="3795345645" lang="JA">haha , natsu no ongaku</title>
+<title part="B" gid="3410778043" lang="JA">mikan , nanka ii hi</title></episode>
+<episode num="147">
+<title gid="1836777313" lang="JA">みかん、信じやすいっ／ユズ、図書館はクサい</title>
+<title part="A" gid="874018091" lang="JA">mikan , shinji yasui</title>
+<title part="B" gid="1140751726" lang="JA">YUSU , toshokan Wa KUSAi</title></episode>
+<episode num="148">
+<title gid="3261751988" lang="JA">父の通訳／みかん、めんどくさがりっ</title>
+<title part="A" gid="1206909013" lang="JA">chichi no tsuuyaku</title>
+<title part="B" gid="2533534268" lang="JA">mikan , mendo kusagari</title></episode>
+<episode num="149">
+<title gid="841615490" lang="JA">母、暑い日に語るっ／みかん、ひとりはイキイキ？</title>
+<title part="A" gid="1978746962" lang="JA">haha , atsui hi ni kataru</title>
+<title part="B" gid="2461032343" lang="JA">mikan , hitori wa IKIIKI ?</title></episode>
+<episode num="150">
+<title gid="2918587819" lang="JA">プチ風流／ユズが生まれたころっ</title>
+<title part="A" gid="2201050485" lang="JA">PUCHI fuuryuu</title>
+<title part="B" gid="2067575466" lang="JA">YUSU ga umareta koro</title></episode>
+<episode num="151">
+<title gid="1648822652" lang="JA">母、百円ショップにはまるっ／みかん８歳、ユズ５歳</title>
+<title part="A" gid="800502725" lang="JA">haha , hyakuen SHOPPU ni hamaru</title>
+<title part="B" gid="2926739387" lang="JA">mikan 8-sai , YUSU 5-sai</title></episode>
+<episode num="152">
+<title gid="1898592099" lang="JA">母、猛暑の日っ／みかん、昔の友達に会うっ</title>
+<title part="A" gid="1456155815" lang="JA">haha , mousho no hi</title>
+<title part="B" gid="1539497884" lang="JA">mikan , mukashi no tomodachi ni au</title></episode>
+<episode num="153">
+<title gid="1619985387" lang="JA">母、防音に気をつかうっ／吉岡、ハッピーバースデー</title>
+<title part="A" gid="2197226393" lang="JA">haha , bouon ni ki wo tsukau</title>
+<title part="B" gid="1932201903" lang="EN">Happy birthday Yoshioka</title></episode>
+<episode num="154">
+<title gid="150758442" lang="JA">ラッキー、アンラッキー／ものの名前っ</title>
+<title part="A" gid="891254918" lang="EN">Lucky, unlucky</title>
+<title part="B" gid="2485894963" lang="EN">A matter of name</title></episode>
+<episode num="155">
+<title gid="3575861846" lang="JA">不吉な前置きっ／みかん、あたしってブス？</title>
+<title part="A" gid="3342016947" lang="JA">fukitsu na maeoki</title>
+<title part="B" gid="1649944138" lang="JA">mikan , atashitte BUSU ?</title></episode>
+<episode num="156">
+<title gid="913248111" lang="JA">父の心理っ／みかんの帰り道</title>
+<title part="A" gid="1305762681" lang="JA">chichi no shinri</title>
+<title part="B" gid="2594689492" lang="JA">mikan no kaerimichi</title></episode>
+<episode num="157">
+<title gid="2302509590" lang="JA">父、パチンコは信じる／ユズ、いいまちがえるっ</title>
+<title part="A" gid="1720318076" lang="JA">chichi , PACHINKO wa shinjiru</title>
+<title part="B" gid="2653413813" lang="JA">YUSU , ii machigaeru</title></episode>
+<episode num="158">
+<title gid="3232584933" lang="JA">タチバナ家のテレビ／今、やろうとしたのにっ</title>
+<title part="A" gid="3210194051" lang="JA">TACHIBANA-ke no TEREBI</title>
+<title part="B" gid="2393950371" lang="JA">ima , yarou toshita no ni</title></episode>
+<episode num="159">
+<title gid="2042274226" lang="JA">母、テレビに出演っ!?／みかん、ジョギングのごほうび</title>
+<title part="A" gid="2771854824" lang="JA">haha , TEREBI ni shutsuen !?</title>
+<title part="B" gid="3616078191" lang="JA">mikan , JOGINGU no gohoubi</title></episode>
+<episode num="160">
+<title gid="2521300770" lang="JA">父、クシャミでかいっ／ユズ、隣町アドベンチャー</title>
+<title part="A" gid="2687848565" lang="JA">chichi , KUSHAMI dekai</title>
+<title part="B" gid="2116381722" lang="JA">YUSU , tonarimachi ADOBENCHAA</title></episode>
+<episode num="161">
+<title gid="1279872886" lang="JA">一万円ポッキリツアー(前編)／一万円ポッキリツアー(後編)</title>
+<title part="A" gid="1596548184" lang="JA">ichiman'en POKKIRITSUAA ( zenpen )</title>
+<title part="B" gid="3467537521" lang="JA">ichiman'en POKKIRITSUAA ( kouhen )</title></episode>
+<episode num="162">
+<title gid="3290648942" lang="JA">父、ゴッドハンドっ／新田、失恋ス!?</title>
+<title part="A" gid="750637847" lang="JA">chichi , GODDOHANDO</title>
+<title part="B" gid="1712845315" lang="JA">nitta , shitsuren SU !?</title></episode>
+<episode num="163">
+<title gid="2445121672" lang="JA">母、やりっぱなし天国っ／みかん、秋の寄り道</title>
+<title part="A" gid="1807769460" lang="JA">haha , yarippa nashi tengoku</title>
+<title part="B" gid="3186260014" lang="JA">mikan , aki no yorimichi</title></episode>
+<episode num="164">
+<title gid="1592309336" lang="JA">プチハッピィ、プチブルー／川島、クリスマスの奇跡っ</title>
+<title part="A" gid="2365940206" lang="JA">PUCHIHAPPII , PUCHIBURUU</title>
+<title part="B" gid="2236552569" lang="JA">kawashima , KURISUMASU no kiseki</title></episode>
+<episode num="165">
+<title gid="2557963983" lang="JA">父���ちんちくりんっ／教える、教えない</title>
+<title part="A" gid="411554963" lang="JA">chichi , chinchikurin</title>
+<title part="B" gid="1362687558" lang="JA">oshieru , oshienai</title></episode>
+<episode num="166">
+<title gid="1716467950" lang="JA">母、マダームの時間／ユズ、藤野の家へ行くっ</title>
+<title part="A" gid="2994129956" lang="JA">haha , MADAAMU no jikan</title>
+<title part="B" gid="2602598952" lang="JA">YUSU , fujino no ie e iku</title></episode>
+<episode num="167">
+<title gid="634641069" lang="JA">母、国際派っ？／みかん、行きつけのカフェ</title>
+<title part="A" gid="1501154085" lang="JA">haha , kokusai ha ?</title>
+<title part="B" gid="155054176" lang="JA">mikan , ikitsuke no KAFE</title></episode>
+<episode num="168">
+<title gid="2184348753" lang="JA">母、気合いで入れる／みかん、夜ふかし試験前</title>
+<title part="A" gid="1885595967" lang="JA">haha , kiaide ireru</title>
+<title part="B" gid="3468424664" lang="JA">mikan , yoru fukashi shikenmae</title></episode>
+<episode num="169">
+<title gid="3285691531" lang="JA">雪の日／川島、恋のギリギリチョコっ</title>
+<title part="A" gid="2487653039" lang="JA">yuki no hi</title>
+<title part="B" gid="2532772249" lang="JA">kawashima , koi no GIRIGIRICHOKO</title></episode>
+<episode num="170">
+<title gid="1859131391" lang="JA">母、かみあわないっ／ユズ、おふくろと呼ぶ日</title>
+<title part="A" gid="2403136117" lang="JA">haha , kami awanai</title>
+<title part="B" gid="2402694280" lang="JA">YUSU , ofukuro to yobu hi</title></episode>
+<episode num="171">
+<title gid="3874098924" lang="JA">みかん、夕暮れのウワサ／ユズ、マッチョマンっ</title>
+<title part="A" gid="2747853990" lang="JA">mikan , yuugure no UWASA</title>
+<title part="B" gid="2729621790" lang="JA">YUSU , MACCHOMAN</title></episode>
+<episode num="172">
+<title gid="2380818527" lang="JA">あそこは何、なんのお店？／川島、恋のホワイトデー</title>
+<title part="A" gid="2582071630" lang="JA">asoko wa nani , nan no omise ?</title>
+<title part="B" gid="2778229899" lang="JA">kawashima , koi no HOWAITODEE</title></episode>
+<episode num="173">
+<title gid="1690525626" lang="JA">父、腰軽い？重い？／みかん、舞い上がるっ</title>
+<title part="A" gid="2412458267" lang="JA">chichi , koshi karui ? omoi ?</title>
+<title part="B" gid="1895235886" lang="JA">mikan , mai agaru</title></episode>
+<episode num="174">
+<title gid="1968736241" lang="JA">防災グッズ／しみちゃん、悩める人っ</title>
+<title part="A" gid="3058823597" lang="JA">bousai GUZZU</title>
+<title part="B" gid="1939569750" lang="JA">shimi-chan , nayameru nin</title></episode>
+<episode num="175">
+<title gid="2272346730" lang="JA">母、風邪で寝込む／ユズ、笑いどこっ</title>
+<title part="A" gid="2121215056" lang="JA">haha , kaze de nekomu</title>
+<title part="B" gid="1666665379" lang="JA">YUSU , warai doko</title></episode>
+<episode num="176">
+<title gid="4265173415" lang="JA">母、合理的／走れ、ユズヒコっ</title>
+<title part="A" gid="1099907689" lang="JA">haha , gouriteki</title>
+<title part="B" gid="3295018238" lang="JA">hashire , YUSUHIKO</title></episode>
+<episode num="177">
+<title gid="278824957" lang="JA">父、エステでツルーン／春山、さわやかっ</title>
+<title part="A" gid="2507182732" lang="JA">chichi , ESUTE de TSURUUN</title>
+<title part="B" gid="2135813707" lang="JA">haruyama , sawayaka</title></episode>
+<episode num="178">
+<title gid="1722681304" lang="JA">それぞれの体内時計／誰もいない日</title>
+<title part="A" gid="2912284549" lang="JA">sorezore no tainai dokei</title>
+<title part="B" gid="3161644376" lang="JA">daremo inai hi</title></episode>
+<episode num="179">
+<title gid="2486666077" lang="JA">母、水に流せないっ／みかん、ボーっとしてハッ！</title>
+<title part="A" gid="3509536919" lang="JA">haha , mizu ni nagasenai</title>
+<title part="B" gid="3157772071" lang="JA">mikan , BOU ttoshite HAA !</title></episode>
+<episode num="180">
+<title gid="2785126094" lang="JA">母、懸賞生活／ユズ、ショッピングデビュー</title>
+<title part="A" gid="1907054936" lang="JA">haha , kenshou seika</title>
+<title part="B" gid="1573515966" lang="JA">YUSU , SHOPPINGUDEBYUU</title></episode>
+<episode num="181">
+<title gid="3234103489" lang="JA">母、足もみ初体験／藤野、思考だだもれっ</title>
+<title part="A" gid="3535368073" lang="JA">haha , ashi momi shotaiken</title>
+<title part="B" gid="1030938707" lang="JA">fujino , shikou dadamore</title></episode>
+<episode num="182">
+<title gid="2568442229" lang="JA">母、かしこいお買い物／バス、ばす、バスっ</title>
+<title part="A" gid="2104414646" lang="JA">haha , kashikoi okaimono</title>
+<title part="B" gid="3248558856" lang="JA">BASU , basu , BASU</title></episode>
+<episode num="183">
+<title gid="1393511169" lang="JA">タチバナ家、健康ランドへ／ユズヒコ、うっとーしいっ</title>
+<title part="A" gid="2735257495" lang="JA">TACHIBANA-ke , kenkou RANDO e</title>
+<title part="B" gid="3080826534" lang="JA">YUSUHIKO , uttooshii</title></episode>
+<episode num="184">
+<title gid="1747180012" lang="JA">みかん、母とお買い物／父、改造計画</title>
+<title part="A" gid="1604028523" lang="JA">mikan , haha to okaimono</title>
+<title part="B" gid="2071699924" lang="JA">chichi , kaizou keikaku</title></episode>
+<episode num="185">
+<title gid="1210239933" lang="JA">母、ユズヒコに甘いっ／泣ける本</title>
+<title part="A" gid="1814383212" lang="JA">haha , YUSUHIKO ni amai</title>
+<title part="B" gid="3557693625" lang="JA">nakeru hon</title></episode>
+<episode num="186">
+<title part="A" gid="1237733208" lang="JA">haha , yoi okonai</title>
+<title part="B" gid="2848574580" lang="JA">kawashima , DABURUDEETO ?</title></episode>
+<episode num="187">
+<title part="A" gid="2282413371" lang="JA">KUURAA ga hoshii</title>
+<title part="B" gid="3434113157" lang="JA">mikan , BAASUDEEBEA</title></episode>
+<episode num="188">
+<title part="A" gid="549308943" lang="JA">haha , suiri suru</title>
+<title part="B" gid="1974567581" lang="JA">yatte kita HAMUSUTAA</title></episode>
+<episode num="189">
+<title gid="2188334770" lang="JA">bouken ! YUSUHIKO , NUSHI tsuri</title></episode>
+<episode num="190">
+<title gid="312799545" lang="JA">haha , tenshi no kyuusoku</title></episode>
+<episode num="191">
+<title part="A" gid="498979688" lang="JA">haha , natsu no gogo</title>
+<title part="B" gid="1296915567" lang="JA">YUSU , OTONA na umi PAN</title></episode>
+<episode num="192">
+<title part="A" gid="2110215828" lang="JA">haha , TAKUSHII ni noru</title>
+<title part="B" gid="3156052985" lang="JA">ishida , kokusai shinzen taishi ?</title></episode>
+<episode num="193">
+<title part="A" gid="2746665157" lang="JA">haha , karada yowai ?</title>
+<title part="B" gid="2049317804" lang="JA">POJITEIBUSHINKINGU</title></episode>
+<episode num="194">
+<title part="A" gid="3064196343" lang="JA">haha , kounaien</title>
+<title part="B" gid="2145415881" lang="JA">BEA ken no kyoukagasshuku</title></episode>
+<episode num="195">
+<title part="A" gid="2283941119" lang="JA">KUURAA ga kowareta</title>
+<title part="B" gid="425934298" lang="JA">YUSU . chichi , futari no kyuuji</title></episode>
+<episode num="196">
+<title part="A" gid="2004739262" lang="JA">haha , yoru no taiken !</title>
+<title part="B" gid="2041686449" lang="JA">atarashii jibun ni naritai</title></episode>
+<episode num="197">
+<title part="A" gid="358061999" lang="JA">mikan , PAN yakitai</title>
+<title part="B" gid="2246781683" lang="JA">YUSUHIKO , undameshi</title></episode>
+<episode num="198">
+<title part="A" gid="1913249051" lang="JA">haha , MODERURUUMU kengaku</title>
+<title part="B" gid="2070468934" lang="JA">mikan , kiaire sugi ?</title></episode>
+<episode num="199">
+<title gid="2462693464" lang="JA">MANMA . TACHIBANA ryouri taiketsu !</title></episode>
+<episode num="200">
+<title part="A" gid="2808658210" lang="JA">chichi , sekkachi</title>
+<title part="B" gid="439968763" lang="JA">YUSU , HAGAKI toukou</title></episode>
+<episode num="201">
+<title part="A" gid="2160136263" lang="JA">haha , onigiri KOWAI</title>
+<title part="B" gid="609356950" lang="JA">geijutsu no aki</title></episode>
+<episode num="202">
+<title part="A" gid="1532685636" lang="JA">ashita , bunkasai</title>
+<title part="B" gid="370618037" lang="JA">kyou , bunkasai !</title></episode>
+<episode num="203">
+<title part="A" gid="2341069033" lang="JA">haha , RANCHIBYUFFE</title>
+<title part="B" gid="510311544" lang="JA">fujino , KAZE de yasumu</title></episode>
+<episode num="204">
+<title part="A" gid="3370738214" lang="JA">haha , shigo renpa</title>
+<title part="B" gid="2145951050" lang="JA">kyuushoku no hi</title></episode>
+<episode num="205">
+<title part="A" gid="1334652137" lang="JA">chichi , otoko no tsuuhan</title>
+<title part="B" gid="2465309006" lang="JA">mikan , kanjusei suru doi</title></episode>
+<episode num="206">
+<title part="A" gid="1984920086" lang="JA">mikan , ofukuro no aji</title>
+<title part="B" gid="3284752398" lang="JA">chichi , YUSU , edo zen!</title></episode>
+<episode num="207">
+<title part="A" gid="1502483162" lang="JA">haha , jidaigeki kayo</title>
+<title part="B" gid="2839829773" lang="JA">chichi , NOSUTARUJII</title></episode>
+<episode num="208">
+<title gid="1026844803" lang="JA">MANMA . TACHIBANA to mahou no kuni</title></episode>
+<episode num="209">
+<title part="A" gid="2701911994" lang="JA">haha , fukuramu mousou</title>
+<title part="B" gid="3450815451" lang="JA">mikan , sousaku DANSU</title></episode>
+<episode num="210">
+<title part="A" gid="1982513915" lang="JA">haha , yume no RIFOUMU</title>
+<title part="B" gid="633721202" lang="JA">shanai no nioi</title></episode>
+<episode num="211">
+<title part="A" gid="1563327078" lang="JA">chichi no housoku</title>
+<title part="B" gid="2030073812" lang="JA">haha , nou wo kasseika suru</title></episode>
+<episode num="212">
+<title gid="2493615422" lang="JA">kaji to TACHIBANA . edo no hana</title></episode>
+<episode num="213">
+<title part="A" gid="1723398283" lang="JA">geinoujin ga yattekita !</title>
+<title part="B" gid="3394437644" lang="JA">otoko wa minna OOKAMI yo</title></episode>
+<episode num="214">
+<title part="A" gid="1652315046" lang="JA">chichi , haha , rikon ?</title>
+<title part="B" gid="2971053356" lang="JA">yuki ga futta hi</title></episode>
+<episode num="215">
+<title gid="3334970302" lang="JA">ureshi tanoshi ya kyouto ryokou</title></episode>
+<episode num="216">
+<title part="A" gid="3518461646" lang="JA">haha , yokare yokare</title>
+<title part="B" gid="3277320782" lang="JA">haha wa daikaijuu ?</title></episode>
+<episode num="217">
+<title part="A" gid="3568624748" lang="JA">TACHIBANA-ke , dansui</title>
+<title part="B" gid="3568479594" lang="JA">YUSU , SUTORAIKU!</title></episode>
+<episode num="218">
+<title part="A" gid="614250497" lang="JA">haha , fuyouhin katsuyouju</title>
+<title part="B" gid="3960318968" lang="JA">mikan , GACCHIGACHI</title></episode>
+<episode num="219">
+<title part="A" gid="185500671" lang="JA">haha , jintai kankaku ZERO</title>
+<title part="B" gid="1668750408" lang="JA">mikan , KEETAI hirou</title></episode>
+<episode num="220">
+<title part="A" gid="2314954001" lang="JA">EPURON tantei</title>
+<title part="B" gid="2310982779" lang="JA">mikan , onyuugaku zengo ( 5 shuunen kinen dai 1 dan )</title></episode>
+<episode num="221">
+<title part="A" gid="3361681073" lang="JA">EPURON tantei</title>
+<title part="B" gid="2445773340" lang="JA">chichi , haha , shinkon no koro ( 5 shuunen kinen dai 2 dan )</title></episode>
+<episode num="222">
+<title part="A" gid="3508521660" lang="JA">EPURON tantei</title>
+<title part="B" gid="2316472477" lang="JA">chichi to haha no ai ( 5 shuunen kinen dai 3 dan )</title></episode>
+<episode num="223">
+<title part="A" gid="2258015385" lang="JA">haha , nandemo matome sugi</title>
+<title part="B" gid="2537707101" lang="JA">YUSU , sentou</title></episode>
+<episode num="224">
+<title part="A" gid="2017366626" lang="JA">haha no jikyuu</title>
+<title part="B" gid="4191266705" lang="JA">HARASEN , kateihoumon</title></episode>
+<episode num="225">
+<title part="A" gid="609612032" lang="JA">haha , tesou wo miru</title>
+<title part="B" gid="2495150798" lang="JA">fujino no HIMITSU</title></episode>
+<episode num="226">
+<title gid="2602925967" lang="JA">chichi , kekkonshiki de SUPIICHI</title></episode>
+<episode num="227">
+<title part="A" gid="1514882754" lang="JA">haha , hatsumeika ?</title>
+<title part="B" gid="2055631607" lang="JA">yuru-san , yuru-san !</title></episode>
+<episode num="228">
+<title part="A" gid="1179765128" lang="JA">haha , BIMYOU ni nayamu</title>
+<title part="B" gid="1586238352" lang="JA">YUSU no nigaoe</title></episode>
+<episode num="229">
+<title part="A" gid="1978998226" lang="JA">TACHIBANA-ke , ai no su</title>
+<title part="B" gid="1985412645" lang="JA">haha , sugo-i mimi kaki</title></episode>
+<episode num="230">
+<title part="A" gid="2637546952" lang="JA">haha , ame ga kirai</title>
+<title part="B" gid="3324379067" lang="JA">YUSU , onii-chan ?</title></episode>
+<episode num="231">
+<title gid="2221310011" lang="JA">bushi wa kuwanedo , tsumayouji ?</title></episode>
+<episode num="232">
+<title part="A" gid="2703730035" lang="JA">otou-san , tasukete !</title>
+<title part="B" gid="1109763063" lang="JA">mikan , ame onna</title></episode>
+<episode num="233">
+<title part="A" gid="1967177232" lang="JA">haha , tonda sen TAKU mono</title>
+<title part="B" gid="2294923217" lang="JA">yaku nin ? yakanai nin ?</title></episode>
+<episode num="234">
+<title part="A" gid="2771200152" lang="JA">namida no gomakashi hou</title>
+<title part="B" gid="2121647610" lang="JA">nin tte itooshii ?</title></episode>
+<episode num="235">
+<title gid="2485422903" lang="JA">EPURON tantei VS kaitou PAPAN</title></episode>
+<episode num="236">
+<title part="A" gid="1335275858" lang="JA">saki ni itsutte yo !</title>
+<title part="B" gid="2207451621" lang="JA">haha , kiite dou suru</title></episode>
+<episode num="237">
+<title gid="2121480294" lang="JA">MANMA . TACHIBANA , kanbutsu taiketsu !</title></episode>
+<episode num="238">
+<title part="A" gid="947771223" lang="JA">haha , meisouchuu</title>
+<title part="B" gid="2058151109" lang="JA">YUSU , SURIRAAHAUSU</title></episode>
+<episode num="239">
+<title part="A" gid="3380590205" lang="JA">chichi , WANPAKU</title>
+<title part="B" gid="3923212174" lang="JA">YUSU , AIDORU wo sagase</title></episode>
+<episode num="240">
+<title part="A" gid="1877315405" lang="JA">haha , tokui no aizuchi</title>
+<title part="B" gid="1147375519" lang="JA">mikan , minakya yokatta</title></episode>
+<episode num="241">
+<title gid="2555943361" lang="JA">haha-tachi , kaiseki ryouri</title></episode>
+<episode num="242">
+<title part="A" gid="2315540689" lang="JA">haha , SHIIRUPURINTO</title>
+<title part="B" gid="2069117074" lang="JA">YUSU , tentai kansoku</title></episode>
+<episode num="243">
+<title part="A" gid="1458256016" lang="JA">chichi , nichiyoudaiku</title>
+<title part="B" gid="850515050" lang="JA">YUSUPI no yume</title></episode>
+<episode num="244">
+<title part="A" gid="2928216522" lang="JA">haha , shichaku suru</title>
+<title part="B" gid="3226585323" lang="JA">mikan , setsunai yume</title></episode>
+<episode num="245">
+<title gid="1434577991" lang="JA">onsenryokan hanjouki</title></episode>
+<episode num="246">
+<title part="A" gid="1585162234" lang="JA">haha-tachi , geijutsu no aki</title>
+<title part="B" gid="1608312622" lang="JA">mikan , urayamashii</title></episode>
+<episode num="247">
+<title part="A" gid="840752586" lang="JA">haha , ha ga jiman</title>
+<title part="B" gid="2145082569" lang="JA">chichi , togu</title></episode>
+<episode num="248">
+<title part="A" gid="3939232047" lang="JA">fuufu de ganbanyoku</title>
+<title part="B" gid="761046410" lang="JA">mikan , akogare no choushoku</title></episode>
+<episode num="249">
+<title part="A" gid="1567321519" lang="JA">haha , omoidasenai</title>
+<title part="B" gid="2681200776" lang="JA">kawashima , KONSABA</title></episode>
+<episode num="250">
+<title gid="2131669775" lang="JA">oshiokishimasu ! man ya ENJIERUSU</title></episode>
+<episode num="251">
+<title part="A" gid="1367033768" lang="JA">haha , MASSAAJI de</title>
+<title part="B" gid="2578457236" lang="JA">mikan , sekkyokuteki</title></episode>
+<episode num="252">
+<title part="A" gid="2622711286" lang="JA">haha , tsume houdai</title>
+<title part="B" gid="3156644173" lang="JA">chichi , kaeru</title></episode>
+<episode num="253">
+<title part="A" gid="234055092" lang="JA">kouya no GANMAZAA</title>
+<title gid="3266903998" lang="JA">荒野のガンマザー</title></episode>
+<episode num="254">
+<title part="A" gid="1733459359" lang="JA">anata mo HP de touhyou sanka ! BATORUKUKKINGUSUTAJIAMU 1</title>
+<title part="B" gid="1209638392" lang="JA">YUSU , KINGU daiou</title></episode>
+<episode num="255">
+<title part="A" gid="1534421968" lang="JA">haha , ketsudan no nin</title>
+<title part="B" gid="2368818556" lang="JA">mikan no kuchi GUSE</title></episode>
+<episode num="256">
+<title part="A" gid="2733793523" lang="JA">TACHIBANA-ke , yakiniku !</title>
+<title part="B" gid="2017331401" lang="JA">mikan , nayamu</title></episode>
+<episode num="257">
+<title part="A" gid="2300570984" lang="JA">anata mo HP de touhyou sanka ! BATORUKUKKINGUSUTAJIAMU 2</title>
+<title part="B" gid="1439300734" lang="JA">mikan , MAFURAA amu</title></episode>
+<episode num="258">
+<title part="A" gid="3348975699" lang="JA">chichi , CHARENJAA</title>
+<title part="B" gid="2283006559" lang="JA">mikan , fushigi na benkyouhou</title></episode>
+<episode num="259">
+<title part="A" gid="2443615807" lang="JA">fuyu no gokai</title>
+<title part="B" gid="2054934933" lang="JA">minna , ukkari mono ?</title></episode>
+<episode num="260">
+<title part="A" gid="1717831593" lang="JA">anata mo HP de touhyou sanka ! BATORUKUKKINGUSUTAJIAMU</title>
+<title part="B" gid="2656141478" lang="JA">mikan , SENSAI ?</title></episode>
+<episode num="261">
+<title gid="1572280998" lang="JA">YUSU , SUKII kyoushi</title></episode>
+<episode num="262">
+<title part="A" gid="2796330752" lang="JA">haha , ashi ga kiyou</title>
+<title part="B" gid="828740172" lang="JA">kotoba no midare</title></episode>
+<episode num="263">
+<title part="A" gid="4173298113" lang="JA">haha , ohanami !</title>
+<title part="B" gid="1501426830" lang="JA">chichi , takoyaki</title>
+<title part="C" gid="2103162083" lang="JA">BATORUKUKKINGUSUTAJIAMU kekkahappyou &amp; GURANPURI ryouri happyou !!</title></episode>
+<episode num="264">
+<title part="A" gid="559880853" lang="JA">haha no oshie</title>
+<title part="B" gid="3462974894" lang="JA">mikan , ichiryuu tte sugoi ?</title></episode>
+<episode num="265">
+<title gid="3790448709" lang="JA">chotto mukashi no atashinchi YUSUHIKO no omoide</title></episode>
+<episode num="266">
+<title part="A" gid="706951119" lang="JA">shouwa TACHIBANA yu monogatari ( KARAATEREBI ga hoshii )</title>
+<title part="B" gid="1496879345" lang="JA">haha , aji no kin jutsushi</title></episode>
+<episode num="267">
+<title part="A" gid="938452145" lang="JA">shouwa TACHIBANA yu monogatari ( SAYONARA , kamishibai )</title>
+<title part="B" gid="2635317110" lang="JA">haha , OFISU machi e</title></episode>
+<episode num="268">
+<title part="A" gid="4017961141" lang="JA">nagai otsukiai</title>
+<title part="B" gid="1316190094" lang="JA">shinjin-san no kisetsu</title></episode>
+<episode num="269">
+<title gid="1212557514" lang="JA">chotto mukashi no atashinchi chichi no namida</title></episode>
+<episode num="270">
+<title part="A" gid="1809622211" lang="JA">haha , mono wasure</title>
+<title part="B" gid="3338677590" lang="JA">takkun , nande ?</title></episode>
+<episode num="271">
+<title part="A" gid="2067362481" lang="JA">haha , WARIKAN</title>
+<title part="B" gid="1275736361" lang="JA">densha no naka de ...</title></episode>
+<episode num="272">
+<title part="A" gid="2422278359" lang="JA">shouwa TACHIBANA yu monogatari ( CHIYOBAA no dagashiya )</title>
+<title part="B" gid="2720275752" lang="JA">YUSU , KAKKO yoku</title></episode>
+<episode num="273">
+<title part="A" gid="1445795604" lang="JA">otou-san , nigenai de</title>
+<title part="B" gid="3121254694" lang="JA">YUSU , UOPPU !</title></episode>
+<episode num="274">
+<title gid="1541552742" lang="JA">mirai no atashinchi</title></episode>
+<episode num="275">
+<title part="A" gid="3861541251" lang="JA">NIOI Wa juuyou</title>
+<title part="B" gid="1277107946" lang="JA">nitta , sore wa gokai SSU !</title></episode>
+<episode num="276">
+<title part="A" gid="2033472970" lang="JA">shouwa TACHIBANA yu monogatari ( namida no tanjoubi PUREZENTO )</title>
+<title part="B" gid="1783287190" lang="JA">megusuri wo sasutoki</title></episode>
+<episode num="277">
+<title gid="3114030393" lang="JA">chotto mukashi no atashinchi mikan , 0-sai</title></episode>
+<episode num="278">
+<title part="A" gid="2728896191" lang="JA">haha , nitamo no doushi</title>
+<title part="B" gid="2431585153" lang="JA">mikan , san tesaki wo yomu</title></episode>
+<episode num="279">
+<title part="A" gid="1392453352" lang="JA">haha , ano hito wa dare ?</title>
+<title part="B" gid="1468004643" lang="JA">neko no PUREZENTO</title></episode>
+<episode num="280">
+<title part="A" gid="3237118676" lang="JA">shouwa TACHIBANA yu monogatari ( GAKI taishou no MON ta )</title>
+<title part="B" gid="1760013840" lang="JA">haha , kairanban</title></episode>
+<episode num="281">
+<title part="A" gid="1109696975" lang="JA">haha , GOMI no wake hou</title>
+<title part="B" gid="497598349" lang="JA">chichi no shikoukairo</title></episode>
+<episode num="282">
+<title part="A" gid="1806149386" lang="JA">shouwa TACHIBANA yu monogatari ( chichi to yaki kooriya-san )</title>
+<title part="B" gid="2359190421" lang="JA">haha , SAIFU ga ippai</title></episode>
+<episode num="283">
+<title part="A" gid="2142473393" lang="JA">haha , jikyuujisoku</title>
+<title part="B" gid="407812123" lang="JA">natsuyasumi , owari no hi</title></episode>
+<episode num="284">
+<title part="A" gid="2800810277" lang="JA">haha , chotto samishii</title>
+<title part="B" gid="1961857745" lang="JA">natsuyasumi ga owatte</title></episode>
+<episode num="285">
+<title gid="1584959656" lang="JA">edojidai no atashinchi omiyoto ukiyoe</title></episode>
+<episode num="286">
+<title part="A" gid="1645811800" lang="JA">suri komi kouka</title>
+<title part="B" gid="2571635341" lang="JA">haha , sentakuki ga kowareta</title></episode>
+<episode num="287">
+<title gid="1350298450" lang="JA">KURUUZU de yuuga ni</title></episode>
+<episode num="288">
+<title part="A" gid="1859226696" lang="JA">shouwa TACHIBANA yu monogatari ( DEPAATO e iku chi )</title>
+<title part="B" gid="1308151115" lang="JA">haha wa mita !</title></episode>
+<episode num="289">
+<title part="A" gid="2099592209" lang="JA">sorezore no yoru</title>
+<title part="B" gid="3316878028" lang="JA">fujino , SHIBIREru</title></episode>
+<episode num="290">
+<title part="A" gid="3207369690" lang="JA">hajime no saisho SUPESHARU ( hikouki )</title>
+<title part="B" gid="3340783011" lang="JA">sorezore no HAROUIN</title></episode>
+<episode num="291">
+<title gid="954932823" lang="JA">haha , chikuwa tsukuri ni chousen !</title></episode>
+<episode num="292">
+<title part="A" gid="2005334238" lang="JA">atarashii sentakuki</title>
+<title part="B" gid="2830392584" lang="JA">mikan , motto tabetai</title></episode>
+<episode num="293">
+<title part="A" gid="2556236969" lang="JA">shouwa TACHIBANA yu monogatari ( sentou no e )</title>
+<title part="B" gid="1700429300" lang="JA">KOKORO yori karada ga saki</title></episode>
+<episode num="294">
+<title part="A" gid="2211352002" lang="JA">chichi , hontou ni kiiteru ?</title>
+<title part="B" gid="2211489726" lang="JA">iitai , iitai</title></episode>
+<episode num="295">
+<title part="A" gid="2871380217" lang="JA">haha , yomi machigae</title>
+<title part="B" gid="1259305059" lang="JA">mikan , hakken suru</title></episode>
+<episode num="296">
+<title part="A" gid="1387303920" lang="JA">atashinchi no o-tonari-san</title>
+<title part="B" gid="553482771" lang="JA">haha , eki soba</title></episode>
+<episode num="297">
+<title part="A" gid="772202872" lang="JA">shouwa TACHIBANA yu monogatari ( MOMO kan ga hoshii )</title>
+<title part="B" gid="1730726703" lang="JA">haha , hatsuyume</title></episode>
+<episode num="298">
+<title part="A" gid="919664340" lang="JA">chichi , kaji no urawaza !?</title>
+<title part="B" gid="726618207" lang="JA">YUSUHIKO , shousuuha</title></episode>
+<episode num="299">
+<title part="A" gid="1625246984" lang="JA">haha no shodou kyoushi</title>
+<title part="B" gid="2393645519" lang="JA">mikan , otomari</title></episode>
+<episode num="300">
+<title gid="1813352018" lang="JA">chotto fushigi na atashinchi ( fushigi na TANE )</title></episode>
+<episode num="301">
+<title part="A" gid="928280886" lang="JA">modokashii~</title>
+<title part="B" gid="2955279342" lang="JA">YUSU , GEEMU wo kau</title></episode>
+<episode num="302">
+<title part="A" gid="3217225080" lang="JA">haha , usumenai de !</title>
+<title part="B" gid="2195951498" lang="JA">YUSU , BORANTEIA</title></episode>
+<episode num="303">
+<title part="A" gid="974168078" lang="JA">shouwa TACHIBANA yu monogatari ( TACHIBANA yu , saigo no hi ?)</title>
+<title part="B" gid="2287066862" lang="JA">mikan , ARUBAITO</title></episode>
+<episode num="304">
+<title part="A" gid="1135417411" lang="JA">haha , pokkapoka</title>
+<title part="B" gid="3119374358" lang="JA">chichi , furoku suki</title></episode>
+<episode num="305">
+<title part="A" gid="2977012075" lang="JA">haha , nani tabetai ?</title>
+<title part="B" gid="2731554481" lang="JA">chichi no o-tomodachi</title></episode>
+<episode num="306">
+<title part="A" gid="1695020892" lang="JA">haha , hesokuri</title>
+<title part="B" gid="1474853874" lang="JA">YUSU , PARAPARA manga</title></episode>
+<episode num="307">
+<title part="A" gid="1715338552" lang="JA">haha , kafun</title>
+<title part="B" gid="2302502098" lang="JA">OSHARE iroiro</title></episode>
+<episode num="308">
+<title part="A" gid="2629016677" lang="JA">atashinchi , mizubitashi</title>
+<title part="B" gid="3306963417" lang="JA">okaa*san , daijoubu ?</title></episode>
+<episode num="309">
+<title part="A" gid="2359202987" lang="JA">nichijou no MISUTERII</title>
+<title part="B" gid="2945566879" lang="JA">haha , kujibiki otetsudai</title></episode>
+<episode num="310">
+<title part="A" gid="1697419094" lang="JA">chichi no youjin</title>
+<title part="B" gid="1420776225" lang="JA">moshikashite , KIREI ?</title></episode>
+<episode num="311">
+<title part="A" gid="2333139486" lang="JA">haha , WANTSUUBUROKKU</title>
+<title part="B" gid="1724782173" lang="JA">kawashima , POEMU</title></episode>
+<episode num="312">
+<title part="A" gid="2238701490" lang="JA">nita mono oyako</title>
+<title part="B" gid="413185610" lang="JA">sono na wa ushi oni</title></episode>
+<episode num="313">
+<title part="A" gid="1542078450" lang="JA">haha , tamaru tamaru</title>
+<title part="B" gid="3410936063" lang="JA">mikan , SUKKIRI shinai</title></episode>
+<episode num="314">
+<title part="A" gid="1434075446" lang="JA">oya no ken'i</title>
+<title part="B" gid="4049792917" lang="JA">mikan , yokei na shinse</title></episode>
+<episode num="315">
+<title part="A" gid="2320138394" lang="JA">sorette sainan ?</title>
+<title part="B" gid="1104045992" lang="JA">YUSU , KUTSU shita shinkeisuijaku</title></episode>
+<episode num="316">
+<title part="A" gid="2445500945" lang="JA">chichi , otoko no KAREE</title>
+<title part="B" gid="2697946090" lang="JA">YUSU , seki gae</title></episode>
+<episode num="317">
+<title part="A" gid="2911524384" lang="JA">gyouretsu arekore</title>
+<title part="B" gid="1155676400" lang="JA">YUSU , taiiku souko</title></episode>
+<episode num="318">
+<title part="A" gid="3704573938" lang="JA">haha , o-hin kaki</title>
+<title part="B" gid="1068384273" lang="JA">chichi no jitensha</title></episode>
+<episode num="319">
+<title gid="1182832585" lang="JA">edojidai no atashinchi tomikuji oosoudou</title></episode>
+<episode num="320">
+<title part="A" gid="2011160523" lang="JA">haha , hetana KENSON</title>
+<title part="B" gid="1957304056" lang="JA">mikan no koi</title></episode>
+<episode num="321">
+<title part="A" gid="877450290" lang="JA">haha , wasureppoi</title>
+<title part="B" gid="3931849428" lang="JA">aa ieba , kou iu</title></episode>
+<episode num="322">
+<title part="A" gid="3319533205" lang="JA">haha , doko . doko . doko ?</title>
+<title part="B" gid="1223580888" lang="JA">YUSU , monomane</title></episode>
+<episode num="323">
+<title part="A" gid="1185357333" lang="JA">haha no onigiri</title>
+<title part="B" gid="2734284113" lang="JA">mikan , HIGE ?</title></episode>
+<episode num="324">
+<title part="A" gid="557703212" lang="JA">sagattari , agattari</title>
+<title part="B" gid="1162810436" lang="JA">aa , ikikaeru ?</title></episode>
+<episode num="325">
+<title part="A" gid="1652723480" lang="JA">hiyake nigo youjin</title>
+<title part="B" gid="3106270185" lang="JA">BEA ken , sonbou no kiki</title></episode>
+<episode num="326">
+<title part="A" gid="1280659925" lang="JA">haha , natsuyasumi</title>
+<title part="B" gid="1884494408" lang="JA">iwaki-kun no &quot; iina !&quot;</title></episode>
+<episode num="327">
+<title part="A" gid="2154167755" lang="JA">home kotoba</title>
+<title part="B" gid="3354239519" lang="JA">YUSU , natsuyasumi saigo no hi</title></episode>
+<episode num="328">
+<title part="A" gid="1122599835" lang="JA">mikan , RETTSUPAATII !</title>
+<title part="B" gid="906995968" lang="JA">YUSU , shinri TESUTO</title></episode>
+<episode num="329">
+<title part="A" gid="2604515791" lang="JA">haha , icchau ?</title>
+<title part="B" gid="1675127318" lang="JA">akogare no ano nin</title></episode>
+<episode num="330">
+<title part="A" gid="3260257985" lang="JA">hirusagari no buttai X</title>
+<title part="B" gid="485911855" lang="JA">atashinchi , obentou BATORU</title></episode>
+<news datetime="2005-09-23T17:39:30Z" href="http://www.animenewsnetwork.com/news/2005-09-23/tv-asahi-top-100-anime">TV Asahi Top 100 Anime</news>
+<news datetime="2005-09-23T20:38:14Z" href="http://www.animenewsnetwork.com/news/2005-09-23/tv-asahi-top-100-anime-part-2">TV Asahi Top 100 Anime Part 2</news>
+<news datetime="2006-10-06T17:41:41Z" href="http://www.animenewsnetwork.com/news/2006-10-06/funimation-sends-out-cease-and-desist-letters-for-multiple-anime">Funimation Sends out Cease &amp; Desist Letters For Multiple Anime</news>
+<news datetime="2006-10-12T21:45:00Z" href="http://www.animenewsnetwork.com/news/2006-10-13/japans-favorite-tv-anime">Japan's Favorite TV Anime</news>
+<news datetime="2007-11-30T12:30:24Z" href="http://www.animenewsnetwork.com/news/2007-11-30/japanese-anime-tv-ranking-september-17-november-25">Japanese Anime TV Ranking: September 17–November 25</news>
+<news datetime="2008-04-16T18:03:39Z" href="http://www.animenewsnetwork.com/news/2008-04-16/japanese-anime-tv-ranking-march-24-30-seasonal-break">Japanese Anime TV Ranking, March 24–30: Seasonal Break</news>
+<news datetime="2008-04-22T15:33:41Z" href="http://www.animenewsnetwork.com/news/2008-04-22/japanese-anime-tv-ranking-april-7-13-blue-dragon">Japanese Anime TV Ranking, April 7–13: &lt;cite&gt;Blue Dragon&lt;/cite&gt;</news>
+<news datetime="2008-07-15T16:51:19Z" href="http://www.animenewsnetwork.com/news/2008-07-15/japanese-anime-tv-ranking-june-23-29">Japanese Anime TV Ranking, June 23–29</news>
+<news datetime="2008-09-03T03:58:00Z" href="http://www.animenewsnetwork.com/news/2008-09-02/japanese-anime-tv-ranking-august-18-24">Japanese Anime TV Ranking, August 18–24</news>
+<news datetime="2008-09-08T03:57:00Z" href="http://www.animenewsnetwork.com/news/2008-09-07/japanese-anime-tv-ranking-august-25-31">Japanese Anime TV Ranking, August 25–31</news>
+<news datetime="2008-09-30T03:46:53Z" href="http://www.animenewsnetwork.com/news/2008-09-29/japanese-anime-tv-ranking-september-15-21">Japanese Anime TV Ranking, September 15–21</news>
+<news datetime="2008-10-03T11:17:59Z" href="http://www.animenewsnetwork.com/news/2008-10-03/tv-asahi-acquires-shin-chan-doraemon-shin-ei">TV Asahi Acquires &lt;cite&gt;Shin-chan, Doraemon's&lt;/cite&gt; Shin-ei</news>
+<news datetime="2008-10-13T03:40:46Z" href="http://www.animenewsnetwork.com/news/2008-10-12/japanese-anime-tv-ranking-september-29-october-5">Japanese Anime TV Ranking, September 29-October 5</news>
+<news datetime="2008-10-20T03:57:00Z" href="http://www.animenewsnetwork.com/news/2008-10-19/japanese-anime-tv-ranking-october-6-12">Japanese Anime TV Ranking, October 6-12</news>
+<news datetime="2008-11-17T01:52:42Z" href="http://www.animenewsnetwork.com/news/2008-11-16/japanese-anime-tv-ranking-november-3-9">Japanese Anime TV Ranking, November 3-9</news>
+<news datetime="2008-11-23T23:53:12Z" href="http://www.animenewsnetwork.com/news/2008-11-23/japanese-anime-tv-ranking-november-10-16">Japanese Anime TV Ranking, November 10-16</news>
+<news datetime="2008-11-30T21:18:03Z" href="http://www.animenewsnetwork.com/news/2008-11-30/japanese-anime-tv-ranking-november-17-23">Japanese Anime TV Ranking, November 17-23</news>
+<news datetime="2008-12-08T04:57:00Z" href="http://www.animenewsnetwork.com/news/2008-12-07/japanese-anime-tv-ranking-november-24-30">Japanese Anime TV Ranking, November 24-30</news>
+<news datetime="2008-12-15T04:58:00Z" href="http://www.animenewsnetwork.com/news/2008-12-14/japanese-anime-tv-ranking-december-1-7">Japanese Anime TV Ranking, December 1-7</news>
+<news datetime="2008-12-30T17:36:05Z" href="http://www.animenewsnetwork.com/news/2008-12-30/japanese-anime-tv-ranking-december-15-21">Japanese Anime TV Ranking, December 15-21</news>
+<news datetime="2009-02-10T04:57:00Z" href="http://www.animenewsnetwork.com/news/2009-02-09/japanese-anime-tv-ranking-january-19-25">Japanese Anime TV Ranking, January 19-25</news>
+<news datetime="2009-02-16T03:50:20Z" href="http://www.animenewsnetwork.com/news/2009-02-15/japanese-anime-tv-ranking-january-26-february-1">Japanese Anime TV Ranking, January 26-February 1</news>
+<news datetime="2009-03-03T04:11:31Z" href="http://www.animenewsnetwork.com/news/2009-03-02/japanese-anime-tv-ranking-february-2-8">Japanese Anime TV Ranking, February 2-8</news>
+<news datetime="2009-03-29T18:25:23Z" href="http://www.animenewsnetwork.com/news/2009-03-29/japanese-anime-tv-ranking-march-9-15">Japanese Anime TV Ranking, March 9-15</news>
+<news datetime="2009-03-30T03:37:47Z" href="http://www.animenewsnetwork.com/news/2009-03-29/japanese-anime-tv-ranking-march-16-22">Japanese Anime TV Ranking, March 16-22</news>
+<news datetime="2009-04-07T03:57:00Z" href="http://www.animenewsnetwork.com/news/2009-04-06/japanese-anime-tv-ranking-march-23-29">Japanese Anime TV Ranking, March 23-29</news>
+<news datetime="2009-04-16T19:39:45Z" href="http://www.animenewsnetwork.com/news/2009-04-16/japanese-anime-tv-ranking-april-6-12">Japanese Anime TV Ranking, April 6-12</news>
+<news datetime="2009-05-01T01:50:37Z" href="http://www.animenewsnetwork.com/news/2009-04-30/japanese-anime-tv-ranking-april-20-26">Japanese Anime TV Ranking, April 20-26</news>
+<news datetime="2009-06-21T03:57:00Z" href="http://www.animenewsnetwork.com/news/2009-06-20/japanese-anime-tv-ranking-may-11-17">Japanese Anime TV Ranking, May 11-17</news>
+<news datetime="2009-08-08T19:17:29Z" href="http://www.animenewsnetwork.com/news/2009-08-08/japan-animation-tv-ranking-july-13-19">Japan's Animation TV Ranking, July 13-19</news>
+<news datetime="2009-09-08T00:52:16Z" href="http://www.animenewsnetwork.com/news/2009-09-07/japan-animation-tv-ranking-august-24-30">Japan's Animation TV Ranking, August 24-30</news>
+<news datetime="2010-10-05T17:36:00Z" href="http://www.animenewsnetwork.com/news/2010-10-06/tv-asahi-to-own-100-percent-of-doraemon-shin-ei-animation">TV Asahi to Own 100% of &lt;cite&gt;Doraemon's&lt;/cite&gt; Shin-ei Animation</news>
+<staff gid="3710388260"><task>Series Director</task><person id="713">Akitaro Daichi</person></staff>
+<staff gid="2966890326"><task>Series Director</task><person id="6686">Tetsuo Yasumi</person></staff>
+<staff gid="972761950"><task>Series Composition</task><person id="4629">Natsuko Takahashi</person></staff>
+<staff gid="885788012"><task>Music</task><person id="12966">Motoi Sakuraba</person></staff>
+<staff gid="2910117877"><task>Original Manga</task><person id="5810">Eiko Kera</person></staff>
+<staff gid="982320809"><task>Art Director</task><person id="6514">Akira Furuya</person></staff>
+<staff gid="3342847664"><task>Art Director</task><person id="25547">Masaru Amamizu</person></staff>
+<staff gid="1972223808"><task>Art Director</task><person id="41722">Yumi Matsumiya</person></staff>
+<staff gid="2015389056"><task>Art Director</task><person id="83663">Yuka Sawanobori</person></staff>
+<staff gid="1307337961"><task>Animation Director</task><person id="48034">Takashi Mukouda</person></staff>
+<staff gid="1913838210"><task>Director of Photography</task><person id="71926">Kōichi Yanai</person></staff>
+<staff gid="1511001118"><task>Producer</task><person id="689">Yoko Matsushita</person></staff>
+<staff gid="1167704902"><task>Producer</task><person id="33647">Ken Fukuyoshi</person></staff>
+<staff gid="2106152530"><task>Producer</task><person id="42834">Atsushi Kaji</person></staff>
+<staff gid="2747343610"><task>Producer</task><person id="68820">Sojiro Masuko</person></staff>
+<staff gid="1550704252"><task>Producer</task><person id="82463">Tomomi Imagawa</person></staff>
+<staff gid="3568862643"><task>Producer</task><person id="82756">Satoshi Kaishō</person></staff>
+<staff gid="3874041891"><task>Producer</task><person id="83178">Yoshifumi Sugisawa</person></staff>
+<staff gid="3442085874"><task>Producer</task><person id="85871">Go Nakajima</person></staff>
+<staff gid="2586754175"><task>Producer</task><person id="85872">Naomi Taguchi</person></staff>
+<cast gid="3750667227" lang="JA"><role>Mother</role><person id="279">Kumiko Watanabe</person></cast>
+<cast gid="117446104" lang="JA"><role>Father</role><person id="284">Kenichi Ogata</person></cast>
+<cast gid="2400897947" lang="JA"><role>Mikan</role><person id="912">Fumiko Orikasa</person></cast>
+<cast gid="752388175" lang="JA"><role>Yuzuhiko</role><person id="4271">Daisuke Sakaguchi</person></cast>
+<cast gid="2489368071" lang="JA"><role>Announcer</role><person id="38382">Shihoko Hagino</person></cast>
+<cast gid="1473746630" lang="TL"><role>Mikan</role><person id="15925">Charmaine Cordoviz</person></cast>
+<cast gid="1753987293" lang="TL"><role>Fujino</role><person id="38915">Marvin Aquino</person></cast>
+<cast gid="1585448658" lang="TL"><role>Mr. Tachibana/Father</role><person id="38916">Robert Brillantes</person></cast>
+<cast gid="1908464473" lang="TL"><role>Yuzuhiko</role><person id="38916">Robert Brillantes</person></cast>
+<cast gid="3000583505" lang="TL"><role>Fujino</role><person id="38929">Montreal Repuyan</person></cast>
+<cast gid="315369057" lang="TL"><role>Mikan</role><person id="39024">Grace Cornel</person></cast>
+<cast gid="2103367697" lang="TL"><role>Mama</role><person id="39336">Yvette Tagura</person></cast>
+<cast gid="2051904859" lang="TL"><role>Yuzuhiko</role><person id="42178">Hazel Hernan</person></cast>
+<cast gid="1941936237" lang="TL"><role>Yuzuhiko</role><person id="46197">Jay De Castro</person></cast>
+<cast gid="2427739418" lang="TL"><role>Fujino</role><person id="57604">Klariz Magboo</person></cast>
+<cast gid="2117218444" lang="TL"><role>Mikan</role><person id="58249">Pinky Rebucas</person></cast>
+<cast gid="3238239551" lang="TL"><role>Papa</role><person id="71877">Edwin Ortega</person></cast>
+<credit gid="3177000021"><task>Animation Production</task><company id="719">Yumeta, Co.</company></credit>
+<credit gid="2450423573"><task>Production</task><company id="160">TV Asahi</company></credit>
+<credit gid="2214268899"><task>Production</task><company id="1240">Asatsu DK</company></credit>
+<credit gid="3279314151"><task>Production</task><company id="8779">Shin-Ei Animation</company></credit></anime></ann>

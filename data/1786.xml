@@ -1,0 +1,468 @@
+<ann><anime id="1786" gid="3245151689" type="OAV" name="Legend of the Galactic Heroes" precision="OAV" generated-on="2016-03-26T15:36:45Z">
+<related-prev rel="sequel of" id="1802"/>
+<related-next id="1801" rel="prequel"/>
+<related-next id="1865" rel="remake"/>
+<info gid="361768118" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A1786-8.jpg" width="142" height="200"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A1786-8.jpg" width="142" height="200"/></info>
+<info gid="1596449753" type="Main title" lang="EN">The Legend of the Galactic Heroes</info>
+<info gid="1529296018" type="Alternative title" lang="JA">Ginga Eiyū Densetsu</info>
+<info gid="3048068726" type="Alternative title" lang="DE">Heldensagen vom Kosmosinsel</info>
+<info gid="1787562345" type="Alternative title" lang="ES">La Leyenda de los Heroes de la galaxia</info>
+<info gid="375195394" type="Alternative title" lang="EN">Legend of the Galactic Heroes</info>
+<info gid="980503180" type="Alternative title" lang="FR">Les Héros de la Galaxie</info>
+<info gid="2170185492" type="Alternative title" lang="RU">Повесть О Героях Галактики</info>
+<info gid="298270559" type="Alternative title" lang="AR">حرب الكواكب</info>
+<info gid="3872830218" type="Alternative title" lang="JA">銀河英雄伝説</info>
+<info gid="1193757590" type="Alternative title" lang="ZH-TW">銀河英雄傳說</info>
+<info gid="3127057184" type="Alternative title" lang="KO">은하영웅전설</info>
+<info gid="2323620552" type="Genres">drama</info>
+<info gid="1543135177" type="Genres">science fiction</info>
+<info gid="2698350702" type="Themes">military</info>
+<info gid="1743840827" type="Themes">politics</info>
+<info gid="2456728323" type="Themes">space</info>
+<info gid="2982123984" type="Themes">space navy</info>
+<info gid="2688719066" type="Themes">war</info>
+<info gid="2260424124" type="Objectionable content">MA</info>
+<info gid="1231760285" type="Plot Summary">For decades, the Galactic Empire has been locked in an interstellar war with the Free Planets Alliance, a conflict that involves thousands of spaceships and millions of soldiers on both sides. Two new commanders enter the conflict with great hopes: Imperial Admiral Reinhard von Lohengramm and the FPA's Yang Wen-Li. As they deal with superiors and subordinates, maneuver through complicated political arrangements, plot strategies, and win battles, each will be tested, and ultimately, changed, by the reality of war.</info>
+<info gid="1864617679" type="Running time">25</info>
+<info gid="3730832899" type="Number of episodes">110</info>
+<info gid="1673256141" type="Vintage">1988-12 to 1989-06 (1st season)</info>
+<info gid="522492858" type="Vintage">1989 to 1990 (TV version's Original Japanese broadcast)</info>
+<info gid="2421118657" type="Vintage">1991-06 to 1992-02 (2nd season)</info>
+<info gid="3329377697" type="Vintage">1994-07 to 1995-02 (3rd season)</info>
+<info gid="441865036" type="Vintage">1996-10 to 1997-02 (4th season)</info>
+<info gid="2056260663" type="Opening Theme">#1: &quot;Skies of Love&quot; by Michiru Akiyoshi (eps 1-26)</info>
+<info gid="2934101902" type="Opening Theme">#2: &quot;I Am Waiting for You&quot; by Michiru Akiyoshi (eps 27-54)</info>
+<info gid="1571626237" type="Opening Theme">#3: &quot;Sea of the Stars&quot; by LISA (eps 55-86)</info>
+<info gid="2196379330" type="Opening Theme">#4: &quot;Must Be Something&quot; by Hitomi Konno (eps 87-110)</info>
+<info gid="1213798430" type="Ending Theme">#1: &quot;Hikari no Hashi o Koete&quot; (光の橋を越えて) by Kei Ogura (eps 1-26)</info>
+<info gid="1135711716" type="Ending Theme">#2: &quot;Tabidachi no Jokyoku&quot; (旅立ちの序曲) by Kei Ogura (eps 27-54)</info>
+<info gid="3593986348" type="Ending Theme">#3: &quot;Kansō no Uta&quot; (歓送の歌) by Kei Ogura (eps 55-86)</info>
+<info gid="3240867013" type="Ending Theme">#4: &quot;Uchū no Kakehashi&quot; (宇宙の掛け橋) by Kei Ogura (eps 87-110)</info>
+<info gid="2659806595" type="Official website" lang="JA" href="http://www.ginei.jp/">Ginga Eiyū Densetsu Official Website</info>
+<info gid="2297650539" type="Official website" lang="JA" href="http://www.wowow.co.jp/anime/ginei/">銀河英雄伝説 @ WOWOW</info>
+<ratings nb_votes="646" weighted_score="8.8307" bayesian_score="8.8049"/>
+<episode num="1">
+<title gid="1794017647" lang="EN">Into the Eternal Night</title></episode>
+<episode num="2">
+<title gid="1767516985" lang="EN">The Astarte Encounter</title></episode>
+<episode num="3">
+<title gid="2983592071" lang="EN">Birth of the 13th Fleet</title></episode>
+<episode num="4">
+<title gid="1813638437" lang="EN">Empire's Afterglow</title></episode>
+<episode num="5">
+<title gid="1381045999" lang="EN">The Kastrop Rebellion</title></episode>
+<episode num="6">
+<title gid="811159003" lang="EN">The Rosen Ritter</title></episode>
+<episode num="7">
+<title gid="1275589118" lang="EN">Iserlohn Invasion!</title></episode>
+<episode num="8">
+<title gid="2746943605" lang="EN">Cold, Clear, Cybernetic Eyes</title></episode>
+<episode num="9">
+<title gid="2838640289" lang="EN">The Klopstock Incident</title></episode>
+<episode num="10">
+<title gid="2604329079" lang="EN">Jessica's Struggle</title></episode>
+<episode num="11">
+<title gid="1304328664" lang="EN">An Actress Exits</title></episode>
+<episode num="12">
+<title gid="3107500188" lang="EN">Attack on the Empire</title></episode>
+<episode num="13">
+<title gid="2502633197" lang="EN">When it Rains, it Pours...</title></episode>
+<episode num="14">
+<title gid="1953899779" lang="EN">Frontier's Liberation</title></episode>
+<episode num="15">
+<title gid="2143870231" lang="EN">Battle at Starzone Amlitzer</title></episode>
+<episode num="16">
+<title gid="1709358301" lang="EN">New Trend of the Times</title></episode>
+<episode num="17">
+<title gid="767049711" lang="EN">Before the Storm</title></episode>
+<episode num="18">
+<title gid="2309760736" lang="EN">The Lippstadt Conspiracy</title></episode>
+<episode num="19">
+<title gid="2263354965" lang="EN">Yang Sends the Fleet</title></episode>
+<episode num="20">
+<title gid="3720442742" lang="EN">Bloodshed in Space</title></episode>
+<episode num="21">
+<title gid="2250635901" lang="EN">Battle at Starzone Doria</title></episode>
+<episode num="22">
+<title gid="97133137" lang="EN">Courage and Allegiance</title></episode>
+<episode num="23">
+<title gid="2555140439" lang="EN">The Fall of Goldenbaum</title></episode>
+<episode num="24">
+<title gid="588180775" lang="EN">Who Benefits From Victory?</title></episode>
+<episode num="25">
+<title gid="1439391618" lang="EN">Day Before Destiny</title></episode>
+<episode num="26">
+<title gid="1703906981" lang="EN">Farewell, Distant Light</title></episode>
+<episode num="27">
+<title gid="999532618" lang="EN">Baptism of Fire</title></episode>
+<episode num="28">
+<title gid="2079077014" lang="EN">Portraits</title></episode>
+<episode num="29">
+<title gid="1735141742" lang="EN">One Narrow Thread</title></episode>
+<episode num="30">
+<title gid="1877600738" lang="EN">I Am Lost</title></episode>
+<episode num="31">
+<title gid="2875435375" lang="EN">Court of Inquiry</title></episode>
+<episode num="32">
+<title gid="1036350705" lang="EN">War Without Weapons</title></episode>
+<episode num="33">
+<title gid="2882567468" lang="EN">Fortress Against Fortress</title></episode>
+<episode num="34">
+<title gid="2314448767" lang="EN">Repatriation</title></episode>
+<episode num="35">
+<title gid="1626836958" lang="EN">Determination and Ambition</title></episode>
+<episode num="36">
+<title gid="525554103" lang="EN">Thunder</title></episode>
+<episode num="37">
+<title gid="2047876387" lang="EN">Abduction of the Young Kaiser</title></episode>
+<episode num="38">
+<title gid="2214835229" lang="EN">The Arrow Released!</title></episode>
+<episode num="39">
+<title gid="2561215994" lang="EN">The Journey Begins</title></episode>
+<episode num="40">
+<title gid="2362623244" lang="EN">Julian's Journey - Humanity's Journey</title></episode>
+<episode num="41">
+<title gid="1618887216" lang="EN">Ragnarok</title></episode>
+<episode num="42">
+<title gid="2465058666" lang="EN">Invitation to a Requiem</title></episode>
+<episode num="43">
+<title gid="3512522736" lang="EN">Gjallarhorn's Thunder</title></episode>
+<episode num="44">
+<title gid="2060518821" lang="EN">Occupied Phezzan</title></episode>
+<episode num="45">
+<title gid="1840923714" lang="EN">Arrival of the Cold Wave</title></episode>
+<episode num="46">
+<title gid="1420775141" lang="EN">Admiral Yang's Ark Fleet</title></episode>
+<episode num="47">
+<title gid="1380252970" lang="EN">The Heavens Demand</title></episode>
+<episode num="48">
+<title gid="2596633466" lang="EN">Battle at Rantemario</title></episode>
+<episode num="49">
+<title gid="3268705822" lang="EN">Darkness Before Dawn</title></episode>
+<episode num="50">
+<title gid="3176175975" lang="EN">Battle After Battle</title></episode>
+<episode num="51">
+<title gid="2252281374" lang="EN">Death Match at Vermillion (Part 1)</title></episode>
+<episode num="52">
+<title gid="3657058832" lang="EN">Death Match at Vermillion (Part 2)</title></episode>
+<episode num="53">
+<title gid="2303256349" lang="EN">A Sudden Change</title></episode>
+<episode num="54">
+<title gid="2342468751" lang="EN">Long Live the Kaiser!</title></episode>
+<episode num="55">
+<title gid="2693128678" lang="EN">After the Ceremony, the Curtain Rises Again</title></episode>
+<episode num="56">
+<title gid="1069245386" lang="EN">Earthbound</title></episode>
+<episode num="57">
+<title gid="776103069" lang="EN">The Kummel Affair</title></episode>
+<episode num="58">
+<title gid="2719915343" lang="EN">Visitors</title></episode>
+<episode num="59">
+<title gid="1032727600" lang="EN">Past, Present and Future</title></episode>
+<episode num="60">
+<title gid="2569105104" lang="EN">To Capture a Magician</title></episode>
+<episode num="61">
+<title gid="2418172213" lang="EN">Invitation to an Opera</title></episode>
+<episode num="62">
+<title gid="3011611491" lang="EN">Cascades of Blood</title></episode>
+<episode num="63">
+<title gid="1232734154" lang="EN">Holy Land</title></episode>
+<episode num="64">
+<title gid="2395142725" lang="EN">Holiday's End</title></episode>
+<episode num="65">
+<title gid="1182644907" lang="EN">Against All Flags</title></episode>
+<episode num="66">
+<title gid="3532044374" lang="EN">Beneath the Flag of the Golden Lion</title></episode>
+<episode num="67">
+<title gid="2135028769" lang="EN">Ragnarok Once More</title></episode>
+<episode num="68">
+<title gid="1779022419" lang="EN">El Facile</title></episode>
+<episode num="69">
+<title gid="2907169522" lang="EN">Battle to Retake Iserlohn</title></episode>
+<episode num="70">
+<title gid="2529133451" lang="EN">The Prodigal Son Returns</title></episode>
+<episode num="71">
+<title gid="2356328948" lang="EN">Battle at Starzone Mal-Adetta (Part 1)</title></episode>
+<episode num="72">
+<title gid="1856354243" lang="EN">Battle at Starzone Mal-Adetta (Part 2)</title></episode>
+<episode num="73">
+<title gid="1426990682" lang="EN">Imperial Edict of the Winter Rose Garden</title></episode>
+<episode num="74">
+<title gid="1990748468" lang="EN">The Distant Road Ahead</title></episode>
+<episode num="75">
+<title gid="1664311139" lang="EN">Rolling Thunder</title></episode>
+<episode num="76">
+<title gid="3060666828" lang="EN">Eve of the Festival</title></episode>
+<episode num="77">
+<title gid="1155349691" lang="EN">To the Windy Corridor</title></episode>
+<episode num="78">
+<title gid="2235410375" lang="EN">Storm of Spring</title></episode>
+<episode num="79">
+<title gid="3299941492" lang="EN">War in the Corridor (Part 1)</title></episode>
+<episode num="80">
+<title gid="1795446745" lang="EN">War in the Corridor (Part 2)</title></episode>
+<episode num="81">
+<title gid="3741266036" lang="EN">War in the Corridor (Part 3)</title></episode>
+<episode num="82">
+<title gid="274214016" lang="EN">The Magician Doesn't Return</title></episode>
+<episode num="83">
+<title gid="2238597850" lang="EN">After the Festival</title></episode>
+<episode num="84">
+<title gid="3325855735" lang="EN">Disappointing Victory</title></episode>
+<episode num="85">
+<title gid="2059469475" lang="EN">Transfer of the Capital</title></episode>
+<episode num="86">
+<title gid="2487944814" lang="EN">New Government of August</title></episode>
+<episode num="87">
+<title gid="3311468360" lang="EN">Premonition of the Storm</title></episode>
+<episode num="88">
+<title gid="2472151499" lang="EN">In the Distant Region</title></episode>
+<episode num="89">
+<title gid="2033149163" lang="EN">A Rose at Summer's End</title></episode>
+<episode num="90">
+<title gid="1442317703" lang="EN">Rumbling</title></episode>
+<episode num="91">
+<title gid="3165275205" lang="EN">Burgeoning</title></episode>
+<episode num="92">
+<title gid="2868951907" lang="EN">Incident at Urvashi</title></episode>
+<episode num="93">
+<title gid="1972598807" lang="EN">In the Name of Pride</title></episode>
+<episode num="94">
+<title gid="2081890078" lang="EN">Rebellion is a Hero's Privilege</title></episode>
+<episode num="95">
+<title gid="2772857453" lang="EN">The Two Great Ones Strike Simultaneously</title></episode>
+<episode num="96">
+<title gid="2140945645" lang="EN">Live by the Sword...</title></episode>
+<episode num="97">
+<title gid="1935679683" lang="EN">Die by the Sword</title></episode>
+<episode num="98">
+<title gid="1787154075" lang="EN">The Final Requiem</title></episode>
+<episode num="99">
+<title gid="2335625904" lang="EN">Running Start Toward the Future</title></episode>
+<episode num="100">
+<title gid="1388816493" lang="EN">Long Live the Empress!</title></episode>
+<episode num="101">
+<title gid="1993817137" lang="EN">Invitation to Rebellion</title></episode>
+<episode num="102">
+<title gid="1721028473" lang="EN">A Challenge to Arms</title></episode>
+<episode num="103">
+<title gid="1925515002" lang="EN">Cosmic Mosaic</title></episode>
+<episode num="104">
+<title gid="1097387179" lang="EN">Peace by Way of Bloodshed</title></episode>
+<episode num="105">
+<title gid="1260568300" lang="EN">Planet of Confusion</title></episode>
+<episode num="106">
+<title gid="3613218934" lang="EN">Schtehibalm Schloss Burns!</title></episode>
+<episode num="107">
+<title gid="2332328453" lang="EN">The Crimson Star Road</title></episode>
+<episode num="108">
+<title gid="2530649485" lang="EN">The Beautiful Princess Wants Blood!</title></episode>
+<episode num="109">
+<title gid="3046856742" lang="EN">The Vanishing Flag of the Golden Lion</title></episode>
+<episode num="110">
+<title gid="2531775309" lang="EN">Dream, I've Seen it to the End</title></episode>
+<news datetime="2005-09-23T20:38:14Z" href="http://www.animenewsnetwork.com/news/2005-09-23/tv-asahi-top-100-anime-part-2">TV Asahi Top 100 Anime Part 2</news>
+<news datetime="2008-08-01T06:47:00Z" href="http://www.animenewsnetwork.com/news/2008-08-01/new-attempt-at-yamato-anime-project-announced">New Attempt at &lt;cite&gt;Yamato&lt;/cite&gt; Anime Project Announced</news>
+<news datetime="2008-08-25T03:40:00Z" href="http://www.animenewsnetwork.com/news/2008-08-24/library-war-denno-coil-20th-century-boys-win-seiun-awards">&lt;cite&gt;Library War, Dennō Coil, 20th Century Boys&lt;/cite&gt; Win Seiun Awards</news>
+<news datetime="2009-04-14T20:20:55Z" href="http://www.animenewsnetwork.com/news/2009-04-14/japanese-science-fiction-con-award-nominees-revealed">Japanese Science Fiction Con Award Nominees Revealed</news>
+<news datetime="2009-06-23T20:20:12Z" href="http://www.animenewsnetwork.com/news/2009-06-23/madhouse-studio-co-founder-maruyama-returns-to-otakon">Madhouse Studio Co-Founder Maruyama Returns to Otakon</news>
+<news datetime="2010-04-08T23:33:48Z" href="http://www.animenewsnetwork.com/news/2010-04-08/japan-animation-blu-ray-disc-ranking-march-15-21">Japan's Animation Blu-ray Disc Ranking, March 15-21</news>
+<news datetime="2014-02-12T15:35:09Z" href="http://www.animenewsnetwork.com/news/2014-02-12/legend-of-the-galactic-heroes-novels-get-anime">&lt;cite&gt;Legend of the Galactic Heroes&lt;/cite&gt; Novels Get New Anime</news>
+<news datetime="2014-09-09T08:28:09Z" href="http://www.animenewsnetwork.com:/news/2014-09-09/japan-animation-blu-ray-disc-ranking-september-1-7/.78565">Japan's Animation Blu-ray Disc Ranking, September 1-7</news>
+<news datetime="2015-07-02T21:06:02Z" href="http://www.animenewsnetwork.com:/news/2015-07-02/viz-adds-legend-of-galactic-heroes-novels-one-punch-man-anime/.89995">Viz Adds &lt;cite&gt;Legend of Galactic Heroes&lt;/cite&gt; Novels, &lt;cite&gt;One-Punch Man&lt;/cite&gt; Anime (Updated)</news>
+<news datetime="2015-08-13T12:00:07Z" href="http://www.animenewsnetwork.com:/news/2015-08-13/legend-of-the-galactic-heroes-gets-new-anime-project-by-production-i.g-in-2017/.91627">&lt;cite&gt;Legend of the Galactic Heroes&lt;/cite&gt; Gets New Anime Project by Production I.G in 2017</news>
+<news datetime="2016-01-07T09:15:00Z" href="http://www.animenewsnetwork.com:/news/2016-01-07/legend-of-the-galactic-heroes-side-story-audiobook-reunites-original-cast/.97282">&lt;cite&gt;Legend of the Galactic Heroes&lt;/cite&gt; Side Story Audiobook Reunites Original Cast</news>
+<staff gid="1728053009"><task>Chief Director</task><person id="8366">Noboru Ishiguro</person></staff>
+<staff gid="2867249389"><task>Series Director</task><person id="32596">Masatoshi Tahara</person></staff>
+<staff gid="3385148126"><task>Series Director</task><person id="133136">Masato Kohara</person></staff>
+<staff gid="762743245"><task>Director</task><person id="8366">Noboru Ishiguro</person></staff>
+<staff gid="2115665842"><task>Series Composition</task><person id="38367">Shimao Kawanaka</person></staff>
+<staff gid="1893223985"><task>Script</task><person id="1673">Akinori Endo</person></staff>
+<staff gid="1729041230"><task>Script</task><person id="3904">Takeshi Shudo</person></staff>
+<staff gid="2415547690"><task>Script</task><person id="8509">Hiroshi Toda</person></staff>
+<staff gid="1844528859"><task>Script</task><person id="8525">Shigeru Yanagawa</person></staff>
+<staff gid="2067795970"><task>Script</task><person id="38367">Shimao Kawanaka</person></staff>
+<staff gid="2105222382"><task>Script</task><person id="44811">Hiroshi Konishikawa</person></staff>
+<staff gid="1054548619"><task>Script</task><person id="70423">Yūho Hanazono</person></staff>
+<staff gid="2162800475"><task>Storyboard</task><person id="272">Toshiya Shinohara</person></staff>
+<staff gid="1164442421"><task>Storyboard</task><person id="324">Takashi Watanabe</person></staff>
+<staff gid="1556671214"><task>Storyboard</task><person id="558">Shinichiro Kimura</person></staff>
+<staff gid="1782233169"><task>Storyboard</task><person id="588">Hiroyuki Fukushima</person></staff>
+<staff gid="1325662907"><task>Storyboard</task><person id="603">Keitaro Motonaga</person></staff>
+<staff gid="2464919337"><task>Storyboard</task><person id="2181">Hiroshi Fukutomi</person></staff>
+<staff gid="1730446902"><task>Storyboard</task><person id="3478">Hideki Tonokatsu</person></staff>
+<staff gid="1617727896"><task>Storyboard</task><person id="4306">Katsuhisa Yamada</person></staff>
+<staff gid="3353524916"><task>Storyboard</task><person id="4309">Akio Sakai</person></staff>
+<staff gid="2210974800"><task>Storyboard</task><person id="4773">Yasunori Urata</person></staff>
+<staff gid="867949036"><task>Storyboard</task><person id="6648">Yukio Suzuki</person></staff>
+<staff gid="1406971859"><task>Storyboard</task><person id="8366">Noboru Ishiguro</person></staff>
+<staff gid="2478849901"><task>Storyboard</task><person id="8838">Tsuneo Tominaga</person></staff>
+<staff gid="2635491148"><task>Storyboard</task><person id="9544">Kenichi Maejima</person></staff>
+<staff gid="2015704883"><task>Storyboard</task><person id="10732">Tomonori Kogawa</person></staff>
+<staff gid="2598627664"><task>Storyboard</task><person id="12251">Shinya Hanai</person></staff>
+<staff gid="1467654646"><task>Storyboard</task><person id="13628">Takashi Asami</person></staff>
+<staff gid="577985013"><task>Storyboard</task><person id="19231">Shigeru Yamazaki</person></staff>
+<staff gid="1338720657"><task>Storyboard</task><person id="21654">Hiroshi Yamada</person></staff>
+<staff gid="1759702541"><task>Storyboard</task><person id="22907">Yukihiro Makino</person></staff>
+<staff gid="2776643228"><task>Storyboard</task><person id="25317">Yutaka Arai</person></staff>
+<staff gid="1661377427"><task>Storyboard</task><person id="33097">Norifumi Kiyozumi</person></staff>
+<staff gid="2954832296"><task>Storyboard</task><person id="37361">Tomokazu Kougo</person></staff>
+<staff gid="3017420935"><task>Storyboard</task><person id="37632">Toshikatsu Tokoro</person></staff>
+<staff gid="3337151930"><task>Storyboard</task><person id="46018">Tatsuya Okamoto</person></staff>
+<staff gid="4000434884"><task>Storyboard</task><person id="63706">Ryo Natsuki</person></staff>
+<staff gid="3051356724"><task>Storyboard</task><person id="71812">Raisen Hanyû</person></staff>
+<staff gid="2446339209"><task>Storyboard</task><person id="71813">Harumi Izawa</person></staff>
+<staff gid="871214162"><task>Storyboard</task><person id="71814">Satoshi Kurai</person></staff>
+<staff gid="902381792"><task>Storyboard</task><person id="71815">Kazu Yokoda</person></staff>
+<staff gid="815074093"><task>Storyboard</task><person id="128474">Seiji Okuda</person></staff>
+<staff gid="1764531247"><task>Storyboard</task><person id="146737">Hideo Watanabe</person></staff>
+<staff gid="2008800224"><task>Episode Director</task><person id="6">Shinji Takagi</person></staff>
+<staff gid="162317744"><task>Episode Director</task><person id="558">Shinichiro Kimura</person></staff>
+<staff gid="1941113511"><task>Episode Director</task><person id="603">Keitaro Motonaga</person></staff>
+<staff gid="2176204985"><task>Episode Director</task><person id="615">Kunitoshi Okajima</person></staff>
+<staff gid="1852070114"><task>Episode Director</task><person id="3478">Hideki Tonokatsu</person></staff>
+<staff gid="3180540502"><task>Episode Director</task><person id="4306">Katsuhisa Yamada</person></staff>
+<staff gid="2075911845"><task>Episode Director</task><person id="4309">Akio Sakai</person></staff>
+<staff gid="1634305345"><task>Episode Director</task><person id="5437">Yasuhiro Matsumura</person></staff>
+<staff gid="2093039729"><task>Episode Director</task><person id="5854">Yasuo Iwamoto</person></staff>
+<staff gid="1849483975"><task>Episode Director</task><person id="8358">Tetsu Kimura</person></staff>
+<staff gid="2580681116"><task>Episode Director</task><person id="8366">Noboru Ishiguro</person></staff>
+<staff gid="1278127530"><task>Episode Director</task><person id="8866">Kiyoshi Nakamura</person></staff>
+<staff gid="2404480502"><task>Episode Director</task><person id="9544">Kenichi Maejima</person></staff>
+<staff gid="2535401883"><task>Episode Director</task><person id="9974">Kazuo Tomizawa</person></staff>
+<staff gid="102532994"><task>Episode Director</task><person id="12251">Shinya Hanai</person></staff>
+<staff gid="2277707394"><task>Episode Director</task><person id="13212">Kazunari Kume</person></staff>
+<staff gid="1498099544"><task>Episode Director</task><person id="13374">Yasuhiro Kuroda</person></staff>
+<staff gid="3268516848"><task>Episode Director</task><person id="13628">Takashi Asami</person></staff>
+<staff gid="2250132968"><task>Episode Director</task><person id="16921">Masato Kitagawa</person></staff>
+<staff gid="2826986146"><task>Episode Director</task><person id="19231">Shigeru Yamazaki</person></staff>
+<staff gid="1017093842"><task>Episode Director</task><person id="19467">Kazunori Tanahashi</person></staff>
+<staff gid="2877074278"><task>Episode Director</task><person id="20564">Fumihiro Ueno</person></staff>
+<staff gid="1458847715"><task>Episode Director</task><person id="21488">Shigeru Yazaki</person></staff>
+<staff gid="1593769099"><task>Episode Director</task><person id="21654">Hiroshi Yamada</person></staff>
+<staff gid="3033830317"><task>Episode Director</task><person id="30607">Hiroshi Kawashima</person></staff>
+<staff gid="2557724836"><task>Episode Director</task><person id="32677">Satoru Namekawa</person></staff>
+<staff gid="3444731503"><task>Episode Director</task><person id="33097">Norifumi Kiyozumi</person></staff>
+<staff gid="1804342569"><task>Episode Director</task><person id="34843">Yoshihiro Ueda</person></staff>
+<staff gid="1227275784"><task>Episode Director</task><person id="37361">Tomokazu Kougo</person></staff>
+<staff gid="1901337657"><task>Episode Director</task><person id="37632">Toshikatsu Tokoro</person></staff>
+<staff gid="2385444145"><task>Episode Director</task><person id="43194">Tomomasa Yamazaki</person></staff>
+<staff gid="2866998189"><task>Episode Director</task><person id="46018">Tatsuya Okamoto</person></staff>
+<staff gid="2942022381"><task>Episode Director</task><person id="51388">Daichi Kato</person></staff>
+<staff gid="3232350638"><task>Episode Director</task><person id="51962">Mihiro Yamaguchi</person></staff>
+<staff gid="1969632324"><task>Episode Director</task><person id="63073">Yoshihito Hata</person></staff>
+<staff gid="503679971"><task>Episode Director</task><person id="63706">Ryo Natsuki</person></staff>
+<staff gid="2345472604"><task>Episode Director</task><person id="64026">Masayuki Oseki</person></staff>
+<staff gid="1178870506"><task>Episode Director</task><person id="71812">Raisen Hanyû</person></staff>
+<staff gid="3123582057"><task>Episode Director</task><person id="71815">Kazu Yokoda</person></staff>
+<staff gid="3098100813"><task>Episode Director</task><person id="71844">Shuku Nagao</person></staff>
+<staff gid="2899089194"><task>Episode Director</task><person id="71845">Mitsutaka Uchitoya</person></staff>
+<staff gid="2583761746"><task>Music</task><person id="25852">Shinsuke Kazato</person></staff>
+<staff gid="2144588168"><task>Music</task><person id="100433">Shin Kawabe</person></staff>
+<staff gid="2618361764"><task>Original story</task><person id="7844">Yoshiki Tanaka</person></staff>
+<staff gid="1856441103"><task>Character Design</task><person id="67">Akio Sugino</person></staff>
+<staff gid="1974301361"><task>Character Design</task><person id="72">Yoshiaki Kawajiri</person></staff>
+<staff gid="1321038236"><task>Character Design</task><person id="469">Kazuchika Kise</person></staff>
+<staff gid="1048172812"><task>Character Design</task><person id="1279">Naoyuki Onda</person></staff>
+<staff gid="2129828832"><task>Character Design</task><person id="1637">Shingo Araki</person></staff>
+<staff gid="2595137430"><task>Character Design</task><person id="1919">Yoshiyuki Momose</person></staff>
+<staff gid="3083751824"><task>Character Design</task><person id="4309">Akio Sakai</person></staff>
+<staff gid="3577012441"><task>Character Design</task><person id="4641">Yoshinori Kanemori</person></staff>
+<staff gid="1304745285"><task>Character Design</task><person id="4781">Yasuhiro Nakura</person></staff>
+<staff gid="2044745132"><task>Character Design</task><person id="5148">Nobuyuki Kitajima</person></staff>
+<staff gid="3833595660"><task>Character Design</task><person id="5777">Takuo Noda</person></staff>
+<staff gid="2580708797"><task>Character Design</task><person id="9487">Matsuri Okuda</person></staff>
+<staff gid="1460154301"><task>Character Design</task><person id="9974">Kazuo Tomizawa</person></staff>
+<staff gid="3228386347"><task>Character Design</task><person id="10732">Tomonori Kogawa</person></staff>
+<staff gid="2985947885"><task>Character Design</task><person id="15377">Keizo Shimizu</person></staff>
+<staff gid="2539697852"><task>Art Director</task><person id="13">Yuji Ikeda</person></staff>
+<staff gid="751807452"><task>Art Director</task><person id="1683">Takeshi Waki</person></staff>
+<staff gid="3434910394"><task>Art Director</task><person id="2842">Hidetoshi Kaneko</person></staff>
+<staff gid="1067115768"><task>Art Director</task><person id="4124">Kikuko Tada</person></staff>
+<staff gid="2111147345"><task>Art Director</task><person id="4125">Kazuko Katsui</person></staff>
+<staff gid="1024140765"><task>Art Director</task><person id="4457">Kazushige Takatoo</person></staff>
+<staff gid="1331263844"><task>Art Director</task><person id="8876">Hitoshi Nagao</person></staff>
+<staff gid="4180253901"><task>Art Director</task><person id="10751">Shigenori Takada</person></staff>
+<staff gid="1971511371"><task>Art Director</task><person id="19457">Tadami Shimokawa</person></staff>
+<staff gid="2795794287"><task>Art Director</task><person id="19516">Toshikatsu Sanuki</person></staff>
+<staff gid="839233850"><task>Art Director</task><person id="20334">Takeo Yamamoto</person></staff>
+<staff gid="2758379382"><task>Art Director</task><person id="21965">Yasuyuki Chiba</person></staff>
+<staff gid="1487562040"><task>Art Director</task><person id="25253">Yuko Tahara</person></staff>
+<staff gid="3607089610"><task>Chief Animation Director</task><person id="15377">Keizo Shimizu</person></staff>
+<staff gid="2163631490"><task>Chief Animation Director</task><person id="44963">Hisatoshi Motoki</person></staff>
+<staff gid="1312769298"><task>Animation Director</task><person id="13">Yuji Ikeda</person></staff>
+<staff gid="812985190"><task>Animation Director</task><person id="469">Kazuchika Kise</person></staff>
+<staff gid="2188451851"><task>Animation Director</task><person id="2180">Tetsuro Aoki</person></staff>
+<staff gid="2137375277"><task>Animation Director</task><person id="2445">Masami Suda</person></staff>
+<staff gid="1920790872"><task>Animation Director</task><person id="4309">Akio Sakai</person></staff>
+<staff gid="2035914155"><task>Animation Director</task><person id="4456">Fujio Oda</person></staff>
+<staff gid="2489647016"><task>Animation Director</task><person id="4719">Shinichi Suzuki</person></staff>
+<staff gid="2317101088"><task>Animation Director</task><person id="5777">Takuo Noda</person></staff>
+<staff gid="658221303"><task>Animation Director</task><person id="8226">Fumio Matsumoto</person></staff>
+<staff gid="2359869866"><task>Animation Director</task><person id="8866">Kiyoshi Nakamura</person></staff>
+<staff gid="2561739123"><task>Animation Director</task><person id="9105">Kenji Mizuhata</person></staff>
+<staff gid="2018264421"><task>Animation Director</task><person id="9544">Kenichi Maejima</person></staff>
+<staff gid="3368144144"><task>Animation Director</task><person id="10732">Tomonori Kogawa</person></staff>
+<staff gid="1701505538"><task>Animation Director</task><person id="10861">Hiroshi Iida</person></staff>
+<staff gid="419697006"><task>Animation Director</task><person id="11126">Shinichi Toda</person></staff>
+<staff gid="2085342555"><task>Animation Director</task><person id="11455">Masao Nakata</person></staff>
+<staff gid="1502503794"><task>Animation Director</task><person id="13212">Kazunari Kume</person></staff>
+<staff gid="1913939763"><task>Animation Director</task><person id="13484">Hideo Shimosaka</person></staff>
+<staff gid="1346950954"><task>Animation Director</task><person id="13904">Yuki Kinoshita</person></staff>
+<staff gid="2587795269"><task>Animation Director</task><person id="15218">Hideki Ito</person></staff>
+<staff gid="2402382819"><task>Animation Director</task><person id="15377">Keizo Shimizu</person></staff>
+<staff gid="1825610173"><task>Animation Director</task><person id="17294">Kenichi Imaizumi</person></staff>
+<staff gid="2156723981"><task>Animation Director</task><person id="18634">Masahiro Kitazaki</person></staff>
+<staff gid="3758934772"><task>Animation Director</task><person id="19225">Shigetaka Kiyoyama</person></staff>
+<staff gid="1393903485"><task>Animation Director</task><person id="21570">Hideaki Matsuoka</person></staff>
+<staff gid="3861638536"><task>Animation Director</task><person id="25317">Yutaka Arai</person></staff>
+<staff gid="2330913233"><task>Animation Director</task><person id="27704">Hideki Araki</person></staff>
+<staff gid="1656683228"><task>Animation Director</task><person id="29380">Yoshiaki Matsuda</person></staff>
+<staff gid="2077592925"><task>Animation Director</task><person id="29536">Kiyoshi Yamamoto</person></staff>
+<staff gid="3675052292"><task>Animation Director</task><person id="30519">Yutaka Tanaka</person></staff>
+<staff gid="1308629579"><task>Animation Director</task><person id="38378">Kyoko Chino</person></staff>
+<staff gid="2299208316"><task>Animation Director</task><person id="40634">Shinichiro Nishijima</person></staff>
+<staff gid="2805790473"><task>Animation Director</task><person id="71816">Masaki Hiuga</person></staff>
+<staff gid="3032340778"><task>Mechanical design</task><person id="26814">Naoyuki Kato</person></staff>
+<staff gid="3028729463"><task>Sound Director</task><person id="12296">Susumu Aketagawa</person></staff>
+<staff gid="2870067517"><task>Director of Photography</task><person id="1380">Hideo Okazaki</person></staff>
+<staff gid="2392479385"><task>Director of Photography</task><person id="9138">Masaaki Fujita</person></staff>
+<staff gid="2523579167"><task>Director of Photography</task><person id="9912">Kinichi Ishikawa</person></staff>
+<staff gid="2381377854"><task>Producer</task><person id="2910">Hiroyuki Kato</person></staff>
+<staff gid="3958531054"><task>Producer</task><person id="7845">Yukio Kikukawa</person></staff>
+<staff gid="2581444808"><task>Producer</task><person id="32596">Masatoshi Tahara</person></staff>
+<staff gid="3110900959"><task>Producer</task><person id="33998">Akiko Odawara</person></staff>
+<staff gid="1204008236"><task>Producer</task><person id="133134">Yukio Kikugawa</person></staff>
+<staff gid="460796761"><task>Producer</task><person id="133135">Yoji Sasaki</person></staff>
+<cast gid="1203792230" lang="JA"><role>Katerose von Kreutzer</role><person id="720">Kotono Mitsuishi</person></cast>
+<cast gid="3816047547" lang="JA"><role>Dusty Attemborough</role><person id="722">Kazuhiko Inoue</person></cast>
+<cast gid="1577883158" lang="JA"><role>Adalbert von Fahrenheit</role><person id="724">Sho Hayami</person></cast>
+<cast gid="823055300" lang="JA"><role>Paul von Oberstein</role><person id="852">Kaneto Shiozawa</person></cast>
+<cast gid="528884156" lang="JA"><role>Oskar von Reuenthal</role><person id="954">Norio Wakamoto</person></cast>
+<cast gid="2300576736" lang="JA"><role>Olivier Poplin</role><person id="1011">Toshio Furukawa</person></cast>
+<cast gid="3414548182" lang="JA"><role>Julian Mintz</role><person id="1012">Nozomu Sasaki</person></cast>
+<cast gid="3418730835" lang="JA"><role>Ulrich Kessler</role><person id="1014">Shuuichi Ikeda</person></cast>
+<cast gid="2532292896" lang="JA"><role>Frederica Greenhill</role><person id="1022">Yoshiko Sakakibara</person></cast>
+<cast gid="2647917353" lang="JA"><role>Hildegard von Mariendorf</role><person id="1046">Masako Katsuki</person></cast>
+<cast gid="2270127282" lang="JA"><role>Reinhard von Lohengramm</role><person id="1104">Ryo Horikawa</person></cast>
+<cast gid="1123200779" lang="JA"><role>Narrator</role><person id="1311">Yuusaku Yara</person></cast>
+<cast gid="2942758148" lang="JA"><role>Annerose von Grünewald</role><person id="2060">Keiko Han</person></cast>
+<cast gid="1987019829" lang="JA"><role>Boris Konev</role><person id="2109">Yoshito Yasuhara</person></cast>
+<cast gid="1838647053" lang="JA"><role>Wolfgang Mittermeyer</role><person id="2116">Katsuji Mori</person></cast>
+<cast gid="2416706514" lang="JA"><role>Walter von Schönkopf</role><person id="2133">Michio Hazama</person></cast>
+<cast gid="269756014" lang="JA"><role>Adrian Rubinsky</role><person id="2170">Kiyoshi Kobayashi</person></cast>
+<cast gid="317973717" lang="JA"><role>Yang Wen-li</role><person id="2378">Kei Tomiyama</person></cast>
+<cast gid="3614049079" lang="JA"><role>Evangeline Mittermeyer</role><person id="2596">Yuriko Yamamoto</person></cast>
+<cast gid="1983596683" lang="JA"><role>Samuel August Wahlen</role><person id="3486">Masaaki Okabe</person></cast>
+<cast gid="2549125206" lang="JA"><role>Fritz Josef Bittenfeld</role><person id="4274">Keiichi Noda</person></cast>
+<cast gid="1736511513" lang="JA"><role>Louis Maschengo</role><person id="4668">Ryusei Nakao</person></cast>
+<cast gid="2532626143" lang="JA"><role>Neithardt Müller</role><person id="4762">Yuu Mizushima</person></cast>
+<cast gid="1162185685" lang="JA"><role>Siegfried Kircheis</role><person id="5118">Masashi Hironaka</person></cast>
+<cast gid="3727721034" lang="JA"><role>Alexander Bucock</role><person id="5682">Kousei Tomita</person></cast>
+<cast gid="736987680" lang="JA"><role>Bernhard von Schneider</role><person id="10303">Yuuichi Meguro</person></cast>
+<cast gid="1764886640" lang="JA"><role>Merkatz</role><person id="15629">Goro Naya</person></cast>
+<cast gid="507143209" lang="JA"><role>Alex Cazerne</role><person id="16306">Keaton Yamada</person></cast>
+<credit gid="2107786368"><task>Animation Production</task><company id="312">Artland</company></credit>
+<credit gid="2523941541"><task>Animation Production</task><company id="856">Magic Bus</company></credit>
+<credit gid="2381552611"><task>Production</task><company id="726">Tokuma Japan Corporation</company></credit>
+<credit gid="1850142102"><task>Production</task><company id="771">Kitty Films</company></credit></anime></ann>

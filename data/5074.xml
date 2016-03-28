@@ -1,0 +1,867 @@
+<ann><anime id="5074" gid="2440980014" type="TV" name="Yu-Gi-Oh!" precision="TV 2/2000" generated-on="2016-03-27T03:58:18Z">
+<related-prev rel="alternate retelling of" id="790"/>
+<related-prev rel="adapted from" id="1642"/>
+<related-next id="2761" rel="sequel"/>
+<related-next id="4481" rel="spinoff"/>
+<related-next id="6322" rel="spinoff"/>
+<related-next id="9404" rel="related"/>
+<related-next id="11395" rel="spinoff"/>
+<related-next id="12303" rel="related"/>
+<related-next id="15764" rel="related"/>
+<related-next id="16836" rel="compilation"/>
+<info gid="3417247797" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A5074-3.jpg" width="200" height="178"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A5074-3.jpg" width="200" height="178"/><img src="http://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A5074-3.jpg" width="364" height="324"/></info>
+<info gid="319794464" type="Main title" lang="EN">Yu-Gi-Oh!</info>
+<info gid="1533853525" type="Alternative title" lang="FR">Yu-Gi-Oh! a Toi de Jouer!</info>
+<info gid="2320434463" type="Alternative title" lang="JA">Yu-Gi-Oh! Duel Monsters</info>
+<info gid="2560682205" type="Alternative title" lang="TL">Yu-Gi-Oh! Overload</info>
+<info gid="4187798045" type="Alternative title" lang="AR">يوغي يو</info>
+<info gid="1315473765" type="Alternative title" lang="JA">遊戯王 デュエルモンスターズ</info>
+<info gid="3962617486" type="Alternative title" lang="ZH-TW">遊戲王 怪獸之決鬥</info>
+<info gid="2599101232" type="Genres">action</info>
+<info gid="2045373646" type="Genres">drama</info>
+<info gid="1916375756" type="Genres">fantasy</info>
+<info gid="2488386273" type="Genres">tournament</info>
+<info gid="2343890031" type="Themes">card games</info>
+<info gid="1723333675" type="Themes">duels</info>
+<info gid="2469893469" type="Themes">monsters</info>
+<info gid="597788840" type="Objectionable content">OC</info>
+<info gid="779539490" type="Plot Summary">3000 years ago marked the turning point of an Egyptian dynasty; the Pharaoh's spirit was sealed inside one of the ancient relics, the Millennium Puzzle, after saving the kingdom from an enemy army. Now, in the present age, the Millennium Puzzle is found by a young boy, Yugi Mutou, who unlocks the spirit of the puzzle and is possessed by the sprit of the old Pharaoh, who lost all of his memories from his old life. As a thank you to the spirit who saved him from bullies and gave him new friends, Yugi decided to help the spirit out and find a way to recover his lost memories and send him to the after life.</info>
+<info gid="1643895808" type="Running time">24</info>
+<info gid="752960990" type="Number of episodes">224</info>
+<info gid="2620907155" type="Vintage">2000-04-18 to 2004-09-29 (Japan)</info>
+<info gid="2456102066" type="Vintage">2001 to 2006-11-20 (Canada, YTV)</info>
+<info gid="1778807690" type="Vintage">2001-09-29 to 2006 (Kids' WB! US broadcast)</info>
+<info gid="3103919697" type="Vintage">2002-04-26 to 2006-11-10 (Nickelodeon Latin America)</info>
+<info gid="2032508771" type="Vintage">2003-09-08 (Italy - Italia 1)</info>
+<info gid="3916317078" type="Vintage">2004-01-03 (Poland - Polsat)</info>
+<info gid="2090345766" type="Vintage">2007-03-12 (Nickelodeon Latin América)</info>
+<info gid="2049608763" type="Vintage">2015-03-23 (Brazil - PlayTV)</info>
+<info gid="2565357233" type="Opening Theme">#1: &quot;Voice&quot; by CLOUD (eps 1-48)</info>
+<info gid="2578280119" type="Opening Theme">#2: &quot;Shuffle&quot; by Masami Okui (eps 49-80)</info>
+<info gid="856060699" type="Opening Theme">#3: &quot;Wild Drive&quot; by Masato Nagai (eps 81-131)</info>
+<info gid="2233334841" type="Opening Theme">#4: &quot;Warriors&quot; by Yūichi Ikusawa (eps 132-189)</info>
+<info gid="1637322760" type="Opening Theme">#5: &quot;Overlap&quot; by Kimeru (eps 190-224)</info>
+<info gid="768444818" type="Ending Theme">#1: &quot;Genki no Shower&quot; (元気のシ���ワー) by Aki Maeda</info>
+<info gid="2742410308" type="Ending Theme">#2: &quot;Ano Hi no Gogo&quot; (あの日の午後) by Masami Okui (eps 49-80)</info>
+<info gid="3284290994" type="Ending Theme">#3: &quot;Rakuen&quot; (楽園) by CAVE (eps 81-131)</info>
+<info gid="2382096868" type="Ending Theme">#4: &quot;Afureru Kanjō ga Tomaranai&quot; (あふれる感情がとまらない) by Yūichi Ikusawa (eps 132-189)</info>
+<info gid="3104784828" type="Ending Theme">#5: &quot;EYE'S&quot; by Yūichi Ikusawa (eps 190-224)</info>
+<info gid="1042893145" type="Official website" lang="EN" href="http://www.yugioh.com">Yugioh Millennia</info>
+<info gid="3734518745" type="Official website" lang="JA" href="http://www.tv-tokyo.co.jp/anime/yugioh2000/">遊戯王 デュエルモンスターズ @ TV Tokyo</info>
+<ratings nb_votes="1164" weighted_score="6.2757" bayesian_score="6.28948"/>
+<episode num="1">
+<title gid="1452574329" lang="EN">Terrifying Blue-Eyes White Dragon</title></episode>
+<episode num="2">
+<title gid="3729730143" lang="EN">The Illusionist's No Face's Trap</title></episode>
+<episode num="3">
+<title gid="3479663212" lang="EN">Loss of Exodia</title></episode>
+<episode num="4">
+<title gid="641343444" lang="EN">The Insector Combo</title></episode>
+<episode num="5">
+<title gid="2249938373" lang="EN">Perfectly Evolved Great Moth</title></episode>
+<episode num="6">
+<title gid="1640149874" lang="EN">Beautiful Harpy Ladies</title></episode>
+<episode num="7">
+<title gid="1415130238" lang="EN">Sea God Leviathan</title></episode>
+<episode num="8">
+<title gid="2427051073" lang="EN">Stolen Blue-Eyes White Dragon</title></episode>
+<episode num="9">
+<title gid="1461488977" lang="EN">Back From the Dead! Magic Silk Hat!</title></episode>
+<episode num="10">
+<title gid="4088851103" lang="EN">Blue-Eyes White Dragon's Counter Attack</title></episode>
+<episode num="11">
+<title gid="2958826514" lang="EN">Strength of Friendship, Barbarian 1 and 2</title></episode>
+<episode num="12">
+<title gid="1204025224" lang="EN">Black Flame, Red-Eyes Black Dragon</title></episode>
+<episode num="13">
+<title gid="2476691760" lang="EN">Metamol Pot's Trap! Flame Swordsman in Danger!</title></episode>
+<episode num="14">
+<title gid="2032165188" lang="EN">The Castle Which Spreads the Darkness</title></episode>
+<episode num="15">
+<title gid="3765283761" lang="EN">Cut Through the Darness! Sealing Swords of Light!</title></episode>
+<episode num="16">
+<title gid="1496663374" lang="EN">Clash! Red-Eyes VS White-Eyes!</title></episode>
+<episode num="17">
+<title gid="2295605876" lang="EN">Terror! Cry of the Living Dead</title></episode>
+<episode num="18">
+<title gid="1083066115" lang="EN">Shield in Right Hand, Sword in Left Hand</title></episode>
+<episode num="19">
+<title gid="1925159199" lang="EN">Tag Duel in a Labyrinth</title></episode>
+<episode num="20">
+<title gid="2260072521" lang="EN">Three Gods Combine, Gate Guardian</title></episode>
+<episode num="21">
+<title gid="2974829739" lang="EN">Black Demon Dragon</title></episode>
+<episode num="22">
+<title gid="3645827182" lang="EN">Fated Duel! Yugi VS Kaiba</title></episode>
+<episode num="23">
+<title gid="1323905362" lang="EN">Beautiful! Perfect! Ultimate Dragon</title></episode>
+<episode num="24">
+<title gid="1060830229" lang="EN">Kuribo Multiply! Astonishing Results!</title></episode>
+<episode num="25">
+<title gid="528967391" lang="EN">A Duel in Tears</title></episode>
+<episode num="26">
+<title gid="2013932352" lang="EN">Rescue Mokuba! Kaiba VS Pegasus</title></episode>
+<episode num="27">
+<title gid="3373763641" lang="EN">Kaiba Falls! Invincible Toon World!</title></episode>
+<episode num="28">
+<title gid="2749280110" lang="EN">Night Before the Finals! Pegasus' Secret!</title></episode>
+<episode num="29">
+<title gid="2257426012" lang="EN">Driven to Desperation! Temptation' Shadow!</title></episode>
+<episode num="30">
+<title gid="3689914011" lang="EN">The Legendary Soldier - Chaos Soldier Descends</title></episode>
+<episode num="31">
+<title gid="1967563935" lang="EN">Brutal Heavy Metal Deck</title></episode>
+<episode num="32">
+<title gid="2009434452" lang="EN">Times Up! Red Eyes Black Metal Dragon!</title></episode>
+<episode num="33">
+<title gid="2003849854" lang="EN">A Game of Friendship - Yugi VS Jounouchi</title></episode>
+<episode num="34">
+<title gid="1421524373" lang="EN">A Game of Friendship - Yugi VS Jounouchi</title></episode>
+<episode num="35">
+<title gid="780003835" lang="EN">Final Duel - Yugi VS Pegasus</title></episode>
+<episode num="36">
+<title gid="2006037265" lang="EN">All Atatcks Ineffective? Invincible Toon Army</title></episode>
+<episode num="37">
+<title gid="2457354552" lang="EN">Begin the Counterattack! Mind Shuffle</title></episode>
+<episode num="38">
+<title gid="2493953474" lang="EN">The Wicked Eye Opens - Sacrifice</title></episode>
+<episode num="39">
+<title gid="2659002377" lang="EN">Fusion of Light and Darkness! Black Chaos Descends!</title></episode>
+<episode num="40">
+<title gid="3819264246" lang="EN">King of Duelists</title></episode>
+<episode num="41">
+<title gid="2950488900" lang="EN">The Girl from America</title></episode>
+<episode num="42">
+<title gid="908577336" lang="EN">Deadly Shawdow Ghoul.</title></episode>
+<episode num="43">
+<title gid="2162552988" lang="EN">The Big 5's Trap: Duel Monsters Quest.</title></episode>
+<episode num="44">
+<title gid="218359200" lang="EN">Duel Monster's Quest 2:The Legendary Hero Yuugi</title></episode>
+<episode num="45">
+<title gid="641492380" lang="EN">Duel Monsters Quest 3: Master of Dragon Knight.</title></episode>
+<episode num="46">
+<title gid="2461515031" lang="EN">Mysterious Transfer Student Otogi Ryuuji.</title></episode>
+<episode num="47">
+<title gid="2688441582" lang="EN">Showdown! Dungeon Dice Monsters.</title></episode>
+<episode num="48">
+<title gid="1962428305" lang="EN">Yugi's Desperate Battle: God Orguss's Violent Attack.</title></episode>
+<episode num="49">
+<title gid="3196489933" lang="EN">The Miracle Dimension: The Black Magician Summon.</title></episode>
+<episode num="50">
+<title gid="2559363726" lang="EN">[Part 2: BATTLE CITY DUELS] Challenge from the Past: Horrifying Zera.</title></episode>
+<episode num="51">
+<title gid="1850331885" lang="EN">The Broken Millennium Puzzle.</title></episode>
+<episode num="52">
+<title gid="2392982203" lang="EN">The Lost Memory of the Pharaoh.</title></episode>
+<episode num="53">
+<title gid="1906520644" lang="EN">Fiery Dance Battle.</title></episode>
+<episode num="54">
+<title gid="2466705966" lang="EN">This Town Becomes Battle City!</title></episode>
+<episode num="55">
+<title gid="2768075748" lang="EN">Ghouls Attack: Take Aim at Red Eyes Black Dragon.</title></episode>
+<episode num="56">
+<title gid="1409612177" lang="EN">Fierce Fight! Battle City Begins.</title></episode>
+<episode num="57">
+<title gid="1083535579" lang="EN">Turn the Tables: Chain Destruction.</title></episode>
+<episode num="58">
+<title gid="805448608" lang="EN">Esper Roba: Psychic Deck Terror.</title></episode>
+<episode num="59">
+<title gid="3416113041" lang="EN">The Couragous Bet: Spinning Roulette Spider.</title></episode>
+<episode num="60">
+<title gid="2715696045" lang="EN">Black Magician User Pandora.</title></episode>
+<episode num="61">
+<title gid="2474392225" lang="EN">Soul of the Black Magician.</title></episode>
+<episode num="62">
+<title gid="3197857928" lang="EN">Magician's Disciple: Black Magician Girl.</title></episode>
+<episode num="63">
+<title gid="3585418627" lang="EN">Trap of Revenge: Reckless! Parasite.</title></episode>
+<episode num="64">
+<title gid="820759242" lang="EN">Steel Knight Gearfried.</title></episode>
+<episode num="65">
+<title gid="350396923" lang="EN">Malik's Opening Play: God Combo.</title></episode>
+<episode num="66">
+<title gid="289811331" lang="EN">Saint Dragon - The God of Osiris.</title></episode>
+<episode num="67">
+<title gid="2248753830" lang="EN">Overcoming God! The Ultimate Infinite Loop.</title></episode>
+<episode num="68">
+<title gid="4239657622" lang="EN">Unseen Enemy: Sea Stealth II.</title></episode>
+<episode num="69">
+<title gid="1696518357" lang="EN">Legendary Fisherman.</title></episode>
+<episode num="70">
+<title gid="1287195596" lang="EN">Spell of the Mask: The Skyscraper Duel.</title></episode>
+<episode num="71">
+<title gid="2989297526" lang="EN">Sealed God Cards.</title></episode>
+<episode num="72">
+<title gid="2345732066" lang="EN">Cooperate Please!</title></episode>
+<episode num="73">
+<title gid="1996278311" lang="EN">Obelisk The Great War God.</title></episode>
+<episode num="74">
+<title gid="3027647642" lang="EN">Bonds.</title></episode>
+<episode num="75">
+<title gid="3560518718" lang="EN">The Coldhearted Duel: Yugi vs Jounouchi.</title></episode>
+<episode num="76">
+<title gid="1724721884" lang="EN">Report! Friendship's Red Eyes Black Dragon.</title></episode>
+<episode num="77">
+<title gid="3031247276" lang="EN">Countdown to Desperation.</title></episode>
+<episode num="78">
+<title gid="733901502" lang="EN">Attack Me! The Fatal Last Turn.</title></episode>
+<episode num="79">
+<title gid="3972983634" lang="EN">Ghost Deck vs Occult Deck.</title></episode>
+<episode num="80">
+<title gid="2262076609" lang="EN">Meet Ninja Master Magnum.</title></episode>
+<episode num="81">
+<title gid="1150786759" lang="EN">[Part 3: BATTLE SHIP/NOA'S FORTRESS] Battle Ship Take Off!</title></episode>
+<episode num="82">
+<title gid="1552302426" lang="EN">The First Sky Duel: Yugi vs Dark Bakura.</title></episode>
+<episode num="83">
+<title gid="1273330093" lang="EN">Ouija Board's Death Call.</title></episode>
+<episode num="84">
+<title gid="1104107060" lang="EN">God Smashes the Darkness.</title></episode>
+<episode num="85">
+<title gid="2730898466" lang="EN">Hidden Power: The Purpose of the God Cards.</title></episode>
+<episode num="86">
+<title gid="2076069486" lang="EN">Jounouchi vs The Trap Deck.</title></episode>
+<episode num="87">
+<title gid="657903997" lang="EN">The Inherited Card: Psycho Shocker Counterattack!</title></episode>
+<episode num="88">
+<title gid="2395900170" lang="EN">Summon Ra the Winged God Dragon.</title></episode>
+<episode num="89">
+<title gid="1808424407" lang="EN">Ra's Rage: Stand Up Jounouchi!</title></episode>
+<episode num="90">
+<title gid="2767319698" lang="EN">Mai vs Malik: Duel of Darkness.</title></episode>
+<episode num="91">
+<title gid="2228927469" lang="EN">Capturing the God Card.</title></episode>
+<episode num="92">
+<title gid="3568410202" lang="EN">The Riddle of the Hieratic Text.</title></episode>
+<episode num="93">
+<title gid="2390040497" lang="EN">Kaiba vs the Eighth Duelist (Isis).</title></episode>
+<episode num="94">
+<title gid="1825712266" lang="EN">One Attack Changes the Future.</title></episode>
+<episode num="95">
+<title gid="1881610260" lang="EN">The Truth About the Ishtars Revealed.</title></episode>
+<episode num="96">
+<title gid="2438917969" lang="EN">Malik vs Bakura.</title></episode>
+<episode num="97">
+<title gid="1720021493" lang="EN">One Turn Kill.</title></episode>
+<episode num="98">
+<title gid="1341663617" lang="EN">The Unknown Challenger: The Huge Mobile Fortress Surfaces.</title></episode>
+<episode num="99">
+<title gid="3094728226" lang="EN">Deck Master: Deep Sea Warrior.</title></episode>
+<episode num="100">
+<title gid="1561854267" lang="EN">The Terrifying Revival Combo.</title></episode>
+<episode num="101">
+<title gid="2225632829" lang="EN">Counterattacking Rainbow Arch.</title></episode>
+<episode num="102">
+<title gid="1239235267" lang="EN">Iceberg Duel: Anzu Targeted.</title></episode>
+<episode num="103">
+<title gid="954340398" lang="EN">Shine! The Jewel of the Sage.</title></episode>
+<episode num="104">
+<title gid="1435662195" lang="EN">Deck Master: Judge Man's Judgment.</title></episode>
+<episode num="105">
+<title gid="1991619113" lang="EN">Betting on Victory</title></episode>
+<episode num="106">
+<title gid="3747066064" lang="EN">A Man's Passage to the Stage: Honda's Death for Honor.</title></episode>
+<episode num="107">
+<title gid="1238400353" lang="EN">St. Jannu: The Trinity's Attack.</title></episode>
+<episode num="108">
+<title gid="1961753917" lang="EN">Kidnaped Mokuba: Kaiba vs Psycho Shocker.</title></episode>
+<episode num="109">
+<title gid="3898144002" lang="EN">Attack from Space: Satellite Cannon.</title></episode>
+<episode num="110">
+<title gid="1904923648" lang="EN">The Mystery Deepens: Noa's True Colors.</title></episode>
+<episode num="111">
+<title gid="1199415896" lang="EN">The Big 5's Counterattack.</title></episode>
+<episode num="112">
+<title gid="1644449257" lang="EN">Jounouchi Targeted: Working Together for Victory.</title></episode>
+<episode num="113">
+<title gid="2758196209" lang="EN">Defeat Five God Dragon!</title></episode>
+<episode num="114">
+<title gid="1913053203" lang="EN">Noah vs Seto: Duel of the Creation of Heaven and Earth.</title></episode>
+<episode num="115">
+<title gid="3016289746" lang="EN">Invincible Deck Master: The Miracle Ark.</title></episode>
+<episode num="116">
+<title gid="73263371" lang="EN">Save Mokuba! The Fateful Seventh Turn.</title></episode>
+<episode num="117">
+<title gid="966934062" lang="EN">The Deck Taken Over: Yugi vs Noah.</title></episode>
+<episode num="118">
+<title gid="1335601277" lang="EN">LP 10000 vs 100!!</title></episode>
+<episode num="119">
+<title gid="1960360250" lang="EN">The Kaiba Family's Darkness.</title></episode>
+<episode num="120">
+<title gid="2429957663" lang="EN">Exodia Necross</title></episode>
+<episode num="121">
+<title gid="778484871" lang="EN">Escape! The End of Noa.</title></episode>
+<episode num="122">
+<title gid="2686465072" lang="EN">The Location of the Finals, Alcatraz. [Back to Battle City, Part 1.]</title></episode>
+<episode num="123">
+<title gid="1256887701" lang="EN">Battle Royal. [Back to Battle City, Part 2]</title></episode>
+<episode num="124">
+<title gid="2316566956" lang="EN">The Respective Opponents. [Back to Battle City, Part 3]</title></episode>
+<episode num="125">
+<title gid="1274289427" lang="EN">Jounouchi vs Malik, Part 1. [The Darkness Returns, Part 1]</title></episode>
+<episode num="126">
+<title gid="2450368710" lang="EN">Jounouchi vs Malik, Part 2. [The Darkness Returns, Part 2]</title></episode>
+<episode num="127">
+<title gid="1074466982" lang="EN">The Tables Turn: Gilford the Lightning. [The Darkness Returns, Part 3]</title></episode>
+<episode num="128">
+<title gid="1457073727" lang="EN">Jounouchi Falls. [The Darkness Returns, Part 4]</title></episode>
+<episode num="129">
+<title gid="2912030428" lang="EN">The Sky Coliseum: Yugi vs Kaiba. [Clash in the Coliseum, Part 1]</title></episode>
+<episode num="130">
+<title gid="1203207091" lang="EN">Three Knights to Call a God. [Clash in the Coliseum, Part 2]</title></episode>
+<episode num="131">
+<title gid="2890054467" lang="EN">Clash! Osiris vs Obelisk. [Clash in the Coliseum, Part 3]</title></episode>
+<episode num="132">
+<title gid="2213594778" lang="EN">Inherit the Destined Duel. [Clash in the Coliseum, Part 4]</title></episode>
+<episode num="133">
+<title gid="1344119624" lang="EN">Promise to a Friend: Red-Eyes Black Dragon. [Clash in the Coliseum, Part 5]</title></episode>
+<episode num="134">
+<title gid="1072488474" lang="EN">Defeat Hatred! Black Paladin. [Clash in the Coliseum, Part 6]</title></episode>
+<episode num="135">
+<title gid="2596950181" lang="EN">The Ordinary Duelist's Road of Flame: Jounouchi vs Kaiba. [Battle for the Bronze, Part 1]</title></episode>
+<episode num="136">
+<title gid="2070728302" lang="EN">Blue-Eyes White Dragon vs Blue-Eyes White Dragon. [Battle for the Bronze, Part 2]</title></episode>
+<episode num="137">
+<title gid="578281161" lang="EN">The Road to Becoming a True Duelist. [Battle for the Bronze, Part 3]</title></episode>
+<episode num="138">
+<title gid="1788330627" lang="EN">The Final: Yugi vs Malik. [The Final Face Off, Part 1]</title></episode>
+<episode num="139">
+<title gid="2217214041" lang="EN">Devil's Sanctuary Called! [The Final Face Off, Part 2]</title></episode>
+<episode num="140">
+<title gid="3064719291" lang="EN">Immortal Wall: God Slime. [The Final Face Off, Part 3]</title></episode>
+<episode num="141">
+<title gid="2009014510" lang="EN">Obelisk's Anger: Soul Energy—MAX. [The Final Face Off, Part 4]</title></episode>
+<episode num="142">
+<title gid="1539333717" lang="EN">The End of Battle City. [The Final Face Off, Part 5]</title></episode>
+<episode num="143">
+<title gid="2179871912" lang="EN">Alcatraz Burns. [One for the Road]</title></episode>
+<episode num="144">
+<title gid="1641885312" lang="EN">Signs. [Looking Back and Moving Ahead]</title></episode>
+<episode num="145">
+<title gid="2584194766" lang="EN">[(2/18/2003)] [Part 5: DEATH OF ORICHALCOS] A New Dark Turmoil. [(9/11/2004)] [A New Evil, Part 1]</title></episode>
+<episode num="146">
+<title gid="2222731871" lang="EN">The Seal of Orichalcos. [A New Evil, Part 2]</title></episode>
+<episode num="147">
+<title gid="2776579044" lang="EN">The Nameless Dragon, Timaeus. [Legend of the Dragons]</title></episode>
+<episode num="148">
+<title gid="2626262039" lang="EN">Pegasus's Invitation. [The Creator Returns]</title></episode>
+<episode num="149">
+<title gid="2838807673" lang="EN">Toon World Nightmare. [Deja Duel! Part 1]</title></episode>
+<episode num="150">
+<title gid="3688211923" lang="EN">Wake Up Critius! [Deja Duel! Part 2]</title></episode>
+<episode num="151">
+<title gid="341273608" lang="EN">An Unexpected Enemy. [&quot; &quot;]</title></episode>
+<episode num="152">
+<title gid="2873838734" lang="EN">Mai Fallen Into Darkness. [My Freaky Valentine, Part 1]</title></episode>
+<episode num="153">
+<title gid="3098105453" lang="EN">Revive! The Third Dragon. [My Freaky Valentine, Part 2]</title></episode>
+<episode num="154">
+<title gid="1004321814" lang="EN">The Miracle of Helmos. [My Freaky Valentine, Part 3]</title></episode>
+<episode num="155">
+<title gid="2592588383" lang="EN">Target the Nameless Pharaoh. [The Challenge]</title></episode>
+<episode num="156">
+<title gid="2283232590" lang="EN">Yugi vs Rafael's Iron Wall Guardian Deck. [Fate of the Pharaoh, Part 1]</title></episode>
+<episode num="157">
+<title gid="3321384377" lang="EN">The Truth About Doma. [Fate of the Pharaoh, Part 2]</title></episode>
+<episode num="158">
+<title gid="2627527257" lang="EN">The Darkness Within Yugi: Timaeus Disappears. [Fate of the Pharaoh, Part 3]</title></episode>
+<episode num="159">
+<title gid="2124240458" lang="EN">The Separated Souls. [Trial by Stone]</title></episode>
+<episode num="160">
+<title gid="2066649361" lang="EN">Haga &amp; Ryuuzaki: Soul Bet Duel - Part 1. [On the Wrong Track, Part 1]</title></episode>
+<episode num="161">
+<title gid="2154361618" lang="EN">Haga &amp; Ryuuzaki: Soul Bet Duel - Part 2. [On the Wrong Track, Part 2]</title></episode>
+<episode num="162">
+<title gid="921956242" lang="EN">Timaeus Invoked. [On the Wrong Track, Part 3]</title></episode>
+<episode num="163">
+<title gid="3787859060" lang="EN">Showdown! The Two Yugis! [Self Destruction]</title></episode>
+<episode num="164">
+<title gid="664863597" lang="EN">Orichalcos Soldier. [Reliving the Past]</title></episode>
+<episode num="165">
+<title gid="717879895" lang="EN">Varon Begins! Enigmatic Dark Deck. [Deck of Armor]</title></episode>
+<episode num="166">
+<title gid="3247560271" lang="EN">Amelda's Sky Duel of Revenge. [Flight of Fear, Part 1]</title></episode>
+<episode num="167">
+<title gid="2085874972" lang="EN">Air Fortress Ziggurat - Part 1. [Flight of Fear, Part 2]</title></episode>
+<episode num="168">
+<title gid="877424936" lang="EN">Air Fortress Ziggurat - Part 2. [Paradise Found]</title></episode>
+<episode num="169">
+<title gid="2708133787" lang="EN">Crash! Jounouchi vs Varon. [Fighting for a Friend, Part 1]</title></episode>
+<episode num="170">
+<title gid="1110501431" lang="EN">Full Armor Gravitation. [Fighting for a Friend, Part 2]</title></episode>
+<episode num="171">
+<title gid="3305023838" lang="EN">Resounding Soul. [Fighting for a Friend, Part 3]</title></episode>
+<episode num="172">
+<title gid="686808373" lang="EN">At the End of a Fierce Battle. [Fighting for a Friend, Part 4]</title></episode>
+<episode num="173">
+<title gid="3498723799" lang="EN">Bitter Victory (Jounouchi's Fall). [Fighting for a Friend, Part 5]</title></episode>
+<episode num="174">
+<title gid="2145069786" lang="EN">The Destined Duel: Yugi vs Rapheal. [Grappling with a Guardian, Part 1]</title></episode>
+<episode num="175">
+<title gid="829402014" lang="EN">Immortal! Guardian Deathscythe. [Grappling with a Guardian, Part 2]</title></episode>
+<episode num="176">
+<title gid="1300281843" lang="EN">Smash the Darkness of the Heart! [Grappling with a Guardian, Part 3]</title></episode>
+<episode num="177">
+<title gid="1183609480" lang="EN">[(10/29/2003)] To the Final Battleground! Dartz vs Yugi &amp; Kaiba. [</title></episode>
+<episode num="178">
+<title gid="2176972292" lang="EN">[(11/5/2003)] The History and Tragedy of Atlantis. [</title></episode>
+<episode num="179">
+<title gid="662025872" lang="EN">[(11/12/2003)] Captive Mirror Knights. [</title></episode>
+<episode num="180">
+<title gid="841558831" lang="EN">[(11/19/2003)] Orichalcos' Third and Final Seal. [</title></episode>
+<episode num="181">
+<title gid="1362497508" lang="EN">Arise! The Three Legendary Knights. [A Duel with Dartz, Part 5]</title></episode>
+<episode num="182">
+<title gid="1405159825" lang="EN">[(12/3/2003)] Infinite Attack Power Evil God Gê. [A Duel with Dartz, Part 6]</title></episode>
+<episode num="183">
+<title gid="2031488210" lang="EN">Battle of the Gods. [Rise of the Great Beast, Part 1]</title></episode>
+<episode num="184">
+<title gid="2060287592" lang="EN">[(12/17/2003)] Walking in the Light. [Rise of the Great Beast, Part 2]</title></episode>
+<episode num="185">
+<title gid="2150276337" lang="EN">[(27-08-05)] Unwanted Guest (Part 1 of 2)</title></episode>
+<episode num="186">
+<title gid="1773544480" lang="EN">[(27-08-05)] Unwanted Guest (Part 2 of 2)</title></episode>
+<episode num="187">
+<title gid="2892998510" lang="EN">Let The Games Begin! (Part 1 of 2)</title></episode>
+<episode num="188">
+<title gid="984948789" lang="EN">Let The Games Begin! (Part 2 of 2)</title></episode>
+<episode num="189">
+<title gid="720446384" lang="EN">Child's Play</title></episode>
+<episode num="190">
+<title gid="2135568030" lang="EN">Down In Flames (Part 1 of 2)</title></episode>
+<episode num="191">
+<title gid="1558928236" lang="EN">Down In Flames (Part 2 of 2)</title></episode>
+<episode num="192">
+<title gid="1185058973" lang="EN">A Brawl In Small Town (Part 1 of 2)</title></episode>
+<episode num="193">
+<title gid="2225961613" lang="EN">A Brawl In Small Town (Part 2 of 2)</title></episode>
+<episode num="194">
+<title gid="3556100658" lang="EN">Kaiba's Confusion! The Decisive Battle of KC Grand Prix (1)</title></episode>
+<episode num="195">
+<title gid="1862723804" lang="EN">Walkure vs. Blue-Eyes White Dragon (2)</title></episode>
+<episode num="196">
+<title gid="1721015738" lang="EN">The Decisive Battle of Duel King - Yugi vs. Leon (1)</title></episode>
+<episode num="197">
+<title gid="1091316554" lang="EN">Stormburg, Castle of Gold (2)</title></episode>
+<episode num="198">
+<title gid="2657116388" lang="EN">The End of KC Grand Prix (3)</title></episode>
+<episode num="199">
+<title gid="2926118853" lang="EN">Ultimate Game</title></episode>
+<episode num="200">
+<title gid="2988232462" lang="EN">Yami Bakura on the Move</title></episode>
+<episode num="201">
+<title gid="603479258" lang="EN">The Door of Memory Opens</title></episode>
+<episode num="202">
+<title gid="2748342991" lang="EN">Watch Out! Bakura: King of Thieves</title></episode>
+<episode num="203">
+<title gid="1989059621" lang="EN">Mahado's Decision</title></episode>
+<episode num="204">
+<title gid="2108403929" lang="EN">Battle to the Death! Mahado Vs. Bakura</title></episode>
+<episode num="205">
+<title gid="1335757812" lang="EN">Blue Eyed Kisara</title></episode>
+<episode num="206">
+<title gid="2033826620" lang="EN">Secret of the Creation of the Millennium Items (1)</title></episode>
+<episode num="207">
+<title gid="2528030512" lang="EN">Wound Back Time (2)</title></episode>
+<episode num="208">
+<title gid="1380339135" lang="EN">The Pharaoh Has Survived</title></episode>
+<episode num="209">
+<title gid="1806311455" lang="EN">The Village Of Dead Spirits (1)</title></episode>
+<episode num="210">
+<title gid="2250258873" lang="EN">The End of Thief King Bakura (2)</title></episode>
+<episode num="211">
+<title gid="1688585764" lang="EN">New Stage</title></episode>
+<episode num="212">
+<title gid="1118505161" lang="EN">The Dark Priest</title></episode>
+<episode num="213">
+<title gid="2243850626" lang="EN">Countdown to Great Demon Revival</title></episode>
+<episode num="214">
+<title gid="994810356" lang="EN">White Dragon</title></episode>
+<episode num="215">
+<title gid="2002269712" lang="EN">Revival of the Great Demon Zork (1)</title></episode>
+<episode num="216">
+<title gid="2365226523" lang="EN">The Legendary Protector God, Exodia Revives! (2)</title></episode>
+<episode num="217">
+<title gid="1539598694" lang="EN">Summon! The Three Gods (3)</title></episode>
+<episode num="218">
+<title gid="2614377389" lang="EN">Zork Vs. Blue Eyes Ultimate Dragon (4)</title></episode>
+<episode num="219">
+<title gid="554624333" lang="EN">In the Name of the Pharaoh!! (5)</title></episode>
+<episode num="220">
+<title gid="1670490953" lang="EN">The Final Test</title></episode>
+<episode num="221">
+<title gid="2106916665" lang="EN">Last Duel of Destiny (1)</title></episode>
+<episode num="222">
+<title gid="2718746956" lang="EN">Defeat the Three Gods! (2)</title></episode>
+<episode num="223">
+<title gid="2494559004" lang="EN">Strong Heart - Tender Heart (3)</title></episode>
+<episode num="224">
+<title gid="2152482635" lang="EN">The Story That Completes in the Light (4)</title></episode>
+<release date="2003-01-14" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=16171">Yu-Gi-Oh! - Evil Spirit Of The Ring (DVD 5)</release>
+<release date="2003-01-14" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=16172">Yu-Gi-Oh! - The Scars Of Defeat (DVD 6)</release>
+<release date="2007-11-13" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=9991">Yu-Gi-Oh! Duel Monsters - Season 5: Dawn of the Duel (Edited) (DVD 2)</release>
+<release date="2014-07-15" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=26732">Yu-Gi-Oh! - The Complete Set (DVD)</release>
+<release date="2004-07-27" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2795">Yu-Gi-Oh! -  Friends Til The End (DVD 23)</release>
+<release date="2002-09-24" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=772">Yu-Gi-Oh! Duel Monsters - The Heart of the Cards (DVD 1)</release>
+<release date="2004-10-19" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2969">Yu-Gi-Oh! Duel Monsters - The Shadow Games Uncut (DVD 1)</release>
+<release date="2002-09-24" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=784">Yu-Gi-Oh! Duel Monsters - Into the Hornet's Nest (DVD 2)</release>
+<release date="2004-10-19" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2970">Yu-Gi-Oh! Duel Monsters - The Insector Combo Uncut (DVD 2)</release>
+<release date="2002-11-05" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=926">Yu-Gi-Oh! Duel Monsters - Attack From the Deep (DVD 3)</release>
+<release date="2005-02-22" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=3552">Yu-Gi-Oh! Duel Monsters - Uncut - Stolen: Blue-Eyes White Dragon (DVD 3)</release>
+<release date="2002-11-05" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=927">Yu-Gi-Oh! Duel Monsters - Give Up the Ghost (DVD 4)</release>
+<release date="2005-04-05" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=4157">Yu-Gi-Oh! Duel Monsters - Black Frame: Red Eyes Black Dragon Uncut (DVD 4)</release>
+<release date="2005-05-31" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=4158">Yu-Gi-Oh! Duel Monsters - Uncut (DVD 5)</release>
+<release date="2003-03-18" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1336">Yu-Gi-Oh! Duel Monsters - Double Trouble Duel [Edited] (DVD 7)</release>
+<release date="2003-03-18" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1338">Yu-Gi-Oh! Duel Monsters - Face Off: Yugi vs. Kaiba [Edited] (DVD 8)</release>
+<release date="2003-05-06" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1340">Yu-Gi-Oh! Duel Monsters - Champion vs. Creator [Edited] (DVD 9)</release>
+<release date="2003-05-06" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1090">Yu-Gi-Oh! Duel Monsters - Duel Identity (DVD 10)</release>
+<release date="2003-07-22" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1400">Yu-Gi-Oh! Duel Monsters - Best of Friends, Best of Duelists [Edited] (DVD 11)</release>
+<release date="2003-08-19" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1402">Yu-Gi-Oh! Duel Monsters - Match of the Millennium Part I [Edited] (DVD 12)</release>
+<release date="2003-09-16" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1713">Yu-Gi-Oh! Duel Monsters - March of the Millennium Part II [Edited] (DVD 13)</release>
+<release date="2003-10-14" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1716">Yu-Gi-Oh! Duel Monsters - Ties of Friendship [Edited] (DVD 14)</release>
+<release date="2003-10-14" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1718">Yu-Gi-Oh! Duel Monsters - Legendary Heroes [Edited] (DVD 15)</release>
+<release date="2003-11-11" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2167">Yu-Gi-Oh! Duel Monsters -  Dungeon Dice Monsters [Edited] + Limited Figure (DVD 16)</release>
+<release date="2003-11-11" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2166">Yu-Gi-Oh! Duel Monsters - Dungeon Dice Monsters [Edited] (DVD 16)</release>
+<release date="2004-01-27" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2264">Yu-Gi-Oh! Duel Monsters - The Mystery Duelist (Edited) (DVD 17)</release>
+<release date="2004-01-27" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2265">Yu-Gi-Oh! Duel Monsters - Obelisk the Tormentor (DVD 18)</release>
+<release date="2004-03-23" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2386">Yu-Gi-Oh! Duel Monsters - The ESP Dualist DVD (DVD 19)</release>
+<release date="2004-03-23" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2388">Yu-Gi-Oh! Duel Monsters - The Master of Magicians (DVD 20)</release>
+<release date="2004-06-01" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2793">Yu-Gi-Oh! Duel Monsters - Mime Control (DVD 21)</release>
+<release date="2004-06-01" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2794">Yu-Gi-Oh! Duel Monsters - Double Duel (DVD 22)</release>
+<release date="2004-09-28" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=3020">Yu-Gi-Oh! Duel Monsters - The Dark Spirit Revealed Edited (DVD 24)</release>
+<release date="2004-11-16" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=3132">Yu-Gi-Oh! Duel Monsters - Awakening the Evil Edited (DVD 25)</release>
+<release date="2004-12-28" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=3440">Yu-Gi-Oh! Duel Monsters - Edited (DVD 27)</release>
+<release date="2004-03-23" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2389">Yu-Gi-Oh! Duel Monsters - Season 1 DVD Box Set (DVD 1-8)</release>
+<release date="2003-11-18" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2195">Yu-Gi-Oh! Duel Monsters - Championship Box Set (DVD 11-13)</release>
+<release date="2007-01-30" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=7608">Yu-Gi-Oh! Duel Monsters - Season 5 Edited (Dub.DVD)</release>
+<release date="2008-03-04" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=10827">Yu-Gi-Oh! Duel Monsters - Season 2 DVD Box Set (Dub.DVD)</release>
+<release date="2007-05-29" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=8212">Yu-Gi-Oh! Duel Monsters - Dawn of the Duel (Dub.DVD 5.1)</release>
+<release date="2013-09-10" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=24774">Yu-Gi-Oh! - Season 1 Volume 1 (Dub.DVD)</release>
+<release date="2013-09-10" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=24775">Yu-Gi-Oh! - Season 1 Volume 2 (Dub.DVD)</release>
+<release date="2013-09-10" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=24772">Yu-Gi-Oh! - The Official First Season (Dub.DVD)</release>
+<release date="2013-11-05" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=25013">Yu-Gi-Oh! - Season 2 Volume 1 (Dub.DVD)</release>
+<release date="2013-11-05" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=25014">Yu-Gi-Oh! - Season 2 Volume 2 (Dub.DVD)</release>
+<release date="2013-11-05" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=24773">Yu-Gi-Oh! - The Official Second Season (Dub.DVD)</release>
+<release date="2014-01-14" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=25016">Yu-Gi-Oh! - Season 3 Volume 1 (Dub.DVD)</release>
+<release date="2014-01-14" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=25017">Yu-Gi-Oh! - Season 3 Volume 2 (Dub.DVD)</release>
+<release date="2014-01-14" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=25015">Yu-Gi-Oh! - The Official Third Season (Dub.DVD)</release>
+<release date="2014-03-25" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=26116">Yu-Gi-Oh! - Season 4 Volume 1 (Dub.DVD)</release>
+<release date="2014-03-25" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=26118">Yu-Gi-Oh! - Season 4 Volume 2 (Dub.DVD)</release>
+<release date="2014-03-25" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=26114">Yu-Gi-Oh! - The Official Fourth Season (Dub.DVD)</release>
+<release date="2014-05-13" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=26119">Yu-Gi-Oh! - Season 5 Volume 1 (Dub.DVD)</release>
+<release date="2014-05-13" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=26117">Yu-Gi-Oh! - Season 5 Volume 2 (Dub.DVD)</release>
+<release date="2014-05-13" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=26120">Yu-Gi-Oh! - Season 5 Volume 3 (Dub.DVD)</release>
+<release date="2014-05-13" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=26115">Yu-Gi-Oh! - The Official Fifth Season (Dub.DVD)</release>
+<release date="2008-07-29" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=11552">Yu-Gi-Oh! Duel Monsters - Season 3 Box Set (Dub.DVD)</release>
+<release date="2004-11-16" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=3133">Yu-Gi-Oh! Duel Monsters - Mind Game Edited (Dub.DVD 26)</release>
+<release date="2005-03-08" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=3735">Yu-Gi-Oh! Duel Monsters - Back to Battle City (Dub.DVD 28)</release>
+<release date="2005-03-08" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=3734">Yu-Gi-Oh! Duel Monsters - Back to Battle City + Artbox (Dub.DVD 28)</release>
+<release date="2005-05-24" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=4155">Yu-Gi-Oh! Duel Monsters - The Darkness Returns Edited (Dub.DVD 29)</release>
+<release date="2005-05-24" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=4156">Yu-Gi-Oh! Duel Monsters - Clase in the Coliseum Edited (Dub.DVD 30)</release>
+<release date="2005-07-19" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=4512">Yu-Gi-Oh! Duel Monsters - Battle For the Bronze Edited (Dub.DVD 31)</release>
+<release date="2005-10-18" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=5215">Yu-Gi-Oh! Duel Monsters - The Final Face-Off [Edited] (Dub.DVD 32)</release>
+<release date="2005-12-06" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=5385">Yu-Gi-Oh! Duel Monsters -  A New Evil Edited (Dub.DVD 33)</release>
+<release date="2006-02-07" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=5780">Yu-Gi-Oh! Duel Monsters - Edited (Dub.DVD 34)</release>
+<release date="2006-08-15" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=6609">Yu-Gi-Oh! Duel Monsters Edited (Dub.DVD 35)</release>
+<release date="2002-09-24" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2018">Yu-Gi-Oh! Duel Monsters - The Heart of the Cards (Dub.VHS 1)</release>
+<release date="2002-09-24" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2020">Yu-Gi-Oh! Duel Monsters - Into the Hornet's Nest (Dub.VHS 2)</release>
+<release date="2002-11-05" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2033">Yu-Gi-Oh! Duel Monsters - Attack From the Deep (Dub.VHS 3)</release>
+<release date="2002-11-05" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2034">Yu-Gi-Oh! Duel Monsters - Give Up the Ghost (Dub.VHS 4)</release>
+<release date="2003-01-14" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=15359">Yu-Gi-Oh! Duel Monsters - Evil Spirit of the Ring (Dub.VHS 5)</release>
+<release date="2003-01-14" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=15360">Yu-Gi-Oh! Duel Monsters - The Scars of Defeat (Dub.VHS 6)</release>
+<release date="2003-03-18" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1335">Yu-Gi-Oh! Duel Monsters - Double Trouble Duel [Edited] (Dub.VHS 7)</release>
+<release date="2003-03-18" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1337">Yu-Gi-Oh! Duel Monsters - Face Off: Yugi vs. Kaiba [Edited] (Dub.VHS 8)</release>
+<release date="2003-05-06" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1339">Yu-Gi-Oh! Duel Monsters - Champion vs. Creator [Edited] (Dub.VHS 9)</release>
+<release date="2003-05-06" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1334">Yu-Gi-Oh! Duel Monsters - Duel Identity [Edited] (Dub.VHS 10)</release>
+<release date="2003-07-22" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1399">Yu-Gi-Oh! Duel Monsters - Best of Friends, Best of Duelists [Edited] (Dub.VHS 11)</release>
+<release date="2003-08-19" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1401">Yu-Gi-Oh! Duel Monsters - Match of the Millennium Part I [Edited] (Dub.VHS 12)</release>
+<release date="2003-09-16" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1712">Yu-Gi-Oh! Duel Monsters - March of the Millennium Part II [Edited] (Dub.VHS 13)</release>
+<release date="2003-10-14" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1714">Yu-Gi-Oh! Duel Monsters - Ties of Friendship [Edited] (Dub.VHS 14)</release>
+<release date="2003-10-14" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1717">Yu-Gi-Oh! Duel Monsters - Legendary Heroes [Edited] (Dub.VHS 15)</release>
+<release date="2003-11-11" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2164">Yu-Gi-Oh! Duel Monsters - Dungeon Dice Monsters [Edited] (Dub.VHS 16)</release>
+<release date="2003-11-11" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2165">Yu-Gi-Oh! Duel Monsters - Dungeon Dice Monsters [Edited] + Limited Figure (Dub.VHS 16)</release>
+<release date="2004-03-23" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2385">Yu-Gi-Oh! Duel Monsters - The ESP Dualist (Dub.VHS 19)</release>
+<release date="2004-03-23" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2387">Yu-Gi-Oh! Duel Monsters -  The Master of Magicians (Dub.VHS 20)</release>
+<release date="2004-06-01" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2790">Yu-Gi-Oh! Duel Monsters - Mime Control Edited (Dub.VHS 21)</release>
+<release date="2004-06-01" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2791">Yu-Gi-Oh! Duel Monsters - Double Duel (Dub.VHS 22)</release>
+<release date="2004-07-27" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2792">Yu-Gi-Oh! Duel Monsters - Friends Til The End (Dub.VHS 23)</release>
+<release date="2004-09-28" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=3019">Yu-Gi-Oh! Duel Monsters - The Dark Spirit Revealed Edited (Dub.VHS 24)</release>
+<release date="2004-11-16" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=3259">Yu-Gi-Oh! Duel Monsters - Awakening the Evil (Dub.VHS 25)</release>
+<release date="2004-11-16" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=3260">Yu-Gi-Oh! Duel Monsters -  Mind Game Edited (Dub.VHS 26)</release>
+<release date="2004-12-28" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=3439">Yu-Gi-Oh! Duel Monsters - Edited (Dub.VHS 27)</release>
+<release date="2005-03-08" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=3733">Yu-Gi-Oh! Duel Monsters - Back to Battle City (Dub.VHS 28)</release>
+<release date="2005-05-24" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=4153">Yu-Gi-Oh! Duel Monsters - The Darkness Returns Edited (Dub.VHS 29)</release>
+<release date="2005-05-24" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=4154">Yu-Gi-Oh! Duel Monsters - Clase in the Coliseum Edited (Dub.VHS 30)</release>
+<release date="2004-01-27" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2284">Yu-Gi-Oh! Duel Monsters - The Mystery Duelist Edited (Dub.VHS 17)</release>
+<release date="2004-01-27" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2285">Yu-Gi-Oh! Duel Monsters - Obelisk the Tormentor Edited (Dub.VHS 18)</release>
+<news datetime="2001-04-19T18:28:43Z" href="http://www.animenewsnetwork.com/news/2001-04-19/4kids-entertainment-acquires-yu-gi-oh">4Kids Entertainment Acquires Yu-Gi-Oh!</news>
+<news datetime="2001-05-15T19:26:55Z" href="http://www.animenewsnetwork.com/news/2001-05-15/4kids-announces-first-quarter-financial-results">4Kids Announces First Quarter financial Results</news>
+<news datetime="2001-09-30T21:25:10Z" href="http://www.animenewsnetwork.com/news/2001-09-30/yugioh-makes-its-way-to-the-gba">Yugioh makes its way to the GBA</news>
+<news datetime="2002-01-03T11:19:59Z" href="http://www.animenewsnetwork.com/news/2002-01-03/upper-deck-aquires-yu-gi-oh-ccg">Upper Deck Aquires Yu-Gi-Oh CCG</news>
+<news datetime="2002-04-19T00:17:13Z" href="http://www.animenewsnetwork.com/news/2002-04-18/yu-gi-oh-at-top-of-ratings">Yu-Gi-Oh! at top of Ratings</news>
+<news datetime="2002-10-04T02:50:23Z" href="http://www.animenewsnetwork.com/news/2002-10-03/yu-gi-oh-no.1-saturday-morning-cartoon">Yu-Gi-Oh! #1 Saturday Morning Cartoon</news>
+<news datetime="2004-08-11T19:46:39Z" href="http://www.animenewsnetwork.com/news/2004-08-11/4kids-earnings-down">4Kids Earnings Down</news>
+<news datetime="2006-10-12T21:45:00Z" href="http://www.animenewsnetwork.com/news/2006-10-13/japans-favorite-tv-anime">Japan's Favorite TV Anime</news>
+<news datetime="2006-10-31T15:07:04Z" href="http://www.animenewsnetwork.com/news/2006-10-31/yu-gi-oh-season-1-returns-to-4kids-tv">Yu-Gi-Oh! Season 1 Returns to 4Kids TV</news>
+<news datetime="2008-02-04T07:32:21Z" href="http://www.animenewsnetwork.com/news/2008-02-04/haruka-director-aki-tsunaki-to-attend-sakura-con">&lt;cite&gt;Haruka&lt;/cite&gt; Director Aki Tsunaki to Attend Sakura-Con</news>
+<news datetime="2008-02-21T18:10:14Z" href="http://www.animenewsnetwork.com/news/2008-02-21/yu-gi-oh-5d-game-anime-sequel-confirmed">&lt;cite&gt;Yu-Gi-Oh! 5D's&lt;/cite&gt; Game Anime Sequel Confirmed</news>
+<news datetime="2008-03-19T15:04:41Z" href="http://www.animenewsnetwork.com/news/2008-03-19/4kids-confirms-yu-gi-oh-5d-american-fall-premiere">4Kids Confirms &lt;cite&gt;Yu-Gi-Oh! 5D's&lt;/cite&gt; American Fall Premiere</news>
+<news datetime="2008-05-06T15:57:15Z" href="http://www.animenewsnetwork.com/news/2008-05-06/june-licensing-intl-expo-to-feature-anime-franchises">June's Licensing Int'l Expo to Feature Anime Franchises</news>
+<news datetime="2008-09-13T03:58:00Z" href="http://www.animenewsnetwork.com/news/2008-09-12/yu-gi-oh-5d-premieres-on-the-cw-in-u.s-on-saturday">&lt;cite&gt;Yu-Gi-Oh! 5D's&lt;/cite&gt; Premieres on The CW in U.S. on Saturday</news>
+<news datetime="2008-12-17T00:35:48Z" href="http://www.animenewsnetwork.com/news/2008-12-16/pokemon-voice-actress-maddie-blaustein-passes-away">&lt;cite&gt;Pokémon&lt;/cite&gt; Voice Actress Maddie Blaustein Passes Away</news>
+<news datetime="2009-03-18T07:14:55Z" href="http://www.animenewsnetwork.com/news/2009-03-18/4kids-posts-2-yu-gi-oh-episodes-in-raw-japanese">4Kids Posts 2 &lt;cite&gt;Yu-Gi-Oh!&lt;/cite&gt; Episodes in Raw Japanese</news>
+<news datetime="2009-07-10T01:20:52Z" href="http://www.animenewsnetwork.com/news/2009-07-09/4kids-streams-sonic-x-preview-clip-with-english-subs">4Kids Streams &lt;cite&gt;Sonic X&lt;/cite&gt; Preview Clip with English Subs</news>
+<news datetime="2009-08-03T20:42:16Z" href="http://www.animenewsnetwork.com/news/2009-08-03/yu-gi-oh-10th-special-to-unite-3-series-heroes">&lt;cite&gt;Yu-Gi-Oh!&lt;/cite&gt; 10th Special to Unite 3 Series' Heroes</news>
+<news datetime="2009-08-05T14:30:40Z" href="http://www.animenewsnetwork.com/news/2009-08-05/4kids-subtitles-yu-gi-oh-no.13-in-english-for-1st-time">4Kids Subtitles &lt;cite&gt;Yu-Gi-Oh!&lt;/cite&gt; #13 in English for 1st Time</news>
+<news datetime="2009-08-22T12:09:18Z" href="http://www.animenewsnetwork.com/news/2009-08-22/4kids-stops-streaming-japanese-yu-gi-oh-duel-monsters">4Kids Stops Streaming Japanese &lt;cite&gt;Yu-Gi-Oh! Duel Monsters&lt;/cite&gt;</news>
+<news datetime="2009-09-04T15:26:57Z" href="http://www.animenewsnetwork.com/news/2009-09-04/cw4kids-replaces-yu-gi-oh-5d-with-1st-yu-gi-oh-show">CW4Kids Replaces &lt;cite&gt;Yu-Gi-Oh 5D's&lt;/cite&gt; with 1st &lt;cite&gt;Yu-Gi-Oh!&lt;/cite&gt; Show</news>
+<news datetime="2009-09-18T17:56:52Z" href="http://www.animenewsnetwork.com/news/2009-09-18/yu-gi-oh-10th-anniversary-teaser-ballad-promo-posted">&lt;cite&gt;Yu-Gi-Oh!&lt;/cite&gt; 10th Anniversary Teaser, &lt;cite&gt;Ballad&lt;/cite&gt; Promo Posted</news>
+<news datetime="2009-11-30T09:36:00Z" href="http://www.animenewsnetwork.com/news/2009-11-30/naruto-toriko-one-piece-event-anime-shorts-streamed">&lt;cite&gt;Naruto, Toriko, One Piece&lt;/cite&gt; Event Anime Shorts Streamed</news>
+<news datetime="2009-12-18T13:22:31Z" href="http://www.animenewsnetwork.com/news/2009-12-18/yu-gi-oh-10th-anniversary-anime-footage-streamed">&lt;cite&gt;Yu-Gi-Oh!&lt;/cite&gt; 10th Anniversary Anime's Footage Streamed</news>
+<news datetime="2010-01-29T08:03:31Z" href="http://www.animenewsnetwork.com/news/2010-01-29/japanese-box-office-january-23-24">Japanese Box Office, January 23-24</news>
+<news datetime="2010-09-15T16:07:58Z" href="http://www.animenewsnetwork.com/news/2010-09-15/4kids-adds-yu-gi-oh-3d/bonds-beyond-time-film">4Kids Adds &lt;cite&gt;Yu-Gi-Oh! 3D: Bonds Beyond Time&lt;/cite&gt; Anime Film</news>
+<news datetime="2010-11-22T08:23:49Z" href="http://www.animenewsnetwork.com/news/2010-11-22/yu-gi-oh-3d-u.s-theatrical-run-dated-for-february-march">&lt;cite&gt;Yu-Gi-Oh! 3D's&lt;/cite&gt; U.S. Theatrical Run Dated for February-March</news>
+<news datetime="2010-12-08T16:28:00Z" href="http://www.animenewsnetwork.com/news/2010-12-09/new-yu-gi-oh-series-to-be-announced-in-february">New &lt;cite&gt;Yu-Gi-Oh!&lt;/cite&gt; Series to Be Announced in February</news>
+<news datetime="2010-12-20T17:30:44Z" href="http://www.animenewsnetwork.com/news/2010-12-20/supernatural-yumekui-merry-showa-monogatari-promos-streamed">&lt;cite&gt;Supernatural, Yumekui Merry, Showa Monogatari&lt;/cite&gt; Promos Streamed</news>
+<news datetime="2011-04-01T14:37:33Z" href="http://www.animenewsnetwork.com/news/2011-04-01/yu-gi-oh-3d-film-to-be-released-in-cinemas-and-on-dvd">&lt;cite&gt;Yu-Gi-Oh&lt;/cite&gt; 3D film to be released in cinemas and on DVD</news>
+<news datetime="2011-04-05T15:39:31Z" href="http://www.animenewsnetwork.com/news/2011-04-06/avcon-2011-announces-littlekuriboh-as-special-guest">AVCon 2011 Announces LittleKuriboh as Special Guest</news>
+<news datetime="2011-04-06T20:34:40Z" href="http://www.animenewsnetwork.com/news/2011-04-06/4kids-files-for-chapter-11-bankruptcy">4Kids Files for Chapter 11 Bankruptcy</news>
+<news datetime="2011-06-02T23:30:00Z" href="http://www.animenewsnetwork.com/news/2011-06-02/judge-orders-hold-on-u.s-yu-gi-oh-anime-license">Judge Orders Hold on U.S. &lt;cite&gt;Yu-Gi-Oh!&lt;/cite&gt; Anime License</news>
+<news datetime="2011-06-19T20:30:00Z" href="http://www.animenewsnetwork.com/news/2011-06-20/weekly-wrapup-12/jun-18/jun">Weekly Wrapup  12/Jun - 18/Jun</news>
+<news datetime="2011-06-23T20:00:00Z" href="http://www.animenewsnetwork.com/news/2011-06-24/supanova-perth-this-weekend">Supanova Perth This Weekend</news>
+<news datetime="2011-07-23T20:40:51Z" href="http://www.animenewsnetwork.com/news/2011-07-23/sound-of-the-sky-new-yu-gi-oh-film-released-monday">Sound of the Sky, New Yu-Gi-Oh Film Released Monday</news>
+<news datetime="2011-10-31T03:45:00Z" href="http://www.animenewsnetwork.com/news/2011-10-30/4-anime-rank-among-top-40-shows-on-hulu-in-u.s">4 Anime Rank Among Top 40 Shows on Hulu in U.S.</news>
+<news datetime="2011-12-01T00:30:00Z" href="http://www.animenewsnetwork.com/news/2011-11-30/voice-actress-singer-michal-friedman-passes-away">Voice Actress, Singer Michal Friedman Passes Away</news>
+<news datetime="2012-06-26T21:00:00Z" href="http://www.animenewsnetwork.com/news/2012-06-26/4kids-sells-yu-gi-oh-cw-network-related-assets-jointly-to-konami-kidsco">4Kids Sells &lt;cite&gt;Yu-Gi-Oh!&lt;/cite&gt;, CW Network-Related Assets Jointly to Konami, Kidsco</news>
+<news datetime="2013-01-19T09:30:53Z" href="http://www.animenewsnetwork.com/news/2013-01-19/nicktoons-delays-its-yu-gi-oh-anime-debut">Nicktoons Delays Its &lt;cite&gt;Yu-Gi-Oh!&lt;/cite&gt; Anime Debut</news>
+<news datetime="2013-07-28T00:45:00Z" href="http://www.animenewsnetwork.com/news/2013-07-27/saint-seiya-zatch-bell-more-yu-gi-oh-listed-on-u.s-dvd">&lt;cite&gt;Saint Seiya, Zatch Bell&lt;/cite&gt;, More &lt;cite&gt;Yu-Gi-Oh&lt;/cite&gt; Listed on U.S. DVD</news>
+<news datetime="2014-03-25T22:50:02Z" href="http://www.animenewsnetwork.com/news/2014-03-25/north-american-anime-manga-releases-march-23-29">North American Anime, Manga Releases, March 23-29</news>
+<news datetime="2014-05-13T22:50:07Z" href="http://www.animenewsnetwork.com/news/2014-05-13/north-american-anime-manga-releases-may-11-17">North American Anime, Manga Releases, May 11-17</news>
+<news datetime="2014-06-17T16:00:00Z" href="http://www.animenewsnetwork.com:/news/2014-06-18/new-yu-gi-oh-film-now-in-development-in-japan/.75653">New &lt;cite&gt;Yu-Gi-Oh!&lt;/cite&gt; Film Now in Development in Japan</news>
+<news datetime="2014-07-16T20:30:45Z" href="http://www.animenewsnetwork.com:/news/2014-07-17/north-american-anime-manga-releases-july-13-19/.76713">North American Anime, Manga Releases, July 13-19</news>
+<news datetime="2014-10-14T21:40:00Z" href="http://www.animenewsnetwork.com:/news/2014-10-14/north-american-anime-manga-releases-october-12-18/.79900">North American Anime, Manga Releases, October 12-18</news>
+<news datetime="2014-11-15T04:57:00Z" href="http://www.animenewsnetwork.com:/news/2014-11-14/crunchyroll-to-stream-yu-gi-oh-anime-outside-the-u.s/.81051">Crunchyroll to Stream &lt;cite&gt;Yu-Gi-Oh!&lt;/cite&gt; Anime Outside the U.S.</news>
+<news datetime="2015-02-09T07:00:00Z" href="http://www.animenewsnetwork.com:/news/2015-02-09/free-anime-in-australia-9-jan-15-feb/.84247">Free Anime in Australia: 9/Jan - 15/Feb</news>
+<news datetime="2015-07-12T02:40:00Z" href="http://www.animenewsnetwork.com:/news/2015-07-11/crunchyroll-adds-english-subtitled-yu-gi-oh-duel-monsters-anime/.90354">Crunchyroll Adds English-Subtitled &lt;cite&gt;Yu-Gi-Oh! Duel Monsters&lt;/cite&gt; Anime</news>
+<news datetime="2015-10-15T16:37:23Z" href="http://www.animenewsnetwork.com:/news/2015-10-15/yu-gi-oh-the-dark-side-of-dimensions-film-reveals-designs-cast-for-returning-characters/.94256">&lt;cite&gt;Yu-Gi-Oh!: The Dark Side of Dimensions&lt;/cite&gt; Film Reveals Designs, Cast for Returning Characters</news>
+<staff gid="1662390870"><task>Director</task><person id="10002">Kunihisa Sugishima</person></staff>
+<staff gid="2586719838"><task>Series Composition</task><person id="7856">Junki Takegami</person></staff>
+<staff gid="824348760"><task>Series Composition</task><person id="10617">Shin Yoshida</person></staff>
+<staff gid="1958044827"><task>Screenplay</task><person id="1295">Akemi Omode</person></staff>
+<staff gid="1693733966"><task>Screenplay</task><person id="5721">Yoshiki Sakurai</person></staff>
+<staff gid="1638765265"><task>Screenplay</task><person id="7856">Junki Takegami</person></staff>
+<staff gid="2285749779"><task>Screenplay</task><person id="10232">Tadashi Hayakawa</person></staff>
+<staff gid="2672338271"><task>Screenplay</task><person id="10617">Shin Yoshida</person></staff>
+<staff gid="3523272656"><task>Screenplay</task><person id="24238">Yasuyuki Suzuki</person></staff>
+<staff gid="1039020670"><task>Screenplay</task><person id="64265">Atsushi Maekawa</person></staff>
+<staff gid="1952777572"><task>Storyboard</task><person id="11363">Masaki Kitamura</person></staff>
+<staff gid="781800442"><task>Storyboard</task><person id="12531">Hatsuki Tsuji</person></staff>
+<staff gid="1772629947"><task>Storyboard</task><person id="12533">Hidetsugu Hirayama</person></staff>
+<staff gid="2224742149"><task>Episode Director</task><person id="12552">Kan Tsuruta</person></staff>
+<staff gid="2202225053"><task>Episode Director</task><person id="12553">Masahiko Watanabe</person></staff>
+<staff gid="2318107618"><task>Episode Director</task><person id="73310">Kunihiko Sugishima</person></staff>
+<staff gid="2233646824"><task>Music</task><person id="382">Shinkichi Mitsumune</person></staff>
+<staff gid="515254722"><task>Original creator</task><person id="11762">Kazuki Takahashi</person></staff>
+<staff gid="2515509138"><task>Character Design</task><person id="1637">Shingo Araki</person></staff>
+<staff gid="1657358051"><task>Character Design</task><person id="10395">Michi Himeno</person></staff>
+<staff gid="2278715536"><task>Art Director</task><person id="8665">Mitsuharu Miyamae</person></staff>
+<staff gid="3776974239"><task>Art Director</task><person id="20250">Nobuto Sakamoto</person></staff>
+<staff gid="935844833"><task>Animation Director</task><person id="274">Hideyuki Motohashi</person></staff>
+<staff gid="2226955659"><task>Animation Director</task><person id="2670">Kazuyuki Kobayashi</person></staff>
+<staff gid="3825029146"><task>Animation Director</task><person id="3022">Shuichi Shimamura</person></staff>
+<staff gid="3067388773"><task>Animation Director</task><person id="3348">Toshiyasu Okada</person></staff>
+<staff gid="2407466648"><task>Animation Director</task><person id="3550">Junichi Hayama</person></staff>
+<staff gid="2879795386"><task>Animation Director</task><person id="3618">Yasuhide Maruyama</person></staff>
+<staff gid="2030269050"><task>Animation Director</task><person id="9091">Shinichi Sakuma</person></staff>
+<staff gid="3299537892"><task>Animation Director</task><person id="11234">Aki Tsunaki</person></staff>
+<staff gid="1330249346"><task>Animation Director</task><person id="11363">Masaki Kitamura</person></staff>
+<staff gid="2118925177"><task>Animation Director</task><person id="12527">Takahiro Kagami</person></staff>
+<staff gid="2879447198"><task>Animation Director</task><person id="12530">Michiaki Sugimoto</person></staff>
+<staff gid="2478119582"><task>Animation Director</task><person id="12531">Hatsuki Tsuji</person></staff>
+<staff gid="3452327256"><task>Animation Director</task><person id="12532">Masahiro Hamamori</person></staff>
+<staff gid="3135880408"><task>Animation Director</task><person id="12533">Hidetsugu Hirayama</person></staff>
+<staff gid="1667174711"><task>Animation Director</task><person id="14365">Hisashi Mitsui</person></staff>
+<staff gid="2195072352"><task>Animation Director</task><person id="15125">Shinsuke Terasawa</person></staff>
+<staff gid="3734825897"><task>Animation Director</task><person id="19611">Kazunori Takahashi</person></staff>
+<staff gid="1308336541"><task>Animation Director</task><person id="22432">Shinichiro Takagi</person></staff>
+<staff gid="2558955975"><task>Animation Director</task><person id="32315">Ken'ichi Hara</person></staff>
+<staff gid="1420739127"><task>Animation Director</task><person id="41021">Yoshikatsu Inoue</person></staff>
+<staff gid="2104006956"><task>Animation Director</task><person id="51598">Jouji Sawada</person></staff>
+<staff gid="1859687123"><task>Animation Director</task><person id="64264">Wogawa Ichirowo</person></staff>
+<staff gid="1391497563"><task>Sound Director</task><person id="10616">Takuya Hiramitsu</person></staff>
+<staff gid="2203962919"><task>Producer</task><person id="815">Noriko Kobayashi</person></staff>
+<staff gid="1655744357"><task>Producer</task><person id="12524">Hidetaka Ikuta</person></staff>
+<staff gid="2580068361"><task>Producer</task><person id="32143">Naoki Sasada</person></staff>
+<cast gid="992661947" lang="DE"><role>Yugi Mutou</role><person id="22711">Konrad Bösherz</person></cast>
+<cast gid="965637893" lang="DE"><role>Joey Wheeler</role><person id="22719">Robin Kahnmeyer</person></cast>
+<cast gid="3414466155" lang="DE"><role>Tristan Taylor</role><person id="22721">Kim Hasper</person></cast>
+<cast gid="2594012300" lang="DE"><role>Téa Gardner</role><person id="22723">Rubina Kuraoka</person></cast>
+<cast gid="3711592298" lang="DE"><role>Seto Kaiba</role><person id="22724">Gerrit Schmidt-Foss</person></cast>
+<cast gid="1299714844" lang="DE"><role>Mokuba Kaiba</role><person id="22725">Ricardo Richter</person></cast>
+<cast gid="1174287161" lang="DE"><role>Yami Yugi</role><person id="22726">Sebastian Schulz</person></cast>
+<cast gid="3238787462" lang="DE"><role>Mai Valentine</role><person id="22728">Irina von Bentheim</person></cast>
+<cast gid="3638999294" lang="DE"><role>Duke Devlin</role><person id="22729">Dennis Schmidt-Foss</person></cast>
+<cast gid="2484356791" lang="DE"><role>Ishizu Ishtar</role><person id="22730">Claudia Urbschat-Mingues</person></cast>
+<cast gid="3026792319" lang="DE"><role>Marik Ishtar</role><person id="22731">Charles Rettinghaus</person></cast>
+<cast gid="2496772182" lang="DE"><role>Yami Marik</role><person id="22732">Klaus-Dieter Klebsch</person></cast>
+<cast gid="2768378243" lang="DE"><role>Yami Bakura</role><person id="22934">David Nathan</person></cast>
+<cast gid="1895790246" lang="DE"><role>Weevil Underwood</role><person id="28672">Mario von Jascheroff</person></cast>
+<cast gid="3347288681" lang="DE"><role>Maximillion Pegasus</role><person id="30274">Till Hagen</person></cast>
+<cast gid="1813541964" lang="DE"><role>Yami Bakura</role><person id="33353">Peter Reinhardt</person></cast>
+<cast gid="2809167141" lang="DE"><role>Solomon Muto</role><person id="41113">Peter Groeger</person></cast>
+<cast gid="1780741728" lang="DE"><role>Bakura</role><person id="41114">Constantin von Jascheroff</person></cast>
+<cast gid="3669603628" lang="DE"><role>Akunadin</role><person id="49415">Christian Rode</person></cast>
+<cast gid="885981300" lang="DE"><role>Rex Raptor</role><person id="69906">Marius Götze-Claren</person></cast>
+<cast gid="1096475905" lang="EN"><role>Ryo Bakura</role><person id="1053">Ted Lewis</person></cast>
+<cast gid="1167941273" lang="EN"><role>Yami Bakura</role><person id="1053">Ted Lewis</person></cast>
+<cast gid="1837159255" lang="EN"><role>Serenity Wheeler</role><person id="1078">Lisa Ortiz</person></cast>
+<cast gid="1364059316" lang="EN"><role>Seto Kaiba</role><person id="1264">Eric Stuart</person></cast>
+<cast gid="1628330932" lang="EN"><role>Dark Magician Girl</role><person id="1435">Megan Hollingshead</person></cast>
+<cast gid="2923076333" lang="EN"><role>Mai Valentine</role><person id="1435">Megan Hollingshead</person></cast>
+<cast gid="2776232634" lang="EN"><role>Mokuba Kaiba</role><person id="3877">Tara Jayne</person></cast>
+<cast gid="2785810880" lang="EN"><role>Yami Yugi</role><person id="4408">Dan Green</person></cast>
+<cast gid="1783795065" lang="EN"><role>Yugi Muto</role><person id="4408">Dan Green</person></cast>
+<cast gid="2381761116" lang="EN"><role>Téa Gardner</role><person id="4848">Amy Birnbaum</person></cast>
+<cast gid="1169430496" lang="EN"><role>Tristan Taylor</role><person id="7490">Frank Frankson</person></cast>
+<cast gid="748694609" lang="EN"><role>Joey Wheeler</role><person id="9352">Wayne Grayson</person></cast>
+<cast gid="749924552" lang="EN"><role>Duke Devlin</role><person id="14145">Marc Thompson</person></cast>
+<cast gid="1124320338" lang="EN"><role>Gozaburo Kaiba</role><person id="30327">Jonathan Todd Ross</person></cast>
+<cast gid="2951556231" lang="EN"><role>Marik Ishtar</role><person id="30327">Jonathan Todd Ross</person></cast>
+<cast gid="1878358551" lang="EN"><role>Yami Marik</role><person id="30327">Jonathan Todd Ross</person></cast>
+<cast gid="2654282584" lang="EN"><role>Solomon Moto</role><person id="30357">Adam Blaustein</person></cast>
+<cast gid="1295065498" lang="EN"><role>Mai Valentine</role><person id="30492">Kathleen Delaney</person></cast>
+<cast gid="723932534" lang="EN"><role>Mai Valentine</role><person id="30493">Bella Hudson</person></cast>
+<cast gid="1960578494" lang="EN"><role>Mokuba Kaiba (Season 5)</role><person id="35815">Caroline Lawson</person></cast>
+<cast gid="233161369" lang="EN"><role>Ishizu Ishtar</role><person id="38529">Karen Neill</person></cast>
+<cast gid="3061442836" lang="EN"><role>Bakura</role><person id="90540">Chuck Powers</person></cast>
+<cast gid="2329771611" lang="EN"><role>Shadi</role><person id="90540">Chuck Powers</person></cast>
+<cast gid="3662008174" lang="EN"><role>Solomon Moto</role><person id="90540">Chuck Powers</person></cast>
+<cast gid="1211413113" lang="EN"><role>Yami Bakura</role><person id="90540">Chuck Powers</person></cast>
+<cast gid="3691853341" lang="EN"><role>Yami Yugi</role><person id="90540">Chuck Powers</person></cast>
+<cast gid="1100687028" lang="EN"><role>Yugi Muto</role><person id="90540">Chuck Powers</person></cast>
+<cast gid="1993411947" lang="EN"><role>Maximillion Pegasus</role><person id="90541">Brian Zimmerman</person></cast>
+<cast gid="1478479834" lang="EN"><role>Tristan Taylor</role><person id="90541">Brian Zimmerman</person></cast>
+<cast gid="2878854861" lang="EN"><role>Ishizu Ishtar</role><person id="90542">Alison Lester</person></cast>
+<cast gid="1150511481" lang="EN"><role>Mai Valentine</role><person id="90542">Alison Lester</person></cast>
+<cast gid="3719885602" lang="EN"><role>Serenity Wheeler</role><person id="90542">Alison Lester</person></cast>
+<cast gid="3739593162" lang="EN"><role>Tea Gardner</role><person id="90542">Alison Lester</person></cast>
+<cast gid="1356059950" lang="EN"><role>Joey Wheeler</role><person id="90550">Dwayne Tan</person></cast>
+<cast gid="1983883089" lang="EN"><role>Duke Devlin</role><person id="123637">Christian J. Lee</person></cast>
+<cast gid="2815666891" lang="EN"><role>Marik Ishtar</role><person id="123637">Christian J. Lee</person></cast>
+<cast gid="3526514340" lang="EN"><role>Mokuba Kaiba</role><person id="123637">Christian J. Lee</person></cast>
+<cast gid="2534074872" lang="EN"><role>Seto Kaiba</role><person id="123637">Christian J. Lee</person></cast>
+<cast gid="1961551585" lang="EN"><role>Yami Marik</role><person id="123637">Christian J. Lee</person></cast>
+<cast gid="1527763867" lang="EN"><role>Marik Ishtar</role><person id="125826">Taaz Gill</person></cast>
+<cast gid="766042623" lang="EN"><role>Noah Kaiba</role><person id="125826">Taaz Gill</person></cast>
+<cast gid="2378136356" lang="EN"><role>Yami Marik</role><person id="125826">Taaz Gill</person></cast>
+<cast gid="2641848497" lang="EN"><role>Vivian Wong</role><person id="137205">Allyson Johnson</person></cast>
+<cast gid="1139333116" lang="ES"><role>Mai Valentine</role><person id="2832">Yolanda Mateos</person></cast>
+<cast gid="1998431093" lang="ES"><role>Serenity Wheeler/Shizuka Kawai</role><person id="3753">Circe Luna</person></cast>
+<cast gid="3334764302" lang="ES"><role>Yuugi Moto/Pharaoh Atemu</role><person id="3761">Irwin Daayan</person></cast>
+<cast gid="3110526542" lang="ES"><role>Mai Valentine/Mai Kujaku</role><person id="23440">Laura Torres</person></cast>
+<cast gid="3899316757" lang="ES"><role>Téa Gardner/Anzu Mazaki</role><person id="23441">Liliana Barba</person></cast>
+<cast gid="1454935489" lang="ES"><role>Seto Kaiba</role><person id="23501">Ricardo Mendoza</person></cast>
+<cast gid="2725175538" lang="ES"><role>Tristan Taylor/Hiroto Honda</role><person id="23772">Benjamin Rivera</person></cast>
+<cast gid="1873425962" lang="ES"><role>Malik Ishtar/Dark Malik</role><person id="23773">Martin Soto</person></cast>
+<cast gid="3050311248" lang="ES"><role>Joey Wheeler/Katsuya Jounouchi</role><person id="23788">Carlos Iñigo</person></cast>
+<cast gid="1445085115" lang="ES"><role>Ryo Bakura/Thief Bakura</role><person id="23789">Yamil Atala</person></cast>
+<cast gid="2787306289" lang="ES"><role>Duke Devlin/Ryuji Otogi</role><person id="23805">Luis Daniel Ramirez</person></cast>
+<cast gid="1786431396" lang="ES"><role>Ryo Bakura/Thief Bakura (2nd voice)</role><person id="24088">Jose Gilberto Vilchis</person></cast>
+<cast gid="945356828" lang="ES"><role>Yûgi Muto</role><person id="47708">Alex Saudinós</person></cast>
+<cast gid="1867883052" lang="ES"><role>Mokuba Kaiba</role><person id="47724">Chelo Molina</person></cast>
+<cast gid="1517991156" lang="ES"><role>Duke Devlin</role><person id="47726">David Robles</person></cast>
+<cast gid="961581904" lang="ES"><role>Yami Yûgi</role><person id="50501">Pablo Sevilla</person></cast>
+<cast gid="1881427177" lang="ES"><role>Tristan Taylor</role><person id="50621">Miguel Ángel Garzón</person></cast>
+<cast gid="2614700939" lang="ES"><role>Noa Kaiba</role><person id="50702">Ricardo Escobar</person></cast>
+<cast gid="715358590" lang="ES"><role>Bakura Ryou/Yami Bakura</role><person id="50726">Javier Balas</person></cast>
+<cast gid="2570264596" lang="ES"><role>Maximillian Pegasus</role><person id="50727">Cholo Moratalla</person></cast>
+<cast gid="2507874077" lang="ES"><role>Marik Ishtar/Yami Marik</role><person id="50731">Rafa Romero</person></cast>
+<cast gid="3331255243" lang="ES"><role>Tea Gardner</role><person id="50911">Beatriz Berciano</person></cast>
+<cast gid="3115278031" lang="ES"><role>Serenity Wheeler</role><person id="50919">Carmen Cervantes</person></cast>
+<cast gid="2142208390" lang="ES"><role>Seto Kaiba</role><person id="50922">Roberto Cuenca Rodríguez Jr.</person></cast>
+<cast gid="2648858150" lang="ES"><role>Seto Kaiba</role><person id="62598">Roberto Cuenca Rodríguez Jr</person></cast>
+<cast gid="1665984167" lang="ES"><role>Gozaburo Kaiba</role><person id="88079">Víctor Valverde</person></cast>
+<cast gid="2941235328" lang="JA"><role>Noa Kaiba</role><person id="296">Chisa Yokoyama</person></cast>
+<cast gid="3511874386" lang="JA"><role>Priest Isis</role><person id="787">Sumi Shimamoto</person></cast>
+<cast gid="558627745" lang="JA"><role>Malik Ishtar</role><person id="955">Tetsuya Iwanaga</person></cast>
+<cast gid="2338082195" lang="JA"><role>Yami no Malik</role><person id="955">Tetsuya Iwanaga</person></cast>
+<cast gid="1783455908" lang="JA"><role>Bakura (Thief)</role><person id="1172">Rica Matsumoto</person></cast>
+<cast gid="3812752357" lang="JA"><role>Ryou Bakura</role><person id="1172">Rica Matsumoto</person></cast>
+<cast gid="2654685440" lang="JA"><role>Yami no Bakura</role><person id="1172">Rica Matsumoto</person></cast>
+<cast gid="1680190560" lang="JA"><role>Mokuba Kaiba</role><person id="2130">Junko Takeuchi</person></cast>
+<cast gid="1582345189" lang="JA"><role>Katsuya Jounouchi</role><person id="2164">Hiroki Takahashi</person></cast>
+<cast gid="2438886366" lang="JA"><role>Gouzaburou Kaiba</role><person id="2412">Tetsuo Komura</person></cast>
+<cast gid="2455671189" lang="JA"><role>Ryuuji Otogi</role><person id="2414">Ryo Naitou</person></cast>
+<cast gid="3264423147" lang="JA"><role>Hiroto Honda</role><person id="2610">Hidehiro Kikuchi</person></cast>
+<cast gid="2333863825" lang="JA"><role>Ryou Bakura</role><person id="3408">You Inoue</person></cast>
+<cast gid="1775637256" lang="JA"><role>Mai Kujaku</role><person id="7341">Haruhi Terada</person></cast>
+<cast gid="1974853582" lang="JA"><role>Anzu Masaki</role><person id="7417">Aki Maeda</person></cast>
+<cast gid="962666433" lang="JA"><role>Isono</role><person id="8883">Masami Iwasaki</person></cast>
+<cast gid="1794936409" lang="JA"><role>Shizuka Kawai</role><person id="9125">Mika Sakenobe</person></cast>
+<cast gid="1163657918" lang="JA"><role>Anzu Masaki</role><person id="12162">Maki Saitou</person></cast>
+<cast gid="3555154036" lang="JA"><role>Hiroto Honda</role><person id="12163">Takayuki Kondou</person></cast>
+<cast gid="2163496272" lang="JA"><role>Sugoroku Mutou</role><person id="14826">Tadashi Miyazawa</person></cast>
+<cast gid="1341455457" lang="JA"><role>Yami no Yuugi/Pharaoh Atemu</role><person id="23270">Shunsuke Kazama</person></cast>
+<cast gid="2010706366" lang="JA"><role>Yūgi Mutō</role><person id="23270">Shunsuke Kazama</person></cast>
+<cast gid="2381486465" lang="JA"><role>Pegasus J. Crawford</role><person id="39209">Jirou Jay Takasugi</person></cast>
+<cast gid="4023939280" lang="JA"><role>Priest Seto</role><person id="39751">Kenjiro Tsuda</person></cast>
+<cast gid="1969485210" lang="JA"><role>Seto Kaiba</role><person id="39751">Kenjiro Tsuda</person></cast>
+<cast gid="216958620" lang="JA"><role>Dartz</role><person id="40826">Yuu Emaou</person></cast>
+<cast gid="2261576929" lang="NL"><role>Joey Wheeler</role><person id="24773">Dieter Jansen</person></cast>
+<cast gid="911826100" lang="NL"><role>Téa Gardner</role><person id="29122">Lottie Hellingman</person></cast>
+<cast gid="3470662646" lang="NL"><role>Yami Yugi</role><person id="29134">Pepijn Gunneweg</person></cast>
+<cast gid="3252379138" lang="NL"><role>Yugi Muto</role><person id="29134">Pepijn Gunneweg</person></cast>
+<cast gid="2311858102" lang="NL"><role>Tristan Taylor</role><person id="29140">Steve Beirnaert</person></cast>
+<cast gid="1544059480" lang="NL"><role>Maxemillion Pegasus</role><person id="29141">Roberto de Groot</person></cast>
+<cast gid="3192241842" lang="NL"><role>Seto Kaiba</role><person id="29143">Sander de Heer</person></cast>
+<cast gid="608220687" lang="NL"><role>Mokuba Kaiba</role><person id="29144">Niki Romijn</person></cast>
+<cast gid="1606072810" lang="NL"><role>Marik Ishtar</role><person id="36360">Finn Poncin</person></cast>
+<cast gid="1615443971" lang="NL"><role>Yami Marik</role><person id="36360">Finn Poncin</person></cast>
+<cast gid="1737215439" lang="NL"><role>Mai Valentine</role><person id="46109">Sophie Hoeberechts</person></cast>
+<cast gid="3115168142" lang="NL"><role>Yami Yugi</role><person id="95208">Mitchell van den Dunge Bille</person></cast>
+<cast gid="2417728351" lang="PL"><role>Téa</role><person id="67205">Iwona Rulewicz</person></cast>
+<cast gid="2295624859" lang="PL"><role>Mai Valentine</role><person id="67208">Joanna Domanska</person></cast>
+<cast gid="2730995973" lang="PL"><role>Yugi</role><person id="67223">Aleksander Gawek</person></cast>
+<cast gid="3321506951" lang="PL"><role>Mokuba</role><person id="67229">Renata Berger</person></cast>
+<cast gid="1284489620" lang="PL"><role>Bakura</role><person id="70910">Marek Włodarczyk</person></cast>
+<cast gid="2269784942" lang="PL"><role>Joey</role><person id="70910">Marek Włodarczyk</person></cast>
+<cast gid="906295677" lang="PL"><role>Seto Kaiba</role><person id="112701">Mikołaj Klimek</person></cast>
+<cast gid="1722944703" lang="PL"><role>Maksimilion Pegasus</role><person id="112706">Jarosław Budnik</person></cast>
+<cast gid="2533017817" lang="PL"><role>Tristan</role><person id="112707">Mirosław Wieprzewski</person></cast>
+<cast gid="2617251124" lang="PL"><role>Yugi's Grandfather</role><person id="113048">Jacek Kałucki</person></cast>
+<cast gid="362107293" lang="PT"><role>Mai Valentine</role><person id="38280">Isabel Cristina de Sá</person></cast>
+<cast gid="3402497438" lang="PT"><role>Bakura</role><person id="48732">Fábio Lucindo</person></cast>
+<cast gid="2673000239" lang="PT"><role>Weevil Underwood</role><person id="48735">Márcio Araújo</person></cast>
+<cast gid="1263730775" lang="PT"><role>Joey Wheeler</role><person id="48738">Rodrigo Andreatto</person></cast>
+<cast gid="2105279808" lang="PT"><role>Tea Gardner</role><person id="48745">Melissa Garcia</person></cast>
+<cast gid="2237634807" lang="PT"><role>Odion (Adult)</role><person id="48752">Tatá Guarnieri</person></cast>
+<cast gid="1863425883" lang="PT"><role>Salomon Moto/Vovô</role><person id="48752">Tatá Guarnieri</person></cast>
+<cast gid="1395242775" lang="PT"><role>Weevil Underwood</role><person id="48753">Francisco Freitas</person></cast>
+<cast gid="2011852401" lang="PT"><role>Yugi Mutou/Yami Yugi</role><person id="48757">Marcelo Campos</person></cast>
+<cast gid="1097284740" lang="PT"><role>Tea Gardner</role><person id="48759">Samira Fernandes</person></cast>
+<cast gid="2107321485" lang="PT"><role>Duke Devlin</role><person id="48762">Wendell Bezerra</person></cast>
+<cast gid="1305653744" lang="PT"><role>Mokuba Kaiba</role><person id="48763">Thiago Longo</person></cast>
+<cast gid="1491376939" lang="PT"><role>Tristan Taylor</role><person id="48765">Vagner Fagundes</person></cast>
+<cast gid="1515084350" lang="PT"><role>Seto Kaiba</role><person id="48770">Mauro Eduardo</person></cast>
+<cast gid="306309092" lang="PT"><role>Maximillium Pegasus</role><person id="48779">Afonso Amajones</person></cast>
+<cast gid="1947699331" lang="PT"><role>Duke Devlin</role><person id="48784">Sérgio Corsetti</person></cast>
+<cast gid="2590645859" lang="PT"><role>Bakura</role><person id="48864">Alex Wendel</person></cast>
+<cast gid="3816052667" lang="PT"><role>Serenity Wheeler</role><person id="48896">Flávia Narciso</person></cast>
+<cast gid="696064390" lang="PT"><role>Solomon Moto</role><person id="48939">Dráusio de Oliveira</person></cast>
+<cast gid="2217600261" lang="PT"><role>Mokuba Kaiba</role><person id="49195">Gabriel Noya</person></cast>
+<cast gid="2406201377" lang="PT"><role>Aknadin</role><person id="49599">César Marchetti</person></cast>
+<cast gid="1909651640" lang="PT"><role>Mahad</role><person id="50144">Nestor Chiesse</person></cast>
+<cast gid="1666723344" lang="PT"><role>Marik</role><person id="57705">Thiago Zambrano</person></cast>
+<cast gid="3395580039" lang="PT"><role>Solomon Moto</role><person id="68850">Sérgio Galvão</person></cast>
+<cast gid="1946183052" lang="TL"><role>Tristan Taylor</role><person id="38910">Bernie Malejana</person></cast>
+<cast gid="2484800410" lang="TL"><role>Yugi Muto</role><person id="38916">Robert Brillantes</person></cast>
+<cast gid="405716729" lang="TL"><role>Pharaoh Atem</role><person id="38936">Jefferson Utanes</person></cast>
+<cast gid="1634663537" lang="TL"><role>Yamiyugi</role><person id="38936">Jefferson Utanes</person></cast>
+<cast gid="3664526032" lang="TL"><role>Ryou Bakura</role><person id="39027">Allan Ortega</person></cast>
+<cast gid="3701998384" lang="TL"><role>Tea Gardner</role><person id="43279">Celeste Dela Cruz</person></cast>
+<cast gid="2381944126" lang="TL"><role>JOEY WHEELER</role><person id="46224">Eric Galvez</person></cast>
+<cast gid="2031129537" lang="TL"><role>Joey Wheeler</role><person id="46683">Carlo Eduardo Labalan</person></cast>
+<credit gid="2328686058"><task>Animation Production</task><company id="29">Studio Gallop</company></credit>
+<credit gid="2632363375"><task>Production</task><company id="29">Studio Gallop</company></credit>
+<credit gid="2079277458"><task>Production</task><company id="316">NAS</company></credit>
+<credit gid="368043622"><task>Production</task><company id="909">Shueisha</company></credit></anime></ann>

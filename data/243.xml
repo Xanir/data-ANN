@@ -1,0 +1,781 @@
+<ann><anime id="243" gid="3209410281" type="TV" name="Dragon Ball" precision="TV" generated-on="2016-03-27T05:05:56Z">
+<related-prev rel="adapted from" id="297"/>
+<related-next id="244" rel="sequel"/>
+<related-next id="1035" rel="alternate retelling"/>
+<related-next id="2138" rel="alternate retelling"/>
+<related-next id="2139" rel="alternate retelling"/>
+<related-next id="2400" rel="alternate retelling"/>
+<related-next id="11349" rel="side story"/>
+<related-next id="11448" rel="spinoff"/>
+<info gid="3009726868" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A243-9.jpg" width="131" height="200"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A243-9.jpg" width="131" height="200"/></info>
+<info gid="1692982919" type="Main title" lang="EN">Dragon Ball</info>
+<info gid="1271272826" type="Alternative title" lang="ES">Zero y el dragon</info>
+<info gid="2352665359" type="Alternative title" lang="AR">دراغون بول</info>
+<info gid="1250318217" type="Alternative title" lang="JA">ドラゴンボール</info>
+<info gid="629473368" type="Genres">adventure</info>
+<info gid="103012966" type="Genres">comedy</info>
+<info gid="2628497195" type="Genres">fantasy</info>
+<info gid="3829397934" type="Genres">tournament</info>
+<info gid="946534844" type="Themes">aliens</info>
+<info gid="3412606699" type="Themes">developing powers</info>
+<info gid="3611417174" type="Themes">fighting</info>
+<info gid="2421154363" type="Themes">martial arts</info>
+<info gid="3837217870" type="Objectionable content">TA</info>
+<info gid="996423635" type="Plot Summary">Bulma is a girl in search of the mystical dragonballs that when brought together grant any wish. In her search she bumps into the owner of one of these balls, a strange boy named Goku. The two then set off together, Bulma in search of the dragonballs and Goku on a quest to become stronger.</info>
+<info gid="2703116418" type="Running time">half hour</info>
+<info gid="548736765" type="Number of episodes">153</info>
+<info gid="1621481093" type="Vintage">1986-02-26 to 1989-04-19</info>
+<info gid="2802684778" type="Vintage">1988-03-02 (France)</info>
+<info gid="2416266972" type="Vintage">1989 (Italy - Junior TV)</info>
+<info gid="2772327043" type="Vintage">1990-02-08 (Galicia, TVG)</info>
+<info gid="2576227955" type="Vintage">1990-02-21 (Euskadi, ETB)</info>
+<info gid="1906084136" type="Vintage">1990-02-26 (Catalunya, TV3)</info>
+<info gid="2822051086" type="Vintage">1996-04 (Brazil - SBT - Episodes 1-60)</info>
+<info gid="2447905433" type="Vintage">1999-08-30 to 2000-08-23 (Germany - RTL II)</info>
+<info gid="1511550166" type="Vintage">2001-08-20 (United Kingdom - Toonami)</info>
+<info gid="1000642042" type="Vintage">2001-08-20 to 2003-12-01 (USA- Cartoon Network)</info>
+<info gid="1944301612" type="Vintage">2002-07-09 to 2002-12-08 (Croatia - Nova TV)</info>
+<info gid="1976526256" type="Vintage">2006-05-30 (Cartoon Network L.A.)</info>
+<info gid="1577753470" type="Vintage">2006-09-18 (Spain, Cuatroº)</info>
+<info gid="3123694641" type="Vintage">2014-01-01 (Tooncast - Latin America)</info>
+<info gid="831837377" type="Opening Theme">&quot;Makafushigi Adventure!&quot; (魔訶不思議アドベンチャー!) by Hiroki Takahashi</info>
+<info gid="1639301324" type="Opening Theme">&quot;Mystical Adventure! (English Version)&quot; by Carl Finch</info>
+<info gid="2236402667" type="Ending Theme">&quot;I'll Give You Romance (English Version)&quot; by Daphne Gere</info>
+<info gid="968670290" type="Ending Theme">&quot;Romantic Ageru Yo&quot; (ロマンティックあげるよ) by Ushio Hashimoto</info>
+<info gid="1571545813" type="Insert song">&quot;Aoki Tabibito-tachi&quot; (青き旅人たち) by Hiroki Takahashi (ep 78)</info>
+<info gid="1262526971" type="Insert song">&quot;DragonBall Densetsu&quot; (ドラゴンボール伝説) by Hiroki Takahashi (eps 30,33,35,76)</info>
+<info gid="1793301455" type="Insert song">&quot;Fushigi Wonderland&quot; (不思議ワンダーランド) by Wonderland Gang (ep 29)</info>
+<info gid="2247463339" type="Insert song">&quot;Mezase Tenkaichi&quot; (めざせ 天下一) by Hiroki Takahashi (eps 28,86,95)</info>
+<info gid="852342420" type="Insert song">&quot;Moeru Heart de Red Ribbon Gun o Yattsukero&quot; (燃えるハートで 〜レッドリボン軍をやっつけろ〜) by Wonderland Gang (ep 65)</info>
+<info gid="1563408448" type="Insert song">&quot;Muten Rōshi no Oshie&quot; (武天老師の教え) by Kōhei Miyauchi (ep 130)</info>
+<info gid="1757702583" type="Insert song">&quot;Red Ribbon Army&quot; (レッドリボンアーミー) by Takayuki Miyauchi (ep 48)</info>
+<info gid="1244345073" type="Insert song">&quot;Son Gokū Song&quot; (孫悟空ソング) by Masako Nozawa (ep 43)</info>
+<info gid="1808074267" type="Insert song">&quot;Wolf Hurrcane&quot; (ウルフハリケーン) by Tōru Furuya (ep 87)</info>
+<info gid="1325046774" type="Official website" lang="EN" href="http://www.dragonball.com">Dragon Ball Official Website</info>
+<info gid="3504059384" type="Official website" lang="EN" href="http://www.dblegends.com">Dragon Ball Z GT Kai News</info>
+<info gid="2592113122" type="Official website" lang="EN" href="http://www.dragonballz.com.au/">Madman's Official Dragonball Website</info>
+<info gid="2749888953" type="Official website" lang="JA" href="http://www.ponycanyon.co.jp/dragonball/">Pony Canyon's Official Dragon Ball Website</info>
+<info gid="3496128802" type="Official website" lang="JA" href="http://www.toei-anim.co.jp/tv/dragon/">Toei's Dragon Ball page</info>
+<ratings nb_votes="4136" weighted_score="7.1553" bayesian_score="7.15645"/>
+<episode num="1">
+<title gid="1017963177" lang="EN">Bloomer and Son Goku</title></episode>
+<episode num="2">
+<title gid="3688205594" lang="EN">Oh My, Oh My! No Balls!</title></episode>
+<episode num="3">
+<title gid="2911152263" lang="EN">The Nimbus Cloud of Roshi</title></episode>
+<episode num="4">
+<title gid="1088327302" lang="EN">Oolong the Terrible</title></episode>
+<episode num="5">
+<title gid="215827345" lang="EN">The Great Yamcha of the Desert</title></episode>
+<episode num="6">
+<title gid="1203517400" lang="EN">Keep an Eye on the Dragon Balls</title></episode>
+<episode num="7">
+<title gid="3776113846" lang="EN">The Bull Demon Lord of Mount Frying Pan</title></episode>
+<episode num="8">
+<title gid="2785645285" lang="EN">The Kamehameha Wave</title></episode>
+<episode num="9">
+<title gid="2982240063" lang="EN">Boss Rabbit's Magic Touch</title></episode>
+<episode num="10">
+<title gid="1380678672" lang="EN">The Dragon Balls Are Stolen</title></episode>
+<episode num="11">
+<title gid="1029111647" lang="EN">The Dragon Finally Appears</title></episode>
+<episode num="12">
+<title gid="1968949762" lang="EN">A Wish to the Eternal Dragon</title></episode>
+<episode num="13">
+<title gid="3631275958" lang="EN">Goku's Great Transformation</title></episode>
+<episode num="14">
+<title gid="3676740454" lang="EN">Goku's Rival</title></episode>
+<episode num="15">
+<title gid="2732770351" lang="EN">Look Out for Launch</title></episode>
+<episode num="16">
+<title gid="2752339600" lang="EN">Find That Stone!</title></episode>
+<episode num="17">
+<title gid="3007581331" lang="EN">Milk Delivery</title></episode>
+<episode num="18">
+<title gid="2881928633" lang="EN">The Turtle Hermit Way</title></episode>
+<episode num="19">
+<title gid="1734492221" lang="EN">The Tournament Begins</title></episode>
+<episode num="20">
+<title gid="2722619208" lang="EN">Elimination Round</title></episode>
+<episode num="21">
+<title gid="3560945473" lang="EN">Kuririn is Endangered!</title></episode>
+<episode num="22">
+<title gid="108344661" lang="EN">Yamcha vs. Jackie Chun</title></episode>
+<episode num="23">
+<title gid="3576322190" lang="EN">Monster Beast Giran</title></episode>
+<episode num="24">
+<title gid="973299442" lang="EN">Krillin's Frantic Attack!</title></episode>
+<episode num="25">
+<title gid="205786536" lang="EN">Danger from Above</title></episode>
+<episode num="26">
+<title gid="2271146390" lang="EN">It's the Final Match! Kamehameha!</title></episode>
+<episode num="27">
+<title gid="3024467844" lang="EN">Goku is in a Pinch!</title></episode>
+<episode num="28">
+<title gid="2449928460" lang="EN">A Head-On Collision! Power vs. Power!</title></episode>
+<episode num="29">
+<title gid="1910988323" lang="EN">Another Adventure! The Wandering Lake</title></episode>
+<episode num="30">
+<title gid="128443844" lang="EN">Pilaf and the Mystery Force</title></episode>
+<episode num="31">
+<title gid="3302573661" lang="EN">Egad! A Goku Imposter!</title></episode>
+<episode num="32">
+<title gid="1104284882" lang="EN">The Disappearing Fortress</title></episode>
+<episode num="33">
+<title gid="994201091" lang="EN">The Legend of a Dragon</title></episode>
+<episode num="34">
+<title gid="2234122810" lang="EN">Cruel General Red</title></episode>
+<episode num="35">
+<title gid="1894098928" lang="EN">Cold Reception</title></episode>
+<episode num="36">
+<title gid="3158311408" lang="EN">Major Metallitron</title></episode>
+<episode num="37">
+<title gid="1300492126" lang="EN">The Ninja Murasaki is Coming!</title></episode>
+<episode num="38">
+<title gid="1747917590" lang="EN">Danger! The Alter Ego Technique</title></episode>
+<episode num="39">
+<title gid="176459397" lang="EN">Mysterious Android No.8</title></episode>
+<episode num="40">
+<title gid="2550084521" lang="EN">Horrifying Buyon</title></episode>
+<episode num="41">
+<title gid="1605968494" lang="EN">The End of Muscle Tower</title></episode>
+<episode num="42">
+<title gid="1307791104" lang="EN">The Secret of Dr. Flappe</title></episode>
+<episode num="43">
+<title gid="3266709694" lang="EN">A Trip to the City</title></episode>
+<episode num="44">
+<title gid="1422951583" lang="EN">Lots of Danger for Goku and His Friends</title></episode>
+<episode num="45">
+<title gid="2688993298" lang="EN">Beware! The Airborne Trap</title></episode>
+<episode num="46">
+<title gid="869802791" lang="EN">Bloomer's Big Mistake</title></episode>
+<episode num="47">
+<title gid="2094669349" lang="EN">Kame House - Found!</title></episode>
+<episode num="48">
+<title gid="2828575608" lang="EN">Commander Blue Launches His Attack!</title></episode>
+<episode num="49">
+<title gid="2827544671" lang="EN">Miss Lunch is in Danger!</title></episode>
+<episode num="50">
+<title gid="3928495767" lang="EN">The Pirate's Trap</title></episode>
+<episode num="51">
+<title gid="1028487590" lang="EN">Beware of Robot</title></episode>
+<episode num="52">
+<title gid="1846004544" lang="EN">The Pirate Treasure</title></episode>
+<episode num="53">
+<title gid="2172781416" lang="EN">Blue Blazing Eyes</title></episode>
+<episode num="54">
+<title gid="2423142032" lang="EN">Escape From Pirate Cave</title></episode>
+<episode num="55">
+<title gid="1884793917" lang="EN">Penguin Village</title></episode>
+<episode num="56">
+<title gid="2840136164" lang="EN">Arare Gets on the Cloud</title></episode>
+<episode num="57">
+<title gid="2533017823" lang="EN">Arale vs. Blue</title></episode>
+<episode num="58">
+<title gid="1263327958" lang="EN">Karin, the Holy Place</title></episode>
+<episode num="59">
+<title gid="3398403517" lang="EN">Taopaipai, the World's #1 Hit Man!</title></episode>
+<episode num="60">
+<title gid="3704576916" lang="EN">Kamehameha vs. Dodonpa</title></episode>
+<episode num="61">
+<title gid="1179931319" lang="EN">Korin Tower</title></episode>
+<episode num="62">
+<title gid="2443551847" lang="EN">Sacred Water</title></episode>
+<episode num="63">
+<title gid="2118581383" lang="EN">Son Goku's Revenge!</title></episode>
+<episode num="64">
+<title gid="1931645924" lang="EN">The Last of Mercenary Tao</title></episode>
+<episode num="65">
+<title gid="613486228" lang="EN">Confront the Red Ribbon Army</title></episode>
+<episode num="66">
+<title gid="3536766597" lang="EN">A Real Bind</title></episode>
+<episode num="67">
+<title gid="1296545284" lang="EN">Red Leader is Dead!</title></episode>
+<episode num="68">
+<title gid="3501429978" lang="EN">The Last Dragon Ball</title></episode>
+<episode num="69">
+<title gid="1114990400" lang="EN">The Cute Fortune Teller</title></episode>
+<episode num="70">
+<title gid="2701146903" lang="EN">The Five Fighters</title></episode>
+<episode num="71">
+<title gid="2150483061" lang="EN">Deadly Battle</title></episode>
+<episode num="72">
+<title gid="860848332" lang="EN">Goku and the Demon's Toilet</title></episode>
+<episode num="73">
+<title gid="2218511489" lang="EN">Devilmite Beam</title></episode>
+<episode num="74">
+<title gid="2587427821" lang="EN">The Mysterious 5th Fighter</title></episode>
+<episode num="75">
+<title gid="3553947765" lang="EN">Formidable Foes Clash!</title></episode>
+<episode num="76">
+<title gid="3700104323" lang="EN">The Identity of the Masked Man...?</title></episode>
+<episode num="77">
+<title gid="2568729831" lang="EN">Pilaf's Second Attempt</title></episode>
+<episode num="78">
+<title gid="1559659386" lang="EN">Shenlon Appears Once More</title></episode>
+<episode num="79">
+<title gid="1549959157" lang="EN">Terror and Plague</title></episode>
+<episode num="80">
+<title gid="3271490861" lang="EN">Goku vs. Sky Dragon</title></episode>
+<episode num="81">
+<title gid="4100635326" lang="EN">Goku Goes to Demon Land</title></episode>
+<episode num="82">
+<title gid="1617413044" lang="EN">Inoshikacho, the Monster</title></episode>
+<episode num="83">
+<title gid="2397254867" lang="EN">To the World Championship Martial Arts Tournament, Goku!</title></episode>
+<episode num="84">
+<title gid="2303618328" lang="EN">Battle to Be the Best!</title></episode>
+<episode num="85">
+<title gid="1847179469" lang="EN">Preliminary Peril</title></episode>
+<episode num="86">
+<title gid="282548213" lang="EN">The 8 Finalists</title></episode>
+<episode num="87">
+<title gid="1337019479" lang="EN">Yamcha vs. Ten Shin Han</title></episode>
+<episode num="88">
+<title gid="2473792587" lang="EN">Go Yamcha! Ten Shin Han the Formidable Foe</title></episode>
+<episode num="89">
+<title gid="70375256" lang="EN">Full-Moon Vengeance</title></episode>
+<episode num="90">
+<title gid="1704421680" lang="EN">Oh My! It's the Dodonpa!</title></episode>
+<episode num="91">
+<title gid="1570598337" lang="EN">Counting Controversy!</title></episode>
+<episode num="92">
+<title gid="2297712779" lang="EN">Goku Enters the Ring</title></episode>
+<episode num="93">
+<title gid="1490818156" lang="EN">An Even Match: Jackie Chung vs. Ten Shin Han</title></episode>
+<episode num="94">
+<title gid="1451561143" lang="EN">Solar Power -- The New Crane School Technique</title></episode>
+<episode num="95">
+<title gid="3286236823" lang="EN">A Great Fight! Goku vs. Kuririn</title></episode>
+<episode num="96">
+<title gid="2594495599" lang="EN">Kuririn's Great Attack</title></episode>
+<episode num="97">
+<title gid="2596058358" lang="EN">Final Match: Goku Vs. Tien Shinhan</title></episode>
+<episode num="98">
+<title gid="1317610890" lang="EN">Battle Power</title></episode>
+<episode num="99">
+<title gid="107021397" lang="EN">Enlightenment?</title></episode>
+<episode num="100">
+<title gid="2158404313" lang="EN">Live or Die! The Final Tactic</title></episode>
+<episode num="101">
+<title gid="2667982430" lang="EN">A New Champion</title></episode>
+<episode num="102">
+<title gid="2503151097" lang="EN">Enter King Piccolo</title></episode>
+<episode num="103">
+<title gid="1795089420" lang="EN">Tambourine Attack!</title></episode>
+<episode num="104">
+<title gid="2756328902" lang="EN">Come Back to Life, Son Goku!</title></episode>
+<episode num="105">
+<title gid="1944101520" lang="EN">Here Comes Yajirobe</title></episode>
+<episode num="106">
+<title gid="3055319040" lang="EN">Demonical Beast. The Coming of Tambarin</title></episode>
+<episode num="107">
+<title gid="3138661624" lang="EN">Goku's Fury Explodes</title></episode>
+<episode num="108">
+<title gid="2396022068" lang="EN">Demon Lord Piccolo Lands</title></episode>
+<episode num="109">
+<title gid="1345466364" lang="EN">Goku vs King Piccolo</title></episode>
+<episode num="110">
+<title gid="1896586183" lang="EN">Go Son Goku!</title></episode>
+<episode num="111">
+<title gid="2320893023" lang="EN">Roshi's Gambit</title></episode>
+<episode num="112">
+<title gid="2067037974" lang="EN">King Piccolo's Wish</title></episode>
+<episode num="113">
+<title gid="4114638252" lang="EN">King Castle's Defenses</title></episode>
+<episode num="114">
+<title gid="227712522" lang="EN">Conquest &amp; Power</title></episode>
+<episode num="115">
+<title gid="1148447550" lang="EN">Awaken Darkness</title></episode>
+<episode num="116">
+<title gid="1059000309" lang="EN">A Taste of Destiny</title></episode>
+<episode num="117">
+<title gid="3098053130" lang="EN">Son Goku Reborn!</title></episode>
+<episode num="118">
+<title gid="2070694279" lang="EN">Prelude to Vengeance</title></episode>
+<episode num="119">
+<title gid="804694469" lang="EN">Battle Cry</title></episode>
+<episode num="120">
+<title gid="1811289631" lang="EN">Goku Strikes Back</title></episode>
+<episode num="121">
+<title gid="3529780479" lang="EN">Son Goku's Ultimate Challenge</title></episode>
+<episode num="122">
+<title gid="3777355580" lang="EN">Final Showdow</title></episode>
+<episode num="123">
+<title gid="2959883412" lang="EN">Lost &amp; Found</title></episode>
+<episode num="124">
+<title gid="3467250442" lang="EN">Temple Above the Clouds</title></episode>
+<episode num="125">
+<title gid="456502097" lang="EN">Earth's Guardian Emerges</title></episode>
+<episode num="126">
+<title gid="3880659284" lang="EN">Eternal Dragon Resurrected</title></episode>
+<episode num="127">
+<title gid="2117980950" lang="EN">Faster Than Lightning</title></episode>
+<episode num="128">
+<title gid="2342358878" lang="EN">Quiet as the Sky</title></episode>
+<episode num="129">
+<title gid="666763917" lang="EN">Goku, the Time Traveler</title></episode>
+<episode num="130">
+<title gid="1074264593" lang="EN">Goku's Doll?</title></episode>
+<episode num="131">
+<title gid="2197596663" lang="EN">Each on His Own Path</title></episode>
+<episode num="132">
+<title gid="1672766611" lang="EN">Hotter Than Lava</title></episode>
+<episode num="133">
+<title gid="3026337017" lang="EN">Changes</title></episode>
+<episode num="134">
+<title gid="2113285378" lang="EN">Preliminary Peril</title></episode>
+<episode num="135">
+<title gid="1487315960" lang="EN">Battle of Eight</title></episode>
+<episode num="136">
+<title gid="624525092" lang="EN">Taopaipai's Counterattack</title></episode>
+<episode num="137">
+<title gid="1021071187" lang="EN">Anonymous Proposal</title></episode>
+<episode num="138">
+<title gid="1815384693" lang="EN">The Mysterious Hero</title></episode>
+<episode num="139">
+<title gid="2356604449" lang="EN">Goku vs. Ten Shin Han -- The Rematch</title></episode>
+<episode num="140">
+<title gid="621796182" lang="EN">Goku Gains Speed</title></episode>
+<episode num="141">
+<title gid="2573466580" lang="EN">Four Ten Shin Hans</title></episode>
+<episode num="142">
+<title gid="3474766327" lang="EN">Kami vs Piccolo</title></episode>
+<episode num="143">
+<title gid="2169578906" lang="EN">Battle for the Future</title></episode>
+<episode num="144">
+<title gid="423495675" lang="EN">Super Kamehameha</title></episode>
+<episode num="145">
+<title gid="2452216547" lang="EN">Demon Lord Piccolo's Super Size Technique</title></episode>
+<episode num="146">
+<title gid="772621992" lang="EN">Goku's Trap</title></episode>
+<episode num="147">
+<title gid="3647129049" lang="EN">All Comes to an End</title></episode>
+<episode num="148">
+<title gid="2208393725" lang="EN">He Did It! He's the World's Strongest Fighter</title></episode>
+<episode num="149">
+<title gid="2497962710" lang="EN">A Wedding Dress in the Flames</title></episode>
+<episode num="150">
+<title gid="3527202876" lang="EN">The Fire-Eater</title></episode>
+<episode num="151">
+<title gid="3958108669" lang="EN">Outrageous Octagon</title></episode>
+<episode num="152">
+<title gid="1897737767" lang="EN">Hurry Goku! The Mystery of Mt. Gogyo</title></episode>
+<episode num="153">
+<title gid="2130923114" lang="EN">Mt. Frying Pan Burns: A Life and Death Decision</title></episode>
+<review href="http://www.animenewsnetwork.com/review/dragon-ball-season-4/dvd">Dragon Ball Season 4</review>
+<review href="http://www.animenewsnetwork.com/review/dragon-ball/dvd-season-3">Dragon Ball DVD Season 3</review>
+<review href="http://www.animenewsnetwork.com/review/dragon-ball/dvd-season-2">Dragon Ball DVD Season 2 Uncut Set</review>
+<release date="2002-10-01" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=14648">Dragon Ball - Tournament Day: Tien Shinhan (Edited) (DVD)</release>
+<release date="2002-10-01" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=14647">Dragon Ball - Tournament Day: Tien Shinhan (Uncut) (DVD)</release>
+<release date="2009-09-15" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=14821">Dragon Ball - Season 1 Uncut Set (DVD)</release>
+<release date="2009-11-10" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=14921">Dragon Ball - Season 2 Uncut Set (DVD)</release>
+<release date="2010-02-02" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=16202">Dragon Ball - Season 3 (DVD)</release>
+<release date="2000-10-24" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=15627">Dragon Ball - The Saga Of Goku (DVD)</release>
+<release date="2003-01-28" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=15628">Dragon Ball - Tournament Saga (DVD)</release>
+<release date="2005-12-20" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=15626">Dragon Ball - Sleeping Princess 2 (DVD)</release>
+<release date="2002-10-01" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=14650">Dragon Ball: Fortune Teller Baba - Goku's Journey (Edited) (DVD)</release>
+<release date="2002-10-01" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=14649">Dragon Ball: Fortune Teller Baba - Goku's Journey (Uncut) (DVD)</release>
+<release date="2003-03-18" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1227">Dragon Ball - King Piccolo Set 1 (DVD)</release>
+<release date="2003-04-29" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1088">Dragon Ball - Feature 1: The Path to Power (DVD)</release>
+<release date="2003-06-03" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1228">Dragon Ball -  King Piccolo Set 2 (DVD)</release>
+<release date="2003-07-15" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1387">Dragon Ball - Piccolo Junior Set 1 (DVD)</release>
+<release date="2003-09-23" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1524">Dragon Ball - General Blue Box Set (DVD)</release>
+<release date="2003-11-11" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2151">Dragon Ball - Commander Red Saga DVD Box Set (DVD)</release>
+<release date="2004-03-09" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2377">Dragon Ball - Fortune Teller Baba Saga DVD Set (DVD)</release>
+<release date="2004-09-28" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2901">Dragon Ball - Tien Shinhan Saga DVD Set (DVD)</release>
+<release date="2003-08-19" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=1388">Dragon Ball - Piccolo Junior Set 2 (DVD 2)</release>
+<release date="2010-05-04" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=16237">Dragon Ball Season 4 Uncut DVD Set  (DVD)</release>
+<release date="2010-07-27" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=16248">Dragon Ball Season 5 Uncut DVD Set  (DVD)</release>
+<release date="2005-04-12" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=4139">Dragon Ball Z - Saiyan Showdown + Artbox (DVD 1)</release>
+<release date="2009-08-04" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=13923">Dragon Ball - Chapter Book: The Adventure Begins! (GN 1)</release>
+<release date="2009-08-04" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=13922">Dragon Ball - Chapter Book (GN 2)</release>
+<release date="2009-09-01" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=14582">Dragon Ball - Chapter Book: Into the Fire (GN 3)</release>
+<release date="2009-09-01" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=14583">Dragon Ball - Chapter Book: Carrots with a Side of Pilaf (GN 4)</release>
+<release date="2009-11-03" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=14567">Dragon Ball - Chapter Book: One Enemy, One Goal (GN 5)</release>
+<release date="2010-01-05" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=14550">Dragon Ball - Chapter Book (GN 6)</release>
+<release date="2010-03-02" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=16861">Dragon Ball Chapter Book - Let the Tournament Begin (GN 7)</release>
+<release date="2010-05-04" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=16727">Dragon Ball Chapter Book - Fight to the Finish (GN 8)</release>
+<release date="2010-07-06" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=16625">Dragon Ball Chapter Book - Is This the End? (GN 9)</release>
+<release date="2010-09-07" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=16516">Dragon Ball Chapter Book - Strongest Under the Heavens (GN 10)</release>
+<release date="2001-08-21" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=197">Dragon Ball - Tournament - Fighters Begin! (Dub.VHS 9)</release>
+<release date="2001-10-23" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=199">Dragon Ball - Tournament - Semi-Finals (Dub.VHS 10)</release>
+<release date="2001-10-23" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=198">Dragon Ball - Tournament - Final Test (Dub.VHS 11)</release>
+<news datetime="2000-09-12T04:12:42Z" href="http://www.animenewsnetwork.com/news/2000-09-11/gundam-tops-anime-poll">Gundam Tops Anime Poll</news>
+<news datetime="2001-01-16T03:56:48Z" href="http://www.animenewsnetwork.com/news/2001-01-15/animage-top-100-anime-listing">Animage Top-100 Anime Listing</news>
+<news datetime="2001-03-10T01:38:37Z" href="http://www.animenewsnetwork.com/news/2001-03-09/rough-air-date-for-dragonball">Rough air date for Dragonball</news>
+<news datetime="2001-04-15T22:18:50Z" href="http://www.animenewsnetwork.com/news/2001-04-15/more-anime-sites-shut-down">More Anime Sites Shut Down</news>
+<news datetime="2001-07-20T01:12:09Z" href="http://www.animenewsnetwork.com/news/2001-07-19/tokyopop-announcements-at-comicon">Tokyopop Announcements at Comicon</news>
+<news datetime="2001-10-18T04:09:22Z" href="http://www.animenewsnetwork.com/news/2001-10-18/boston-anime-convention-features-mika-akitaka">Boston Anime Convention features Mika Akitaka</news>
+<news datetime="2001-12-04T10:04:08Z" href="http://www.animenewsnetwork.com/news/2001-12-04/toonami-changes-lineup-again">Toonami Changes Lineup Again</news>
+<news datetime="2002-07-13T16:11:20Z" href="http://www.animenewsnetwork.com/news/2002-07-13/tokyopop-open-letter-regarding-initial-d">Tokyopop Open Letter regarding Initial D</news>
+<news datetime="2003-01-04T16:35:11Z" href="http://www.animenewsnetwork.com/news/2003-01-04/jakks-picks-up-dragonball-license">Jakks picks up Dragonball License</news>
+<news datetime="2005-09-23T17:39:30Z" href="http://www.animenewsnetwork.com/news/2005-09-23/tv-asahi-top-100-anime">TV Asahi Top 100 Anime</news>
+<news datetime="2005-09-23T20:38:14Z" href="http://www.animenewsnetwork.com/news/2005-09-23/tv-asahi-top-100-anime-part-2">TV Asahi Top 100 Anime Part 2</news>
+<news datetime="2006-10-12T21:45:00Z" href="http://www.animenewsnetwork.com/news/2006-10-13/japans-favorite-tv-anime">Japan's Favorite TV Anime</news>
+<news datetime="2007-03-09T21:11:01Z" href="http://www.animenewsnetwork.com/news/2007-03-09/haruko-momoi-releases-chiptune-album">Voice Actress Haruko Momoi Releases Chiptune Album</news>
+<news datetime="2007-04-20T15:05:39Z" href="http://www.animenewsnetwork.com/news/2007-04-20/japanese-anime-dvd-ranking-april-11-17">Japanese Anime DVD Ranking, April 11-17</news>
+<news datetime="2007-04-26T07:01:18Z" href="http://www.animenewsnetwork.com/news/2007-04-26/heroes-masi-oka-acknowledges-anime-manga-influences">&lt;cite&gt;Heroes'&lt;/cite&gt; Masi Oka Acknowledges Anime, Manga Influences</news>
+<news datetime="2007-04-26T17:01:50Z" href="http://www.animenewsnetwork.com/news/2007-04-26/japanese-anime-dvd-ranking-april-18-24">Japanese Anime DVD Ranking, April 18-24</news>
+<news datetime="2007-05-11T12:15:04Z" href="http://www.animenewsnetwork.com/news/2007-05-11/japanese-anime-dvd-ranking-may-2-8">Japanese Anime DVD Ranking, May 2–8</news>
+<news datetime="2007-05-24T09:09:24Z" href="http://www.animenewsnetwork.com/news/2007-05-24/japanese-man-arrested-for-bootlegging-dragonball-dvds">Japanese Man Arrested for Bootlegging &lt;cite&gt;Dragonball&lt;/cite&gt; DVDs</news>
+<news datetime="2007-05-24T16:42:21Z" href="http://www.animenewsnetwork.com/news/2007-05-24/japanese-animation-dvd-ranking-may-16-22">Japanese Animation DVD Ranking, May 16–22</news>
+<news datetime="2007-06-12T14:03:33Z" href="http://www.animenewsnetwork.com/news/2007-06-12/more-distractions-lead-to-falling-kids-anime-ratings">More Distractions Lead to Falling Kids' Anime Ratings</news>
+<news datetime="2007-06-16T00:12:45Z" href="http://www.animenewsnetwork.com/news/2007-06-15/japanese-animation-dvd-ranking-june-6-12">Japanese Animation DVD Ranking, June 6–12</news>
+<news datetime="2007-06-20T14:10:18Z" href="http://www.animenewsnetwork.com/news/2007-06-20/japanese-animation-dvd-ranking-june-13-19">Japanese Animation DVD Ranking, June 13–19</news>
+<news datetime="2007-07-20T08:58:12Z" href="http://www.animenewsnetwork.com/news/2007-07-20/japanese-animation-dvd-ranking-june-20-july-17">Japanese Animation DVD Ranking, June 20–July 17</news>
+<news datetime="2007-08-08T00:53:34Z" href="http://www.animenewsnetwork.com/news/2007-08-07/funimation's-parent-navarre-posts-first-quarter-results">Funimation's Parent Navarre Posts First Quarter Results</news>
+<news datetime="2007-09-03T12:57:32Z" href="http://www.animenewsnetwork.com/news/2007-09-03/japanese-box-office-august-25-26-september-1-2">Japanese Box Office: August 25-26, September 1-2</news>
+<news datetime="2007-09-05T09:12:41Z" href="http://www.animenewsnetwork.com/news/2007-09-05/fox-acknowledges-dragon-ball-film-but-mum-on-shooting">Fox Acknowledges &lt;cite&gt;Dragon Ball&lt;/cite&gt; Film, Stays Mum on Details</news>
+<news datetime="2007-11-17T00:21:54Z" href="http://www.animenewsnetwork.com/news/2007-11-16/japanese-animation-dvd-ranking-november-7-13">Japanese Animation DVD Ranking, November 7–13</news>
+<news datetime="2007-12-14T23:27:59Z" href="http://www.animenewsnetwork.com/news/2007-12-15/japanese-animation-dvd-ranking-december-5-11">Japanese Animation DVD Ranking, December 5–11</news>
+<news datetime="2007-12-13T08:41:51Z" href="http://www.animenewsnetwork.com/news/2007-12-13/japanese-animation-dvd-ranking-december-5-11/2">Japanese Animation DVD Ranking, December 5–11</news>
+<news datetime="2008-02-13T04:51:31Z" href="http://www.animenewsnetwork.com/news/2008-02-12/bakugan-to-debut-on-cartoon-network-on-february-25">&lt;cite&gt;Bakugan&lt;/cite&gt; to Debut on Cartoon Network on February 25</news>
+<news datetime="2008-02-18T19:54:02Z" href="http://www.animenewsnetwork.com/news/2008-02-18/bandai-top-franchises">Bandai's Top Franchises: &lt;cite&gt;Gundam, Rangers, Dragon Ball&lt;/cite&gt;</news>
+<news datetime="2008-02-19T22:25:27Z" href="http://www.animenewsnetwork.com/news/2008-02-19/funimations-one-piece-merchandising">Funimations Acquires &lt;cite&gt;One Piece&lt;/cite&gt; Merchandising Rights</news>
+<news datetime="2008-03-01T00:54:49Z" href="http://www.animenewsnetwork.com/news/2008-02-29/usa-cartoon-network-to-run-blue-dragon-this-spring">America's Cartoon Network to Run &lt;cite&gt;Blue Dragon&lt;/cite&gt; This Spring</news>
+<news datetime="2008-03-03T19:34:13Z" href="http://www.animenewsnetwork.com/news/2008-03-03/funimation-channel-adds-moonphase-peach-girl-suzuka">Funimation Channel Adds &lt;cite&gt;MoonPhase, Peach Girl, Suzuka&lt;/cite&gt;</news>
+<news datetime="2008-03-06T10:55:43Z" href="http://www.animenewsnetwork.com/news/2008-03-06/disney-madhouse-to-make-stitch-show-for-japanese-tv">Disney, Madhouse to Make &lt;cite&gt;Stitch!&lt;/cite&gt; Show for Japanese TV</news>
+<news datetime="2008-05-10T09:14:31Z" href="http://www.animenewsnetwork.com/news/2008-05-10/namco-bandai-holdings-releases-2007-08-financials">Namco Bandai Holdings Releases 2007-08 Financials</news>
+<news datetime="2008-06-08T17:16:54Z" href="http://www.animenewsnetwork.com/news/2008-06-08/jump-super-tour-anime-lineup-announced-in-japan">Jump Super Tour's Anime Lineup Announced in Japan</news>
+<news datetime="2008-07-10T17:47:46Z" href="http://www.animenewsnetwork.com/news/2008-07-10/one-piece-prototype-romance-dawn-to-be-animated">&lt;cite&gt;One Piece's&lt;/cite&gt; 'Prototype' &lt;cite&gt;Romance Dawn&lt;/cite&gt; to be Animated</news>
+<news datetime="2008-08-05T21:00:08Z" href="http://www.animenewsnetwork.com/news/2008-08-05/japanese-man-arrested-for-pirated-anime-dvd-auctions">Japanese Man Arrested for Pirated Anime DVD Auctions</news>
+<news datetime="2008-08-15T03:57:00Z" href="http://www.animenewsnetwork.com/news/2008-08-14/japanese-animation-dvd-ranking-august-6-12">Japanese Animation DVD Ranking, August 6–12</news>
+<news datetime="2008-08-21T04:47:13Z" href="http://www.animenewsnetwork.com/news/2008-08-21/newspaper-profiles-toei-animation-philippines-studio">Newspaper Profiles Toei Animation Philippines Studio</news>
+<news datetime="2008-08-25T18:33:39Z" href="http://www.animenewsnetwork.com/news/2008-08-25/japanese-animation-dvd-ranking-august-13-20">Japanese Animation DVD Ranking, August 13–20</news>
+<news datetime="2008-09-20T21:36:34Z" href="http://www.animenewsnetwork.com/news/2008-09-20/cartoon-network-to-reportedly-end-toonami-tonight">Cartoon Network to End Toonami on September 20</news>
+<news datetime="2008-09-21T03:57:00Z" href="http://www.animenewsnetwork.com/news/2008-09-20/japanese-animation-dvd-ranking-september-10-16">Japanese Animation DVD Ranking, September 10–16</news>
+<news datetime="2008-09-25T23:51:07Z" href="http://www.animenewsnetwork.com/news/2008-09-25/japanese-animation-dvd-ranking-september-17-23">Japanese Animation DVD Ranking, September 17–23</news>
+<news datetime="2008-09-26T06:23:38Z" href="http://www.animenewsnetwork.com/news/2008-09-26/toonami-former-creative-directors-interviewed">Toonami's Former Creative Directors Interviewed</news>
+<news datetime="2008-10-07T03:06:00Z" href="http://www.animenewsnetwork.com/news/2008-10-06/japanese-animation-dvd-ranking-september-24-30">Japanese Animation DVD Ranking, September 24–30</news>
+<news datetime="2008-10-11T09:52:13Z" href="http://www.animenewsnetwork.com/news/2008-10-11/japanese-animation-dvd-ranking-october-1-7">Japanese Animation DVD Ranking, October 1-7</news>
+<news datetime="2008-10-16T22:10:50Z" href="http://www.animenewsnetwork.com/news/2008-10-16/japanese-animation-dvd-ranking-september-24-october-14">Japanese Animation DVD Ranking, September 24-October 14</news>
+<news datetime="2008-10-24T03:12:41Z" href="http://www.animenewsnetwork.com/news/2008-10-23/japanese-animation-dvd-ranking-october-15-21">Japanese Animation DVD Ranking, October 15-21</news>
+<news datetime="2008-10-26T23:55:49Z" href="http://www.animenewsnetwork.com/news/2008-10-26/3-arrested-for-stealing-dragon-ball-vending-machine">3 Arrested for Stealing &lt;cite&gt;Dragon Ball&lt;/cite&gt; Vending Machine</news>
+<news datetime="2008-10-29T01:27:52Z" href="http://www.animenewsnetwork.com/news/2008-10-28/funimation-sues-ca-retail-sites-over-alleged-bootlegs">FUNimation Sues CA Retail Sites over Alleged Bootlegs</news>
+<news datetime="2008-11-19T03:42:11Z" href="http://www.animenewsnetwork.com/news/2008-11-18/japanese-animation-dvd-ranking-november-12-18">Japanese Animation DVD Ranking, November 12-18</news>
+<news datetime="2008-12-17T03:49:35Z" href="http://www.animenewsnetwork.com/news/2008-12-16/japanese-animation-dvd-ranking-december-9-15">Japanese Animation DVD Ranking, December 9-15</news>
+<news datetime="2008-12-22T16:18:18Z" href="http://www.animenewsnetwork.com/news/2008-12-22/new-db-tegami-bachi-romance-dawn-anime-dvd-offered">New &lt;cite&gt;DB, Tegami Bachi, Romance Dawn&lt;/cite&gt; Anime DVD Offered</news>
+<news datetime="2009-01-04T21:36:49Z" href="http://www.animenewsnetwork.com/news/2009-01-04/bandai-remakes-complete-dragon-ball-1988-1990-card-set">Bandai Remakes Complete &lt;cite&gt;Dragon Ball&lt;/cite&gt; 1988-1990 Card Set</news>
+<news datetime="2009-01-14T04:57:00Z" href="http://www.animenewsnetwork.com/news/2009-01-13/japanese-animation-dvd-ranking-january-6-12">Japanese Animation DVD Ranking, January 6-12</news>
+<news datetime="2009-01-21T02:54:26Z" href="http://www.animenewsnetwork.com/news/2009-01-20/japanese-animation-dvd-ranking-january-13-19">Japanese Animation DVD Ranking, January 13-19</news>
+<news datetime="2009-02-12T12:18:34Z" href="http://www.animenewsnetwork.com/news/2009-02-12/reorganization-of-bandai-visual-announced">Reorganization of Bandai Visual Announced</news>
+<news datetime="2009-03-02T13:16:15Z" href="http://www.animenewsnetwork.com/news/2009-03-02/toei-confirms-dragon-ball-kai-is-edited-to-follow-manga">Toei Confirms &lt;cite&gt;Dragon Ball Kai&lt;/cite&gt; is Edited to Follow Manga</news>
+<news datetime="2009-03-03T18:57:03Z" href="http://www.animenewsnetwork.com/news/2009-03-03/japanese-animation-dvd-ranking-february-10-16">Japanese Animation DVD Ranking, February 10-16</news>
+<news datetime="2009-03-04T01:51:51Z" href="http://www.animenewsnetwork.com/news/2009-03-03/japanese-animation-dvd-ranking-february-17-23">Japanese Animation DVD Ranking, February 17-23</news>
+<news datetime="2009-03-08T01:08:29Z" href="http://www.animenewsnetwork.com/news/2009-03-07/professor-layton/the-first-movie-2-teasers-streamed">&lt;cite&gt;Professor Layton: The First Movie's&lt;/cite&gt; 2 Teasers Streamed</news>
+<news datetime="2009-03-18T03:57:00Z" href="http://www.animenewsnetwork.com/news/2009-03-17/japanese-animation-dvd-ranking-march-10-16">Japanese Animation DVD Ranking, March 10-16</news>
+<news datetime="2009-04-01T12:47:21Z" href="http://www.animenewsnetwork.com/news/2009-04-01/n-america-2007-anime-market-pegged-at-us$2.8-billion">N. America's 2007 Anime Market Pegged at US$2.8 Billion (Update 3)</news>
+<news datetime="2009-07-04T20:04:20Z" href="http://www.animenewsnetwork.com/news/2009-07-04/funimation-to-release-sengoku-basara">Funimation Adds &lt;cite&gt;Sengoku Basara&lt;/cite&gt; TV Anime Series (Update 2)</news>
+<news datetime="2009-07-30T20:39:18Z" href="http://www.animenewsnetwork.com/news/2009-07-30/navarre/funimation-exceeds-q1-expectations-in-sales">Navarre: Funimation Exceeds Q1 Expectations in Sales</news>
+<news datetime="2009-08-07T22:10:01Z" href="http://www.animenewsnetwork.com/news/2009-08-07/japanese-animation-blu-ray-disc-ranking-july-27-august-2">Japanese Animation Blu-ray Disc Ranking, July 27-August 2</news>
+<news datetime="2009-09-04T09:14:36Z" href="http://www.animenewsnetwork.com/news/2009-09-04/wall-e-eden-of-the-east-haruhi-chan-win-anime-kobe-awards">&lt;cite&gt;WALL-E, Eden of the East, Haruhi-chan&lt;/cite&gt; Win Anime Kobe Awards</news>
+<news datetime="2009-09-22T03:57:00Z" href="http://www.animenewsnetwork.com/news/2009-09-21/hearjapan-adds-433-live-recordings-of-anime-related-songs">HearJapan Adds 433 Live Recordings of Anime-Related Songs</news>
+<news datetime="2009-10-18T17:47:26Z" href="http://www.animenewsnetwork.com/news/2009-10-18/14-anime-singers-record-imagine-to-fight-world-hunger">14 Anime Singers Record 'Imagine' to Fight World Hunger</news>
+<news datetime="2009-11-30T19:55:50Z" href="http://www.animenewsnetwork.com/news/2009-11-30/japan-animation-tv-ranking-november-16-22">Japan's Animation TV Ranking, November 16-22</news>
+<news datetime="2009-12-24T13:26:15Z" href="http://www.animenewsnetwork.com/news/2009-12-24/japan-animation-tv-ranking-november-30-december-6">Japan's Animation TV Ranking, November 30-December 6</news>
+<news datetime="2010-01-07T21:12:19Z" href="http://www.animenewsnetwork.com/news/2010-01-07/jakks-dentsu-develop-japanese-animated-monsuno-for-tv">Jakks, Dentsu Develop Japanese-Animated &lt;cite&gt;Monsuno&lt;/cite&gt; for TV</news>
+<news datetime="2010-01-18T08:04:58Z" href="http://www.animenewsnetwork.com/news/2010-01-18/dragon-ball-actor-daisuke-gouri-reportedly-passes-away">&lt;cite&gt;Dragon Ball&lt;/cite&gt; Actor Daisuke Gouri Passes Away</news>
+<news datetime="2010-01-28T00:07:15Z" href="http://www.animenewsnetwork.com/news/2010-01-27/male-arrested-in-japan-for-uploading-via-perfect-dark">Male Arrested in Japan for Uploading via Perfect Dark (Update 2)</news>
+<news datetime="2010-02-22T22:02:25Z" href="http://www.animenewsnetwork.com/news/2010-02-22/seattle-sakura-con-to-premiere-trigun-film">Seattle's Sakura-Con Hosts &lt;cite&gt;Trigun&lt;/cite&gt; Film Premiere, Staff</news>
+<news datetime="2010-05-20T11:00:00Z" href="http://www.animenewsnetwork.com/news/2010-05-20/japan-surveyed-on-anime-manga-other-cultural-exports">Japan Surveyed on Anime, Manga, Other Cultural Exports</news>
+<news datetime="2010-08-09T13:06:44Z" href="http://www.animenewsnetwork.com/news/2010-08-09/dragon-ball/rb2-game-to-add-new-hour-anime">&lt;cite&gt;Dragon Ball: RB2&lt;/cite&gt; Game to Add New 1/2-Hour Anime</news>
+<news datetime="2010-09-30T18:01:36Z" href="http://www.animenewsnetwork.com/news/2010-09-30/cobra-jesus-umezu-manga-released-in-english">&lt;cite&gt;Cobra, Jesus,&lt;/cite&gt; Umezu Manga Released in English</news>
+<news datetime="2011-01-03T16:31:47Z" href="http://www.animenewsnetwork.com/news/2011-01-03/funimation-to-stream-dragon-ball-z-in-north-america">Funimation to Stream &lt;cite&gt;Dragon Ball Z&lt;/cite&gt; in North America</news>
+<news datetime="2011-01-16T03:42:35Z" href="http://www.animenewsnetwork.com/news/2011-01-15/north-american-anime-manga-releases-for-february-2011">North American Anime, Manga Releases for February 2011</news>
+<news datetime="2011-02-09T23:18:44Z" href="http://www.animenewsnetwork.com/news/2011-02-09/north-american-anime-manga-releases/february-6-12">North American Anime, Manga Releases: February 6-12</news>
+<news datetime="2011-04-29T21:45:00Z" href="http://www.animenewsnetwork.com/news/2011-04-29/california-fanime-to-host-trigun-designer-takahiro-yoshimatsu">California's Fanime to Host &lt;cite&gt;Trigun&lt;/cite&gt; Designer Takahiro Yoshimatsu</news>
+<news datetime="2011-05-05T06:45:00Z" href="http://www.animenewsnetwork.com/news/2011-05-05/california-fanime-to-host-voice-actor-tohru-furuya">California's Fanime to Host Voice Actor Tohru Furuya</news>
+<news datetime="2011-05-19T12:38:03Z" href="http://www.animenewsnetwork.com/news/2011-05-19/voice-actors-announced-at-mcm-expo">(Updated) Voice-Actors Announced At MCM Expo</news>
+<news datetime="2011-06-17T18:49:16Z" href="http://www.animenewsnetwork.com/news/2011-06-17/anime-expo-hosts-toshio-furukawa">Anime Expo Hosts Toshio Furukawa</news>
+<news datetime="2011-08-29T13:00:00Z" href="http://www.animenewsnetwork.com/news/2011-08-29/voice-actor/narrator-junpei-takiguchi-passes-away">Voice Actor/Narrator Junpei Takiguchi Passes Away</news>
+<news datetime="2011-10-13T23:46:37Z" href="http://www.animenewsnetwork.com/news/2011-10-13/kami-voice-film-to-have-anime-sequence-by-production-i.g">&lt;cite&gt;Kami Voice&lt;/cite&gt; Film to Have Anime Sequence by Production I.G</news>
+<news datetime="2011-10-25T14:19:57Z" href="http://www.animenewsnetwork.com/news/2011-10-25/advertisement-for-u.k-dragonball-z-dvd-box-set">Manga UK: Pulled Dragon Ball Box Ad Is Not True</news>
+<news datetime="2011-10-29T21:15:39Z" href="http://www.animenewsnetwork.com/news/2011-10-29/toei-animation-breaks-down-2011-earnings-by-franchise">Toei Animation Breaks Down 2011 Earnings by Franchise</news>
+<news datetime="2011-11-06T00:30:00Z" href="http://www.animenewsnetwork.com/news/2011-11-05/bandai-namco-breaks-down-revenues-by-franchise">Bandai Namco Breaks Down Revenues by Franchise</news>
+<news datetime="2011-12-14T16:40:00Z" href="http://www.animenewsnetwork.com/news/2011-12-14/monster-hunter-3-g-sells-521959-to-top-weekly-chart">&lt;cite&gt;Monster Hunter 3 G&lt;/cite&gt; Sells 521,959 to Top Weekly Chart</news>
+<news datetime="2011-12-15T08:00:00Z" href="http://www.animenewsnetwork.com/news/2011-12-15/u.s-tv-nicktoons-to-run-dragon-ball-gt-in-january">U.S. TV's Nicktoons to Run &lt;cite&gt;Dragon Ball GT&lt;/cite&gt; in January</news>
+<news datetime="2012-12-12T13:18:08Z" href="http://www.animenewsnetwork.com/news/2012-12-12/dragon-ball-z/battle-of-gods-full-trailer-streamed">&lt;cite&gt;Dragon Ball Z: Battle of Gods'&lt;/cite&gt; Full Trailer Streamed</news>
+<news datetime="2013-02-18T11:54:05Z" href="http://www.animenewsnetwork.com/news/2013-02-18/some-of-the-7th-annual-seiyu-award-winners-announced">Some of the 7th Annual Seiyū Award Winners Announced</news>
+<news datetime="2013-10-29T15:38:00Z" href="http://www.animenewsnetwork.com/news/2013-10-29/dragon-ball-rpg/young-boy-chapter-smartphone-game-promo-streamed">&lt;cite&gt;Dragon Ball RPG: Young Boy Chapter&lt;/cite&gt; Smartphone Game's Promo Streamed</news>
+<news datetime="2014-05-04T22:21:11Z" href="http://www.animenewsnetwork.com/news/2014-05-04/dragon-ball-k/the-anime-and-hakuoki-released-monday">&lt;i&gt;Dragon Ball&lt;/i&gt;, &lt;i&gt;K: The Anime&lt;/i&gt; and &lt;i&gt;Hakuoki&lt;/i&gt; Released Monday</news>
+<news datetime="2014-07-07T07:59:41Z" href="http://www.animenewsnetwork.com:/news/2014-07-07/new-volumes-of-nura-dragon-ball-bleach-released-monday/.76388">New Volumes of &lt;i&gt;Nura&lt;/i&gt;, &lt;i&gt;Dragon Ball&lt;/i&gt;, &lt;i&gt;Bleach&lt;/i&gt; Released Monday</news>
+<news datetime="2014-08-24T16:09:54Z" href="http://www.animenewsnetwork.com:/news/2014-08-24/robotics-notes-jormungand-nekomonogatari-black-released-monday/.77964">&lt;i&gt;Robotics;Notes&lt;/i&gt;, &lt;i&gt;Jormungand&lt;/i&gt;, &lt;i&gt;Nekomonogatari Black&lt;/i&gt; Released Monday</news>
+<news datetime="2015-01-30T00:20:00Z" href="http://www.animenewsnetwork.com:/news/2015-01-29/dragon-ball-xenoverse-4th-promo-showcases-main-characters/.83867">&lt;cite&gt;Dragon Ball Xenoverse&lt;/cite&gt; 4th Promo Showcases Main Characters</news>
+<news datetime="2015-03-08T14:20:00Z" href="http://www.animenewsnetwork.com:/news/2015-03-08/maximum-the-hormone-nao-to-go-on-hiatus-from-concerts-to-try-to-conceive-baby/.85699">Maximum The Hormone's Nao to Go on Hiatus From Concerts to Try to Conceive Baby</news>
+<news datetime="2015-09-18T08:00:00Z" href="http://www.animenewsnetwork.com:/news/2015-09-18/quick-reminder-oz-comic-con-brisbane-this-weekend/.93111">Quick Reminder: Oz Comic-Con Brisbane this Weekend</news>
+<news datetime="2016-01-19T06:30:00Z" href="http://www.animenewsnetwork.com:/news/2016-01-19/bandai-namco-develops-dragon-ball-project-fusion-rpg-for-3ds/.97728">Bandai Namco Develops &lt;cite&gt;Dragon Ball Project Fusion&lt;/cite&gt; RPG for 3DS</news>
+<staff gid="1175638582"><task>Series Director</task><person id="119">Daisuke Nishio</person></staff>
+<staff gid="422861948"><task>Series Director</task><person id="1094">Minoru Okazaki</person></staff>
+<staff gid="973312577"><task>Script</task><person id="93">Takao Koyama</person></staff>
+<staff gid="1484634442"><task>Script</task><person id="3150">Miho Maruo</person></staff>
+<staff gid="2924878264"><task>Script</task><person id="3785">Yasushi Hirano</person></staff>
+<staff gid="1224735322"><task>Script</task><person id="4232">Toshiki Inoue</person></staff>
+<staff gid="1464268265"><task>Script</task><person id="5617">Shun'ichi Yukimuro</person></staff>
+<staff gid="3659314717"><task>Script</task><person id="8510">Yoshiyuki Suga</person></staff>
+<staff gid="2326983917"><task>Script</task><person id="9001">Katsuyuki Sumisawa</person></staff>
+<staff gid="733123334"><task>Script</task><person id="13646">Keiji Terui</person></staff>
+<staff gid="3721776465"><task>Script</task><person id="13648">Yoshifumi Yuki</person></staff>
+<staff gid="1303577007"><task>Script</task><person id="17498">Michiru Shimada</person></staff>
+<staff gid="2729178099"><task>Script</task><person id="58542">Hajime Satsuki</person></staff>
+<staff gid="2009151267"><task>Script</task><person id="77614">Hiroko Miyazaki</person></staff>
+<staff gid="402772289"><task>Storyboard</task><person id="119">Daisuke Nishio</person></staff>
+<staff gid="1408825222"><task>Storyboard</task><person id="1094">Minoru Okazaki</person></staff>
+<staff gid="1757421509"><task>Storyboard</task><person id="4305">Akinori Nagaoka</person></staff>
+<staff gid="1110854849"><task>Storyboard</task><person id="6354">Tetsuo Imazawa</person></staff>
+<staff gid="451642105"><task>Storyboard</task><person id="7364">Osamu Kasai</person></staff>
+<staff gid="2649292429"><task>Storyboard</task><person id="9548">Toshihiko Arisako</person></staff>
+<staff gid="3559674766"><task>Storyboard</task><person id="9630">Yutaka Satō</person></staff>
+<staff gid="2462703567"><task>Storyboard</task><person id="13647">Kazuhisa Takenouchi</person></staff>
+<staff gid="1693305229"><task>Storyboard</task><person id="14810">Yuji Endo</person></staff>
+<staff gid="2612609684"><task>Storyboard</task><person id="26101">Satoru Kusuda</person></staff>
+<staff gid="2151641930"><task>Storyboard</task><person id="34843">Yoshihiro Ueda</person></staff>
+<staff gid="1572840200"><task>Storyboard</task><person id="45887">Katsuki Endo</person></staff>
+<staff gid="2634406426"><task>Storyboard</task><person id="69840">Haruki Iwanami</person></staff>
+<staff gid="840117340"><task>Storyboard</task><person id="69841">Tatsuo Higashino</person></staff>
+<staff gid="972222761"><task>Episode Director</task><person id="119">Daisuke Nishio</person></staff>
+<staff gid="2658430829"><task>Episode Director</task><person id="1094">Minoru Okazaki</person></staff>
+<staff gid="418603394"><task>Episode Director</task><person id="7364">Osamu Kasai</person></staff>
+<staff gid="2091588750"><task>Episode Director</task><person id="9548">Toshihiko Arisako</person></staff>
+<staff gid="2385146107"><task>Episode Director</task><person id="9630">Yutaka Satō</person></staff>
+<staff gid="2166233102"><task>Episode Director</task><person id="9804">Mitsuo Hashimoto</person></staff>
+<staff gid="1544105858"><task>Episode Director</task><person id="13647">Kazuhisa Takenouchi</person></staff>
+<staff gid="1574955065"><task>Episode Director</task><person id="14810">Yuji Endo</person></staff>
+<staff gid="1491635523"><task>Episode Director</task><person id="34843">Yoshihiro Ueda</person></staff>
+<staff gid="3317111341"><task>Music</task><person id="118">Shunsuke Kikuchi</person></staff>
+<staff gid="2988428557"><task>Original creator</task><person id="12">Akira Toriyama</person></staff>
+<staff gid="1794991134"><task>Character Design</task><person id="14">Minoru Maeda</person></staff>
+<staff gid="2985587069"><task>Art</task><person id="13">Yuji Ikeda</person></staff>
+<staff gid="3547675771"><task>Art</task><person id="10751">Shigenori Takada</person></staff>
+<staff gid="1061418109"><task>Art</task><person id="20334">Takeo Yamamoto</person></staff>
+<staff gid="2125197690"><task>Art</task><person id="20668">Iwamitsu Itoo</person></staff>
+<staff gid="2122521652"><task>Art</task><person id="21701">Tadanao Tsuji</person></staff>
+<staff gid="3492993023"><task>Art</task><person id="26844">Toshikazu Yamaguchi</person></staff>
+<staff gid="1389268294"><task>Art</task><person id="77588">Yoshiyuki Yamamoto</person></staff>
+<staff gid="2383373797"><task>Art</task><person id="146847">Eiji Itô</person></staff>
+<staff gid="2237593209"><task>Animation Director</task><person id="14">Minoru Maeda</person></staff>
+<staff gid="2854456871"><task>Animation Director</task><person id="4340">Katsumi Aoshima</person></staff>
+<staff gid="1163406984"><task>Animation Director</task><person id="9994">Masayuki Uchiyama</person></staff>
+<staff gid="2951222223"><task>Animation Director</task><person id="18929">Yukio Ebisawa</person></staff>
+<staff gid="1141404402"><task>Animation Director</task><person id="19290">Mitsuo Shindo</person></staff>
+<staff gid="2143252404"><task>Animation Director</task><person id="19812">Tomekichi Takeuchi</person></staff>
+<staff gid="2095915745"><task>Animation Director</task><person id="32901">Taichiro Ohara</person></staff>
+<staff gid="1112496665"><task>Animation Director</task><person id="52700">Katsuki Aoshima</person></staff>
+<staff gid="3735777857"><task>Animation Director</task><person id="69838">Sachio Ebisawa</person></staff>
+<cast gid="2049513094" lang="DE"><role>Oolong</role><person id="30099">Gregor Höppner</person></cast>
+<cast gid="1176646394" lang="DE"><role>Pool</role><person id="30100">Frauke Poolman</person></cast>
+<cast gid="3266689406" lang="DE"><role>Yamcha</role><person id="30101">Andreas Meese</person></cast>
+<cast gid="284837987" lang="DE"><role>Muten Roshi</role><person id="30102">Heinz Ostermann</person></cast>
+<cast gid="1394568961" lang="DE"><role>Lunch</role><person id="30103">Luise Brings</person></cast>
+<cast gid="1240987678" lang="DE"><role>Mai</role><person id="30105">Britt Gülland</person></cast>
+<cast gid="401233496" lang="DE"><role>Kuririn</role><person id="30107">Norman Matt</person></cast>
+<cast gid="3464431549" lang="DE"><role>Chi Chi</role><person id="32405">Ilya Welter</person></cast>
+<cast gid="1964749891" lang="DE"><role>Son Goku</role><person id="33650">Frank Schaff</person></cast>
+<cast gid="4065012408" lang="DE"><role>Bulma</role><person id="42045">Katja Liebing</person></cast>
+<cast gid="1791675224" lang="DE"><role>Son Goku</role><person id="47118">Corinna Dörenkamp</person></cast>
+<cast gid="3326879115" lang="DE"><role>Tenshihan</role><person id="47131">Vittorio Alfieri</person></cast>
+<cast gid="1210296769" lang="DE"><role>Lunch</role><person id="68174">Luise Charlotte Brings</person></cast>
+<cast gid="2495932905" lang="EN"><role>Zero/Goku</role><person id="530">Barbara Goodson</person></cast>
+<cast gid="2877039374" lang="EN"><role>Chi-Chi</role><person id="1109">Cynthia Cranz</person></cast>
+<cast gid="2634035588" lang="EN"><role>Chiaotzu</role><person id="1111">Monika Antonelli</person></cast>
+<cast gid="3206103028" lang="EN"><role>Puar</role><person id="1111">Monika Antonelli</person></cast>
+<cast gid="725053786" lang="EN"><role>Tien</role><person id="1113">John Burgmeier</person></cast>
+<cast gid="1293886445" lang="EN"><role>Emperor Pilaf</role><person id="1116">Chuck Huber</person></cast>
+<cast gid="3942553902" lang="EN"><role>Hermit Crane</role><person id="1116">Chuck Huber</person></cast>
+<cast gid="1199181470" lang="EN"><role>Oolong</role><person id="1118">Brad Jackson</person></cast>
+<cast gid="940421789" lang="EN"><role>Launch</role><person id="1121">Meredith McCoy</person></cast>
+<cast gid="3518599419" lang="EN"><role>Master Roshi</role><person id="1122">Mike McFarland</person></cast>
+<cast gid="2947206244" lang="EN"><role>Yajirobe</role><person id="1122">Mike McFarland</person></cast>
+<cast gid="2582389449" lang="EN"><role>Goku</role><person id="1124">Stephanie Nadolny</person></cast>
+<cast gid="2911473499" lang="EN"><role>Goku</role><person id="1126">Sean Schemmel</person></cast>
+<cast gid="2742253431" lang="EN"><role>General Blue</role><person id="1127">Sonny Strait</person></cast>
+<cast gid="2362591640" lang="EN"><role>Krillin</role><person id="1127">Sonny Strait</person></cast>
+<cast gid="1632730815" lang="EN"><role>Bulma</role><person id="1129">Tiffany Vollmer</person></cast>
+<cast gid="3884499969" lang="EN"><role>Mercenary Tao</role><person id="1131">Kent Williams</person></cast>
+<cast gid="507398442" lang="EN"><role>Lena/Bulma</role><person id="1184">Wendee Lee</person></cast>
+<cast gid="2732308638" lang="EN"><role>General Black</role><person id="1386">Christopher R. Sabat</person></cast>
+<cast gid="1805912200" lang="EN"><role>Kami</role><person id="1386">Christopher R. Sabat</person></cast>
+<cast gid="172548296" lang="EN"><role>King Piccolo</role><person id="1386">Christopher R. Sabat</person></cast>
+<cast gid="1440897151" lang="EN"><role>Piccolo Junior</role><person id="1386">Christopher R. Sabat</person></cast>
+<cast gid="3323110105" lang="EN"><role>Shen Long</role><person id="1386">Christopher R. Sabat</person></cast>
+<cast gid="2283265848" lang="EN"><role>Yamcha</role><person id="1386">Christopher R. Sabat</person></cast>
+<cast gid="1357832957" lang="EN"><role>Chi-Chi</role><person id="1389">Laura Bailey</person></cast>
+<cast gid="3527380472" lang="EN"><role>Narrator</role><person id="1408">Brice Armstrong</person></cast>
+<cast gid="1004712026" lang="EN"><role>Goku</role><person id="1599">Saffron Henderson</person></cast>
+<cast gid="2267693110" lang="EN"><role>Emperor Pilaf</role><person id="2452">Don Brown</person></cast>
+<cast gid="2392700480" lang="EN"><role>Suno</role><person id="2477">Carol Hope</person></cast>
+<cast gid="2286820375" lang="EN"><role>Yamcha</role><person id="2957">Ted Cole</person></cast>
+<cast gid="3210480628" lang="EN"><role>Commander Red</role><person id="4212">Josh Martin</person></cast>
+<cast gid="3357706574" lang="EN"><role>Shao</role><person id="4214">Doug Parker</person></cast>
+<cast gid="3816098476" lang="EN"><role>Oolong</role><person id="4625">Alec Willows</person></cast>
+<cast gid="442158616" lang="EN"><role>Bulma</role><person id="5100">Lalainia Lindbjerg</person></cast>
+<cast gid="2777863615" lang="EN"><role>Agent Mai</role><person id="5264">Teryl Rothery</person></cast>
+<cast gid="630922667" lang="EN"><role>Narrator</role><person id="5403">Jim Conrad</person></cast>
+<cast gid="3336856460" lang="EN"><role>Paur</role><person id="5404">Kathy Morse</person></cast>
+<cast gid="2896714137" lang="EN"><role>Goku</role><person id="8252">Zoe Slusar</person></cast>
+<cast gid="3987426022" lang="EN"><role>Agent Mai</role><person id="9196">Julie Franklin</person></cast>
+<cast gid="3610985024" lang="EN"><role>Krillin</role><person id="9198">Laurie Steele</person></cast>
+<cast gid="988303813" lang="EN"><role>Shao</role><person id="9199">Chris Cason</person></cast>
+<cast gid="442627141" lang="EN"><role>Emperor Pilaf</role><person id="15166">Dean Galloway</person></cast>
+<cast gid="2307883105" lang="EN"><role>Master Roshi</role><person id="15166">Dean Galloway</person></cast>
+<cast gid="1149896196" lang="EN"><role>Chi-Chi</role><person id="15473">Katie Rowan</person></cast>
+<cast gid="771442653" lang="EN"><role>Yamcha</role><person id="16997">Victor Atelevich</person></cast>
+<cast gid="2026235229" lang="EN"><role>Bulma</role><person id="16999">Leda Davies</person></cast>
+<cast gid="2897053899" lang="EN"><role>Launch</role><person id="17001">Kris Rundle</person></cast>
+<cast gid="1957182316" lang="EN"><role>Puar</role><person id="17003">Kris Simms</person></cast>
+<cast gid="3410106612" lang="EN"><role>Mai</role><person id="17004">Debbie Munro</person></cast>
+<cast gid="2687917451" lang="EN"><role>Demon King Piccolo</role><person id="32312">Mike Shepherd</person></cast>
+<cast gid="1588266592" lang="EN"><role>Lord Kami</role><person id="32312">Mike Shepherd</person></cast>
+<cast gid="1268629880" lang="EN"><role>Goku</role><person id="53391">Jeffrey Watson</person></cast>
+<cast gid="1896760544" lang="EN"><role>Goku (Teen)</role><person id="70284">Dave Bridges</person></cast>
+<cast gid="2769006631" lang="EN"><role>Master Roshi</role><person id="70284">Dave Bridges</person></cast>
+<cast gid="1870847741" lang="EN"><role>Yamcha</role><person id="73062">Scott Evans</person></cast>
+<cast gid="2199269988" lang="EN"><role>Shen</role><person id="116487">Tony Binns</person></cast>
+<cast gid="2920811339" lang="ES"><role>Goku</role><person id="23440">Laura Torres</person></cast>
+<cast gid="3191352598" lang="ES"><role>Chaozu</role><person id="23476">Patricia Acevedo</person></cast>
+<cast gid="3447751015" lang="ES"><role>Chichi/Milk</role><person id="23476">Patricia Acevedo</person></cast>
+<cast gid="2546190730" lang="ES"><role>Krillin</role><person id="23478">Rosy Aguirre</person></cast>
+<cast gid="1726942676" lang="ES"><role>Bulma</role><person id="23481">Rocio Garcel</person></cast>
+<cast gid="2049721146" lang="ES"><role>Mai</role><person id="25128">Carola Vazquez</person></cast>
+<cast gid="580291623" lang="ES"><role>Bulma</role><person id="32820">Ana Pallejà</person></cast>
+<cast gid="2838809880" lang="ES"><role>Yamsha</role><person id="32823">Enric Cusí</person></cast>
+<cast gid="2290302684" lang="ES"><role>Son Goku (Nino)</role><person id="47712">Juana Molina</person></cast>
+<cast gid="3635745998" lang="ES"><role>Dragon Shenron</role><person id="50373">Juan Fernández</person></cast>
+<cast gid="2180397062" lang="ES"><role>Son Goku (Nino)</role><person id="50462">Ana Cremades</person></cast>
+<cast gid="2751659323" lang="ES"><role>Chichi</role><person id="50465">Julia Oliva</person></cast>
+<cast gid="1348197454" lang="ES"><role>Bulma</role><person id="50466">Nonia De La Gala</person></cast>
+<cast gid="3548555594" lang="ES"><role>Mutenroshi</role><person id="50467">Mariano Peña</person></cast>
+<cast gid="1237452544" lang="ES"><role>Pilaf</role><person id="50467">Mariano Peña</person></cast>
+<cast gid="2926869578" lang="ES"><role>Umigame</role><person id="50468">Alberto Hidalgo</person></cast>
+<cast gid="2910775723" lang="ES"><role>Krilin</role><person id="50469">Angeles Neira</person></cast>
+<cast gid="1170722610" lang="ES"><role>Piano</role><person id="50471">Alejo De La Fuente</person></cast>
+<cast gid="1365657534" lang="ES"><role>Oolong</role><person id="50472">Antonio Inchausti</person></cast>
+<cast gid="2666283150" lang="ES"><role>Shuu</role><person id="50472">Antonio Inchausti</person></cast>
+<cast gid="2770596333" lang="ES"><role>Chaos</role><person id="50478">Mariano Fraile</person></cast>
+<cast gid="2487007133" lang="ES"><role>Krilin</role><person id="50492">Marta Barbará</person></cast>
+<cast gid="2819224569" lang="ES"><role>Ten Shin Han</role><person id="50565">Joan Pera</person></cast>
+<cast gid="2114752788" lang="ES"><role>Follet Tortuga 'Mutenroshi'</role><person id="50567">Vicens Manuel Doménech</person></cast>
+<cast gid="2613608869" lang="ES"><role>Puar</role><person id="50597">Ana Fernández</person></cast>
+<cast gid="2712687634" lang="ES"><role>Ten Shin Han</role><person id="50598">Daniel Palacios</person></cast>
+<cast gid="2149208063" lang="ES"><role>Piccolo Jr</role><person id="50599">Luis Fernando Ríos</person></cast>
+<cast gid="1303608820" lang="ES"><role>Lunch</role><person id="50715">María Dolores Seco</person></cast>
+<cast gid="3713578315" lang="ES"><role>Mai</role><person id="50715">María Dolores Seco</person></cast>
+<cast gid="1413196049" lang="ES"><role>Puar</role><person id="50736">Luisita Soler</person></cast>
+<cast gid="2514691816" lang="ES"><role>Follet Tortuga 'Mutenroshi'</role><person id="50769">Antonio Crespo</person></cast>
+<cast gid="3792837278" lang="ES"><role>Mutenroshi</role><person id="50769">Antonio Crespo</person></cast>
+<cast gid="1746143094" lang="ES"><role>Yamsha</role><person id="52149">Oscar Muñoz</person></cast>
+<cast gid="2916218694" lang="ES"><role>Son Goku (Adulto)</role><person id="52335">Adolfo Martínez</person></cast>
+<cast gid="1056409931" lang="ES"><role>Yamcha</role><person id="52335">Adolfo Martínez</person></cast>
+<cast gid="1538181373" lang="ES"><role>Shuu</role><person id="52337">Enric Isasi-Isasmendi</person></cast>
+<cast gid="975886511" lang="ES"><role>Yamcha</role><person id="52338">Jordi Ribes</person></cast>
+<cast gid="733210533" lang="ES"><role>Yamsha</role><person id="52338">Jordi Ribes</person></cast>
+<cast gid="3419383768" lang="ES"><role>Son Goku</role><person id="55630">Maria Moscardó</person></cast>
+<cast gid="2030285602" lang="ES"><role>Oolong</role><person id="62929">Miquel Bonet</person></cast>
+<cast gid="2066135788" lang="ES"><role>Krilin</role><person id="62934">Francesc Figuerola</person></cast>
+<cast gid="1579222657" lang="ES"><role>Chichi</role><person id="63133">Maria Lluïsa Maganya</person></cast>
+<cast gid="2913322474" lang="ES"><role>Mai</role><person id="63193">Mònica Padrós</person></cast>
+<cast gid="2817280389" lang="ES"><role>Son Goku</role><person id="63193">Mònica Padrós</person></cast>
+<cast gid="3426837167" lang="ES"><role>Bulma</role><person id="63270">Roser Contreras</person></cast>
+<cast gid="583023493" lang="ES"><role>Oolong</role><person id="63271">Albert Díaz</person></cast>
+<cast gid="2074479918" lang="ES"><role>Gran Rei Pilaf</role><person id="63338">Joan Velilla</person></cast>
+<cast gid="2597683646" lang="ES"><role>Pilaf</role><person id="63338">Joan Velilla</person></cast>
+<cast gid="514248984" lang="ES"><role>Shenron</role><person id="63338">Joan Velilla</person></cast>
+<cast gid="2675714265" lang="ES"><role>Shu</role><person id="64167">Xavier De LLorens</person></cast>
+<cast gid="3277599415" lang="ES"><role>Oolong</role><person id="69578">Alberto Diaz</person></cast>
+<cast gid="1687211112" lang="ES"><role>Umigame</role><person id="69580">José Maria Portillo</person></cast>
+<cast gid="2800514105" lang="ES"><role>Chichi</role><person id="69581">Carmen Capdet</person></cast>
+<cast gid="754846638" lang="ES"><role>Son Goku</role><person id="95930">María Giner</person></cast>
+<cast gid="3514695475" lang="ES"><role>Geni Tortuga ´Mutenroshi´</role><person id="95931">Francesc Fenollosa</person></cast>
+<cast gid="2531091816" lang="ES"><role>Bulma</role><person id="95932">Montse Anfruns</person></cast>
+<cast gid="1746479747" lang="ES"><role>Yamsha</role><person id="95933">Marti Pich</person></cast>
+<cast gid="2196709894" lang="ES"><role>Oolong</role><person id="95934">Paco Vila</person></cast>
+<cast gid="1561039310" lang="ES"><role>Narrador</role><person id="95935">Vicent Quintana</person></cast>
+<cast gid="2455128731" lang="ES"><role>Puar</role><person id="95936">Eva Giner</person></cast>
+<cast gid="2954420437" lang="ES"><role>Tenshinhan</role><person id="95949">Alfred Pico</person></cast>
+<cast gid="1894169506" lang="ES"><role>Chaos</role><person id="95950">Miri Giner</person></cast>
+<cast gid="2101234951" lang="ES"><role>Mestre Tartaruga</role><person id="95954">Antonio Durán ´Morris´</person></cast>
+<cast gid="1475684599" lang="FR"><role>Krilin</role><person id="16171">Claude Chantal</person></cast>
+<cast gid="2475707107" lang="FR"><role>Yamcha</role><person id="16173">Eric Legrand</person></cast>
+<cast gid="581344469" lang="FR"><role>Bulma</role><person id="16175">Celine Monsarrat</person></cast>
+<cast gid="2537267466" lang="FR"><role>Chichi</role><person id="16175">Celine Monsarrat</person></cast>
+<cast gid="2223307805" lang="FR"><role>Krilin</role><person id="21025">Jackie Berger</person></cast>
+<cast gid="873815266" lang="FR"><role>Yamcha</role><person id="28716">Eric Etcheverry</person></cast>
+<cast gid="1831168636" lang="FR"><role>Chichi</role><person id="29393">Brigitte Lecordier</person></cast>
+<cast gid="2337571619" lang="FR"><role>Son Goku</role><person id="29393">Brigitte Lecordier</person></cast>
+<cast gid="2147054817" lang="FR"><role>Tortue Géniale</role><person id="29396">Pierre Trabaud</person></cast>
+<cast gid="1223103991" lang="FR"><role>Bulma</role><person id="29553">Stéphanie Murat</person></cast>
+<cast gid="2863705843" lang="IT"><role>Bulma</role><person id="15783">Beatrice Margiotti</person></cast>
+<cast gid="388477301" lang="IT"><role>Shon Gon (Son Gohan)</role><person id="25643">Antonio Paiola</person></cast>
+<cast gid="1606910787" lang="IT"><role>Crilin</role><person id="25644">Veronica Pivetti</person></cast>
+<cast gid="2483892655" lang="IT"><role>Bulma</role><person id="25645">Emanuela Pacotto</person></cast>
+<cast gid="2765477306" lang="IT"><role>Goku da bambino</role><person id="25915">Massimo Còrizza</person></cast>
+<cast gid="1881088012" lang="IT"><role>Goku da Bambino</role><person id="25929">Patrizia Scianca</person></cast>
+<cast gid="2500037573" lang="IT"><role>Crilin</role><person id="25930">Marcella Silvestri</person></cast>
+<cast gid="2108539429" lang="IT"><role>Kiki (Chichi)</role><person id="25933">Elisabetta Spinelli</person></cast>
+<cast gid="2470024930" lang="IT"><role>Iamko (Yamcha)</role><person id="25941">Diego Sabre</person></cast>
+<cast gid="1064136701" lang="IT"><role>Jirobay (Yajirobei)</role><person id="25946">Dania Cericola</person></cast>
+<cast gid="538222263" lang="IT"><role>Maestro Condor (Tsuru Sennin) da Adulto</role><person id="25968">Oliviero Corbetta</person></cast>
+<cast gid="2252180420" lang="IT"><role>Goku da Adulto</role><person id="25969">Paolo Torrisi</person></cast>
+<cast gid="2338142590" lang="IT"><role>Drago Shenron</role><person id="26041">Giovanni Battezzato</person></cast>
+<cast gid="1571361602" lang="IT"><role>Junior (Piccolo)</role><person id="27090">Alberto Olivero</person></cast>
+<cast gid="298702477" lang="JA"><role>Krillin</role><person id="301">Mayumi Tanaka</person></cast>
+<cast gid="2332190376" lang="JA"><role>Pilaf</role><person id="427">Shigeru Chiba</person></cast>
+<cast gid="2378453654" lang="JA"><role>Son Goku</role><person id="508">Masako Nozawa</person></cast>
+<cast gid="2942451404" lang="JA"><role>Bulma</role><person id="511">Hiromi Tsuru</person></cast>
+<cast gid="859872303" lang="JA"><role>Shen Long</role><person id="548">Kenji Utsumi</person></cast>
+<cast gid="2705137492" lang="JA"><role>Tenshin-han</role><person id="699">Hirotaka Suzuoki</person></cast>
+<cast gid="547927576" lang="JA"><role>Umigame</role><person id="871">Daisuke Gouri</person></cast>
+<cast gid="1447513826" lang="JA"><role>Piccolo</role><person id="956">Takeshi Aono</person></cast>
+<cast gid="1112295765" lang="JA"><role>Piccolo</role><person id="1011">Toshio Furukawa</person></cast>
+<cast gid="1591047849" lang="JA"><role>Chi Chi</role><person id="1016">Mayumi Shou</person></cast>
+<cast gid="1685426600" lang="JA"><role>Pu'erh</role><person id="1096">Naoko Watanabe</person></cast>
+<cast gid="1056526809" lang="JA"><role>Yamcha</role><person id="1105">Tohru Furuya</person></cast>
+<cast gid="3949510450" lang="JA"><role>Lunch</role><person id="1249">Mami Koyama</person></cast>
+<cast gid="351370467" lang="JA"><role>Shuu</role><person id="1250">Tesshô Genda</person></cast>
+<cast gid="2552145631" lang="JA"><role>Kame Sennin</role><person id="1534">Kôhei Miyauchi</person></cast>
+<cast gid="3069608295" lang="JA"><role>Mai</role><person id="1578">Eiko Yamada</person></cast>
+<cast gid="2445263293" lang="JA"><role>Chaozu</role><person id="2059">Hiroko Emori</person></cast>
+<cast gid="1080332685" lang="JA"><role>Piano</role><person id="2114">Masato Hirano</person></cast>
+<cast gid="3576796179" lang="JA"><role>Oolong</role><person id="3075">Naoki Tatsuta</person></cast>
+<cast gid="713003069" lang="PT"><role>Kuririn</role><person id="48732">Fábio Lucindo</person></cast>
+<cast gid="1303097243" lang="PT"><role>Yamcha</role><person id="48735">Márcio Araújo</person></cast>
+<cast gid="3214563809" lang="PT"><role>Mestre Karin</role><person id="48740">Fábio Moura</person></cast>
+<cast gid="1765912593" lang="PT"><role>Chichi</role><person id="48743">Raquel Marinho</person></cast>
+<cast gid="828658847" lang="PT"><role>Piccolo DaiMaoh</role><person id="48749">Luiz Antônio Lobue</person></cast>
+<cast gid="1291976271" lang="PT"><role>Piccolo Jr</role><person id="48749">Luiz Antônio Lobue</person></cast>
+<cast gid="3412688560" lang="PT"><role>Bulma</role><person id="48750">Christina Rodrigues</person></cast>
+<cast gid="1557107597" lang="PT"><role>Bulma</role><person id="48758">Tânia Gaidarji</person></cast>
+<cast gid="622375867" lang="PT"><role>Yajirobe</role><person id="48765">Vagner Fagundes</person></cast>
+<cast gid="4088911122" lang="PT"><role>Pual</role><person id="48783">Rita Almeida</person></cast>
+<cast gid="1553237156" lang="PT"><role>Kami-sama</role><person id="48809">Fábio Tomasini</person></cast>
+<cast gid="2629997450" lang="PT"><role>Piccolo Daimaoh</role><person id="48809">Fábio Tomasini</person></cast>
+<cast gid="1772393018" lang="PT"><role>Mestre Kame</role><person id="48812">Gileno Santoro</person></cast>
+<cast gid="2080909307" lang="PT"><role>Pilaf</role><person id="48813">Elcio Sodré</person></cast>
+<cast gid="1572801136" lang="PT"><role>Pual</role><person id="48813">Elcio Sodré</person></cast>
+<cast gid="1040893882" lang="PT"><role>Bulma</role><person id="48817">Suzy Pereira</person></cast>
+<cast gid="1109927841" lang="PT"><role>Chichi</role><person id="48820">Angelica Santos</person></cast>
+<cast gid="3086818554" lang="PT"><role>Tenshin-han</role><person id="48873">Alexandre Marconato</person></cast>
+<cast gid="3310763602" lang="PT"><role>Goku</role><person id="48875">Noeli Santisteban</person></cast>
+<cast gid="2509633646" lang="PT"><role>Chaos</role><person id="48895">Júlia Castro</person></cast>
+<cast gid="2742402955" lang="PT"><role>Goku</role><person id="48900">Ursula Bezerra</person></cast>
+<cast gid="3292938051" lang="PT"><role>Goku Adulto</role><person id="49238">Wendel Bezerra</person></cast>
+<cast gid="2064888202" lang="PT"><role>Mestre Kame</role><person id="49592">José Soares</person></cast>
+<cast gid="782905576" lang="PT"><role>Kuririn</role><person id="49601">Telma Lúcia</person></cast>
+<cast gid="2682819439" lang="TL"><role>Bulma</role><person id="15925">Charmaine Cordoviz</person></cast>
+<cast gid="1869961130" lang="TL"><role>Kririn</role><person id="15925">Charmaine Cordoviz</person></cast>
+<cast gid="2145979013" lang="TL"><role>Oolong</role><person id="38916">Robert Brillantes</person></cast>
+<cast gid="2119965787" lang="TL"><role>Shuu</role><person id="38916">Robert Brillantes</person></cast>
+<cast gid="2713334424" lang="TL"><role>Pilaf</role><person id="38935">Louie Paraboles</person></cast>
+<cast gid="2299868573" lang="TL"><role>Yamcha</role><person id="38935">Louie Paraboles</person></cast>
+<cast gid="1212275837" lang="TL"><role>Goku</role><person id="38936">Jefferson Utanes</person></cast>
+<cast gid="2891348868" lang="TL"><role>Kame Sennin/Master Roshi/Master Buten</role><person id="38936">Jefferson Utanes</person></cast>
+<cast gid="1799987353" lang="TL"><role>Chi-chi</role><person id="57604">Klariz Magboo</person></cast>
+<cast gid="2442251422" lang="TL"><role>Launch</role><person id="57604">Klariz Magboo</person></cast>
+<cast gid="505739375" lang="TL"><role>Mai</role><person id="57604">Klariz Magboo</person></cast>
+<cast gid="1030557247" lang="TL"><role>Puar</role><person id="57604">Klariz Magboo</person></cast>
+<cast gid="2449634467" lang="TL"><role>Gyuumaoh</role><person id="58345">Noel Magat</person></cast>
+<credit gid="1952125702"><task>Animation Production</task><company id="145">Toei Animation</company></credit>
+<credit gid="1150807324"><task>Production</task><company id="145">Toei Animation</company></credit>
+<credit gid="3490111331"><task>Production</task><company id="162">Fuji TV</company></credit>
+<credit gid="1611402314"><task>Production</task><company id="909">Shueisha</company></credit>
+<credit gid="735493705"><task>Production</task><company id="2299">Bird Studio</company></credit></anime></ann>

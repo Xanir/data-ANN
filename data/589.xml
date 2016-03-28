@@ -1,0 +1,36 @@
+<ann><anime id="589" gid="1364662692" type="OAV" name="Dirty Pair OAV 3" precision="OAV" generated-on="2016-03-27T02:52:16Z">
+<related-prev rel="part of" id="262"/>
+<info gid="3611939857" type="Main title" lang="EN">Dirty Pair OAV 3</info>
+<info gid="2932402336" type="Genres">comedy</info>
+<info gid="2386545778" type="Genres">science fiction</info>
+<info gid="3836770533" type="Themes">police</info>
+<info gid="3453498253" type="Objectionable content">TA</info>
+<info gid="2211459488" type="Running time">25</info>
+<info gid="1809475787" type="Number of episodes">2</info>
+<info gid="1628770202" type="Vintage">1988-02-21</info>
+<info gid="422317414" type="Opening Theme">&quot;By Yourself&quot; by Keiko Mai / Tsuneiku Waizumi</info>
+<info gid="868236105" type="Ending Theme">&quot;Summer Time From Autumn&quot; by Keiko Mai / Akiya Nakazaki</info>
+<ratings nb_votes="63" weighted_score="6.6958" bayesian_score="6.83728"/>
+<episode num="1">
+<title gid="3352573199" lang="EN">And Then No One Played</title></episode>
+<episode num="2">
+<title gid="3769003881" lang="EN">What? A Surprise Seaside Wedding Panic</title></episode>
+<staff gid="2484231733"><task>Director</task><person id="16567">Masayoshi Tanidabe</person></staff>
+<staff gid="2166293569"><task>Script</task><person id="2572">Yumiko Tsukamoto</person></staff>
+<staff gid="2421971091"><task>Screenplay</task><person id="9079">Tetsuko Takahashi</person></staff>
+<staff gid="2469747298"><task>Storyboard</task><person id="16583">Shinya Tadamitsu</person></staff>
+<staff gid="3479365745"><task>Original creator</task><person id="2660">Haruka Takachiho</person></staff>
+<staff gid="977142002"><task>Character Design</task><person id="2659">Tsukasa Dokite</person></staff>
+<staff gid="2875903682"><task>Art Director</task><person id="16558">Yuaki Okada</person></staff>
+<staff gid="3425080383"><task>Animation Director</task><person id="2659">Tsukasa Dokite</person></staff>
+<staff gid="246000762"><task>Mechanical design</task><person id="16580">Yasushi Dokite</person></staff>
+<staff gid="1954969730"><task>Director of Photography</task><person id="16559">Takashi Okui</person></staff>
+<staff gid="417879494"><task>Producer</task><person id="10907">Hiroshi Hirayama</person></staff>
+<staff gid="2395034671"><task>Producer</task><person id="16574">Hiroshi Yubita</person></staff>
+<cast gid="3804258937" lang="EN"><role>Yuri</role><person id="1265">Jessica Calvello</person></cast>
+<cast gid="3706096293" lang="EN"><role>Kei</role><person id="5285">Pamela Lauer</person></cast>
+<cast gid="1387705996" lang="JA"><role>Yuri</role><person id="1582">Saeko Shimazu</person></cast>
+<cast gid="386532719" lang="JA"><role>Kei</role><person id="7777">Kyouko Tonguu</person></cast>
+<credit gid="987298760"><task>Animation Production</task><company id="1163">Kino Production</company></credit>
+<credit gid="1075411036"><task>Production</task><company id="34">Sunrise</company></credit>
+<credit gid="2702853222"><task>Production</task><company id="589">VAP</company></credit></anime></ann>

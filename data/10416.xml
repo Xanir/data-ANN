@@ -1,0 +1,188 @@
+<ann><anime id="10416" gid="1692191537" type="TV" name="Valkyria Chronicles" precision="TV" generated-on="2016-03-27T01:58:09Z">
+<related-next id="12156" rel="related"/>
+<info gid="2253504706" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A10416-23.jpg" width="160" height="200"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A10416-23.jpg" width="160" height="200"/><img src="http://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A10416-23.jpg" width="480" height="600"/><img src="http://cdn.animenewsnetwork.com/images/encyc/A10416-23.jpg" width="495" height="619"/></info>
+<info gid="1997413819" type="Main title" lang="EN">Valkyria Chronicles</info>
+<info gid="2793685488" type="Alternative title" lang="JA">Senjō no Valkyria -Gallian Chronicles-</info>
+<info gid="2199499789" type="Alternative title" lang="RU">Хроники Валькирии</info>
+<info gid="2937815386" type="Alternative title" lang="JA">戦場のヴァルキュリア GALLIAN♦CHRONICLES</info>
+<info gid="968383028" type="Genres">action</info>
+<info gid="2996304395" type="Genres">drama</info>
+<info gid="1204352917" type="Genres">fantasy</info>
+<info gid="2831650823" type="Genres">romance</info>
+<info gid="2036872726" type="Themes">military</info>
+<info gid="2531117754" type="Themes">superpowers</info>
+<info gid="2865262816" type="Themes">war</info>
+<info gid="1653919301" type="Plot Summary">When Imperial forces attack the small border town of Bruhl, Welkin Gunther, son of late General Belgen Gunther, is forced to fight for his life alongside Town Watch captain Alicia Melchiott. Along with Welkin's adopted sister Isara, the three escape to Gallia's capitol and subsequently join the country's militia forces. As members of the newly-formed Squad 7, they must work to repel the invading Imperial forces and discover the true purpose of the invasion itself.</info>
+<info gid="2894187557" type="Running time">24</info>
+<info gid="1759806645" type="Number of episodes">26</info>
+<info gid="1268741798" type="Vintage">2009-04-04 to 2009-09-26</info>
+<info gid="3983018563" type="Opening Theme">&quot;Ashita e no Kizuna&quot; by HIMEKA</info>
+<info gid="1638249238" type="Opening Theme">&quot;Asu e no kizuna&quot; by HIMEKA</info>
+<info gid="2840377360" type="Opening Theme">#2: &quot;Kanashimi Rensa&quot; by MARIA</info>
+<info gid="662840868" type="Ending Theme">&quot;Ano Kaze ni Notte&quot; by pe’zmoku</info>
+<info gid="2491930486" type="Ending Theme">#2: &quot;Hitotsu no Negai&quot; by Hikari Inoue</info>
+<info gid="795939795" type="Ending Theme">#3: &quot;BRIGHTEST MORNING&quot; by Hikari Inoue with 7th Squad (ep 26)</info>
+<info gid="1247652441" type="Official website" lang="EN" href="http://www.crackle.com/c/Valkyria_Chronicles">Valkyria Chronicles - Crackle</info>
+<info gid="1738308442" type="Official website" lang="JA" href="http://www.mbs.jp/valkyria/">戦場のヴァルキュリア @ MBS</info>
+<info gid="1362010343" type="Official website" lang="JA" href="http://www.valkyria-anime.com/">ＴＶアニメーション 戦場のヴァルキュリア</info>
+<ratings nb_votes="938" weighted_score="7.7168" bayesian_score="7.71415"/>
+<episode num="1">
+<title gid="3024035190" lang="EN">Encounter at War</title></episode>
+<episode num="2">
+<title gid="1445015716" lang="EN">A Prayer for the Lion's Paw</title></episode>
+<episode num="3">
+<title gid="2638898526" lang="EN">The Birth of Squad 7</title></episode>
+<episode num="4">
+<title gid="1607935019" lang="EN">A Brief Holiday</title></episode>
+<episode num="5">
+<title gid="1707509257" lang="EN">Assault on Kloden</title></episode>
+<episode num="6">
+<title gid="591965278" lang="EN">War Correspondent, at Her Best!</title></episode>
+<episode num="7">
+<title gid="1697481829" lang="EN">The Darcsen Calamity</title></episode>
+<episode num="8">
+<title gid="2092923812" lang="EN">The Unravelled History</title></episode>
+<episode num="9">
+<title gid="1751766175" lang="EN">Azure Witch</title></episode>
+<episode num="10">
+<title gid="1061710478" lang="EN">The Night of a Blizzard</title></episode>
+<episode num="11">
+<title gid="1659426079" lang="EN">Uninvited Guests</title></episode>
+<episode num="12">
+<title gid="2082352289" lang="EN">The Abducted Princess</title></episode>
+<episode num="13">
+<title gid="3486657276" lang="EN">The Terrifying Mobile Fortress</title></episode>
+<episode num="14">
+<title gid="1058563991" lang="EN">The Choice of Fauzen</title></episode>
+<episode num="15">
+<title gid="996718504" lang="EN">The Songstress' Past</title></episode>
+<episode num="16">
+<title gid="2441826576" lang="EN">Unspoken Thoughts</title></episode>
+<episode num="17">
+<title gid="1778794608" lang="EN">Gifts from The Spirits</title></episode>
+<episode num="18">
+<title gid="1473623528" lang="EN">Rain of August</title></episode>
+<episode num="19">
+<title gid="946310844" lang="EN">Tears</title></episode>
+<episode num="20">
+<title gid="3110457190" lang="EN">Beloved Ones</title></episode>
+<episode num="21">
+<title gid="2324998502" lang="EN">Transient Bonds</title></episode>
+<episode num="22">
+<title gid="3799128763" lang="EN">Perplexed</title></episode>
+<episode num="23">
+<title gid="2769602931" lang="EN">Forms of Love</title></episode>
+<episode num="24">
+<title gid="3643532521" lang="EN">Will</title></episode>
+<episode num="25">
+<title gid="1177932565" lang="EN">Things to Protect</title></episode>
+<episode num="26">
+<title gid="2294874034" lang="EN">Decisive Battle</title></episode>
+<episode num="27">
+<title gid="2184231073" lang="EN">A Day at the Beach</title></episode>
+<episode num="28">
+<title gid="2338792712" lang="EN">Gallia's Summer Festival</title></episode>
+<review href="http://www.animenewsnetwork.com/review/valkyria-chronicles">Valkyria Chronicles</review>
+<release date="2011-01-26" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=17979">Valkyria Chronicles: Design Archive (Artbook)</release>
+<news datetime="2008-08-05T17:39:30Z" href="http://www.animenewsnetwork.com/news/2008-08-05/new-gurren-lagann-higurashi-manga-to-start-this-month">New &lt;cite&gt;Gurren Lagann, Higurashi&lt;/cite&gt; Manga to Start This Month</news>
+<news datetime="2008-11-12T06:46:42Z" href="http://www.animenewsnetwork.com/news/2008-11-12/valkyria-chronicles-game-to-get-tv-anime-next-spring">&lt;cite&gt;Valkyria Chronicles&lt;/cite&gt; Game to Get TV Anime Next Spring</news>
+<news datetime="2008-12-26T16:07:30Z" href="http://www.animenewsnetwork.com/news/2008-12-26/crunchyroll-to-stream-the-tower-of-druaga/the-sword-of-uruk">Crunchyroll to Stream &lt;cite&gt;The Tower of Druaga: the Sword of Uruk&lt;/cite&gt;</news>
+<news datetime="2009-02-18T11:57:12Z" href="http://www.animenewsnetwork.com/news/2009-02-18/canada-st-onge-to-sing-valkyria-anime-theme-song">Canada's St. Onge to Sing &lt;cite&gt;Valkyria&lt;/cite&gt; Anime's Theme Song</news>
+<news datetime="2009-03-16T05:08:34Z" href="http://www.animenewsnetwork.com/news/2009-03-16/enka-odo-dai-shogun-animation-project-revealed">&lt;cite&gt;Enka Ōdō Dai Shōgun&lt;/cite&gt; Animation Project Revealed</news>
+<news datetime="2009-03-24T18:52:59Z" href="http://www.animenewsnetwork.com/news/2009-03-24/valkyria-chronicles-tv-anime-taf-promo-streamed">&lt;cite&gt;Valkyria Chronicles&lt;/cite&gt; TV Anime's TAF Promo Streamed</news>
+<news datetime="2009-10-14T07:53:35Z" href="http://www.animenewsnetwork.com/news/2009-10-14/japanese-animation-dvd-ranking-october-5-11">Japanese Animation DVD Ranking, October 5-11</news>
+<news datetime="2009-10-29T09:13:50Z" href="http://www.animenewsnetwork.com/news/2009-10-29/sailor-moon-5-main-voice-actresses-reunite-for-event">&lt;cite&gt;Sailor Moon's&lt;/cite&gt; 5 Main Voice Actresses Reunite for Event</news>
+<news datetime="2009-11-11T03:38:47Z" href="http://www.animenewsnetwork.com/news/2009-11-10/japanese-animation-dvd-ranking-november-2-8">Japanese Animation DVD Ranking, November 2-8</news>
+<news datetime="2009-12-09T03:08:05Z" href="http://www.animenewsnetwork.com/news/2009-12-08/japan-animation-dvd-ranking-november-30-december-6">Japan's Animation DVD Ranking, November 30-December 6</news>
+<news datetime="2010-01-21T17:05:20Z" href="http://www.animenewsnetwork.com/news/2010-01-22/japan-animation-dvd-ranking-january-11-17">Japan's Animation DVD Ranking, January 11-17</news>
+<news datetime="2010-01-20T02:29:50Z" href="http://www.animenewsnetwork.com/news/2010-01-19/japan-animation-dvd-ranking-january-11-17/2">Japan's Animation DVD Ranking, January 11-17</news>
+<news datetime="2011-07-23T08:00:00Z" href="http://www.animenewsnetwork.com/news/2011-07-23/udon-to-print-sengoku-basara-valkyria-soejima-books">Udon to Print &lt;cite&gt;Sengoku Basara, Valkyria,&lt;/cite&gt; Soejima Books</news>
+<news datetime="2012-11-12T17:55:00Z" href="http://www.animenewsnetwork.com/news/2012-11-12/crackle-streams-valkyria-chronicles-tv-anime-series">Crackle Streams &lt;cite&gt;Valkyria Chronicles&lt;/cite&gt; TV Anime Series</news>
+<news datetime="2015-11-17T20:20:00Z" href="http://www.animenewsnetwork.com:/news/2015-11-17/valkyria-azure-revolution-game-announced-for-ps4/.95489">&lt;cite&gt;Valkyria: Azure Revolution&lt;/cite&gt; Game Announced for PS4</news>
+<news datetime="2016-01-02T00:50:00Z" href="http://www.animenewsnetwork.com:/news/2016-01-01/valkyria-chronicles-remaster-ps4-game-previewed-in-video/.97132">&lt;cite&gt;Valkyria Chronicles Remaster&lt;/cite&gt; PS4 Game Previewed in Video</news>
+<news datetime="2016-01-18T20:00:00Z" href="http://www.animenewsnetwork.com:/news/2016-01-18/valkyria-chronicles-remaster-story-video-streamed/.97664">&lt;cite&gt;Valkyria Chronicles Remaster&lt;/cite&gt; Story Video Streamed</news>
+<staff gid="2959869669"><task>Director</task><person id="37082">Yasutaka Yamamoto</person></staff>
+<staff gid="2952660270"><task>Series Composition</task><person id="429">Michiko Yokote</person></staff>
+<staff gid="2536150489"><task>Screenplay</task><person id="429">Michiko Yokote</person></staff>
+<staff gid="3565517530"><task>Screenplay</task><person id="38270">Akatsuki Yamatoya</person></staff>
+<staff gid="1839971237"><task>Screenplay</task><person id="86717">Kento Shimoyama</person></staff>
+<staff gid="1915581996"><task>Storyboard</task><person id="2273">Masao Ookubo</person></staff>
+<staff gid="688270160"><task>Storyboard</task><person id="2787">Hiroyuki Morita</person></staff>
+<staff gid="1494940137"><task>Storyboard</task><person id="3145">Yasuomi Umetsu</person></staff>
+<staff gid="1571082402"><task>Storyboard</task><person id="8059">Tomihiko Ohkubo</person></staff>
+<staff gid="1247119436"><task>Storyboard</task><person id="11986">Minoru Ohara</person></staff>
+<staff gid="2826721820"><task>Storyboard</task><person id="18613">Takao Abo</person></staff>
+<staff gid="2242355289"><task>Storyboard</task><person id="19126">Masafumi Sato</person></staff>
+<staff gid="3162756559"><task>Storyboard</task><person id="20428">Takayuki Inagaki</person></staff>
+<staff gid="3818753163"><task>Storyboard</task><person id="35527">Hiroshi Harada</person></staff>
+<staff gid="2457326098"><task>Storyboard</task><person id="37082">Yasutaka Yamamoto</person></staff>
+<staff gid="2190658131"><task>Storyboard</task><person id="40566">Yoshiyuki Takayanagi</person></staff>
+<staff gid="2644279979"><task>Storyboard</task><person id="57361">Toshimasa Kuroyanagi</person></staff>
+<staff gid="3026049839"><task>Storyboard</task><person id="99659">Takaomi Kanasaki</person></staff>
+<staff gid="1158555342"><task>Unit Director</task><person id="2273">Masao Ookubo</person></staff>
+<staff gid="2718067617"><task>Unit Director</task><person id="3145">Yasuomi Umetsu</person></staff>
+<staff gid="1150589618"><task>Unit Director</task><person id="4089">Hiroyuki Okuno</person></staff>
+<staff gid="2436640425"><task>Unit Director</task><person id="8059">Tomihiko Ohkubo</person></staff>
+<staff gid="2882278743"><task>Unit Director</task><person id="30971">Norihiko Nagahama</person></staff>
+<staff gid="1336583491"><task>Unit Director</task><person id="34172">Yoshitaka Makino</person></staff>
+<staff gid="2377879434"><task>Unit Director</task><person id="37082">Yasutaka Yamamoto</person></staff>
+<staff gid="256037130"><task>Unit Director</task><person id="39226">Akitsugu Hisagi</person></staff>
+<staff gid="1328731441"><task>Unit Director</task><person id="39681">Kazuaki Imai</person></staff>
+<staff gid="2262910332"><task>Unit Director</task><person id="40566">Yoshiyuki Takayanagi</person></staff>
+<staff gid="2409332288"><task>Unit Director</task><person id="55117">Kazuomi Koga</person></staff>
+<staff gid="2137929193"><task>Unit Director</task><person id="57361">Toshimasa Kuroyanagi</person></staff>
+<staff gid="2675139994"><task>Unit Director</task><person id="79928">Hotaka Kuramoto</person></staff>
+<staff gid="2323838912"><task>Unit Director</task><person id="107451">Shin Endō</person></staff>
+<staff gid="827325300"><task>Music</task><person id="50973">Hitoshi Sakimoto</person></staff>
+<staff gid="2446204397"><task>Character Design</task><person id="15067">Atsuko Watanabe</person></staff>
+<staff gid="3333205111"><task>Art Director</task><person id="75720">Yoshio Tanioka</person></staff>
+<staff gid="2183279061"><task>Chief Animation Director</task><person id="1798">Keiko Nakaji</person></staff>
+<staff gid="3759154697"><task>Chief Animation Director</task><person id="15067">Atsuko Watanabe</person></staff>
+<staff gid="1973041657"><task>Chief Animation Director</task><person id="53588">Yuu Yonezawa</person></staff>
+<staff gid="442738412"><task>Animation Director</task><person id="1798">Keiko Nakaji</person></staff>
+<staff gid="3835126780"><task>Animation Director</task><person id="2271">Yasuyuki Noda</person></staff>
+<staff gid="1704214252"><task>Animation Director</task><person id="3145">Yasuomi Umetsu</person></staff>
+<staff gid="1211042869"><task>Animation Director</task><person id="3615">Masahiro Sekiguchi</person></staff>
+<staff gid="1475437345"><task>Animation Director</task><person id="4089">Hiroyuki Okuno</person></staff>
+<staff gid="1306380111"><task>Animation Director</task><person id="5631">Moriyasu Taniguchi</person></staff>
+<staff gid="2291341054"><task>Animation Director</task><person id="15067">Atsuko Watanabe</person></staff>
+<staff gid="2031234629"><task>Animation Director</task><person id="23136">Yumenosuke Tokuda</person></staff>
+<staff gid="2835029890"><task>Animation Director</task><person id="24819">Takuya Kawai</person></staff>
+<staff gid="2612735119"><task>Animation Director</task><person id="25765">Akiko Nakano</person></staff>
+<staff gid="1382536961"><task>Animation Director</task><person id="30031">Kazuko Hayakawa</person></staff>
+<staff gid="2082153193"><task>Animation Director</task><person id="32907">Yuka Hasegawa</person></staff>
+<staff gid="1897524695"><task>Animation Director</task><person id="34448">Daisuke Takemoto</person></staff>
+<staff gid="2174371069"><task>Animation Director</task><person id="40566">Yoshiyuki Takayanagi</person></staff>
+<staff gid="1936751524"><task>Animation Director</task><person id="44787">Naoko Ikeuchi</person></staff>
+<staff gid="2070758758"><task>Animation Director</task><person id="47784">Harumi Takagi</person></staff>
+<staff gid="1952543163"><task>Animation Director</task><person id="49689">Eri Ogawa</person></staff>
+<staff gid="1529968191"><task>Animation Director</task><person id="51618">Hirotaka Nii</person></staff>
+<staff gid="1160547473"><task>Animation Director</task><person id="52973">Yukie Harada</person></staff>
+<staff gid="1357553963"><task>Animation Director</task><person id="53588">Yuu Yonezawa</person></staff>
+<staff gid="2404985278"><task>Animation Director</task><person id="65271">Mayumi Takeuchi</person></staff>
+<staff gid="1240677928"><task>Animation Director</task><person id="68544">Chiaki Furuzumi</person></staff>
+<staff gid="718185587"><task>Animation Director</task><person id="73594">Toshifumi Niijima</person></staff>
+<staff gid="3098533885"><task>Animation Director</task><person id="101292">Satoshi Abe</person></staff>
+<staff gid="2346657823"><task>Art design</task><person id="3620">Yoshinori Shiozawa</person></staff>
+<staff gid="2393708991"><task>Sound Director</task><person id="3079">Yukio Nagasaki</person></staff>
+<staff gid="1690902464"><task>Cgi Director</task><person id="15946">Yuki Nakamura</person></staff>
+<staff gid="989186240"><task>Cgi Director</task><person id="72080">Ryuta Undo</person></staff>
+<staff gid="2023824637"><task>Director of Photography</task><person id="58372">Kouji Ishihara</person></staff>
+<staff gid="3011211040"><task>Executive producer</task><person id="1286">Hideo Katsumata</person></staff>
+<staff gid="3050414085"><task>Producer</task><person id="13500">Masatoshi Fujimoto</person></staff>
+<staff gid="2631718582"><task>Producer</task><person id="64391">Masahiro Nakayama</person></staff>
+<staff gid="1999631525"><task>Producer</task><person id="142233">Katsunori Narumo</person></staff>
+<cast gid="3167323626" lang="JA"><role>Isara Gunther</role><person id="281">Houko Kuwashima</person></cast>
+<cast gid="2756517064" lang="JA"><role>Maximilian</role><person id="337">Jun Fukuyama</person></cast>
+<cast gid="2263840280" lang="JA"><role>Welkin Gunther</role><person id="775">Susumu Chiba</person></cast>
+<cast gid="2075323481" lang="JA"><role>Selvaria Bles</role><person id="1376">Sayaka Ohara</person></cast>
+<cast gid="2935004858" lang="JA"><role>Faldio Landzaat</role><person id="5039">Takahiro Sakurai</person></cast>
+<cast gid="3097192326" lang="JA"><role>Irene Ellet</role><person id="7665">Naomi Shindoh</person></cast>
+<cast gid="939012420" lang="JA"><role>Largo Potter</role><person id="7766">Kenji Nomura</person></cast>
+<cast gid="3483785057" lang="JA"><role>Alicia Melchiott</role><person id="20999">Marina Inoue</person></cast>
+<cast gid="2034446161" lang="JA"><role>Marina Wulfstan</role><person id="106566">Ryou Agawa</person></cast>
+<credit gid="1145752323"><task>Animation Production</task><company id="9909">A-1 Pictures</company></credit>
+<credit gid="2193708839"><task>Production</task><company id="79">Sega</company></credit>
+<credit gid="1223770513"><task>Production</task><company id="506">Animax</company></credit>
+<credit gid="1081137567"><task>Production</task><company id="1257">Aniplex</company></credit>
+<credit gid="1863099918"><task>Production</task><company id="9909">A-1 Pictures</company></credit></anime></ann>

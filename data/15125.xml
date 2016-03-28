@@ -1,0 +1,58 @@
+<ann><anime id="15125" gid="3322471289" type="TV" name="Aiura" precision="TV" generated-on="2016-03-27T02:01:03Z">
+<related-prev rel="adapted from" id="15124"/>
+<info gid="3686182216" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A15125-3686182216.1362803169.jpg" width="192" height="200"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A15125-3686182216.1362803169.jpg" width="192" height="200"/><img src="http://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A15125-3686182216.1362803169.jpg" width="500" height="520"/><img src="http://cdn.animenewsnetwork.com/images/encyc/A15125-3686182216.1362803169.jpg" width="572" height="595"/></info>
+<info gid="2148450904" type="Main title" lang="JA">Aiura</info>
+<info gid="1754068064" type="Alternative title" lang="JA">あいうら</info>
+<info gid="3297984153" type="Genres">comedy</info>
+<info gid="3366910658" type="Genres">slice of life</info>
+<info gid="3372609805" type="Themes">high school</info>
+<info gid="1657503743" type="Themes">school life</info>
+<info gid="1092383560" type="Objectionable content">OC</info>
+<info gid="1154477357" type="Plot Summary">Each episode features about two minutes of life of some very ordinary high school girls and their teachers doing nothing in particular.</info>
+<info gid="1588026040" type="Running time">6</info>
+<info gid="2122672827" type="Vintage">2013-04-09</info>
+<info gid="3466231299" type="Opening Theme">&quot;Kani Do-Luck!&quot; (カニ☆Do-Luck！) by Aiu♥rabu</info>
+<info gid="2761756951" type="Ending Theme">&quot;Ichigo Ichie&quot; (いちごいちえ) by Aiu♥rabu</info>
+<info gid="2206663542" type="Official website" lang="JA" href="http://www.tv-tokyo.co.jp/anime/aiura/">テレビ東京・あにてれ あいうら</info>
+<ratings nb_votes="181" weighted_score="6.8587" bayesian_score="6.90321"/>
+<episode num="1">
+<title gid="2504195567" lang="JA">前日</title></episode>
+<episode num="2">
+<title gid="2335290353" lang="JA">初登校</title></episode>
+<episode num="3">
+<title gid="2159257667" lang="JA">ホームルーム</title></episode>
+<episode num="4">
+<title gid="1851406412" lang="JA">先生</title></episode>
+<news datetime="2013-03-23T05:25:00Z" href="http://www.animenewsnetwork.com/news/2013-03-23/aiura-high-school-girl-anime-1st-promo-streamed">&lt;cite&gt;Aiura&lt;/cite&gt; High School Girl Anime's 1st Promo Streamed</news>
+<news datetime="2013-03-31T00:20:07Z" href="http://www.animenewsnetwork.com/news/2013-03-30/crunchyroll-to-stream-aiura-mushibugyo-tv-anime">Crunchyroll to Stream &lt;cite&gt;Aiura, Mushibugyō&lt;/cite&gt; TV Anime</news>
+<news datetime="2013-08-13T08:30:00Z" href="http://www.animenewsnetwork.com/news/2013-08-13/japan-animation-blu-ray-disc-ranking-august-5-11">Japan's Animation Blu-ray Disc Ranking, August 5-11</news>
+<staff gid="2619194023"><task>Director</task><person id="20515">Ryosuke Nakamura</person></staff>
+<staff gid="373974800"><task>Script</task><person id="20515">Ryosuke Nakamura</person></staff>
+<staff gid="2786547764"><task>Storyboard</task><person id="20515">Ryosuke Nakamura</person></staff>
+<staff gid="3201095054"><task>Episode Director</task><person id="20515">Ryosuke Nakamura</person></staff>
+<staff gid="2287164361"><task>Unit Director</task><person id="20515">Ryosuke Nakamura</person></staff>
+<staff gid="965791426"><task>Music</task><person id="70018">Shusei Murai</person></staff>
+<staff gid="1541929923"><task>Original creator</task><person id="117866">Chama</person></staff>
+<staff gid="3415674493"><task>Character Design</task><person id="19928">Mieko Hosoi</person></staff>
+<staff gid="3498926498"><task>Art Director</task><person id="2842">Hidetoshi Kaneko</person></staff>
+<staff gid="3121145825"><task>Chief Animation Director</task><person id="19928">Mieko Hosoi</person></staff>
+<staff gid="279509448"><task>Animation Director</task><person id="19928">Mieko Hosoi</person></staff>
+<staff gid="2020773588"><task>Animation Director</task><person id="35151">Ai Kikuchi</person></staff>
+<staff gid="2743470908"><task>Animation Director</task><person id="52180">Shingo Ogiso</person></staff>
+<staff gid="2022336037"><task>Sound Director</task><person id="48340">Youji Shimizu</person></staff>
+<staff gid="1016592526"><task>Director of Photography</task><person id="26289">Shinichi Igarashi</person></staff>
+<staff gid="2230609801"><task>Producer</task><person id="2681">Masahiro Yoshida</person></staff>
+<staff gid="1215189692"><task>Producer</task><person id="52187">Ryou Sasaki</person></staff>
+<staff gid="2511051272"><task>Producer</task><person id="61814">Shinji Horikiri</person></staff>
+<cast gid="832617075" lang="JA"><role>Wakatsuki-sensei</role><person id="524">Yukari Tamura</person></cast>
+<cast gid="1953159128" lang="JA"><role>Matsuno-sensei</role><person id="910">Tomokazu Sugita</person></cast>
+<cast gid="2151698662" lang="JA"><role>Mei Yanase</role><person id="94383">Ayane Sakura</person></cast>
+<cast gid="2729459036" lang="JA"><role>Yamashita-sensei</role><person id="96014">Yumi Uchiyama</person></cast>
+<cast gid="2326870439" lang="JA"><role>Saki Iwasawa</role><person id="116489">Yuko Iida</person></cast>
+<cast gid="2161443641" lang="JA"><role>Kanaka Amaya</role><person id="117867">Yui Nakajima</person></cast>
+<cast gid="2289892361" lang="JA"><role>Ayuko Uehara</role><person id="117868">Nao Tamura</person></cast>
+<cast gid="1485217504" lang="JA"><role>Sōta Amaya</role><person id="118609">Yumiri Hanamori</person></cast>
+<credit gid="1188832725"><task>Animation Production</task><company id="11121">LIDEN FILMS</company></credit>
+<credit gid="520555604"><task>Production</task><company id="262">TV Tokyo</company></credit>
+<credit gid="1129163923"><task>Production</task><company id="269">Pony Canyon</company></credit>
+<credit gid="533632667"><task>Production</task><company id="11824">Aiura Production Committee</company></credit></anime></ann>

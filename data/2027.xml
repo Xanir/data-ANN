@@ -1,0 +1,882 @@
+<ann><anime id="2027" gid="85787697" type="TV" name="Kochira Katsushika-ku Kamearikouen-mae Hashutsujo" precision="TV" generated-on="2016-03-27T05:30:07Z">
+<related-prev rel="remake of" id="7387"/>
+<related-next id="1981" rel="related"/>
+<info gid="2656088281" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A2027-808.jpg" width="200" height="200"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A2027-808.jpg" width="200" height="200"/><img src="http://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A2027-808.jpg" width="268" height="268"/></info>
+<info gid="3107621865" type="Main title" lang="JA">Kochira Katsushika-ku Kamearikouen-mae Hashutsujo</info>
+<info gid="2319095158" type="Alternative title" lang="EN">Cảnh sát kỳ tài (Vietnamese)</info>
+<info gid="993935920" type="Alternative title" lang="JA">Kochikame</info>
+<info gid="1833977046" type="Alternative title" lang="PT">Kochikame - A Louca Academia de Polícia</info>
+<info gid="1653550501" type="Alternative title" lang="ES">Kochikame Loca Academia de Policia</info>
+<info gid="1987357644" type="Alternative title" lang="EN">This is the Police Station in Front of Kameari Park in Katsushika Ward</info>
+<info gid="159703939" type="Alternative title" lang="JA">こちら葛飾区亀有公園前派出所</info>
+<info gid="1019532912" type="Alternative title" lang="JA">こち亀</info>
+<info gid="2624592646" type="Alternative title" lang="ZH-TW">烏龍派出所</info>
+<info gid="2188785036" type="Genres">comedy</info>
+<info gid="1494069895" type="Genres">slice of life</info>
+<info gid="1459041990" type="Themes">police</info>
+<info gid="1494223494" type="Plot Summary">Ryoutsu, being an underpayed policeman, is always coming up with ways to make some quick money. But in the end, his plans which are ridiculous from the beginning always go wrong and land him in big trouble with the Buchou.</info>
+<info gid="2296947844" type="Running time">15</info>
+<info gid="1489634072" type="Number of episodes">367</info>
+<info gid="1503102746" type="Vintage">1996-06-16 to 2004-12-19</info>
+<info gid="1777151698" type="Vintage">2010-01-25 (Spain, Antena Neox)</info>
+<info gid="3066104535" type="Opening Theme">#1: &quot;Natsu ga Kita! Diamond Head ~ Nagisa no Ojou-sama yori (夏が来た!(Diamond Head)～「渚の女王様」より)&quot; by Ojou-sama</info>
+<info gid="2086576211" type="Opening Theme">#2: &quot;Everybody Can Do!&quot; by TOKIO (eps 13-38)</info>
+<info gid="1046467359" type="Opening Theme">#3: &quot;Katsushika Rhapsody (葛飾ラプソディー)&quot; by Kōhei Dōjima (eps 39-145)</info>
+<info gid="863663586" type="Opening Theme">#4: &quot;Kochira Kameza no Onna (こちら亀座の女)&quot; by Osamu Yamada &amp; Hello Nights (eps 146-154)</info>
+<info gid="3934776125" type="Opening Theme">#5: &quot;Oideyo Kameari (おいでよ亀有)&quot; by Lasar Ishii &amp; Kochikame Win-gashōdan (eps 155-206)</info>
+<info gid="3411309821" type="Opening Theme">#6: &quot;Damatte Ore ni Tsuite koi (だまって俺についてこい) &quot; by Yoshimi Tendo (eps 207-324)</info>
+<info gid="1307749741" type="Opening Theme">#7: &quot;Katsushika Rhapsody ~Yum Yum version~ (葛飾ラブソディー～ヤムヤムversion～)&quot; by Yum!Yum!ORANGE (eps 325-367)</info>
+<info gid="3174061414" type="Ending Theme">#01: &quot;Smile (スマイル)&quot; by Hoff Dylan (eps 1-12)</info>
+<info gid="1470183529" type="Ending Theme">#02: &quot;Ii koto aru sa (いいことあるさ)&quot; by The Collectors (eps 13-38)</info>
+<info gid="2928293140" type="Ending Theme">#03: &quot;Lady no Yume wa Mangekyō (淑女（レディー）の夢は万華鏡)&quot; by Megumi Okina (eps 39-72)</info>
+<info gid="2560591300" type="Ending Theme">#04: &quot;Bue no Biabia (ブウェーのビヤビヤ)&quot; by George Tokoro (eps 73-124)</info>
+<info gid="3812887166" type="Ending Theme">#05: &quot;Kyun&quot; by Kanae (eps 125-145)</info>
+<info gid="715908228" type="Ending Theme">#06: &quot;Kimi to Boku (君と僕)&quot; by The LOVE (eps 146-153)</info>
+<info gid="1456617170" type="Ending Theme">#07: &quot;Kimochi Dayo (気持ちだよ)&quot; by Takurō Yoshida (eps 154-163)</info>
+<info gid="1835705483" type="Ending Theme">#08: &quot;Mainichi, No Problem (毎日、ノープロブレム)&quot; by Rieko Miura &amp; Kanako Mitsuhashi (eps 164-176,178-208)</info>
+<info gid="1192684473" type="Ending Theme">#09: &quot;Robo Keijibanchō no Uta (ロボ刑事番長の歌)&quot; by Lasar Ishii (ep 177)</info>
+<info gid="3457057547" type="Ending Theme">#10: &quot;Oideyo Kameari (おいでよ亀有)&quot; by Lasar Ishii &amp; Kochikame Win-gashōdan (eps 209-247,282-293,335-353,367)</info>
+<info gid="2708800829" type="Ending Theme">#11: &quot;Nice na Kokoroiki (ナイスな心意気)&quot; by Arashi (eps 248-274)</info>
+<info gid="1118564660" type="Ending Theme">#12: &quot;Natsu ga Kita! Diamond Head ~Nagisa no Ojō-sama yori (夏が来た!(Diamond Head)～「渚の女王様」より)&quot; by Ojō-sama (eps 275-281)</info>
+<info gid="2012731463" type="Ending Theme">#13: &quot;Tetsu and Tomo no Nande Darō~Ryō-san version~ (テツandトモのなんでだろう～両さんバージョン～)&quot; by Tetsu and Tomo (eps 294-305)</info>
+<info gid="1735971419" type="Ending Theme">#14: &quot;Tetsu and Tomo no Nande Darō~Kochikame version~ (テツandトモのなんでだろう～こち亀バージョン～)&quot; by Tetsu and Tomo (eps 306-315)</info>
+<info gid="1991496704" type="Ending Theme">#15: &quot;Hai,Irasshai&quot; by NICE GUY-JIN (eps 316-325)</info>
+<info gid="1395570707" type="Ending Theme">#16: &quot;Katare! Namida (語れ! 涙)&quot; by SEX MACHINEGUNS (eps 326-334)</info>
+<info gid="733873424" type="Ending Theme">#17: &quot;Jugem~Kochikame version~ (ジュゲム～こち亀バージョン～)&quot; by Lasar Ishii &amp; Ōedo Taifūzoku (eps 354-366)</info>
+<info gid="3232562932" type="Official website" lang="JA" href="http://www.j-kochikame.com/">Kochira Katsushika-ku Kamearikoen-mae Hashutsujo dot com</info>
+<ratings nb_votes="26" weighted_score="7.4197" bayesian_score="7.4541"/>
+<episode num="1">
+<title gid="1898889638" lang="EN">The XX Policeman Ryotsu Appears!?</title></episode>
+<episode num="2">
+<title gid="901985080" lang="EN">The Rookie Cop Who Came from the Sky</title></episode>
+<episode num="3">
+<title gid="261103825" lang="JA">dai hanjou ! sora tobu yatai</title></episode>
+<episode num="4">
+<title gid="1846307168" lang="JA">ichi hatsu sen kinpou KUJI yarou</title></episode>
+<episode num="5">
+<title gid="1569004186" lang="JA">kakigoori de suki SUKII</title></episode>
+<episode num="6">
+<title gid="1526225882" lang="JA">reiko ikari no dai tsuiseki !</title></episode>
+<episode num="7">
+<title gid="2883585399" lang="JA">mezameyo ! toumin keikan</title></episode>
+<episode num="8">
+<title gid="1811695224" lang="JA">kachidokibashi hirake !</title></episode>
+<episode num="9">
+<title gid="2722347136" lang="JA">TOKOTON oozumou !</title></episode>
+<episode num="10">
+<title gid="2069148227" lang="EN">Derailment・Runaway・Big Explosion!</title></episode>
+<episode num="11">
+<title gid="1618129702" lang="JA">nakagawa kun no wo taku haiken</title></episode>
+<episode num="12">
+<title gid="1401473371" lang="JA">gekitotsu ! edo kko kassen</title></episode>
+<episode num="13">
+<title gid="1212219126" lang="JA">masaka ryoutsu to reiko ga ...</title></episode>
+<episode num="14">
+<title gid="2714026190" lang="JA">ZOU-san to issho</title></episode>
+<episode num="15">
+<title gid="2178488105" lang="JA">hashire ! honda ai no tame ni</title></episode>
+<episode num="16">
+<title gid="1036216325" lang="JA">oohara ka no hihou !?</title></episode>
+<episode num="17">
+<title gid="1720955365" lang="EN">The Great Cockroach Race</title></episode>
+<episode num="18">
+<title gid="3874303119" lang="JA">gekisha ! kyouto ryokou saigen</title></episode>
+<episode num="19">
+<title gid="2239031585" lang="JA">soba ya saiken keikaku !</title></episode>
+<episode num="20">
+<title gid="1862381428" lang="JA">ryoutsu shiki TESUTO hisshou hou</title></episode>
+<episode num="21">
+<title gid="3104963686" lang="EN">Bonus Battle Competition</title></episode>
+<episode num="22">
+<title gid="1087792990" lang="JA">ryoutsu MECHAMOTE sengen</title></episode>
+<episode num="23">
+<title gid="3590680853" lang="JA">shinshun BATORUKARUTA !</title></episode>
+<episode num="24">
+<title gid="1170051636" lang="JA">nipponichi no musekinin oyako</title></episode>
+<episode num="25">
+<title gid="2140345146" lang="JA">kinshin nanka kowakunai</title></episode>
+<episode num="26">
+<title gid="1966453771" lang="JA">shichou ritsu kasegi masu !</title></episode>
+<episode num="27">
+<title gid="3432031185" lang="JA">chou kanemochi, shiratori urara ji</title></episode>
+<episode num="28">
+<title gid="1559771463" lang="JA">ryousan no dai dassou !</title></episode>
+<episode num="29">
+<title gid="1342003904" lang="JA">otoko no 'fure ai' hinoki buro</title></episode>
+<episode num="30">
+<title gid="1741809030" lang="JA">sanzan hinamatsuri</title></episode>
+<episode num="31">
+<title gid="2745023784" lang="JA">ninja tai INDI ryoutsu</title></episode>
+<episode num="32">
+<title gid="1802670521" lang="JA">ryoutsu tadaima shugyou chuu</title></episode>
+<episode num="33">
+<title gid="1969722663" lang="EN">Ah, My Home</title></episode>
+<episode num="34">
+<title gid="2490266170" lang="EN">The Rumored Sea Bread Detective Emrges</title></episode>
+<episode num="35">
+<title gid="2094833304" lang="JA">HAIPAA shougakusei VS ryoutsu</title></episode>
+<episode num="36">
+<title gid="2077956323" lang="JA">buchou yo ! are ga PARI no akari da</title></episode>
+<episode num="37">
+<title gid="1504320476" lang="JA">gekitotsu ! shin VS ryoutsu</title></episode>
+<episode num="38">
+<title gid="1379613549" lang="JA">buchou no me ni mo namida</title></episode>
+<episode num="39">
+<title gid="3313207526" lang="JA">(hi) shashin wo torikaese !</title></episode>
+<episode num="40">
+<title gid="1267874577" lang="JA">inochi kake masu tabe houdai</title></episode>
+<episode num="41">
+<title gid="4235674576" lang="JA">sai toujou ! shiratori urara ji</title></episode>
+<episode num="42">
+<title gid="1849211528" lang="EN">Devotion! Ryotsu &amp; Maria</title></episode>
+<episode num="43">
+<title gid="2924778549" lang="JA">emigeki chokugeki HONDARA ken</title></episode>
+<episode num="44">
+<title gid="1126703374" lang="JA">hatsukoi no hito ! sore wa ryoutsu ?</title></episode>
+<episode num="45">
+<title gid="1590042582" lang="JA">WANI ooyake ! namida no geinin tamashii</title></episode>
+<episode num="46">
+<title gid="1581565574" lang="JA">arashi wo yobu yakyuu taikai !</title></episode>
+<episode num="47">
+<title gid="2030172482" lang="JA">ryousan no shinjin kenshuu</title></episode>
+<episode num="48">
+<title gid="2516006805" lang="JA">dengeki kekkon ! ryoutsu kan kichi</title></episode>
+<episode num="49">
+<title gid="2007790392" lang="JA">ryousan ningyou shin hatsubai !</title></episode>
+<episode num="50">
+<title gid="2054322341" lang="JA">gekiryuu yakatabune PANIKKU</title></episode>
+<episode num="51">
+<title gid="2548359954" lang="JA">ryousan no gyaku tama dai sakusen</title></episode>
+<episode num="52">
+<title gid="1291734569" lang="JA">KANADA de koboshi takuora ken !</title></episode>
+<episode num="53">
+<title gid="1129362023" lang="JA">bimi ! fukushuu no RESHIPI</title></episode>
+<episode num="54">
+<title gid="1474452125" lang="JA">OBAKE de maru mouke !</title></episode>
+<episode num="55">
+<title gid="648512807" lang="JA">bijin tsuma wa CHOU kageki</title></episode>
+<episode num="56">
+<title gid="2558661917" lang="JA">asakusa hatsukoi monogatari</title></episode>
+<episode num="57">
+<title gid="2849011428" lang="JA">toukon GEEMAA sakon tera</title></episode>
+<episode num="58">
+<title gid="2477526861" lang="JA">wo geretsu shashin PANIKKU</title></episode>
+<episode num="59">
+<title gid="1384035197" lang="JA">sakuretsu ! jiisan PAWAA</title></episode>
+<episode num="60">
+<title gid="3297580375" lang="JA">dokushin ryou wa nyonin kangei</title></episode>
+<episode num="61">
+<title gid="2152003156" lang="JA">buchou no kakushigo giwaku !?</title></episode>
+<episode num="62">
+<title gid="2018330748" lang="JA">MATSUTAKE keibi tai shutsudou</title></episode>
+<episode num="63">
+<title gid="2684976960" lang="JA">HONDARA ken kikiippatsu</title></episode>
+<episode num="64">
+<title gid="2998416173" lang="JA">saraba oohara buchou !?</title></episode>
+<episode num="65">
+<title gid="2342171071" lang="JA">hashire ! shitsuren RAIDAA</title></episode>
+<episode num="66">
+<title gid="1747396923" lang="JA">netsu utsushi ! shinbun dai sensou</title></episode>
+<episode num="67">
+<title gid="1205853848" lang="EN">Bonus Battle 2</title></episode>
+<episode num="68">
+<title gid="1750683332" lang="JA">rusu roku SHINDOROUMU</title></episode>
+<episode num="69">
+<title gid="2124194237" lang="JA">bakuhatsu HONDARA shinnen kai</title></episode>
+<episode num="70">
+<title gid="2121373608" lang="EN">Do You Like Your Vacation This Intense!?</title></episode>
+<episode num="71">
+<title gid="3198533219" lang="JA">tsuiseki ! meiken RYOUTSU</title></episode>
+<episode num="72">
+<title gid="586440256" lang="JA">taiketsu ! bijo ipponzuri</title></episode>
+<episode num="73">
+<title gid="2493863030" lang="JA">jii-san to bakudan ma</title></episode>
+<episode num="74">
+<title gid="1848813379" lang="JA">honda, saigo no koi !?</title></episode>
+<episode num="75">
+<title gid="3545615389" lang="JA">kindan no bishoujo ningyou !</title></episode>
+<episode num="76">
+<title gid="3389371317" lang="EN">The Camping Spirit Burns!</title></episode>
+<episode num="77">
+<title gid="2527246292" lang="EN">Professor Tondemo Appears!</title></episode>
+<episode num="78">
+<title gid="2972903718" lang="JA">zettai anshin ! ryoutsu kankou</title></episode>
+<episode num="79">
+<title gid="1441676899" lang="JA">obake entotsu ga kieta hi</title></episode>
+<episode num="80">
+<title gid="602072103" lang="JA">kyoufu no hako otoko !?</title></episode>
+<episode num="81">
+<title gid="1300995573" lang="JA">mouretsu shachou ! nakagawa no chichi</title></episode>
+<episode num="82">
+<title gid="1255944525" lang="JA">mottomo kiken na SABAIBARU !?</title></episode>
+<episode num="83">
+<title gid="2170313006" lang="JA">yokubou no ningen KUREEN</title></episode>
+<episode num="84">
+<title gid="1771981226" lang="JA">bousou TONDEMO shin hatsumei</title></episode>
+<episode num="85">
+<title gid="3053059753" lang="JA">funtou ! hanasaki ka ryousan</title></episode>
+<episode num="86">
+<title gid="2983516943" lang="JA">BORUBO no dousei jidai !?</title></episode>
+<episode num="87">
+<title gid="2156682875" lang="JA">tobe ! PATOKAA keibu</title></episode>
+<episode num="88">
+<title gid="2325749224" lang="JA">gekisou ! SUPIIDO yatai</title></episode>
+<episode num="89">
+<title gid="2568614697" lang="EN">Grand Trnsformation! Moonlight Detective</title></episode>
+<episode num="90">
+<title gid="2093304243" lang="JA">fuhatsu dan todoke masu</title></episode>
+<episode num="91">
+<title gid="1708748420" lang="JA">ryoutsu shisu ! NANI- !?</title></episode>
+<episode num="92">
+<title gid="2718577243" lang="JA">micchaku ! kiken na futari</title></episode>
+<episode num="93">
+<title gid="2015851934" lang="JA">gekichin ! ninja jii-san</title></episode>
+<episode num="94">
+<title gid="3781326630" lang="EN">Great Hard! Kankichi Ryotsu Dies Twice</title></episode>
+<episode num="95">
+<title gid="1918237913" lang="EN">The Traffic Safety Demon</title></episode>
+<episode num="96">
+<title gid="650808262" lang="EN">Birth! Detective Hatopoppo</title></episode>
+<episode num="97">
+<title gid="1017432317" lang="JA">kyoufu ! kami wa nagai tomodachi</title></episode>
+<episode num="98">
+<title gid="508118002" lang="EN">Baseball Game GO!</title></episode>
+<episode num="99">
+<title gid="3535261466" lang="JA">kore ga watashi no suki na hito</title></episode>
+<episode num="100">
+<title gid="3254056443" lang="EN">A Gift from the Universe</title></episode>
+<episode num="101">
+<title gid="2673074390" lang="JA">akogare no TSUUSHOTTO</title></episode>
+<episode num="102">
+<title gid="2385489979" lang="JA">noroi no umeboshi tsubo</title></episode>
+<episode num="103">
+<title gid="2889043041" lang="JA">nakagawa kun wa shitamachi sodachi ?</title></episode>
+<episode num="104">
+<title gid="2136718473" lang="JA">wa nashi ni nara nai hanashi</title></episode>
+<episode num="105">
+<title gid="1087145172" lang="JA">zettai zetsumei sai hate sho</title></episode>
+<episode num="106">
+<title gid="1059904205" lang="EN">Ryo-san Goes to the Moon</title></episode>
+<episode num="107">
+<title gid="1469466899" lang="JA">dai HAADO 2 ! shijou saitei no kessen</title></episode>
+<episode num="108">
+<title gid="3787748511" lang="EN">I'm the Leading Role! Hoshitoden</title></episode>
+<episode num="109">
+<title gid="2942013971" lang="EN">Bodyguard of Love</title></episode>
+<episode num="110">
+<title gid="3000284751" lang="JA">asakusa SHINEMA PARADAISU</title></episode>
+<episode num="111">
+<title gid="1945780405" lang="JA">kame no ongaeshi</title></episode>
+<episode num="112">
+<title gid="1361574710" lang="JA">henshin ! buchou no shinsha</title></episode>
+<episode num="113">
+<title gid="3603242024" lang="EN">Bonus Battle 3</title></episode>
+<episode num="114">
+<title gid="2307977182" lang="JA">HONDARA mi gawari kobushi</title></episode>
+<episode num="115">
+<title gid="2852932864" lang="EN">Ryo-san Becomes Small!</title></episode>
+<episode num="116">
+<title gid="2547212971" lang="JA">jigoku no DABURUDEETO</title></episode>
+<episode num="117">
+<title gid="2386905195" lang="JA">sekai saikyou bijo kettei ! B - 1 GURANPURI ' 98 honkon dai kessen !!</title></episode>
+<episode num="118">
+<title gid="1591553567" lang="EN">The Asakusa Story</title></episode>
+<episode num="119">
+<title gid="2369001391" lang="JA">ryousan toumei ningen ni naru</title></episode>
+<episode num="120">
+<title gid="3762658810" lang="EN">As a Brother...!</title></episode>
+<episode num="121">
+<title gid="262973296" lang="JA">miuchi toshite ...!</title></episode>
+<episode num="122">
+<title gid="821498737" lang="JA">48 jikan sekai isshuu !</title></episode>
+<episode num="123">
+<title gid="230040373" lang="EN">Maria! Loving Iron Fist</title></episode>
+<episode num="124">
+<title gid="1364420896" lang="JA">gyakushuu bachiatari JIJI?</title></episode>
+<episode num="125">
+<title gid="1701453398" lang="JA">hashire ! reiko no dai tsuiseki</title></episode>
+<episode num="126">
+<title gid="2773401003" lang="JA">wataru seken ni kaki genkin</title></episode>
+<episode num="127">
+<title gid="2718153276" lang="EN">Nostrum Ryotsu GPX</title></episode>
+<episode num="128">
+<title gid="2761374292" lang="EN">The Honda Family Home</title></episode>
+<episode num="129">
+<title gid="1501051777" lang="JA">omoisugoshi mo koi no uchi</title></episode>
+<episode num="130">
+<title gid="2925796483" lang="JA">gao wa wazawai no moto ?!</title></episode>
+<episode num="131">
+<title gid="2135857798" lang="EN">Ryotsu's Amibition! The Time Slip Sengoku Story</title></episode>
+<episode num="132">
+<title gid="1271231981" lang="JA">iki you samazama</title></episode>
+<episode num="133">
+<title gid="1233313082" lang="EN">Novice Detective・Ryotsu!</title></episode>
+<episode num="134">
+<title gid="1340119454" lang="JA">papa to yoba nai de !</title></episode>
+<episode num="135">
+<title gid="1597304790" lang="JA">sakon tera arata naru kadode</title></episode>
+<episode num="136">
+<title gid="1006559843" lang="EN">Distant Afterschool</title></episode>
+<episode num="137">
+<title gid="2898054275" lang="JA">gorin nya mada hayai ?</title></episode>
+<episode num="138">
+<title gid="623855594" lang="JA">moero ! koi no erabu shima</title></episode>
+<episode num="139">
+<title gid="3506353299" lang="JA">TONDEMO koukuu keisatsu tai</title></episode>
+<episode num="140">
+<title gid="2558271080" lang="JA">kanrui ! terai no hatsu taiken</title></episode>
+<episode num="141">
+<title gid="1648695981" lang="JA">ryousan manga ka ni naru</title></episode>
+<episode num="142">
+<title gid="1081610324" lang="JA">gekitou KANKERI dai sensou</title></episode>
+<episode num="143">
+<title gid="1746261399" lang="JA">NOSUTORA ryoutsu dai yogen</title></episode>
+<episode num="144">
+<title gid="2259796987" lang="JA">geki to HOUMUBIDEO ou</title></episode>
+<episode num="145">
+<title gid="2065087682" lang="JA">kameari no yoru wa yasashiku</title></episode>
+<episode num="146">
+<title gid="2066123307" lang="JA">kessen ! GORUFU jou yaburi</title></episode>
+<episode num="147">
+<title gid="1874042320" lang="JA">CHAARII kobayashi no himitsu</title></episode>
+<episode num="148">
+<title gid="3331827194" lang="JA">TONDEMO shinkai SOS</title></episode>
+<episode num="149">
+<title gid="2530816826" lang="JA">hatarake ! matsukichi</title></episode>
+<episode num="150">
+<title gid="2039467483" lang="JA">yozora ni sai ta okurimono</title></episode>
+<episode num="151">
+<title gid="949914672" lang="JA">ryou tsu no tairyoku kabushikigaisha</title></episode>
+<episode num="152">
+<title gid="2308275728" lang="JA">warau mon ni ebisu-kun</title></episode>
+<episode num="153">
+<title gid="2769263350" lang="JA">tatakae ! TORANPU gekokujou</title></episode>
+<episode num="154">
+<title gid="1241465867" lang="JA">shutsudou ! ROBOTTO keikan</title></episode>
+<episode num="155">
+<title gid="3631630694" lang="JA">SUTORADII dai tsuiseki !</title></episode>
+<episode num="156">
+<title gid="879726723" lang="JA">SF uchuu jin no gyakushuu !</title></episode>
+<episode num="157">
+<title gid="3301650434" lang="EN">Bonus Battle 4</title></episode>
+<episode num="158">
+<title gid="1902368785" lang="JA">jikan yo tomare</title></episode>
+<episode num="159">
+<title gid="1505077363" lang="EN">Ryo-san Goes to America</title></episode>
+<episode num="160">
+<title gid="2427399681" lang="JA">gokuraku wa doko da</title></episode>
+<episode num="161">
+<title gid="1679787785" lang="JA">haruka naru terai ka</title></episode>
+<episode num="162">
+<title gid="3884668665" lang="JA">KARUSHIUMU de taero</title></episode>
+<episode num="163">
+<title gid="3172365044" lang="JA">nikutai wa MAJISHAN</title></episode>
+<episode num="164">
+<title gid="2452364809" lang="JA">komachi !? dai BUREIKU</title></episode>
+<episode num="165">
+<title gid="2829944476" lang="JA">jitsuroku ! V KAMERAMAN</title></episode>
+<episode num="166">
+<title gid="1364742533" lang="JA">mai to omusubi no tabidachi</title></episode>
+<episode num="167">
+<title gid="3674976345" lang="JA">aa jigoku no kishuku seikatsu</title></episode>
+<episode num="168">
+<title gid="3421088263" lang="EN">Mobile Phone Panic!</title></episode>
+<episode num="169">
+<title gid="1913967970" lang="JA">tabi makase onsen TSUAA</title></episode>
+<episode num="170">
+<title gid="706843642" lang="JA">funinchi no omoide</title></episode>
+<episode num="171">
+<title gid="1863307105" lang="JA">kessen ! dai shizen GORUFU</title></episode>
+<episode num="172">
+<title gid="3519793791" lang="JA">henshin ! shomin wa nakagawa kun</title></episode>
+<episode num="173">
+<title gid="2195615033" lang="JA">jinsei wo yarinaose !</title></episode>
+<episode num="174">
+<title gid="648883297" lang="JA">nana shoku no koe wo motsu otoko</title></episode>
+<episode num="175">
+<title gid="651676774" lang="JA">ODOROKIMONONOKI tou no dai kessen</title></episode>
+<episode num="176">
+<title gid="433028890" lang="JA">jinsei saiaku no hi</title></episode>
+<episode num="177">
+<title gid="400640477" lang="JA">koi wa umi wo koete !?</title></episode>
+<episode num="178">
+<title gid="3976227820" lang="EN">Make Money with Anime!</title></episode>
+<episode num="179">
+<title gid="1740696299" lang="JA">yuujou no tsubasa</title></episode>
+<episode num="180">
+<title gid="2847810758" lang="JA">HAIPAA shachou no kazoku SAABISU</title></episode>
+<episode num="181">
+<title gid="2389908732" lang="JA">haji wo shinon de ARUBAITO</title></episode>
+<episode num="182">
+<title gid="2683798192" lang="EN">Shojo Manga Detective Arrives!</title></episode>
+<episode num="183">
+<title gid="889469237" lang="JA">wazawai wa wasure ta koro ni ...</title></episode>
+<episode num="184">
+<title gid="2144904526" lang="EN">Hyper Cop Ryotsu</title></episode>
+<episode num="185">
+<title gid="3303721075" lang="JA">ryousan ningendokku e iku</title></episode>
+<episode num="186">
+<title gid="848694363" lang="JA">kou no kyuujou</title></episode>
+<episode num="187">
+<title gid="3398536928" lang="JA">shitamachi kouban nikki</title></episode>
+<episode num="188">
+<title gid="2905356513" lang="JA">kendou icchokusen !</title></episode>
+<episode num="189">
+<title gid="2710419323" lang="JA">kan yoshirou no natsu</title></episode>
+<episode num="190">
+<title gid="1021525706" lang="JA">gekitotsu ! CHARITIBAZAA</title></episode>
+<episode num="191">
+<title gid="2177225223" lang="JA">toumin keikan futatabi</title></episode>
+<episode num="192">
+<title gid="3021906314" lang="JA">hikyou ! do inaka ken</title></episode>
+<episode num="193">
+<title gid="1118659918" lang="EN">Circus Symphony</title></episode>
+<episode num="194">
+<title gid="1464147708" lang="JA">sora tobu TAKO hai bin</title></episode>
+<episode num="195">
+<title gid="945413093" lang="JA">shinbun shounen kan kichi monogatari</title></episode>
+<episode num="196">
+<title gid="3054215032" lang="JA">dai gekitotsu ! ryoutsu VS KARASU</title></episode>
+<episode num="197">
+<title gid="1981155148" lang="JA">keiichi. reiko no fuufu manzai</title></episode>
+<episode num="198">
+<title gid="737653535" lang="JA">shingo MAMA no muriyari asa gohan !</title></episode>
+<episode num="199">
+<title gid="1254435597" lang="JA">ryoutsu TAKUSHII eigyou chuu</title></episode>
+<episode num="200">
+<title gid="1344565625" lang="JA">hashire ! KAMEARIKINGUOU</title></episode>
+<episode num="201">
+<title gid="3182462393" lang="JA">tensai gaka ara waru</title></episode>
+<episode num="202">
+<title gid="2243078589" lang="JA">honda ka no ichizoku 2 IBU no houmotsu</title></episode>
+<episode num="203">
+<title gid="787509301" lang="JA">oikakete kameari</title></episode>
+<episode num="204">
+<title gid="3407771703" lang="JA">ryousan senkyo ni tatsu</title></episode>
+<episode num="205">
+<title gid="2648583051" lang="EN">Bonus Battle 5</title></episode>
+<episode num="206">
+<title gid="787746474" lang="JA">tondemo BODIJAKKU</title></episode>
+<episode num="207">
+<title gid="3045303117" lang="JA">terai, shuunen no tsuiseki</title></episode>
+<episode num="208">
+<title gid="2650186031" lang="JA">ryousan saidai no kiki ! RAIBARU wa CHAKICHAKI edo mmusume</title></episode>
+<episode num="209">
+<title gid="2070082827" lang="JA">21 seiki da yo iwai tai sanjou !</title></episode>
+<episode num="210">
+<title gid="2574681332" lang="JA">kochira higashi ginza kabukiza zen hashutsujo</title></episode>
+<episode num="211">
+<title gid="2342850239" lang="JA">mezameyo ! majime ningen ryoutsu</title></episode>
+<episode num="212">
+<title gid="1720961191" lang="JA">odoru ooedo sousa mou</title></episode>
+<episode num="213">
+<title gid="2540918346" lang="JA">PETTO no kai kata oshiemasu</title></episode>
+<episode num="214">
+<title gid="1644099082" lang="JA">kaette ki ta koutsuu anzen no oni</title></episode>
+<episode num="215">
+<title gid="915197643" lang="JA">TOROBASU monogatari</title></episode>
+<episode num="216">
+<title gid="2918592042" lang="JA">hisan sanzan tanjoubi</title></episode>
+<episode num="217">
+<title gid="2851372595" lang="JA">hijiribashi, hakusen nagashi</title></episode>
+<episode num="218">
+<title gid="441535001" lang="JA">shinai naru aniki e</title></episode>
+<episode num="219">
+<title gid="3712529365" lang="JA">giri to ninjou no komori ka</title></episode>
+<episode num="220">
+<title gid="2717630793" lang="JA">rakugaki keshite kure !</title></episode>
+<episode num="221">
+<title gid="2624640971" lang="JA">ryoutsu TAUN kaizou keikaku</title></episode>
+<episode num="222">
+<title gid="1581137310" lang="JA">shichou ritsu wo nusun da otoko</title></episode>
+<episode num="223">
+<title gid="3626351196" lang="JA">ryousan kinshu meirei</title></episode>
+<episode num="224">
+<title gid="1027898931" lang="EN">Super Editor</title></episode>
+<episode num="225">
+<title gid="1208886357" lang="EN">Ryo-san Becomes a Millionaire</title></episode>
+<episode num="226">
+<title gid="925639473" lang="JA">burari micchaku ! shitamachi keikan</title></episode>
+<episode num="227">
+<title gid="1116527456" lang="JA">SUUPAA youchienji remon !</title></episode>
+<episode num="228">
+<title gid="1180356197" lang="JA">ninpou oshiemasu !</title></episode>
+<episode num="229">
+<title gid="1878570457" lang="JA">PAPA wa waka taishou !</title></episode>
+<episode num="230">
+<title gid="2760603773" lang="JA">kyouzou no ikari</title></episode>
+<episode num="231">
+<title gid="3676648927" lang="JA">reiko, natsu no omoide ...</title></episode>
+<episode num="232">
+<title gid="947535160" lang="JA">juu ni kai de aimaseu</title></episode>
+<episode num="233">
+<title gid="2667836939" lang="EN">100,000,000 Yen Scramble! Huge Athletic Tournament</title></episode>
+<episode num="234">
+<title gid="3104440362" lang="JA">matsuri taiko</title></episode>
+<episode num="235">
+<title gid="1572438242" lang="EN">Farewell Ryo-san</title></episode>
+<episode num="236">
+<title gid="1484672544" lang="JA">yukemuri PORORI 2001 nen kyouto no tabi</title></episode>
+<episode num="237">
+<title gid="2001301192" lang="JA">kettei ! RANKINGU ou</title></episode>
+<episode num="238">
+<title gid="3301912499" lang="EN">Magic Yakan</title></episode>
+<episode num="239">
+<title gid="1823263886" lang="JA">remon ni ichimoku hore</title></episode>
+<episode num="240">
+<title gid="2766285924" lang="JA">SUUPAA rou junsa no subarashiki ichinichi</title></episode>
+<episode num="241">
+<title gid="3898074658" lang="JA">tsuru pika ryousan</title></episode>
+<episode num="242">
+<title gid="1656020985" lang="JA">akutoku SEERUSU wo buttobase</title></episode>
+<episode num="243">
+<title gid="1956852533" lang="JA">watashi wa joyuu yo ! kameari futago</title></episode>
+<episode num="244">
+<title gid="2617578501" lang="JA">shijou saiaku no dasshutsu !</title></episode>
+<episode num="245">
+<title gid="457193638" lang="EN">Bonus Battle 6</title></episode>
+<episode num="246">
+<title gid="1649784706" lang="JA">sokonuke ! dorobou kabushikigaisha</title></episode>
+<episode num="247">
+<title gid="3645421161" lang="EN">Rush Out! Christmas</title></episode>
+<episode num="248">
+<title gid="1856489628" lang="JA">YOUROPPA oudan ! reiko kyuushutsu dai sakusen</title></episode>
+<episode num="249">
+<title gid="2019798511" lang="JA">remon no chichioya sankan bi</title></episode>
+<episode num="250">
+<title gid="3215394284" lang="JA">tobe ! mahou no juutan</title></episode>
+<episode num="251">
+<title gid="1193406697" lang="JA">DEMA ga DEMA yobu ryoutsu nabe</title></episode>
+<episode num="252">
+<title gid="3847173623" lang="JA">kochira KONBINI hashutsujo</title></episode>
+<episode num="253">
+<title gid="1379614624" lang="JA">konya wa namahousou !?</title></episode>
+<episode num="254">
+<title gid="1797645348" lang="JA">EBI ! KANI ! IKA ! kyodai BAIO seibutsu no shuurai</title></episode>
+<episode num="255">
+<title gid="3506399457" lang="JA">juunin to iro</title></episode>
+<episode num="256">
+<title gid="2273678640" lang="JA">KUMA naku sagase dai tsuiseki</title></episode>
+<episode num="257">
+<title gid="2804784889" lang="JA">hisan sanzan tanjou bi futatabi</title></episode>
+<episode num="258">
+<title gid="831851484" lang="JA">bouken KAN kichi</title></episode>
+<episode num="259">
+<title gid="2691693268" lang="JA">shakkuri PANIKKU</title></episode>
+<episode num="260">
+<title gid="1518987189" lang="JA">shinsetsu DOROBOU</title></episode>
+<episode num="261">
+<title gid="2088661261" lang="JA">RETTSUGOU nagasaki ! koi shigure TORAKKU nee-chan</title></episode>
+<episode num="262">
+<title gid="1143422150" lang="JA">ryoutsu to remon kyouto futari tabi</title></episode>
+<episode num="263">
+<title gid="2291928473" lang="JA">koi no dai chinbotsu !</title></episode>
+<episode num="264">
+<title gid="1736204884" lang="EN">Street Corner Soccer 2002</title></episode>
+<episode num="265">
+<title gid="835655058" lang="JA">kagi wo kakesugi ta otoko</title></episode>
+<episode num="266">
+<title gid="1524217336" lang="JA">nakagawa no chichi wo tazune te san senri</title></episode>
+<episode num="267">
+<title gid="3191779922" lang="JA">ryousan no nagai ichi nichi</title></episode>
+<episode num="268">
+<title gid="2045776091" lang="JA">gokuhi shirei MISSHON.IN gojuunotou</title></episode>
+<episode num="269">
+<title gid="1550173721" lang="JA">honda SHOKKU ! ifu no kekkon</title></episode>
+<episode num="270">
+<title gid="1875396902" lang="JA">manin orei ! katsushika PURORESU</title></episode>
+<episode num="271">
+<title gid="2883627244" lang="JA">hashire terai ! otou-san no tame no SUTANPURARII</title></episode>
+<episode num="272">
+<title gid="2039370822" lang="JA">ROBOTTO keikan dame tarou</title></episode>
+<episode num="273">
+<title gid="3546093479" lang="JA">toumei keiji arawaru !</title></episode>
+<episode num="274">
+<title gid="3709744941" lang="JA">remon, onee-chan ni naru</title></episode>
+<episode num="275">
+<title gid="3562249315" lang="JA">ichi shuukan de SUIKA 300 ko tabekiru otoko</title></episode>
+<episode num="276">
+<title gid="889200420" lang="JA">chicchana ryoutsu wa yousei-san ?</title></episode>
+<episode num="277">
+<title gid="1356995937" lang="JA">mizugi shashin wo GETTO seyo !</title></episode>
+<episode num="278">
+<title gid="2041008336" lang="JA">hashutsujo onsen de II yu da na</title></episode>
+<episode num="279">
+<title gid="2718743446" lang="JA">moeru honoo no ROBOTTO keikan</title></episode>
+<episode num="280">
+<title gid="2228535808" lang="JA">ryousan no shitamachi ryokou</title></episode>
+<episode num="281">
+<title gid="1571095294" lang="JA">meisaku? momo DERERA</title></episode>
+<episode num="282">
+<title gid="3488162364" lang="JA">ryoutsu VS ninja gundan ! ura edojou ougon densetsu</title></episode>
+<episode num="283">
+<title gid="1068261325" lang="JA">iyashi kei de moukero !</title></episode>
+<episode num="284">
+<title gid="2661054982" lang="JA">meiwaku OYAJI gosho kawara</title></episode>
+<episode num="285">
+<title gid="2180840980" lang="JA">damasarete kameari soshite narita</title></episode>
+<episode num="286">
+<title gid="3923629339" lang="JA">kessen ! shou ENEHAUSU</title></episode>
+<episode num="287">
+<title gid="4136400703" lang="JA">ryousan no inu no seikatsu</title></episode>
+<episode num="288">
+<title gid="2765804591" lang="JA">shitamachi sentou emaki</title></episode>
+<episode num="289">
+<title gid="1563408638" lang="JA">ryoutsu dokkiri ! MARU hi houkoku !?</title></episode>
+<episode num="290">
+<title gid="2458166392" lang="EN">Bonus Battle 7</title></episode>
+<episode num="291">
+<title gid="1153303898" lang="JA">hyoutan kara juu oku en</title></episode>
+<episode num="292">
+<title gid="2583382668" lang="EN">Fly! Shoulder Copter</title></episode>
+<episode num="293">
+<title gid="1921376996" lang="JA">ryousan ookiku naru</title></episode>
+<episode num="294">
+<title gid="1800159593" lang="JA">giboshi ka go ikkou sama IN HAWAIAN dai PANIKKU</title></episode>
+<episode num="295">
+<title gid="1836899940" lang="JA">yamatodamashii hozon kai !?</title></episode>
+<episode num="296">
+<title gid="2383202391" lang="JA">ryousan no ni juu mensou</title></episode>
+<episode num="297">
+<title gid="2953641387" lang="JA">takara KUJI wo torimodose !</title></episode>
+<episode num="298">
+<title gid="2609026548" lang="JA">ENJERU 7 VS WAIRUDO yarou tai</title></episode>
+<episode num="299">
+<title gid="1616696943" lang="JA">remon no kosodate funtou ki</title></episode>
+<episode num="300">
+<title gid="939574126" lang="JA">otoko wa yabou !</title></episode>
+<episode num="301">
+<title gid="2624317262" lang="JA">ohina-san zan tanjoubi</title></episode>
+<episode num="302">
+<title gid="1694294029" lang="EN">Ryotsu &amp; Ryotsu!?</title></episode>
+<episode num="303">
+<title gid="897720014" lang="JA">kochira yukiguni hashutsujo</title></episode>
+<episode num="304">
+<title gid="1773274397" lang="JA">koko wa doko da yo denkyoku OYAJI</title></episode>
+<episode num="305">
+<title gid="1654787282" lang="JA">oohara buchou GEEMU ni HAMAru</title></episode>
+<episode num="306">
+<title gid="1544133215" lang="JA">sekai NANBAAWANPORISU kettei sen !</title></episode>
+<episode num="307">
+<title gid="743785835" lang="JA">remon no kuwazugirai ou</title></episode>
+<episode num="308">
+<title gid="1407244142" lang="EN">Class 3-B Mr. Kankichi</title></episode>
+<episode num="309">
+<title gid="1070247547" lang="EN">Chief Kankichi Ryotsu</title></episode>
+<episode num="310">
+<title gid="1623210590" lang="JA">ryou tsu to komachi ga GOURUIN ?</title></episode>
+<episode num="311">
+<title gid="1943717078" lang="JA">unmei no wakaremichi</title></episode>
+<episode num="312">
+<title gid="1641708818" lang="JA">saigo no purezento</title></episode>
+<episode num="313">
+<title gid="2648028443" lang="EN">I'm Reiko, but I'm Ryo-chan!?</title></episode>
+<episode num="314">
+<title gid="1108542059" lang="JA">tobe ! hikousen tai</title></episode>
+<episode num="315">
+<title gid="1724583859" lang="JA">kochira kameari housou kyoku</title></episode>
+<episode num="316">
+<title gid="2376010020" lang="JA">atami TAKO ryokou</title></episode>
+<episode num="317">
+<title gid="3521037873" lang="JA">meisou ! kochira kari hashutsujo</title></episode>
+<episode num="318">
+<title gid="3779908111" lang="JA">ryousan netsuai sengen !?</title></episode>
+<episode num="319">
+<title gid="2027303280" lang="JA">asakusa shounen gurentai</title></episode>
+<episode num="320">
+<title gid="1275830756" lang="JA">go senzo sama konnichiha</title></episode>
+<episode num="321">
+<title gid="2251517692" lang="JA">mousho wo buttobase !</title></episode>
+<episode num="322">
+<title gid="3370291606" lang="JA">remon, KUNOU ninja ni naru</title></episode>
+<episode num="323">
+<title gid="171350508" lang="JA">sensei wa HACHAMECHA jii-san</title></episode>
+<episode num="324">
+<title gid="1804256026" lang="EN">Who am I!?</title></episode>
+<episode num="325">
+<title gid="913127407" lang="JA">bakusou ressha ! abashiri hatsu toukyou iki ! ryoutsu VS kenpou BAA-san !</title></episode>
+<episode num="326">
+<title gid="3079208154" lang="JA">nishikigoi PANIKKU !</title></episode>
+<episode num="327">
+<title gid="1639524336" lang="JA">hashutsujo chotto mukashi</title></episode>
+<episode num="328">
+<title gid="2331032375" lang="JA">ORIENTO kyuukou tounan jiken</title></episode>
+<episode num="329">
+<title gid="2240066301" lang="JA">hashire ! suketto undoukai</title></episode>
+<episode num="330">
+<title gid="2233014024" lang="JA">futaribocchi no hashutsujo</title></episode>
+<episode num="331">
+<title gid="1086888617" lang="JA">gekitotsu ! ekimae yatai sensou</title></episode>
+<episode num="332">
+<title gid="2066085575" lang="EN">Bonus Battle 8</title></episode>
+<episode num="333">
+<title gid="3913281949" lang="EN">Gum Gum Ryo-san</title></episode>
+<episode num="334">
+<title gid="1720227484" lang="JA">ryoutsu ryuu MANGA juku</title></episode>
+<episode num="335">
+<title gid="1921947234" lang="JA">datte, yari taku nai n da mon !</title></episode>
+<episode num="336">
+<title gid="3417821640" lang="JA">seigi no mikata ryousan ?</title></episode>
+<episode num="337">
+<title gid="4179854602" lang="JA">naoko no igai na ichi nichi</title></episode>
+<episode num="338">
+<title gid="2925595620" lang="JA">nakagawa ka oie soudou</title></episode>
+<episode num="339">
+<title gid="2781068986" lang="JA">ryoutsu VS hakuchou BAITO dai bousou !</title></episode>
+<episode num="340">
+<title gid="2122338330" lang="JA">shoujiki sha ryousan ?</title></episode>
+<episode num="341">
+<title gid="2655431539" lang="JA">owarai shioki jin</title></episode>
+<episode num="342">
+<title gid="2369534803" lang="JA">sekai ni hirogeyo u kakugari no wa !</title></episode>
+<episode num="343">
+<title gid="1838832222" lang="JA">SAIKURU dai sakusen</title></episode>
+<episode num="344">
+<title gid="2782246663" lang="JA">onna darake no hashutsujo</title></episode>
+<episode num="345">
+<title gid="2520059325" lang="JA">oide yo kameari shouten gai</title></episode>
+<episode num="346">
+<title gid="2696837090" lang="JA">tokushu keiji kaimetsu !? remon to nazo no touzoku dan !</title></episode>
+<episode num="347">
+<title gid="587184294" lang="JA">chou kanda sushi noren wake taiketsu</title></episode>
+<episode num="348">
+<title gid="1374935912" lang="JA">sakura taihen !?</title></episode>
+<episode num="349">
+<title gid="3503620405" lang="EN">Ryotsu, Film Debut!?</title></episode>
+<episode num="350">
+<title gid="1207900306" lang="JA">gekisou ! oku no hosomichi</title></episode>
+<episode num="351">
+<title gid="1485228103" lang="JA">buchou wa ne te tekudasai</title></episode>
+<episode num="352">
+<title gid="3156773105" lang="JA">reiko no kawaii ouji sama</title></episode>
+<episode num="353">
+<title gid="2533812832" lang="JA">kore ga otoko no ICHIGO kari !</title></episode>
+<episode num="354">
+<title gid="2405335638" lang="JA">DACHOU-san, irasshai !?</title></episode>
+<episode num="355">
+<title gid="2715785450" lang="JA">souzetsu ! BATORU shougi</title></episode>
+<episode num="356">
+<title gid="1620887791" lang="EN">Astro Ryotsu</title></episode>
+<episode num="357">
+<title gid="2251938867" lang="JA">higure tazune te san senri</title></episode>
+<episode num="358">
+<title gid="2181601665" lang="JA">PAPA wa KYANPU no waka taishou</title></episode>
+<episode num="359">
+<title gid="3025823160" lang="JA">mujintou GORUFU</title></episode>
+<episode num="360">
+<title gid="2022704286" lang="JA">matamata honda ka no ichizoku</title></episode>
+<episode num="361">
+<title gid="3243224010" lang="JA">ryoutsu ka san dai, ougon sato e no chin douchuu !</title></episode>
+<episode num="362">
+<title gid="2512872823" lang="JA">remon no SUTORAIKI</title></episode>
+<episode num="363">
+<title gid="2168654905" lang="JA">henkei ! BIFOUAFUTAA</title></episode>
+<episode num="364">
+<title gid="1632795739" lang="JA">chicchana ryou-chan</title></episode>
+<episode num="365">
+<title gid="1669991910" lang="JA">yatai no omoide</title></episode>
+<episode num="366">
+<title gid="1389902034" lang="EN">Dance・Dance・Dance</title></episode>
+<episode num="367">
+<title gid="2449561249" lang="JA">hatsumei ou RYOUTSU</title></episode>
+<episode num="368">
+<title gid="257847108" lang="JA">waratte YURU shite</title></episode>
+<episode num="369">
+<title gid="2047822210" lang="EN">FLower Child, Ryo-chan!</title></episode>
+<episode num="370">
+<title gid="628338131" lang="JA">tatakae ! KUMA wari-kun !</title></episode>
+<episode num="371">
+<title gid="1477272563" lang="EN">Warrior of Love Kankichi Ryotsu</title></episode>
+<episode num="372">
+<title gid="2130232473" lang="EN">The Great Farewell Ryo-san Strategy</title></episode>
+<episode num="373">
+<title gid="1756414001" lang="EN">Last Round Bonus</title></episode>
+<news datetime="2005-09-23T17:39:30Z" href="http://www.animenewsnetwork.com/news/2005-09-23/tv-asahi-top-100-anime">TV Asahi Top 100 Anime</news>
+<news datetime="2007-06-11T16:11:02Z" href="http://www.animenewsnetwork.com/news/2007-06-11/nyc-museum-on-anime-big-in-japan-unknown-in-america">NYC Museum on Anime &quot;Big in Japan, Unknown in America&quot;</news>
+<news datetime="2007-11-30T12:30:24Z" href="http://www.animenewsnetwork.com/news/2007-11-30/japanese-anime-tv-ranking-september-17-november-25">Japanese Anime TV Ranking: September 17–November 25</news>
+<news datetime="2008-04-18T20:08:10Z" href="http://www.animenewsnetwork.com/news/2008-04-18/japanese-anime-tv-ranking-march-31-april-6">Japanese Anime TV Ranking, March 31–April 6</news>
+<news datetime="2008-11-04T01:35:23Z" href="http://www.animenewsnetwork.com/news/2008-11-03/japanese-anime-tv-ranking-october-20-26">Japanese Anime TV Ranking, October 20-26</news>
+<news datetime="2008-11-09T19:54:00Z" href="http://www.animenewsnetwork.com/news/2008-11-09/japanese-anime-tv-ranking-october-27-november-2">Japanese Anime TV Ranking, October 27-November 2</news>
+<news datetime="2009-09-22T22:32:12Z" href="http://www.animenewsnetwork.com/news/2009-09-22/madhouse-aoi-bungaku-to-animate-2-more-literary-works">Madhouse's &lt;cite&gt;Aoi Bungaku&lt;/cite&gt; to Animate 2 More Literary Works</news>
+<news datetime="2010-09-05T22:49:48Z" href="http://www.animenewsnetwork.com/news/2010-09-05/japan-animation-tv-ranking-august-16-22">Japan's Animation TV Ranking, August 16-22</news>
+<staff gid="3127973055"><task>Director</task><person id="6593">Shinji Takamatsu</person></staff>
+<staff gid="2931091040"><task>Director</task><person id="6686">Tetsuo Yasumi</person></staff>
+<staff gid="1839481562"><task>Director</task><person id="19534">Noboru Misawa</person></staff>
+<staff gid="1355539053"><task>Director</task><person id="70557">Norihiro Takamoto</person></staff>
+<staff gid="2773938884"><task>Director</task><person id="70558">Akira Shigeno</person></staff>
+<staff gid="2704497421"><task>Script</task><person id="5617">Shun'ichi Yukimuro</person></staff>
+<staff gid="2603275520"><task>Screenplay</task><person id="4253">Takashi Yamada</person></staff>
+<staff gid="918175771"><task>Music</task><person id="114">Toshihiko Sahashi</person></staff>
+<staff gid="2799753995"><task>Music</task><person id="31199">Ryô Yonemitsu</person></staff>
+<staff gid="1015803903"><task>Original Manga</task><person id="13444">Osamu Akimoto</person></staff>
+<staff gid="3495098437"><task>Character Design</task><person id="2218">Tsukasa Tannai</person></staff>
+<staff gid="3005742726"><task>Character Design</task><person id="18634">Masahiro Kitazaki</person></staff>
+<staff gid="1583002850"><task>Character Design</task><person id="57581">Shojuro Yamauchi</person></staff>
+<staff gid="1548636910"><task>Art Director</task><person id="20299">Satoshi Shibata</person></staff>
+<staff gid="361135293"><task>Chief Animation Director</task><person id="18634">Masahiro Kitazaki</person></staff>
+<staff gid="2643955374"><task>Animation Director</task><person id="11151">Masayuki Hiraoka</person></staff>
+<staff gid="3760094105"><task>Sound Director</task><person id="12967">Hajime Takakuwa</person></staff>
+<staff gid="543591698"><task>Director of Photography</task><person id="2891">Katsuya Kozutsumi</person></staff>
+<staff gid="1754645182"><task>Director of Photography</task><person id="2898">Hiroaki Edamitsu</person></staff>
+<staff gid="518906107"><task>Producer</task><person id="689">Yoko Matsushita</person></staff>
+<staff gid="1270135252"><task>Producer</task><person id="1607">Koji Kaneda</person></staff>
+<staff gid="2665466513"><task>Producer</task><person id="4345">Akio Wakana</person></staff>
+<staff gid="2669480686"><task>Producer</task><person id="13794">Juro Sugimura</person></staff>
+<cast gid="1532533948" lang="ES"><role>Tatsunosuke Sakonji</role><person id="31681">Eduardo Diez</person></cast>
+<cast gid="1345188393" lang="ES"><role>Keiichi Nakagawa</role><person id="32389">Marc Zanni</person></cast>
+<cast gid="3372028361" lang="ES"><role>Ai Asato &quot;María&quot;</role><person id="50554">Ana Begoña Eguileor</person></cast>
+<cast gid="2236981198" lang="ES"><role>Yoichi Terai</role><person id="50560">Jordi Pineda</person></cast>
+<cast gid="2726478570" lang="ES"><role>Hayato Honda</role><person id="50563">Carlos Di Blasi</person></cast>
+<cast gid="2733220728" lang="ES"><role>Kankichi Ryotsu</role><person id="50566">Francesc Belda</person></cast>
+<cast gid="2796986091" lang="ES"><role>Naoko Seicho</role><person id="50744">Elisabet Bargalló</person></cast>
+<cast gid="2589465027" lang="ES"><role>Komachi Ono</role><person id="50760">Estívaliz Lizárraga</person></cast>
+<cast gid="3618715447" lang="ES"><role>Ai Asato &quot;Maria&quot;</role><person id="50761">Sonia Torrecilla</person></cast>
+<cast gid="1669888447" lang="ES"><role>Keiichi Nakagawa</role><person id="50763">Alberto Escobal García</person></cast>
+<cast gid="4035332771" lang="ES"><role>Yoichi Terai</role><person id="50763">Alberto Escobal García</person></cast>
+<cast gid="1791782168" lang="ES"><role>Reiko Akimoto</role><person id="50764">Pilar Ferrero</person></cast>
+<cast gid="1458876672" lang="ES"><role>Kankichi Ryotsu</role><person id="50765">Víctor Prieto</person></cast>
+<cast gid="1003179018" lang="ES"><role>Daijiro Ohara</role><person id="50766">Miguel Ortiz</person></cast>
+<cast gid="2528221818" lang="ES"><role>Naoko Seicho</role><person id="59597">Nuria Marín Picó</person></cast>
+<cast gid="2038249678" lang="ES"><role>Yoichi Terai</role><person id="59598">Antón Palomar</person></cast>
+<cast gid="1886946398" lang="ES"><role>Hayato Honda</role><person id="59600">Anselmo Herrero</person></cast>
+<cast gid="3053473119" lang="ES"><role>Volvo Saigo </role><person id="59606">Txemi del Olmo</person></cast>
+<cast gid="4191217604" lang="ES"><role>Volvo Saigo</role><person id="62923">Josep Maria Mas</person></cast>
+<cast gid="1110790411" lang="ES"><role>Capità Ohara</role><person id="63118">Jaume Mallofre</person></cast>
+<cast gid="1627323977" lang="ES"><role>Volvo Saigo</role><person id="63149">Germán José</person></cast>
+<cast gid="2662761249" lang="ES"><role>Yoichi Terai</role><person id="63149">Germán José</person></cast>
+<cast gid="2350668154" lang="ES"><role>Reiko Akimoto</role><person id="63313">Pilar Morales</person></cast>
+<cast gid="2926470707" lang="ES"><role>Reiko Akimoto</role><person id="69796">Maribel Pomar</person></cast>
+<cast gid="669187683" lang="ES"><role>Ai Asato &quot;María&quot;</role><person id="76218">Yolanda Gispert</person></cast>
+<cast gid="3316063687" lang="ES"><role>Matoi Giboshi</role><person id="76218">Yolanda Gispert</person></cast>
+<cast gid="2623669792" lang="ES"><role>Naoko Seisho</role><person id="76218">Yolanda Gispert</person></cast>
+<cast gid="1800004316" lang="ES"><role>Komachi Ono</role><person id="104645">Lourdes Fabrés</person></cast>
+<cast gid="2634255219" lang="ES"><role>Keiichi Nakagawa</role><person id="104815">Albert Bernat</person></cast>
+<cast gid="2130541733" lang="ES"><role>Ai Asato &quot;Maria&quot;</role><person id="105336">Ana Guadalupe Hernández</person></cast>
+<cast gid="3258017569" lang="ES"><role>Reiko Akimoto</role><person id="124203">Marga López</person></cast>
+<cast gid="1397319367" lang="JA"><role>Komachi Ono</role><person id="302">Maya Okamoto</person></cast>
+<cast gid="2419318664" lang="JA"><role>Hayato Honda</role><person id="635">Hiroshi Yanaka</person></cast>
+<cast gid="2096188274" lang="JA"><role>Naoko Seisho</role><person id="835">Kanako Mitsuhashi</person></cast>
+<cast gid="2456928772" lang="JA"><role>Rika Saotome</role><person id="838">Yuu Sugimoto</person></cast>
+<cast gid="2059350431" lang="JA"><role>Keiichi Nakagawa</role><person id="2132">Mitsuru Miyamoto</person></cast>
+<cast gid="3599819984" lang="JA"><role>Ai Asato</role><person id="3129">Kaori Asou</person></cast>
+<cast gid="1391416917" lang="JA"><role>Yoichi Terai</role><person id="4885">Chafurin</person></cast>
+<cast gid="2724941618" lang="JA"><role>Volvo Saigo</role><person id="7135">Yuuji Kishi</person></cast>
+<cast gid="3210073971" lang="JA"><role>Tatsunosuke Sakonji</role><person id="8883">Masami Iwasaki</person></cast>
+<cast gid="1694524994" lang="JA"><role>Komachi Ono</role><person id="9124">Rieko Miura</person></cast>
+<cast gid="2674536332" lang="JA"><role>Yoichi Terai</role><person id="17675">Kobuhei Hayashiya</person></cast>
+<cast gid="135628615" lang="JA"><role>Kankichi Ryotsu</role><person id="19708">Lasar Ishii</person></cast>
+<cast gid="1054008424" lang="JA"><role>Reiko Akimoto</role><person id="19709">Yumi Morio</person></cast>
+<cast gid="3046975285" lang="JA"><role>Gomesu Tonda</role><person id="61256">Jin Nishimura</person></cast>
+<cast gid="1004215235" lang="JA"><role>Daijiro Ohara</role><person id="70548">Haruki Sayama</person></cast>
+<cast gid="2576824100" lang="JA"><role>Gomesu Tonda</role><person id="70549">Eimei Esumi</person></cast>
+<cast gid="2376800324" lang="JA"><role>Daijiro Ohara</role><person id="70552">Kouji Hishitani</person></cast>
+<cast gid="1315006136" lang="JA"><role>Motoi Giboshi</role><person id="70554">Yuko Doi</person></cast>
+<cast gid="1695849890" lang="JA"><role>Kaipan</role><person id="70556">Ryo Arakawa</person></cast>
+<cast gid="2154084364" lang="TL"><role>Kankichi Ryotsu</role><person id="38916">Robert Brillantes</person></cast>
+<cast gid="2066071797" lang="TL"><role>Ai Asato</role><person id="39024">Grace Cornel</person></cast>
+<cast gid="2761728550" lang="TL"><role>Reiko Akimoto</role><person id="42178">Hazel Hernan</person></cast>
+<cast gid="2510420133" lang="TL"><role>Daijiro Ohara</role><person id="46193">Danny Deopante</person></cast>
+<cast gid="3173604214" lang="TL"><role>Keiichi Nakagawa</role><person id="85990">Alfred Labatos</person></cast>
+<credit gid="2277168767"><task>Production</task><company id="162">Fuji TV</company></credit>
+<credit gid="2362227206"><task>Production</task><company id="909">Shueisha</company></credit>
+<credit gid="518873786"><task>Production</task><company id="1240">Asatsu DK</company></credit></anime></ann>

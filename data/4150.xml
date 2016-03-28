@@ -1,0 +1,61 @@
+<ann><anime id="4150" gid="3996611753" type="movie" name="Mobile Suit SD Gundam Festival" precision="movie" generated-on="2016-03-27T02:32:28Z">
+<related-prev rel="part of" id="2923"/>
+<info gid="2159288079" type="Main title" lang="JA">Mobile Suit SD Gundam Festival</info>
+<info gid="3065705187" type="Alternative title" lang="JA">Kidō Senshi SD Gundam Matsuri</info>
+<info gid="1561113965" type="Alternative title" lang="EN">SD Gundam Festival</info>
+<info gid="2051715231" type="Alternative title" lang="JA">機動戦士SDガンダムまつり</info>
+<info gid="1116389790" type="Genres">action</info>
+<info gid="2244895541" type="Genres">comedy</info>
+<info gid="1955167595" type="Genres">fantasy</info>
+<info gid="3197891188" type="Themes">mecha</info>
+<info gid="776248608" type="Running time">81</info>
+<info type="Vintage">1993-03-13</info>
+<info gid="1896979783" type="Premiere date">1993-03-13 (Japan)</info>
+<ratings nb_votes="9" weighted_score="6.2466"/>
+<staff gid="1397105668"><task>Director</task><person id="961">Tetsuro Amino</person></staff>
+<staff gid="2327952725"><task>Director</task><person id="3481">Takashi Imanishi</person></staff>
+<staff gid="1588270748"><task>Script</task><person id="961">Tetsuro Amino</person></staff>
+<staff gid="1692105551"><task>Script</task><person id="25406">Asahide Ookuma</person></staff>
+<staff gid="2906903106"><task>Storyboard</task><person id="961">Tetsuro Amino</person></staff>
+<staff gid="1633220809"><task>Storyboard</task><person id="2659">Tsukasa Dokite</person></staff>
+<staff gid="2402954162"><task>Storyboard</task><person id="3481">Takashi Imanishi</person></staff>
+<staff gid="2853803326"><task>Unit Director</task><person id="2659">Tsukasa Dokite</person></staff>
+<staff gid="3313749239"><task>Music</task><person id="140">Kenji Kawai</person></staff>
+<staff gid="4056516235"><task>Music</task><person id="54189">Tohru Okada</person></staff>
+<staff gid="2608782414"><task>Original creator</task><person id="19">Hajime Yatate</person></staff>
+<staff gid="2335487332"><task>Original creator</task><person id="100">Yoshiyuki Tomino</person></staff>
+<staff gid="933100795"><task>Character Design</task><person id="26">Shukou Murase</person></staff>
+<staff gid="3449087983"><task>Character Design</task><person id="958">Masashi Hirota</person></staff>
+<staff gid="3713738819"><task>Character Design</task><person id="7494">Koji Sugiura</person></staff>
+<staff gid="2606255893"><task>Character Design</task><person id="20012">Takeshi Itou</person></staff>
+<staff gid="2868746778"><task>Art Director</task><person id="89">Junichi Higashi</person></staff>
+<staff gid="2296414571"><task>Art Director</task><person id="377">Shuichi Hirata</person></staff>
+<staff gid="2839551163"><task>Art Director</task><person id="75627">Toru Hishiyama</person></staff>
+<staff gid="1545759425"><task>Animation Director</task><person id="26">Shukou Murase</person></staff>
+<staff gid="3222709001"><task>Animation Director</task><person id="958">Masashi Hirota</person></staff>
+<staff gid="2629326885"><task>Animation Director</task><person id="7494">Koji Sugiura</person></staff>
+<staff gid="1948645146"><task>Animation Director</task><person id="8388">Tadashi Shida</person></staff>
+<staff gid="2616042785"><task>Animation Director</task><person id="20012">Takeshi Itou</person></staff>
+<staff gid="3161789756"><task>Character Conceptual Design</task><person id="8161">Kouji Yokoi</person></staff>
+<staff gid="1388988025"><task>Character Conceptual Design</task><person id="9697">Michitaka Kikuchi</person></staff>
+<staff gid="2207158836"><task>Character Conceptual Design</task><person id="26977">Tomoyuki Hiyama</person></staff>
+<staff gid="2859460580"><task>Character Conceptual Design</task><person id="42191">Takaya Yamada</person></staff>
+<staff gid="2116755396"><task>Character Conceptual Design</task><person id="83741">Tomohiro Tsuru</person></staff>
+<staff gid="2642596724"><task>Sound Director</task><person id="8069">Koichi Chiba</person></staff>
+<staff gid="1568497487"><task>Director of Photography</task><person id="6185">Shuichi Ito</person></staff>
+<staff gid="1585714719"><task>Producer</task><person id="726">Masahiko Minami</person></staff>
+<staff gid="2129284197"><task>Producer</task><person id="2950">Hideyuki Tomioka</person></staff>
+<staff gid="2404934662"><task>Producer</task><person id="7545">Kenji Uchida</person></staff>
+<cast gid="2956817712" lang="JA"><role>Superior Dragon</role><person id="499">Yasunori Matsumoto</person></cast>
+<cast gid="3956511020" lang="JA"><role>Cecily</role><person id="502">Yuri Shiratori</person></cast>
+<cast gid="1542980794" lang="JA"><role>GP01</role><person id="662">Takehito Koyasu</person></cast>
+<cast gid="1787542394" lang="JA"><role>Seabook</role><person id="666">Nobuo Tobita</person></cast>
+<cast gid="1500012692" lang="JA"><role>Quattro</role><person id="1014">Shuuichi Ikeda</person></cast>
+<cast gid="2241081223" lang="JA"><role>Amuro</role><person id="1105">Tohru Furuya</person></cast>
+<cast gid="2727737081" lang="JA"><role>GP02</role><person id="1256">Hideyuki Umezu</person></cast>
+<cast gid="1200997237" lang="JA"><role>Sieg Carozzo</role><person id="1473">Yuzuru Fujimoto</person></cast>
+<cast gid="1801661493" lang="JA"><role>Queen Nina</role><person id="1577">Maria Kawamura</person></cast>
+<cast gid="1929798913" lang="JA"><role>Leslie</role><person id="3412">Ritsuo Sawa</person></cast>
+<credit gid="3357165104"><task>Production</task><company id="18">Bandai Visual</company></credit>
+<credit gid="2383107055"><task>Production</task><company id="34">Sunrise</company></credit>
+<credit gid="4059439305"><task>Production</task><company id="9991">Sotsu Co., Ltd.</company></credit></anime></ann>

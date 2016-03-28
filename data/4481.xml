@@ -1,0 +1,598 @@
+<ann><anime id="4481" gid="1705739666" type="TV" name="Yu-Gi-Oh! GX" precision="TV" generated-on="2016-03-27T01:46:42Z">
+<related-prev rel="spinoff of" id="5074"/>
+<related-next id="8310" rel="adaptation"/>
+<related-next id="11395" rel="spinoff"/>
+<info gid="2282807749" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A4481-3.jpg" width="200" height="200"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A4481-3.jpg" width="200" height="200"/></info>
+<info gid="3599810275" type="Main title" lang="EN">Yu-Gi-Oh! GX</info>
+<info gid="3342133688" type="Alternative title" lang="JA">Yu-Gi-Oh! Duel Monster GX</info>
+<info gid="2900445575" type="Alternative title" lang="AR">يوغي GX</info>
+<info gid="3244224199" type="Alternative title" lang="JA">遊戯王デュエルモンスターズＧＸ</info>
+<info gid="3130757234" type="Alternative title" lang="ZH-TW">遊戲王GX</info>
+<info gid="973803427" type="Genres">action</info>
+<info gid="2377837895" type="Genres">adventure</info>
+<info gid="1156288611" type="Genres">comedy</info>
+<info gid="2001766641" type="Genres">fantasy</info>
+<info gid="1577727608" type="Genres">tournament</info>
+<info gid="1411888842" type="Themes">card games</info>
+<info gid="2526093309" type="Themes">monsters</info>
+<info gid="2513566843" type="Themes">school</info>
+<info gid="2384592937" type="Objectionable content">OC</info>
+<info gid="2475415032" type="Plot Summary">Ten years after the Ceremonial Battle, a teenage boy named Yuuki Judai heads off in order to join the Duelist Yousei School located on a remote island off the coast of Japan. There he meets his fellow students and gains a few friends, along with a few enemies. Judai is put into the lowest rank of Osiris Red, but he continues to test his skills against the students and faculty to prove his worth as a Yousei Duelist and earn the respect of everyone around him.</info>
+<info gid="3174446033" type="Running time">Half hour</info>
+<info gid="1832203774" type="Number of episodes">180</info>
+<info gid="1926635569" type="Vintage">2004-10-06 to 2008-03-26</info>
+<info gid="1395534310" type="Vintage">2005-09-09 to 2008-12-11 (Canada, YTV - Episodes 1-155)</info>
+<info gid="916631007" type="Vintage">2005-10-10 (USA, Cartoon Network - Miguzi)</info>
+<info gid="1846591414" type="Vintage">2006-02-20 to 2006-05-05 (Germany - RTL 2, Season 1)</info>
+<info gid="2141531809" type="Vintage">2006-03-11 (Nickelodeon Latin America)</info>
+<info gid="2333760613" type="Vintage">2006-05-15 (Italy, Italia 1)</info>
+<info gid="3727895277" type="Vintage">2006-07-31 (ABS-CBN - Philippines)</info>
+<info gid="1502019248" type="Vintage">2006-09-29 (Germany - Season 2, RTL2)</info>
+<info gid="2733510180" type="Vintage">2007-07-23 (7pm on Studio 23's Anime 'To)</info>
+<info gid="1129631395" type="Vintage">2007-09-15 to 2008-06-14 (US, 4KidsTV)</info>
+<info gid="2471044359" type="Vintage">2008-06-21 (USA, CW4Kids)</info>
+<info gid="1799478688" type="Opening Theme">#1: &quot;Kaisei Josho Hallelujah&quot; by Jindou</info>
+<info gid="1588436747" type="Opening Theme">#2: &quot;99%&quot; by BOWL (eps 34-104)</info>
+<info gid="2300443288" type="Opening Theme">#3: &quot;Teardrop (ティアドロップ) &quot; by BOWL (eps 105-156)</info>
+<info gid="2433596994" type="Opening Theme">#4: &quot;Precious Time, Glory Days&quot; by Psychic Lover (eps 157-180)</info>
+<info gid="1513797898" type="Ending Theme">#1: &quot;Genkai Battle&quot; by JAM Project</info>
+<info gid="649376731" type="Ending Theme">#2: &quot;Wake up your heart&quot; by KENN with the NaB's (eps 34-104)</info>
+<info gid="3871121855" type="Ending Theme">#3: &quot;The Sun (太陽)&quot; by Bite the Lung (eps 105-156)</info>
+<info gid="1092221434" type="Ending Theme">#4: &quot;Endless Dream&quot; by Kitada Nihiroshi (eps 157-180)</info>
+<info gid="2109993770" type="Official website" lang="JA" href="http://www.tv-tokyo.co.jp/anime/yugioh2004/">Yu-Gi-Oh! GX @ TV Tokyo</info>
+<ratings nb_votes="604" weighted_score="5.3263" bayesian_score="5.37258"/>
+<episode num="1">
+<title gid="1759780934" lang="EN">The One Who Inherits the Game</title></episode>
+<episode num="2">
+<title gid="1914055107" lang="EN">Flame Wingman</title></episode>
+<episode num="3">
+<title gid="2961370595" lang="EN">Etoile Cyber</title></episode>
+<episode num="4">
+<title gid="983239994" lang="EN">5 Polymers! VWXYZ</title></episode>
+<episode num="5">
+<title gid="3037713172" lang="EN">A Demon Deck of Darkness</title></episode>
+<episode num="6">
+<title gid="1706382664" lang="EN">Miracle of Winged Kuribo</title></episode>
+<episode num="7">
+<title gid="2377463023" lang="EN">Shou's Vehicle Deck</title></episode>
+<episode num="8">
+<title gid="1290112631" lang="EN">Ultimate! Cyber End Dragon!</title></episode>
+<episode num="9">
+<title gid="2490945912" lang="EN">Single Attack Shot! Upsetting the Table!</title></episode>
+<episode num="10">
+<title gid="1628504110" lang="EN">Judai and Shou! Tag Duel! (Part 1)</title></episode>
+<episode num="11">
+<title gid="2073355763" lang="EN">Judai and Shou! Tag Duel! (Part 2)</title></episode>
+<episode num="12">
+<title gid="1898086657" lang="EN">Oxygen + Hydrogen = H20 Dragon!</title></episode>
+<episode num="13">
+<title gid="2555428078" lang="EN">Wild Release! S.A.L Duel</title></episode>
+<episode num="14">
+<title gid="1383118401" lang="EN">VS Psycho Shocker</title></episode>
+<episode num="15">
+<title gid="3098812577" lang="EN">Tennis Duel of Spring Life</title></episode>
+<episode num="16">
+<title gid="2196027321" lang="EN">King Goblin of the Dark Night</title></episode>
+<episode num="17">
+<title gid="2256584681" lang="EN">Draw! Draw! Draw!</title></episode>
+<episode num="18">
+<title gid="281000348" lang="EN">VS Yugi's Deck (Part 1)</title></episode>
+<episode num="19">
+<title gid="2474236824" lang="EN">VS Yugi's Deck (Part 2)</title></episode>
+<episode num="20">
+<title gid="2173958227" lang="EN">The Maidens in Love are Strong Deck!</title></episode>
+<episode num="21">
+<title gid="2541403613" lang="EN">Prevent Fusion! Juudai VS Misawa (Part 1)</title></episode>
+<episode num="22">
+<title gid="2466638771" lang="EN">Summon Wildman! Judai VS Misawa (Part 2)</title></episode>
+<episode num="23">
+<title gid="2131198236" lang="EN">Strength Draining! Mokemoke Duel</title></episode>
+<episode num="24">
+<title gid="2175345812" lang="EN">Fukkatsu! Banjoume Thunder</title></episode>
+<episode num="25">
+<title gid="3378331165" lang="EN">Versus Manjoume Thunder (Part One), Threat of the Armed Dragon</title></episode>
+<episode num="26">
+<title gid="2624350388" lang="EN">Versus Manjoume Thunder (Part Two), Armed Dragon Level Seven</title></episode>
+<episode num="27">
+<title gid="2362685358" lang="EN">An Extracurricular Lesson is a Dark Duel!? (Part One)</title></episode>
+<episode num="28">
+<title gid="1052471809" lang="EN">An Extracurricular Lesson is a Dark Duel!? (Part Two)</title></episode>
+<episode num="29">
+<title gid="3484508090" lang="EN">Versus Darkness (Part One), Challenge of the Red Eyes Black Dragon</title></episode>
+<episode num="30">
+<title gid="2620111895" lang="EN">Versus Darkness (Part Two), Attack of the Red Eyes Darkness Dragon</title></episode>
+<episode num="31">
+<title gid="2000386949" lang="EN">Chronos VS Vampire Camilla</title></episode>
+<episode num="32">
+<title gid="3348911252" lang="EN">Kaiser VS Camilla, Activating the Demon Gate!</title></episode>
+<episode num="33">
+<title gid="2994231983" lang="EN">Shine! Shining Flare Wingman</title></episode>
+<episode num="34">
+<title gid="840445665" lang="EN">Travelling into Boiling Water! Blue Eyes White Dragon</title></episode>
+<episode num="35">
+<title gid="2412562041" lang="EN">Union of Brothers! Ojama Delta Hurricane</title></episode>
+<episode num="36">
+<title gid="1645060170" lang="EN">Misawa vs. Amazoness! Marrying for a Son-in-Law Duel</title></episode>
+<episode num="37">
+<title gid="2349727025" lang="EN">Human Bullet Duel! Death Ring of the Amazoness</title></episode>
+<episode num="38">
+<title gid="2843571007" lang="EN">Underwater Duel! The Legendary Capital Atlantis</title></episode>
+<episode num="39">
+<title gid="1429395843" lang="EN">The Great Detective Thunder VS The Black Scorpion Burglars</title></episode>
+<episode num="40">
+<title gid="2366005473" lang="EN">H-E-R-O Flash!</title></episode>
+<episode num="41">
+<title gid="1260344919" lang="EN">Invoking the Dark Arena! Asuka Versus Titan</title></episode>
+<episode num="42">
+<title gid="1785555139" lang="EN">School Festival Duel! The Trespassing Bla-Magi Girl</title></episode>
+<episode num="43">
+<title gid="2011820505" lang="EN">Asuka's Second Chance at Love!?</title></episode>
+<episode num="44">
+<title gid="2535114354" lang="EN">The Shadow of the Seventh</title></episode>
+<episode num="45">
+<title gid="2766507960" lang="EN">Versus Amunael! The Absolute Seal on the Elemental Heroes</title></episode>
+<episode num="46">
+<title gid="2177207385" lang="EN">Earth Water Fire Wind Fusion! Erikshieler!</title></episode>
+<episode num="47">
+<title gid="1186225937" lang="EN">Asuka VS Manjoume! Cyber Angel Benten</title></episode>
+<episode num="48">
+<title gid="1637972726" lang="EN">Versus Kagemaru (Part One), The Two Demons</title></episode>
+<episode num="49">
+<title gid="1735827763" lang="EN">Versus Kagemaru (Part Two) The Awakening of the Three Legendary Demons</title></episode>
+<episode num="50">
+<title gid="846094023" lang="EN">Hayato VS Chronos! Sunrise of Ayers Rock</title></episode>
+<episode num="51">
+<title gid="3280267101" lang="EN">Versus Kaiser (Part One), Power Bond And Cyber End</title></episode>
+<episode num="52">
+<title gid="2017044237" lang="EN">Versus Kaiser (Part Two), Final Fusion</title></episode>
+<episode num="53">
+<title gid="1161663341" lang="EN">The Beginning of Fate! Ed Phoenix the Freshman</title></episode>
+<episode num="54">
+<title gid="1922803528" lang="EN">Thunder VS The Elite! Mecha-Ojama King Takes Off</title></episode>
+<episode num="55">
+<title gid="1927090939" lang="EN">Tyranno Kenzan Appears!</title></episode>
+<episode num="56">
+<title gid="1285080045" lang="EN">Shou VS the Insect Maiden! Insect Princess</title></episode>
+<episode num="57">
+<title gid="1798171198" lang="EN">Kaiser VS Ed! Pro League Battle</title></episode>
+<episode num="58">
+<title gid="2601798537" lang="EN">VS Ed (Part One), E Hero Against E Hero</title></episode>
+<episode num="59">
+<title gid="726869644" lang="EN">VS Ed (Part Two), The Fated D Heroes</title></episode>
+<episode num="60">
+<title gid="2249302177" lang="EN">Asuka vs. Fubuki! The Path to Sibling Idol</title></episode>
+<episode num="61">
+<title gid="2057957462" lang="EN">Saiou Appears! The Fated Tarot Deck</title></episode>
+<episode num="62">
+<title gid="2997944453" lang="EN">The New Elemental Hero! Neos</title></episode>
+<episode num="63">
+<title gid="572565586" lang="EN">Kenzan VS Curry Demon! Spicy Duel</title></episode>
+<episode num="64">
+<title gid="2442306518" lang="EN">Sho vs. Kenzan! A Duel with Passionate Thoughts Toward Big Brother</title></episode>
+<episode num="65">
+<title gid="1732798431" lang="EN">Hell Kaiser Ryou! Chimeratech Over Dragon</title></episode>
+<episode num="66">
+<title gid="424248158" lang="EN">Juudai's First Year Dream Duels!</title></episode>
+<episode num="67">
+<title gid="2617756237" lang="EN">VS Ed (Part One), New Power! Aqua Neos</title></episode>
+<episode num="68">
+<title gid="2726865918" lang="EN">VS Ed (Part Two), The Blazing Flare Neos</title></episode>
+<episode num="69">
+<title gid="411845087" lang="EN">Chronos VS Napoleon! March of the Toy Soldiers</title></episode>
+<episode num="70">
+<title gid="2703339925" lang="EN">Asuka VS Manjoume White Thunder!</title></episode>
+<episode num="71">
+<title gid="2442588666" lang="EN">VS Game Champ! The Giant Battleship Tetran Launches</title></episode>
+<episode num="72">
+<title gid="2450846666" lang="EN">Destroy the Deck of Destruction</title></episode>
+<episode num="73">
+<title gid="1282294376" lang="EN">Kenzan VS Saiou! That's Dinosaur DNA</title></episode>
+<episode num="74">
+<title gid="518881855" lang="EN">Hades Frog! Living Frog! Des Frog!</title></episode>
+<episode num="75">
+<title gid="1799708466" lang="EN">Field Trip Tag Duel!</title></episode>
+<episode num="76">
+<title gid="2675429256" lang="EN">Ultimate Combination! Rex Union</title></episode>
+<episode num="77">
+<title gid="3504660123" lang="EN">The Four Monarchs of Terror! Demiourgos EMA</title></episode>
+<episode num="78">
+<title gid="1115191823" lang="EN">The Ultimate Tag!? Juudai &amp; Ed (Part One)</title></episode>
+<episode num="79">
+<title gid="3207454750" lang="EN">The Ultimate Tag!? Juudai &amp; Ed (Part Two)</title></episode>
+<episode num="80">
+<title gid="2666255391" lang="EN">Alice in Despairland</title></episode>
+<episode num="81">
+<title gid="759207301" lang="EN">Quiz Duel!? VS Nazora Panel 9</title></episode>
+<episode num="82">
+<title gid="1890784212" lang="EN">Misawa VS Manjoume, Assault Cannon Beetle</title></episode>
+<episode num="83">
+<title gid="2596773904" lang="EN">Hell Kaiser Ryou VS Master Samejima</title></episode>
+<episode num="84">
+<title gid="3331919136" lang="EN">Genex Opens! Aim to be Number One!</title></episode>
+<episode num="85">
+<title gid="1554842027" lang="EN">The God Card, 「Ra, the Winged Dragon」 Manipulated by a Normal Man!?</title></episode>
+<episode num="86">
+<title gid="3498386507" lang="EN">Duel on a Stage Passageway</title></episode>
+<episode num="87">
+<title gid="333136037" lang="EN">Do Your Best! Ojama Trio (Part One)</title></episode>
+<episode num="88">
+<title gid="546309445" lang="EN">Do Your Best! Ojama Trio (Part Two)</title></episode>
+<episode num="89">
+<title gid="2334706482" lang="EN">Hell Kaiser VS Darkness Fubuki</title></episode>
+<episode num="90">
+<title gid="3040981864" lang="EN">Pride of the Academia</title></episode>
+<episode num="91">
+<title gid="1974512940" lang="EN">The One Turn Kill God of Death</title></episode>
+<episode num="92">
+<title gid="1212735796" lang="EN">Triangle Duel</title></episode>
+<episode num="93">
+<title gid="3575263764" lang="EN">A White Night Duel! Juudai VS Asuka (Part One)</title></episode>
+<episode num="94">
+<title gid="2315282648" lang="EN">White Night's Dragon! Juudai VS Asuka (Part Two)</title></episode>
+<episode num="95">
+<title gid="3778657746" lang="EN">The Brothers' Duel of Morals, Ryou VS Shou</title></episode>
+<episode num="96">
+<title gid="3403611945" lang="EN">Relativity Field! Juudai VS The Genius Professor</title></episode>
+<episode num="97">
+<title gid="1775471931" lang="EN">Appearance! The Mysterious World Champ!</title></episode>
+<episode num="98">
+<title gid="1888972462" lang="EN">Invoked at Last! The Ultimate D Card</title></episode>
+<episode num="99">
+<title gid="3874169714" lang="EN">Juudai VS the Dreaded Laser Satellite</title></episode>
+<episode num="100">
+<title gid="2689826066" lang="EN">The Ultimate Arcana 「The World」</title></episode>
+<episode num="101">
+<title gid="1491134808" lang="EN">Ed, The Deciding Strike! 「Bloo-D」</title></episode>
+<episode num="102">
+<title gid="2340259823" lang="EN">The Surging Light VS The Neo Spacians</title></episode>
+<episode num="103">
+<title gid="2733284092" lang="EN">Juudai in a Pinch! Field Spell 「The Seal of Light」</title></episode>
+<episode num="104">
+<title gid="2198348797" lang="EN">How To Achieve Victory?! Juudai VS Saiou</title></episode>
+<episode num="105">
+<title gid="3314561086" lang="EN">Start of the New Semester! Premonitions of Trouble</title></episode>
+<episode num="106">
+<title gid="1868308329" lang="EN">Juudai and the Gem Beast Deck of Johann</title></episode>
+<episode num="107">
+<title gid="2497379796" lang="EN">The Neo Spacians VS The Gem Beasts</title></episode>
+<episode num="108">
+<title gid="3133477683" lang="EN">The Assassin of Professor Cobra</title></episode>
+<episode num="109">
+<title gid="1065828179" lang="EN">Juudai and the Fiery O'Brien</title></episode>
+<episode num="110">
+<title gid="777740244" lang="EN">Tyranno Kenzan and Jim's Fossilized Dinos</title></episode>
+<episode num="111">
+<title gid="3527435041" lang="EN">Manjoume and the Cloud Deck of Amon</title></episode>
+<episode num="112">
+<title gid="2494603515" lang="EN">Thunder VS Eye of the Typhoon</title></episode>
+<episode num="113">
+<title gid="3104773163" lang="EN">Juudai VS The Traitorous Elemental Heroes</title></episode>
+<episode num="114">
+<title gid="2088775385" lang="EN">A Desperate Situation! Mistakenly Injured Heroes</title></episode>
+<episode num="115">
+<title gid="2789572923" lang="EN">Geese, the Hunter of Spirits</title></episode>
+<episode num="116">
+<title gid="468154825" lang="EN">The Gem Beasts VS the Watchdogs of Hell</title></episode>
+<episode num="117">
+<title gid="1380462814" lang="EN">Decisive Battle! Juudai VS Professor Cobra</title></episode>
+<episode num="118">
+<title gid="967253186" lang="EN">Terror! The King of Poisonous Serpents, Venominon</title></episode>
+<episode num="119">
+<title gid="2299462962" lang="EN">Triple Conact Fusion! Magma Neos</title></episode>
+<episode num="120">
+<title gid="798233369" lang="EN">Battle in a Strange World! The Gem Beasts VS the Harpy Ladies!</title></episode>
+<episode num="121">
+<title gid="2778432646" lang="EN">Desert Survival! Johann VS The Doodlebug</title></episode>
+<episode num="122">
+<title gid="1487159067" lang="EN">Crisis at Duel Academia! Fear of the Zombie Students</title></episode>
+<episode num="123">
+<title gid="3602888024" lang="EN">The Mission to Save Rei! Elemental Heroes VS the Fallen Angel Nurse</title></episode>
+<episode num="124">
+<title gid="1670828187" lang="EN">Division Amongst the Academy! A Duel of Hunger</title></episode>
+<episode num="125">
+<title gid="2820868240" lang="EN">Johann, Jim, and O'Brien VS the Three Masked Knights</title></episode>
+<episode num="126">
+<title gid="3499522668" lang="EN">Juudai VS Manjoume, Dragon Soldier Dark Sword</title></episode>
+<episode num="127">
+<title gid="2077089381" lang="EN">Opening the Seal, Martin</title></episode>
+<episode num="128">
+<title gid="2913869225" lang="EN">The Gem Beasts VS Cyber End Dragon</title></episode>
+<episode num="129">
+<title gid="713316249" lang="EN">Threat of the three legendary demons! Judai Vs. Martin</title></episode>
+<episode num="130">
+<title gid="1862575233" lang="EN">The awakening of the rainbow dragon</title></episode>
+<episode num="131">
+<title gid="3348673048" lang="EN">Grand gathering of ace cards!! Open door of different dimension</title></episode>
+<episode num="132">
+<title gid="1368297047" lang="EN">A life-or-death duel</title></episode>
+<episode num="133">
+<title gid="1104692521" lang="EN">Judai Vs. Scarr, scout of dark world</title></episode>
+<episode num="134">
+<title gid="2656361251" lang="EN">Judai Vs. Zure, knight of dark world</title></episode>
+<episode num="135">
+<title gid="2908799933" lang="EN">Judai Vs. Brron, mad king of dark world</title></episode>
+<episode num="136">
+<title gid="1319993860" lang="EN">Activate sacred scriptures of wickedness! Reing-beaux, evil lord of dark realm</title></episode>
+<episode num="137">
+<title gid="1701839335" lang="EN">Sho's decision [Proof of friendship]</title></episode>
+<episode num="138">
+<title gid="1456038793" lang="EN">Descent of supreme king - The death duelists</title></episode>
+<episode num="139">
+<title gid="2155597495" lang="EN">Dark fusion! INFERNO WING!</title></episode>
+<episode num="140">
+<title gid="2175488730" lang="EN">The first and probably last super fusion activation</title></episode>
+<episode num="141">
+<title gid="1035894410" lang="EN">The supreme king of terror! The wandering O'Brien</title></episode>
+<episode num="142">
+<title gid="809558350" lang="EN">The victor is righteous! The supreme king Vs. O'Brien</title></episode>
+<episode num="143">
+<title gid="1892340040" lang="EN">Volcanic devil Vs. the most henious evil hero</title></episode>
+<episode num="144">
+<title gid="2155313507" lang="EN">Activate! Ultimate unsealing ritual technique</title></episode>
+<episode num="145">
+<title gid="2231500704" lang="EN">Summon the ultimate forbidden god, Exodia!</title></episode>
+<episode num="146">
+<title gid="556024113" lang="EN">The sealed fusion</title></episode>
+<episode num="147">
+<title gid="4045138321" lang="EN">A clash of fate! Cyber-style Vs. The gem beasts</title></episode>
+<episode num="148">
+<title gid="1125653563" lang="EN">The ultimate dragon showdown! Cyber end Vs. Dark rainbow</title></episode>
+<episode num="149">
+<title gid="2172934795" lang="EN">Clash of the demon gods! Mythic demon Vs. Exodia</title></episode>
+<episode num="150">
+<title gid="958666406" lang="EN">Summon &quot;Yubel&quot;!</title></episode>
+<episode num="151">
+<title gid="2824278621" lang="EN">Neos Vs. Advanced gem beasts</title></episode>
+<episode num="152">
+<title gid="1630063060" lang="EN">Activate super fusion! Rainbow neos</title></episode>
+<episode num="153">
+<title gid="1607552872" lang="EN">Confrontation of the chosen cards! Elemental heros VS Yubel</title></episode>
+<episode num="154">
+<title gid="3670870370" lang="EN">Supreme king Judai resurrected!</title></episode>
+<episode num="155">
+<title gid="3494913697" lang="EN">Rainbow neos Vs. Jubel ultimate incarnation</title></episode>
+<episode num="156">
+<title gid="1193368018" lang="EN">Judai revived!? A brand NEW journey</title></episode>
+<episode num="157">
+<title gid="2534555189" lang="EN">A looming threat! The mysterious visitor</title></episode>
+<episode num="158">
+<title gid="2985548605" lang="EN">Farewell, Duel Academia! The path Judai chooses!</title></episode>
+<episode num="159">
+<title gid="946612529" lang="EN">The truth behind darkness! Judai Vs. Fubuki</title></episode>
+<episode num="160">
+<title gid="4012834880" lang="EN">Fusing souls! Neos Vs. Five god dragon</title></episode>
+<episode num="161">
+<title gid="3019876626" lang="EN">Shall we duel? Invitation to a pair duel</title></episode>
+<episode num="162">
+<title gid="1830860003" lang="EN">Judai Vs. Asuka: face-down card of hidden emotions</title></episode>
+<episode num="163">
+<title gid="691819519" lang="EN">Challenge from psycho shocker</title></episode>
+<episode num="164">
+<title gid="2857154951" lang="EN">The inherited Cyber-dark dragon</title></episode>
+<episode num="165">
+<title gid="1046791054" lang="EN">Shoot for it! Manjyome, the path to a pro duelist!</title></episode>
+<episode num="166">
+<title gid="2463871443" lang="EN">Armed Dragon VS Dragoon D End</title></episode>
+<episode num="167">
+<title gid="675638791" lang="EN">Gratitude duel! Chronos Vs the original dropout boy</title></episode>
+<episode num="168">
+<title gid="4004424521" lang="EN">Graduation duel starts! Neos Vs Horus the black flame dragon</title></episode>
+<episode num="169">
+<title gid="2004645302" lang="EN">The price of decision! O'Brien, darkness in fire</title></episode>
+<episode num="170">
+<title gid="2529382700" lang="EN">Saiou returns! Activate &quot;The decisive power of absolute destiny!&quot;</title></episode>
+<episode num="171">
+<title gid="2252672992" lang="EN">The End of Destiny! Magma Neos VS The Dark Ruler</title></episode>
+<episode num="172">
+<title gid="1992473454" lang="EN">Duel academia crisis! The jewel beasts blocking the way</title></episode>
+<episode num="173">
+<title gid="3187477920" lang="EN">Darkness invasion, the stolen memories</title></episode>
+<episode num="174">
+<title gid="2349601135" lang="EN">Activate, clear world! Ferocious negative effect</title></episode>
+<episode num="175">
+<title gid="1812051947" lang="EN">Battle royal! Juday Vs Johan Vs Fujiwara</title></episode>
+<episode num="176">
+<title gid="2379367670" lang="EN">Rainbown neos, protector of bonds Vs Clear vicious knight</title></episode>
+<episode num="177">
+<title gid="1209915009" lang="EN">The combo of terror, Nihilty and Infinity</title></episode>
+<episode num="178">
+<title gid="1283786537" lang="EN">Final Hope! Yuki Judai 最後の希望！遊城十代 (2008-03-12)</title></episode>
+<episode num="179">
+<title gid="2898684725" lang="EN">Good-Bye Judai! Tears of Graduation. さよなら十代！涙の卒業式 (2008-03-19)</title></episode>
+<episode num="180">
+<title gid="1581850482" lang="EN">The True Graduation Duel! Judai VS Legendary Duelist 真の卒業デュエル！十代ＶＳ伝説のデュエリスト (2008-03-26)</title></episode>
+<release date="2014-10-14" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=27399">Yu-Gi-Oh! GX - Season 1 (Dub.DVD)</release>
+<release date="2015-07-07" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=28744">Yu-Gi-Oh! GX - Season 2 (Dub.DVD)</release>
+<release date="2016-03-08" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=30557">Yu-Gi-Oh! GX - Season 3 (Dub.DVD)</release>
+<release date="2006-09-12" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=7143">Yu-Gi-Oh! GX - Welcome to Duel Academy (Dub.DVD 1)</release>
+<release date="2007-01-30" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=7607">Yu-Gi-Oh! GX - Tag Team Trial (Dub.DVD 2)</release>
+<release date="2007-05-22" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=8211">Yu-Gi-Oh! GX - The King of Copycats (Dub.DVD 3)</release>
+<release date="2007-09-18" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=9360">Yu-Gi-Oh! GX - The School Duel (Dub.DVD 4)</release>
+<release date="2008-10-14" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=12159">Yu-Gi-Oh! GX - Rise of the Sacred Beasts Part 1 (Dub.DVD 5)</release>
+<release date="2009-09-22" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=15008">Yu-Gi-Oh! GX - Rise of the Sacred Beasts Part 2 (Dub.DVD 6)</release>
+<news datetime="2006-05-16T17:02:58Z" href="http://www.animenewsnetwork.com/news/2006-05-16/4kidstv-fall-lineup">4KidsTV Fall Lineup</news>
+<news datetime="2007-08-10T21:15:59Z" href="http://www.animenewsnetwork.com/news/2007-08-10/anime-broadcaster-4kids-releases-first-quarter-results">Anime Broadcaster 4Kids Releases Quarterly Results</news>
+<news datetime="2007-10-04T15:36:11Z" href="http://www.animenewsnetwork.com/news/2007-10-04/cw-to-replace-kids-wb-block-with-4kids-on-saturdays">CW to Replace Kids' WB! Block with 4Kids on Saturdays</news>
+<news datetime="2008-05-06T15:57:15Z" href="http://www.animenewsnetwork.com/news/2008-05-06/june-licensing-intl-expo-to-feature-anime-franchises">June's Licensing Int'l Expo to Feature Anime Franchises</news>
+<news datetime="2009-07-16T07:16:13Z" href="http://www.animenewsnetwork.com/news/2009-07-16/2nd-battle-spirits-anime-titled-dated-with-jam-project-op">2nd &lt;cite&gt;Battle Spirits&lt;/cite&gt; Anime Titled, Dated with Jam Project OP</news>
+<news datetime="2009-08-03T20:42:16Z" href="http://www.animenewsnetwork.com/news/2009-08-03/yu-gi-oh-10th-special-to-unite-3-series-heroes">&lt;cite&gt;Yu-Gi-Oh!&lt;/cite&gt; 10th Special to Unite 3 Series' Heroes</news>
+<news datetime="2009-08-22T12:09:18Z" href="http://www.animenewsnetwork.com/news/2009-08-22/4kids-stops-streaming-japanese-yu-gi-oh-duel-monsters">4Kids Stops Streaming Japanese &lt;cite&gt;Yu-Gi-Oh! Duel Monsters&lt;/cite&gt;</news>
+<news datetime="2009-09-18T17:56:52Z" href="http://www.animenewsnetwork.com/news/2009-09-18/yu-gi-oh-10th-anniversary-teaser-ballad-promo-posted">&lt;cite&gt;Yu-Gi-Oh!&lt;/cite&gt; 10th Anniversary Teaser, &lt;cite&gt;Ballad&lt;/cite&gt; Promo Posted</news>
+<news datetime="2009-12-18T13:22:31Z" href="http://www.animenewsnetwork.com/news/2009-12-18/yu-gi-oh-10th-anniversary-anime-footage-streamed">&lt;cite&gt;Yu-Gi-Oh!&lt;/cite&gt; 10th Anniversary Anime's Footage Streamed</news>
+<news datetime="2010-01-29T08:03:31Z" href="http://www.animenewsnetwork.com/news/2010-01-29/japanese-box-office-january-23-24">Japanese Box Office, January 23-24</news>
+<news datetime="2010-09-15T17:16:37Z" href="http://www.animenewsnetwork.com/news/2010-09-15/4kids-launches-toonzaki-anime-streaming-site">4Kids Launches Toonzaki Anime Streaming Site</news>
+<news datetime="2010-09-15T16:07:58Z" href="http://www.animenewsnetwork.com/news/2010-09-15/4kids-adds-yu-gi-oh-3d/bonds-beyond-time-film">4Kids Adds &lt;cite&gt;Yu-Gi-Oh! 3D: Bonds Beyond Time&lt;/cite&gt; Anime Film</news>
+<news datetime="2010-11-22T08:23:49Z" href="http://www.animenewsnetwork.com/news/2010-11-22/yu-gi-oh-3d-u.s-theatrical-run-dated-for-february-march">&lt;cite&gt;Yu-Gi-Oh! 3D's&lt;/cite&gt; U.S. Theatrical Run Dated for February-March</news>
+<news datetime="2010-12-20T17:30:44Z" href="http://www.animenewsnetwork.com/news/2010-12-20/supernatural-yumekui-merry-showa-monogatari-promos-streamed">&lt;cite&gt;Supernatural, Yumekui Merry, Showa Monogatari&lt;/cite&gt; Promos Streamed</news>
+<news datetime="2011-04-01T14:37:33Z" href="http://www.animenewsnetwork.com/news/2011-04-01/yu-gi-oh-3d-film-to-be-released-in-cinemas-and-on-dvd">&lt;cite&gt;Yu-Gi-Oh&lt;/cite&gt; 3D film to be released in cinemas and on DVD</news>
+<news datetime="2011-04-06T20:34:40Z" href="http://www.animenewsnetwork.com/news/2011-04-06/4kids-files-for-chapter-11-bankruptcy">4Kids Files for Chapter 11 Bankruptcy</news>
+<news datetime="2011-07-23T20:40:51Z" href="http://www.animenewsnetwork.com/news/2011-07-23/sound-of-the-sky-new-yu-gi-oh-film-released-monday">Sound of the Sky, New Yu-Gi-Oh Film Released Monday</news>
+<news datetime="2014-10-14T21:40:00Z" href="http://www.animenewsnetwork.com:/news/2014-10-14/north-american-anime-manga-releases-october-12-18/.79900">North American Anime, Manga Releases, October 12-18</news>
+<news datetime="2015-07-04T19:04:00Z" href="http://www.animenewsnetwork.com:/news/2015-07-04/crunchyroll-to-stream-monster-musume-million-doll-this-summer-the-perfect-insider-in-october/.90083">Crunchyroll to Stream &lt;cite&gt;Monster Musume, Million Doll&lt;/cite&gt; This Summer; &lt;cite&gt;The Perfect Insider&lt;/cite&gt; in October (Update)</news>
+<news datetime="2015-07-07T21:40:00Z" href="http://www.animenewsnetwork.com:/news/2015-07-07/north-american-anime-manga-releases-july-5-11/.90182">North American Anime, Manga Releases, July 5-11</news>
+<news datetime="2016-03-08T22:20:00Z" href="http://www.animenewsnetwork.com:/news/2016-03-08/north-american-anime-manga-releases-march-6-12/.99558">North American Anime, Manga Releases, March 6-12</news>
+<staff gid="1183807933"><task>Director</task><person id="12531">Hatsuki Tsuji</person></staff>
+<staff gid="2754845786"><task>Series Composition</task><person id="7856">Junki Takegami</person></staff>
+<staff gid="3379800506"><task>Series Composition</task><person id="10617">Shin Yoshida</person></staff>
+<staff gid="2024334722"><task>Screenplay</task><person id="1295">Akemi Omode</person></staff>
+<staff gid="1477189836"><task>Screenplay</task><person id="4629">Natsuko Takahashi</person></staff>
+<staff gid="1401909933"><task>Screenplay</task><person id="7856">Junki Takegami</person></staff>
+<staff gid="1404190826"><task>Screenplay</task><person id="10617">Shin Yoshida</person></staff>
+<staff gid="1823958075"><task>Screenplay</task><person id="23459">Yuki Enatsu</person></staff>
+<staff gid="538056493"><task>Screenplay</task><person id="24238">Yasuyuki Suzuki</person></staff>
+<staff gid="1635236653"><task>Screenplay</task><person id="47213">Ema Baba</person></staff>
+<staff gid="471189086"><task>Screenplay</task><person id="64265">Atsushi Maekawa</person></staff>
+<staff gid="2377809841"><task>Storyboard</task><person id="3022">Shuichi Shimamura</person></staff>
+<staff gid="2309662105"><task>Storyboard</task><person id="4891">Kiyoshi Egami</person></staff>
+<staff gid="2641530003"><task>Storyboard</task><person id="5452">Naoyuki Kuzuya</person></staff>
+<staff gid="3099440796"><task>Storyboard</task><person id="5831">Naoki Hishikawa</person></staff>
+<staff gid="1626928749"><task>Storyboard</task><person id="10499">Koji Yoshikawa</person></staff>
+<staff gid="2491727235"><task>Storyboard</task><person id="11794">Kazuhito Kikuchi</person></staff>
+<staff gid="2504781481"><task>Storyboard</task><person id="12531">Hatsuki Tsuji</person></staff>
+<staff gid="1742615252"><task>Storyboard</task><person id="12542">Noriyoshi Nakamura</person></staff>
+<staff gid="3522786207"><task>Storyboard</task><person id="15373">Masaharu Okuwaki</person></staff>
+<staff gid="2417079330"><task>Storyboard</task><person id="30135">Hisaya Takabayashi</person></staff>
+<staff gid="1757542811"><task>Storyboard</task><person id="32692">Hideaki Uehara</person></staff>
+<staff gid="3483533082"><task>Storyboard</task><person id="34843">Yoshihiro Ueda</person></staff>
+<staff gid="853507866"><task>Storyboard</task><person id="37692">Masaki Sugiyama</person></staff>
+<staff gid="2214312042"><task>Episode Director</task><person id="12550">Toshihiro Ishikawa</person></staff>
+<staff gid="2028481949"><task>Episode Director</task><person id="14496">Akira Shigino</person></staff>
+<staff gid="623272911"><task>Episode Director</task><person id="49349">Kiyoshi Matsuda</person></staff>
+<staff gid="2599012120"><task>Music</task><person id="32316">Yutaka Minobe</person></staff>
+<staff gid="141793027"><task>Original Work</task><person id="11762">Kazuki Takahashi</person></staff>
+<staff gid="1977886786"><task>Character Design</task><person id="32315">Ken'ichi Hara</person></staff>
+<staff gid="2064034662"><task>Art Director</task><person id="5456">Junichiro Nishikawa</person></staff>
+<staff gid="2704105440"><task>Animation Director</task><person id="37063">Hideyuki Yoshida</person></staff>
+<staff gid="2301566879"><task>Sound Director</task><person id="10616">Takuya Hiramitsu</person></staff>
+<staff gid="2907457590"><task>Director of Photography</task><person id="2898">Hiroaki Edamitsu</person></staff>
+<staff gid="2264962278"><task>Director of Photography</task><person id="74739">Ryou Sechiru</person></staff>
+<staff gid="2720139672"><task>Producer</task><person id="815">Noriko Kobayashi</person></staff>
+<staff gid="3709317512"><task>Producer</task><person id="12524">Hidetaka Ikuta</person></staff>
+<staff gid="3063326659"><task>Producer</task><person id="32143">Naoki Sasada</person></staff>
+<cast gid="3574440765" lang="AR"><role>Jaden Yuki</role><person id="119479">Asaf Avidan</person></cast>
+<cast gid="3116261294" lang="DA"><role>Alexis Rhodes</role><person id="33401">Annevig Schelde Ebbe</person></cast>
+<cast gid="2794587128" lang="DA"><role>Jaden Yuki</role><person id="93946">Andreas Nicolet</person></cast>
+<cast gid="2829287073" lang="DE"><role>Aster Phoenix</role><person id="22754">Julien Haggege</person></cast>
+<cast gid="2620819368" lang="DE"><role>Alexis Rhodes</role><person id="46842">Catrin Dams</person></cast>
+<cast gid="811331713" lang="DE"><role>Alexis Rhodes</role><person id="47813">Tanya Kahana</person></cast>
+<cast gid="1576956322" lang="EN"><role>Mindy</role><person id="1078">Lisa Ortiz</person></cast>
+<cast gid="2133735022" lang="EN"><role>Fonda Fontaine</role><person id="1081">Veronica Taylor</person></cast>
+<cast gid="1721071866" lang="EN"><role>Jean-Louis Bonaparte</role><person id="2551">Mike Pollock</person></cast>
+<cast gid="1467322358" lang="EN"><role>Chazz Princeton</role><person id="4295">Anthony Salerno</person></cast>
+<cast gid="2648481435" lang="EN"><role>Chazz Princeton</role><person id="14145">Marc Thompson</person></cast>
+<cast gid="2170373728" lang="EN"><role>Atticus Rhodes</role><person id="25281">Jason Griffith</person></cast>
+<cast gid="1877999057" lang="EN"><role>Slade Princeton</role><person id="30327">Jonathan Todd Ross</person></cast>
+<cast gid="1985863407" lang="EN"><role>Fonda Fontaine</role><person id="30493">Bella Hudson</person></cast>
+<cast gid="1915261857" lang="EN"><role>Sarina</role><person id="30493">Bella Hudson</person></cast>
+<cast gid="2271285508" lang="EN"><role>Blair Flannigan</role><person id="47404">Liza Jacqueline</person></cast>
+<cast gid="2113652526" lang="EN"><role>Jaden Yuki</role><person id="48983">Matthew Charles</person></cast>
+<cast gid="1832606332" lang="EN"><role>Alexis Rhodes</role><person id="48984">Priscilla Everett</person></cast>
+<cast gid="1429009537" lang="EN"><role>Chazz Princeton</role><person id="48985">Tony Salerno</person></cast>
+<cast gid="2123620663" lang="EN"><role>Alexis Rhodes</role><person id="63614">Anna Morrow</person></cast>
+<cast gid="2830771018" lang="EN"><role>Jasmine</role><person id="67142">Suzy Goldish</person></cast>
+<cast gid="1157811127" lang="EN"><role>Ms. Dorothy</role><person id="67142">Suzy Goldish</person></cast>
+<cast gid="1822505650" lang="EN"><role>Jubel</role><person id="74741">Cassandra Morris</person></cast>
+<cast gid="2064108571" lang="EN"><role>Axel Brodie</role><person id="137206">Duane Cooper</person></cast>
+<cast gid="2411858418" lang="EN"><role>Jesse Anderson</role><person id="137318">Clay Adams</person></cast>
+<cast gid="2249347360" lang="EN"><role>Tyranno Hassleberry</role><person id="137318">Clay Adams</person></cast>
+<cast gid="190023322" lang="ES"><role>Rashid</role><person id="23442">Eduardo Garza</person></cast>
+<cast gid="1790295669" lang="ES"><role>Chumley Huffington</role><person id="23474">Herman Lopez</person></cast>
+<cast gid="1942236369" lang="ES"><role>Alexis Rhodes</role><person id="23476">Patricia Acevedo</person></cast>
+<cast gid="2290302526" lang="ES"><role>Syrus Truesdale</role><person id="23479">Maria Fernanda Morales</person></cast>
+<cast gid="420233693" lang="ES"><role>Zane Truesdale</role><person id="23490">Jesus Barrero</person></cast>
+<cast gid="1887570317" lang="ES"><role>Jesse Anderson</role><person id="23795">Alfredo Leal</person></cast>
+<cast gid="1989350671" lang="ES"><role>Alexis Rhodes</role><person id="23797">Ana Patricia Anides</person></cast>
+<cast gid="562606065" lang="ES"><role>Bastion Misawa</role><person id="23803">Moisés I. Mora</person></cast>
+<cast gid="2903703333" lang="ES"><role>Chazz Princeton</role><person id="24088">Jose Gilberto Vilchis</person></cast>
+<cast gid="2003426498" lang="ES"><role>Jaden Yuki</role><person id="24089">Isabel Martiñon</person></cast>
+<cast gid="3884161395" lang="ES"><role>Yaden Yuki</role><person id="24089">Isabel Martiñon</person></cast>
+<cast gid="675754837" lang="ES"><role>Jim Cocodrile Cook</role><person id="24144">Edson Matus</person></cast>
+<cast gid="2051693592" lang="ES"><role>Sartorius</role><person id="24148">Rolando de Castro</person></cast>
+<cast gid="1674874276" lang="ES"><role>Atticus Rhodes</role><person id="24149">Ernesto Lezama</person></cast>
+<cast gid="2207436091" lang="ES"><role>Chazz Princeton</role><person id="24163">Ricardo Bautista</person></cast>
+<cast gid="3045028490" lang="ES"><role>Tyrano Hasselberry</role><person id="40617">Igor Cruz</person></cast>
+<cast gid="2529848364" lang="ES"><role>Zane Truesdale</role><person id="41100">Javier Rivero</person></cast>
+<cast gid="2739602615" lang="ES"><role>Jaden Yuki</role><person id="47734">Iván Jara</person></cast>
+<cast gid="1385146140" lang="ES"><role>Dr. Crowler</role><person id="48147">Raul Anaya</person></cast>
+<cast gid="1236207011" lang="ES"><role>Marcel Bonaparte</role><person id="48551">Arturo Castañeda</person></cast>
+<cast gid="1724533935" lang="ES"><role>Alexis Rhodes</role><person id="48608">Rebeca Gómez</person></cast>
+<cast gid="1850267358" lang="ES"><role>Alexis Rhodes</role><person id="50625">Inés Blázquez</person></cast>
+<cast gid="2541858405" lang="ES"><role>Jaden Yuki</role><person id="51516">Miguel Angel Leal</person></cast>
+<cast gid="1817701936" lang="ES"><role>Syrus Truesdale</role><person id="52164">Claudia Motta</person></cast>
+<cast gid="1642056237" lang="ES"><role>Chazz Princeton</role><person id="52832">Carlos Hernández</person></cast>
+<cast gid="2251521148" lang="ES"><role>Yaden Yuki</role><person id="52835">Alan Prieto</person></cast>
+<cast gid="2397627896" lang="ES"><role>Chazz Priceton</role><person id="69355">Sergio Garcia</person></cast>
+<cast gid="2332109777" lang="ES"><role>Chazz Princeton</role><person id="69355">Sergio Garcia</person></cast>
+<cast gid="1783199679" lang="ES"><role>Syrus Truesdale</role><person id="70622">Carla Castañeda</person></cast>
+<cast gid="572149382" lang="ES"><role>Zane Truesdale</role><person id="71564">Hugo Nuñez</person></cast>
+<cast gid="2764059154" lang="ES"><role>Bastion Misawa</role><person id="98157">Carlo Vázquez</person></cast>
+<cast gid="2553139594" lang="FR"><role>Chad</role><person id="52984">Mathieu Moreau</person></cast>
+<cast gid="2028679318" lang="FR"><role>Jaden</role><person id="58714">Valery Bendjilali</person></cast>
+<cast gid="449743956" lang="FR"><role>Jaden</role><person id="68534">Alessandro Bevilacqua</person></cast>
+<cast gid="972046068" lang="FR"><role>Jaden</role><person id="72873">Valery Benjilali</person></cast>
+<cast gid="2433600624" lang="IT"><role>Alexis Rhodes</role><person id="26136">Renata Bertolas</person></cast>
+<cast gid="626496715" lang="IT"><role>Yusuke Fujiwara</role><person id="71683">Federico Zanandrea</person></cast>
+<cast gid="1237544097" lang="JA"><role>Amnuel</role><person id="277">Kappei Yamaguchi</person></cast>
+<cast gid="1597559928" lang="JA"><role>Supervisor Daitokuji</role><person id="277">Kappei Yamaguchi</person></cast>
+<cast gid="313293411" lang="JA"><role>Ed Phoenix</role><person id="443">Akira Ishida</person></cast>
+<cast gid="2326948119" lang="JA"><role>Chairman Kagemaru</role><person id="445">Mugihito</person></cast>
+<cast gid="1986668703" lang="JA"><role>Takuma Saiō</role><person id="662">Takehito Koyasu</person></cast>
+<cast gid="3005946792" lang="JA"><role>Jun Manjōme</role><person id="1658">Taiki Matsuno</person></cast>
+<cast gid="2748193100" lang="JA"><role>Chronos De Mediz</role><person id="1715">Hiroshi Shimizu</person></cast>
+<cast gid="2607375430" lang="JA"><role>Shō Marufuji</role><person id="2405">Masami Suzuki</person></cast>
+<cast gid="1296292171" lang="JA"><role>Napoleon</role><person id="3075">Naoki Tatsuta</person></cast>
+<cast gid="2635058939" lang="JA"><role>or Vice Principal Napoleon</role><person id="3075">Naoki Tatsuta</person></cast>
+<cast gid="2114862307" lang="JA"><role>Asuka Tenjōin</role><person id="3160">Sanae Kobayashi</person></cast>
+<cast gid="2467350064" lang="JA"><role>Rei Saotome</role><person id="5035">Eri Sendai</person></cast>
+<cast gid="558544868" lang="JA"><role>Headmaster Samejima</role><person id="8883">Masami Iwasaki</person></cast>
+<cast gid="2283887842" lang="JA"><role>Ryō Marufuji</role><person id="14825">Takeshi Maeda</person></cast>
+<cast gid="2242442311" lang="JA"><role>Darkness</role><person id="14828">Hozumi Gôda</person></cast>
+<cast gid="1732000996" lang="JA"><role>Mr. T/Trueman</role><person id="14828">Hozumi Gôda</person></cast>
+<cast gid="2109776903" lang="JA"><role>Daichi Misawa</role><person id="17765">Yuuki Masuda</person></cast>
+<cast gid="1929607883" lang="JA"><role>Hayato Maeda</role><person id="18812">Takehiro Hasu</person></cast>
+<cast gid="714144053" lang="JA"><role>Pharaoh</role><person id="19442">Mika Ishibashi</person></cast>
+<cast gid="3050455472" lang="JA"><role>Winged Kuriboh</role><person id="19442">Mika Ishibashi</person></cast>
+<cast gid="845135363" lang="JA"><role>Tyranno Kenzan</role><person id="20441">Hiroshi Shimozaki</person></cast>
+<cast gid="1508241453" lang="JA"><role>Jūdai Yūki</role><person id="32078">Kenn</person></cast>
+<cast gid="2042532539" lang="JA"><role>Pharaoh</role><person id="45061">Yuki Kugimiya</person></cast>
+<cast gid="797514452" lang="JA"><role>Fubuki Tenjōin</role><person id="51073">Koji Yusa</person></cast>
+<cast gid="284569287" lang="JA"><role>Jim Crocodile Cook</role><person id="56006">Naoya Iwahashi</person></cast>
+<cast gid="781771293" lang="JA"><role>Johan Andersen</role><person id="91752">Kanako Irie</person></cast>
+<cast gid="2144195919" lang="KO"><role>Judai Yuki</role><person id="96309">Jang Kim</person></cast>
+<cast gid="3353479496" lang="NL"><role>Blair Flannigan</role><person id="22140">Marjolein Algera</person></cast>
+<cast gid="2369643786" lang="NL"><role>Chumley Huffington</role><person id="29121">Paul Donkers</person></cast>
+<cast gid="2429235877" lang="NL"><role>Vellian Crowler</role><person id="29127">Louis van Beek</person></cast>
+<cast gid="923994947" lang="NL"><role>Alexis Rhodes</role><person id="40889">Jannemien Cnossen</person></cast>
+<cast gid="1517160288" lang="NL"><role>Syrus Truesdale</role><person id="72921">Thijs van Aken</person></cast>
+<cast gid="2458172609" lang="NL"><role>Jaden Yuki</role><person id="100041">Jeroen van Wijngaarden</person></cast>
+<cast gid="1978640362" lang="NL"><role>Chazz Princeton</role><person id="106257">Jurjen van Loon</person></cast>
+<cast gid="3357048456" lang="PL"><role>Bastion Misawa</role><person id="118487">Siniša Ubović</person></cast>
+<cast gid="2433376400" lang="PL"><role>Syrus Truesdale</role><person id="118512">Srđan Jovanović</person></cast>
+<cast gid="2354235511" lang="PT"><role>Dr Vellian Crowler</role><person id="48737">Armando Tiraboschi</person></cast>
+<cast gid="2217878094" lang="PT"><role>Jaden Yuki</role><person id="48738">Rodrigo Andreatto</person></cast>
+<cast gid="2901661109" lang="PT"><role>Alexis Rhodes</role><person id="48759">Samira Fernandes</person></cast>
+<cast gid="2050146884" lang="PT"><role>Jesse Andersen</role><person id="48770">Mauro Eduardo</person></cast>
+<cast gid="2732955994" lang="PT"><role>Chumley Huffington</role><person id="48789">Ivo Roberto</person></cast>
+<cast gid="2115742119" lang="PT"><role>Syrus Truesdale</role><person id="48872">Yuri Chesman</person></cast>
+<cast gid="299330900" lang="PT"><role>Axel Brodie</role><person id="48898">Douglas Guedes</person></cast>
+<cast gid="1496125122" lang="PT"><role>Dorothy</role><person id="49598">Zaira Zordan</person></cast>
+<cast gid="3039612372" lang="PT"><role>Bastion Misawa</role><person id="50144">Nestor Chiesse</person></cast>
+<cast gid="2053294012" lang="PT"><role>Zane Truesdale</role><person id="50313">Marco Aurélio Campos</person></cast>
+<cast gid="3538616372" lang="PT"><role>Chazz Princeton</role><person id="52588">Márcio Marconato</person></cast>
+<cast gid="1390776628" lang="PT"><role>Yubel</role><person id="52950">Elisa Villon</person></cast>
+<cast gid="2055104262" lang="PT"><role>Doutor Vellian Crowler</role><person id="52953">Luiz Tiraboschi</person></cast>
+<cast gid="3674613513" lang="TL"><role>Jepoy Maeda</role><person id="38910">Bernie Malejana</person></cast>
+<cast gid="2362266245" lang="TL"><role>Ojama Yellow</role><person id="38910">Bernie Malejana</person></cast>
+<cast gid="2602029286" lang="TL"><role>Tyranno Kenzan</role><person id="38910">Bernie Malejana</person></cast>
+<cast gid="903305315" lang="TL"><role>Brian Marafuji</role><person id="38928">Michael Punzalan</person></cast>
+<cast gid="2275263110" lang="TL"><role>Edo Phoenix</role><person id="38929">Montreal Repuyan</person></cast>
+<cast gid="3347108938" lang="TL"><role>Saiou Takuma</role><person id="38929">Montreal Repuyan</person></cast>
+<cast gid="698823307" lang="TL"><role>Judei Yuki</role><person id="38935">Louie Paraboles</person></cast>
+<cast gid="3394056498" lang="TL"><role>Sean Banzaime</role><person id="38936">Jefferson Utanes</person></cast>
+<cast gid="1348117027" lang="TL"><role>Chronos De Mediz</role><person id="39047">Roni Abario</person></cast>
+<cast gid="2283565745" lang="TL"><role>Rocky Misawa</role><person id="49527">Archie de Leon</person></cast>
+<cast gid="3602990077" lang="TL"><role>Paolo Marafuji</role><person id="51999">Joanne Chua</person></cast>
+<cast gid="1207366316" lang="TL"><role>Alexa Tenjouin</role><person id="57464">Davene Venturanza</person></cast>
+<credit gid="2019764012"><task>Production</task><company id="262">TV Tokyo</company></credit>
+<credit gid="1571623520"><task>Production</task><company id="316">NAS</company></credit>
+<credit gid="2889336995"><task>Production</task><company id="909">Shueisha</company></credit></anime></ann>

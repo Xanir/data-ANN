@@ -1,0 +1,752 @@
+<ann><anime id="479" gid="3472569385" type="TV" name="Chibi Maruko-chan" precision="TV" generated-on="2016-03-27T03:55:10Z">
+<related-prev rel="adapted from" id="4242"/>
+<related-next id="14072" rel="side story"/>
+<info gid="130352391" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A479-8.jpg" width="143" height="200"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A479-8.jpg" width="143" height="200"/></info>
+<info gid="1875171166" type="Main title" lang="JA">Chibi Maruko-chan</info>
+<info gid="1432417392" type="Alternative title" lang="AR">Maruko Al-Saghira ~ Tunis 7 broadcast 1996</info>
+<info gid="1316496374" type="Alternative title" lang="AR">ماروكو الصغيرة</info>
+<info gid="1240469586" type="Alternative title" lang="JA">ちびまる子ちゃん</info>
+<info gid="1398116833" type="Alternative title" lang="ZH-TW">櫻桃小丸子</info>
+<info gid="1304293118" type="Genres">comedy</info>
+<info gid="1060388654" type="Genres">slice of life</info>
+<info gid="313697306" type="Objectionable content">AA</info>
+<info gid="1850112238" type="Plot Summary">Momoko Sakura is an elementary school student who likes popular idol Momoe Yamaguchi and mangas. She is often called &quot;Chibi Maruko-chan&quot; due to her young age and small size. She lives together with her parents, her grandparents and her elder sister in a little town. In school, she has many friends with whom she studies and plays together everyday, including her close pal, Tama-chan; the student committee members, Maruo-kun and Migiwa-san; and the B-class trio: 'little master' Hanawa-kun, Hamaji-Bu Taro and Sekiguchi-kun. This is a fun-loving and enjoyable anime that portrays the simple things in life.</info>
+<info gid="1148103036" type="Running time">half hour</info>
+<info gid="912654824" type="Number of episodes">142</info>
+<info gid="2813881957" type="Vintage">1990-01-07 to 1992-09-27</info>
+<info gid="3965494515" type="Opening Theme">&quot;Yume Ippai&quot; by Yumiko Seki</info>
+<info gid="2081304060" type="Ending Theme">#1: &quot;Odoru Ponpokorin&quot; by B.B. Queens</info>
+<info gid="1301378654" type="Ending Theme">#2: &quot;Hashire Shoujiki-mono&quot; by Hideki Saijou</info>
+<ratings nb_votes="85" weighted_score="6.812" bayesian_score="6.9063"/>
+<episode num="1">
+<title part="B" gid="1963746213" lang="EN">Maruko-chan quarrels with her siblings</title>
+<title part="A" gid="3695104883" lang="EN">Maruko-chan is still feeling down</title></episode>
+<episode num="2">
+<title part="A" gid="1402489529" lang="EN">Maru-chan buys an alarm clock</title>
+<title part="B" gid="2336357458" lang="EN">The school tutor arrives</title></episode>
+<episode num="3">
+<title gid="1222915906" lang="EN">Today is the home visit</title>
+<title part="A" gid="3185471338" lang="JA">konnichiwa katei houmon</title>
+<title part="B" gid="3362396037" lang="JA">ikimono kakari no KIZA yarou sanjou</title></episode>
+<episode num="4">
+<title gid="2252748370" lang="EN">Maru-chan practices cycling Part 1</title>
+<title part="A" gid="3119622929" lang="JA">maru-chan jitensha no renshuu wo suru ( zenpen )</title>
+<title part="B" gid="1844083986" lang="JA">maru-chan jitensha no renshuu wo suru ( kouhen )</title></episode>
+<episode num="5">
+<title gid="1734487668" lang="EN">Maru-chan catches a cold</title>
+<title part="A" gid="1254524275" lang="JA">maru-chan KAZE wo hiku</title>
+<title part="B" gid="1004227929" lang="JA">maru-chan shoujou wo morau</title></episode>
+<episode num="6">
+<title gid="2187687259" lang="EN">Maruko-chan's Dog</title></episode>
+<episode num="7">
+<title part="A" gid="2388037953" lang="EN">Going Out for French cuisine</title>
+<title part="B" gid="1597493263" lang="EN">Maruko-chan's Unhappy Marathon Run</title></episode>
+<episode num="8">
+<title part="A" gid="1276175307" lang="EN">Everyone Goes to a French Restaurant</title>
+<title part="B" gid="68525396" lang="EN">I Hate the Marathon</title></episode>
+<episode num="9">
+<title part="A" gid="1312000333" lang="EN">Maruko Practices the Flute</title>
+<title part="B" gid="3068893441" lang="EN">I Wanna Eat the Snow</title></episode>
+<episode num="10">
+<title gid="808813142" lang="EN">Maruko Goes to Shinseki's House</title></episode>
+<episode num="11">
+<title part="A" gid="3491835327" lang="EN">Evacuation Drill-Obsessed Citizens</title>
+<title part="B" gid="3038855250" lang="EN">Get the Report Card, Maru-chan</title></episode>
+<episode num="12">
+<title part="A" gid="4184380571" lang="EN">Chocolate Company</title>
+<title part="B" gid="1913781830" lang="EN">Maruko-chan Loves Preparing for the Picnic</title></episode>
+<episode num="13">
+<title gid="2955045528" lang="EN">Maruko Goes on a Picnic</title></episode>
+<episode num="14">
+<title part="A" gid="2567024922" lang="EN">Longtime Nosebleed</title>
+<title part="B" gid="858079017" lang="EN">Just for Voice Mail</title></episode>
+<episode num="15">
+<title gid="2449224782" lang="EN">Maruo Finally Won the Class President Election</title></episode>
+<episode num="16">
+<title part="A" gid="2160438196" lang="EN">Maru-chan Becomes Cecum</title>
+<title part="B" gid="2632700028" lang="EN">The Whole Fortune Chan</title></episode>
+<episode num="17">
+<title part="A" gid="2553930035" lang="EN">Maru-chan Wants the Bird</title>
+<title part="B" gid="2598501851" lang="EN">Open Maru-chan's Birthday Party</title></episode>
+<episode num="18">
+<title part="A" gid="1632434240" lang="EN">Mother's Treasure</title>
+<title part="B" gid="3216443082" lang="EN">Maru-chan's Midnight Feast</title></episode>
+<episode num="19">
+<title gid="2099640083" lang="EN">Mother's Day</title></episode>
+<episode num="20">
+<title part="A" gid="2913018387" lang="EN">Oriental Boy In May</title>
+<title part="B" gid="1193964831" lang="EN">Dismal Visiting Day</title></episode>
+<episode num="21">
+<title gid="1923413239" lang="EN">Maru-chan Comes into the School Play</title></episode>
+<episode num="22">
+<title part="A" gid="3405574679" lang="EN">Maru-chan Starts to Correspond</title>
+<title part="B" gid="2180114291" lang="EN">I love Study Hall</title></episode>
+<episode num="23">
+<title gid="2604846181" lang="EN">Maru-chan is the City of the Great Flood</title></episode>
+<episode num="24">
+<title part="A" gid="1474131176" lang="EN">A Sore tooth decay, Maru-chan</title>
+<title part="B" gid="1049218261" lang="EN">Ah, Physical Examination</title></episode>
+<episode num="25">
+<title gid="2177903155" lang="EN">Maruchan stomach ache at school</title></episode>
+<episode num="26">
+<title gid="2933567720" lang="JA">PUURU biraki</title></episode>
+<episode num="27">
+<title gid="3693793778" lang="JA">tanabata no negaigoto</title></episode>
+<episode num="28">
+<title part="A" gid="2104625531" lang="JA">maru-chan kasa wo katte morau</title>
+<title part="B" gid="1129167078" lang="JA">maru-chan no natsu no omoide</title></episode>
+<episode num="29">
+<title part="A" gid="762587042" lang="JA">maru-chan no ie no ofuro ga kowareta</title>
+<title part="B" gid="425184482" lang="JA">occhan no mahou KAADO</title></episode>
+<episode num="30">
+<title gid="2781905351" lang="JA">maru-chan wa natsuyasumi mo gakkou ni kayou</title></episode>
+<episode num="31">
+<title gid="1425123282" lang="JA">maru-chan minami no shima e iku ( zenpen )</title></episode>
+<episode num="32">
+<title gid="3039018710" lang="JA">maru-chan minami no shima e iku ( kouhen )</title></episode>
+<episode num="33">
+<title gid="2206258835" lang="JA">maru-chan obake yashiki ni iku</title></episode>
+<episode num="34">
+<title gid="1144404776" lang="JA">shukudai wo tametamaru ko-chan</title></episode>
+<episode num="35">
+<title part="A" gid="801060991" lang="JA">maru-chan shashinya-san ni iku</title>
+<title part="B" gid="1580595249" lang="JA">arashi no yoru no dekigoto</title></episode>
+<episode num="36">
+<title gid="2621167271" lang="JA">maru-chan nettaigyo wo kau</title></episode>
+<episode num="37">
+<title gid="2584894879" lang="JA">okappa . kappa</title></episode>
+<episode num="38">
+<title gid="367937532" lang="JA">maru-chan HAIKINGU ni iku</title></episode>
+<episode num="39">
+<title gid="2309038084" lang="JA">maru-chan o-kin wo mitsukeru</title></episode>
+<episode num="40">
+<title gid="1049153073" lang="JA">danshi-tai joshidai sensou</title></episode>
+<episode num="41">
+<title part="A" gid="3333907147" lang="JA">maru-chan sekikae wo suru</title>
+<title part="B" gid="3709910961" lang="JA">maru-chan nomiya-san ni iku</title></episode>
+<episode num="42">
+<title gid="3124044041" lang="JA">onee-chan no takaramono</title></episode>
+<episode num="43">
+<title gid="3294006531" lang="JA">maru-chan jikken wo suru</title></episode>
+<episode num="44">
+<title gid="2808354005" lang="JA">maru-chan no &quot; hoshi ni negai wo ! &quot;</title></episode>
+<episode num="45">
+<title gid="2364342481" lang="JA">itoko no shichigosan</title></episode>
+<episode num="46">
+<title part="A" gid="2115117000" lang="JA">kyoufu no niwatori koya souji</title>
+<title part="B" gid="2825349707" lang="JA">hitorikkiri no nichiyoubi</title></episode>
+<episode num="47">
+<title gid="3109078626" lang="JA">otou-san to okaa-san kenka suru</title></episode>
+<episode num="48">
+<title gid="2135590370" lang="JA">maru-chan jibun no heya ga hoshi kunaru</title></episode>
+<episode num="49">
+<title gid="3342849276" lang="JA">maru-chan nengajou wo kaku</title></episode>
+<episode num="50">
+<title part="A" gid="922907619" lang="JA">maru-chan sakubun wo kaku</title>
+<title part="B" gid="2406577646" lang="JA">uchi wa binbou</title></episode>
+<episode num="51">
+<title gid="3397334037" lang="JA">maru-chan chounai no KURISUMASU kai ni sanka suru</title></episode>
+<episode num="52">
+<title gid="1893192041" lang="JA">toshikoshi maruko-chan</title></episode>
+<episode num="52.5">
+<title gid="2344272419" lang="JA">chibimaruko-chan SUPESHARU</title></episode>
+<episode num="53">
+<title gid="1440544365" lang="JA">itsumo no oshougatsu</title></episode>
+<episode num="54">
+<title gid="3089063500" lang="JA">maru-chan nemurenai yoru</title></episode>
+<episode num="55">
+<title gid="1743734734" lang="JA">kodomo wa kaze no ko</title></episode>
+<episode num="56">
+<title gid="3573257204" lang="EN">Maru-chan's Happy Day</title></episode>
+<episode num="57">
+<title gid="2376308495" lang="JA">maruko mamemaki wo suru</title></episode>
+<episode num="58">
+<title gid="473200276" lang="JA">maru-chan DEPAATO de maigo ni naru</title></episode>
+<episode num="59">
+<title gid="1105434299" lang="JA">maru-chan no fuusen monogatari</title></episode>
+<episode num="60">
+<title gid="2484507285" lang="JA">akogare no gakkyuuheisa</title></episode>
+<episode num="61">
+<title gid="552942260" lang="JA">maru-chan ohina matsuri ni yobareru</title></episode>
+<episode num="62">
+<title gid="2292140117" lang="JA">kuchibue ga kikoeru</title></episode>
+<episode num="63">
+<title gid="4147277695" lang="JA">houkago no gakkyuukai</title></episode>
+<episode num="64">
+<title gid="2133746702" lang="JA">maru-chan no mizu saibai</title></episode>
+<episode num="65">
+<title gid="2632230390" lang="JA">maru-chan HERUSUSENTAA ni iku</title></episode>
+<episode num="66">
+<title gid="2023464262" lang="JA">maru-chan ohanami ni iku</title></episode>
+<episode num="67">
+<title gid="1827106928" lang="JA">maruko-tachi ichinensei no sewa wo yaku</title></episode>
+<episode num="68">
+<title gid="2682391922" lang="JA">maru-chan sakubun wo kaku</title></episode>
+<episode num="69">
+<title gid="945846341" lang="JA">maruko NOSUTORADAMUSU no yogen wo ki ni suru</title></episode>
+<episode num="70">
+<title gid="1745270088" lang="EN">Maruko's children day!</title></episode>
+<episode num="71">
+<title gid="3511481557" lang="JA">ojii-chan BERUTOKUIZU ni deru ( mae )</title></episode>
+<episode num="72">
+<title gid="2431756220" lang="JA">ojii-chan BERUTOKUIZU ni deru ( nochi )</title></episode>
+<episode num="73">
+<title gid="2282213966" lang="JA">maruko PURANETARIUMU ni iku</title></episode>
+<episode num="74">
+<title gid="2105399223" lang="JA">maru-chan gakkyuu shinbun wo tsukuru</title></episode>
+<episode num="75">
+<title gid="1915830617" lang="EN">Detective Maruko!</title></episode>
+<episode num="76">
+<title part="A" gid="2438669280" lang="JA">maruko PURIMADONNA ni akogareru</title>
+<title part="B" gid="3588300814" lang="JA">maruko mimi kakigusega naoranai</title></episode>
+<episode num="77">
+<title gid="1888858649" lang="JA">maruko momoe-chan no KONSAATO ni iku</title></episode>
+<episode num="78">
+<title gid="2021872696" lang="JA">maru-chan kekkonshiki ni shusseki suru</title></episode>
+<episode num="79">
+<title part="A" gid="2142989743" lang="JA">maru-chan no tanabata eiga kai</title>
+<title part="B" gid="1367798863" lang="JA">shoukin 27 man'en no tsukaimichi</title></episode>
+<episode num="80">
+<title part="A" gid="248904588" lang="JA">maruko youfuku wo tsukutte morau</title>
+<title part="B" gid="563887972" lang="JA">maruko kaki koori wo tsukuru</title></episode>
+<episode num="80.5">
+<title part="A" gid="1776507543" lang="JA">maruko guutarana natsu wo sugosu</title>
+<title part="B" gid="1335077867" lang="JA">maruko FAITO wo moyasu</title>
+<title part="C" gid="2651017575" lang="JA">「まる子のファイト燃えつきる」の巻</title></episode>
+<episode num="81">
+<title gid="1969279842" lang="JA">maruko maboroshi no youkan wo miru</title></episode>
+<episode num="82">
+<title gid="2760244531" lang="JA">maru-chan o-tomari ni iku</title></episode>
+<episode num="83">
+<title gid="1944707865" lang="JA">maru-chan RAJIO taisou ga IYA de shikatanai</title></episode>
+<episode num="84">
+<title gid="1213877394" lang="JA">maruko futago ga urayamashii</title></episode>
+<episode num="85">
+<title part="A" gid="2283743166" lang="JA">maruko jinja no oosouji wo suru</title>
+<title part="B" gid="2199757370" lang="JA">maruko natsuyasumi no o-tenki shirabe wo wasureru</title></episode>
+<episode num="86">
+<title gid="1173133629" lang="JA">maruko minami no shima no omiyage bunpai ni komaru</title></episode>
+<episode num="87">
+<title gid="1249067812" lang="JA">maruko wa majito UWASA ni naru</title></episode>
+<episode num="88">
+<title gid="2573497964" lang="JA">ojii-chan no sekai isshuu</title></episode>
+<episode num="89">
+<title gid="1882307757" lang="JA">maruko yuuenchi e iku</title></episode>
+<episode num="90">
+<title gid="3167015249" lang="JA">kateinai KARUCHAA kyoushitsu</title></episode>
+<episode num="91">
+<title gid="1593167352" lang="JA">maru-chan shakaika kengaku ni iku</title></episode>
+<episode num="92">
+<title part="A" gid="1217423798" lang="JA">maruko matsutake wo taberu</title>
+<title part="B" gid="2349220246" lang="JA">maruko awa furo ni akogareru</title></episode>
+<episode num="93">
+<title gid="2790523603" lang="JA">o-tanoshimi kyuushokukai</title></episode>
+<episode num="94">
+<title gid="514219206" lang="JA">yuukaihan ni ki wo tsukero</title></episode>
+<episode num="95">
+<title gid="1995780162" lang="JA">otou-san 8 MIRIKAMERA wo karitekuru</title></episode>
+<episode num="96">
+<title part="A" gid="1920556133" lang="EN">Maruko rides in the festival</title>
+<title part="B" gid="3175412947" lang="EN">Boys-Girls</title></episode>
+<episode num="97">
+<title gid="2040557414" lang="JA">maruko minna ni bakanisareru</title></episode>
+<episode num="98">
+<title gid="3287145162" lang="JA">maruko mikan kari ni iku</title></episode>
+<episode num="99">
+<title gid="1110435694" lang="EN">Buzzer of school!</title></episode>
+<episode num="100">
+<title gid="3111654845" lang="JA">hanawatei tsui ni koukai</title></episode>
+<episode num="101">
+<title gid="2881284750" lang="JA">hanawa KUN chini kita yuujin kaeru</title></episode>
+<episode num="102">
+<title gid="2928455749" lang="JA">kateinai KURISUMASU</title></episode>
+<episode num="103">
+<title part="A" gid="3793874512" lang="JA">jikasei sentakusekken</title>
+<title part="B" gid="3204266396" lang="JA">okaa-san ayu no kanro ni wo tsukuru</title></episode>
+<episode num="104">
+<title part="A" gid="2666980418" lang="JA">maruko takoage wo suru</title>
+<title part="B" gid="2870650358" lang="JA">maruko nanakusa ga yuga tabetai</title></episode>
+<episode num="105">
+<title part="A" gid="2056501168" lang="JA">maruko no chokin tsuuchou</title>
+<title part="B" gid="2328794482" lang="JA">maruko ami mono wo suru</title></episode>
+<episode num="106">
+<title gid="1441229563" lang="JA">maruko yu tanpo wo hoshigaru</title></episode>
+<episode num="107">
+<title gid="1968553112" lang="EN">School Skating Competition</title></episode>
+<episode num="108">
+<title part="A" gid="1989157751" lang="JA">machi ni hebiya ga yatte kita</title>
+<title part="B" gid="2552654605" lang="JA">maruko amazake bakari nomu</title></episode>
+<episode num="109">
+<title gid="3960695736" lang="JA">midori-chan no BARENTAINDEE</title></episode>
+<episode num="110">
+<title part="A" gid="2865631394" lang="JA">maruko hoshi no suna ga hoshii</title>
+<title part="B" gid="3134844191" lang="JA">maruko suzume no esazuke wo suru</title></episode>
+<episode num="111">
+<title gid="3397825822" lang="JA">miyako onee-chan no akachan</title></episode>
+<episode num="112">
+<title gid="3421647147" lang="JA">sensei no ie ni asobi ni ikou</title></episode>
+<episode num="113">
+<title gid="1331825232" lang="JA">maruko NORA inu ni oi kakerareru</title></episode>
+<episode num="114">
+<title part="A" gid="2711434788" lang="JA">maruo-kun to hanawa-kun</title>
+<title part="B" gid="970924324" lang="JA">wagaya ni shiro ARI ga !</title></episode>
+<episode num="115">
+<title part="A" gid="2741715840" lang="JA">maruko koi no houryuu ni sanka suru</title>
+<title part="B" gid="2276804938" lang="JA">kafunshou soudou</title></episode>
+<episode num="116">
+<title gid="620775969" lang="JA">nagasawa-kun no ie , kaji ni naru</title></episode>
+<episode num="117">
+<title gid="3057039679" lang="JA">nagasawa-kun chi no kaji mimai</title></episode>
+<episode num="118">
+<title gid="2459796776" lang="JA">maruko fukou no tegami wo morau</title></episode>
+<episode num="119">
+<title part="A" gid="3251488795" lang="JA">NOUTO wa kirei ni !</title>
+<title part="B" gid="2672000829" lang="JA">BONYARI maruko</title></episode>
+<episode num="120">
+<title gid="2714435369" lang="JA">maruko o-cha no aji ni urusai</title></episode>
+<episode num="121">
+<title gid="3047119873" lang="JA">maruko fureai no hitoritabi</title></episode>
+<episode num="122">
+<title part="A" gid="2329625721" lang="JA">TSUBAME yo koi koi</title>
+<title part="B" gid="1972777731" lang="JA">KURASU no o-tanjoubi kai</title></episode>
+<episode num="123">
+<title part="A" gid="2734185297" lang="EN">Sparrow is coming..!</title>
+<title part="B" gid="1141302066" lang="EN">Class Birth Association</title>
+<title gid="3340223003" lang="JA">doubutsuen no shasei taikai</title></episode>
+<episode num="124">
+<title part="A" gid="3589889077" lang="JA">shakkuri ga tomaranai</title>
+<title part="B" gid="2598588900" lang="JA">otou-san hokkaidou e iku</title></episode>
+<episode num="125">
+<title gid="1037763420" lang="JA">YOcchan no kanojo</title></episode>
+<episode num="126">
+<title gid="798115116" lang="JA">shokuyou GAERU de oosawagi</title></episode>
+<episode num="127">
+<title part="A" gid="893154665" lang="JA">FUTA ga hirakanai</title>
+<title part="B" gid="236285840" lang="JA">maruko sunadokei ga hoshii</title></episode>
+<episode num="128">
+<title gid="1027524978" lang="JA">maruko dai PANIKKU</title></episode>
+<episode num="129">
+<title gid="2402483466" lang="JA">ureshii ochuugen</title></episode>
+<episode num="130">
+<title gid="3549987062" lang="JA">shoutengai no tanabata matsuri</title></episode>
+<episode num="131">
+<title gid="2091508494" lang="JA">maruko BAAGEN no koukoku ni tsurareru</title></episode>
+<episode num="132">
+<title gid="2537361293" lang="JA">ashita kara natsuyasumi</title></episode>
+<episode num="133">
+<title gid="318941508" lang="JA">kingyo sukui ni jounetsu wo</title></episode>
+<episode num="134">
+<title gid="1554290024" lang="JA">natsuyasumi no toukou hi</title></episode>
+<episode num="135">
+<title gid="3552775953" lang="JA">maruko kaisuiyoku ni iku</title></episode>
+<episode num="136">
+<title gid="1550842690" lang="JA">ka ga urusai</title></episode>
+<episode num="137">
+<title gid="2486860072" lang="JA">tomoegawa no hanabi taikai</title></episode>
+<episode num="138">
+<title gid="2309053805" lang="JA">maruko GOKIBURI wo kowagaru</title></episode>
+<episode num="139">
+<title gid="3606279421" lang="JA">maruko hanawa-KUN ni eikaiwa wo narau</title></episode>
+<episode num="140">
+<title gid="1940367365" lang="JA">maruko tsuri ni iku</title></episode>
+<episode num="141">
+<title gid="2808331247" lang="JA">hanawa-kun ni koibito ga !</title></episode>
+<episode num="142">
+<title gid="2297124744" lang="JA">sakura ie no o-tsukimi</title></episode>
+<news datetime="2005-09-23T17:39:30Z" href="http://www.animenewsnetwork.com/news/2005-09-23/tv-asahi-top-100-anime">TV Asahi Top 100 Anime</news>
+<news datetime="2005-09-23T20:38:14Z" href="http://www.animenewsnetwork.com/news/2005-09-23/tv-asahi-top-100-anime-part-2">TV Asahi Top 100 Anime Part 2</news>
+<news datetime="2006-10-12T21:45:00Z" href="http://www.animenewsnetwork.com/news/2006-10-13/japans-favorite-tv-anime">Japan's Favorite TV Anime</news>
+<news datetime="2007-04-19T16:02:01Z" href="http://www.animenewsnetwork.com/news/2007-04-19/japanese-anime-tv-ranking-april-9-15">Japanese Anime TV Ranking, April 9-15</news>
+<news datetime="2007-04-27T09:48:36Z" href="http://www.animenewsnetwork.com/news/2007-04-27/japanese-anime-tv-ranking-april-16-22">Japanese Anime TV Ranking, April 16-22</news>
+<news datetime="2007-05-08T12:46:21Z" href="http://www.animenewsnetwork.com/news/2007-05-08/japanese-anime-tv-ranking-april-23-29">Japanese Anime TV Ranking, April 23-29</news>
+<news datetime="2007-05-24T20:29:15Z" href="http://www.animenewsnetwork.com/news/2007-05-24/japanese-anime-tv-ranking-april-30-may-20">Japanese Anime TV Ranking: April 30-May 20</news>
+<news datetime="2007-06-08T19:40:58Z" href="http://www.animenewsnetwork.com/news/2007-06-08/japanese-anime-tv-ranking-may-28-june-3">Japanese Anime TV Ranking: May 28-June 3</news>
+<news datetime="2007-06-16T22:40:20Z" href="http://www.animenewsnetwork.com/news/2007-06-16/chibi-maruko-chan-manga-returns-as-newspaper-strip">&lt;cite&gt;Chibi Maruko-chan&lt;/cite&gt; Manga to Return as Newspaper Strip</news>
+<news datetime="2007-06-18T15:00:18Z" href="http://www.animenewsnetwork.com/news/2007-06-18/japanese-anime-tv-ranking-june-4-10">Japanese Anime TV Ranking: June 4–10</news>
+<news datetime="2007-07-16T18:50:23Z" href="http://www.animenewsnetwork.com/news/2007-07-16/stranger-yes-pre-cure-5-movie-trailers-posted-online">&lt;cite&gt;Stranger&lt;/cite&gt;, &lt;cite&gt;Yes! Pre-Cure 5&lt;/cite&gt; Movie Trailers Posted Online</news>
+<news datetime="2007-08-29T22:17:26Z" href="http://www.animenewsnetwork.com/news/2007-08-29/sazae-san-is-last-tv-anime-using-cels-not-computers">&lt;cite&gt;Sazae-san&lt;/cite&gt; is Last TV Anime Using Cels, Not Computers</news>
+<news datetime="2007-11-30T12:30:24Z" href="http://www.animenewsnetwork.com/news/2007-11-30/japanese-anime-tv-ranking-september-17-november-25">Japanese Anime TV Ranking: September 17–November 25</news>
+<news datetime="2007-12-07T10:02:51Z" href="http://www.animenewsnetwork.com/news/2007-12-07/japanese-anime-tv-ranking-november-26-december-2">Japanese Anime TV Ranking: November 26–December 2</news>
+<news datetime="2007-12-14T22:53:50Z" href="http://www.animenewsnetwork.com/news/2007-12-14/japanese-anime-tv-ranking-december-3-9">Japanese Anime TV Ranking: December 3–9</news>
+<news datetime="2007-12-19T19:27:50Z" href="http://www.animenewsnetwork.com/news/2007-12-19/31st-japan-academy-prize-nominees-announced">31st Japan Academy Prize Nominees Announced</news>
+<news datetime="2007-12-21T06:37:59Z" href="http://www.animenewsnetwork.com/news/2007-12-21/japanese-anime-tv-ranking-december-10-16">Japanese Anime TV Ranking: December 10–16</news>
+<news datetime="2007-12-30T11:55:14Z" href="http://www.animenewsnetwork.com/news/2007-12-30/japanese-anime-tv-ranking-december-17-23">Japanese Anime TV Ranking: December 17–23</news>
+<news datetime="2008-01-22T06:10:53Z" href="http://www.animenewsnetwork.com/news/2008-01-22/japanese-anime-tv-ranking-december-31-january-13">Japanese Anime TV Ranking: December 31–January 13</news>
+<news datetime="2008-02-01T21:07:05Z" href="http://www.animenewsnetwork.com/news/2008-02-01/japanese-anime-tv-ranking-january-14-27">Japanese Anime TV Ranking: January 14–27</news>
+<news datetime="2008-02-09T21:28:20Z" href="http://www.animenewsnetwork.com/news/2008-02-09/japanese-anime-tv-ranking-january-28-february-3">Japanese Anime TV Ranking: January 28–February 3</news>
+<news datetime="2008-02-18T04:58:00Z" href="http://www.animenewsnetwork.com/news/2008-02-17/japanese-anime-tv-ranking-february-4-10">Japanese Anime TV Ranking: February 4–10</news>
+<news datetime="2008-02-20T06:30:54Z" href="http://www.animenewsnetwork.com/news/2008-02-20/japanese-anime-tv-ranking-february-11-17">Japanese Anime TV Ranking: February 11–17</news>
+<news datetime="2008-03-01T13:13:06Z" href="http://www.animenewsnetwork.com/news/2008-03-01/japanese-anime-tv-ranking-february-18-25">Japanese Anime TV Ranking: February 18–25</news>
+<news datetime="2008-03-08T06:00:00Z" href="http://www.animenewsnetwork.com/news/2008-03-08/japanese-anime-tv-ranking-february-25-march-2">Japanese Anime TV Ranking: February 25–March 2</news>
+<news datetime="2008-03-23T07:47:42Z" href="http://www.animenewsnetwork.com/news/2008-03-23/japanese-anime-tv-ranking-march-10-16">Japanese Anime TV Ranking: March 10–16</news>
+<news datetime="2008-04-14T20:23:57Z" href="http://www.animenewsnetwork.com/news/2008-04-14/japanese-anime-tv-ranking-march-17-23-conan-rises">Japanese Anime TV Ranking, March 17–23: &lt;cite&gt;Conan&lt;/cite&gt; Rises</news>
+<news datetime="2008-04-16T18:03:39Z" href="http://www.animenewsnetwork.com/news/2008-04-16/japanese-anime-tv-ranking-march-24-30-seasonal-break">Japanese Anime TV Ranking, March 24–30: Seasonal Break</news>
+<news datetime="2008-04-18T20:08:10Z" href="http://www.animenewsnetwork.com/news/2008-04-18/japanese-anime-tv-ranking-march-31-april-6">Japanese Anime TV Ranking, March 31–April 6</news>
+<news datetime="2008-04-22T15:33:41Z" href="http://www.animenewsnetwork.com/news/2008-04-22/japanese-anime-tv-ranking-april-7-13-blue-dragon">Japanese Anime TV Ranking, April 7–13: &lt;cite&gt;Blue Dragon&lt;/cite&gt;</news>
+<news datetime="2008-04-25T03:54:37Z" href="http://www.animenewsnetwork.com/news/2008-04-24/japanese-anime-tv-ranking-april-14-20">Japanese Anime TV Ranking, April 14–20</news>
+<news datetime="2008-05-05T19:33:00Z" href="http://www.animenewsnetwork.com/news/2008-05-05/japanese-anime-tv-ranking-april-21-27">Japanese Anime TV Ranking, April 21–27</news>
+<news datetime="2008-05-09T03:28:10Z" href="http://www.animenewsnetwork.com/news/2008-05-08/japanese-anime-tv-ranking-april-28-may-4">Japanese Anime TV Ranking, April 28–May 4</news>
+<news datetime="2008-05-17T18:37:37Z" href="http://www.animenewsnetwork.com/news/2008-05-17/japanese-anime-tv-ranking-may-5-11">Japanese Anime TV Ranking, May 5–11</news>
+<news datetime="2008-05-27T20:15:36Z" href="http://www.animenewsnetwork.com/news/2008-05-27/japanese-anime-tv-ranking-may-12-18">Japanese Anime TV Ranking, May 12–18</news>
+<news datetime="2008-06-02T17:48:35Z" href="http://www.animenewsnetwork.com/news/2008-06-02/japanese-anime-tv-ranking-may-19-25">Japanese Anime TV Ranking, May 19–25</news>
+<news datetime="2008-06-08T03:57:10Z" href="http://www.animenewsnetwork.com/news/2008-06-07/japanese-anime-tv-ranking-may-26-june-1">Japanese Anime TV Ranking, May 26–June 1</news>
+<news datetime="2008-06-15T20:41:53Z" href="http://www.animenewsnetwork.com/news/2008-06-15/japanese-anime-tv-ranking-june-2-8/2">Japanese Anime TV Ranking, June 2–8</news>
+<news datetime="2008-06-23T03:58:00Z" href="http://www.animenewsnetwork.com/news/2008-06-22/japanese-anime-tv-ranking-june-9-15">Japanese Anime TV Ranking, June 9–15</news>
+<news datetime="2008-07-01T11:22:30Z" href="http://www.animenewsnetwork.com/news/2008-07-01/japanese-anime-tv-ranking-june-16-22">Japanese Anime TV Ranking, June 16–22</news>
+<news datetime="2008-07-15T16:51:19Z" href="http://www.animenewsnetwork.com/news/2008-07-15/japanese-anime-tv-ranking-june-23-29">Japanese Anime TV Ranking, June 23–29</news>
+<news datetime="2008-07-17T19:29:31Z" href="http://www.animenewsnetwork.com/news/2008-07-17/japanese-anime-tv-ranking-june-30-july-6">Japanese Anime TV Ranking, June 30–July 6</news>
+<news datetime="2008-07-22T18:22:35Z" href="http://www.animenewsnetwork.com/news/2008-07-22/japanese-anime-tv-ranking-july-7-13">Japanese Anime TV Ranking, July 7–13</news>
+<news datetime="2008-07-30T22:08:22Z" href="http://www.animenewsnetwork.com/news/2008-07-30/japanese-anime-tv-ranking-july-14-20">Japanese Anime TV Ranking, July 14–20</news>
+<news datetime="2008-08-05T16:21:02Z" href="http://www.animenewsnetwork.com/news/2008-08-05/japanese-anime-tv-ranking-july-21-27">Japanese Anime TV Ranking, July 21–27</news>
+<news datetime="2008-08-11T17:44:16Z" href="http://www.animenewsnetwork.com/news/2008-08-11/japanese-anime-tv-ranking-july-28-august-3">Japanese Anime TV Ranking, July 28–August 3</news>
+<news datetime="2008-08-19T03:57:00Z" href="http://www.animenewsnetwork.com/news/2008-08-18/japanese-anime-tv-ranking-august-4-10">Japanese Anime TV Ranking, August 4–10</news>
+<news datetime="2008-08-26T17:38:10Z" href="http://www.animenewsnetwork.com/news/2008-08-26/japanese-anime-tv-ranking-august-11-17">Japanese Anime TV Ranking, August 11–17</news>
+<news datetime="2008-09-03T03:58:00Z" href="http://www.animenewsnetwork.com/news/2008-09-02/japanese-anime-tv-ranking-august-18-24">Japanese Anime TV Ranking, August 18–24</news>
+<news datetime="2008-09-08T03:57:00Z" href="http://www.animenewsnetwork.com/news/2008-09-07/japanese-anime-tv-ranking-august-25-31">Japanese Anime TV Ranking, August 25–31</news>
+<news datetime="2008-09-16T03:56:01Z" href="http://www.animenewsnetwork.com/news/2008-09-15/japanese-anime-tv-ranking-september-1-7">Japanese Anime TV Ranking, September 1–7</news>
+<news datetime="2008-09-22T02:17:35Z" href="http://www.animenewsnetwork.com/news/2008-09-21/japanese-anime-tv-ranking-september-8-14">Japanese Anime TV Ranking, September 8–14</news>
+<news datetime="2008-09-30T03:46:53Z" href="http://www.animenewsnetwork.com/news/2008-09-29/japanese-anime-tv-ranking-september-15-21">Japanese Anime TV Ranking, September 15–21</news>
+<news datetime="2008-10-08T01:50:11Z" href="http://www.animenewsnetwork.com/news/2008-10-07/japanese-anime-tv-ranking-september-22-28">Japanese Anime TV Ranking, September 22–28</news>
+<news datetime="2008-10-13T03:40:46Z" href="http://www.animenewsnetwork.com/news/2008-10-12/japanese-anime-tv-ranking-september-29-october-5">Japanese Anime TV Ranking, September 29-October 5</news>
+<news datetime="2008-10-20T03:57:00Z" href="http://www.animenewsnetwork.com/news/2008-10-19/japanese-anime-tv-ranking-october-6-12">Japanese Anime TV Ranking, October 6-12</news>
+<news datetime="2008-10-24T23:54:37Z" href="http://www.animenewsnetwork.com/news/2008-10-24/japanese-anime-tv-ranking-october-13-19">Japanese Anime TV Ranking, October 13-19</news>
+<news datetime="2008-11-04T01:35:23Z" href="http://www.animenewsnetwork.com/news/2008-11-03/japanese-anime-tv-ranking-october-20-26">Japanese Anime TV Ranking, October 20-26</news>
+<news datetime="2008-11-09T19:54:00Z" href="http://www.animenewsnetwork.com/news/2008-11-09/japanese-anime-tv-ranking-october-27-november-2">Japanese Anime TV Ranking, October 27-November 2</news>
+<news datetime="2008-11-17T01:52:42Z" href="http://www.animenewsnetwork.com/news/2008-11-16/japanese-anime-tv-ranking-november-3-9">Japanese Anime TV Ranking, November 3-9</news>
+<news datetime="2008-11-30T21:18:03Z" href="http://www.animenewsnetwork.com/news/2008-11-30/japanese-anime-tv-ranking-november-17-23">Japanese Anime TV Ranking, November 17-23</news>
+<news datetime="2008-12-08T04:57:00Z" href="http://www.animenewsnetwork.com/news/2008-12-07/japanese-anime-tv-ranking-november-24-30">Japanese Anime TV Ranking, November 24-30</news>
+<news datetime="2008-12-15T04:58:00Z" href="http://www.animenewsnetwork.com/news/2008-12-14/japanese-anime-tv-ranking-december-1-7">Japanese Anime TV Ranking, December 1-7</news>
+<news datetime="2008-12-22T03:08:33Z" href="http://www.animenewsnetwork.com/news/2008-12-21/japanese-anime-tv-ranking-december-8-14">Japanese Anime TV Ranking, December 8-14</news>
+<news datetime="2008-12-30T17:36:05Z" href="http://www.animenewsnetwork.com/news/2008-12-30/japanese-anime-tv-ranking-december-15-21">Japanese Anime TV Ranking, December 15-21</news>
+<news datetime="2009-01-13T04:51:32Z" href="http://www.animenewsnetwork.com/news/2009-01-12/japanese-anime-tv-ranking-december-22-28">Japanese Anime TV Ranking, December 22-28</news>
+<news datetime="2009-01-19T04:57:00Z" href="http://www.animenewsnetwork.com/news/2009-01-18/japanese-anime-tv-ranking-december-29-january-4">Japanese Anime TV Ranking, December 29-January 4</news>
+<news datetime="2009-01-24T03:09:05Z" href="http://www.animenewsnetwork.com/news/2009-01-23/japanese-anime-tv-ranking-january-5-11">Japanese Anime TV Ranking, January 5-11</news>
+<news datetime="2009-02-10T04:57:00Z" href="http://www.animenewsnetwork.com/news/2009-02-09/japanese-anime-tv-ranking-january-19-25">Japanese Anime TV Ranking, January 19-25</news>
+<news datetime="2009-02-16T03:50:20Z" href="http://www.animenewsnetwork.com/news/2009-02-15/japanese-anime-tv-ranking-january-26-february-1">Japanese Anime TV Ranking, January 26-February 1</news>
+<news datetime="2009-03-03T04:11:31Z" href="http://www.animenewsnetwork.com/news/2009-03-02/japanese-anime-tv-ranking-february-2-8">Japanese Anime TV Ranking, February 2-8</news>
+<news datetime="2009-03-17T03:39:12Z" href="http://www.animenewsnetwork.com/news/2009-03-16/japanese-anime-tv-ranking-february-9-15">Japanese Anime TV Ranking, February 9-15</news>
+<news datetime="2009-03-21T01:47:12Z" href="http://www.animenewsnetwork.com/news/2009-03-20/japanese-anime-tv-ranking-february-16-22">Japanese Anime TV Ranking, February 16-22</news>
+<news datetime="2009-03-23T03:58:00Z" href="http://www.animenewsnetwork.com/news/2009-03-22/japanese-anime-tv-ranking-february-23-march-1">Japanese Anime TV Ranking, February 23-March 1</news>
+<news datetime="2009-03-25T03:57:00Z" href="http://www.animenewsnetwork.com/news/2009-03-24/japanese-anime-tv-ranking-march-2-8">Japanese Anime TV Ranking, March 2-8</news>
+<news datetime="2009-03-29T18:25:23Z" href="http://www.animenewsnetwork.com/news/2009-03-29/japanese-anime-tv-ranking-march-9-15">Japanese Anime TV Ranking, March 9-15</news>
+<news datetime="2009-03-30T03:37:47Z" href="http://www.animenewsnetwork.com/news/2009-03-29/japanese-anime-tv-ranking-march-16-22">Japanese Anime TV Ranking, March 16-22</news>
+<news datetime="2009-04-07T03:57:00Z" href="http://www.animenewsnetwork.com/news/2009-04-06/japanese-anime-tv-ranking-march-23-29">Japanese Anime TV Ranking, March 23-29</news>
+<news datetime="2009-04-14T03:36:32Z" href="http://www.animenewsnetwork.com/news/2009-04-13/japanese-anime-tv-ranking-march-30-april-5">Japanese Anime TV Ranking, March 30-April 5</news>
+<news datetime="2009-04-16T19:39:45Z" href="http://www.animenewsnetwork.com/news/2009-04-16/japanese-anime-tv-ranking-april-6-12">Japanese Anime TV Ranking, April 6-12</news>
+<news datetime="2009-04-22T10:17:02Z" href="http://www.animenewsnetwork.com/news/2009-04-22/japanese-anime-tv-ranking-april-13-19">Japanese Anime TV Ranking, April 13-19</news>
+<news datetime="2009-05-01T01:50:37Z" href="http://www.animenewsnetwork.com/news/2009-04-30/japanese-anime-tv-ranking-april-20-26">Japanese Anime TV Ranking, April 20-26</news>
+<news datetime="2009-05-12T20:39:46Z" href="http://www.animenewsnetwork.com/news/2009-05-12/japanese-anime-tv-ranking-april-27-may-3">Japanese Anime TV Ranking, April 27-May 3</news>
+<news datetime="2009-06-08T03:57:00Z" href="http://www.animenewsnetwork.com/news/2009-06-07/japanese-anime-tv-ranking-may-4-10">Japanese Anime TV Ranking, May 4-10</news>
+<news datetime="2009-06-21T03:57:00Z" href="http://www.animenewsnetwork.com/news/2009-06-20/japanese-anime-tv-ranking-may-11-17">Japanese Anime TV Ranking, May 11-17</news>
+<news datetime="2009-06-22T03:57:00Z" href="http://www.animenewsnetwork.com/news/2009-06-21/japanese-anime-tv-ranking-may-18-24">Japanese Anime TV Ranking, May 18-24</news>
+<news datetime="2009-06-23T01:17:05Z" href="http://www.animenewsnetwork.com/news/2009-06-22/japanese-anime-tv-ranking-may-25-31">Japanese Anime TV Ranking, May 25-31</news>
+<news datetime="2009-06-28T18:54:13Z" href="http://www.animenewsnetwork.com/news/2009-06-28/japanese-anime-tv-ranking-june-1-7">Japanese Anime TV Ranking, June 1-7</news>
+<news datetime="2009-07-07T03:57:00Z" href="http://www.animenewsnetwork.com/news/2009-07-06/japanese-anime-tv-ranking-june-8-14">Japanese Anime TV Ranking, June 8-14</news>
+<news datetime="2009-07-10T03:57:00Z" href="http://www.animenewsnetwork.com/news/2009-07-09/japanese-anime-tv-ranking-june-15-21">Japanese Anime TV Ranking, June 15-21</news>
+<news datetime="2009-07-11T03:57:00Z" href="http://www.animenewsnetwork.com/news/2009-07-10/japan-animation-tv-ranking-june-22-28">Japan's Animation TV Ranking, June 22-28</news>
+<news datetime="2009-07-14T01:58:40Z" href="http://www.animenewsnetwork.com/news/2009-07-13/japan-animation-tv-ranking-june-29-july-5">Japan's Animation TV Ranking, June 29-July 5</news>
+<news datetime="2009-07-15T17:14:02Z" href="http://www.animenewsnetwork.com/news/2009-07-15/japan-animation-tv-ranking-july-6-12">Japan's Animation TV Ranking, July 6-12</news>
+<news datetime="2009-08-08T19:17:29Z" href="http://www.animenewsnetwork.com/news/2009-08-08/japan-animation-tv-ranking-july-13-19">Japan's Animation TV Ranking, July 13-19</news>
+<news datetime="2009-08-25T03:57:00Z" href="http://www.animenewsnetwork.com/news/2009-08-24/japan-animation-tv-ranking-july-27-august-2">Japan's Animation TV Ranking, July 27-August 2</news>
+<news datetime="2009-08-30T03:57:00Z" href="http://www.animenewsnetwork.com/news/2009-08-29/japan-animation-tv-ranking-august-3-9">Japan's Animation TV Ranking, August 3-9</news>
+<news datetime="2009-09-03T03:48:47Z" href="http://www.animenewsnetwork.com/news/2009-09-02/japan-animation-tv-ranking-august-10-16">Japan's Animation TV Ranking, August 10-16</news>
+<news datetime="2009-09-07T17:01:15Z" href="http://www.animenewsnetwork.com/news/2009-09-07/japan-animation-tv-ranking-august-17-23">Japan's Animation TV Ranking, August 17-23</news>
+<news datetime="2009-09-08T00:52:16Z" href="http://www.animenewsnetwork.com/news/2009-09-07/japan-animation-tv-ranking-august-24-30">Japan's Animation TV Ranking, August 24-30</news>
+<news datetime="2009-09-15T02:59:13Z" href="http://www.animenewsnetwork.com/news/2009-09-14/japan-animation-tv-ranking-august-31-september-6">Japan's Animation TV Ranking, August 31-September 6</news>
+<news datetime="2009-09-20T01:31:14Z" href="http://www.animenewsnetwork.com/news/2009-09-19/japan-animation-tv-ranking-september-7-13">Japan's Animation TV Ranking, September 7-13</news>
+<news datetime="2009-10-02T03:48:26Z" href="http://www.animenewsnetwork.com/news/2009-10-01/japan-animation-tv-ranking-september-14-20">Japan's Animation TV Ranking, September 14-20</news>
+<news datetime="2009-10-05T03:57:00Z" href="http://www.animenewsnetwork.com/news/2009-10-04/japan-animation-tv-ranking-september-21-27">Japan's Animation TV Ranking, September 21-27</news>
+<news datetime="2009-10-13T03:57:00Z" href="http://www.animenewsnetwork.com/news/2009-10-12/japan-animation-tv-ranking-september-28-october-4">Japan's Animation TV Ranking, September 28-October 4</news>
+<news datetime="2009-10-17T18:12:38Z" href="http://www.animenewsnetwork.com/news/2009-10-17/japan-animation-tv-ranking-october-5-11">Japan's Animation TV Ranking, October 5-11</news>
+<news datetime="2009-10-27T03:57:00Z" href="http://www.animenewsnetwork.com/news/2009-10-26/japan-animation-tv-ranking-october-12-18">Japan's Animation TV Ranking, October 12-18</news>
+<news datetime="2009-11-04T00:12:32Z" href="http://www.animenewsnetwork.com/news/2009-11-03/japan-animation-tv-ranking-october-19-25">Japan's Animation TV Ranking, October 19-25</news>
+<news datetime="2009-11-16T04:57:00Z" href="http://www.animenewsnetwork.com/news/2009-11-15/japan-animation-tv-ranking-november-2-8">Japan's Animation TV Ranking, November 2-8</news>
+<news datetime="2009-11-18T04:09:21Z" href="http://www.animenewsnetwork.com/news/2009-11-17/japan-animation-tv-ranking-november-9-15">Japan's Animation TV Ranking, November 9-15</news>
+<news datetime="2009-11-30T19:55:50Z" href="http://www.animenewsnetwork.com/news/2009-11-30/japan-animation-tv-ranking-november-16-22">Japan's Animation TV Ranking, November 16-22</news>
+<news datetime="2009-12-11T06:51:43Z" href="http://www.animenewsnetwork.com/news/2009-12-11/japan-animation-tv-ranking-november-23-29">Japan's Animation TV Ranking, November 23-29</news>
+<news datetime="2009-12-24T13:26:15Z" href="http://www.animenewsnetwork.com/news/2009-12-24/japan-animation-tv-ranking-november-30-december-6">Japan's Animation TV Ranking, November 30-December 6</news>
+<news datetime="2009-12-26T04:17:31Z" href="http://www.animenewsnetwork.com/news/2009-12-25/japan-animation-tv-ranking-december-7-13">Japan's Animation TV Ranking, December 7-13</news>
+<news datetime="2009-12-29T02:21:16Z" href="http://www.animenewsnetwork.com/news/2009-12-28/japan-animation-tv-ranking-december-14-20">Japan's Animation TV Ranking, December 14-20</news>
+<news datetime="2010-01-12T04:13:04Z" href="http://www.animenewsnetwork.com/news/2010-01-11/japan-animation-tv-ranking-december-21-27">Japan's Animation TV Ranking, December 21-27</news>
+<news datetime="2010-01-26T21:33:53Z" href="http://www.animenewsnetwork.com/news/2010-01-26/japan-animation-tv-ranking-january-4-10">Japan's Animation TV Ranking, January 4-10</news>
+<news datetime="2010-02-01T04:45:48Z" href="http://www.animenewsnetwork.com/news/2010-01-31/japan-animation-tv-ranking-january-11-17">Japan's Animation TV Ranking, January 11-17</news>
+<news datetime="2010-02-04T04:37:14Z" href="http://www.animenewsnetwork.com/news/2010-02-03/japan-animation-tv-ranking-january-18-24">Japan's Animation TV Ranking, January 18-24</news>
+<news datetime="2010-02-08T19:51:28Z" href="http://www.animenewsnetwork.com/news/2010-02-08/japan-animation-tv-ranking-january-25-31">Japan's Animation TV Ranking, January 25-31</news>
+<news datetime="2010-02-13T18:38:08Z" href="http://www.animenewsnetwork.com/news/2010-02-13/japan-animation-tv-ranking-february-1-7">Japan's Animation TV Ranking, February 1-7</news>
+<news datetime="2010-03-02T02:02:37Z" href="http://www.animenewsnetwork.com/news/2010-03-01/japan-animation-tv-ranking-february-8-14">Japan's Animation TV Ranking, February 8-14</news>
+<news datetime="2010-03-05T01:50:27Z" href="http://www.animenewsnetwork.com/news/2010-03-04/japan-animation-tv-ranking-february-15-21">Japan's Animation TV Ranking, February 15-21</news>
+<news datetime="2010-03-08T18:07:58Z" href="http://www.animenewsnetwork.com/news/2010-03-08/japan-animation-tv-ranking-february-22-28">Japan's Animation TV Ranking, February 22-28</news>
+<news datetime="2010-03-15T19:18:48Z" href="http://www.animenewsnetwork.com/news/2010-03-15/japan-animation-tv-ranking-march-1-7">Japan's Animation TV Ranking, March 1-7</news>
+<news datetime="2010-04-12T09:05:46Z" href="http://www.animenewsnetwork.com/news/2010-04-12/japan-animation-tv-ranking-march-8-14">Japan's Animation TV Ranking, March 8-14</news>
+<news datetime="2010-04-13T18:07:07Z" href="http://www.animenewsnetwork.com/news/2010-04-13/japan-animation-tv-ranking-march-15-21">Japan's Animation TV Ranking, March 15-21</news>
+<news datetime="2010-04-14T13:45:00Z" href="http://www.animenewsnetwork.com/news/2010-04-14/one-piece-anime-sets-record-tv-rating-of-13.8-percent">&lt;cite&gt;One Piece&lt;/cite&gt; Anime Sets Record TV Rating of 13.8%</news>
+<news datetime="2010-04-26T21:50:48Z" href="http://www.animenewsnetwork.com/news/2010-04-26/japan-animation-tv-ranking-march-29-april-4">Japan's Animation TV Ranking, March 29-April 4</news>
+<news datetime="2010-05-04T03:38:08Z" href="http://www.animenewsnetwork.com/news/2010-05-03/japan-animation-tv-ranking-april-5-11">Japan's Animation TV Ranking, April 5-11</news>
+<news datetime="2010-05-04T17:35:08Z" href="http://www.animenewsnetwork.com/news/2010-05-04/japan-animation-tv-ranking-april-12-18">Japan's Animation TV Ranking, April 12-18</news>
+<news datetime="2010-05-10T01:19:48Z" href="http://www.animenewsnetwork.com/news/2010-05-09/japan-animation-tv-ranking-april-19-25">Japan's Animation TV Ranking, April 19-25</news>
+<news datetime="2010-05-16T02:55:36Z" href="http://www.animenewsnetwork.com/news/2010-05-15/japan-animation-tv-ranking-april-26-may-2">Japan's Animation TV Ranking, April 26-May 2</news>
+<news datetime="2010-05-17T10:00:00Z" href="http://www.animenewsnetwork.com/news/2010-05-17/japan-animation-tv-ranking-may-3-9">Japan's Animation TV Ranking, May 3-9</news>
+<news datetime="2010-05-23T13:48:40Z" href="http://www.animenewsnetwork.com/news/2010-05-23/japan-animation-tv-ranking-may-10-16">Japan's Animation TV Ranking, May 10-16</news>
+<news datetime="2010-06-06T17:20:29Z" href="http://www.animenewsnetwork.com/news/2010-06-06/japan-animation-tv-ranking-may-17-23">Japan's Animation TV Ranking, May 17-23</news>
+<news datetime="2010-06-13T03:57:00Z" href="http://www.animenewsnetwork.com/news/2010-06-12/japan-animation-tv-ranking-may-24-30">Japan's Animation TV Ranking, May 24-30</news>
+<news datetime="2010-06-21T22:45:49Z" href="http://www.animenewsnetwork.com/news/2010-06-21/japan-animation-tv-ranking-may-31-june-6">Japan's Animation TV Ranking, May 31-June 6</news>
+<news datetime="2010-06-28T03:57:00Z" href="http://www.animenewsnetwork.com/news/2010-06-27/japan-animation-tv-ranking-june-7-13">Japan's Animation TV Ranking, June 7-13</news>
+<news datetime="2010-07-06T15:36:34Z" href="http://www.animenewsnetwork.com/news/2010-07-06/japan-animation-tv-ranking-june-14-20">Japan's Animation TV Ranking, June 14-20</news>
+<news datetime="2010-07-11T03:45:25Z" href="http://www.animenewsnetwork.com/news/2010-07-10/japan-animation-tv-ranking-june-21-27">Japan's Animation TV Ranking, June 21-27</news>
+<news datetime="2010-07-13T03:57:00Z" href="http://www.animenewsnetwork.com/news/2010-07-12/japan-animation-tv-ranking-june-28-july-5">Japan's Animation TV Ranking, June 28-July 4</news>
+<news datetime="2010-07-19T02:20:21Z" href="http://www.animenewsnetwork.com/news/2010-07-18/japan-animation-tv-ranking-july-5-11">Japan's Animation TV Ranking, July 5-11</news>
+<news datetime="2010-07-28T13:11:49Z" href="http://www.animenewsnetwork.com/news/2010-07-28/japan-animation-tv-ranking-july-12-18">Japan's Animation TV Ranking, July 12-18</news>
+<news datetime="2010-08-16T17:14:20Z" href="http://www.animenewsnetwork.com/news/2010-08-16/japan-animation-tv-ranking-july-26-august-1">Japan's Animation TV Ranking, July 26-August 1</news>
+<news datetime="2010-08-23T03:04:20Z" href="http://www.animenewsnetwork.com/news/2010-08-22/japan-animation-tv-ranking-august-2-8">Japan's Animation TV Ranking, August 2-8</news>
+<news datetime="2010-09-05T22:49:48Z" href="http://www.animenewsnetwork.com/news/2010-09-05/japan-animation-tv-ranking-august-16-22">Japan's Animation TV Ranking, August 16-22</news>
+<news datetime="2010-09-13T00:44:17Z" href="http://www.animenewsnetwork.com/news/2010-09-12/japan-animation-tv-ranking-august-30-september-5">Japan's Animation TV Ranking, August 30-September 5</news>
+<news datetime="2010-09-19T21:58:16Z" href="http://www.animenewsnetwork.com/news/2010-09-19/japan-animation-tv-ranking-september-6-12">Japan's Animation TV Ranking, September 6-12</news>
+<news datetime="2010-10-07T19:56:51Z" href="http://www.animenewsnetwork.com/news/2010-10-07/japan-animation-tv-ranking-september-13-19">Japan's Animation TV Ranking, September 13-19</news>
+<news datetime="2010-10-16T20:38:14Z" href="http://www.animenewsnetwork.com/news/2010-10-16/japan-animation-tv-ranking-september-20-26">Japan's Animation TV Ranking, September 20-26</news>
+<news datetime="2010-10-23T18:05:09Z" href="http://www.animenewsnetwork.com/news/2010-10-23/japan-animation-tv-ranking-september-27-october-3">Japan's Animation TV Ranking, September 27-October 3</news>
+<news datetime="2010-11-02T03:57:00Z" href="http://www.animenewsnetwork.com/news/2010-11-01/japan-animation-tv-ranking-october-4-10">Japan's Animation TV Ranking, October 4-10</news>
+<news datetime="2010-11-06T03:57:00Z" href="http://www.animenewsnetwork.com/news/2010-11-05/japan-animation-tv-ranking-october-11-17">Japan's Animation TV Ranking, October 11-17</news>
+<news datetime="2010-11-08T05:16:26Z" href="http://www.animenewsnetwork.com/news/2010-11-08/japan-animation-tv-ranking-october-18-24">Japan's Animation TV Ranking, October 18-24</news>
+<news datetime="2010-11-09T04:57:00Z" href="http://www.animenewsnetwork.com/news/2010-11-08/japan-animation-tv-ranking-october-25-31">Japan's Animation TV Ranking, October 25-31</news>
+<news datetime="2010-11-21T04:59:00Z" href="http://www.animenewsnetwork.com/news/2010-11-20/japan-animation-tv-ranking-november-8-14">Japan's Animation TV Ranking, November 8-14</news>
+<news datetime="2010-11-28T04:59:00Z" href="http://www.animenewsnetwork.com/news/2010-11-27/japan-animation-tv-ranking-november-15-21">Japan's Animation TV Ranking, November 15-21</news>
+<news datetime="2010-12-06T04:57:00Z" href="http://www.animenewsnetwork.com/news/2010-12-05/japan-animation-tv-ranking-november-22-28">Japan's Animation TV Ranking, November 22-28</news>
+<news datetime="2010-12-08T17:13:00Z" href="http://www.animenewsnetwork.com/news/2010-12-09/showa-monogatari-anime-film-tv-series-to-launch-next-year">&lt;cite&gt;Showa Monogatari&lt;/cite&gt; Anime Film, TV Series to Launch Next Year</news>
+<news datetime="2010-12-12T17:36:13Z" href="http://www.animenewsnetwork.com/news/2010-12-12/japan-animation-tv-ranking-november-29-december-5">Japan's Animation TV Ranking, November 29-December 5</news>
+<news datetime="2010-12-21T03:27:12Z" href="http://www.animenewsnetwork.com/news/2010-12-20/japan-animation-tv-ranking-december-6-12">Japan's Animation TV Ranking, December 6-12</news>
+<news datetime="2010-12-27T04:57:00Z" href="http://www.animenewsnetwork.com/news/2010-12-26/japan-animation-tv-ranking-december-13-19">Japan's Animation TV Ranking, December 13-19</news>
+<news datetime="2011-01-09T04:57:00Z" href="http://www.animenewsnetwork.com/news/2011-01-08/japan-animation-tv-ranking-december-20-26">Japan's Animation TV Ranking, December 20-26</news>
+<news datetime="2011-01-18T04:45:08Z" href="http://www.animenewsnetwork.com/news/2011-01-17/japan-animation-tv-ranking-january-3-9">Japan's Animation TV Ranking, January 3-9</news>
+<news datetime="2011-01-24T04:57:00Z" href="http://www.animenewsnetwork.com/news/2011-01-23/japan-animation-tv-ranking-january-10-16">Japan's Animation TV Ranking, January 10-16</news>
+<news datetime="2011-02-01T03:43:48Z" href="http://www.animenewsnetwork.com/news/2011-01-31/japan-animation-tv-ranking-january-17-23">Japan's Animation TV Ranking, January 17-23</news>
+<news datetime="2011-02-07T04:57:00Z" href="http://www.animenewsnetwork.com/news/2011-02-06/japan-animation-tv-ranking-january-24-30">Japan's Animation TV Ranking, January 24-30</news>
+<news datetime="2011-02-15T04:55:00Z" href="http://www.animenewsnetwork.com/news/2011-02-14/japan-animation-tv-ranking-january-31-february-6">Japan's Animation TV Ranking, January 31-February 6</news>
+<news datetime="2011-02-22T04:36:23Z" href="http://www.animenewsnetwork.com/news/2011-02-21/japan-animation-tv-ranking-february-7-13">Japan's Animation TV Ranking, February 7-13</news>
+<news datetime="2011-03-02T03:23:29Z" href="http://www.animenewsnetwork.com/news/2011-03-01/japan-animation-tv-ranking-february-14-20">Japan's Animation TV Ranking, February 14-20</news>
+<news datetime="2011-03-08T04:17:14Z" href="http://www.animenewsnetwork.com/news/2011-03-07/japan-animation-tv-ranking-february-21-27">Japan's Animation TV Ranking, February 21-27</news>
+<news datetime="2011-03-20T02:12:50Z" href="http://www.animenewsnetwork.com/news/2011-03-19/japan-animation-tv-ranking-february-28-march-6">Japan's Animation TV Ranking, February 28-March 6</news>
+<news datetime="2011-03-29T02:56:56Z" href="http://www.animenewsnetwork.com/news/2011-03-28/japan-animation-tv-ranking-march-14-20">Japan's Animation TV Ranking, March 14-20</news>
+<news datetime="2011-04-08T02:36:32Z" href="http://www.animenewsnetwork.com/news/2011-04-07/japan-animation-tv-ranking-march-21-27">Japan's Animation TV Ranking, March 21-27</news>
+<news datetime="2011-04-15T03:30:00Z" href="http://www.animenewsnetwork.com/news/2011-04-14/japan-animation-tv-ranking-march-28-april-3">Japan's Animation TV Ranking, March 28-April 3</news>
+<news datetime="2011-04-20T02:00:00Z" href="http://www.animenewsnetwork.com/news/2011-04-19/japan-animation-tv-ranking-april-4-10">Japan's Animation TV Ranking, April 4-10</news>
+<news datetime="2011-04-29T03:30:00Z" href="http://www.animenewsnetwork.com/news/2011-04-28/japan-animation-tv-ranking-april-11-17">Japan's Animation TV Ranking, April 11-17</news>
+<news datetime="2011-05-02T23:30:00Z" href="http://www.animenewsnetwork.com/news/2011-05-02/japan-animation-tv-ranking-april-18-24">Japan's Animation TV Ranking, April 18-24</news>
+<news datetime="2011-05-15T03:57:00Z" href="http://www.animenewsnetwork.com/news/2011-05-14/japan-animation-tv-ranking-april-25-may-1">Japan's Animation TV Ranking, April 25-May 1</news>
+<news datetime="2011-05-17T03:00:00Z" href="http://www.animenewsnetwork.com/news/2011-05-16/japan-animation-tv-ranking-may-2-8">Japan's Animation TV Ranking, May 2-8</news>
+<news datetime="2011-05-24T21:30:00Z" href="http://www.animenewsnetwork.com/news/2011-05-24/japan-animation-tv-ranking-may-9-15">Japan's Animation TV Ranking, May 9-15</news>
+<news datetime="2011-06-05T20:00:00Z" href="http://www.animenewsnetwork.com/news/2011-06-05/japan-animation-tv-ranking-may-23-29">Japan's Animation TV Ranking, May 23-29</news>
+<news datetime="2011-06-13T02:45:00Z" href="http://www.animenewsnetwork.com/news/2011-06-12/japan-animation-tv-ranking-may-30-june-5">Japan's Animation TV Ranking, May 30-June 5</news>
+<news datetime="2011-06-19T03:00:00Z" href="http://www.animenewsnetwork.com/news/2011-06-18/japan-animation-tv-ranking-june-6-12">Japan's Animation TV Ranking, June 6-12</news>
+<news datetime="2011-06-27T02:00:00Z" href="http://www.animenewsnetwork.com/news/2011-06-26/japan-animation-tv-ranking-june-13-19">Japan's Animation TV Ranking, June 13-19</news>
+<news datetime="2011-07-08T02:30:00Z" href="http://www.animenewsnetwork.com/news/2011-07-07/japan-animation-tv-ranking-june-20-26">Japan's Animation TV Ranking, June 20-26</news>
+<news datetime="2011-07-11T03:57:00Z" href="http://www.animenewsnetwork.com/news/2011-07-10/japan-animation-tv-ranking-june-27-july-3">Japan's Animation TV Ranking, June 27-July 3</news>
+<news datetime="2011-07-17T03:57:00Z" href="http://www.animenewsnetwork.com/news/2011-07-16/japan-animation-tv-ranking-july-4-10">Japan's Animation TV Ranking, July 4-10</news>
+<news datetime="2011-07-29T00:30:00Z" href="http://www.animenewsnetwork.com/news/2011-07-28/japan-animation-tv-ranking-july-11-17">Japan's Animation TV Ranking, July 11-17</news>
+<news datetime="2011-08-09T03:00:00Z" href="http://www.animenewsnetwork.com/news/2011-08-08/japan-animation-tv-ranking-july-15-31">Japan's Animation TV Ranking, July 15-31</news>
+<news datetime="2011-08-16T02:00:00Z" href="http://www.animenewsnetwork.com/news/2011-08-15/japan-animation-tv-ranking-august-1-7">Japan's Animation TV Ranking, August 1-7</news>
+<news datetime="2011-08-21T23:00:00Z" href="http://www.animenewsnetwork.com/news/2011-08-21/japan-animation-tv-ranking-august-8-14">Japan's Animation TV Ranking, August 8-14</news>
+<news datetime="2011-08-29T02:00:00Z" href="http://www.animenewsnetwork.com/news/2011-08-28/japan-animation-tv-ranking-august-15-21">Japan's Animation TV Ranking, August 15-21</news>
+<news datetime="2011-09-05T02:57:00Z" href="http://www.animenewsnetwork.com/news/2011-09-04/japan-animation-tv-ranking-august-22-28">Japan's Animation TV Ranking, August 22-28</news>
+<news datetime="2011-09-19T03:30:00Z" href="http://www.animenewsnetwork.com/news/2011-09-18/japan-animation-tv-ranking-august-29-september-4">Japan's Animation TV Ranking, August 29-September 4</news>
+<news datetime="2011-09-20T03:57:00Z" href="http://www.animenewsnetwork.com/news/2011-09-19/japan-animation-tv-ranking-september-5-11">Japan's Animation TV Ranking, September 5-11</news>
+<news datetime="2011-10-11T03:57:00Z" href="http://www.animenewsnetwork.com/news/2011-10-10/japan-animation-tv-ranking-september-19-25">Japan's Animation TV Ranking, September 19-25</news>
+<news datetime="2011-10-13T23:46:37Z" href="http://www.animenewsnetwork.com/news/2011-10-13/kami-voice-film-to-have-anime-sequence-by-production-i.g">&lt;cite&gt;Kami Voice&lt;/cite&gt; Film to Have Anime Sequence by Production I.G</news>
+<news datetime="2011-10-14T03:56:52Z" href="http://www.animenewsnetwork.com/news/2011-10-13/japan-animation-tv-ranking-september-26-october-4">Japan's Animation TV Ranking, September 26-October 4</news>
+<news datetime="2011-11-13T23:00:00Z" href="http://www.animenewsnetwork.com/news/2011-11-13/japan-animation-tv-ranking-october-31-november-6">Japan's Animation TV Ranking, October 31-November 6</news>
+<news datetime="2011-12-06T04:10:00Z" href="http://www.animenewsnetwork.com/news/2011-12-05/japan-animation-tv-ranking-november-14-20">Japan's Animation TV Ranking, November 14-20</news>
+<news datetime="2012-01-03T00:00:00Z" href="http://www.animenewsnetwork.com/news/2012-01-02/japan-animation-tv-ranking-november-28-december-4">Japan's Animation TV Ranking, November 28-December 4</news>
+<news datetime="2012-01-09T01:00:00Z" href="http://www.animenewsnetwork.com/news/2012-01-08/japanese-anime-tv-ranking/december-5-11">Japan's Animation TV Ranking, December 5-11</news>
+<news datetime="2012-01-10T00:00:00Z" href="http://www.animenewsnetwork.com/news/2012-01-09/japan-animation-tv-ranking-december-12-18">Japan's Animation TV Ranking, December 12-18</news>
+<news datetime="2012-01-16T00:05:00Z" href="http://www.animenewsnetwork.com/news/2012-01-15/japanese-animation-tv-ranking-december-19-25">Japanese Animation TV Ranking, December 19-25</news>
+<news datetime="2012-01-24T23:00:00Z" href="http://www.animenewsnetwork.com/news/2012-01-24/japanese-animation-tv-ranking-january-9-15">Japanese Animation TV Ranking, January 9-15</news>
+<news datetime="2012-01-29T01:45:00Z" href="http://www.animenewsnetwork.com/news/2012-01-28/japanese-animation-tv-ranking-january-16-22">Japanese Animation TV Ranking, January 16-22</news>
+<news datetime="2012-02-12T03:15:00Z" href="http://www.animenewsnetwork.com/news/2012-02-11/japanese-animation-tv-ranking-january-30-february-5">Japanese Animation TV Ranking, January 30-February 5</news>
+<news datetime="2012-02-27T07:30:00Z" href="http://www.animenewsnetwork.com/news/2012-02-27/japanese-animation-tv-ranking-february-6-12">Japanese Animation TV Ranking, February 6-12</news>
+<news datetime="2012-02-28T22:15:00Z" href="http://www.animenewsnetwork.com/news/2012-02-28/japanese-animation-tv-ranking-february-13-19">Japanese Animation TV Ranking, February 13-19</news>
+<news datetime="2012-03-28T22:00:00Z" href="http://www.animenewsnetwork.com/news/2012-03-28/japanese-animation-tv-ranking-march-12-18">Japanese Animation TV Ranking, March 12-18</news>
+<news datetime="2012-03-29T23:15:00Z" href="http://www.animenewsnetwork.com/news/2012-03-29/japanese-animation-tv-ranking-march-19-25">Japanese Animation TV Ranking, March 19-25</news>
+<news datetime="2012-04-09T22:00:00Z" href="http://www.animenewsnetwork.com/news/2012-04-09/japanese-animation-tv-ranking-march-26-april-1">Japanese Animation TV Ranking, March 26-April 1</news>
+<news datetime="2012-04-23T19:30:00Z" href="http://www.animenewsnetwork.com/news/2012-04-23/japanese-animation-tv-ranking-april-2-8">Japanese Animation TV Ranking, April 2-8</news>
+<news datetime="2012-04-24T17:45:00Z" href="http://www.animenewsnetwork.com/news/2012-04-24/japanese-animation-tv-ranking-april-9-15">Japanese Animation TV Ranking, April 9-15</news>
+<news datetime="2012-05-19T22:00:00Z" href="http://www.animenewsnetwork.com/news/2012-05-19/japanese-animation-tv-ranking-april-16-22">Japanese Animation TV Ranking, April 16-22</news>
+<news datetime="2012-05-21T08:00:00Z" href="http://www.animenewsnetwork.com/news/2012-05-21/japanese-animation-tv-ranking-april-23-29">Japanese Animation TV Ranking, April 23-29</news>
+<news datetime="2012-05-22T23:00:00Z" href="http://www.animenewsnetwork.com/news/2012-05-22/japanese-animation-tv-ranking-april-30-may-6">Japanese Animation TV Ranking, April 30-May 6</news>
+<news datetime="2012-05-27T03:30:00Z" href="http://www.animenewsnetwork.com/news/2012-05-26/japanese-animation-tv-ranking-may-7-13">Japanese Animation TV Ranking, May 7-13</news>
+<news datetime="2012-05-28T23:00:00Z" href="http://www.animenewsnetwork.com/news/2012-05-28/japanese-animation-tv-ranking-may-14-20">Japanese Animation TV Ranking, May 14-20</news>
+<news datetime="2012-06-02T18:00:00Z" href="http://www.animenewsnetwork.com/news/2012-06-02/japanese-animation-tv-ranking-may-21-27">Japanese Animation TV Ranking, May 21-27</news>
+<news datetime="2012-06-10T03:15:00Z" href="http://www.animenewsnetwork.com/news/2012-06-09/japanese-animation-tv-ranking-may-28-june-3">Japanese Animation TV Ranking, May 28-June 3</news>
+<news datetime="2012-06-17T17:45:00Z" href="http://www.animenewsnetwork.com/news/2012-06-17/japan-animation-tv-ranking-june-4-10">Japan's Animation TV Ranking, June 4-10</news>
+<news datetime="2012-06-24T23:00:00Z" href="http://www.animenewsnetwork.com/news/2012-06-24/japan-animation-tv-ranking-june-11-17">Japan's Animation TV Ranking, June 11-17</news>
+<news datetime="2012-07-02T00:15:00Z" href="http://www.animenewsnetwork.com/news/2012-07-01/japan-animation-tv-ranking-june-18-24">Japan's Animation TV Ranking, June 18-24</news>
+<news datetime="2012-07-07T23:00:00Z" href="http://www.animenewsnetwork.com/news/2012-07-07/japan-animation-tv-ranking-june-25-july-1">Japan's Animation TV Ranking, June 25-July 1</news>
+<news datetime="2012-07-23T19:30:00Z" href="http://www.animenewsnetwork.com/news/2012-07-23/japan-animation-tv-ranking-july-2-8">Japan's Animation TV Ranking, July 2-8</news>
+<news datetime="2012-07-24T19:15:00Z" href="http://www.animenewsnetwork.com/news/2012-07-24/japan-animation-tv-ranking-july-9-15">Japan's Animation TV Ranking, July 9-15</news>
+<news datetime="2012-08-06T20:00:00Z" href="http://www.animenewsnetwork.com/news/2012-08-06/japan-animation-tv-ranking-july-23-29">Japan's Animation TV Ranking, July 23-29</news>
+<news datetime="2012-08-20T00:15:00Z" href="http://www.animenewsnetwork.com/news/2012-08-19/japan-animation-tv-ranking-august-6-12">Japan's Animation TV Ranking, August 6-12</news>
+<news datetime="2012-08-27T02:30:00Z" href="http://www.animenewsnetwork.com/news/2012-08-26/japan-animation-tv-ranking-august-13-19">Japan's Animation TV Ranking, August 13-19</news>
+<news datetime="2012-09-02T23:00:00Z" href="http://www.animenewsnetwork.com/news/2012-09-02/japan-animation-tv-ranking-august-20-26">Japan's Animation TV Ranking, August 20-26</news>
+<news datetime="2012-09-10T06:15:00Z" href="http://www.animenewsnetwork.com/news/2012-09-10/japan-animation-tv-ranking-august-27-september-2">Japan's Animation TV Ranking, August 27-September 2</news>
+<news datetime="2012-09-17T17:00:00Z" href="http://www.animenewsnetwork.com/news/2012-09-17/japan-animation-tv-ranking-september-3-9">Japan's Animation TV Ranking, September 3-9</news>
+<news datetime="2012-09-23T23:30:00Z" href="http://www.animenewsnetwork.com/news/2012-09-23/japan-animation-tv-ranking-september-10-16">Japan's Animation TV Ranking, September 10-16</news>
+<news datetime="2012-10-08T21:00:00Z" href="http://www.animenewsnetwork.com/news/2012-10-08/japan-animation-tv-ranking-september-17-23">Japan's Animation TV Ranking, September 17-23</news>
+<news datetime="2012-10-09T21:15:00Z" href="http://www.animenewsnetwork.com/news/2012-10-09/japan-animation-tv-ranking-september-24-30">Japan's Animation TV Ranking, September 24-30</news>
+<news datetime="2012-10-15T23:00:00Z" href="http://www.animenewsnetwork.com/news/2012-10-15/japan-animation-tv-ranking-october-1-7">Japan's Animation TV Ranking, October 1-7</news>
+<news datetime="2012-10-22T02:00:00Z" href="http://www.animenewsnetwork.com/news/2012-10-21/japan-animation-tv-ranking-october-8-14">Japan's Animation TV Ranking, October 8-14</news>
+<news datetime="2012-10-28T22:00:00Z" href="http://www.animenewsnetwork.com/news/2012-10-28/japan-animation-tv-ranking-october-15-21">Japan's Animation TV Ranking, October 15-21</news>
+<news datetime="2012-11-04T22:15:00Z" href="http://www.animenewsnetwork.com/news/2012-11-04/japan-animation-tv-ranking-october-22-28">Japan's Animation TV Ranking, October 22-28</news>
+<news datetime="2012-11-06T00:00:00Z" href="http://www.animenewsnetwork.com/news/2012-11-05/chibi-maruko-chan-ads-warn-elderly-about-fraud">&lt;cite&gt;Chibi Maruko-chan&lt;/cite&gt; Ads Warn Elderly About Fraud</news>
+<news datetime="2012-11-12T02:30:00Z" href="http://www.animenewsnetwork.com/news/2012-11-11/japan-animation-tv-ranking-october-29-november-4">Japan's Animation TV Ranking, October 29-November 4</news>
+<news datetime="2012-11-19T18:00:00Z" href="http://www.animenewsnetwork.com/news/2012-11-19/japan-animation-tv-ranking-november-5-11">Japan's Animation TV Ranking, November 5-11</news>
+<news datetime="2012-11-26T03:30:00Z" href="http://www.animenewsnetwork.com/news/2012-11-25/japan-animation-tv-ranking-november-12-18">Japan's Animation TV Ranking, November 12-18</news>
+<news datetime="2012-12-03T01:30:00Z" href="http://www.animenewsnetwork.com/news/2012-12-02/japan-animation-tv-ranking-november-19-25">Japan's Animation TV Ranking, November 19-25</news>
+<news datetime="2012-12-10T04:00:00Z" href="http://www.animenewsnetwork.com/news/2012-12-09/japan-animation-tv-ranking-november-26-december-2">Japan's Animation TV Ranking, November 26-December 2</news>
+<news datetime="2012-12-17T01:30:00Z" href="http://www.animenewsnetwork.com/news/2012-12-16/japan-animation-tv-ranking-december-3-9">Japan's Animation TV Ranking, December 3-9</news>
+<news datetime="2012-12-31T04:00:00Z" href="http://www.animenewsnetwork.com/news/2012-12-30/japan-animation-tv-ranking-december-17-23">Japan's Animation TV Ranking, December 17-23</news>
+<news datetime="2013-01-14T02:15:00Z" href="http://www.animenewsnetwork.com/news/2013-01-13/japan-animation-tv-ranking-december-24-30">Japan's Animation TV Ranking, December 24-30</news>
+<news datetime="2013-01-16T22:45:00Z" href="http://www.animenewsnetwork.com/news/2013-01-16/japan-animation-tv-ranking-december-31-january-6">Japan's Animation TV Ranking, December 31-January 6</news>
+<news datetime="2013-01-21T02:00:00Z" href="http://www.animenewsnetwork.com/news/2013-01-20/japan-tv-animation-ranking-january-7-13">Japan's TV Animation Ranking, January 7-13</news>
+<news datetime="2013-01-27T22:30:00Z" href="http://www.animenewsnetwork.com/news/2013-01-27/japan-animation-tv-ranking-january-14-20">Japan's Animation TV Ranking, January 14-20</news>
+<news datetime="2013-02-04T00:00:00Z" href="http://www.animenewsnetwork.com/news/2013-02-03/japan-animation-tv-ranking-january-21-27">Japan's Animation TV Ranking, January 21-27</news>
+<news datetime="2013-02-11T03:00:00Z" href="http://www.animenewsnetwork.com/news/2013-02-10/japan-animation-tv-ranking-january-28-february-3">Japan's Animation TV Ranking, January 28-February 3</news>
+<news datetime="2013-02-18T01:00:00Z" href="http://www.animenewsnetwork.com/news/2013-02-17/japan-animation-tv-ranking-february-4-10">Japan's Animation TV Ranking, February 4-10</news>
+<news datetime="2013-02-25T03:00:00Z" href="http://www.animenewsnetwork.com/news/2013-02-24/japan-animation-tv-ranking-february-11-17">Japan's Animation TV Ranking, February 11-17</news>
+<news datetime="2013-03-03T16:00:00Z" href="http://www.animenewsnetwork.com/news/2013-03-03/japan-animation-tv-ranking-february-18-24">Japan's Animation TV Ranking, February 18-24</news>
+<news datetime="2013-03-11T00:30:00Z" href="http://www.animenewsnetwork.com/news/2013-03-10/japan-animation-tv-ranking-february-25-march-3">Japan's Animation TV Ranking, February 25-March 3</news>
+<news datetime="2013-03-18T03:00:00Z" href="http://www.animenewsnetwork.com/news/2013-03-17/japan-animation-tv-ranking-march-4-10">Japan's Animation TV Ranking, March 4-10</news>
+<news datetime="2013-03-24T23:00:00Z" href="http://www.animenewsnetwork.com/news/2013-03-24/japan-animation-tv-ranking-march-11-17">Japan's Animation TV Ranking, March 11-17</news>
+<news datetime="2013-04-01T18:45:00Z" href="http://www.animenewsnetwork.com/news/2013-04-01/japan-animation-tv-ranking-march-18-24">Japan's Animation TV Ranking, March 18-24</news>
+<news datetime="2013-04-07T23:00:00Z" href="http://www.animenewsnetwork.com/news/2013-04-07/japan-animation-tv-ranking-march-25-31">Japan's Animation TV Ranking, March 25-31</news>
+<news datetime="2013-04-22T01:00:00Z" href="http://www.animenewsnetwork.com/news/2013-04-21/japan-animation-tv-ranking-april-8-14">Japan's Animation TV Ranking, April 8-14</news>
+<news datetime="2013-04-29T03:30:00Z" href="http://www.animenewsnetwork.com/news/2013-04-28/japan-animation-tv-ranking-april-15-21">Japan's Animation TV Ranking, April 15-21</news>
+<news datetime="2013-05-05T22:00:00Z" href="http://www.animenewsnetwork.com/news/2013-05-05/japan-animation-tv-ranking-april-22-28">Japan's Animation TV Ranking, April 22-28</news>
+<news datetime="2013-05-12T18:00:00Z" href="http://www.animenewsnetwork.com/news/2013-05-12/japan-animation-tv-ranking-april-29-may-5">Japan's Animation TV Ranking, April 29-May 5</news>
+<news datetime="2013-05-13T03:50:00Z" href="http://www.animenewsnetwork.com/news/2013-05-12/japanese-box-office-may-4-5">Japanese Box Office, May 4-5</news>
+<news datetime="2013-05-20T01:30:00Z" href="http://www.animenewsnetwork.com/news/2013-05-19/japan-animation-tv-ranking-may-6-12">Japan's Animation TV Ranking, May 6-12</news>
+<news datetime="2013-06-02T21:00:00Z" href="http://www.animenewsnetwork.com/news/2013-06-02/japan-animation-tv-ranking-may-13-19">Japan's Animation TV Ranking, May 13-19</news>
+<news datetime="2013-06-04T23:30:00Z" href="http://www.animenewsnetwork.com/news/2013-06-04/japan-animation-tv-ranking-may-20-26">Japan's Animation TV Ranking, May 20-26</news>
+<news datetime="2013-06-10T02:00:00Z" href="http://www.animenewsnetwork.com/news/2013-06-09/japan-animation-tv-ranking-may-27-june-2">Japan's Animation TV Ranking, May 27-June 2</news>
+<news datetime="2013-06-17T04:00:00Z" href="http://www.animenewsnetwork.com/news/2013-06-17/japan-animation-tv-ranking-june-3-9">Japan's Animation TV Ranking, June 3-9</news>
+<news datetime="2013-06-23T22:35:00Z" href="http://www.animenewsnetwork.com/news/2013-06-23/japan-animation-tv-ranking-june-10-16">Japan's Animation TV Ranking, June 10-16</news>
+<news datetime="2013-06-30T21:00:00Z" href="http://www.animenewsnetwork.com/news/2013-06-30/japan-animation-tv-ranking-june-17-23">Japan's Animation TV Ranking, June 17-23</news>
+<news datetime="2013-07-08T03:30:00Z" href="http://www.animenewsnetwork.com/news/2013-07-07/japan-animation-tv-ranking-june-24-30">Japan's Animation TV Ranking, June 24-30</news>
+<news datetime="2013-07-17T00:15:00Z" href="http://www.animenewsnetwork.com/news/2013-07-16/japan-animation-tv-ranking-july-1-7">Japan's Animation TV Ranking, July 1-7</news>
+<news datetime="2013-07-21T23:30:00Z" href="http://www.animenewsnetwork.com/news/2013-07-21/japanese-animation-tv-ranking-june-8-14">Japan's Animation TV Ranking, July 8-14</news>
+<news datetime="2013-07-28T23:45:00Z" href="http://www.animenewsnetwork.com/news/2013-07-28/japan-animation-tv-ranking-july-15-21">Japan's Animation TV Ranking, July 15-21</news>
+<news datetime="2013-08-04T20:00:00Z" href="http://www.animenewsnetwork.com/news/2013-08-04/japan-animation-tv-ranking-july-22-28">Japan's Animation TV Ranking, July 22-28</news>
+<news datetime="2013-08-19T23:15:00Z" href="http://www.animenewsnetwork.com/news/2013-08-19/japan-animation-tv-ranking-august-5-11">Japan's Animation TV Ranking, August 5-11</news>
+<news datetime="2013-08-25T21:30:00Z" href="http://www.animenewsnetwork.com/news/2013-08-25/japan-animation-tv-ranking-august-12-18">Japan's Animation TV Ranking, August 12-18</news>
+<news datetime="2013-09-02T00:30:00Z" href="http://www.animenewsnetwork.com/news/2013-09-01/japan-animation-tv-ranking-august-19-25">Japan's Animation TV Ranking, August 19-25</news>
+<news datetime="2013-09-09T02:00:00Z" href="http://www.animenewsnetwork.com/news/2013-09-08/japan-animation-tv-ranking-august-26-september-1">Japan's Animation TV Ranking, August 26-September 1</news>
+<news datetime="2013-09-17T00:00:00Z" href="http://www.animenewsnetwork.com/news/2013-09-16/japan-animation-tv-ranking-september-2-8">Japan's Animation TV Ranking, September 2-8</news>
+<news datetime="2013-09-23T07:00:00Z" href="http://www.animenewsnetwork.com/news/2013-09-23/japan-animation-tv-ranking-september-9-15">Japan's Animation TV Ranking, September 9-15</news>
+<news datetime="2013-09-30T02:05:00Z" href="http://www.animenewsnetwork.com/news/2013-09-29/japan-animation-tv-ranking-september-16-22">Japan's Animation TV Ranking, September 16-22</news>
+<news datetime="2013-10-07T02:00:00Z" href="http://www.animenewsnetwork.com/news/2013-10-06/japan-animation-tv-ranking-september-23-29">Japan's Animation TV Ranking, September 23-29</news>
+<news datetime="2013-10-13T22:20:00Z" href="http://www.animenewsnetwork.com/news/2013-10-13/japan-animation-tv-ranking-september-30-october-6">Japan's Animation TV Ranking, September 30-October 6</news>
+<news datetime="2013-10-21T02:00:00Z" href="http://www.animenewsnetwork.com/news/2013-10-20/japan-animation-tv-ranking-october-7-13">Japan's Animation TV Ranking, October 7-13</news>
+<news datetime="2013-10-27T21:00:00Z" href="http://www.animenewsnetwork.com/news/2013-10-27/japan-animation-tv-ranking-october-14-20">Japan's Animation TV Ranking, October 14-20</news>
+<news datetime="2013-11-04T02:00:00Z" href="http://www.animenewsnetwork.com/news/2013-11-03/japan-animation-tv-ranking-october-21-27">Japan's Animation TV Ranking, October 21-27</news>
+<news datetime="2013-11-10T20:00:00Z" href="http://www.animenewsnetwork.com/news/2013-11-10/japan-animation-tv-ranking-october-28-november-3">Japan's Animation TV Ranking, October 28-November 3</news>
+<news datetime="2013-11-17T22:00:00Z" href="http://www.animenewsnetwork.com/news/2013-11-17/japan-animation-tv-ranking-november-4-10">Japan's Animation TV Ranking, November 4-10</news>
+<news datetime="2013-11-24T20:00:00Z" href="http://www.animenewsnetwork.com/news/2013-11-24/japan-animation-tv-ranking-november-11-17">Japan's Animation TV Ranking, November 11-17</news>
+<news datetime="2013-12-02T10:25:00Z" href="http://www.animenewsnetwork.com/news/2013-12-02/japan-animation-tv-ranking-november-18-24">Japan's Animation TV Ranking, November 18-24</news>
+<news datetime="2013-12-08T23:00:00Z" href="http://www.animenewsnetwork.com/news/2013-12-08/japan-animation-tv-ranking-november-25-december-1">Japan's Animation TV Ranking, November 25-December 1</news>
+<news datetime="2013-12-16T15:25:00Z" href="http://www.animenewsnetwork.com/news/2013-12-16/japan-animation-tv-ranking-december-2-8">Japan's Animation TV Ranking, December 2-8</news>
+<news datetime="2013-12-23T05:15:00Z" href="http://www.animenewsnetwork.com/news/2013-12-23/japan-animation-tv-ranking-december-9-15">Japan's Animation TV Ranking, December 9-15</news>
+<news datetime="2014-01-03T09:25:00Z" href="http://www.animenewsnetwork.com/news/2014-01-03/2nd-chibi-maruko-chan-theme-song-composer-eiichi-ohtaki-passes-away">2nd &lt;cite&gt;Chibi Maruko-chan&lt;/cite&gt; Theme Song's Composer Eiichi Ōhtaki Passes Away</news>
+<news datetime="2014-01-01T21:30:00Z" href="http://www.animenewsnetwork.com/news/2014-01-01/japan-animation-tv-ranking-december-16-22">Japan's Animation TV Ranking, December 16-22</news>
+<news datetime="2014-01-13T04:30:00Z" href="http://www.animenewsnetwork.com/news/2014-01-12/japan-animation-tv-ranking-december-23-29">Japan's Animation TV Ranking, December 23-29</news>
+<news datetime="2014-01-20T01:00:00Z" href="http://www.animenewsnetwork.com/news/2014-01-19/japan-animation-tv-ranking-december-30-january-5">Japan's Animation TV Ranking, December 30-January 5</news>
+<news datetime="2014-01-20T03:00:00Z" href="http://www.animenewsnetwork.com/news/2014-01-19/japan-animation-tv-ranking-january-6-12">Japan's Animation TV Ranking, January 6-12</news>
+<news datetime="2014-02-02T20:00:00Z" href="http://www.animenewsnetwork.com/news/2014-02-02/japan-animation-tv-ranking-january-20-26">Japan's Animation TV Ranking, January 20-26</news>
+<news datetime="2014-02-09T22:43:50Z" href="http://www.animenewsnetwork.com/news/2014-02-09/japan-animation-tv-ranking-january-27-february-2">Japan's Animation TV Ranking, January 27-February 2</news>
+<news datetime="2014-02-16T22:56:27Z" href="http://www.animenewsnetwork.com/news/2014-02-16/japan-animation-tv-ranking/february-3-9">Japan's Animation TV Ranking: February 3-9</news>
+<news datetime="2014-02-23T21:30:00Z" href="http://www.animenewsnetwork.com/news/2014-02-23/japanese-anime-tv-ranking/february-10-16">Japan's Animation TV Ranking, February 10-16</news>
+<news datetime="2014-03-03T03:30:00Z" href="http://www.animenewsnetwork.com/news/2014-03-02/japanese-anime-tv-ranking/february-17-23">Japan's Animation TV Ranking, February 17-23</news>
+<news datetime="2014-03-10T02:00:00Z" href="http://www.animenewsnetwork.com/news/2014-03-09/japan-animation-tv-ranking/february-24-march-2">Japan's Animation TV Ranking, February 24-March 2</news>
+<news datetime="2014-03-18T16:00:00Z" href="http://www.animenewsnetwork.com/news/2014-03-18/japan-animation-tv-ranking/march-3-9">Japan's Animation TV Ranking, March 3-9</news>
+<news datetime="2014-03-24T02:00:00Z" href="http://www.animenewsnetwork.com/news/2014-03-23/japanese-anime-tv-ranking/march-10-15">Japan's Animation TV Ranking, March 10-15</news>
+<news datetime="2014-04-03T22:30:13Z" href="http://www.animenewsnetwork.com/news/2014-04-03/japan-animation-tv-ranking/march-17-23">Japan's Animation TV Ranking, March 17-23</news>
+<news datetime="2014-04-09T06:30:00Z" href="http://www.animenewsnetwork.com/news/2014-04-09/japan-animation-tv-ranking/march-24-30">Japan's Animation TV Ranking, March 24-30</news>
+<news datetime="2014-04-14T10:00:00Z" href="http://www.animenewsnetwork.com/news/2014-04-14/japan-animation-tv-ranking/march-31-april-6">Japan's Animation TV Ranking, March 31-April 6</news>
+<news datetime="2014-04-20T20:00:00Z" href="http://www.animenewsnetwork.com/news/2014-04-20/japanese-anime-tv-ranking/april-7-13">Japan's Animation TV Ranking, April 7-13</news>
+<news datetime="2014-04-28T08:20:00Z" href="http://www.animenewsnetwork.com/news/2014-04-28/japan-animation-tv-ranking/april-14-20">Japan's Animation TV Ranking, April 14-20</news>
+<news datetime="2014-05-04T23:00:00Z" href="http://www.animenewsnetwork.com/news/2014-05-04/japan-animation-tv-ranking/april-21-27">Japan's Animation TV Ranking, April 21-27</news>
+<news datetime="2014-05-12T16:00:00Z" href="http://www.animenewsnetwork.com/news/2014-05-12/japanese-anime-tv-ranking/april-28-may-4">Japan's Animation TV Ranking, April 28-May 4</news>
+<news datetime="2014-05-19T22:30:19Z" href="http://www.animenewsnetwork.com/news/2014-05-19/japanese-anime-tv-ranking/may-5-11">Japan's Animation TV Ranking, May 5-11</news>
+<news datetime="2014-05-27T00:00:00Z" href="http://www.animenewsnetwork.com:/news/2014-05-27/japan-animation-tv-ranking-may-12-18/.74902">Japan's Animation TV Ranking, May 12-18</news>
+<news datetime="2014-06-02T23:00:27Z" href="http://www.animenewsnetwork.com:/news/2014-06-03/japan-animation-tv-ranking-may-19-25/.75116">Japan's Animation TV Ranking, May 19-25</news>
+<news datetime="2014-06-09T22:30:34Z" href="http://www.animenewsnetwork.com:/news/2014-06-10/japan-animation-tv-ranking-may-26-june-1/.75353">Japan's Animation TV Ranking, May 26-June 1</news>
+<news datetime="2014-06-16T01:00:00Z" href="http://www.animenewsnetwork.com:/news/2014-06-16/japan-animation-tv-ranking-june-2-8/.75599">Japan's Animation TV Ranking, June 2-8</news>
+<news datetime="2014-06-23T20:30:07Z" href="http://www.animenewsnetwork.com:/news/2014-06-24/japan-animation-tv-ranking-june-9-15/.75831">Japan's Animation TV Ranking, June 9-15</news>
+<news datetime="2014-07-02T05:30:00Z" href="http://www.animenewsnetwork.com:/news/2014-07-02/japan-animation-tv-ranking-june-16-22/.76113">Japan's Animation TV Ranking, June 16-22</news>
+<news datetime="2014-07-07T02:45:22Z" href="http://www.animenewsnetwork.com:/news/2014-07-07/japan-animation-tv-ranking-june-23-29/.76378">Japan's Animation TV Ranking, June 23-29</news>
+<news datetime="2014-07-14T21:30:09Z" href="http://www.animenewsnetwork.com:/news/2014-07-15/japan-animation-tv-ranking-june-30-july-6/.76662">Japan's Animation TV Ranking, June 30-July 6</news>
+<news datetime="2014-07-21T06:15:00Z" href="http://www.animenewsnetwork.com:/news/2014-07-21/japan-animation-tv-ranking-july-7-13/.76868">Japan's Animation TV Ranking, July 7-13</news>
+<news datetime="2014-07-28T02:30:21Z" href="http://www.animenewsnetwork.com:/news/2014-07-28/japan-animation-tv-ranking-july-14-20/.77063">Japan's Animation TV Ranking, July 14-20</news>
+<news datetime="2014-08-11T09:45:00Z" href="http://www.animenewsnetwork.com:/news/2014-08-11/japan-animation-tv-ranking-july-28-august-3/.77502">Japan's Animation TV Ranking, July 28-August 3</news>
+<news datetime="2014-08-18T07:30:00Z" href="http://www.animenewsnetwork.com:/news/2014-08-18/japan-animation-tv-ranking-august-4-10/.77713">Japan's Animation TV Ranking, August 4-10</news>
+<news datetime="2014-08-25T02:00:00Z" href="http://www.animenewsnetwork.com:/news/2014-08-25/japan-animation-tv-ranking-august-11-17/.77980">Japan's Animation TV Ranking, August 11-17</news>
+<news datetime="2014-09-01T02:15:00Z" href="http://www.animenewsnetwork.com:/news/2014-08-31/japan-animation-tv-ranking-august-18-24/.78227">Japan's Animation TV Ranking, August 18-24</news>
+<news datetime="2014-09-08T08:00:00Z" href="http://www.animenewsnetwork.com:/news/2014-09-08/japan-animation-tv-ranking-august-26-september-1/.78504">Japan's Animation TV Ranking, August 26-September 1</news>
+<news datetime="2014-09-15T13:45:00Z" href="http://www.animenewsnetwork.com:/news/2014-09-15/japan-animation-tv-ranking-september-1-7/.78781">Japan's Animation TV Ranking, September 1-7</news>
+<news datetime="2014-09-22T20:40:00Z" href="http://www.animenewsnetwork.com:/news/2014-09-22/japan-animation-tv-ranking-september-8-14/.79042">Japan's Animation TV Ranking, September 8-14</news>
+<news datetime="2014-09-29T22:40:00Z" href="http://www.animenewsnetwork.com:/news/2014-09-29/japan-animation-tv-ranking-september-15-21/.79311">Japan's Animation TV Ranking, September 15-21</news>
+<news datetime="2014-10-06T20:40:00Z" href="http://www.animenewsnetwork.com:/news/2014-10-06/japan-animation-tv-ranking-september-22-28/.79601">Japan's Animation TV Ranking, September 22-28</news>
+<news datetime="2014-10-20T22:40:00Z" href="http://www.animenewsnetwork.com:/news/2014-10-20/japan-animation-tv-ranking-october-6-12/.80115">Japan's Animation TV Ranking, October 6-12</news>
+<news datetime="2014-10-28T00:00:00Z" href="http://www.animenewsnetwork.com:/news/2014-10-27/japan-animation-tv-ranking-october-13-19/.80371">Japan's Animation TV Ranking, October 13-19</news>
+<news datetime="2014-11-04T15:00:00Z" href="http://www.animenewsnetwork.com:/news/2014-11-04/japan-animation-tv-ranking-october-20-26/.80590">Japan's Animation TV Ranking, October 20-26</news>
+<news datetime="2014-11-10T08:00:00Z" href="http://www.animenewsnetwork.com:/news/2014-11-10/japan-animation-tv-ranking-october-27-november-2/.80850">Japan's Animation TV Ranking, October 27-November 2</news>
+<news datetime="2014-11-17T09:30:00Z" href="http://www.animenewsnetwork.com:/news/2014-11-17/japan-animation-tv-ranking-november-3-9/.81107">Japan's Animation TV Ranking, November 3-9</news>
+<news datetime="2014-11-25T01:30:00Z" href="http://www.animenewsnetwork.com:/news/2014-11-24/japan-animation-tv-ranking-november-10-16/.81373">Japan's Animation TV Ranking, November 10-16</news>
+<news datetime="2015-08-10T20:20:00Z" href="http://www.animenewsnetwork.com:/news/2015-08-10/bpo-watchdog-group-receives-complaints-about-anime-content/.91512">BPO Watchdog Group Receives Complaints About Anime Content</news>
+<news datetime="2015-08-13T21:40:00Z" href="http://www.animenewsnetwork.com:/news/2015-08-13/japan-animation-tv-ranking-august-3-9/.91639">Japan's Animation TV Ranking, August 3-9</news>
+<news datetime="2015-12-28T19:00:00Z" href="http://www.animenewsnetwork.com:/news/2015-12-28/new-year-kohaku-singing-contest-to-include-special-anime-songs-program/.97015">New Year's Kōhaku Singing Contest to Include Special Anime Songs Program</news>
+<news datetime="2015-12-30T20:10:00Z" href="http://www.animenewsnetwork.com:/news/2015-12-30/chibi-maruko-chan-sazae-san-dr-slump-top-list-of-most-viewed-anime-episodes/.97077">&lt;cite&gt;Chibi Maruko-chan, Sazae-san, Dr. Slump&lt;/cite&gt; Top List of Most-Viewed Anime Episodes</news>
+<news datetime="2016-02-16T07:40:00Z" href="http://www.animenewsnetwork.com:/news/2016-02-16/some-of-the-10th-annual-seiyu-awards-winners-announced/.98739">Some of the 10th Annual Seiyū Awards Winners Announced</news>
+<staff gid="3478198976"><task>Series Director</task><person id="10990">Susumu Ishizaki</person></staff>
+<staff gid="3337547392"><task>Series Director</task><person id="19467">Kazunori Tanahashi</person></staff>
+<staff gid="1157618318"><task>Director</task><person id="2190">Jun Takagi</person></staff>
+<staff gid="2854117173"><task>Director</task><person id="29608">Yumiko Suda</person></staff>
+<staff gid="1475574746"><task>Script</task><person id="430">Mamiko Ikeda</person></staff>
+<staff gid="2875460035"><task>Script</task><person id="4890">Momoko Sakura</person></staff>
+<staff gid="2429327849"><task>Storyboard</task><person id="19089">Ken'ichi Nishida</person></staff>
+<staff gid="690058836"><task>Music</task><person id="17248">Nobuyuki Nakamura</person></staff>
+<staff gid="1639545906"><task>Original creator</task><person id="4890">Momoko Sakura</person></staff>
+<staff gid="2693310597"><task>Character Design</task><person id="21657">Yuuji Shigekuni</person></staff>
+<staff gid="1749850927"><task>Character Design</task><person id="36586">Hideo Kawauchi</person></staff>
+<staff gid="2677644898"><task>Art Director</task><person id="82200">Kanako Nomura</person></staff>
+<staff gid="3474098665"><task>Animation Director</task><person id="18532">Masaya Fujimori</person></staff>
+<staff gid="1018465018"><task>Sound Director</task><person id="44">Yasunori Honda</person></staff>
+<staff gid="2566459129"><task>Executive producer</task><person id="3343">Kôichi Motohashi</person></staff>
+<staff gid="1202360017"><task>Producer</task><person id="4044">Daisuke Kawakami</person></staff>
+<staff gid="2977281327"><task>Producer</task><person id="31441">Matsumi Tanaka</person></staff>
+<cast gid="2331601547" lang="AR"><role>Momoko &quot;Chibi Maruko-chan&quot; Sakura</role><person id="48538">Eman Hail</person></cast>
+<cast gid="1720416545" lang="DE"><role>Momoko &quot;Chibi Maruko-chan&quot; Sakura</role><person id="28918">Tanja Schumann</person></cast>
+<cast gid="842501501" lang="DE"><role>Tama-chan</role><person id="28957">Stephanie Kirchberger</person></cast>
+<cast gid="945968568" lang="DE"><role>Maruo-kun</role><person id="28980">Marc Seidenberg</person></cast>
+<cast gid="1035662108" lang="DE"><role>Sekiguchi-kun</role><person id="28981">Rafi Guessos</person></cast>
+<cast gid="1955368480" lang="DE"><role>Hanawa-kun</role><person id="28984">Oliver Böttcher</person></cast>
+<cast gid="1436768714" lang="EN"><role>Maruko's mother</role><person id="66149">Emily Woo Zeller</person></cast>
+<cast gid="3308723551" lang="EN"><role>Maruko's mother</role><person id="67791">Andrea Kwan</person></cast>
+<cast gid="3191770756" lang="EN"><role>Momoko &quot;Chibi Maruko-chan&quot; Sakura</role><person id="69084">Sarah Hauser</person></cast>
+<cast gid="959846512" lang="EN"><role>Maruko's sister</role><person id="70281">Candice Moore</person></cast>
+<cast gid="3420735220" lang="EN"><role>Narration</role><person id="70285">Russell Wait</person></cast>
+<cast gid="3224346807" lang="JA"><role>Hanawa-kun</role><person id="543">Masami Kikuchi</person></cast>
+<cast gid="3162191478" lang="JA"><role>Maruo-kun</role><person id="666">Nobuo Tobita</person></cast>
+<cast gid="1979129554" lang="JA"><role>Sakiko Sakura</role><person id="1004">Yuko Mizutani</person></cast>
+<cast gid="2618990303" lang="JA"><role>Tama-chan</role><person id="1096">Naoko Watanabe</person></cast>
+<cast gid="3284992715" lang="JA"><role>Hiroshi Sakura</role><person id="1311">Yuusaku Yara</person></cast>
+<cast gid="3085819525" lang="JA"><role>Momoko &quot;Chibi Maruko-chan&quot; Sakura</role><person id="1592">TARAKO</person></cast>
+<cast gid="2871216850" lang="JA"><role>Tomozo Sakura</role><person id="2378">Kei Tomiyama</person></cast>
+<cast gid="3837856287" lang="JA"><role>Migiwa-san</role><person id="2415">Miki Narahashi</person></cast>
+<cast gid="2811949201" lang="JA"><role>Sumire Sakura</role><person id="2418">Mie Suzuki</person></cast>
+<cast gid="897092885" lang="JA"><role>Sekiguchi-kun</role><person id="3241">Kyousei Tsukui</person></cast>
+<cast gid="1216974122" lang="JA"><role>Kotake Sakura</role><person id="7820">Yuko Sasaki</person></cast>
+<cast gid="3221331238" lang="TL"><role>Hiroshi Sakura</role><person id="46219">Jimmy Manato</person></cast>
+<cast gid="2544371119" lang="TL"><role>Momoko &quot;Chibi Maruko-chan&quot; Sakura</role><person id="56874">Jenny Bituin</person></cast>
+<cast gid="2409116660" lang="TL"><role>Hanawa-kun/Kazuhiko Hanawa</role><person id="63032">Don Sanmaniego</person></cast>
+<cast gid="2312935424" lang="TL"><role>Sumire Sakura</role><person id="63036">Gigi Medina</person></cast>
+<cast gid="788392730" lang="TL"><role>Tama-chan/Tamae Honami</role><person id="73970">ayen dangcalan</person></cast>
+<cast gid="2974154874" lang="TL"><role>Sakiko Sakura</role><person id="120565">Maybelle Vendiola Beltran</person></cast>
+<credit gid="2051927268"><task>Production</task><company id="162">Fuji TV</company></credit>
+<credit gid="3104111494"><task>Production</task><company id="272">Nippon Animation</company></credit></anime></ann>

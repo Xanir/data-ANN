@@ -1,0 +1,58 @@
+<ann><anime id="943" gid="2677693625" type="OAV" name="Macross 7 Encore" precision="OAV" generated-on="2016-03-27T03:55:31Z">
+<related-prev rel="part of" id="940"/>
+<related-prev rel="part of" id="5918"/>
+<info gid="2029392107" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A943-24.jpg" width="200" height="189"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A943-24.jpg" width="200" height="189"/><img src="http://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A943-24.jpg" width="500" height="473"/></info>
+<info gid="989209633" type="Main title" lang="EN">Macross 7 Encore</info>
+<info gid="1895199674" type="Alternative title" lang="RU">Макросс 7 На бис</info>
+<info gid="244004725" type="Alternative title" lang="JA">マクロス7　アンコール</info>
+<info gid="546242273" type="Genres">action</info>
+<info gid="100900764" type="Genres">comedy</info>
+<info gid="2036330439" type="Genres">drama</info>
+<info gid="2529096239" type="Genres">science fiction</info>
+<info gid="1366379682" type="Themes">mecha</info>
+<info gid="2526146006" type="Themes">music</info>
+<info gid="1555453893" type="Objectionable content">TA</info>
+<info gid="3397993729" type="Plot Summary">Three unbroadcasted episodes of the &lt;i&gt;Macross 7&lt;/i&gt; series. In &quot;Fleet of the Strongest Women,&quot; the &lt;i&gt;Macross 7&lt;/i&gt; fleet encounters a rogue Meltrandi fleet led by an old rival of Millia. &quot;On Stage&quot; focuses on Ray's past as a fighter pilot, how he first met Basara, and how they formed Fire Bomber. In &quot;Which One Do You Love,&quot; when Millia falls ill, she feels her life expectancy is running short and attempts to have Mylene engaged to Basara.</info>
+<info gid="2428127397" type="Running time">22</info>
+<info gid="713921514" type="Number of episodes">3</info>
+<info gid="1230634964" type="Vintage">1995-12-18</info>
+<info gid="217027871" type="Opening Theme">&quot;Seventh Moon&quot; by Fire Bomber featuring Basara Nekki</info>
+<info gid="2263871834" type="Ending Theme">&quot;・・・だけど ベイビー！！(&lt;i&gt;...Dakedo Baby!!&lt;/i&gt;)&quot; by Chie Kajiura</info>
+<info gid="2668175679" type="Official website" lang="JA" href="http://www.macross.co.jp/">Macross Official Web Site</info>
+<ratings nb_votes="160" weighted_score="6.7584" bayesian_score="6.81585"/>
+<episode num="1">
+<title gid="46737941" lang="EN">Fleet of the Strongest Women</title></episode>
+<episode num="2">
+<title gid="1997946866" lang="EN">On Stage</title></episode>
+<episode num="3">
+<title gid="2211392766" lang="EN">Which One Do You Love?</title></episode>
+<staff gid="2358806845"><task>Director</task><person id="961">Tetsuro Amino</person></staff>
+<staff gid="2249397154"><task>Original creator</task><person id="31">Shoji Kawamori</person></staff>
+<staff gid="185563216"><task>Original Character Design</task><person id="43">Haruhiko Mikimoto</person></staff>
+<staff gid="131967346"><task>Animation Director</task><person id="49858">Kenichirou Katsura</person></staff>
+<staff gid="103047202"><task>Animation Character Design</task><person id="49858">Kenichirou Katsura</person></staff>
+<staff gid="286928991"><task>Mechanical design</task><person id="31">Shoji Kawamori</person></staff>
+<staff gid="119234095"><task>Mechanical design</task><person id="264">Kazutaka Miyatake</person></staff>
+<staff gid="523327126"><task>Mechanical design</task><person id="5090">Meijo Maeda</person></staff>
+<staff gid="3386007366"><task>Mechanical design</task><person id="5091">Munehori Nawa</person></staff>
+<staff gid="1076842795"><task>Mechanical design</task><person id="5092">Hiroshi Ogawa</person></staff>
+<staff gid="3359955577"><task>Co-Director</task><person id="3020">Masami Shimoda</person></staff>
+<staff gid="2837642037"><task>Producer</task><person id="5096">Kaya Ohnishi</person></staff>
+<cast gid="1631874252" lang="JA"><role>Veffidas Feaze</role><person id="304">Urara Takano</person></cast>
+<cast gid="2027938294" lang="JA"><role>Basara Nekki</role><person id="661">Nobutoshi Hayashi</person></cast>
+<cast gid="3384797727" lang="JA"><role>Gamlin Kizaki</role><person id="662">Takehito Koyasu</person></cast>
+<cast gid="2235488410" lang="JA"><role>Chlore</role><person id="720">Kotono Mitsuishi</person></cast>
+<cast gid="313576939" lang="JA"><role>Maximilian Jenius</role><person id="724">Sho Hayami</person></cast>
+<cast gid="745419732" lang="JA"><role>Sally</role><person id="777">Junko Iwao</person></cast>
+<cast gid="2685434391" lang="JA"><role>Miho Miho</role><person id="856">Rio Natsuki</person></cast>
+<cast gid="1788153432" lang="JA"><role>Exsedol Folmo</role><person id="2078">Ryunosuke Ohbayashi</person></cast>
+<cast gid="2584358693" lang="JA"><role>Alice</role><person id="2087">Mari Yokoo</person></cast>
+<cast gid="195597055" lang="JA"><role>Ray Lovelock</role><person id="2326">Masashi Sugawara</person></cast>
+<cast gid="242763902" lang="JA"><role>Mylene Flare Jenius</role><person id="2410">Tomo Sakurai</person></cast>
+<cast gid="380880030" lang="JA"><role>Girl with flowers</role><person id="3127">Akiko Nakagawa</person></cast>
+<cast gid="545796825" lang="JA"><role>Milia Fallyna Jenius</role><person id="4129">Eri Takeda</person></cast>
+<credit gid="3939002959"><task>Production</task><company id="18">Bandai Visual</company></credit>
+<credit gid="3293764391"><task>Production</task><company id="119">Studio Nue</company></credit>
+<credit gid="2800383509"><task>Production</task><company id="314">Big West</company></credit>
+<credit gid="3923411848"><task>Production</task><company id="1017">Shogakukan Productions Co., Ltd.</company></credit>
+<credit gid="1548770189"><task>Production</task><company id="10442">Mainichi Broadcasting System</company></credit></anime></ann>

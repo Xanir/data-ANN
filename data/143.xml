@@ -1,0 +1,86 @@
+<ann><anime id="143" gid="507821197" type="TV" name="Eat-Man" precision="TV" generated-on="2016-03-27T05:28:17Z">
+<related-prev rel="adapted from" id="2453"/>
+<related-next id="144" rel="sequel"/>
+<info gid="2865290176" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A143-53.jpg" width="200" height="200"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A143-53.jpg" width="200" height="200"/><img src="http://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A143-53.jpg" width="240" height="240"/></info>
+<info gid="3211464257" type="Main title" lang="EN">Eat-Man</info>
+<info gid="1856373713" type="Alternative title" lang="JA">イートマン</info>
+<info gid="2425928880" type="Alternative title" lang="ZH-TW">食鐵酷客</info>
+<info gid="1395278576" type="Alternative title" lang="KO">이트 맨</info>
+<info gid="673142548" type="Genres">action</info>
+<info gid="848890304" type="Genres">adventure</info>
+<info gid="3043982667" type="Genres">science fiction</info>
+<info gid="667315516" type="Objectionable content">TA</info>
+<info gid="2622992944" type="Plot Summary">Bolt Crank is the World's Greatest Mercenary, and with good reason. He has the ability to eat any object and, when needed, reproduce it from his right hand. Also in the world of Eat-Man is the Lavion, a flying ship that flies even though it is a destroyed wreck. The ship floats in the sky, and is always where Bolt is.</info>
+<info gid="2648219486" type="Running time">24</info>
+<info gid="830060824" type="Number of episodes">12</info>
+<info gid="3085551043" type="Vintage">1997-01-09 to 1997-03-27</info>
+<info gid="2067275808" type="Opening Theme">&quot;小さな恋のメロディ (&lt;i&gt;Chiisana Koi no Melody&lt;/i&gt;)&quot; by King-Show</info>
+<info gid="1259143855" type="Ending Theme">&quot;Walk This Way&quot; by FIELDS</info>
+<ratings nb_votes="92" weighted_score="6.2365" bayesian_score="6.39577"/>
+<episode num="1">
+<title gid="1101164672" lang="EN">Wall of Glass</title></episode>
+<episode num="2">
+<title gid="2104510366" lang="EN">A Person Falling to Ruins</title></episode>
+<episode num="3">
+<title gid="3409266319" lang="EN">The Promised Room</title></episode>
+<episode num="4">
+<title gid="2080313687" lang="EN">Trade Friends</title></episode>
+<episode num="5">
+<title gid="901018003" lang="EN">Rain, After That</title></episode>
+<episode num="6">
+<title gid="2775191871" lang="EN">The Window of Genes</title></episode>
+<episode num="7">
+<title gid="1697939761" lang="EN">The Graveyard of Temptation</title></episode>
+<episode num="8">
+<title gid="2107690775" lang="EN">Silence of Icicle</title></episode>
+<episode num="9">
+<title gid="3475867780" lang="EN">Aloof Sky</title></episode>
+<episode num="10">
+<title gid="3600662466" lang="EN">Fragment of Dreams</title></episode>
+<episode num="11">
+<title gid="1847681879" lang="EN">Paradise</title></episode>
+<episode num="12">
+<title gid="1926394292" lang="EN">The Endless Tomorrow</title></episode>
+<review href="http://www.animenewsnetwork.com/review/eat-man/vhs-1">Eat-Man VHS 1</review>
+<news datetime="2005-09-23T20:38:14Z" href="http://www.animenewsnetwork.com/news/2005-09-23/tv-asahi-top-100-anime-part-2">TV Asahi Top 100 Anime Part 2</news>
+<staff gid="162436406"><task>Director</task><person id="372">Koichi Mashimo</person></staff>
+<staff gid="3397846596"><task>Series Composition</task><person id="372">Koichi Mashimo</person></staff>
+<staff gid="3641125044"><task>Screenplay</task><person id="372">Koichi Mashimo</person></staff>
+<staff gid="1413652422"><task>Screenplay</task><person id="1295">Akemi Omode</person></staff>
+<staff gid="3469160577"><task>Screenplay</task><person id="1477">Aya Matsui</person></staff>
+<staff gid="3518766554"><task>Screenplay</task><person id="1623">Atsuhiro Tomioka</person></staff>
+<staff gid="3699916359"><task>Storyboard</task><person id="372">Koichi Mashimo</person></staff>
+<staff gid="1435508450"><task>Storyboard</task><person id="374">Tomohiro Hirata</person></staff>
+<staff gid="2771516645"><task>Storyboard</task><person id="1238">Hidehito Ueda</person></staff>
+<staff gid="1869444674"><task>Storyboard</task><person id="2658">Katsuyoshi Yatabe</person></staff>
+<staff gid="1096804051"><task>Storyboard</task><person id="5612">Takaaki Ishiyama</person></staff>
+<staff gid="812169015"><task>Storyboard</task><person id="10960">Katsumi Terahigashi</person></staff>
+<staff gid="1393751790"><task>Storyboard</task><person id="71815">Kazu Yokoda</person></staff>
+<staff gid="1193381794"><task>Episode Director</task><person id="372">Koichi Mashimo</person></staff>
+<staff gid="1244954276"><task>Episode Director</task><person id="11382">Tomio Yamauchi</person></staff>
+<staff gid="2808750923"><task>Episode Director</task><person id="11614">Tetsuya Kobayashi</person></staff>
+<staff gid="2022982339"><task>Episode Director</task><person id="14475">Takeshi Yoshimoto</person></staff>
+<staff gid="2162240140"><task>Episode Director</task><person id="32778">Yoshihiro Oda</person></staff>
+<staff gid="3966640411"><task>Music</task><person id="3914">Yuki Kajiura</person></staff>
+<staff gid="761616934"><task>Music</task><person id="64841">Tomomasa Yoneda</person></staff>
+<staff gid="2385195651"><task>Music</task><person id="89869">Ebby</person></staff>
+<staff gid="1255006216"><task>Original Manga</task><person id="120">Akihito Yoshitomi</person></staff>
+<staff gid="1763180746"><task>Character Design</task><person id="1040">Toshiharu Murata</person></staff>
+<staff gid="1047063503"><task>Character Design</task><person id="6611">Toshiharu Murota</person></staff>
+<staff gid="1942312151"><task>Art Director</task><person id="6615">Tsutomu Ishigaki</person></staff>
+<staff gid="747433434"><task>Animation Director</task><person id="563">Tetsuya Yanagisawa</person></staff>
+<staff gid="598251714"><task>Animation Director</task><person id="6613">Hutoshi Higashide</person></staff>
+<staff gid="2108315513"><task>Animation Director</task><person id="29594">Norio Matsumoto</person></staff>
+<staff gid="542362308"><task>Mecha design</task><person id="2253">Koji Ito</person></staff>
+<staff gid="747908420"><task>Mecha design</task><person id="6612">Koujo Ito</person></staff>
+<staff gid="2280266294"><task>Sound Director</task><person id="12241">Riku Matsukawa</person></staff>
+<staff gid="1777719265"><task>Director of Photography</task><person id="5457">Seiichi Morishita</person></staff>
+<staff gid="2418077411"><task>Producer</task><person id="7618">Atsushi Sugita</person></staff>
+<cast gid="3016722779" lang="ES"><role>Bolt Crank</role><person id="59609">J. Ignacio Latorre</person></cast>
+<cast gid="1955637000" lang="IT"><role>Kyurene</role><person id="25900">Stella Musy</person></cast>
+<cast gid="2761867480" lang="IT"><role>Alesa</role><person id="26376">Francesca Fiorentini</person></cast>
+<cast gid="2129581676" lang="IT"><role>Mitchell</role><person id="52608">Marco De Risi</person></cast>
+<cast gid="3230027213" lang="IT"><role>Bolt Crank</role><person id="53273">Stefano Billi</person></cast>
+<cast gid="930205661" lang="JA"><role>Bolt Crank</role><person id="510">Masashi Ebara</person></cast>
+<credit gid="1603937375"><task>Production</task><company id="2331">Sotsu Eizo</company></credit>
+<credit gid="944867734"><task>Production</task><company id="2988">d-rights</company></credit></anime></ann>

@@ -1,0 +1,409 @@
+<ann><anime id="883" gid="1699597709" type="TV" name="Mobile Suit Gundam Seed" precision="TV" generated-on="2016-03-27T03:43:06Z">
+<related-prev rel="part of" id="4189"/>
+<related-next id="2669" rel="sequel"/>
+<related-next id="2892" rel="adaptation"/>
+<related-next id="3340" rel="spinoff"/>
+<related-next id="3534" rel="side story"/>
+<related-next id="3565" rel="compilation"/>
+<related-next id="8749" rel="related"/>
+<info gid="2506108803" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A883-120.jpg" width="200" height="200"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A883-120.jpg" width="200" height="200"/></info>
+<info gid="1659754880" type="Main title" lang="EN">Mobile Suit Gundam Seed</info>
+<info gid="1605206292" type="Alternative title" lang="EN">Gundam Seed</info>
+<info gid="3987061506" type="Alternative title" lang="JA">Kidō Senshi Gundam Seed</info>
+<info gid="2598551036" type="Alternative title" lang="JA">機動戦士ガンダムSEED　&lt;シード&gt;</info>
+<info gid="2851828963" type="Alternative title" lang="ZH-TW">機動戰士鋼彈SEED</info>
+<info gid="2369781603" type="Genres">action</info>
+<info gid="3730092274" type="Genres">drama</info>
+<info gid="2787332785" type="Genres">science fiction</info>
+<info gid="600890173" type="Themes">mecha</info>
+<info gid="1619869690" type="Themes">military</info>
+<info gid="2076806060" type="Themes">real robot</info>
+<info gid="3011823444" type="Themes">space</info>
+<info gid="2469191603" type="Themes">tragedy</info>
+<info gid="1578817810" type="Themes">war</info>
+<info gid="953753743" type="Objectionable content">TA</info>
+<info gid="3174954803" type="Plot Summary">Heliopolis, a so-called neutral space colony was holding a top-secret weapons research facility, producing Gundams for the Earth Alliance. ZAFT, which is composed of Coordinators (genetically modified/upgraded humans), attacks Heliopolis, stealing 4 out of the Alliance's 5 Gundams. In the battlefield, civilian Kira Yamato stumbles upon the Strike, the last remaining Gundam of the alliance, and is forced to pilot it. In the midst of battle he encounters his best friend, Athrun Zala, as one of the hijackers of the 5 Gundams, who sides with ZAFT. Being a Coordinator, he is the only one who can pilot the Gundam. But Kira is not with ZAFT, even though they're his own kind, nor the Alliance. Since the Alliance is the only place he could turn to at the time, he sides with them. He pilots the Gundam to protect his friends, and to fight his best friend, which pains both of them. It's a war between individual beliefs.</info>
+<info gid="3327076455" type="Running time">half hour</info>
+<info gid="2526412115" type="Number of episodes">50</info>
+<info gid="2427896191" type="Vintage">2002-10-05 to 2003-09-27</info>
+<info gid="1837270641" type="Vintage">2004-04-17 to 2004-10-16 (CN Toonami - Eps 1~26)</info>
+<info gid="2585773345" type="Vintage">2004-09-10 to 2005-08-19 (Canada, YTV - Bionix)</info>
+<info gid="1275691041" type="Vintage">2004-10-23 to 2005-04-15 (CN Late Night - Ep 26~50)</info>
+<info gid="1923031176" type="Vintage">2007-06-05 (Germany - Animax)</info>
+<info gid="2103206173" type="Opening Theme">#1: &quot;Invoke&quot; by T.M. Revolution (eps 1-13)</info>
+<info gid="3679587783" type="Opening Theme">#2: &quot;Moment&quot; by Vivian or Kazuma (eps 14-26)</info>
+<info gid="2254685868" type="Opening Theme">#3: &quot;Believe&quot; by Nami Tamaki (eps 27-40)</info>
+<info gid="2982797054" type="Opening Theme">#4: &quot;Realize&quot; by Nami Tamaki (eps 41-50)</info>
+<info gid="845342953" type="Ending Theme">#1: &quot;Anna ni Isshodattanoni&quot; (あんなに一緒だったのに; Even Though We Were Together So Much) by See-Saw (eps 1-26)</info>
+<info gid="335497240" type="Ending Theme">#2: &quot;Distance&quot; by FictionJunction (HD Remaster eps 27-43)</info>
+<info gid="2360267912" type="Ending Theme">#2: &quot;River&quot; by Tatuya Ishii (eps 27-39)</info>
+<info gid="1698411111" type="Ending Theme">#3: &quot;Find The Way&quot; by Mika Nakashima (eps 40-50)</info>
+<info gid="1030345978" type="Insert song">&quot;Akatsuki no Kuruma&quot; (暁の車) by FictionJunction YUUKA (eps 24,32,40)</info>
+<info gid="2468750869" type="Insert song">&quot;Meteor&quot; (Meteor-ミーティア-) by T.M.Revolution (eps 26,29,35,47)</info>
+<info gid="2843802712" type="Insert song">&quot;Mizu no Akashi&quot; (水の証) by Rie Tanaka (eps 36,41)</info>
+<info gid="1497570311" type="Insert song">&quot;Shizukana Yoru ni&quot; (静かな夜に) by Rie Tanaka (eps 7-9,14)</info>
+<info gid="1421828930" type="Official website" lang="EN" href="http://animaxtv.co.za/shows/gundam-seed">Animax South Africa's Official Gundam Seed Website</info>
+<info gid="1614226504" type="Official website" lang="JA" href="http://www.b-ch.com/contents/gundam_seed/index.html">Bandai Channel's Gundam Seed Site</info>
+<info gid="3305585185" type="Official website" lang="EN" href="http://www.madman.com.au/gundamseed/">Madman's Official Gundam Seed Website</info>
+<info gid="3778105827" type="Official website" lang="JA" href="http://www.gundam-seed.net/">Mobile Suit Gundam SEED</info>
+<ratings nb_votes="3404" weighted_score="7.9686" bayesian_score="7.9669"/>
+<episode num="1">
+<title gid="1671669066" lang="EN">False Peace</title></episode>
+<episode num="2">
+<title gid="1080779955" lang="EN">Its Name is Gundam</title></episode>
+<episode num="3">
+<title gid="3895485695" lang="EN">Collapsing Land</title></episode>
+<episode num="4">
+<title gid="1142063623" lang="EN">Silent Run</title></episode>
+<episode num="5">
+<title gid="1399146858" lang="EN">Phase Shift Down</title></episode>
+<episode num="6">
+<title gid="1491151621" lang="EN">The Vanishing Gundam</title></episode>
+<episode num="7">
+<title gid="2003840277" lang="EN">The Scar of Space</title></episode>
+<episode num="8">
+<title gid="1994872936" lang="EN">The Songstress of the Enemy Forces</title></episode>
+<episode num="9">
+<title gid="1379941814" lang="EN">The Fading Light</title></episode>
+<episode num="10">
+<title gid="2095801336" lang="EN">Crossroads</title></episode>
+<episode num="11">
+<title gid="3095617302" lang="EN">The Awakening Sword</title></episode>
+<episode num="12">
+<title gid="2245320423" lang="EN">Flay's Decision</title></episode>
+<episode num="13">
+<title gid="1697112135" lang="EN">Stars Falling in Space</title></episode>
+<episode num="14">
+<title gid="1862146957" lang="EN">Within Endless Time</title></episode>
+<episode num="15">
+<title gid="3248523767" lang="EN">The Respective Solitudes</title></episode>
+<episode num="16">
+<title gid="2558779641" lang="EN">Burning Clouds of Sand</title></episode>
+<episode num="17">
+<title gid="819906029" lang="EN">Cagalli Returns</title></episode>
+<episode num="18">
+<title gid="1773707553" lang="EN">Payback</title></episode>
+<episode num="19">
+<title gid="2842910350" lang="EN">Fangs of the Enemy</title></episode>
+<episode num="20">
+<title gid="2242103331" lang="EN">On a Calm Day</title></episode>
+<episode num="21">
+<title gid="2383979475" lang="EN">Beyond the Clouds of Sand</title></episode>
+<episode num="22">
+<title gid="3706259912" lang="EN">The Sea Dyed Red</title></episode>
+<episode num="23">
+<title gid="2230337560" lang="EN">Fateful Encounter</title></episode>
+<episode num="24">
+<title gid="1805997166" lang="EN">War for Two</title></episode>
+<episode num="25">
+<title gid="178913798" lang="EN">The Land of Peace</title></episode>
+<episode num="26">
+<title gid="2405785078" lang="EN">Moment</title></episode>
+<episode num="27">
+<title gid="1535705856" lang="EN">Endless Rondo</title></episode>
+<episode num="28">
+<title gid="161504779" lang="EN">Kira</title></episode>
+<episode num="29">
+<title gid="2551612864" lang="EN">The Turning Point</title></episode>
+<episode num="30">
+<title gid="1542248938" lang="EN">Flashing Blades</title></episode>
+<episode num="31">
+<title gid="2154238481" lang="EN">Grieving Skies</title></episode>
+<episode num="32">
+<title gid="2237512316" lang="EN">In the Promise Land</title></episode>
+<episode num="33">
+<title gid="3022677833" lang="EN">The Gathering Darkness</title></episode>
+<episode num="34">
+<title gid="1366422004" lang="EN">Seen and Unseen</title></episode>
+<episode num="35">
+<title gid="212633042" lang="EN">The Descending Sword</title></episode>
+<episode num="36">
+<title gid="1530695360" lang="EN">In the Name of Justice</title></episode>
+<episode num="37">
+<title gid="1457181559" lang="EN">Divine Thunder</title></episode>
+<episode num="38">
+<title gid="2320907610" lang="EN">Decisive Fire</title></episode>
+<episode num="39">
+<title gid="3688690486" lang="EN">Athrun</title></episode>
+<episode num="40">
+<title gid="2286815215" lang="EN">Into the Dawn Skies</title></episode>
+<episode num="41">
+<title gid="695661298" lang="EN">Trembling World</title></episode>
+<episode num="42">
+<title gid="692540816" lang="EN">Lacus Strikes</title></episode>
+<episode num="43">
+<title gid="3812477095" lang="EN">What Stands in the Way</title></episode>
+<episode num="44">
+<title gid="984663150" lang="EN">Spiral of Encounters</title></episode>
+<episode num="45">
+<title gid="668999771" lang="EN">The Opening Door</title></episode>
+<episode num="46">
+<title gid="3294649617" lang="EN">A Place for the Soul</title></episode>
+<episode num="47">
+<title gid="386165390" lang="EN">The Nightmare Reborn</title></episode>
+<episode num="48">
+<title gid="1690649133" lang="EN">Day of Wrath</title></episode>
+<episode num="49">
+<title gid="3985207198" lang="EN">The Final Light</title></episode>
+<episode num="50">
+<title gid="2876723533" lang="EN">To An Endless Future</title></episode>
+<episode num="50.5">
+<title gid="1625976740" lang="EN">&lt;b&gt;[After-Phase]&lt;/b&gt; Between The Stars</title></episode>
+<review href="http://www.animenewsnetwork.com/review/gundam-seed">Gundam SEED</review>
+<release date="2008-01-08" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=10451">Mobile Suit Gundam Seed - DVD Collection 1 - Anime Legends (DVD)</release>
+<release date="2008-03-04" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=10810">Mobile Suit Gundam Seed - DVD Collection 2 - Anime Legends (DVD)</release>
+<release date="2004-08-10" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2878">Mobile Suit Gundam Seed - Grim Reality (DVD 1)</release>
+<release date="2004-08-10" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2879">Mobile Suit Gundam Seed - Grim Reality + Artbox + CD Limited Edition (DVD 1)</release>
+<release date="2004-10-12" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=3099">Mobile Suit Gundam Seed - Unexpected Meetings (DVD 2)</release>
+<release date="2004-10-12" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=3103">Mobile Suit Gundam Seed -  No Retreat (DVD 3)</release>
+<release date="2004-12-14" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=3216">Mobile Suit Gundam Seed - Desert Warfare (DVD 4)</release>
+<release date="2004-12-14" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=3217">Mobile Suit Gundam Seed - Archangel’s Flight (DVD 5)</release>
+<release date="2005-01-04" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=3376">Mobile Suit Gundam Seed -  Momentary Silence (DVD 6)</release>
+<release date="2005-01-04" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=3377">Mobile Suit Gundam Seed - Suspicious Motives (DVD 7)</release>
+<release date="2005-03-22" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=3625">Mobile Suit Gundam Seed - Eternal Crusade (DVD 8)</release>
+<release date="2005-03-22" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=3626">Mobile Suit Gundam Seed - Evolutionary Confli (DVD 9)</release>
+<release date="2005-05-10" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=4068">Mobile Suit Gundam Seed - Days of Destiny (DVD 10)</release>
+<release date="2006-05-09" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=6109">Mobile Suit Gundam Seed (Novel 3)</release>
+<news datetime="2002-10-02T18:56:19Z" href="http://www.animenewsnetwork.com/news/2002-10-02/newtype-no.1-table-of-contents">Newtype #1 Table of Contents</news>
+<news datetime="2003-03-13T19:27:54Z" href="http://www.animenewsnetwork.com/news/2003-03-13/mainichi-condemned-for-implied-sexuality-in-gundam-seed">Mainichi condemned for implied sexuality in Gundam Seed</news>
+<news datetime="2003-08-20T17:20:23Z" href="http://www.animenewsnetwork.com/news/2003-08-20/gundam-seed-compilation-cd">Gundam Seed Compilation CD</news>
+<news datetime="2004-05-12T16:51:51Z" href="http://www.animenewsnetwork.com/news/2004-05-12/animage-awards">Animage Awards</news>
+<news datetime="2005-02-04T17:50:28Z" href="http://www.animenewsnetwork.com/news/2005-02-04/gundam-seed-destiny-theme-to-be-sung-by-15-year-old">Gundam Seed Destiny Theme to be Sung by 15-Year-Old</news>
+<news datetime="2005-02-08T17:59:48Z" href="http://www.animenewsnetwork.com/news/2005-02-08/super-robot-wars-alpha-3-for-ps2">Super Robot Wars Alpha 3 for PS2</news>
+<news datetime="2005-05-25T00:24:45Z" href="http://www.animenewsnetwork.com/news/2005-05-24/tokyopop-titles-from-amazon">Tokyopop Titles from Amazon</news>
+<news datetime="2005-08-09T05:49:46Z" href="http://www.animenewsnetwork.com/news/2005-08-09/super-robot-wars-j">Super Robot Wars J</news>
+<news datetime="2006-02-10T19:04:47Z" href="http://www.animenewsnetwork.com/news/2006-02-10/top-selling-japanese-console-games">Top Selling Japanese Console Games</news>
+<news datetime="2007-04-25T03:57:47Z" href="http://www.animenewsnetwork.com/news/2007-04-24/japanese-game-ranking-april-9-15">Japanese Game Ranking, April 9-15</news>
+<news datetime="2007-04-26T08:18:50Z" href="http://www.animenewsnetwork.com/news/2007-04-26/gyao-offers-anime-on-net-streaming-box-for-japanese-tvs">GyaO Offers Anime on Net Streaming Box for Japanese TVs</news>
+<news datetime="2007-04-28T10:43:08Z" href="http://www.animenewsnetwork.com/news/2007-04-28/japanese-game-ranking-april-16-22">Japanese Game Ranking, April 16-22</news>
+<news datetime="2007-06-01T19:49:32Z" href="http://www.animenewsnetwork.com/news/2007-06-01/see-saw's-chiaki-ishikawa-to-perform-at-anime-expo">See-Saw's Chiaki Ishikawa to Perform at Anime Expo</news>
+<news datetime="2007-06-02T15:55:01Z" href="http://www.animenewsnetwork.com/news/2007-06-02/mobile-suit-gundam-00-tv-series-announced-for-october">&lt;cite&gt;Mobile Suit Gundam 00&lt;/cite&gt; TV Series Announced for October</news>
+<news datetime="2007-06-14T22:08:57Z" href="http://www.animenewsnetwork.com/news/2007-06-14/gundam-00's-4-main-characters-4-gundam-units-revealed/2">&lt;cite&gt;Gundam 00's&lt;/cite&gt; 4 Main Characters, 4 Gundam Units Revealed</news>
+<news datetime="2007-06-22T12:25:42Z" href="http://www.animenewsnetwork.com/news/2007-06-22/hero-tales-anime-staff-first-manga-compilation-announced">&lt;cite&gt;Hero Tales&lt;/cite&gt; Anime Staff, First Manga Compilation Announced</news>
+<news datetime="2007-07-20T08:58:12Z" href="http://www.animenewsnetwork.com/news/2007-07-20/japanese-animation-dvd-ranking-june-20-july-17">Japanese Animation DVD Ranking, June 20–July 17</news>
+<news datetime="2007-08-14T15:04:25Z" href="http://www.animenewsnetwork.com/news/2007-08-14/new-manga-from-sensual-phrase-cromartie-creators">New Manga from &lt;cite&gt;Sensual Phrase&lt;/cite&gt;, &lt;cite&gt;Cromartie&lt;/cite&gt; Creators</news>
+<news datetime="2007-08-25T19:41:36Z" href="http://www.animenewsnetwork.com/news/2007-08-25/singapore-anime-distributor-denied-third-court-order">Singapore Anime Distributor Denied Third Court Order</news>
+<news datetime="2007-08-28T13:24:18Z" href="http://www.animenewsnetwork.com/news/2007-08-28/votoms-model-gundam-balloon-float-at-japan's-c3">1/1 &lt;cite&gt;Votoms&lt;/cite&gt; Model, &lt;cite&gt;Gundam&lt;/cite&gt; Balloon Float at Japan's C3</news>
+<news datetime="2007-09-05T01:04:49Z" href="http://www.animenewsnetwork.com/news/2007-09-04/viz-confirms-death-note's-english-cast">Viz Confirms &lt;cite&gt;Death Note&lt;/cite&gt; English Cast</news>
+<news datetime="2007-09-09T18:01:04Z" href="http://www.animenewsnetwork.com/news/2007-09-10/singapore's-odex-directors-speak-as-protests-continue">Singapore's Odex Directors Speak as Protests Continue</news>
+<news datetime="2007-09-09T09:35:46Z" href="http://www.animenewsnetwork.com/news/2007-09-09/singapore's-odex-directors-speak-as-protests-continue/2">Singapore's Odex Directors Speak as Protests Continue</news>
+<news datetime="2007-10-18T05:25:12Z" href="http://www.animenewsnetwork.com/news/2007-10-18/gundam-00-opening-theme-tops-japanese-singles-chart">&lt;cite&gt;Gundam 00&lt;/cite&gt; Opening Theme Tops Japanese Singles Chart</news>
+<news datetime="2007-10-22T12:18:59Z" href="http://www.animenewsnetwork.com/news/2007-10-22/tokyo-anime-fair-announces-its-2008-anime-awards-rules">Tokyo Anime Fair Announces Its 2008 Anime Awards Rules</news>
+<news datetime="2007-11-01T14:11:05Z" href="http://www.animenewsnetwork.com/news/2007-11-01/anime-fashion-show-to-be-held-at-japan's-kobe-airport">Anime Fashion Show to be Held at Japan's Kobe Airport</news>
+<news datetime="2007-11-28T20:19:15Z" href="http://www.animenewsnetwork.com/news/2007-11-28/japanese-companies-may-join-odex's-case-in-singapore">Japanese Companies May Join Odex's Case in Singapore</news>
+<news datetime="2007-11-29T18:19:55Z" href="http://www.animenewsnetwork.com/news/2007-11-29/hokkaido-tv's-on-chan-mascot-gets-tv-anime-in-january">Hokkaido TV's On-chan Mascot Gets TV Anime in January</news>
+<news datetime="2007-12-06T09:34:45Z" href="http://www.animenewsnetwork.com/news/2007-12-06/macross-frontiers-spring-broadcast-cast-confirmed">&lt;cite&gt;Macross Frontier's&lt;/cite&gt; Spring Broadcast, Cast Confirmed</news>
+<news datetime="2007-12-30T11:24:33Z" href="http://www.animenewsnetwork.com/news/2008-01-01/best-selling-anime-of-2007">Japanese Animation DVD Ranking: Top 20 DVDs of 2007</news>
+<news datetime="2008-01-09T11:25:48Z" href="http://www.animenewsnetwork.com/news/2008-01-09/japanese-otaku-awards-2007-winners-announced">Japanese Otaku Awards' 2007 Winners Announced</news>
+<news datetime="2008-02-05T09:56:58Z" href="http://www.animenewsnetwork.com/news/2008-02-05/japans-tbs-confirms-animes-move-from-saturday-6-p.m">Japan's TBS Confirms Anime's Move from Saturday, 6 p.m.</news>
+<news datetime="2008-02-08T02:12:35Z" href="http://www.animenewsnetwork.com/news/2008-02-07/new-york-comic-con-to-host-gundam-seeds-t.m.revolution">New York Comic-Con to Host &lt;cite&gt;Gundam Seed's&lt;/cite&gt; T.M.Revolution</news>
+<news datetime="2008-03-11T06:28:22Z" href="http://www.animenewsnetwork.com/news/2008-03-11/new-york-comic-con-hosts-open-t.m.revolution-interview">New York Comic Con Hosts Open T.M.Revolution Interview</news>
+<news datetime="2008-03-14T08:58:02Z" href="http://www.animenewsnetwork.com/news/2008-03-14/daily-links-of-the-day-disney-urushibara-gundam-seed">Daily Links of the Day: Disney, Urushihara, &lt;cite&gt;Gundam Seed&lt;/cite&gt;</news>
+<news datetime="2008-04-09T18:54:57Z" href="http://www.animenewsnetwork.com/news/2008-04-09/new-york-comic-con-posts-t.m.revolution-interview">New York Comic Con Posts T.M.Revolution Interview</news>
+<news datetime="2008-04-14T12:30:25Z" href="http://www.animenewsnetwork.com/news/2008-04-14/t.m.revolution-to-run-live-radio-show-in-nyc-bookstore">T.M.Revolution to Run Live Radio Show in NYC Bookstore</news>
+<news datetime="2008-05-21T18:36:31Z" href="http://www.animenewsnetwork.com/news/2008-05-21/anime-expo-to-host-voice-actor-toshihiko-seki">Anime Expo to Host Voice Actor Toshihiko Seki</news>
+<news datetime="2008-07-04T23:39:10Z" href="http://www.animenewsnetwork.com/news/2008-07-04/gundam-00-to-run-on-sci-fi-channel-on-november-17">&lt;cite&gt;Gundam 00&lt;/cite&gt; to Run on Sci Fi Channel on November 17</news>
+<news datetime="2008-07-15T16:26:04Z" href="http://www.animenewsnetwork.com/news/2008-07-15/new-york-anime-fest-to-host-voice-actress-rie-tanaka">New York Anime Fest to Host Voice Actress Rie Tanaka</news>
+<news datetime="2008-08-18T03:57:00Z" href="http://www.animenewsnetwork.com/news/2008-08-17/new-york-anime-fest-fields-questions-for-rie-tanaka">New York Anime Fest Fields Questions for Rie Tanaka</news>
+<news datetime="2008-10-08T03:58:00Z" href="http://www.animenewsnetwork.com/news/2008-10-07/voice-actress-rie-tanaka-interviewed">Voice Actress Rie Tanaka Interviewed</news>
+<news datetime="2008-10-10T03:53:08Z" href="http://www.animenewsnetwork.com/news/2008-10-09/sunrise-confirms-details-on-sora-o-kakeru-shojo-anime">Sunrise Confirms Details on &lt;cite&gt;Sora o Kakeru Shōjo&lt;/cite&gt; Anime</news>
+<news datetime="2008-12-31T18:10:54Z" href="http://www.animenewsnetwork.com/news/2008-12-31/funimation-adds-soul-eater-anime-from-media-factory">FUNimation Adds &lt;cite&gt;Soul Eater&lt;/cite&gt; Anime from Media Factory (Update 2)</news>
+<news datetime="2009-01-01T05:00:00Z" href="http://www.animenewsnetwork.com/news/2009-01-01/new-year-greetings-anime-style">New Year's Greetings — Anime Style (Update 11)</news>
+<news datetime="2009-01-14T04:58:00Z" href="http://www.animenewsnetwork.com/news/2009-01-13/japanese-otaku-awards-2008-winners-announced">Japanese Otaku Awards' 2008 Winners Announced</news>
+<news datetime="2009-03-29T09:01:33Z" href="http://www.animenewsnetwork.com/news/2009-03-29/mobile-suit-gundam-00-film-to-open-in-japan-in-2010">&lt;cite&gt;Mobile Suit Gundam 00&lt;/cite&gt; Film to Open in Japan in 2010</news>
+<news datetime="2009-04-02T10:34:45Z" href="http://www.animenewsnetwork.com/news/2009-04-02/sensual-phrase-shinjo-illustrates-ayabie-cd-cover">&lt;cite&gt;Sensual Phrase's&lt;/cite&gt; Shinjo Illustrates Ayabie CD Cover</news>
+<news datetime="2009-07-24T13:40:19Z" href="http://www.animenewsnetwork.com/news/2009-07-24/gundam-ms-movie-files-get-dvd/umd-release">&lt;cite&gt;Gundam MS Movie Files&lt;/cite&gt; Get DVD/UMD Release</news>
+<news datetime="2009-08-11T05:39:48Z" href="http://www.animenewsnetwork.com/news/2009-08-11/mayu-shinjo-to-launch-manga-series-in-gundam-ace-mag">Mayu Shinjo to Launch Manga Series in &lt;cite&gt;Gundam Ace&lt;/cite&gt; Mag</news>
+<news datetime="2009-12-10T00:12:01Z" href="http://www.animenewsnetwork.com/news/2009-12-09/canada-bionix-on-demand-for-anime-ends-this-month">Canada's Bionix on Demand for Anime Ends This Month</news>
+<news datetime="2009-12-23T20:59:54Z" href="http://www.animenewsnetwork.com/news/2009-12-23/gundam/zeon-children-academy-manga-starts-in-january">&lt;cite&gt;Gundam: Zeon Children's Academy&lt;/cite&gt; Manga Starts in January</news>
+<news datetime="2010-01-11T20:46:42Z" href="http://www.animenewsnetwork.com/news/2010-01-11/loveplus-gundam-shaft-win-japan-otaku-awards">&lt;cite&gt;Loveplus&lt;/cite&gt;, 1/1 &lt;cite&gt;Gundam&lt;/cite&gt;, Shaft Win Japan Otaku Awards</news>
+<news datetime="2010-01-14T22:19:21Z" href="http://www.animenewsnetwork.com/news/2010-01-14/english-gundam-uc-on-amazon-other-gundam-to-get-streams">English &lt;cite&gt;Gundam UC&lt;/cite&gt; on Amazon, Other &lt;cite&gt;Gundam&lt;/cite&gt; to Get Streams</news>
+<news datetime="2010-01-28T08:55:48Z" href="http://www.animenewsnetwork.com/news/2010-01-28/gundam-unicorn-world-premiere-in-hong-kong-on">&lt;cite&gt;Gundam Unicorn's&lt;/cite&gt; World Premiere in Hong Kong on 2/6</news>
+<news datetime="2010-02-01T05:28:08Z" href="http://www.animenewsnetwork.com/news/2010-02-01/all-of-z-gundam-2-gundam-uc-trailers-now-streaming">All of &lt;cite&gt;Z Gundam&lt;/cite&gt;, 2 &lt;cite&gt;Gundam UC&lt;/cite&gt; Trailers Now Streaming</news>
+<news datetime="2010-02-15T04:10:00Z" href="http://www.animenewsnetwork.com/news/2010-02-14/first-gundam-anime-all-of-gundam-seed-now-streaming">First &lt;cite&gt;Gundam&lt;/cite&gt; Anime, All of &lt;cite&gt;Gundam Seed&lt;/cite&gt; Now Streaming</news>
+<news datetime="2010-03-03T02:44:56Z" href="http://www.animenewsnetwork.com/news/2010-03-02/japan-animation-dvd-ranking-february-22-28">Japan's Animation DVD Ranking, February 22-28</news>
+<news datetime="2010-03-10T02:19:13Z" href="http://www.animenewsnetwork.com/news/2010-03-09/japan-animation-dvd-ranking-march-1-7">Japan's Animation DVD Ranking, March 1-7</news>
+<news datetime="2010-04-22T08:35:32Z" href="http://www.animenewsnetwork.com/news/2010-04-22/code-geass-gaiden-bokoku-no-akito-project-announced">&lt;cite&gt;Code Geass Gaiden: Bōkoku no Akito&lt;/cite&gt; Anime Announced (Update 2)</news>
+<news datetime="2010-05-09T01:47:23Z" href="http://www.animenewsnetwork.com/news/2010-05-08/vampire-knight-fmp-petite-cossette-gundam-w-streamed">&lt;cite&gt;Vampire Knight, FMP!, Petite Cossette, Gundam W&lt;/cite&gt; Streamed</news>
+<news datetime="2010-05-13T03:15:00Z" href="http://www.animenewsnetwork.com/news/2010-05-12/mokei-senshi-gunpla-builders-beginning-anime-announced">&lt;cite&gt;Mokei Senshi Gunpla Builders Beginning G&lt;/cite&gt; Anime Announced</news>
+<news datetime="2010-07-09T16:31:33Z" href="http://www.animenewsnetwork.com/news/2010-07-09/crunchyroll-adds-asobi-ni-ikuyo-simulcast">Crunchyroll to Simulcast &lt;cite&gt;Asobi ni Ikuyo&lt;/cite&gt; Anime</news>
+<news datetime="2010-07-15T19:49:01Z" href="http://www.animenewsnetwork.com/news/2010-07-15/gunpla-builders-cg-gatchaman-promo-videos-streamed">&lt;cite&gt;Gunpla Builders&lt;/cite&gt;, CG &lt;cite&gt;Gatchaman&lt;/cite&gt; Promo Videos Streamed</news>
+<news datetime="2010-07-27T03:18:35Z" href="http://www.animenewsnetwork.com/news/2010-07-26/gundam-w/endless-waltz-anime-to-spawn-new-manga">&lt;cite&gt;Gundam W: Endless Waltz&lt;/cite&gt; Anime to Spawn New Manga</news>
+<news datetime="2010-09-22T15:23:02Z" href="http://www.animenewsnetwork.com/news/2010-09-22/yume-miru-anime-on-chan-gets-2nd-season-in-november">&lt;cite&gt;Yume-Miru Anime on-chan&lt;/cite&gt; Gets 2nd Season in November</news>
+<news datetime="2010-10-22T02:27:00Z" href="http://www.animenewsnetwork.com/news/2010-10-22/manga/anime-opera-goes-on-tour-in-europe-saturday">Manga/Anime 'Opera' Goes on Tour in Europe Saturday</news>
+<news datetime="2010-12-02T16:21:40Z" href="http://www.animenewsnetwork.com/news/2010-12-02/next-crayon-shin-chan-film-titled-dated">Next &lt;cite&gt;Crayon Shin-chan&lt;/cite&gt; Film Titled, Dated</news>
+<news datetime="2011-01-04T13:48:45Z" href="http://www.animenewsnetwork.com/news/2011-01-04/t.m-revolution-on-hiatus-due-to-inflamed-vocal-cords">T.M. Revolution on Hiatus Due to Inflamed Vocal Cords</news>
+<news datetime="2011-03-03T04:57:00Z" href="http://www.animenewsnetwork.com/news/2011-03-02/japan-animation-dvd-ranking-february-21-27-part-2">Japan's Animation DVD Ranking, February 21-27 (Part 2)</news>
+<news datetime="2011-06-13T04:55:00Z" href="http://www.animenewsnetwork.com/news/2011-06-13/sgt-frog-susumu-yamaguchi-to-direct-gundam-age">&lt;cite&gt;Sgt. Frog's&lt;/cite&gt; Susumu Yamaguchi to Direct &lt;cite&gt;Gundam AGE&lt;/cite&gt;</news>
+<news datetime="2011-08-02T03:28:02Z" href="http://www.animenewsnetwork.com/news/2011-08-01/producer/next-season-of-code-geass-aimed-for-2012">Producer: 'Next Season' of &lt;cite&gt;Code Geass&lt;/cite&gt; Aimed for 2012</news>
+<news datetime="2011-08-11T01:55:30Z" href="http://www.animenewsnetwork.com/news/2011-08-10/figure-site-lists-new-code-geass-series-for-this-winter">Figure Site Lists New &lt;cite&gt;Code Geass&lt;/cite&gt; Series for This Winter</news>
+<news datetime="2011-08-24T03:38:47Z" href="http://www.animenewsnetwork.com/news/2011-08-23/gundam-seed-hd-remaster-project-to-launch">&lt;cite&gt;Gundam Seed&lt;/cite&gt; HD Remaster Project to Launch</news>
+<news datetime="2011-08-29T14:30:37Z" href="http://www.animenewsnetwork.com/news/2011-08-29/gundam-age-promotional-videos-streamed">&lt;cite&gt;Gundam AGE's&lt;/cite&gt; Promotional Videos Streamed</news>
+<news datetime="2011-09-22T00:00:00Z" href="http://www.animenewsnetwork.com/interest/2011-09-21/gundam-age-anime-tv-ad-streamed">&lt;cite&gt;Gundam AGE&lt;/cite&gt; Anime's TV Ad Streamed</news>
+<news datetime="2011-10-08T17:30:07Z" href="http://www.animenewsnetwork.com/news/2011-10-08/nikkei/gundam-age-anime-to-stream-in-5-languages">&lt;cite&gt;Nikkei:&lt;/cite&gt; &lt;cite&gt;Gundam AGE&lt;/cite&gt; to Stream in 5 Languages as It Airs</news>
+<news datetime="2012-01-29T22:45:12Z" href="http://www.animenewsnetwork.com/news/2012-01-29/north-american-stream-list/january-23-29">North American Stream List: January 23-29</news>
+<news datetime="2012-02-05T21:00:33Z" href="http://www.animenewsnetwork.com/news/2012-02-05/north-american-stream-list/jan-30-feb-5">North American Stream List: Jan. 30-Feb. 5</news>
+<news datetime="2012-02-10T04:49:05Z" href="http://www.animenewsnetwork.com/news/2012-02-09/gundam-age-and-seed-bds-to-have-english-subs-in-japan">&lt;cite&gt;Gundam AGE&lt;/cite&gt; &amp; &lt;cite&gt;Seed&lt;/cite&gt; BDs to Have English Subs in Japan</news>
+<news datetime="2012-02-13T00:00:00Z" href="http://www.animenewsnetwork.com/news/2012-02-12/north-american-stream-list/february-6-12">North American Stream List: February 6-12</news>
+<news datetime="2012-02-20T00:30:00Z" href="http://www.animenewsnetwork.com/news/2012-02-19/north-american-stream-list/feb-13-19">North American Stream List: Feb. 13-19</news>
+<news datetime="2012-02-27T04:10:47Z" href="http://www.animenewsnetwork.com/news/2012-02-26/north-american-stream-list/feb.ruary-20-26">North American Stream List: February 20-26</news>
+<news datetime="2012-03-10T04:18:02Z" href="http://www.animenewsnetwork.com/news/2012-03-09/gundam-seed-battle-destiny-game-slated-for-june-7">&lt;cite&gt;Gundam Seed Battle Destiny&lt;/cite&gt; Game Slated for June 7</news>
+<news datetime="2012-09-25T08:30:00Z" href="http://www.animenewsnetwork.com/news/2012-09-25/japan-animation-blu-ray-disc-ranking-september-17-23">Japan's Animation Blu-ray Disc Ranking, September 17-23</news>
+<news datetime="2012-10-15T04:30:00Z" href="http://www.animenewsnetwork.com/news/2012-10-15/north-american-stream-list/oct-8-14">North American Stream List: Oct. 8-14</news>
+<news datetime="2012-12-29T18:05:53Z" href="http://www.animenewsnetwork.com/news/2012-12-29/robot-anime-majestic-prince-2nd-promo-profiles-characters">Robot Anime &lt;cite&gt;Majestic Prince's&lt;/cite&gt; 2nd Promo Profiles Characters</news>
+<news datetime="2013-04-02T18:53:04Z" href="http://www.animenewsnetwork.com/news/2013-04-02/crunchyroll-streams-robot-anime-majestic-prince">Crunchyroll Streams Robot Anime &lt;cite&gt;Majestic Prince&lt;/cite&gt;</news>
+<news datetime="2013-05-16T02:05:47Z" href="http://www.animenewsnetwork.com/news/2013-05-15/daisuki-anime-streaming-site-launches">Daisuki Anime Streaming Site Launches</news>
+<news datetime="2013-08-31T08:35:00Z" href="http://www.animenewsnetwork.com/news/2013-08-31/gundam-build-fighters-tv-anime-2nd-promo-streamed">&lt;cite&gt;Gundam Build Fighters&lt;/cite&gt; TV Anime's 2nd Promo Streamed</news>
+<news datetime="2013-09-04T15:50:00Z" href="http://www.animenewsnetwork.com/news/2013-09-04/shin-gundam-musou/dynasty-warriors/gundam-debuts-on-december-19">&lt;cite&gt;Shin Gundam Musou/Dynasty Warriors: Gundam&lt;/cite&gt; Debuts on December 19</news>
+<news datetime="2013-10-10T16:50:00Z" href="http://www.animenewsnetwork.com/news/2013-10-10/shin-gundam-musou/dynasty-warriors/gundam-game-teased-in-promo-ad">&lt;cite&gt;Shin Gundam Musou/Dynasty Warriors: Gundam&lt;/cite&gt; Game Teased in Promo, Ad</news>
+<staff gid="2742986851"><task>Director</task><person id="7787">Mitsuo Fukuda</person></staff>
+<staff gid="1020954748"><task>Series Composition</task><person id="14938">Chiaki Morosawa</person></staff>
+<staff gid="3467355986"><task>Scenario</task><person id="402">Hiroshi Ohnogi</person></staff>
+<staff gid="2110713392"><task>Scenario</task><person id="1295">Akemi Omode</person></staff>
+<staff gid="3210306761"><task>Scenario</task><person id="1673">Akinori Endo</person></staff>
+<staff gid="1353987924"><task>Scenario</task><person id="14938">Chiaki Morosawa</person></staff>
+<staff gid="2160440557"><task>Scenario</task><person id="18240">Shigeru Morita</person></staff>
+<staff gid="2303443796"><task>Scenario</task><person id="21796">Kyoko Kogure</person></staff>
+<staff gid="2911623405"><task>Scenario</task><person id="21798">Yuuichi Nomura</person></staff>
+<staff gid="2295902229"><task>Scenario</task><person id="36992">Hiroyuki Yoshino</person></staff>
+<staff gid="2997113513"><task>Storyboard</task><person id="2658">Katsuyoshi Yatabe</person></staff>
+<staff gid="3183396994"><task>Storyboard</task><person id="5795">Yoshimitsu Ohashi</person></staff>
+<staff gid="395822412"><task>Storyboard</task><person id="5831">Naoki Hishikawa</person></staff>
+<staff gid="2709557253"><task>Storyboard</task><person id="7514">Susumu Yamaguchi</person></staff>
+<staff gid="2773406166"><task>Storyboard</task><person id="7756">Susumu Nishizawa</person></staff>
+<staff gid="2292454944"><task>Storyboard</task><person id="7787">Mitsuo Fukuda</person></staff>
+<staff gid="2631251919"><task>Storyboard</task><person id="8064">Yoshitomo Yonetani</person></staff>
+<staff gid="2467196373"><task>Storyboard</task><person id="9089">Kunihiro Mori</person></staff>
+<staff gid="3061557693"><task>Storyboard</task><person id="11794">Kazuhito Kikuchi</person></staff>
+<staff gid="2050549986"><task>Storyboard</task><person id="11798">Kou Matsuzono</person></staff>
+<staff gid="1542829434"><task>Storyboard</task><person id="12554">Yasuhiro Minami</person></staff>
+<staff gid="1640225590"><task>Storyboard</task><person id="14474">Fuyu Kuroki</person></staff>
+<staff gid="2458950745"><task>Storyboard</task><person id="14936">Hirokazu Hisayuki</person></staff>
+<staff gid="2564389378"><task>Storyboard</task><person id="18133">Kou Matsuo</person></staff>
+<staff gid="1559172606"><task>Storyboard</task><person id="31361">Kouichi Takada</person></staff>
+<staff gid="951490270"><task>Storyboard</task><person id="107534">Chuuta Hachisu</person></staff>
+<staff gid="1283954622"><task>Storyboard</task><person id="107535">Hiroshi Tokushima</person></staff>
+<staff gid="2149569382"><task>Unit Director</task><person id="589">Akihiko Nishiyama</person></staff>
+<staff gid="1509651342"><task>Unit Director</task><person id="2658">Katsuyoshi Yatabe</person></staff>
+<staff gid="2719829534"><task>Unit Director</task><person id="3154">Osamu Sekita</person></staff>
+<staff gid="1762521680"><task>Unit Director</task><person id="5831">Naoki Hishikawa</person></staff>
+<staff gid="1823127872"><task>Unit Director</task><person id="7787">Mitsuo Fukuda</person></staff>
+<staff gid="1132397796"><task>Unit Director</task><person id="9150">Shintaro Inokawa</person></staff>
+<staff gid="1676650493"><task>Unit Director</task><person id="12554">Yasuhiro Minami</person></staff>
+<staff gid="1746122103"><task>Unit Director</task><person id="14475">Takeshi Yoshimoto</person></staff>
+<staff gid="800981600"><task>Unit Director</task><person id="14479">Masato Miyoshi</person></staff>
+<staff gid="1540439637"><task>Unit Director</task><person id="14731">Satoshi Toba</person></staff>
+<staff gid="1736797291"><task>Unit Director</task><person id="17865">Teruo Satoh</person></staff>
+<staff gid="1293336407"><task>Unit Director</task><person id="31229">Masahiro Takada</person></staff>
+<staff gid="3860198391"><task>Unit Director</task><person id="31361">Kouichi Takada</person></staff>
+<staff gid="1871223487"><task>Music</task><person id="114">Toshihiko Sahashi</person></staff>
+<staff gid="1367294952"><task>Original creator</task><person id="19">Hajime Yatate</person></staff>
+<staff gid="1559409212"><task>Original creator</task><person id="100">Yoshiyuki Tomino</person></staff>
+<staff gid="3388674387"><task>Character Design</task><person id="8024">Hisashi Hirai</person></staff>
+<staff gid="974544148"><task>Art Director</task><person id="18">Shigemi Ikeda</person></staff>
+<staff gid="1660639837"><task>Mecha design</task><person id="123">Kunio Okawara</person></staff>
+<staff gid="74138755"><task>Mecha design</task><person id="125">Kimitoshi Yamane</person></staff>
+<staff gid="3345388228"><task>Sound Director</task><person id="2949">Yasuo Uragami</person></staff>
+<staff gid="931863591"><task>Director of Photography</task><person id="29199">Takeshi Katsurayama</person></staff>
+<staff gid="1417912732"><task>Producer</task><person id="9121">Fumikuni Furusawa</person></staff>
+<staff gid="544590908"><task>Producer</task><person id="14945">Seiji Takeda</person></staff>
+<cast gid="528443330" lang="DE"><role>Cagalli Yula Athha</role><person id="22723">Rubina Kuraoka</person></cast>
+<cast gid="2537814276" lang="DE"><role>Kira Yamato</role><person id="22725">Ricardo Richter</person></cast>
+<cast gid="2938944385" lang="DE"><role>Athrun Zala</role><person id="39867">Nico Sablik</person></cast>
+<cast gid="1408426424" lang="DE"><role>Lacus Clyne</role><person id="41967">Anne Helm</person></cast>
+<cast gid="2770880188" lang="EN"><role>Muruta Azrael</role><person id="741">Andrew Francis</person></cast>
+<cast gid="2478015169" lang="EN"><role>Mu La Flaga</role><person id="751">Trevor Devall</person></cast>
+<cast gid="2809451482" lang="EN"><role>Martin DaCosta</role><person id="752">Brian Dobson</person></cast>
+<cast gid="2085843210" lang="EN"><role>Kira Yamato</role><person id="1083">Matt Hill</person></cast>
+<cast gid="1568317152" lang="EN"><role>Jackie Tonomura</role><person id="2458">Matt Smith</person></cast>
+<cast gid="2663982998" lang="EN"><role>Orga Sabnak</role><person id="2458">Matt Smith</person></cast>
+<cast gid="2681008470" lang="EN"><role>Crot Buer</role><person id="2957">Ted Cole</person></cast>
+<cast gid="1145031114" lang="EN"><role>Rau Le Creuset</role><person id="2966">Mark Oliver</person></cast>
+<cast gid="3222855485" lang="EN"><role>Dearka Elsman</role><person id="2969">Brad Swaile</person></cast>
+<cast gid="2425203656" lang="EN"><role>Lacus Clyne</role><person id="3933">Chantal Strand</person></cast>
+<cast gid="3019236779" lang="EN"><role>Athrun Zala</role><person id="3935">Samuel Vincent</person></cast>
+<cast gid="2820589663" lang="EN"><role>Tolle Koening</role><person id="3999">Richard Cox</person></cast>
+<cast gid="581125850" lang="EN"><role>Murrue Ramius</role><person id="4325">Lisa Ann Beley</person></cast>
+<cast gid="890241182" lang="EN"><role>Birdy</role><person id="4906">Tabitha St. Germain</person></cast>
+<cast gid="2493203370" lang="EN"><role>Flay Allster</role><person id="4906">Tabitha St. Germain</person></cast>
+<cast gid="3454846252" lang="EN"><role>Haro</role><person id="4906">Tabitha St. Germain</person></cast>
+<cast gid="2776304614" lang="EN"><role>Sai Argyle</role><person id="5276">Bill Switzer</person></cast>
+<cast gid="1984834014" lang="EN"><role>Yzak Joule</role><person id="8671">Michael Adamthwaite</person></cast>
+<cast gid="602692888" lang="EN"><role>Miriallia Haw</role><person id="13957">Anna Cummer</person></cast>
+<cast gid="4215810832" lang="EN"><role>Clotho Buer</role><person id="13959">Andrew Toth</person></cast>
+<cast gid="3415702650" lang="EN"><role>Nicol Amalfi</role><person id="16932">Gabe Khouth</person></cast>
+<cast gid="2360005459" lang="EN"><role>Kuzzey Buskirk</role><person id="16933">Keith Miller</person></cast>
+<cast gid="2081489430" lang="EN"><role>Cagalli Yula Athha</role><person id="16936">Vanessa Morley</person></cast>
+<cast gid="477600226" lang="EN"><role>Natarle Badgiruel</role><person id="20017">Sarah Johns</person></cast>
+<cast gid="2831238544" lang="EN"><role>Arnold Neumann</role><person id="20018">Philip Pacaud</person></cast>
+<cast gid="2388854332" lang="EN"><role>Dalida Lolaha Chandra II</role><person id="20019">Simon Hayama</person></cast>
+<cast gid="945318601" lang="EN"><role>Romero Pal</role><person id="20020">Brendan Van Wijk</person></cast>
+<cast gid="2253645116" lang="FR"><role>Kira Yamato</role><person id="28718">Thierry Bourdon</person></cast>
+<cast gid="2172819871" lang="FR"><role>Cagalli Yula Athha</role><person id="28731">Suzanne Sindberg</person></cast>
+<cast gid="810654802" lang="FR"><role>Maryu Ramius</role><person id="29181">Nathalie Homs</person></cast>
+<cast gid="1511055455" lang="FR"><role>Miriallia Haww</role><person id="29182">Frédérique Marlot</person></cast>
+<cast gid="2068308760" lang="FR"><role>Asran Zala</role><person id="38546">Fabien Briche</person></cast>
+<cast gid="2493367223" lang="FR"><role>Patrick Zala</role><person id="38731">Cyrille Monge</person></cast>
+<cast gid="1982640217" lang="FR"><role>Yzark Joule</role><person id="38776">Bruno Magne</person></cast>
+<cast gid="1753922704" lang="FR"><role>Sai Argyle</role><person id="43197">Benjamin Pascal</person></cast>
+<cast gid="1275559893" lang="FR"><role>Raw Le Creuset</role><person id="45713">Emmanuel Gradi</person></cast>
+<cast gid="2413912468" lang="FR"><role>Natale Bajirule</role><person id="45722">Agnès Manoury</person></cast>
+<cast gid="2113793814" lang="FR"><role>Lacus Clyne</role><person id="45725">Sabrina Leurquin</person></cast>
+<cast gid="1802435828" lang="FR"><role>Mu La Fraga</role><person id="47653">Constantin Pappas</person></cast>
+<cast gid="1496695066" lang="FR"><role>Flay Alstar</role><person id="47654">Sybille Tureau</person></cast>
+<cast gid="2323161602" lang="FR"><role>Murta Azrael</role><person id="55516">Jérôme Frossard</person></cast>
+<cast gid="1209750443" lang="JA"><role>Flay Allster</role><person id="281">Houko Kuwashima</person></cast>
+<cast gid="1056162427" lang="JA"><role>Natarle Badgiruel</role><person id="281">Houko Kuwashima</person></cast>
+<cast gid="2502706718" lang="JA"><role>Athrun Zala</role><person id="443">Akira Ishida</person></cast>
+<cast gid="2010253907" lang="JA"><role>Yzak Joule</role><person id="529">Tomokazu Seki</person></cast>
+<cast gid="2393582518" lang="JA"><role>Mu La Flaga</role><person id="662">Takehito Koyasu</person></cast>
+<cast gid="2703081600" lang="JA"><role>Rau Le Creuset</role><person id="693">Toshihiko Seki</person></cast>
+<cast gid="2600296278" lang="JA"><role>Lacus Clyne</role><person id="697">Rie Tanaka</person></cast>
+<cast gid="249554722" lang="JA"><role>Andrew Waltfeld</role><person id="718">Ryotaro Okiayu</person></cast>
+<cast gid="3484318575" lang="JA"><role>Haro</role><person id="720">Kotono Mitsuishi</person></cast>
+<cast gid="112876492" lang="JA"><role>Murrue Ramius</role><person id="720">Kotono Mitsuishi</person></cast>
+<cast gid="3469792654" lang="JA"><role>Miriallia Haw</role><person id="794">Megumi Toyoguchi</person></cast>
+<cast gid="133519074" lang="JA"><role>Kira Yamato</role><person id="1374">Souichiro Hoshi</person></cast>
+<cast gid="2472836591" lang="JA"><role>Sai Argyle</role><person id="1495">Tetsu Shiratori</person></cast>
+<cast gid="1613132186" lang="JA"><role>Muruta Azrael</role><person id="1497">Nobuyuki Hiyama</person></cast>
+<cast gid="844595815" lang="JA"><role>Siegel Clyne</role><person id="2383">Yousuke Akimoto</person></cast>
+<cast gid="3021353209" lang="JA"><role>Patrick Zala</role><person id="5041">Kinryuu Arimoto</person></cast>
+<cast gid="3213345860" lang="JA"><role>Birdy</role><person id="7665">Naomi Shindoh</person></cast>
+<cast gid="1567045599" lang="JA"><role>Cagalli Yula Athha</role><person id="7665">Naomi Shindoh</person></cast>
+<cast gid="2479400237" lang="JA"><role>Dearka Elsman</role><person id="7666">Akira Sasanuma</person></cast>
+<cast gid="2900278508" lang="JA"><role>Nicol Amalfi</role><person id="7667">Mami Matsui</person></cast>
+<cast gid="2677819160" lang="JA"><role>Tolle Koenig</role><person id="9828">Takayuki Inoue</person></cast>
+<cast gid="889135976" lang="KO"><role>Patrick Zala</role><person id="14486">Gwang Jang</person></cast>
+<cast gid="756677885" lang="KO"><role>Athrun Zala</role><person id="14489">Il Kim</person></cast>
+<cast gid="1265609776" lang="KO"><role>Kira Yamato</role><person id="73370">Sang-Hyeon Eom</person></cast>
+<cast gid="2519746858" lang="KO"><role>Dearka Elsman</role><person id="90678">Song Junseok</person></cast>
+<cast gid="3861562399" lang="KO"><role>Muruta Azrael</role><person id="90680">Yong-Uk An</person></cast>
+<cast gid="1503532022" lang="KO"><role>Andrew Waltfeld</role><person id="96182">Seok-Jeong Yang</person></cast>
+<cast gid="3308373216" lang="KO"><role>Rau Le Creuset</role><person id="96183">Wan-Gyeong Seong</person></cast>
+<cast gid="1703375955" lang="KO"><role>Haro</role><person id="96263">Jeong-Min Bae</person></cast>
+<cast gid="2192959097" lang="KO"><role>Natarle Badgiruel</role><person id="96263">Jeong-Min Bae</person></cast>
+<cast gid="3577319550" lang="KO"><role>Flay Allster</role><person id="96299">Eui-Jin Chae</person></cast>
+<cast gid="2594043957" lang="KO"><role>Tolle Koenig</role><person id="96334">Gwang-Ju Jeon</person></cast>
+<cast gid="2489907010" lang="KO"><role>Cagalli Yula Athha</role><person id="96347">Jeong Soyeong</person></cast>
+<cast gid="2193861835" lang="KO"><role>Miriallia Haw</role><person id="96347">Jeong Soyeong</person></cast>
+<cast gid="3691719823" lang="KO"><role>Murrue Ramius</role><person id="96350">Mi-Na Yun</person></cast>
+<cast gid="1800493763" lang="KO"><role>Yzak Joule</role><person id="96447">Seong-Wung Sa</person></cast>
+<cast gid="2961446226" lang="KO"><role>Sai Argyle</role><person id="96518">Dong-Gyun Yu</person></cast>
+<cast gid="2722831554" lang="KO"><role>Siegel Clyne</role><person id="96518">Dong-Gyun Yu</person></cast>
+<cast gid="3032101570" lang="KO"><role>Mu La Flaga</role><person id="96602">Son Wonil</person></cast>
+<cast gid="1599769551" lang="KO"><role>Lacus Clyne</role><person id="96623">Hui-Seon Kim</person></cast>
+<cast gid="1791860380" lang="KO"><role>Nicol Amalfi</role><person id="96805">Choi Eunae</person></cast>
+<cast gid="3002007695" lang="TL"><role>Fllay Allster</role><person id="38903">Katherine Masilungan</person></cast>
+<cast gid="440414806" lang="TL"><role>Lacus Clyne</role><person id="38927">Wendy De Leon</person></cast>
+<cast gid="1017459936" lang="TL"><role>Kira Yamato</role><person id="38928">Michael Punzalan</person></cast>
+<cast gid="2319231142" lang="TL"><role>Cagalli Yula Athha</role><person id="38930">Maripette Narvasa</person></cast>
+<cast gid="3255003300" lang="TL"><role>Natarle Badgiruel</role><person id="38930">Maripette Narvasa</person></cast>
+<cast gid="2430655215" lang="TL"><role>Mu La Flaga</role><person id="38933">Alexx Agcaoili</person></cast>
+<cast gid="2432589183" lang="TL"><role>Athrun Zala</role><person id="38935">Louie Paraboles</person></cast>
+<cast gid="1527300502" lang="TL"><role>Sai Argyle</role><person id="38936">Jefferson Utanes</person></cast>
+<cast gid="3511383581" lang="TL"><role>Yzak Joule</role><person id="38936">Jefferson Utanes</person></cast>
+<cast gid="1919096378" lang="TL"><role>Dearka Elsman</role><person id="39351">Bernardo Malejana</person></cast>
+<cast gid="1679483847" lang="TL"><role>Andrew Waltfeld</role><person id="50938">Jay-r Flores</person></cast>
+<credit gid="3482939990"><task>Production</task><company id="34">Sunrise</company></credit>
+<credit gid="298117051"><task>Production</task><company id="1240">Asatsu DK</company></credit>
+<credit gid="3619867796"><task>Production</task><company id="10442">Mainichi Broadcasting System</company></credit></anime></ann>

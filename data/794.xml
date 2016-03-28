@@ -1,0 +1,504 @@
+<ann><anime id="794" gid="1181578040" type="TV" name="Digimon Adventure" precision="TV" generated-on="2016-03-27T03:55:21Z">
+<related-prev rel="sequel of" id="2523"/>
+<related-next id="2170" rel="sequel"/>
+<related-next id="2171" rel="spinoff"/>
+<related-next id="2172" rel="spinoff"/>
+<related-next id="2526" rel="related"/>
+<related-next id="2527" rel="related"/>
+<related-next id="3988" rel="related"/>
+<related-next id="4769" rel="adaptation"/>
+<related-next id="6230" rel="related"/>
+<related-next id="6470" rel="related"/>
+<related-next id="11450" rel="spinoff"/>
+<related-next id="16310" rel="sequel"/>
+<info gid="841338779" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A794-31.jpg" width="200" height="174"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A794-31.jpg" width="200" height="174"/><img src="http://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A794-31.jpg" width="344" height="300"/></info>
+<info gid="1724428169" type="Main title" lang="EN">Digimon Adventure</info>
+<info gid="2440245949" type="Alternative title" lang="EN">Digimon: Digital Monsters</info>
+<info gid="1441213876" type="Alternative title" lang="DA">Digimon: Digitale Monstre</info>
+<info gid="4166145458" type="Alternative title" lang="AR">أبطال الديجيتال</info>
+<info gid="2424580300" type="Alternative title" lang="JA">デジモンアドベンチャー</info>
+<info gid="3574086578" type="Genres">adventure</info>
+<info gid="2080804799" type="Genres">drama</info>
+<info gid="304700001" type="Genres">science fiction</info>
+<info gid="2402834249" type="Themes">monsters</info>
+<info gid="2485957039" type="Objectionable content">AA</info>
+<info gid="3807449160" type="Plot Summary">Seven kids are transported to the Digital World, a strange place where digital creatures called &quot;Digimon&quot; reside. A group of Digimon soon befriend them and keep the kids out of harm's way. The children then become the Digidestined, or Chosen Children, which protect the Digital World from evil Digimon like Devilmon and Myotismon.</info>
+<info gid="3080330425" type="Running time">half hour</info>
+<info gid="3060907942" type="Number of episodes">54</info>
+<info gid="2081571374" type="Vintage">1999-03-07 to 2000-03-26</info>
+<info gid="3451146998" type="Vintage">1999-08-01 (Croatia)</info>
+<info gid="3178752744" type="Vintage">1999-08-14 to 2000-06-24 (USA)</info>
+<info gid="2029264555" type="Vintage">2000-09-04 to 2000-11-16 (Italy)</info>
+<info gid="1985172983" type="Vintage">2012-02-02 to 2012-10 (Argentina, ZTV-Telefe)</info>
+<info gid="2584467863" type="Opening Theme">&quot;Butter-fly&quot; by Kouji Wada</info>
+<info gid="1240724879" type="Ending Theme">#1: &quot;I Wish&quot; by Ai Maeda (eps 1-26)</info>
+<info gid="3545939241" type="Ending Theme">#2: &quot;keep on&quot; by Ai Maeda (eps 27-54)</info>
+<info gid="1088085388" type="Insert song">&quot;Brave Heart (Evolution Theme Song)&quot; by Ayumi Miyazaki</info>
+<info gid="3176020745" type="Insert song">&quot;Seven (Acoustic Version)&quot; by Kouji Wada</info>
+<info gid="2571665654" type="Insert song">&quot;Seven&quot; by Kouji Wada</info>
+<info gid="1744603591" type="Insert song">&quot;Yuuki wo Tsubasa ni Shite&quot; by Toshiko Fujita</info>
+<info gid="1705832525" type="Official website" lang="JA" href="http://www.toei-anim.co.jp/tv/dejimon/">Toei Animation Series Site</info>
+<ratings nb_votes="2256" weighted_score="6.6161" bayesian_score="6.6213"/>
+<episode num="1">
+<title gid="2145992671" lang="EN">And So it Begins…</title></episode>
+<episode num="2">
+<title gid="3128741344" lang="EN">The Birth of Greymon</title></episode>
+<episode num="3">
+<title gid="1205628830" lang="EN">Garurumon</title></episode>
+<episode num="4">
+<title gid="641820243" lang="EN">Biyomon gets Firepower</title></episode>
+<episode num="5">
+<title gid="3592114849" lang="EN">Kabuterimon’s Electro Shocker</title></episode>
+<episode num="6">
+<title gid="35013637" lang="EN">Togemon in Toytown</title></episode>
+<episode num="7">
+<title gid="1398623760" lang="EN">Ikkaukumon’s Harpoon Torpedo</title></episode>
+<episode num="8">
+<title gid="2887978015" lang="EN">Evil Shows his Face</title></episode>
+<episode num="9">
+<title gid="2243918915" lang="EN">Sub Zero Ice Punch</title></episode>
+<episode num="10">
+<title gid="2555560653" lang="EN">A Clue from the Digi-Past</title></episode>
+<episode num="11">
+<title gid="2045946643" lang="EN">The Dancing Digimon</title></episode>
+<episode num="12">
+<title gid="2562951379" lang="EN">Digi-baby Boom</title></episode>
+<episode num="13">
+<title gid="2676817090" lang="EN">The Legend of the Digi-Destined</title></episode>
+<episode num="14">
+<title gid="1695131436" lang="EN">Journey to a New Continent</title></episode>
+<episode num="15">
+<title gid="445106032" lang="EN">The Dark Network of Etemon</title></episode>
+<episode num="16">
+<title gid="1140035975" lang="EN">The Arrival of Skull Greymon</title></episode>
+<episode num="17">
+<title gid="364761903" lang="EN">The Crest of Sincerity</title></episode>
+<episode num="18">
+<title gid="2403601710" lang="EN">Piximon Cometh</title></episode>
+<episode num="19">
+<title gid="2923622967" lang="EN">Prisoner of the Pyramid</title></episode>
+<episode num="20">
+<title gid="3407209826" lang="EN">The Earthquake of Metal Greymon</title></episode>
+<episode num="21">
+<title gid="265080354" lang="EN">Home Away from Home</title></episode>
+<episode num="22">
+<title gid="3103672412" lang="EN">Forget About it</title></episode>
+<episode num="23">
+<title gid="2723021124" lang="EN">Were Garurumon’s Diner</title></episode>
+<episode num="24">
+<title gid="303988507" lang="EN">No Questions Please</title></episode>
+<episode num="25">
+<title gid="1350779287" lang="EN">Princess Karaoke</title></episode>
+<episode num="26">
+<title gid="1841831036" lang="EN">Sora’s Crest of Love</title></episode>
+<episode num="27">
+<title gid="1156717441" lang="EN">The Getaway to Home</title></episode>
+<episode num="28">
+<title gid="257994222" lang="EN">It’s All in the Cards</title></episode>
+<episode num="29">
+<title gid="1819718909" lang="EN">Return to Highton View Terrace</title></episode>
+<episode num="30">
+<title gid="324512000" lang="EN">Almost Home Free</title></episode>
+<episode num="31">
+<title gid="163303396" lang="EN">The Eighth Digivice</title></episode>
+<episode num="32">
+<title gid="3842881104" lang="EN">Gatomon comes Calling</title></episode>
+<episode num="33">
+<title gid="2724395455" lang="EN">Out on the Town</title></episode>
+<episode num="34">
+<title gid="2093234085" lang="EN">The Eight Child Revealed</title></episode>
+<episode num="35">
+<title gid="2292884183" lang="EN">Flower Power</title></episode>
+<episode num="36">
+<title gid="1184618782" lang="EN">City under Siege</title></episode>
+<episode num="37">
+<title gid="3044341483" lang="EN">Wizardmon’s Gift</title></episode>
+<episode num="38">
+<title gid="3667751195" lang="EN">Prophecy</title></episode>
+<episode num="39">
+<title gid="1205631647" lang="EN">The Battle for Earth</title></episode>
+<episode num="40">
+<title gid="3024804772" lang="EN">Enter the Dark Masters</title></episode>
+<episode num="41">
+<title gid="3507029043" lang="EN">Sea-Sick and Tired</title></episode>
+<episode num="42">
+<title gid="460631023" lang="EN">Under Pressure</title></episode>
+<episode num="43">
+<title gid="3781968107" lang="EN">Playing Games</title></episode>
+<episode num="44">
+<title gid="1527847592" lang="EN">Trash Day</title></episode>
+<episode num="45">
+<title gid="293233758" lang="EN">The Ultimate Clash</title></episode>
+<episode num="46">
+<title gid="882526140" lang="EN">Etemon’s Come Back Tour</title></episode>
+<episode num="47">
+<title gid="3532829547" lang="EN">Ogremon’s Honor</title></episode>
+<episode num="48">
+<title gid="3016469439" lang="EN">My Sister’s Keeper</title></episode>
+<episode num="49">
+<title gid="483758676" lang="EN">The Crest of Light</title></episode>
+<episode num="50">
+<title gid="1369285184" lang="EN">Joe’s Battle</title></episode>
+<episode num="51">
+<title gid="1395050019" lang="EN">The Crest of Friendship</title></episode>
+<episode num="52">
+<title gid="2867294663" lang="EN">Piedmon’s Last Jest</title></episode>
+<episode num="53">
+<title gid="2151223380" lang="EN">Apocalymon Now</title></episode>
+<episode num="54">
+<title gid="2154133037" lang="EN">The Fate of Two Worlds</title></episode>
+<review href="http://www.animenewsnetwork.com/review/digimon-col2">Digimon: Digital Monsters - Collection 2</review>
+<release date="2000-12-05" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=20173">Digimon: Digital Monsters - Total Digimon! (Dub.DVD)</release>
+<release date="2002-01-29" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=20172">Digimon: Digital Monsters - Total Digimon (Dub.DVD)</release>
+<release date="2013-10-22" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=24771">Digimon: Digital Monsters - The Official Seasons 1-4 Collection (Dub.DVD)</release>
+<release date="2012-11-06" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=21693">Digimon: Digital Monsters - The Official First Season Vol. 1 (Dub.DVD 1-3)</release>
+<release date="2013-03-26" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=22610">Digimon: Digital Monsters - The Official First Season Vol. 2 (Dub.DVD 1-3)</release>
+<release date="2013-05-14" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=23628">Digimon: Digital Monsters - The Official First Season Vol. 3 (Dub.DVD 1-3)</release>
+<release date="2012-10-09" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=21221">Digimon: Digital Monsters - The Official First Season (Dub.DVD 1-8)</release>
+<release date="2011-08-17" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=21222">Digimon: Digital Monsters - Collection 1 (Dub.DVD)</release>
+<release date="2011-10-19" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=20221">Digimon: Digital Monsters - Collection 2 (Dub.DVD)</release>
+<release date="2014-06-18" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=26002">Digimon: Digital Monsters - Complete Collection (Dub.DVD)</release>
+<release date="1999-11-02" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=20174">Digimon: Digital Monsters - The Birth of Greymon (Dub.VHS 1)</release>
+<release date="2000-07-25" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=20175">Digimon: Digital Monsters (Dub.VHS 2)</release>
+<release date="2000-07-25" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=20176">Digimon: Digital Monsters - Beware the Black Gears (Dub.VHS 3)</release>
+<release date="2000-10-10" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=20177">Digimon: Digital Monsters - The Digidestined Child (Dub.VHS 4)</release>
+<release date="2001-04-03" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=20178">Digimon: Digital Monsters - Battle with Piedmon (Dub.VHS 5)</release>
+<news datetime="2000-02-27T19:37:28Z" href="http://www.animenewsnetwork.com/news/2000-02-27/anime-tv-changes">Anime TV Changes</news>
+<news datetime="2000-06-21T23:27:40Z" href="http://www.animenewsnetwork.com/news/2000-06-21/fox-kids-prepares-new-friday-lineup">Fox Kids Prepares New Friday Lineup</news>
+<news datetime="2001-05-05T00:32:01Z" href="http://www.animenewsnetwork.com/news/2001-05-04/anime-in-mexico-details">Anime in Mexico details</news>
+<news datetime="2002-01-14T13:03:39Z" href="http://www.animenewsnetwork.com/news/2002-01-14/digimon-moves-to-abc">Digimon Moves to ABC</news>
+<news datetime="2002-01-15T07:46:03Z" href="http://www.animenewsnetwork.com/news/2002-01-15/digimon-goes-to-abc-familly">Digimon Goes to ABC Familly</news>
+<news datetime="2002-04-08T15:33:20Z" href="http://www.animenewsnetwork.com/news/2002-04-08/plex-to-release-original-manga">Plex to release Original Manga</news>
+<news datetime="2002-04-21T01:06:45Z" href="http://www.animenewsnetwork.com/news/2002-04-20/acen-adv-acquisitions">ACEN - ADV Acquisitions</news>
+<news datetime="2004-05-25T21:31:22Z" href="http://www.animenewsnetwork.com/news/2004-05-25/new-digimon-for-2005">New Digimon for 2005</news>
+<news datetime="2005-09-23T17:39:30Z" href="http://www.animenewsnetwork.com/news/2005-09-23/tv-asahi-top-100-anime">TV Asahi Top 100 Anime</news>
+<news datetime="2006-10-12T21:45:00Z" href="http://www.animenewsnetwork.com/news/2006-10-13/japans-favorite-tv-anime">Japan's Favorite TV Anime</news>
+<news datetime="2007-04-25T03:57:47Z" href="http://www.animenewsnetwork.com/news/2007-04-24/japanese-game-ranking-april-9-15">Japanese Game Ranking, April 9-15</news>
+<news datetime="2007-04-25T16:35:19Z" href="http://www.animenewsnetwork.com/news/2007-04-25/toon-disney-licenses-5th-digimon-series-for-fall-2007">Toon Disney Licenses 5th &lt;cite&gt;Digimon&lt;/cite&gt; Series for Fall 2007</news>
+<news datetime="2007-04-28T10:43:08Z" href="http://www.animenewsnetwork.com/news/2007-04-28/japanese-game-ranking-april-16-22">Japanese Game Ranking, April 16-22</news>
+<news datetime="2007-05-15T08:03:00Z" href="http://www.animenewsnetwork.com/news/2007-05-15/toei-to-establish-in-house-us-licensing-department">Toei to Establish In-House US Licensing Department</news>
+<news datetime="2007-09-05T04:36:11Z" href="http://www.animenewsnetwork.com/news/2007-09-05/toei-strikes-deal-with-nec">Toei, NEC Offers Online Anime Service in Japan</news>
+<news datetime="2007-10-01T15:13:54Z" href="http://www.animenewsnetwork.com/news/2007-10-01/fifth-digimon-season-premieres-on-toon-disney-monday">Fifth &lt;cite&gt;Digimon&lt;/cite&gt; Season Premieres on Toon Disney Monday</news>
+<news datetime="2007-11-07T17:16:58Z" href="http://www.animenewsnetwork.com/news/2007-11-07/persona-3-game-adapted-as-television-anime">&lt;cite&gt;Persona 3&lt;/cite&gt; Game Adapted as Television Anime for January</news>
+<news datetime="2008-02-19T22:25:27Z" href="http://www.animenewsnetwork.com/news/2008-02-19/funimations-one-piece-merchandising">Funimations Acquires &lt;cite&gt;One Piece&lt;/cite&gt; Merchandising Rights</news>
+<news datetime="2008-07-31T08:14:30Z" href="http://www.animenewsnetwork.com/news/2008-07-31/japanese-govt-hosts-world-cosplay-summit-finalists">Japanese Gov't Hosts World Cosplay Summit Finalists</news>
+<news datetime="2008-08-21T20:42:59Z" href="http://www.animenewsnetwork.com/news/2008-08-21/the-girl-who-leapt-through-time-opens-in-boston-on-friday">&lt;cite&gt;The Girl Who Leapt Through Time&lt;/cite&gt; Opens in Boston on Friday</news>
+<news datetime="2009-02-07T04:34:36Z" href="http://www.animenewsnetwork.com/news/2009-02-06/anime-of-kami-imai-needless-manga-reportedly-leaked">Anime of Kami Imai's &lt;cite&gt;Needless&lt;/cite&gt; Manga Reportedly Leaked</news>
+<news datetime="2009-02-09T09:26:14Z" href="http://www.animenewsnetwork.com/news/2009-02-09/gegege-no-kitaro-anime-to-reportedly-end-this-spring">&lt;cite&gt;Gegege no Kitarō&lt;/cite&gt; Anime to Reportedly End This Spring</news>
+<news datetime="2009-04-03T18:33:47Z" href="http://www.animenewsnetwork.com/news/2009-04-03/funimation-adds-toei-air-master-captain-harlock">Funimation Adds Toei's &lt;cite&gt;Air Master, Captain Harlock&lt;/cite&gt;</news>
+<news datetime="2009-06-17T16:01:10Z" href="http://www.animenewsnetwork.com/news/2009-06-17/2nd-bakemonogatari-promo-summers-wars-tv-ad-posted">2nd &lt;cite&gt;Bakemonogatari&lt;/cite&gt; Promo, &lt;cite&gt;Summers Wars&lt;/cite&gt; TV Ad Posted</news>
+<news datetime="2009-07-06T17:03:19Z" href="http://www.animenewsnetwork.com/news/2009-07-06/haruhi-suzumiya-no.8-12-streamed-with-english-subs">&lt;cite&gt;Haruhi Suzumiya&lt;/cite&gt; #8-12 Streamed with English Subs</news>
+<news datetime="2009-07-10T05:31:41Z" href="http://www.animenewsnetwork.com/news/2009-07-10/kikansha-yaemon-gets-japan-1st-full-3d-film-release">&lt;cite&gt;Kikansha Yaemon&lt;/cite&gt; Gets Japan's 1st Full 3D Film Release</news>
+<news datetime="2009-07-29T12:05:22Z" href="http://www.animenewsnetwork.com/news/2009-07-29/summer-wars-anime-film-1st-five-minutes-streamed">&lt;cite&gt;Summer Wars&lt;/cite&gt; Anime Film's 1st Five Minutes Streamed</news>
+<news datetime="2009-07-31T08:43:59Z" href="http://www.animenewsnetwork.com/news/2009-07-31/summer-wars-film-1st-5-minutes-streamed-on-youtube">&lt;cite&gt;Summer Wars&lt;/cite&gt; Film's 1st 5 Minutes Streamed on YouTube</news>
+<news datetime="2009-08-20T19:01:23Z" href="http://www.animenewsnetwork.com/news/2009-08-20/first-squad-summer-wars-english-subbed-promos-posted">&lt;cite&gt;First Squad, Summer Wars'&lt;/cite&gt; English-Subbed Promos Posted</news>
+<news datetime="2010-02-12T00:05:37Z" href="http://www.animenewsnetwork.com/news/2010-02-11/mit-to-host-mamoru-hosoda-free-summer-wars-screening">MIT to Host Mamoru Hosoda, Free &lt;cite&gt;Summer Wars&lt;/cite&gt; Screening</news>
+<news datetime="2010-03-16T03:44:41Z" href="http://www.animenewsnetwork.com/news/2010-03-15/joost-to-remove-last-of-its-anime-on-march-25">Joost to Remove Last of Its Anime on March 25</news>
+<news datetime="2010-04-02T21:17:31Z" href="http://www.animenewsnetwork.com/news/2010-04-02/new-digital-monsters/digimon-tv-anime-listed">&lt;cite&gt;New Digital Monsters/Digimon&lt;/cite&gt; TV Anime Listed</news>
+<news datetime="2010-04-05T12:04:10Z" href="http://www.animenewsnetwork.com/news/2010-04-05/new-digital-monsters/digimon-tv-anime-image-posted">New &lt;cite&gt;Digital Monsters/Digimon&lt;/cite&gt; TV Anime's Image Posted</news>
+<news datetime="2010-04-21T04:07:50Z" href="http://www.animenewsnetwork.com/news/2010-04-21/update/digimon-xros-wars-to-premiere-in-july">Update: &lt;cite&gt;Digimon: Xros Wars&lt;/cite&gt; to Premiere in July</news>
+<news datetime="2010-05-12T10:00:00Z" href="http://www.animenewsnetwork.com/news/2010-05-12/3-arrested-for-bilking-86-million-yen-in-digimon-stickers">3 Arrested for Bilking 86 Million Yen in &lt;cite&gt;Digimon&lt;/cite&gt; Stickers</news>
+<news datetime="2010-12-24T12:38:38Z" href="http://www.animenewsnetwork.com/news/2010-12-24/cyborg-009-1st-new-manga-in-18-years-posted-online">&lt;cite&gt;Cyborg 009's&lt;/cite&gt; 1st New Manga in 18 Years Posted Online</news>
+<news datetime="2011-02-13T18:09:26Z" href="http://www.animenewsnetwork.com/news/2011-02-13/animator-professor-masahiro-katayama-passes-away">Animator, Professor Masahiro Katayama Passes Away</news>
+<news datetime="2011-03-24T03:03:29Z" href="http://www.animenewsnetwork.com/news/2011-03-23/japan-animation-tv-ranking-march-7-13">Japan's Animation TV Ranking, March 7-13</news>
+<news datetime="2011-04-03T16:24:23Z" href="http://www.animenewsnetwork.com/news/2011-04-04/madman-entertainment-announces-new-acquisitions-at-supanova-brisbane-2011">Madman Entertainment Announces New Acquisitions at Supanova Brisbane 2011</news>
+<news datetime="2011-04-17T15:59:11Z" href="http://www.animenewsnetwork.com/news/2011-04-18/weekend-wrapup/10/apr-17/apr">Weekend Wrapup: 10/Apr - 17/Apr</news>
+<news datetime="2011-06-29T16:25:47Z" href="http://www.animenewsnetwork.com/news/2011-06-30/annau-convention-update">ANNAu Convention Update</news>
+<news datetime="2011-08-25T01:27:16Z" href="http://www.animenewsnetwork.com/news/2011-08-25/australian-new-releases-july-and-august-2011">Australian New Releases - July and August 2011</news>
+<news datetime="2011-10-29T21:15:39Z" href="http://www.animenewsnetwork.com/news/2011-10-29/toei-animation-breaks-down-2011-earnings-by-franchise">Toei Animation Breaks Down 2011 Earnings by Franchise</news>
+<news datetime="2011-11-02T19:55:27Z" href="http://www.animenewsnetwork.com/news/2011-11-02/crunchyroll-to-stream-digimon-xros-wars-anime">Crunchyroll to Stream &lt;cite&gt;Digimon Xros Wars&lt;/cite&gt; Anime</news>
+<news datetime="2012-04-12T17:17:47Z" href="http://www.animenewsnetwork.com/news/2012-04-13/armageddon-expo-hamilton-on-this-weekend">Armageddon Expo Hamilton On This Weekend</news>
+<news datetime="2012-08-02T22:15:00Z" href="http://www.animenewsnetwork.com/news/2012-08-02/new-video-group-to-release-digimon-adventure-season-1-on-dvd">New Video Group to Release &lt;cite&gt;Digimon Adventure&lt;/cite&gt; Season 1 on DVD</news>
+<news datetime="2012-09-25T22:15:50Z" href="http://www.animenewsnetwork.com/news/2012-09-25/saban-brands-acquires-digimon-anime-franchise">Saban Brands Acquires &lt;cite&gt;Digimon&lt;/cite&gt; Anime Franchise</news>
+<news datetime="2012-10-09T20:30:00Z" href="http://www.animenewsnetwork.com/news/2012-10-09/north-american-anime-manga-releases-october-7-13">North American Anime, Manga Releases, October 7-13</news>
+<news datetime="2013-03-26T20:45:00Z" href="http://www.animenewsnetwork.com/news/2013-03-26/north-american-anime-manga-releases-march-24-30">North American Anime, Manga Releases, March 24-30</news>
+<news datetime="2013-05-14T22:00:00Z" href="http://www.animenewsnetwork.com/news/2013-05-14/north-american-anime-manga-releases-may-12-18">North American Anime, Manga Releases, May 12-18</news>
+<news datetime="2013-08-02T20:00:00Z" href="http://www.animenewsnetwork.com/news/2013-08-02/netflix-streams-both-digimon-adventure-seasons-in-japanese">Netflix Streams Both &lt;i&gt;Digimon Adventure&lt;/i&gt; Seasons in Japanese</news>
+<news datetime="2013-09-11T00:00:00Z" href="http://www.animenewsnetwork.com/news/2013-09-10/north-american-anime-manga-releases-september-8-14">North American Anime, Manga Releases, September 8-14</news>
+<news datetime="2013-10-22T23:00:00Z" href="http://www.animenewsnetwork.com/news/2013-10-22/north-american-anime-manga-releases-october-20-26">North American Anime, Manga Releases, October 20-26</news>
+<news datetime="2014-01-15T00:30:00Z" href="http://www.animenewsnetwork.com/news/2014-01-14/north-american-anime-manga-releases-january-12-18">North American Anime, Manga Releases, January 12-18</news>
+<news datetime="2014-03-12T02:45:00Z" href="http://www.animenewsnetwork.com/news/2014-03-11/north-american-anime-manga-releases-march-9-15">North American Anime, Manga Releases, March 9-15</news>
+<news datetime="2014-08-01T12:10:00Z" href="http://www.animenewsnetwork.com:/news/2014-08-01/digimon-adventure-anime-returns-next-spring-in-high-school-sequel/.77195">&lt;cite&gt;Digimon Adventure&lt;/cite&gt; Anime Returns Next Spring in High School Sequel</news>
+<news datetime="2014-08-03T03:05:00Z" href="http://www.animenewsnetwork.com:/news/2014-08-03/digimon-cybersleuth-ps-vita-game-promo-video-streamed/.77203">&lt;cite&gt;Digimon Cybersleuth&lt;/cite&gt; PS Vita Game's Promo Video Streamed</news>
+<news datetime="2014-09-07T04:49:10Z" href="http://www.animenewsnetwork.com:/news/2014-09-07/1st-story-information-for-new-digimon-series-unveiled/.78479">1st Story Information for New &lt;cite&gt;Digimon&lt;/cite&gt; Series Unveiled</news>
+<news datetime="2015-01-13T08:25:00Z" href="http://www.animenewsnetwork.com:/news/2015-01-13/japan-animation-blu-ray-disc-ranking-january-5-11/.83194">Japan's Animation Blu-ray Disc Ranking, January 5-11</news>
+<news datetime="2015-09-30T16:00:00Z" href="http://www.animenewsnetwork.com:/news/2015-09-30/digimon-linkz-smartphone-game-video-previews-mechanics/.93565">&lt;cite&gt;Digimon Linkz&lt;/cite&gt; Smartphone Game's Video Previews Mechanics</news>
+<news datetime="2015-12-20T08:30:00Z" href="http://www.animenewsnetwork.com:/news/2015-12-20/digimon-world-next-0rder-gets-march-17-release-date-new-promo-video/.96730">&lt;i&gt;Digimon World -Next 0rder-&lt;/i&gt; Gets March 17 Release Date, New Promo Video</news>
+<news datetime="2016-03-24T05:00:00Z" href="http://www.animenewsnetwork.com:/news/2016-03-24/digimon-world-next-0rder-rpg-video-features-meicoomon/.100175">&lt;cite&gt;Digimon World -Next 0rder-&lt;/cite&gt; RPG's Video Features Meicoomon</news>
+<staff gid="284190574"><task>Director</task><person id="25784">Hiroyuki Kakudou</person></staff>
+<staff gid="3099761114"><task>Series Composition</task><person id="8728">Satoru Nishizono</person></staff>
+<staff gid="2455864922"><task>Script</task><person id="110">Reiko Yoshida</person></staff>
+<staff gid="3138164719"><task>Script</task><person id="4040">Akiyoshi Hongo</person></staff>
+<staff gid="250977113"><task>Script</task><person id="8516">Yoshio Urasawa</person></staff>
+<staff gid="2019269227"><task>Script</task><person id="8728">Satoru Nishizono</person></staff>
+<staff gid="1085585446"><task>Script</task><person id="11108">Hiro Masaki</person></staff>
+<staff gid="2211469903"><task>Script</task><person id="22523">Genki Yoshimura</person></staff>
+<staff gid="3147728747"><task>Script</task><person id="38270">Akatsuki Yamatoya</person></staff>
+<staff gid="3228582348"><task>Script</task><person id="64265">Atsushi Maekawa</person></staff>
+<staff gid="2611330115"><task>Episode Director</task><person id="4068">Mamoru Hosoda</person></staff>
+<staff gid="1540437561"><task>Episode Director</task><person id="6354">Tetsuo Imazawa</person></staff>
+<staff gid="1846143193"><task>Episode Director</task><person id="9460">Takenori Kawada</person></staff>
+<staff gid="2456554812"><task>Episode Director</task><person id="9547">Hiroki Shibata</person></staff>
+<staff gid="2677942459"><task>Episode Director</task><person id="19035">Takahiro Imamura</person></staff>
+<staff gid="2949487063"><task>Episode Director</task><person id="25784">Hiroyuki Kakudou</person></staff>
+<staff gid="1544538899"><task>Episode Director</task><person id="31137">Harume Kosaka</person></staff>
+<staff gid="3149757913"><task>Music</task><person id="150">Takanori Arisawa</person></staff>
+<staff gid="3105954734"><task>Original Concept</task><person id="4040">Akiyoshi Hongo</person></staff>
+<staff gid="3982081179"><task>Character Design</task><person id="4040">Akiyoshi Hongo</person></staff>
+<staff gid="1278083611"><task>Character Design</task><person id="4041">Katsuyoshi Nakatsuru</person></staff>
+<staff gid="3174711590"><task>Art Director</task><person id="4042">Yoshito Watanabe</person></staff>
+<staff gid="1971716970"><task>Chief Animation Director</task><person id="18983">Naoki Miyahara</person></staff>
+<staff gid="3250724167"><task>Animation Director</task><person id="18983">Naoki Miyahara</person></staff>
+<staff gid="832723381"><task>Animation Director</task><person id="19008">Masahiro Naoi</person></staff>
+<staff gid="1099322311"><task>Animation Director</task><person id="23206">Yoshitaka Yashima</person></staff>
+<staff gid="3205490240"><task>Producer</task><person id="4044">Daisuke Kawakami</person></staff>
+<staff gid="3023367330"><task>Producer</task><person id="5162">Kyotaro Kimura</person></staff>
+<staff gid="39207241"><task>Producer</task><person id="9472">Hiromi Seki</person></staff>
+<cast gid="1749799711" lang="DE"><role>Leomon</role><person id="22718">Gerald Paradies</person></cast>
+<cast gid="3430864674" lang="DE"><role>Yamato Ishida</role><person id="22719">Robin Kahnmeyer</person></cast>
+<cast gid="3827696474" lang="DE"><role>Demidevimon</role><person id="22724">Gerrit Schmidt-Foss</person></cast>
+<cast gid="2491840089" lang="DE"><role>Hikari Yagami</role><person id="22733">Marie Schramm</person></cast>
+<cast gid="2645977371" lang="DE"><role>Ogremon</role><person id="22743">Klaus Lochthove</person></cast>
+<cast gid="4005228921" lang="DE"><role>Takeru Takaishi</role><person id="22747">Ilona Otto</person></cast>
+<cast gid="3078624256" lang="DE"><role>Taichi Yagami</role><person id="22748">Florian Knorrn</person></cast>
+<cast gid="654998746" lang="DE"><role>Mimi Tachikawa</role><person id="22749">Giuliana Wendt</person></cast>
+<cast gid="2742582425" lang="DE"><role>Sora Takenouchi</role><person id="22750">Sonja Scherrf</person></cast>
+<cast gid="4087971863" lang="DE"><role>Jou Kido</role><person id="22751">Marius Claren</person></cast>
+<cast gid="3084955439" lang="DE"><role>Koushiro Izumi</role><person id="22752">Julia Blankenberg</person></cast>
+<cast gid="2853697403" lang="DE"><role>Agumon</role><person id="22753">Gerald Schaale</person></cast>
+<cast gid="2041421663" lang="DE"><role>Greymon</role><person id="22753">Gerald Schaale</person></cast>
+<cast gid="2925204550" lang="DE"><role>Gabumon</role><person id="22754">Julien Haggege</person></cast>
+<cast gid="1758639363" lang="DE"><role>Tentomon</role><person id="22756">Achim Kaps</person></cast>
+<cast gid="1038062925" lang="DE"><role>Biyomon</role><person id="22757">Daniela Reidies</person></cast>
+<cast gid="2345624584" lang="DE"><role>Patamon</role><person id="22759">Hans Hohlbein</person></cast>
+<cast gid="2373274656" lang="DE"><role>Gatomon</role><person id="22760">Kathrin Zimmermann</person></cast>
+<cast gid="1487232119" lang="DE"><role>Palmon</role><person id="22971">Gabriele Schramm-Phillip</person></cast>
+<cast gid="1447773361" lang="DE"><role>Togemon</role><person id="22971">Gabriele Schramm-Phillip</person></cast>
+<cast gid="1511215428" lang="DE"><role>Gomamon</role><person id="22972">Rainer Fritzsche</person></cast>
+<cast gid="2728747598" lang="DE"><role>Andromon</role><person id="33353">Peter Reinhardt</person></cast>
+<cast gid="1957024922" lang="DE"><role>Whamon</role><person id="33781">Marlin Wick</person></cast>
+<cast gid="2391392777" lang="DE"><role>Piedmon</role><person id="41973">Walter Alich</person></cast>
+<cast gid="3162566811" lang="DE"><role>Etemon</role><person id="41999">Tom Deininger</person></cast>
+<cast gid="759308735" lang="DE"><role>Gennai</role><person id="42028">Gerd Holtenau</person></cast>
+<cast gid="438140945" lang="DE"><role>Wizardmon</role><person id="65926">Georg Tryphon</person></cast>
+<cast gid="1277598775" lang="DE"><role>Centarumon</role><person id="70253">Helmut Gauß</person></cast>
+<cast gid="1476519532" lang="EN"><role>Togemon</role><person id="633">Mari Devon</person></cast>
+<cast gid="2640119607" lang="EN"><role>Etemon</role><person id="1090">Richard Epcar</person></cast>
+<cast gid="2023541706" lang="EN"><role>Myotismon</role><person id="1090">Richard Epcar</person></cast>
+<cast gid="717892754" lang="EN"><role>Gomamon</role><person id="1142">R. Martin Klein</person></cast>
+<cast gid="2507403101" lang="EN"><role>Puppetmon</role><person id="1144">David Lodge</person></cast>
+<cast gid="2054358989" lang="EN"><role>Takeru &quot;T.K.&quot; Takaishi</role><person id="1184">Wendee Lee</person></cast>
+<cast gid="3220746209" lang="EN"><role>Tai Kamiya</role><person id="1285">Joshua Seth</person></cast>
+<cast gid="1784669004" lang="EN"><role>Yamato &quot;Matt&quot; Ishida</role><person id="2257">Michael Reisz</person></cast>
+<cast gid="1185925917" lang="EN"><role>Wizardmon</role><person id="2266">Robert Axelrod</person></cast>
+<cast gid="2175591873" lang="EN"><role>Whamon</role><person id="2267">Peter Spellos</person></cast>
+<cast gid="3982602237" lang="EN"><role>Koushiro &quot;Izzy&quot; Izumi</role><person id="3029">Mona Marshall</person></cast>
+<cast gid="2347106211" lang="EN"><role>Gabumon</role><person id="3032">Kirk Thornton</person></cast>
+<cast gid="2762202753" lang="EN"><role>Andromon</role><person id="3050">Michael Sorich</person></cast>
+<cast gid="2222751186" lang="EN"><role>Greymon</role><person id="3538">Michael Lindsay</person></cast>
+<cast gid="2734963647" lang="EN"><role>Joe Kido</role><person id="3538">Michael Lindsay</person></cast>
+<cast gid="1908871077" lang="EN"><role>Kari Kamiya</role><person id="4018">Lara Jill Miller</person></cast>
+<cast gid="2839641326" lang="EN"><role>Demidevimon</role><person id="4036">Derek Stephen Prince</person></cast>
+<cast gid="2859790281" lang="EN"><role>Piedmon</role><person id="4036">Derek Stephen Prince</person></cast>
+<cast gid="1003854557" lang="EN"><role>Tentomon</role><person id="4045">Jeff Nimoy</person></cast>
+<cast gid="2787465519" lang="EN"><role>Metal Seadramon</role><person id="4141">Doug Erholtz</person></cast>
+<cast gid="577919031" lang="EN"><role>Mimi Tachikawa</role><person id="4142">Philece Sampler</person></cast>
+<cast gid="2728451400" lang="EN"><role>Ogremon</role><person id="4331">Beau Billingslea</person></cast>
+<cast gid="260941131" lang="EN"><role>Palmon</role><person id="4822">Anna Garduno</person></cast>
+<cast gid="2769893032" lang="EN"><role>Apocalymon</role><person id="4824">Paul St. Peter</person></cast>
+<cast gid="1329339648" lang="EN"><role>Leomon</role><person id="4824">Paul St. Peter</person></cast>
+<cast gid="3124255852" lang="EN"><role>Agumon</role><person id="4825">Tom Fahn</person></cast>
+<cast gid="723867508" lang="EN"><role>Patamon</role><person id="4827">Laura Summer</person></cast>
+<cast gid="2207260456" lang="EN"><role>Gennai</role><person id="4829">Michael Reynolds</person></cast>
+<cast gid="3557355566" lang="EN"><role>Gatomon</role><person id="4831">Edie Mirman</person></cast>
+<cast gid="1317141880" lang="EN"><role>Devimon</role><person id="5588">Tom Wyner</person></cast>
+<cast gid="1855606798" lang="EN"><role>Biyomon</role><person id="7809">Tifanie Christun</person></cast>
+<cast gid="1885238547" lang="EN"><role>Machinedramon</role><person id="11965">Dave Guerrie</person></cast>
+<cast gid="1146265912" lang="EN"><role>Sora Takenouchi</role><person id="39810">Colleen O'Shaughnessey</person></cast>
+<cast gid="3237273400" lang="ES"><role>Sora Takenouchi</role><person id="3753">Circe Luna</person></cast>
+<cast gid="3880561474" lang="ES"><role>Yamato &quot;Matt&quot; Ishida</role><person id="23450">Uraz Huerta</person></cast>
+<cast gid="2915607959" lang="ES"><role>Piedmon</role><person id="23772">Benjamin Rivera</person></cast>
+<cast gid="3256281056" lang="ES"><role>Demidevimon</role><person id="23789">Yamil Atala</person></cast>
+<cast gid="3039644271" lang="ES"><role>Palmon</role><person id="23790">Monica Estrada</person></cast>
+<cast gid="2846297456" lang="ES"><role>Mimi Tachikawa</role><person id="24089">Isabel Martiñon</person></cast>
+<cast gid="2379239397" lang="ES"><role>Puppetmon</role><person id="24092">Emmanuel Rivas</person></cast>
+<cast gid="3155613268" lang="ES"><role>Myotismon</role><person id="24105">Roberto Mendiola</person></cast>
+<cast gid="3870891164" lang="ES"><role>Matt Ishida</role><person id="32150">Mariano García</person></cast>
+<cast gid="1883053663" lang="ES"><role>Agumon</role><person id="32819">Rafael Calvo</person></cast>
+<cast gid="2232044744" lang="ES"><role>Taichi &quot;Tai&quot; Yagami</role><person id="36661">Gerry Meza</person></cast>
+<cast gid="1730675151" lang="ES"><role>Hikari &quot;Kari&quot; Yagami</role><person id="47702">Marta Sáinz</person></cast>
+<cast gid="3152180097" lang="ES"><role>Kari Yagami</role><person id="47702">Marta Sáinz</person></cast>
+<cast gid="2284517536" lang="ES"><role>Sora Takenouchi</role><person id="47702">Marta Sáinz</person></cast>
+<cast gid="3128693251" lang="ES"><role>Takeru Takaishi &quot;T.K.&quot;</role><person id="47714">Diana Torres</person></cast>
+<cast gid="2134457200" lang="ES"><role>Mami Tachikawa</role><person id="47739">Pepa Agudo</person></cast>
+<cast gid="2707512046" lang="ES"><role>Joe Kido</role><person id="47744">José María Carrero</person></cast>
+<cast gid="2692776117" lang="ES"><role>Etemon</role><person id="47755">Juan Carlos Lozano</person></cast>
+<cast gid="1116679914" lang="ES"><role>Izumi &quot;Izzy&quot;</role><person id="47756">Raquel Martín</person></cast>
+<cast gid="2115274822" lang="ES"><role>Tai Yagami</role><person id="50622">Blanca Rada</person></cast>
+<cast gid="3059039444" lang="ES"><role>Hikari &quot;Kari&quot; Yagami</role><person id="50635">Rocío Azofra</person></cast>
+<cast gid="1692281788" lang="FR"><role>Gatomon</role><person id="40009">Michèle Lituac</person></cast>
+<cast gid="2402362343" lang="IT"><role>Piedmon</role><person id="18204">Giorgio Locuratolo</person></cast>
+<cast gid="1935419917" lang="IT"><role>Etemon</role><person id="25910">Fabrizio Temperini</person></cast>
+<cast gid="988164734" lang="IT"><role>Gennai</role><person id="25910">Fabrizio Temperini</person></cast>
+<cast gid="1167913843" lang="IT"><role>Agumon</role><person id="25912">Alessio Cigliano</person></cast>
+<cast gid="797247123" lang="IT"><role>Greymon</role><person id="25912">Alessio Cigliano</person></cast>
+<cast gid="2572631604" lang="IT"><role>Koromon</role><person id="25912">Alessio Cigliano</person></cast>
+<cast gid="1932982169" lang="IT"><role>MetalGreymon</role><person id="25912">Alessio Cigliano</person></cast>
+<cast gid="296916544" lang="IT"><role>WarGreymon</role><person id="25912">Alessio Cigliano</person></cast>
+<cast gid="2005917543" lang="IT"><role>Wizardmon</role><person id="26003">Corrado Conforti</person></cast>
+<cast gid="821450199" lang="IT"><role>Whamon</role><person id="26051">Diego Reggente</person></cast>
+<cast gid="1781650731" lang="IT"><role>Kabuterimon</role><person id="26194">Massimiliano Alto</person></cast>
+<cast gid="2585959638" lang="IT"><role>MegaKabuterimon</role><person id="26194">Massimiliano Alto</person></cast>
+<cast gid="667745009" lang="IT"><role>Motimon</role><person id="26194">Massimiliano Alto</person></cast>
+<cast gid="1916704375" lang="IT"><role>Tentomon</role><person id="26194">Massimiliano Alto</person></cast>
+<cast gid="2516754931" lang="IT"><role>DemiDevimon</role><person id="26240">Roberto Stocchi</person></cast>
+<cast gid="1760872382" lang="IT"><role>Gabumon</role><person id="26301">Luigi Ferraro</person></cast>
+<cast gid="2681115005" lang="IT"><role>Garurumon</role><person id="26301">Luigi Ferraro</person></cast>
+<cast gid="2362975762" lang="IT"><role>MetalGarurumon</role><person id="26301">Luigi Ferraro</person></cast>
+<cast gid="3527508278" lang="IT"><role>Tsunomon</role><person id="26301">Luigi Ferraro</person></cast>
+<cast gid="1847877837" lang="IT"><role>WereGarurumon</role><person id="26301">Luigi Ferraro</person></cast>
+<cast gid="3044497584" lang="IT"><role>Koushiro &quot;Izzy&quot; Izumi</role><person id="26548">Maura Cenciarelli</person></cast>
+<cast gid="3580458478" lang="IT"><role>Taichi &quot;Tai&quot; Yagami</role><person id="26583">Cinzia Villari</person></cast>
+<cast gid="3066070438" lang="IT"><role>Leomon</role><person id="26584">Stefano Mondini</person></cast>
+<cast gid="1940616595" lang="IT"><role>Myotismon</role><person id="26617">Paolo Marchese</person></cast>
+<cast gid="1360170771" lang="IT"><role>Bukamon</role><person id="27177">Davide Lepore</person></cast>
+<cast gid="1323520143" lang="IT"><role>Ikkakumon</role><person id="27177">Davide Lepore</person></cast>
+<cast gid="3675253593" lang="IT"><role>Zudomon</role><person id="27177">Davide Lepore</person></cast>
+<cast gid="619052417" lang="IT"><role>Takeru &quot;T.K.&quot; Takaishi</role><person id="27424">Tatiana Dessi</person></cast>
+<cast gid="2663437228" lang="IT"><role>MetalSeadramon</role><person id="28253">Carlo Marini</person></cast>
+<cast gid="3553365785" lang="IT"><role>Ogremon</role><person id="28253">Carlo Marini</person></cast>
+<cast gid="2678099279" lang="IT"><role>Sora Takenouchi</role><person id="40724">Valeria Vidali</person></cast>
+<cast gid="1046213931" lang="IT"><role>Birdramon</role><person id="47036">Gio'-Gio' Rapattoni</person></cast>
+<cast gid="1056074446" lang="IT"><role>Biyomon</role><person id="47036">Gio'-Gio' Rapattoni</person></cast>
+<cast gid="2918805091" lang="IT"><role>Garudamon</role><person id="47036">Gio'-Gio' Rapattoni</person></cast>
+<cast gid="2264089094" lang="IT"><role>Yokomon</role><person id="47036">Gio'-Gio' Rapattoni</person></cast>
+<cast gid="2660825133" lang="IT"><role>Puppetmon</role><person id="47262">Francesco Meoni</person></cast>
+<cast gid="1847047022" lang="IT"><role>Angemon</role><person id="50853">Patrizio Cigliano</person></cast>
+<cast gid="1973857837" lang="IT"><role>MagnaAngemon</role><person id="50853">Patrizio Cigliano</person></cast>
+<cast gid="2667505199" lang="IT"><role>Tokomon</role><person id="50853">Patrizio Cigliano</person></cast>
+<cast gid="2049889021" lang="IT"><role>Garbagemon A</role><person id="50856">Gerolamo Alchieri</person></cast>
+<cast gid="186864664" lang="IT"><role>Lillymon</role><person id="51234">Monica Vulcano</person></cast>
+<cast gid="2155550666" lang="IT"><role>Tanemon</role><person id="51234">Monica Vulcano</person></cast>
+<cast gid="1948525089" lang="IT"><role>Togemon</role><person id="51234">Monica Vulcano</person></cast>
+<cast gid="402254096" lang="IT"><role>Mimi Tachikawa</role><person id="56079">Michela Alborghetti</person></cast>
+<cast gid="2136900217" lang="IT"><role>Angewomon</role><person id="56080">Laura Romano</person></cast>
+<cast gid="1667412205" lang="IT"><role>Salamon</role><person id="56080">Laura Romano</person></cast>
+<cast gid="1130854847" lang="JA"><role>Etemon/MetalEtemon</role><person id="414">Yasunori Masutani</person></cast>
+<cast gid="1790304832" lang="JA"><role>Jō Kido</role><person id="543">Masami Kikuchi</person></cast>
+<cast gid="1926918920" lang="JA"><role>Hikari Yagami</role><person id="657">Kae Araki</person></cast>
+<cast gid="2652405535" lang="JA"><role>Agumon</role><person id="663">Chika Sakamoto</person></cast>
+<cast gid="1370972577" lang="JA"><role>Takeru Takaishi</role><person id="833">Hiroko Konishi</person></cast>
+<cast gid="2033503027" lang="JA"><role>Gennai</role><person id="917">Hiroaki Hirata</person></cast>
+<cast gid="1462609606" lang="JA"><role>Hiroaki Ishida</role><person id="917">Hiroaki Hirata</person></cast>
+<cast gid="1490095030" lang="JA"><role>Sora Takenouchi</role><person id="1004">Yuko Mizutani</person></cast>
+<cast gid="1833259047" lang="JA"><role>Taichi Yagami</role><person id="1668">Toshiko Fujita</person></cast>
+<cast gid="3429422071" lang="JA"><role>Gomamon</role><person id="2130">Junko Takeuchi</person></cast>
+<cast gid="3406470325" lang="JA"><role>Apokarimon</role><person id="2171">Chikao Ohtsuka</person></cast>
+<cast gid="1022779155" lang="JA"><role>Patamon</role><person id="3136">Miwa Matsumoto</person></cast>
+<cast gid="3660603275" lang="JA"><role>Gabumon</role><person id="4038">Mayumi Yamaguchi</person></cast>
+<cast gid="2733534881" lang="JA"><role>Tentomon</role><person id="5039">Takahiro Sakurai</person></cast>
+<cast gid="1944168575" lang="JA"><role>Tailmon</role><person id="7684">Yuka Tokumitsu</person></cast>
+<cast gid="1770603571" lang="JA"><role>Mimi Tachikawa</role><person id="8038">Ai Maeda</person></cast>
+<cast gid="678880832" lang="JA"><role>Yamato Ishida</role><person id="8702">Yuuto Kazama</person></cast>
+<cast gid="775159023" lang="JA"><role>Kōshirō Izumi</role><person id="13604">Umi Tenjin</person></cast>
+<cast gid="1189793873" lang="JA"><role>Piyomon</role><person id="13723">Katori Shigematsu</person></cast>
+<cast gid="2112142394" lang="JA"><role>Palmon</role><person id="20008">Shihomi Mizowaki</person></cast>
+<cast gid="809105189" lang="NL"><role>Gatomon</role><person id="22022">Marlies Somers</person></cast>
+<cast gid="3469581705" lang="NL"><role>Palmon</role><person id="29123">Lot Lohr</person></cast>
+<cast gid="2913339628" lang="NL"><role>Togemon</role><person id="29123">Lot Lohr</person></cast>
+<cast gid="1481259516" lang="NL"><role>Biyomon</role><person id="29128">Veerle van Hecke</person></cast>
+<cast gid="3240826992" lang="PL"><role>Digitamamon</role><person id="67213">Miroslaw Wieprzewski</person></cast>
+<cast gid="1428257746" lang="PL"><role>Vademon</role><person id="67213">Miroslaw Wieprzewski</person></cast>
+<cast gid="2471296802" lang="PL"><role>Tai Kamiya</role><person id="67232">Cezary Kwiecinski</person></cast>
+<cast gid="2549785104" lang="PL"><role>Matt Ishida</role><person id="67233">Anna Apostolakis</person></cast>
+<cast gid="2578976266" lang="PL"><role>Gotsumon</role><person id="67237">Jozef Mika</person></cast>
+<cast gid="2377742908" lang="PL"><role>Kiwimon</role><person id="67237">Jozef Mika</person></cast>
+<cast gid="797235958" lang="PL"><role>Izzy Mother</role><person id="67238">Agnieszka Kunikowska</person></cast>
+<cast gid="1516059314" lang="PL"><role>Kari Kamiya</role><person id="67238">Agnieszka Kunikowska</person></cast>
+<cast gid="1062415668" lang="PL"><role>Matt Ishida</role><person id="67254">Lucyna Malec</person></cast>
+<cast gid="1649728804" lang="PL"><role>Tai Kamiya</role><person id="67290">Grzegorz Drojewski</person></cast>
+<cast gid="1209167616" lang="PL"><role>Elecmon</role><person id="67293">Janusz Wituch</person></cast>
+<cast gid="2619891920" lang="PL"><role>Etemon</role><person id="67293">Janusz Wituch</person></cast>
+<cast gid="2144062457" lang="PL"><role>Gabumon</role><person id="67293">Janusz Wituch</person></cast>
+<cast gid="1973367715" lang="PL"><role>Garurumon</role><person id="67293">Janusz Wituch</person></cast>
+<cast gid="1988215680" lang="PL"><role>MetalEtemon</role><person id="67293">Janusz Wituch</person></cast>
+<cast gid="1871314516" lang="PL"><role>MetalGarurumon</role><person id="67293">Janusz Wituch</person></cast>
+<cast gid="2074947593" lang="PL"><role>Omnimon</role><person id="67293">Janusz Wituch</person></cast>
+<cast gid="2572069538" lang="PL"><role>Tsunomon</role><person id="67293">Janusz Wituch</person></cast>
+<cast gid="1659775753" lang="PL"><role>Warumanzemon</role><person id="67293">Janusz Wituch</person></cast>
+<cast gid="1590505099" lang="PL"><role>WereGarurumon</role><person id="67293">Janusz Wituch</person></cast>
+<cast gid="2096934239" lang="PL"><role>Izzy Izumi</role><person id="67305">Brygida Turowska</person></cast>
+<cast gid="2199894875" lang="PL"><role>Sora Takenouchi</role><person id="67307">Cynthia Kaszyńska</person></cast>
+<cast gid="3319709276" lang="PL"><role>Mimi Tachikawa</role><person id="67308">Anna Wiśniewska</person></cast>
+<cast gid="1602126837" lang="PL"><role>Birdramon</role><person id="67309">Miriam Aleksandrowicz</person></cast>
+<cast gid="1874241033" lang="PL"><role>Biyomon</role><person id="67309">Miriam Aleksandrowicz</person></cast>
+<cast gid="2197979965" lang="PL"><role>Garudamon</role><person id="67309">Miriam Aleksandrowicz</person></cast>
+<cast gid="3370422211" lang="PL"><role>Yokomon</role><person id="67309">Miriam Aleksandrowicz</person></cast>
+<cast gid="2428960836" lang="PL"><role>LadyDevimon</role><person id="67310">Ewa Serwa</person></cast>
+<cast gid="2187215789" lang="PL"><role>Lillymon</role><person id="67310">Ewa Serwa</person></cast>
+<cast gid="2299474326" lang="PL"><role>Palmon</role><person id="67310">Ewa Serwa</person></cast>
+<cast gid="1094544799" lang="PL"><role>T.K. Mother</role><person id="67310">Ewa Serwa</person></cast>
+<cast gid="2546950699" lang="PL"><role>Tanemon</role><person id="67310">Ewa Serwa</person></cast>
+<cast gid="1677584417" lang="PL"><role>Togemon</role><person id="67310">Ewa Serwa</person></cast>
+<cast gid="2465625903" lang="PL"><role>Birdramon</role><person id="70310">Ewa Kania</person></cast>
+<cast gid="2341485174" lang="PL"><role>Biyomon</role><person id="70310">Ewa Kania</person></cast>
+<cast gid="1285885599" lang="PL"><role>Garudamon</role><person id="70310">Ewa Kania</person></cast>
+<cast gid="1868419716" lang="PL"><role>Yokomon</role><person id="70310">Ewa Kania</person></cast>
+<cast gid="2490143104" lang="PL"><role>DemiDevimon</role><person id="70911">Jarosław Domin</person></cast>
+<cast gid="1216111032" lang="PL"><role>Matt Father</role><person id="70911">Jarosław Domin</person></cast>
+<cast gid="3113795553" lang="PL"><role>Angemon</role><person id="70913">Robert Tondera</person></cast>
+<cast gid="2469301009" lang="PL"><role>Gennai</role><person id="70913">Robert Tondera</person></cast>
+<cast gid="3905149996" lang="PL"><role>Machinedramon</role><person id="70913">Robert Tondera</person></cast>
+<cast gid="2126828119" lang="PL"><role>MagnaAngemon</role><person id="70913">Robert Tondera</person></cast>
+<cast gid="692334715" lang="PL"><role>Ogremon</role><person id="70913">Robert Tondera</person></cast>
+<cast gid="698010267" lang="PL"><role>Patamon</role><person id="70913">Robert Tondera</person></cast>
+<cast gid="3692338368" lang="PL"><role>Tokomon</role><person id="70913">Robert Tondera</person></cast>
+<cast gid="3240704085" lang="PL"><role>Agumon</role><person id="71150">Arkadiusz Jakubik</person></cast>
+<cast gid="2272720994" lang="PL"><role>Greymon</role><person id="71150">Arkadiusz Jakubik</person></cast>
+<cast gid="2583457480" lang="PL"><role>Izzy Father</role><person id="71150">Arkadiusz Jakubik</person></cast>
+<cast gid="2756307417" lang="PL"><role>Koromon</role><person id="71150">Arkadiusz Jakubik</person></cast>
+<cast gid="3013439015" lang="PL"><role>Leomon</role><person id="71150">Arkadiusz Jakubik</person></cast>
+<cast gid="1797442322" lang="PL"><role>MetalGreymon</role><person id="71150">Arkadiusz Jakubik</person></cast>
+<cast gid="598885184" lang="PL"><role>Omnimon</role><person id="71150">Arkadiusz Jakubik</person></cast>
+<cast gid="2089913255" lang="PL"><role>SkullGreymon</role><person id="71150">Arkadiusz Jakubik</person></cast>
+<cast gid="1537375677" lang="PL"><role>Tai &amp; Kari Father</role><person id="71150">Arkadiusz Jakubik</person></cast>
+<cast gid="2655501192" lang="PL"><role>WarGreymon</role><person id="71150">Arkadiusz Jakubik</person></cast>
+<cast gid="2932544143" lang="PL"><role>Angewomon</role><person id="71151">Aleksandra Rojewska</person></cast>
+<cast gid="3560289478" lang="PL"><role>Gatomon</role><person id="71151">Aleksandra Rojewska</person></cast>
+<cast gid="1104893456" lang="PL"><role>Salamon</role><person id="71151">Aleksandra Rojewska</person></cast>
+<cast gid="1013406282" lang="PL"><role>T.K. Takaishi</role><person id="71151">Aleksandra Rojewska</person></cast>
+<cast gid="1764661754" lang="PL"><role>Palmon</role><person id="71160">Izabela Dąbrowska</person></cast>
+<cast gid="2438169041" lang="PL"><role>Kabutarimon</role><person id="71161">Mirosław Zbrojewicz</person></cast>
+<cast gid="3836376367" lang="PL"><role>MegaKabutarimon</role><person id="71161">Mirosław Zbrojewicz</person></cast>
+<cast gid="2773066318" lang="PL"><role>Motimon</role><person id="71161">Mirosław Zbrojewicz</person></cast>
+<cast gid="1797270763" lang="PL"><role>SkullMeramon</role><person id="71161">Mirosław Zbrojewicz</person></cast>
+<cast gid="3178547111" lang="PL"><role>Tentomon</role><person id="71161">Mirosław Zbrojewicz</person></cast>
+<cast gid="2314318941" lang="PL"><role>Joe Kido</role><person id="71162">Jacek Wolszczak</person></cast>
+<cast gid="1391310883" lang="PL"><role>Bukamon</role><person id="71163">Zbigniew Suszyński</person></cast>
+<cast gid="3041083063" lang="PL"><role>Devimon</role><person id="71163">Zbigniew Suszyński</person></cast>
+<cast gid="1867821865" lang="PL"><role>Gomamon</role><person id="71163">Zbigniew Suszyński</person></cast>
+<cast gid="2668792778" lang="PL"><role>Ikkakumon</role><person id="71163">Zbigniew Suszyński</person></cast>
+<cast gid="1982498297" lang="PL"><role>Piedmon</role><person id="71163">Zbigniew Suszyński</person></cast>
+<cast gid="1171950104" lang="PL"><role>Zudomon</role><person id="71163">Zbigniew Suszyński</person></cast>
+<cast gid="2165677391" lang="PL"><role>Apocalymon</role><person id="71164">Jacek Czyż</person></cast>
+<cast gid="1696902760" lang="PL"><role>MegaSeadramon</role><person id="71164">Jacek Czyż</person></cast>
+<cast gid="2990574323" lang="PL"><role>MetalSeadramon</role><person id="71164">Jacek Czyż</person></cast>
+<cast gid="3579800407" lang="PL"><role>Myotismon</role><person id="71164">Jacek Czyż</person></cast>
+<cast gid="4052095310" lang="PL"><role>Seadramon</role><person id="71164">Jacek Czyż</person></cast>
+<cast gid="2180415225" lang="PL"><role>VenomMyotismon</role><person id="71164">Jacek Czyż</person></cast>
+<cast gid="3457072340" lang="PL"><role>Andromon</role><person id="71165">Piotr Zelt</person></cast>
+<cast gid="3073469807" lang="PL"><role>Joe Brother</role><person id="71165">Piotr Zelt</person></cast>
+<cast gid="3548457648" lang="PL"><role>Pumpkinmon</role><person id="71165">Piotr Zelt</person></cast>
+<cast gid="1794601909" lang="PL"><role>Puppetmon</role><person id="71165">Piotr Zelt</person></cast>
+<cast gid="1220575269" lang="PT"><role>Sora Takenouchi</role><person id="48843">Priscila Amorim</person></cast>
+<cast gid="1753842380" lang="PT"><role>Jo Kido</role><person id="48884">Hermes Baroli</person></cast>
+<cast gid="3376765761" lang="PT"><role>T.K.</role><person id="48947">Caio César de Melo</person></cast>
+<cast gid="2035448885" lang="PT"><role>Tai Kamiya</role><person id="49428">Luiz Sérgio Vieira</person></cast>
+<cast gid="1080178609" lang="PT"><role>Izzy Izumi</role><person id="49534">Rodrigo Antas</person></cast>
+<cast gid="3156142004" lang="PT"><role>Matt Ishida</role><person id="49651">Paulo Vignolo</person></cast>
+<cast gid="2901716551" lang="PT"><role>Mimi Tachikawa</role><person id="49652">Erika Menezes</person></cast>
+<cast gid="3486780134" lang="PT"><role>Kari Kamiya</role><person id="49653">Indiane Christine</person></cast>
+<cast gid="2271184891" lang="PT"><role>Etemon</role><person id="73306">Marcelo Sandryni</person></cast>
+<cast gid="3734882624" lang="SV"><role>Tai</role><person id="124211">Anton Olofsson Raeder</person></cast>
+<credit gid="3419929301"><task>Production</task><company id="145">Toei Animation</company></credit>
+<credit gid="2882877927"><task>Production</task><company id="1540">Yomiko Advertising, Inc.</company></credit></anime></ann>

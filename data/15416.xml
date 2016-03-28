@@ -1,0 +1,44 @@
+<ann><anime id="15416" gid="3103687670" type="OAV" name="Minami-ke: Omatase" precision="OAV" generated-on="2016-03-27T02:57:53Z">
+<related-prev rel="sequel of" id="10960"/>
+<related-next id="14829" rel="sequel"/>
+<info gid="2977959918" type="Main title" lang="JA">Minami-ke: Omatase</info>
+<info gid="2935601257" type="Alternative title" lang="JA">みなみけ おまたせ</info>
+<info gid="651224599" type="Number of episodes">5</info>
+<info gid="3699270459" type="Vintage">2012-10-05</info>
+<info gid="1602095162" type="Opening Theme">&quot;Shunkashūtō Festival ♪&quot; by Minami-ke 3 Shimai</info>
+<info gid="2336208593" type="Ending Theme">&quot;Arigatō Thank You&quot; by Minami-ke 3 Shimai</info>
+<info gid="2665420923" type="Insert song">&quot;Coleslaw no Uta&quot; by Hosaka (ep 3)</info>
+<ratings nb_votes="59" weighted_score="7.1577" bayesian_score="7.22364"/>
+<episode num="1">
+<title gid="2598474431" lang="EN">JP : Mahō no Kotoba</title></episode>
+<episode num="2">
+<title gid="2883043573" lang="EN">Atmosphere</title></episode>
+<episode num="3">
+<title gid="2942554445" lang="EN">Whims</title></episode>
+<episode num="4">
+<title gid="2487047635" lang="EN">It's So Hot</title></episode>
+<episode num="5">
+<title gid="3244052119" lang="EN">Somehow</title></episode>
+<staff gid="1223276402"><task>Director</task><person id="39496">Keiichiro Kawaguchi</person></staff>
+<staff gid="1921491634"><task>Series Composition</task><person id="16486">Takamitsu Kouno</person></staff>
+<staff gid="3418439648"><task>Storyboard</task><person id="39496">Keiichiro Kawaguchi</person></staff>
+<staff gid="2406601087"><task>Episode Director</task><person id="89574">Takafumi Fujii</person></staff>
+<staff gid="500952857"><task>Music</task><person id="62704">Yasuhiro Misawa</person></staff>
+<staff gid="3460590635"><task>Original creator</task><person id="39419">Coharu Sakuraba</person></staff>
+<staff gid="2446361128"><task>Character Design</task><person id="41664">Gou Suzuki</person></staff>
+<staff gid="2056394458"><task>Art Director</task><person id="81291">Kenta Shimizu</person></staff>
+<staff gid="1604425159"><task>Chief Animation Director</task><person id="41664">Gou Suzuki</person></staff>
+<staff gid="573374238"><task>Animation Director</task><person id="30029">Hiromi Ogata</person></staff>
+<staff gid="2806708531"><task>Animation Director</task><person id="52460">Motoaki Satou</person></staff>
+<staff gid="3010324793"><task>Animation Director</task><person id="65270">Shou Kawashima</person></staff>
+<staff gid="2326593576"><task>Sound Director</task><person id="27728">Yasunori Ebina</person></staff>
+<staff gid="3284968066"><task>Director of Photography</task><person id="80019">Takeshi Kuchiba</person></staff>
+<staff gid="2585127444"><task>Producer</task><person id="111">Tomoko Kawasaki</person></staff>
+<staff gid="1560101986"><task>Producer</task><person id="6710">Gou Nakanishi</person></staff>
+<staff gid="3376618035"><task>Producer</task><person id="60006">Takuya Matsushita</person></staff>
+<cast gid="1533758015" lang="JA"><role>Hosaka</role><person id="14929">Daisuke Ono</person></cast>
+<cast gid="3040308647" lang="JA"><role>Haruka Minami</role><person id="16411">Rina Satou</person></cast>
+<cast gid="2153153077" lang="JA"><role>Kana Minami</role><person id="20999">Marina Inoue</person></cast>
+<cast gid="2374213102" lang="JA"><role>Chiaki Minami</role><person id="22271">Minori Chihara</person></cast>
+<cast gid="3038203282" lang="JA"><role>Keiko</role><person id="25957">Saori Goto</person></cast>
+<credit gid="2100566765"><task>Animation Production</task><company id="8883">feel.</company></credit></anime></ann>

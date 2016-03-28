@@ -1,0 +1,306 @@
+<ann><anime id="1031" gid="2682900228" type="TV" name="Zoids" precision="TV" generated-on="2016-03-27T04:59:11Z">
+<related-prev rel="adapted from" id="2786"/>
+<related-next id="323" rel="spinoff"/>
+<related-next id="3091" rel="spinoff"/>
+<related-next id="5055" rel="related"/>
+<info gid="1052330984" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A1031-170.jpg" width="200" height="150"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A1031-170.jpg" width="200" height="150"/><img src="http://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A1031-170.jpg" width="500" height="376"/><img src="http://cdn.animenewsnetwork.com/images/encyc/A1031-170.jpg" width="639" height="480"/></info>
+<info gid="3175214135" type="Main title" lang="EN">Zoids</info>
+<info gid="2070877809" type="Alternative title" lang="EN">Zoids Classic</info>
+<info gid="1568104514" type="Alternative title" lang="EN">ZOIDS: Chaotic Century</info>
+<info gid="3485032725" type="Alternative title" lang="EN">ZOIDS: Guardian Forces</info>
+<info gid="2640273300" type="Alternative title" lang="JA">ゾイド</info>
+<info gid="2290433401" type="Alternative title" lang="ZH-TW">機獸新世紀</info>
+<info gid="626670691" type="Genres">action</info>
+<info gid="3212433678" type="Genres">adventure</info>
+<info gid="988805692" type="Genres">comedy</info>
+<info gid="3922633940" type="Genres">drama</info>
+<info gid="798596601" type="Genres">science fiction</info>
+<info gid="3753552714" type="Themes">mecha</info>
+<info gid="770252468" type="Themes">real robot</info>
+<info gid="3595939511" type="Objectionable content">OC</info>
+<info gid="1585598411" type="Plot Summary">Planet Zi, a world where warrior bio-machine lifeforms called Zoids live. They are controlled by human pilots in a war with the Republic and the Guylos Empire. One day a boy named Van being cased by bandits hides in some old ruins, he finds two pods in a hidden room &amp; opens one to find out its an odd dragon-like Zoid called an Organoid which he names Zeke. Zeke then resurrects an old dead blue Shield Liger Zoid for Van to pilot. When Van opens the 2nd pod a very mysterious girl named Fiona comes out of it. They go on the adventure to find more about her past &amp; to find the Zoid Eve, they meet new friends &amp; they get into some serious problems including the war which they try to stop.</info>
+<info gid="3154372064" type="Number of episodes">67</info>
+<info gid="3799883651" type="Vintage">1999-09-04 to 2000-12-23</info>
+<info gid="213081206" type="Vintage">2002-02-18 to 2002-05-16 (USA)</info>
+<info gid="2767761842" type="Vintage">2003-01-04 (USA eps 64-67)</info>
+<info gid="2398840122" type="Opening Theme">&quot;Wild Flowers&quot; by Ramar</info>
+<info gid="3085957092" type="Ending Theme">#1: &quot;Song for...&quot; by Dear</info>
+<info gid="233165218" type="Ending Theme">#2: &quot;Chase&quot; by Develop=Frame</info>
+<info gid="3907854935" type="Ending Theme">#3: &quot;Into Yourself&quot; by Transtic Nerve</info>
+<info gid="2839679145" type="Ending Theme">#4: &quot;Your Song&quot; by Earth</info>
+<info gid="2577481834" type="Official website" lang="JA" href="http://www.shopro.co.jp/tv/program/zoids/1st/index.html">Zoids @ ShoPro</info>
+<ratings nb_votes="934" weighted_score="6.5016" bayesian_score="6.51562"/>
+<episode num="1">
+<title gid="775596525" lang="EN">The Boy from Planet Zi</title></episode>
+<episode num="2">
+<title gid="2256940369" lang="EN">The Mysterious Fiona</title></episode>
+<episode num="3">
+<title gid="957812394" lang="EN">Memory</title></episode>
+<episode num="4">
+<title gid="2018140987" lang="EN">The Protectors</title></episode>
+<episode num="5">
+<title gid="3217167874" lang="EN">Sleeper Trap</title></episode>
+<episode num="6">
+<title gid="2848548674" lang="EN">Jump! Zeke!</title></episode>
+<episode num="7">
+<title gid="361767011" lang="EN">The Battle of Red River</title></episode>
+<episode num="8">
+<title gid="430846369" lang="EN">The Road to the Republic</title></episode>
+<episode num="9">
+<title gid="639194461" lang="EN">The Valley of the Monster</title></episode>
+<episode num="10">
+<title gid="1903333321" lang="EN">The Mountain of Dreams</title></episode>
+<episode num="11">
+<title gid="3598983345" lang="EN">The Fog at Mt. Iselina</title></episode>
+<episode num="12">
+<title gid="284816886" lang="EN">The Black Organoid</title></episode>
+<episode num="13">
+<title gid="2627034516" lang="EN">The Battle of Chronos</title></episode>
+<episode num="14">
+<title gid="280622045" lang="EN">Wake Up! Zeke!</title></episode>
+<episode num="15">
+<title gid="1521906800" lang="EN">Deploy the ZG!</title></episode>
+<episode num="16">
+<title gid="2767567989" lang="EN">New Helic City</title></episode>
+<episode num="17">
+<title gid="1272019669" lang="EN">The Longest Night of the Republic</title></episode>
+<episode num="18">
+<title gid="2057294499" lang="EN">The Defense of the City</title></episode>
+<episode num="19">
+<title gid="2470313613" lang="EN">Prozen's Conspiracy</title></episode>
+<episode num="20">
+<title gid="2179584690" lang="EN">The Resurrection Monster</title></episode>
+<episode num="21">
+<title gid="3486882733" lang="EN">The Charged Particle Gun</title></episode>
+<episode num="22">
+<title gid="2895559718" lang="EN">Farewell to a Friend</title></episode>
+<episode num="23">
+<title gid="17050514" lang="EN">The Imperial Ring</title></episode>
+<episode num="24">
+<title gid="3398473540" lang="EN">A Voice from Afar</title></episode>
+<episode num="25">
+<title gid="941116280" lang="EN">The New Liger</title></episode>
+<episode num="26">
+<title gid="2510060903" lang="EN">Memories of Zi</title></episode>
+<episode num="27">
+<title gid="1726855799" lang="EN">The Saviour</title></episode>
+<episode num="28">
+<title gid="1103996410" lang="EN">Run, Wolf!</title></episode>
+<episode num="29">
+<title gid="339314776" lang="EN">Heroes of the Sky</title></episode>
+<episode num="30">
+<title gid="2384484772" lang="EN">Moonbay's Waltz</title></episode>
+<episode num="31">
+<title gid="2904379656" lang="EN">The Three Guards</title></episode>
+<episode num="32">
+<title gid="3368344085" lang="EN">The Doom Machine</title></episode>
+<episode num="33">
+<title gid="128481580" lang="EN">The Battle for Survival</title></episode>
+<episode num="34">
+<title gid="2537275769" lang="EN">The Capital Ablaze (End of Chaotic Century)</title></episode>
+<episode num="35">
+<title gid="300834230" lang="EN">The Secret Mission</title></episode>
+<episode num="36">
+<title gid="1892243963" lang="EN">Sniper</title></episode>
+<episode num="37">
+<title gid="558617248" lang="EN">The Blue Devil</title></episode>
+<episode num="38">
+<title gid="1116254474" lang="EN">The Steel Bison</title></episode>
+<episode num="39">
+<title gid="3905320751" lang="EN">The Invisible Enemy</title></episode>
+<episode num="40">
+<title gid="177740453" lang="EN">The Zoid Hunters</title></episode>
+<episode num="41">
+<title gid="1172640137" lang="EN">The Devil's Maze</title></episode>
+<episode num="42">
+<title gid="1329879447" lang="EN">Raven</title></episode>
+<episode num="43">
+<title gid="3131376949" lang="EN">The Emperor's Holiday</title></episode>
+<episode num="44">
+<title gid="3667146528" lang="EN">Assault of the Mega Monster</title></episode>
+<episode num="45">
+<title gid="941501915" lang="EN">The Wings of Darkness</title></episode>
+<episode num="46">
+<title gid="1705970112" lang="EN">The Devil of the Sea</title></episode>
+<episode num="47">
+<title gid="1705244940" lang="EN">A Monster Awakens</title></episode>
+<episode num="48">
+<title gid="3408214485" lang="EN">The Black Lightning</title></episode>
+<episode num="49">
+<title gid="3925237728" lang="EN">The Distant Stars</title></episode>
+<episode num="50">
+<title gid="1401445310" lang="EN">Attack of the Geno Breaker</title></episode>
+<episode num="51">
+<title gid="3231413489" lang="EN">The Boy from the Ruins</title></episode>
+<episode num="52">
+<title gid="3952631636" lang="EN">Van's New Power</title></episode>
+<episode num="53">
+<title gid="2068817836" lang="EN">Phantom</title></episode>
+<episode num="54">
+<title gid="2486094393" lang="EN">G-File</title></episode>
+<episode num="55">
+<title gid="2223918584" lang="EN">Supersonic Battle</title></episode>
+<episode num="56">
+<title gid="3661209861" lang="EN">Cerberus</title></episode>
+<episode num="57">
+<title gid="3634193675" lang="EN">The Nightmare</title></episode>
+<episode num="58">
+<title gid="3187238918" lang="EN">Attack of the Winged Dragons</title></episode>
+<episode num="59">
+<title gid="1033513687" lang="EN">The Capital Collapses</title></episode>
+<episode num="60">
+<title gid="3605751803" lang="EN">The Giant Fortress</title></episode>
+<episode num="61">
+<title gid="2928118077" lang="EN">The Naval Battle</title></episode>
+<episode num="62">
+<title gid="3823235100" lang="EN">The Gravity Cannon</title></episode>
+<episode num="63">
+<title gid="2331721392" lang="EN">The Final Battle</title></episode>
+<episode num="64">
+<title gid="188801783" lang="EN">The Ancient Memory</title></episode>
+<episode num="65">
+<title gid="1948744860" lang="EN">Zoid Eve</title></episode>
+<episode num="66">
+<title gid="1177219074" lang="EN">Endgame</title></episode>
+<episode num="67">
+<title gid="39760912" lang="EN">Return to Tomorrow (End of Guardian Forces)</title></episode>
+<release date="2004-07-20" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=16181">Zoids - Rematch (DVD 3)</release>
+<release date="2005-09-20" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=4954">Zoids - Hope (Dub.DVD 10)</release>
+<release date="2005-11-29" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=5106">Zoids - Tomorrow (Dub.DVD 11)</release>
+<release date="2004-03-23" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2442">Zoids - Discovery (Dub.DVD 1)</release>
+<release date="2004-03-23" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2443">Zoids - Outset (Dub.DVD 2)</release>
+<release date="2004-04-27" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2496">Zoids - Encounter (Dub.DVD 3)</release>
+<release date="2004-09-21" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=3021">Zoids - Conspiracy (Dub.DVD 4)</release>
+<release date="2004-11-23" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=3022">Zoids - Mobilize! (Dub.DVD 5)</release>
+<release date="2005-01-25" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=3441">Zoids - Beast (Dub.DVD 6)</release>
+<release date="2005-03-22" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=3553">Zoids - United (Dub.DVD 7)</release>
+<release date="2005-05-31" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=3736">Zoids - Awakening (Dub.DVD 8)</release>
+<release date="2005-07-26" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=4329">Zoids - G-File (Dub.DVD 9)</release>
+<release date="2004-02-24" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2280">Zoids -  Discovery (Dub.VHS 1)</release>
+<release date="2004-03-23" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2441">Zoids - Outset (Dub.VHS 2)</release>
+<release date="2004-04-27" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=15354">Zoids - Encounter (Dub.VHS 3)</release>
+<release date="2004-05-18" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2616">Zoids - Siege (Dub.VHS 4)</release>
+<release date="2004-06-15" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2661">Zoids - Reborn (Dub.VHS 5)</release>
+<release date="2004-07-20" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=2662">Zoids (Dub.VHS 6)</release>
+<news datetime="2001-12-04T10:04:08Z" href="http://www.animenewsnetwork.com/news/2001-12-04/toonami-changes-lineup-again">Toonami Changes Lineup Again</news>
+<news datetime="2002-03-29T21:36:22Z" href="http://www.animenewsnetwork.com/news/2002-03-29/viz-to-release-zoids-manga">Viz to Release Zoids Manga</news>
+<news datetime="2002-09-30T23:30:35Z" href="http://www.animenewsnetwork.com/news/2002-09-30/jan-feb-2003-release-dates">Jan/Feb 2003 Release Dates</news>
+<news datetime="2006-05-10T18:57:04Z" href="http://www.animenewsnetwork.com/news/2006-05-10/madman-acquired-by-funtastic-for-$34.5-million-aud">Madman Acquired by Funtastic for $34.5 Million AUD</news>
+<news datetime="2008-02-05T09:56:58Z" href="http://www.animenewsnetwork.com/news/2008-02-05/japans-tbs-confirms-animes-move-from-saturday-6-p.m">Japan's TBS Confirms Anime's Move from Saturday, 6 p.m.</news>
+<news datetime="2008-09-20T21:36:34Z" href="http://www.animenewsnetwork.com/news/2008-09-20/cartoon-network-to-reportedly-end-toonami-tonight">Cartoon Network to End Toonami on September 20</news>
+<news datetime="2010-03-04T04:31:13Z" href="http://www.animenewsnetwork.com/news/2010-03-03/5-loveplus-virtual-girlfriend-manga-series-detailed">5 &lt;cite&gt;Loveplus&lt;/cite&gt; Virtual Girlfriend Manga Series Detailed</news>
+<news datetime="2013-08-06T08:30:31Z" href="http://www.animenewsnetwork.com/news/2013-08-06/japan-animation-blu-ray-disc-ranking-july-29-august-4">Japan's Animation Blu-ray Disc Ranking, July 29-August 4</news>
+<staff gid="930838197"><task>Director</task><person id="1935">Takao Kato</person></staff>
+<staff gid="2626886552"><task>Script</task><person id="8724">Keiichi Hasegawa</person></staff>
+<staff gid="2323018994"><task>Script</task><person id="9001">Katsuyuki Sumisawa</person></staff>
+<staff gid="731608033"><task>Script</task><person id="9151">Kenichi Araki</person></staff>
+<staff gid="1771683524"><task>Script</task><person id="11632">Kazuhisa Sakaguchi</person></staff>
+<staff gid="1583298334"><task>Script</task><person id="12159">Katsuhiko Koide</person></staff>
+<staff gid="2626567813"><task>Storyboard</task><person id="1935">Takao Kato</person></staff>
+<staff gid="3516296699"><task>Storyboard</task><person id="3875">Yoshitaka Fujimoto</person></staff>
+<staff gid="495955653"><task>Storyboard</task><person id="5802">Nobuyoshi Habara</person></staff>
+<staff gid="2515879211"><task>Storyboard</task><person id="9819">Kiyoshi Murayama</person></staff>
+<staff gid="2006629110"><task>Storyboard</task><person id="11617">Takahiko Hoshiai</person></staff>
+<staff gid="1531306497"><task>Storyboard</task><person id="12554">Yasuhiro Minami</person></staff>
+<staff gid="3158616395"><task>Storyboard</task><person id="13511">Kouichi Sugitani</person></staff>
+<staff gid="1983787708"><task>Storyboard</task><person id="20756">Gen Dojaga</person></staff>
+<staff gid="1096508304"><task>Storyboard</task><person id="20781">Katsumi Minokuchi</person></staff>
+<staff gid="2006276071"><task>Storyboard</task><person id="22811">Toshiyuki Kono</person></staff>
+<staff gid="3052539517"><task>Storyboard</task><person id="23702">Osamu Inoue</person></staff>
+<staff gid="1102332372"><task>Storyboard</task><person id="47937">Atsushi Ootsuki</person></staff>
+<staff gid="2911698019"><task>Storyboard</task><person id="87562">Hiroshi Kanetsuga</person></staff>
+<staff gid="2330802970"><task>Storyboard</task><person id="91419">Minomu Edamatsu</person></staff>
+<staff gid="1587167154"><task>Episode Director</task><person id="1935">Takao Kato</person></staff>
+<staff gid="3379126083"><task>Episode Director</task><person id="3875">Yoshitaka Fujimoto</person></staff>
+<staff gid="1357351312"><task>Episode Director</task><person id="5802">Nobuyoshi Habara</person></staff>
+<staff gid="745737305"><task>Episode Director</task><person id="11617">Takahiko Hoshiai</person></staff>
+<staff gid="1851443932"><task>Episode Director</task><person id="12554">Yasuhiro Minami</person></staff>
+<staff gid="2280167441"><task>Episode Director</task><person id="13510">Takashi Sudo</person></staff>
+<staff gid="3161300119"><task>Episode Director</task><person id="13511">Kouichi Sugitani</person></staff>
+<staff gid="941759326"><task>Episode Director</task><person id="22811">Toshiyuki Kono</person></staff>
+<staff gid="1406006180"><task>Episode Director</task><person id="23702">Osamu Inoue</person></staff>
+<staff gid="601015585"><task>Episode Director</task><person id="27244">Osamu Sato</person></staff>
+<staff gid="2523529771"><task>Episode Director</task><person id="27246">Naoyoshi Kusaka</person></staff>
+<staff gid="1823027232"><task>Episode Director</task><person id="47937">Atsushi Ootsuki</person></staff>
+<staff gid="2119614589"><task>Episode Director</task><person id="51962">Mihiro Yamaguchi</person></staff>
+<staff gid="3447320556"><task>Episode Director</task><person id="65833">Osamu Kamijō</person></staff>
+<staff gid="630656283"><task>Music</task><person id="87560">Robert Etoll</person></staff>
+<staff gid="1617485556"><task>Music</task><person id="87561">Shinsuke Sugiuchi</person></staff>
+<staff gid="2779539250"><task>Character Design</task><person id="4088">Tadashi Sakazaki</person></staff>
+<staff gid="1352549535"><task>Character Design</task><person id="87559">Tadashi Sakakita</person></staff>
+<staff gid="3779238350"><task>Art Director</task><person id="7723">Chitose Asakura</person></staff>
+<staff gid="2411314642"><task>Animation Director</task><person id="2197">Minoru Ueda</person></staff>
+<staff gid="3341814334"><task>Animation Director</task><person id="4088">Tadashi Sakazaki</person></staff>
+<staff gid="1234808353"><task>Animation Director</task><person id="7595">Akira Takahashi</person></staff>
+<staff gid="4045628200"><task>Animation Director</task><person id="8334">Michinori Chiba</person></staff>
+<staff gid="3508144337"><task>Animation Director</task><person id="9183">Akio Takami</person></staff>
+<staff gid="2018216480"><task>Animation Director</task><person id="11208">Ken Ootsuka</person></staff>
+<staff gid="2146956307"><task>Animation Director</task><person id="15811">Hatsue Kato</person></staff>
+<staff gid="1396730200"><task>Animation Director</task><person id="17714">Kazuhiko Ishii</person></staff>
+<staff gid="1378146754"><task>Animation Director</task><person id="22552">Masami Nagata</person></staff>
+<staff gid="2946279784"><task>Animation Director</task><person id="24180">Takeshi Matsuda</person></staff>
+<staff gid="1327454309"><task>Animation Director</task><person id="27249">Taro Ikegami</person></staff>
+<staff gid="3553686348"><task>Animation Director</task><person id="39938">Toshiya Furuike</person></staff>
+<staff gid="2818550215"><task>Animation Director</task><person id="106270">Osamu Kamei</person></staff>
+<staff gid="3583016697"><task>Executive producer</task><person id="8123">Noriyuki Yoshida</person></staff>
+<staff gid="1702887436"><task>Executive producer</task><person id="8469">Masakazu Kubo</person></staff>
+<staff gid="1486399053"><task>Executive producer</task><person id="8470">Yoshihiko Marutani</person></staff>
+<staff gid="2163503818"><task>Producer</task><person id="8467">Toshihiro Nakazawa</person></staff>
+<staff gid="1924617017"><task>Producer</task><person id="8468">Hiroshi Morotomi</person></staff>
+<cast gid="2425486021" lang="EN"><role>Irvine</role><person id="5517">Mark Gatha</person></cast>
+<cast gid="2402265534" lang="EN"><role>Schubaltz</role><person id="5522">Jonathan Love</person></cast>
+<cast gid="1064870454" lang="EN"><role>Moonbay</role><person id="5524">Onalea Gilbertson</person></cast>
+<cast gid="773756261" lang="EN"><role>Reice</role><person id="7152">Mariette Sluyter</person></cast>
+<cast gid="1668285679" lang="EN"><role>Fiona</role><person id="7154">Carol-Anne Day</person></cast>
+<cast gid="319395354" lang="EN"><role>Prozen</role><person id="7155">Dave Kelly</person></cast>
+<cast gid="3053041731" lang="EN"><role>Dr. D</role><person id="7156">Dave Pettitt</person></cast>
+<cast gid="3132335809" lang="EN"><role>Dr. Rosso</role><person id="7156">Dave Pettitt</person></cast>
+<cast gid="58312176" lang="EN"><role>Zeke</role><person id="7156">Dave Pettitt</person></cast>
+<cast gid="3486642642" lang="EN"><role>Viola</role><person id="7157">Meredith Taylor-Parry</person></cast>
+<cast gid="1494026377" lang="EN"><role>Lieutenant Thomas Shubaltz</role><person id="8256">Ryan Luhning</person></cast>
+<cast gid="3064138298" lang="EN"><role>Raven</role><person id="12945">Robert Scott Henrickson</person></cast>
+<cast gid="819681517" lang="EN"><role>Van</role><person id="15167">Matthew Erickson</person></cast>
+<cast gid="1080007725" lang="ES"><role>Rudolph</role><person id="23408">René Pinochet</person></cast>
+<cast gid="3853781251" lang="ES"><role>Fine Elecyne Line (Fiona)</role><person id="23409">Gianina Talloni</person></cast>
+<cast gid="2521188906" lang="ES"><role>Rob Hartman</role><person id="23412">John Knuckey</person></cast>
+<cast gid="2112116261" lang="ES"><role>Thomas Richard Schubaltz</role><person id="23415">Jorge Lillo</person></cast>
+<cast gid="1112661397" lang="ES"><role>Zeek</role><person id="23415">Jorge Lillo</person></cast>
+<cast gid="1641285904" lang="ES"><role>Mumbei (Moonbay)</role><person id="23418">Viviana Navarro</person></cast>
+<cast gid="934696734" lang="ES"><role>Carl Lichten Shubatlz</role><person id="23419">Carlos Carvajal</person></cast>
+<cast gid="1933532631" lang="ES"><role>Dr. D</role><person id="23429">Marco Antonio Espina</person></cast>
+<cast gid="2377244319" lang="ES"><role>Ban Freiheit (Van)</role><person id="23436">Pablo Ausensi</person></cast>
+<cast gid="3355426003" lang="ES"><role>Irvine</role><person id="57488">Roberto Farias</person></cast>
+<cast gid="1497105334" lang="ES"><role>Lizzy</role><person id="58194">Amaya Forch</person></cast>
+<cast gid="1691500456" lang="IT"><role>Van</role><person id="25641">Davide Garbolino</person></cast>
+<cast gid="2179116633" lang="IT"><role>Fiona</role><person id="25931">Federica Valenti</person></cast>
+<cast gid="3285621909" lang="JA"><role>Moonbay</role><person id="279">Kumiko Watanabe</person></cast>
+<cast gid="3087473557" lang="JA"><role>Carl Lichten Shubatlz</role><person id="384">Yuji Ueda</person></cast>
+<cast gid="17337715" lang="JA"><role>Raven</role><person id="411">Mitsuki Saiga</person></cast>
+<cast gid="1663212181" lang="JA"><role>Tohma</role><person id="776">Kentarou Itou</person></cast>
+<cast gid="864269986" lang="JA"><role>Irvine</role><person id="949">Keiji Fujiwara</person></cast>
+<cast gid="1401296000" lang="JA"><role>Zeek</role><person id="1034">Takuma Suzuki</person></cast>
+<cast gid="2174146692" lang="JA"><role>Van</role><person id="1506">Daisuke Kishio</person></cast>
+<cast gid="1692769442" lang="JA"><role>Luise</role><person id="2134">Gara Takashima</person></cast>
+<cast gid="2504611355" lang="JA"><role>Kruger</role><person id="2380">Iemasa Kayumi</person></cast>
+<cast gid="2566707947" lang="JA"><role>Narration</role><person id="2380">Iemasa Kayumi</person></cast>
+<cast gid="1739655003" lang="JA"><role>Fiine</role><person id="4579">Makiko Ohmoto</person></cast>
+<cast gid="2054344167" lang="JA"><role>Doctor D</role><person id="4590">Keiichi Sonobe</person></cast>
+<cast gid="2778498881" lang="JA"><role>Prozen</role><person id="7134">Houchu Ohtsuka</person></cast>
+<cast gid="1836050505" lang="JA"><role>Rov Harman</role><person id="8674">Jin Horikawa</person></cast>
+<cast gid="3120281463" lang="KO"><role>Moonbay</role><person id="90677">Yun Yeojin</person></cast>
+<cast gid="3467641991" lang="KO"><role>Rov Harman</role><person id="90679">Gi-Hyeung Kim</person></cast>
+<cast gid="2793884877" lang="KO"><role>Raven</role><person id="90685">Yong-Wu Sin</person></cast>
+<cast gid="1590410602" lang="KO"><role>Zeek</role><person id="90685">Yong-Wu Sin</person></cast>
+<cast gid="3418463656" lang="KO"><role>Carl Lichten Shubatlz</role><person id="90686">Beom-Gi Hong</person></cast>
+<cast gid="2004450550" lang="KO"><role>Fiine</role><person id="96177">Yong-Sin Lee</person></cast>
+<cast gid="3326317075" lang="KO"><role>Kruger</role><person id="96179">Seung-Uk Jeong</person></cast>
+<cast gid="3039937383" lang="KO"><role>Irvine</role><person id="96180">Ju-Chang Lee</person></cast>
+<cast gid="1458022055" lang="KO"><role>Prozen</role><person id="96198">Jong-Hwan Son</person></cast>
+<cast gid="4154890101" lang="KO"><role>Luise</role><person id="96199">Ju Jayeong</person></cast>
+<cast gid="3415818236" lang="KO"><role>Doctor D</role><person id="96293">Man-Yeong Park</person></cast>
+<cast gid="2801645955" lang="KO"><role>Tohma</role><person id="96309">Jang Kim</person></cast>
+<cast gid="2213543505" lang="KO"><role>Van</role><person id="96381">Yeong-Seon Kim</person></cast>
+<cast gid="1981494117" lang="TL"><role>Emperor Rudolph</role><person id="15931">Rachel Cordoviz</person></cast>
+<cast gid="1516333935" lang="TL"><role>Moonbay</role><person id="15931">Rachel Cordoviz</person></cast>
+<credit gid="2655741418"><task>Production</task><company id="1017">Shogakukan Productions Co., Ltd.</company></credit>
+<credit gid="2396593095"><task>Production</task><company id="10442">Mainichi Broadcasting System</company></credit></anime></ann>

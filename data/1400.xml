@@ -1,0 +1,228 @@
+<ann><anime id="1400" gid="1429826624" type="TV" name="Mobile Suit Gundam ZZ" precision="TV" generated-on="2016-03-27T02:53:00Z">
+<related-prev rel="sequel of" id="1381"/>
+<related-prev rel="part of" id="4189"/>
+<related-next id="597" rel="sequel"/>
+<related-next id="5680" rel="sequel"/>
+<related-next id="5688" rel="adaptation"/>
+<related-next id="5692" rel="sequel"/>
+<related-next id="11178" rel="side story"/>
+<info gid="1305608972" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A1400-190.jpg" width="200" height="200"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A1400-190.jpg" width="200" height="200"/></info>
+<info gid="188094786" type="Main title" lang="EN">Mobile Suit Gundam ZZ</info>
+<info gid="1486907004" type="Alternative title" lang="EN">Gundam Double Zeta</info>
+<info gid="2690301393" type="Alternative title" lang="EN">Gundam ZZ</info>
+<info gid="3077239712" type="Alternative title" lang="JA">Kidō Senshi Gundam ZZ</info>
+<info gid="2420350329" type="Alternative title" lang="EN">Mobile Suit Gundam Double Zeta</info>
+<info gid="1803973738" type="Alternative title" lang="JA">機動戦士ガンダムZZ</info>
+<info gid="2927226079" type="Genres">action</info>
+<info gid="994963394" type="Genres">comedy</info>
+<info gid="1297169048" type="Genres">drama</info>
+<info gid="2277680077" type="Genres">science fiction</info>
+<info gid="3315194504" type="Themes">mecha</info>
+<info gid="2233173315" type="Themes">military</info>
+<info gid="2386988862" type="Themes">real robot</info>
+<info gid="466781935" type="Objectionable content">TA</info>
+<info gid="3300037307" type="Plot Summary">The year is Universal Century 0088. Directly after the end of the Gryps War, Haman Karn and her army of Zeon remnants on the asteroid Axis begin their quest of reviving the lost empire of the Zabi's, and proclaim themselves as the Neo-Zeon. With the Earth Federation as hapless as ever, only the Anti-Earth Union Group (AEUG) is able oppose the plans of Neo-Zeon. In need of all the help it can get after being decimated in the previous war and losing many of its key members, the AEUG ship Argama enlists the aid of a young junk collector from the Side 1 colony of Shangri-La named Judau Ashta to pilot its newest mobile suit, the ZZ Gundam.</info>
+<info gid="2775084143" type="Running time">Half hour</info>
+<info gid="3344153506" type="Number of episodes">47</info>
+<info gid="3842860317" type="Vintage">1986-03-01 to 1987-01-31</info>
+<info gid="2845730127" type="Opening Theme">#1: &quot;Anime Ja Nai - Yume wo Wasureta Furui Chikyūjin yo&quot; (アニメじゃない〜夢を忘れた古い地球人よ〜; &quot;It's Not an Anime - You Antiquated Earthlings Who Have Forgotten Dreams&quot;) by Masato Arai (eps 1-25)</info>
+<info gid="2982488540" type="Opening Theme">#2: &quot;Silent Voice&quot; (サイレント・ヴォイス) by Jun Hiroe (eps 26-47)</info>
+<info gid="2737529118" type="Ending Theme">#1: &quot;Jidai ga Naiteiru&quot; (時代が泣いている; &quot;The Times Are Crying&quot;) by Masato Arai (eps 1-25)</info>
+<info gid="2172659777" type="Ending Theme">#2: &quot;Issenman-Nen Ginga&quot; (一千万年銀河; &quot;The Ten-Million-Year Galaxy&quot;) by Jun Hiroe (eps 26-47)</info>
+<info gid="1728097074" type="Insert song">&quot;Hoshizora no Believe&quot; (星空のBelieve; &quot;Believe in the Starry Sky&quot;) by Mami Ayukawa (ep 20)</info>
+<info gid="2835412225" type="Insert song">&quot;Zeta - Toki wo Koete&quot; (Z・刻をこえて; &quot;Zeta - Transcending Times&quot;) by Mami Ayukawa (ep 1)</info>
+<info gid="2204752824" type="Official website" lang="JA" href="http://www.gundam-zz.net/">機動戦士ガンダムZZ</info>
+<ratings nb_votes="385" weighted_score="6.6662" bayesian_score="6.69418"/>
+<episode num="1">
+<title gid="2397556743" lang="EN">Prelude ZZ</title></episode>
+<episode num="2">
+<title gid="1902516871" lang="EN">The Young Man from Shangri-La</title></episode>
+<episode num="3">
+<title gid="1386740169" lang="EN">The Knight of the Endra</title></episode>
+<episode num="4">
+<title gid="906621521" lang="EN">Mashymre's Passion</title></episode>
+<episode num="5">
+<title gid="2499592789" lang="EN">Judau's Determination</title></episode>
+<episode num="6">
+<title gid="1772289928" lang="EN">The Menace of the Zssa</title></episode>
+<episode num="7">
+<title gid="2303271761" lang="EN">The Gaza Storm</title></episode>
+<episode num="8">
+<title gid="1774544049" lang="EN">The Funeral Bell Tolls Twice</title></episode>
+<episode num="9">
+<title gid="2164203728" lang="EN">Judau in Space</title></episode>
+<episode num="10">
+<title gid="1317455442" lang="EN">Goodbye, Fa</title></episode>
+<episode num="11">
+<title gid="1419033780" lang="EN">Activate, Double Zeta</title></episode>
+<episode num="12">
+<title gid="275955310" lang="EN">Leina Disappears</title></episode>
+<episode num="13">
+<title gid="2818665390" lang="EN">Sister!</title></episode>
+<episode num="14">
+<title gid="2844548371" lang="EN">Colony of Illusion Part I</title></episode>
+<episode num="15">
+<title gid="2199129777" lang="EN">Colony of Illusion Part II</title></episode>
+<episode num="16">
+<title gid="2734398897" lang="EN">The Argama's Close Quarters Battle</title></episode>
+<episode num="17">
+<title gid="2963489527" lang="EN">Recover! The Core Top</title></episode>
+<episode num="18">
+<title gid="1881665071" lang="EN">Haman's Dark Shadow</title></episode>
+<episode num="19">
+<title gid="1300144689" lang="EN">Puru and Axis</title></episode>
+<episode num="20">
+<title gid="1768352238" lang="EN">Tearful Cecillia Part I</title></episode>
+<episode num="21">
+<title gid="2704538805" lang="EN">Tearful Cecillia Part II</title></episode>
+<episode num="22">
+<title gid="1421132318" lang="EN">Judau Sorties!!</title></episode>
+<episode num="23">
+<title gid="1741052685" lang="EN">Earth Ablaze</title></episode>
+<episode num="24">
+<title gid="1677916569" lang="EN">Siblings' Love on the South Seas</title></episode>
+<episode num="25">
+<title gid="2528750879" lang="EN">Rommel's Face</title></episode>
+<episode num="26">
+<title gid="2315353092" lang="EN">Masai's Heart</title></episode>
+<episode num="27">
+<title gid="738098987" lang="EN">Leina's Blood Part I</title></episode>
+<episode num="28">
+<title gid="2929907858" lang="EN">Leina's Blood Part II</title></episode>
+<episode num="29">
+<title gid="3617642929" lang="EN">Runaway Roux</title></episode>
+<episode num="30">
+<title gid="1906880029" lang="EN">Blue Team Part I</title></episode>
+<episode num="31">
+<title gid="1015289610" lang="EN">Blue Team Part II</title></episode>
+<episode num="32">
+<title gid="1562141916" lang="EN">Beyond the Salt Lake</title></episode>
+<episode num="33">
+<title gid="1861333486" lang="EN">An Afternoon in Dublin</title></episode>
+<episode num="34">
+<title gid="2085653046" lang="EN">Kamille's Voice</title></episode>
+<episode num="35">
+<title gid="2467351677" lang="EN">The Sky is Falling</title></episode>
+<episode num="36">
+<title gid="1661416761" lang="EN">Puru Two's Descent</title></episode>
+<episode num="37">
+<title gid="1931962071" lang="EN">Nahel Argama</title></episode>
+<episode num="38">
+<title gid="2082704966" lang="EN">The Iron Wall of the Jamru Fin</title></episode>
+<episode num="39">
+<title gid="2198136585" lang="EN">The Second Coming of Sarasa</title></episode>
+<episode num="40">
+<title gid="291781063" lang="EN">Tigerbaum's Dream</title></episode>
+<episode num="41">
+<title gid="2070048912" lang="EN">Rasara's Life</title></episode>
+<episode num="42">
+<title gid="596020078" lang="EN">Core 3 Maiden Part I</title></episode>
+<episode num="43">
+<title gid="1053588538" lang="EN">Core 3 Maiden Part II</title></episode>
+<episode num="44">
+<title gid="3082809930" lang="EN">Emary, Wilting Flower</title></episode>
+<episode num="45">
+<title gid="3199561407" lang="EN">The Battle of Axis</title></episode>
+<episode num="46">
+<title gid="3587904755" lang="EN">Vibration</title></episode>
+<episode num="47">
+<title gid="1832008664" lang="EN">Warrior, Once More...</title></episode>
+<news datetime="2001-10-18T04:09:22Z" href="http://www.animenewsnetwork.com/news/2001-10-18/boston-anime-convention-features-mika-akitaka">Boston Anime Convention features Mika Akitaka</news>
+<news datetime="2005-02-08T17:59:48Z" href="http://www.animenewsnetwork.com/news/2005-02-08/super-robot-wars-alpha-3-for-ps2">Super Robot Wars Alpha 3 for PS2</news>
+<news datetime="2008-05-01T14:42:57Z" href="http://www.animenewsnetwork.com/news/2008-05-01/sunrise-producer-kenji-uchida-promoted-to-president">Sunrise Producer Kenji Uchida Promoted to President</news>
+<news datetime="2008-08-05T21:00:08Z" href="http://www.animenewsnetwork.com/news/2008-08-05/japanese-man-arrested-for-pirated-anime-dvd-auctions">Japanese Man Arrested for Pirated Anime DVD Auctions</news>
+<news datetime="2009-07-14T14:39:30Z" href="http://www.animenewsnetwork.com/news/2009-07-14/gundam-zz-bd-boxes-to-ship-with-gundam-frag-cg-shorts">&lt;cite&gt;Gundam ZZ&lt;/cite&gt; BD-Boxes to Ship with 'Gundam Frag' CG Shorts</news>
+<news datetime="2009-08-28T02:28:25Z" href="http://www.animenewsnetwork.com/news/2009-08-27/afro-samurai/resurrection-shigemi-ikeda-wins-emmy">&lt;cite&gt;Afro Samurai: Resurrection's&lt;/cite&gt; Shigemi Ikeda Wins Emmy</news>
+<news datetime="2009-10-01T17:34:21Z" href="http://www.animenewsnetwork.com/news/2009-10-01/japanese-animation-blu-ray-disc-ranking-september-21-27">Japanese Animation Blu-ray Disc Ranking, September 21-27</news>
+<news datetime="2009-12-04T00:54:24Z" href="http://www.animenewsnetwork.com/news/2009-12-03/japan-animation-blu-ray-disc-ranking-november-23-29">Japan's Animation Blu-ray Disc Ranking, November 23-29</news>
+<news datetime="2011-04-25T10:30:00Z" href="http://www.animenewsnetwork.com/news/2011-04-25/new-kadokawa-manga-mag-new-z-gundam-manga-revealed">New Kadokawa Manga Mag, New &lt;cite&gt;Z Gundam&lt;/cite&gt; Manga Revealed</news>
+<news datetime="2011-07-05T03:00:00Z" href="http://www.animenewsnetwork.com/news/2011-07-04/makoto-kobayashi-reveals-space-battleship-yamato-remake">Makoto Kobayashi Reveals &lt;cite&gt;Space Battleship Yamato&lt;/cite&gt; Remake</news>
+<news datetime="2011-11-09T21:38:30Z" href="http://www.animenewsnetwork.com/news/2011-11-09/nikkan-sports/yamato-2199-anime-film-to-open-in-april">&lt;cite&gt;Nikkan Sports:&lt;/cite&gt; &lt;cite&gt;Yamato 2199&lt;/cite&gt; Anime Film to Open in April</news>
+<news datetime="2013-07-06T21:00:05Z" href="http://www.animenewsnetwork.com/news/2013-07-06/daisuki-to-stream-gundam-zz-tv-anime">Daisuki to Stream &lt;cite&gt;Gundam ZZ&lt;/cite&gt; TV Anime</news>
+<news datetime="2014-10-11T19:30:00Z" href="http://www.animenewsnetwork.com:/news/2014-10-11/sunrise-right-stuf-offers-gundam-zz-in-n-america-for-1st-time/.79832">Sunrise, Right Stuf Offers &lt;cite&gt;Gundam ZZ&lt;/cite&gt; in N. America for 1st Time</news>
+<news datetime="2015-07-03T21:56:38Z" href="http://www.animenewsnetwork.com:/news/2015-07-03/right-stuf-sunrise-to-release-original-gundam-tv-anime-on-blu-ray-disc/.90041">Right Stuf/Sunrise to Release Original &lt;cite&gt;Gundam&lt;/cite&gt; TV Anime on Blu-ray Disc</news>
+<news datetime="2015-10-09T22:00:00Z" href="http://www.animenewsnetwork.com:/news/2015-10-09/sunrise-to-dub-gundam-iron-blooded-orphans-release-gundam-build-fighters/.94015">Sunrise to Dub &lt;cite&gt;Gundam: Iron-Blooded Orphans&lt;/cite&gt;, Release &lt;cite&gt;Gundam Build Fighters&lt;/cite&gt;</news>
+<staff gid="739041804"><task>Chief Director</task><person id="100">Yoshiyuki Tomino</person></staff>
+<staff gid="802247317"><task>Scenario</task><person id="1673">Akinori Endo</person></staff>
+<staff gid="2210838311"><task>Scenario</task><person id="8474">Hidemi Kamata</person></staff>
+<staff gid="690052525"><task>Scenario</task><person id="21789">Meigo Endo</person></staff>
+<staff gid="2445923975"><task>Scenario</task><person id="21791">Misao Minamida</person></staff>
+<staff gid="2678339600"><task>Scenario</task><person id="29367">Minoru Yokitani</person></staff>
+<staff gid="1604732520"><task>Scenario</task><person id="119010">Yumiko Suzuki</person></staff>
+<staff gid="1373289280"><task>Scenario</task><person id="139184">Masao Miyazaki</person></staff>
+<staff gid="1534932832"><task>Storyboard</task><person id="121">Toshifumi Kawase</person></staff>
+<staff gid="2362146638"><task>Storyboard</task><person id="1339">Hiroyuki Yokoyama</person></staff>
+<staff gid="3776874357"><task>Storyboard</task><person id="2658">Katsuyoshi Yatabe</person></staff>
+<staff gid="3292376114"><task>Storyboard</task><person id="3154">Osamu Sekita</person></staff>
+<staff gid="2505543239"><task>Storyboard</task><person id="3481">Takashi Imanishi</person></staff>
+<staff gid="919321839"><task>Storyboard</task><person id="6593">Shinji Takamatsu</person></staff>
+<staff gid="1645997949"><task>Storyboard</task><person id="9477">Kazuhiro Mori</person></staff>
+<staff gid="883358155"><task>Storyboard</task><person id="10002">Kunihisa Sugishima</person></staff>
+<staff gid="1526617286"><task>Storyboard</task><person id="11260">Toshifumi Takizawa</person></staff>
+<staff gid="3614805845"><task>Storyboard</task><person id="29367">Minoru Yokitani</person></staff>
+<staff gid="2014462119"><task>Storyboard</task><person id="47555">Kunio Sera</person></staff>
+<staff gid="2787314241"><task>Unit Director</task><person id="121">Toshifumi Kawase</person></staff>
+<staff gid="1275483240"><task>Unit Director</task><person id="1339">Hiroyuki Yokoyama</person></staff>
+<staff gid="2064733365"><task>Unit Director</task><person id="3154">Osamu Sekita</person></staff>
+<staff gid="3986161376"><task>Unit Director</task><person id="3481">Takashi Imanishi</person></staff>
+<staff gid="2396571594"><task>Unit Director</task><person id="4891">Kiyoshi Egami</person></staff>
+<staff gid="890717651"><task>Unit Director</task><person id="6593">Shinji Takamatsu</person></staff>
+<staff gid="1728664738"><task>Unit Director</task><person id="10002">Kunihisa Sugishima</person></staff>
+<staff gid="412730205"><task>Unit Director</task><person id="21127">Jun Hirabayashi</person></staff>
+<staff gid="2759563753"><task>Unit Director</task><person id="21788">Ken Terasawa</person></staff>
+<staff gid="2309751074"><task>Music</task><person id="13151">Shigeaki Saegusa</person></staff>
+<staff gid="1460846974"><task>Original creator</task><person id="19">Hajime Yatate</person></staff>
+<staff gid="1920241296"><task>Original creator</task><person id="100">Yoshiyuki Tomino</person></staff>
+<staff gid="1095753098"><task>Original Manga</task><person id="57993">Toshiya Murakami</person></staff>
+<staff gid="353334180"><task>Character Design</task><person id="4461">Hiroyuki Kitazume</person></staff>
+<staff gid="2144281853"><task>Art Director</task><person id="18">Shigemi Ikeda</person></staff>
+<staff gid="3252024804"><task>Art</task><person id="18">Shigemi Ikeda</person></staff>
+<staff gid="1861125398"><task>Animation Director</task><person id="595">Akihiko Yamashita</person></staff>
+<staff gid="1858105895"><task>Animation Director</task><person id="1279">Naoyuki Onda</person></staff>
+<staff gid="2769798658"><task>Animation Director</task><person id="3547">Sachiko Kamimura</person></staff>
+<staff gid="4027991618"><task>Animation Director</task><person id="4461">Hiroyuki Kitazume</person></staff>
+<staff gid="628714019"><task>Animation Director</task><person id="5028">Toshimitsu Kobayashi</person></staff>
+<staff gid="1283850019"><task>Animation Director</task><person id="11721">Hirohide Shikishima</person></staff>
+<staff gid="1674017907"><task>Animation Director</task><person id="13148">Kisaraka Yamada</person></staff>
+<staff gid="2782643336"><task>Animation Director</task><person id="17432">Masami Ozone</person></staff>
+<staff gid="2075739497"><task>Animation Director</task><person id="19288">Akihiro Kanayama</person></staff>
+<staff gid="2350555936"><task>Animation Director</task><person id="21124">Yorihisa Uchida</person></staff>
+<staff gid="2969133244"><task>Mecha design</task><person id="6998">Mika Akitaka</person></staff>
+<staff gid="1497642319"><task>Sound Director</task><person id="4379">Sadayoshi Fujino</person></staff>
+<staff gid="2194198553"><task>Director of Photography</task><person id="6555">Akio Saitô</person></staff>
+<staff gid="2809351475"><task>Producer</task><person id="3468">Mitsushige Inagaki</person></staff>
+<staff gid="1934674495"><task>Producer</task><person id="7545">Kenji Uchida</person></staff>
+<staff gid="1652799172"><task>Producer</task><person id="29020">Juichi Kamiya</person></staff>
+<cast gid="1114689929" lang="EN"><role>Emary Ounce</role><person id="67791">Andrea Kwan</person></cast>
+<cast gid="1916335855" lang="EN"><role>Haman karn</role><person id="67791">Andrea Kwan</person></cast>
+<cast gid="3441642624" lang="EN"><role>Leina Ashta</role><person id="67791">Andrea Kwan</person></cast>
+<cast gid="1409056025" lang="EN"><role>Roux Louka</role><person id="67791">Andrea Kwan</person></cast>
+<cast gid="2208475078" lang="EN"><role>Chara soon</role><person id="70281">Candice Moore</person></cast>
+<cast gid="256978698" lang="EN"><role>Haman Karn</role><person id="70281">Candice Moore</person></cast>
+<cast gid="1835635697" lang="EN"><role>Mineva Lao Zabi</role><person id="70281">Candice Moore</person></cast>
+<cast gid="2000147099" lang="EN"><role>Ple Two</role><person id="70281">Candice Moore</person></cast>
+<cast gid="797040742" lang="EN"><role>Beecha</role><person id="70285">Russell Wait</person></cast>
+<cast gid="2356508247" lang="EN"><role>Mashymere cello</role><person id="70285">Russell Wait</person></cast>
+<cast gid="2644266419" lang="EN"><role>Iino Abbav</role><person id="70289">Darren Pleavin</person></cast>
+<cast gid="391412415" lang="EN"><role>Judau Ashta</role><person id="70289">Darren Pleavin</person></cast>
+<cast gid="2532147835" lang="EN"><role>Noa Bright</role><person id="70289">Darren Pleavin</person></cast>
+<cast gid="2294726693" lang="JA"><role>Leina Ashta</role><person id="302">Maya Okamoto</person></cast>
+<cast gid="872220292" lang="JA"><role>Iino Abbav</role><person id="543">Masami Kikuchi</person></cast>
+<cast gid="3210905888" lang="JA"><role>Bright Noa</role><person id="699">Hirotaka Suzuoki</person></cast>
+<cast gid="3034643387" lang="JA"><role>Judau Ashta</role><person id="932">Kazuki Yao</person></cast>
+<cast gid="3703832237" lang="JA"><role>Roux Louka</role><person id="974">Naoko Matsui</person></cast>
+<cast gid="3950298714" lang="JA"><role>Mineva Lao Zabi</role><person id="1010">Miki Itou</person></cast>
+<cast gid="477304375" lang="JA"><role>Haman Karn</role><person id="1022">Yoshiko Sakakibara</person></cast>
+<cast gid="1499318339" lang="JA"><role>Mashymre Cello</role><person id="1177">Kenyuu Horiuchi</person></cast>
+<cast gid="2885723115" lang="JA"><role>Glemy Toto</role><person id="1278">Tsutomu Kashiwakura</person></cast>
+<cast gid="2124889784" lang="JA"><role>Elpeo Ple</role><person id="1575">Chieko Honda</person></cast>
+<cast gid="1055905878" lang="JA"><role>Ple Two</role><person id="1575">Chieko Honda</person></cast>
+<cast gid="400405573" lang="JA"><role>Rakan Dakaran</role><person id="2078">Ryunosuke Ohbayashi</person></cast>
+<cast gid="1590750191" lang="JA"><role>Elle Vianno</role><person id="2404">Eriko Hara</person></cast>
+<cast gid="3869771490" lang="JA"><role>Mondo Agake</role><person id="3100">Kôzô Shioya</person></cast>
+<cast gid="1495151799" lang="JA"><role>Emary Ounce</role><person id="6570">Kayoko Fujii</person></cast>
+<cast gid="685622997" lang="JA"><role>Beecha Oleg</role><person id="13152">Shingo Hiromori</person></cast>
+<cast gid="2842170074" lang="JA"><role>Chara Soon</role><person id="66081">Hazuki Kadoma</person></cast>
+<credit gid="126705727"><task>Production</task><company id="34">Sunrise</company></credit>
+<credit gid="810278032"><task>Production</task><company id="1153">Nagoya Broadcasting Network</company></credit>
+<credit gid="571234732"><task>Production</task><company id="9991">Sotsu Co., Ltd.</company></credit></anime></ann>

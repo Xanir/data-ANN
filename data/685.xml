@@ -1,0 +1,66 @@
+<ann><anime id="685" gid="176022621" type="TV" name="Mamimume Mogacho" precision="TV" generated-on="2016-03-27T03:30:53Z">
+<info gid="2749630171" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A685-10.jpg" width="141" height="200"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A685-10.jpg" width="141" height="200"/><img src="http://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A685-10.jpg" width="300" height="427"/></info>
+<info gid="406592222" type="Main title" lang="JA">Mamimume Mogacho</info>
+<info gid="1093014063" type="Alternative title" lang="JA">まみむめもがちょ</info>
+<info gid="2816771522" type="Running time">half hour</info>
+<info gid="593593488" type="Number of episodes">13</info>
+<info gid="1162694007" type="Vintage">2001-07-01 to 2001-09-23</info>
+<info gid="2819671298" type="Opening Theme">&quot;Ano ne~Mamimume Mogacho~&quot; by Nana Mizuki</info>
+<info gid="3105180519" type="Ending Theme">&quot;Shiawase Taishou&quot; by Machiko Toyoshima, Moyu Arishima &amp; Nana Mizuki</info>
+<info gid="799115382" type="Official website" lang="JA" href="http://www.ideaf.co.jp/moga/tv/cho.html">まみむめ☆もがちょ</info>
+<episode num="1">
+<title gid="1148033142" lang="JA">mogacho no karakuri heya</title></episode>
+<episode num="2">
+<title gid="2886909440" lang="JA">nyon no oheya PANIKKU !</title></episode>
+<episode num="3">
+<title gid="2823272321" lang="JA">HANA-chan no ohanabatake</title></episode>
+<episode num="4">
+<title gid="673480706" lang="JA">URADORA sensei no kagai jugyou</title></episode>
+<episode num="5">
+<title gid="1594979131" lang="JA">PUCHIPOPO wa shinbun kisha</title></episode>
+<episode num="6">
+<title gid="2092849569" lang="JA">BAIo- no BIGGUEGGU</title></episode>
+<episode num="7">
+<title gid="1662683518" lang="JA">mako-chan no DANSUBATORU</title></episode>
+<episode num="8">
+<title gid="2787025176" lang="JA">Dr. AFURO no TAMAGO KYACCHI</title></episode>
+<episode num="9">
+<title gid="263205858" lang="JA">GOUGAN wa doko e ?</title></episode>
+<episode num="10">
+<title gid="1321384919" lang="JA">nyori no yama shugyou</title></episode>
+<episode num="11">
+<title gid="2411725274" lang="JA">nyo no oyome SANBA</title></episode>
+<episode num="12">
+<title gid="1824739819" lang="JA">wakocho no OMOCHA de CHACHACHA</title></episode>
+<episode num="13">
+<title gid="1772069233" lang="JA">mogacho no BAABEKYUU</title></episode>
+<staff gid="2099842508"><task>Director</task><person id="27934">Yoshiaki Sato</person></staff>
+<staff gid="1797538466"><task>Scenario</task><person id="73661">Rakko</person></staff>
+<staff gid="1906662403"><task>Storyboard</task><person id="1296">Yoshiaki Tsubata</person></staff>
+<staff gid="3086214990"><task>Storyboard</task><person id="5135">Keisuke Onishi</person></staff>
+<staff gid="1627747055"><task>Storyboard</task><person id="5612">Takaaki Ishiyama</person></staff>
+<staff gid="2247406544"><task>Storyboard</task><person id="22337">Yoshio Mukainakano</person></staff>
+<staff gid="1061039615"><task>Storyboard</task><person id="25680">Nobuhiro Oosugi</person></staff>
+<staff gid="1754763315"><task>Storyboard</task><person id="27934">Yoshiaki Sato</person></staff>
+<staff gid="3799126954"><task>Storyboard</task><person id="32213">Yoshito Hata</person></staff>
+<staff gid="1427744457"><task>Episode Director</task><person id="27934">Yoshiaki Sato</person></staff>
+<staff gid="1407855440"><task>Episode Director</task><person id="37294">Taisuke Katou</person></staff>
+<staff gid="1525670374"><task>Music</task><person id="63560">Kazuhiko Nagai</person></staff>
+<staff gid="1278960824"><task>Character Design</task><person id="63561">Norihisa Kochiwa</person></staff>
+<staff gid="2719797010"><task>Art</task><person id="83056">Tomokazu Takahashi</person></staff>
+<staff gid="2024446255"><task>Animation Director</task><person id="20012">Takeshi Itou</person></staff>
+<staff gid="1366870357"><task>Art design</task><person id="16700">Yukiko Abe</person></staff>
+<staff gid="2311857464"><task>Art design</task><person id="19961">Yoko Yoshida</person></staff>
+<staff gid="2911255852"><task>Art design</task><person id="46059">Hiromi Furuhara</person></staff>
+<staff gid="1858738988"><task>Sound Director</task><person id="1372">Hiromi Kikuta</person></staff>
+<staff gid="2179841268"><task>Cgi Director</task><person id="24817">Hironao Imagawa</person></staff>
+<staff gid="2063261736"><task>Producer</task><person id="37294">Taisuke Katou</person></staff>
+<cast gid="3017222349" lang="JA"><role>Mako-chan</role><person id="436">Nana Mizuki</person></cast>
+<cast gid="2104749437" lang="JA"><role>Nyon</role><person id="7662">Miki Machii</person></cast>
+<cast gid="3968845622" lang="JA"><role>Wakocho</role><person id="8021">Akira Nakagawa</person></cast>
+<cast gid="3261428883" lang="JA"><role>Mogacho</role><person id="9921">Yukiko Mannaka</person></cast>
+<cast gid="475818043" lang="JA"><role>Puchipopo</role><person id="46928">Mami Fukai</person></cast>
+<credit gid="566563"><task>Production</task><company id="79">Sega</company></credit>
+<credit gid="3050397104"><task>Production</task><company id="262">TV Tokyo</company></credit>
+<credit gid="3829521393"><task>Production</task><company id="1108">Idea Factory</company></credit>
+<credit gid="1551072630"><task>Production</task><company id="8843">Alpha Broadcasting System</company></credit></anime></ann>

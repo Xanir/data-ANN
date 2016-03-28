@@ -1,0 +1,767 @@
+<ann><anime id="228" gid="1494482867" type="TV" name="Kiteretsu Daihyakka" precision="TV" generated-on="2016-03-27T02:25:13Z">
+<info gid="2134701185" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A228-8.jpg" width="181" height="200"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A228-8.jpg" width="181" height="200"/></info>
+<info gid="2693069131" type="Main title" lang="JA">Kiteretsu Daihyakka</info>
+<info gid="590135081" type="Alternative title" lang="EN">Kiteretsu Encyclopedia</info>
+<info gid="2736443134" type="Alternative title" lang="ES">Kiteretsu, el primo más listo de Nobita</info>
+<info gid="1828735083" type="Alternative title" lang="PT">Kiteretsu, o primo mais esperto de Nobita</info>
+<info gid="3868416349" type="Alternative title" lang="AR">المخترع الصغير</info>
+<info gid="1617563829" type="Alternative title" lang="JA">キテレツ大百科</info>
+<info gid="3082851306" type="Alternative title" lang="ZH-TW">奇天烈大百科</info>
+<info gid="586335565" type="Number of episodes">331</info>
+<info gid="2871368137" type="Vintage">1988-03-27 to 1996-06-09</info>
+<info gid="270768543" type="Opening Theme">#1: &quot;Oyome-san ni Natte Agenaizo&quot; by Kaori Moritani (eps 1-24)</info>
+<info gid="2967529733" type="Opening Theme">#2: &quot;Body dake Lady&quot; by Junko Uchida (eps 25-60)</info>
+<info gid="1375204378" type="Opening Theme">#3: &quot;Yumemiru Jikan&quot; by Megumi Mori (eps 61-86)</info>
+<info gid="2170490977" type="Opening Theme">#4: &quot;Hajimete No Chu&quot; by Anshin Papa (eps 87-108)</info>
+<info gid="2141119060" type="Opening Theme">#5: &quot;Suimin Fuskou&quot; by Chicks (eps 109-170)</info>
+<info gid="2236377973" type="Opening Theme">#6: &quot;Oryori Koshinkyoku&quot; by Yuka (eps 171-331)</info>
+<info gid="1542960505" type="Ending Theme">#1: &quot;Magical Boy Magical Heart&quot; by Kaori Moritani (eps 1-16)</info>
+<info gid="2054837888" type="Ending Theme">#2: &quot;Race no Cardigan&quot; by Kaori Sakagami (eps 17-24)</info>
+<info gid="2511490189" type="Ending Theme">#3: &quot;Korosuke Rock&quot; by Junko Uchida (eps 25-60)</info>
+<info gid="946422968" type="Ending Theme">#4: &quot;Felt no Pencase&quot; by Megumi Mori (eps 61-86)</info>
+<info gid="3385852714" type="Ending Theme">#5: &quot;Merry ha tada no Tomodachi&quot; by Toshiko Fujita (eps 87-108)</info>
+<info gid="2196265564" type="Ending Theme">#6: &quot;Hajimete no Chuu (はじめてのチュウ; My First Kiss)&quot; by Anshin Papa (eps 109-170,213-290,311-331)</info>
+<info gid="2513423428" type="Ending Theme">#7: &quot;Happy Birthday&quot; by Yuka (eps 171-212)</info>
+<info gid="517384222" type="Ending Theme">#8: &quot;Uwasa no Kiss&quot; by TOKIO (eps 291-310)</info>
+<info gid="2518238114" type="Official website" lang="JA" href="http://www.5-ace.co.jp/kiteretsu/">キテレツ大百科</info>
+<ratings nb_votes="16" weighted_score="6.4078" bayesian_score="6.90767"/>
+<episode num="0">
+<title part="A" gid="2603158457" lang="JA">daihakken ! KITERETSU dai hyakka</title>
+<title part="B" gid="2168197153" lang="JA">tsuyoi zo ! touguri musha</title>
+<title part="C" gid="631241543" lang="JA">shin kirou de yattsukero</title>
+<title part="D" gid="548575924" lang="JA">sora no goyou wa KITERETSU koukuu</title>
+<title part="E" gid="3059852860" lang="JA">katamichi TAIMUMASHIN</title>
+<title part="F" gid="3445028113" lang="JA">KIKKOU fune no daibouken</title></episode>
+<episode num="1">
+<title part="A" gid="3159445460" lang="EN">Spence roller assistant Nari</title>
+<title part="B" gid="1947971265" lang="EN">The treasure hunt in the latent Earth!</title></episode>
+<episode num="2">
+<title part="A" gid="2044654507" lang="EN">Sakura's Chill Tsutomusan</title>
+<title part="B" gid="2219589775" lang="EN">Nari to make animal play</title></episode>
+<episode num="3">
+<title gid="515625584" lang="EN">Adventure to the moon by hand rocket</title></episode>
+<episode num="4">
+<title part="A" gid="2380179481" lang="EN">Pounding in the dark</title>
+<title part="B" gid="962205044" lang="EN">Resentment candy</title></episode>
+<episode num="5">
+<title gid="1154666819" lang="EN">Easy hiking in the loopholes of Tengu</title></episode>
+<episode num="6">
+<title part="A" gid="1524954975" lang="EN">Trick warrior that came back</title>
+<title part="B" gid="2015557848" lang="EN">Moving in Ruyi light</title></episode>
+<episode num="7">
+<title part="A" gid="2577712801" lang="EN">Playing house House and Miyo-chan</title>
+<title part="B" gid="2562357363" lang="EN">Wasuren hat! ?</title></episode>
+<episode num="8">
+<title part="A" gid="1493143380" lang="EN">Space Kai Majin Butagorira</title>
+<title part="B" gid="4058142300" lang="EN">Let's play a mini-town</title></episode>
+<episode num="9">
+<title part="A" gid="2943010218" lang="EN">Memories camera</title>
+<title part="B" gid="1354773664" lang="EN">Showdown! Assistant roller pair Kawaraban boy</title></episode>
+<episode num="10">
+<title gid="2722510713" lang="EN">Baby dinosaurs and roller assistant! Adventure of the South Sea! !</title></episode>
+<episode num="11">
+<title part="A" gid="2853081806" lang="EN">Human alter ego copy machine! ?</title>
+<title part="B" gid="2581913885" lang="EN">I go to the roller assistant school</title></episode>
+<episode num="12">
+<title part="A" gid="830015423" lang="EN">Relaxation in a timely de-</title>
+<title part="B" gid="2082748968" lang="EN">Playing in the water even in moderation</title></episode>
+<episode num="13">
+<title gid="1866155686" lang="EN">Sweet Home on the snow</title></episode>
+<episode num="14">
+<title part="A" gid="2289473523" lang="EN">Contact lantern Bakeriet Torimonocho</title>
+<title part="B" gid="750721973" lang="EN">Ghost story button lights</title></episode>
+<episode num="15">
+<title part="A" gid="2463916625" lang="EN">Security guard an inch</title>
+<title part="B" gid="3069214075" lang="EN">Bubble dome</title></episode>
+<episode num="16">
+<title gid="2895612982" lang="EN">Baseball Tournament in classroom visitations parent and child of their daddy</title></episode>
+<episode num="17">
+<title gid="2723553342" lang="EN">Alone in the Tongariro disguised of sorrow</title></episode>
+<episode num="18">
+<title gid="2062508667" lang="EN">Summer vacation you do not say to anyone who met Edison</title></episode>
+<episode num="19">
+<title part="A" gid="2688558614" lang="EN">Hiehie clay chilly water</title>
+<title part="B" gid="3607648372" lang="EN">Summer Festival and typhoon</title></episode>
+<episode num="20">
+<title gid="2517603347" lang="EN">Roller assistant! Power up Battle</title></episode>
+<episode num="21">
+<title gid="2343617495" lang="EN">42.195 km Hashire! Marathon Korigori Nari! ?</title></episode>
+<episode num="22">
+<title gid="1844990913" lang="EN">Whose hands town athletic meet the MVP! ?</title></episode>
+<episode num="23">
+<title part="A" gid="1856316899" lang="EN">Listening ear hood</title>
+<title gid="3333617171" lang="JA">きき耳ずきん</title>
+<title part="B" gid="3624515689" lang="EN">Taste of croquettes sprinkled</title></episode>
+<episode num="24">
+<title part="A" gid="2501238542" lang="EN">Hundred-point scale in the lantern at noonday</title>
+<title part="B" gid="2077340772" lang="EN">Falling in love roller assistant</title></episode>
+<episode num="25">
+<title gid="2217853883" lang="EN">Kyoretsu! ! Phantom Dotekabochan</title></episode>
+<episode num="26">
+<title gid="2988720123" lang="EN">Hikaei! Komon Somerset large villain?</title></episode>
+<episode num="27">
+<title gid="3286543912" lang="EN">You can do it! Reverse up winning strategy</title></episode>
+<episode num="28">
+<title part="A" gid="3870444146" lang="EN">Tsuru spelled picking dream</title>
+<title part="B" gid="1224016987" lang="EN">Roller assistant is matchmaking</title></episode>
+<episode num="29">
+<title gid="2034340360" lang="EN">Atchitchi! Journey To The Center of the Earth in search hot spring</title></episode>
+<episode num="30">
+<title gid="1121284207" lang="EN">Story of friendship and roller Chibigorira assistant</title></episode>
+<episode num="31">
+<title gid="1210400617" lang="EN">You're the star! Urashima Kametar</title></episode>
+<episode num="32">
+<title gid="2133311288" lang="EN">The prima donna Eureka Sai-sama! ?</title></episode>
+<episode num="33">
+<title gid="2243834235" lang="EN">I I FOUND YOU Santa Claus</title></episode>
+<episode num="34">
+<title gid="676797500" lang="EN">After 10 years of flower bridegroom divination Miyo-chan coming-of-age ceremony</title></episode>
+<episode num="35">
+<title gid="3120294610" lang="EN">Mystery in the Snow Country</title></episode>
+<episode num="36">
+<title part="A" gid="662851709" lang="EN">Skating special training of Butagorira</title>
+<title part="B" gid="2349882618" lang="EN">Polar bear swim tournament</title></episode>
+<episode num="37">
+<title gid="1064358611" lang="EN">New annual must-see! Girl with red school bag</title></episode>
+<episode num="38">
+<title gid="2738062244" lang="EN">Marry a prince! ? Miyoko princess</title></episode>
+<episode num="39">
+<title gid="1881336452" lang="EN">U-turn to the north country in Hokutosei</title></episode>
+<episode num="40">
+<title gid="1898757026" lang="EN">Become assistant roller smart ass! ?</title></episode>
+<episode num="41">
+<title gid="392271096" lang="EN">Bride elect of the roller assistant Wakasama</title></episode>
+<episode num="42">
+<title gid="3201551429" lang="EN">Welcome to the land of invitation from south of dinosaur!</title></episode>
+<episode num="43">
+<title gid="1407687490" lang="EN">Butagorira longing girl older?</title></episode>
+<episode num="44">
+<title gid="1706813491" lang="EN">Shot in ultra wandering maze! ?</title></episode>
+<episode num="45">
+<title gid="985773999" lang="EN">Find the butterfly illusion of get-rich-quick</title></episode>
+<episode num="46">
+<title gid="1147616290" lang="EN">Echo vegetables to meet to refer to these signals as bits,</title></episode>
+<episode num="47">
+<title gid="1927458202" lang="EN">Maca mysterious? Otohime-sama Grateful Crane</title></episode>
+<episode num="48">
+<title part="A" gid="1927582662" lang="EN">How to make an earthquake</title>
+<title part="B" gid="1650953056" lang="EN">Reconciled with memories House</title></episode>
+<episode num="49">
+<title gid="2367381600" lang="EN">To be home free! Class officer in the limelight light</title></episode>
+<episode num="50">
+<title gid="1915233392" lang="EN">Lie! The vegetables that hate Butagorira is! ?</title></episode>
+<episode num="51">
+<title gid="801996129" lang="EN">Adventure of underground found Kinkira Jinshan</title></episode>
+<episode num="52">
+<title gid="2117461598" lang="EN">Popular! 5 years three sets swan teacher</title></episode>
+<episode num="53">
+<title gid="2369114537" lang="EN">Myna bird roller assistant of fear is dangerous!</title></episode>
+<episode num="54">
+<title gid="3029248382" lang="EN">The tear is also in the eyes of the samurai inspiring bell</title></episode>
+<episode num="55">
+<title gid="3286049365" lang="EN">Eureka large pinch? Invention ban daddy!</title></episode>
+<episode num="56">
+<title gid="987119041" lang="EN">Shooting excellent condition! Babylon Great Palace of Hollywood</title></episode>
+<episode num="57">
+<title gid="2679735496" lang="EN">The prophecies! Tomorrow Zoshi of the roller assistant</title></episode>
+<episode num="58">
+<title gid="1027714746" lang="EN">Invention at last! Yuusakai's dream to triple the summer vacation</title></episode>
+<episode num="59">
+<title gid="782336427" lang="EN">The gavel tired of fool's errand</title></episode>
+<episode num="60">
+<title gid="2174628261" lang="EN">One day in August, lost child whale blew sky</title></episode>
+<episode num="61">
+<title gid="1236038354" lang="EN">Flying It's scary! Perfect with three half-mirror</title></episode>
+<episode num="62">
+<title gid="831211416" lang="EN">Ghost is full! ? Panic in the camp</title></episode>
+<episode num="63">
+<title gid="1650987896" lang="EN">Hashire! Four-wheel drive Grand Prix of Tongariro issue dream</title></episode>
+<episode num="64">
+<title gid="2448598623" lang="EN">Makoto Nari! Mountain climbing in Kikko ship</title></episode>
+<episode num="65">
+<title gid="156507580" lang="EN">Butagorira-better, gorilla gorilla</title></episode>
+<episode num="66">
+<title gid="2691935054" lang="EN">LOL! Otohime that came</title></episode>
+<episode num="67">
+<title gid="2985560730" lang="EN">Touch it rains rain! Your hands the umbrella forget</title></episode>
+<episode num="68">
+<title gid="1499230757" lang="EN">I approach the mystery of Yamataikoku! Miyoko is Himiko?</title></episode>
+<episode num="69">
+<title gid="2637992157" lang="EN">Wedding full course aligned everyone looking for fall</title></episode>
+<episode num="70">
+<title gid="3109828933" lang="EN">Test is perfect, too! ! CRAM pillow</title></episode>
+<episode num="71">
+<title gid="2166161395" lang="EN">5 more minutes! Reverse time machine what such a case</title></episode>
+<episode num="72">
+<title gid="2725211938" lang="EN">Bees and grandfather came</title></episode>
+<episode num="73">
+<title gid="2841188144" lang="EN">Grandson Santa's Little Match Girl Nari!</title></episode>
+<episode num="74">
+<title gid="1099798140" lang="EN">Success at last! 2001 - A university campus</title></episode>
+<episode num="75">
+<title gid="773269537" lang="EN">Thugs Did you see! I go dual wield roller assistant western</title></episode>
+<episode num="76">
+<title gid="3266913930" lang="EN">Snow mountain fairy tale! Bear story was wearing boots</title></episode>
+<episode num="77">
+<title gid="2124793759" lang="EN">Pokkapokka! Spring has come in Kotatsumuri</title></episode>
+<episode num="78">
+<title gid="303130574" lang="EN">Yakkodako go up! A gift from Edo Period</title></episode>
+<episode num="79">
+<title gid="1084400769" lang="EN">Students must see! Spring you come Tsutomusan's! ?</title></episode>
+<episode num="80">
+<title gid="793529330" lang="EN">Top secret information! Butagorira was a woman? !</title></episode>
+<episode num="81">
+<title gid="1046122102" lang="EN">Endangered! Eureka flow Toki Great Mission to Rescue</title></episode>
+<episode num="82">
+<title gid="2150334342" lang="EN">Your face-to-face over emissions at roller assistant Tengunonukeana bear</title></episode>
+<episode num="83">
+<title gid="604796569" lang="EN">Memories came tumbling-Tsutomusan Mother</title></episode>
+<episode num="84">
+<title gid="2598053284" lang="EN">Tongariro Panic! Megumi doll firestorm</title></episode>
+<episode num="85">
+<title gid="1194122014" lang="EN">Album making in Edo of flower along the way roller Jochin</title></episode>
+<episode num="86">
+<title gid="4024782838" lang="EN">Birthday present of the roller assistant disappeared</title></episode>
+<episode num="87">
+<title gid="2150323754" lang="EN">The goodbye to lost child! Sound direction insect brooch! !</title></episode>
+<episode num="88">
+<title gid="2968829965" lang="EN">It is perfect to visit home! ! Nagatchirimen</title></episode>
+<episode num="89">
+<title gid="666833612" lang="EN">The bamboo basket rival beans roller of the roller assistant! !</title></episode>
+<episode num="90">
+<title gid="1978944674" lang="EN">Beans roller whirlwind in admirable fan!</title></episode>
+<episode num="91">
+<title gid="595477921" lang="EN">May Tondeke disease? ! I get on the cloud Miyo-chan</title></episode>
+<episode num="92">
+<title gid="544831120" lang="EN">Pinch roller assistant! Samurai will, which is not to tell a lie</title></episode>
+<episode num="93">
+<title gid="3345967245" lang="EN">Consternation confession! Cute pony on the second floor of my house</title></episode>
+<episode num="94">
+<title gid="1662980384" lang="EN">Sumo exclamation! The wrestlers looking at dog type Spirited Away Detector</title></episode>
+<episode num="95">
+<title gid="1037008935" lang="EN">Tsutomusan san rainy Chimaki to forget ball in throat</title></episode>
+<episode num="96">
+<title gid="1776107216" lang="EN">This made of money! Carrot and Madame Curie</title></episode>
+<episode num="97">
+<title gid="2153982613" lang="EN">Butagorira parent and child came from 21 century</title></episode>
+<episode num="98">
+<title gid="1291411703" lang="EN">Komon-sama surprised! ? Inro Nari Doki rice</title></episode>
+<episode num="99">
+<title gid="1109745226" lang="EN">Konoyubitomare people that do not break the vine!</title></episode>
+<episode num="100">
+<title gid="2316795669" lang="EN">Found in the last plate off! ? Eight hundred and eight was a fishmonger</title></episode>
+<episode num="101">
+<title gid="1761579122" lang="EN">The Dase find the Encyclopedia Gaiden flowers Expo summer!</title></episode>
+<episode num="102">
+<title gid="835412617" lang="EN">Poor banana SOS in the sea of summer!</title></episode>
+<episode num="103">
+<title gid="2948254404" lang="EN">Homework is dangerous! Let's make the 32 days in August! !</title></episode>
+<episode num="104">
+<title gid="467629083" lang="EN">Rinrin! This cricket rock band</title></episode>
+<episode num="105">
+<title gid="1531480072" lang="EN">Piper Tsutomu chan genius roller assistant festival!</title></episode>
+<episode num="106">
+<title gid="3336897706" lang="EN">Roller assistant deep blue! Is cut the topknot! ?</title></episode>
+<episode num="107">
+<title gid="2009110450" lang="EN">Tomato What exactly is Nari Nasutefutefu</title></episode>
+<episode num="108">
+<title gid="2732332277" lang="EN">Wow! The stone baked potato come-shy</title></episode>
+<episode num="109">
+<title gid="3026602402" lang="EN">The Strange! Vegetables have a chat</title></episode>
+<episode num="110">
+<title gid="3066474140" lang="EN">Able to run forever! SL Express Asia issue of illusion! !</title></episode>
+<episode num="111">
+<title gid="2804328693" lang="EN">Hakodate, iguana, squid somen</title></episode>
+<episode num="112">
+<title gid="3214935179" lang="EN">Fiance of the roller assistant! Purple bedsheets</title></episode>
+<episode num="113">
+<title gid="650207154" lang="EN">Earthquake! Thunder! Fire! Koller Great Satan! ?</title></episode>
+<episode num="114">
+<title gid="2011156719" lang="EN">The hand of love in general cleaning Tsutomusan's fund-raising! !</title></episode>
+<episode num="115">
+<title gid="719578493" lang="EN">Flower's life is short! Last day of Butagorira</title></episode>
+<episode num="116">
+<title gid="2822793469" lang="EN">White Christmas in the missing person Damas</title></episode>
+<episode num="117">
+<title gid="3174944588" lang="EN">Spring and spring! Hana pigeon beans Taisho Roman</title></episode>
+<episode num="118">
+<title gid="2177685941" lang="EN">CM song of eight hundred and eight! Unfinished Symphony</title></episode>
+<episode num="119">
+<title gid="669698872" lang="EN">Strict Yagura king had the apron of eight hundred and eight!</title></episode>
+<episode num="120">
+<title gid="2605420916" lang="EN">Setsubun (confidential) information! Demon hold on alive</title></episode>
+<episode num="121">
+<title gid="3471073548" lang="EN">Open day, a little bird made a haiku!</title></episode>
+<episode num="122">
+<title gid="2448951174" lang="EN">Of have with anything! ? Butagorira and Tsutomusan's</title></episode>
+<episode num="123">
+<title gid="1750722123" lang="EN">Time Spence was a dick train ...</title></episode>
+<episode num="124">
+<title gid="1509008257" lang="EN">Right out in Iyashin round! Bad people good person</title></episode>
+<episode num="125">
+<title gid="573926938" lang="EN">Garn! Nari want to be a dog Spence!</title></episode>
+<episode num="126">
+<title gid="2727885072" lang="EN">Large scoop! The twin babies to eight hundred and eight</title></episode>
+<episode num="127">
+<title gid="3704641630" lang="EN">Large failure of the century! Chu Sing La Nari</title></episode>
+<episode num="128">
+<title gid="4127167981" lang="EN">Croquette of secret taste Nari of sailor</title></episode>
+<episode num="129">
+<title gid="3448530409" lang="EN">Roller assistant wanted in the cash card! ?</title></episode>
+<episode num="130">
+<title gid="3417555726" lang="EN">Chiruchiru Sakura? Miyoko princess is dangerous! !</title></episode>
+<episode num="131">
+<title gid="2518519900" lang="EN">This is the first love! ? Two shot and greengrocer Onana</title></episode>
+<episode num="132">
+<title gid="2563640151" lang="EN">Catastrophe! Beard grew on me and mom! ?</title></episode>
+<episode num="133">
+<title gid="2758301764" lang="EN">Hooky goods ultimate! Pillow sham</title></episode>
+<episode num="134">
+<title gid="2618335167" lang="EN">Outdoor life! Journey of Butagorira discipling</title></episode>
+<episode num="135">
+<title gid="2232011254" lang="EN">Memories of naked! Sakura hot water story</title></episode>
+<episode num="136">
+<title gid="2767108428" lang="EN">To dad who do not play me! Debauchery spelled</title></episode>
+<episode num="137">
+<title gid="2805589045" lang="EN">Butagorira organized! Green large kindergarten class reunion</title></episode>
+<episode num="138">
+<title gid="1593737173" lang="EN">I want to see if a child! ! Report of mom and dad</title></episode>
+<episode num="139">
+<title gid="2311150099" lang="EN">Not look! ! Married life dream Tongari</title></episode>
+<episode num="140">
+<title gid="3452572522" lang="EN">Common sense of the past! ? Three standing imposing first-run total natural color</title></episode>
+<episode num="141">
+<title gid="2527062118" lang="EN">Cooler-free! Ghost story, Hyakutake Island watermelon palace</title></episode>
+<episode num="142">
+<title gid="1785613809" lang="EN">Oyster water party of mysterious ice day of the week also mystery</title></episode>
+<episode num="143">
+<title gid="3378856255" lang="EN">Dragonfly ..</title></episode>
+<episode num="144">
+<title gid="2980055420" lang="EN">The appearance to the pool! Crocodile Peter Pan</title></episode>
+<episode num="145">
+<title gid="1150203456" lang="EN">Police waste? Gomen in Hashita cushion!</title></episode>
+<episode num="146">
+<title gid="2578578538" lang="EN">Exchange diary of tears! Butagorira The K Kunnari</title></episode>
+<episode num="147">
+<title gid="1592458423" lang="EN">Fall of reading! Handwriting analysis pyrophyllite and impressions potatoes</title></episode>
+<episode num="148">
+<title gid="600790943" lang="EN">Jaw-dropping! Roller assistant to wearing skirts</title></episode>
+<episode num="149">
+<title gid="1393365170" lang="EN">Mom I do not need it! ? Trick cook Nari</title></episode>
+<episode num="150">
+<title gid="1970902693" lang="EN">Items of excursion! Butagorira seven dishes set</title></episode>
+<episode num="151">
+<title gid="3594620015" lang="EN">To people who do not want to be pointed in the classroom! Specified fan Nari</title></episode>
+<episode num="152">
+<title gid="2608383802" lang="EN">Surprise in Hakone! Bandits of the Edo period</title></episode>
+<episode num="153">
+<title gid="2326855504" lang="EN">Reconciled crane play around! Anger of pig gorilla pants</title></episode>
+<episode num="154">
+<title gid="2061485134" lang="EN">Disgusting! Butagorira became Manneken Pis</title></episode>
+<episode num="155">
+<title gid="2063892378" lang="EN">Mystery object! Hetaumadori in the piano</title></episode>
+<episode num="156">
+<title gid="1580316348" lang="EN">Butagorira also Uruuru! Mom in the blackboard</title></episode>
+<episode num="157">
+<title gid="1370088240" lang="EN">Christmas gift snowman gave me</title></episode>
+<episode num="158">
+<title gid="2798007849" lang="EN">Rare invention! ? Homework fluently If Hasame in silence</title></episode>
+<episode num="159">
+<title gid="2936305871" lang="EN">Roller assistant consternation! Nichikome friendship with hat Yajiro! ?</title></episode>
+<episode num="160">
+<title gid="3878914816" lang="EN">Surprised to open! Lottery that was delayed in the desk</title></episode>
+<episode num="161">
+<title gid="3169623360" lang="EN">Rarity of spring! Butagorira wrote a timetable</title></episode>
+<episode num="162">
+<title gid="2978056182" lang="EN">You can become a star in Butagorira! Maru-anoni ...</title></episode>
+<episode num="163">
+<title gid="1736066837" lang="EN">Lang Lang family! ? Pig gorilla family</title></episode>
+<episode num="164">
+<title gid="719820338" lang="EN">Crisis of civilization! One order ramen from classroom</title></episode>
+<episode num="165">
+<title gid="1525930483" lang="EN">Tick! Beware club fire Butagorira</title></episode>
+<episode num="166">
+<title gid="3630358243" lang="EN">Passing soap opera! Joetsu Shinkansen of love</title></episode>
+<episode num="167">
+<title gid="2874892865" lang="EN">At home! ? Commemorative photo aligned family</title></episode>
+<episode num="168">
+<title gid="1566048483" lang="EN">Zo~tsu! ! Large lost came from the Edo period</title></episode>
+<episode num="169">
+<title gid="216264236" lang="EN">Lie like! Door was on the TV</title></episode>
+<episode num="170">
+<title gid="3066926741" lang="EN">Famous Dog of the century! Gift from stray dog Ben</title></episode>
+<episode num="171">
+<title gid="2432969470" lang="EN">The glasses in the giraffe! ? Hashigoro story</title></episode>
+<episode num="172">
+<title gid="3668781096" lang="EN">Seabed SOS! Shark gold tooth and Ryuuguunotsukai</title></episode>
+<episode num="173">
+<title gid="1575701588" lang="EN">Sun of the living room! Stepping stone and wall clock</title></episode>
+<episode num="174">
+<title gid="2903807130" lang="EN">Shot in bird heart device! The large close to the heart of pigeon</title></episode>
+<episode num="175">
+<title gid="1632876939" lang="EN">Secret special training! Tongariro or get used to Rocky</title></episode>
+<episode num="176">
+<title gid="1304058317" lang="EN">Found in Sen Kagamizu! Sound strange thing in Tokyo</title></episode>
+<episode num="177">
+<title gid="2214002772" lang="EN">Changing schools sorry! Sankin Ho Thailand Miyo-chan</title></episode>
+<episode num="178">
+<title gid="2278829773" lang="EN">Tongariro Shocking! Illusion sugar and brandy</title></episode>
+<episode num="179">
+<title gid="2333715504" lang="EN">Era of roller assistant! Bus 10 yen at ¥ 5 croquette</title></episode>
+<episode num="180">
+<title gid="1971086357" lang="EN">Rice planting tour! Swine fever and Tongarashi</title></episode>
+<episode num="181">
+<title gid="2560979464" lang="EN">Ben also amazed! Incense analgesic-only flying hurt</title></episode>
+<episode num="182">
+<title gid="2401822699" lang="EN">Super strange! ? Tanabata bamboo shoots Nobel Prize</title></episode>
+<episode num="183">
+<title gid="1513758982" lang="EN">Master thief appeared! The name is Joe injection</title></episode>
+<episode num="184">
+<title gid="1755704223" lang="EN">I give to the lost people! Meutsurikonari</title></episode>
+<episode num="185">
+<title gid="974389364" lang="EN">U-turn beetles of Japan's first! Black circle Nari</title></episode>
+<episode num="186">
+<title gid="1589170852" lang="EN">Yure also deep blue! Report cards Butagorira</title></episode>
+<episode num="187">
+<title gid="4007945499" lang="EN">Talk tears! Disastrous family vacation Butagorira</title></episode>
+<episode num="188">
+<title gid="3322571776" lang="EN">Night skiing is also deep blue! Adult experience here-today-gone-tomorrow</title></episode>
+<episode num="189">
+<title gid="1632254818" lang="EN">Idol Tagosaku rumble of the fall harvest of rice field</title></episode>
+<episode num="190">
+<title gid="1803637938" lang="EN">Butagorira also po ~! Mom first love era</title></episode>
+<episode num="191">
+<title gid="703323357" lang="EN">The appearance of the house's Tsutomusan! Bus stop rumble of the phantom</title></episode>
+<episode num="192">
+<title gid="3065563360" lang="EN">Holiday if you ride! Ally of Dodge Norakura</title></episode>
+<episode num="193">
+<title gid="2532166964" lang="EN">Heirloom of eight hundred and eight! Hundred years Issue rickety bicycle</title></episode>
+<episode num="194">
+<title gid="4097825346" lang="EN">Autumn Sun Sun! With love from the Sumida River</title></episode>
+<episode num="195">
+<title gid="1772321442" lang="EN">Battle Athletes of autumn! The game was in round Rin Rin</title></episode>
+<episode num="196">
+<title gid="709074451" lang="EN">Finally found! tree excursion specialty rucksack is</title></episode>
+<episode num="197">
+<title gid="3447832814" lang="EN">Explore memories! There was a dinosaur in 15 years ago! ?</title></episode>
+<episode num="198">
+<title gid="3165796653" lang="EN">Whoops! rumble roller assistant gave birth eggs</title></episode>
+<episode num="199">
+<title gid="1808014388" lang="EN">Hawaii is gone! Criminal Butagorira! ?</title></episode>
+<episode num="200">
+<title gid="3022106176" lang="EN">Tongariro Gekishiro! ! I like mom than schools</title></episode>
+<episode num="201">
+<title gid="3101587866" lang="EN">Retoro! Three-wheeled auto memories of Dad</title></episode>
+<episode num="202">
+<title gid="2273930180" lang="EN">1 million yen were finally out bags in Japan</title></episode>
+<episode num="203">
+<title gid="2023222863" lang="EN">Log cabin in the gift of snow Invisible Man</title></episode>
+<episode num="204">
+<title gid="2824482437" lang="EN">Which model! ? Assistant roller pair Butagorira</title></episode>
+<episode num="205">
+<title gid="1625461456" lang="EN">Meeting of the cat! Papa and Mama disappeared in the middle of the night</title></episode>
+<episode num="206">
+<title gid="2042067674" lang="EN">Finally back! ? Ultra-luxurious wedding of the Muromachi period</title></episode>
+<episode num="207">
+<title gid="1566310203" lang="EN">Large scoop! ? Stove league of eight hundred and eight</title></episode>
+<episode num="208">
+<title gid="2058302849" lang="EN">Gift of love! The sweater also Mago?</title></episode>
+<episode num="209">
+<title gid="3468117209" lang="EN">Dessert stomach medicine? Cooking Miyo-chan</title></episode>
+<episode num="210">
+<title gid="2464599262" lang="EN">Buford ~ Tsu! Grandma north wind came from the northern country</title></episode>
+<episode num="211">
+<title gid="1641015104" lang="EN">Wanted! Graffiti bonnet bus of love</title></episode>
+<episode num="212">
+<title gid="1217132916" lang="EN">Meiba of eight hundred and eight! Kumahachi diode Nari</title></episode>
+<episode num="213">
+<title gid="356497576" lang="EN">Prophetic dream of spring! ? Hamburger and Maizokin</title></episode>
+<episode num="214">
+<title gid="2657238019" lang="EN">Butagorira also deep blue! The transfer student of the flowers in May</title></episode>
+<episode num="215">
+<title gid="3376980218" lang="EN">Tsutomusan's makeover! Last Supper to eat with tears</title></episode>
+<episode num="216">
+<title gid="1993538354" lang="EN">Eight hundred and eight pinch! Self-introduction in Teketeketen</title></episode>
+<episode num="217">
+<title gid="2552670867" lang="EN">Retirement age monument! ? Rabbit yellow happy</title></episode>
+<episode num="218">
+<title gid="2078762962" lang="EN">CM of eight hundred and eight! Grand sale in advertising balloon</title></episode>
+<episode num="219">
+<title gid="2347686563" lang="EN">Experience fear! - The ghost is out of the word processor</title></episode>
+<episode num="220">
+<title gid="1526276864" lang="EN">I patronized! The burglar of the Edo period to eight hundred and eight</title></episode>
+<episode num="221">
+<title gid="847107220" lang="EN">Or sumo or vegetables! ? Pedigree of Butagorira</title></episode>
+<episode num="222">
+<title gid="2948012752" lang="EN">Mideamu is how to bake? Lady appearance of the century!</title></episode>
+<episode num="223">
+<title gid="3338349737" lang="EN">Pig gorilla shock! Mom visitation refusal</title></episode>
+<episode num="224">
+<title gid="1827772596" lang="EN">Ahead of summer vacation! ! Castle town of runaway trio</title></episode>
+<episode num="225">
+<title gid="1497889530" lang="EN">Bathing (secret) point! Hundred island length of the Edo period</title></episode>
+<episode num="226">
+<title gid="1356635066" lang="EN">School ghost story! ! Part ghost out during the day?</title></episode>
+<episode num="227">
+<title gid="2361597466" lang="EN">Hung in the neighborhood! ? Traveling alone in a plain strawberry!</title></episode>
+<episode num="228">
+<title gid="2652207011" lang="EN">Scoop of summer! To Tsutomusan's baby?</title></episode>
+<episode num="229">
+<title gid="1955125263" lang="EN">That can be such a fool! ! 72-year-old bully?</title></episode>
+<episode num="230">
+<title gid="1356841004" lang="EN">Raffles! ! 0 points Hyoryuki Butagorira</title></episode>
+<episode num="231">
+<title gid="2637406355" lang="EN">SOS! Oedo Seppukutsua of autumn! ?</title></episode>
+<episode num="232">
+<title gid="1670000484" lang="EN">It will be what this year! ! Star of athletic meet! ?</title></episode>
+<episode num="233">
+<title gid="2084421681" lang="EN">Butagorira detective team! Food is one truckload</title></episode>
+<episode num="234">
+<title gid="491323289" lang="EN">Odenshon? Big star in your actor mask!</title></episode>
+<episode num="235">
+<title gid="1542433199" lang="EN">Tongariro remodeling! The Do not say mom ~!</title></episode>
+<episode num="236">
+<title gid="1076026309" lang="EN">Oden accident! Ganmodoki of zipper</title></episode>
+<episode num="237">
+<title gid="3521770425" lang="EN">Qualitative Board of Education! Cuttlefish of academic</title></episode>
+<episode num="238">
+<title gid="1108357307" lang="EN">Competition forget! VS adversity torch ginger</title></episode>
+<episode num="239">
+<title gid="2925625591" lang="EN">Infuriated! War sour Butagorira</title></episode>
+<episode num="240">
+<title gid="2187448099" lang="EN">Kumada also participate? Ski trip and train car!</title></episode>
+<episode num="241">
+<title gid="2342446582" lang="EN">Tongariro Diary! Dating strategy of sweat and tears!</title></episode>
+<episode num="242">
+<title gid="1277149450" lang="EN">Bottom line of Butagorira! Complete Works large fuss it!</title></episode>
+<episode num="243">
+<title gid="2232761132" lang="EN">Five years a pair Kumada Kaoru! Aspirations of this year good tofu</title></episode>
+<episode num="244">
+<title gid="1282000795" lang="EN">Defend the history! Achilles heel and GyuuWaka May!</title></episode>
+<episode num="245">
+<title gid="1320294004" lang="EN">Snow mountain participation! ? Butagorira rescue team dispatched! !</title></episode>
+<episode num="246">
+<title gid="1691174688" lang="EN">Setsubun goods! Become demon If you take it in silence!</title></episode>
+<episode num="247">
+<title gid="1641089027" lang="EN">Sister appearance of the roller assistant? Ochappi of eight hundred and eight</title></episode>
+<episode num="248">
+<title gid="2749594322" lang="EN">Butagorira fear! ! Test it is Fax</title></episode>
+<episode num="249">
+<title gid="1333046172" lang="EN">24 time payment? Contest of the Warring States Period! !</title></episode>
+<episode num="250">
+<title gid="2559050724" lang="EN">Lens riot! Croquette secret tears into?</title></episode>
+<episode num="251">
+<title gid="3810167593" lang="EN">Butagorira deep blue! Vegetables loses the meat!</title></episode>
+<episode num="252">
+<title gid="2429375073" lang="EN">There is no me! ! Reunion thirty years later! ?</title></episode>
+<episode num="253">
+<title gid="2261154588" lang="EN">Women's Professional deep blue! Maid of eight hundred and eight</title></episode>
+<episode num="254">
+<title gid="1720154926" lang="EN">Preservation version! Shop feature that seems to crush Japan?</title></episode>
+<episode num="255">
+<title gid="839038909" lang="EN">BF of Miyo-chan [boyfriend]! ? Lion knock</title></episode>
+<episode num="256">
+<title gid="2690019556" lang="EN">Roller assistant surrender! ! How to make bedwetting! ?</title></episode>
+<episode num="257">
+<title gid="340233972" lang="EN">Kumada goo! ! Villa dream of eight hundred and eight family! ?</title></episode>
+<episode num="258">
+<title gid="2224271628" lang="EN">Participation prohibited! ? No sense of who exercise genetic! !</title></episode>
+<episode num="259">
+<title gid="2948942420" lang="EN">24 hours a day! Raw vegetables until the morning of the eight hundred and eight!</title></episode>
+<episode num="260">
+<title gid="2493294744" lang="EN">Pet of the roller assistant! Kaoru Hiragana! ?</title></episode>
+<episode num="261">
+<title gid="727443889" lang="EN">Return of the roller assistant! Nari to the punishment eight hundred Hachisamurai</title></episode>
+<episode num="262">
+<title gid="1119648676" lang="EN">Mellon of the sea! ? Logbook of Butagorira tears!</title></episode>
+<episode num="263">
+<title gid="970666013" lang="EN">Hokkaido Aim! The red mole came from the West?</title></episode>
+<episode num="264">
+<title gid="3906121729" lang="EN">US-Japan friendship! Piglet-to-corn! ?</title></episode>
+<episode num="265">
+<title gid="496131947" lang="EN">Butagorira screaming! The Great Escape of summer vacation hell!</title></episode>
+<episode num="266">
+<title gid="2414336882" lang="EN">Jewelry swim? Wakasama of zaibatsu surprised!</title></episode>
+<episode num="267">
+<title gid="3257419644" lang="EN">Summer vacation hero's biography! Butagorira became a bronze statue</title></episode>
+<episode num="268">
+<title gid="1604623551" lang="EN">Masterpiece of summer! Compared bamboo shoots of Butagorira?</title></episode>
+<episode num="269">
+<title gid="2872852509" lang="EN">The north country gift! Hanako first co-star and May!</title></episode>
+<episode num="270">
+<title gid="1496801263" lang="EN">Shock confession! Tsutomusan's Tsuntsuruten! ?</title></episode>
+<episode num="271">
+<title gid="2286152542" lang="EN">New facts! Famous Dog Baron of the Titanic!</title></episode>
+<episode num="272">
+<title gid="1653302302" lang="EN">Suspense! America is full of souvenir fear</title></episode>
+<episode num="273">
+<title gid="1485137272" lang="EN">Butagorira it is gone! Spirited Away scary than potato</title></episode>
+<episode num="274">
+<title gid="2881024616" lang="EN">Blown Apple? First love story of Miyo-chan</title></episode>
+<episode num="275">
+<title gid="2927679766" lang="EN">Watermelon bomb of mystery! Bowler Kumahachi legendary?</title></episode>
+<episode num="276">
+<title gid="3768324497" lang="EN">Finally found! Matsutake full Stone Age</title></episode>
+<episode num="277">
+<title gid="837036641" lang="EN">Guinness rare record! ? Members of the class for a day</title></episode>
+<episode num="278">
+<title gid="1604697161" lang="EN">Popular departure from Baku! Roller assistant Nari from which you face</title></episode>
+<episode num="279">
+<title gid="803698528" lang="EN">Gejitsu Festival? Lily of the Valley Pass falling star of love</title></episode>
+<episode num="280">
+<title gid="1491475303" lang="EN">Taiankichinichi! Wedding pumpkin pumpkin</title></episode>
+<episode num="281">
+<title gid="1482716024" lang="EN">Tsutomusan's Passion! The festival Ketsubatto?</title></episode>
+<episode num="282">
+<title gid="2934035354" lang="EN">Mystery object! Eight hundred and eight pumpkin knock back</title></episode>
+<episode num="283">
+<title gid="2993904718" lang="EN">New Year adventure! New Year's writing tangerine millionaire! ?</title></episode>
+<episode num="284">
+<title gid="3093645416" lang="EN">Na accelerate! Roller assistant elopement coming-of-age ceremony! ?</title></episode>
+<episode num="285">
+<title gid="1014416278" lang="EN">Your neighborhood dragnet! Kaito Mom Tongariro?</title></episode>
+<episode num="286">
+<title gid="2480348612" lang="EN">Ghost story of midwinter? Grateful Snow Woman! !</title></episode>
+<episode num="287">
+<title gid="2186271571" lang="EN">International goodwill? Butagorira you wearing a skirt</title></episode>
+<episode num="288">
+<title gid="1987336907" lang="EN">Large rage! Eight eight hundred war and crow</title></episode>
+<episode num="289">
+<title gid="1443930870" lang="EN">Eureka accident! The Mottemote to older beauty?</title></episode>
+<episode num="290">
+<title gid="1932699599" lang="EN">Dream millionaire! Ken Ball Aim the world</title></episode>
+<episode num="291">
+<title gid="1012194431" lang="EN">Kyoto surprised! Appears dangerous Tengu?</title></episode>
+<episode num="292">
+<title gid="2909843821" lang="EN">Rival timeless? Bodacious Hitoshi appearance!</title></episode>
+<episode num="293">
+<title gid="2311588625" lang="EN">Witnessed in the future! Chu and co-roller bride?</title></episode>
+<episode num="294">
+<title gid="3920925424" lang="EN">Taeko distress! The'm likely eaten by the tiger</title></episode>
+<episode num="295">
+<title gid="2382555961" lang="EN">Mind someone else? May is the roller assistant in May is Miyoko</title></episode>
+<episode num="296">
+<title gid="1974787193" lang="EN">Ben first love? Your main pair and idle dog</title></episode>
+<episode num="297">
+<title gid="2099055089" lang="EN">Aloe surprised Daisakusen (secret) Butagorira!</title></episode>
+<episode num="298">
+<title gid="2918852160" lang="EN">Gela chic Panic! Dinosaur discovery of dental caries</title></episode>
+<episode num="299">
+<title gid="959547567" lang="EN">Dissolution something! Takashiri rainy boy zelkova</title></episode>
+<episode num="300">
+<title gid="2173916501" lang="EN">Cooking forbidden? Large pinch curse of Pharaoh</title></episode>
+<episode num="301">
+<title gid="2926708876" lang="EN">Eight hundred and eight collapse? Cosplay relay night game!</title></episode>
+<episode num="302">
+<title gid="2011184606" lang="EN">Just before summer vacation! Report measures and still make</title></episode>
+<episode num="303">
+<title gid="2601988004" lang="EN">Whats happening to be? Eight hundred Hachiya's my our extraordinary</title></episode>
+<episode num="304">
+<title gid="1833588297" lang="EN">Revealing the truth! Michinoku mystery of summer</title></episode>
+<episode num="305">
+<title gid="2036183008" lang="EN">I went to the other world in the spirit world exploration everyone</title></episode>
+<episode num="306">
+<title gid="1210510472" lang="EN">Chan walnut pen pal Re-partner's</title></episode>
+<episode num="307">
+<title gid="1531643013" lang="EN">Snooze ban! Maine blow all night and exhilarating ☆</title></episode>
+<episode num="308">
+<title gid="2842976906" lang="EN">Harvest witch hazel! Roller assistant Scarecrow in the Yamada</title></episode>
+<episode num="309">
+<title gid="2309888810" lang="EN">Dream theater troupe in Hanamaru? Higemaru roller assistant makeover!</title></episode>
+<episode num="310">
+<title gid="2152876432" lang="EN">Letter of a sudden! From USA from Taeko?</title></episode>
+<episode num="311">
+<title gid="3241249614" lang="EN">Hyakutakeshima legend! Roller assistant descendants of Urashima Taro?</title></episode>
+<episode num="312">
+<title gid="4203779837" lang="EN">Family game? Blonde mom on behalf of the mom</title></episode>
+<episode num="313">
+<title gid="1778144754" lang="EN">Butagorira sick? Chasing a bus of school trip</title></episode>
+<episode num="314">
+<title gid="2719436542" lang="EN">Yeti discovery! Born in Japan and raised Himalayan</title></episode>
+<episode num="315">
+<title gid="2841308347" lang="EN">Jackpot! ¥ 30 million in the lottery and panda! ?</title></episode>
+<episode num="316">
+<title gid="2342785177" lang="EN">Art in the women's bath? Tongariro artist Explosion!</title></episode>
+<episode num="317">
+<title gid="1895498010" lang="EN">Whose part-time job! Scruffy people welcome?</title></episode>
+<episode num="318">
+<title gid="1828987350" lang="EN">New Year also came twice! New Year's present as well again?</title></episode>
+<episode num="319">
+<title gid="1481899973" lang="EN">Reigned seen this century! ? Passenger pigeon of the illusion</title></episode>
+<episode num="320">
+<title gid="2541843876" lang="EN">I is still a broken heart! ! Love with Don at rock bottom</title></episode>
+<episode num="321">
+<title gid="1431890808" lang="EN">Most spring! Teacher is likely to be skipped</title></episode>
+<episode num="322">
+<title gid="3101432606" lang="EN">Haunting? Doll strikes a roller assistant!</title></episode>
+<episode num="323">
+<title gid="1543969701" lang="EN">Tongariro disappearance! Shark bait torn in love?</title></episode>
+<episode num="324">
+<title gid="3617789264" lang="EN">Proudest moment of someone's life once? I read Kumada Kaoru Soji</title></episode>
+<episode num="325">
+<title gid="2105383029" lang="EN">Butagorira theory! Mirage out of the shell</title></episode>
+<episode num="326">
+<title gid="1400734099" lang="EN">Heaven of children! Town full of playground</title></episode>
+<episode num="327">
+<title gid="1808412543" lang="EN">Scoop! Dog's most famous Famous Dog Ben Japan</title></episode>
+<episode num="328">
+<title gid="3084127130" lang="EN">Mischievous identity of the elusive roller assistant?</title></episode>
+<episode num="329">
+<title gid="418959867" lang="EN">Fear of May! Carp that was damned</title></episode>
+<episode num="330">
+<title gid="2929188450" lang="EN">Melon man? Dad first one disease!</title></episode>
+<episode num="331">
+<title gid="2807865524" lang="EN">Finale of love! Encyclopedia Suke-dai roller goodbye</title></episode>
+<news datetime="2005-09-23T17:39:30Z" href="http://www.animenewsnetwork.com/news/2005-09-23/tv-asahi-top-100-anime">TV Asahi Top 100 Anime</news>
+<news datetime="2005-09-23T20:38:14Z" href="http://www.animenewsnetwork.com/news/2005-09-23/tv-asahi-top-100-anime-part-2">TV Asahi Top 100 Anime Part 2</news>
+<news datetime="2006-10-12T21:45:00Z" href="http://www.animenewsnetwork.com/news/2006-10-13/japans-favorite-tv-anime">Japan's Favorite TV Anime</news>
+<news datetime="2008-09-10T16:27:00Z" href="http://www.animenewsnetwork.com/news/2008-09-10/colorado-con-to-host-noriko-hidaka-yuji-mitsuya">Colorado Con to Host Noriko Hidaka, Yuji Mitsuya</news>
+<staff gid="809753102"><task>Director</task><person id="3337">Keiji Hayakawa</person></staff>
+<staff gid="2453474841"><task>Director</task><person id="41404">Hiroshi Kuzuoka</person></staff>
+<staff gid="3617333472"><task>Director</task><person id="61231">Hiro Katsuoka</person></staff>
+<staff gid="1874830179"><task>Script</task><person id="4253">Takashi Yamada</person></staff>
+<staff gid="1923479591"><task>Script</task><person id="5617">Shun'ichi Yukimuro</person></staff>
+<staff gid="761651745"><task>Script</task><person id="10321">Tadaaki Yamazaki</person></staff>
+<staff gid="2010665980"><task>Script</task><person id="35033">Satoshi Namiki</person></staff>
+<staff gid="1620128871"><task>Script</task><person id="61228">Toshiyuki Aoshima</person></staff>
+<staff gid="2776801024"><task>Music</task><person id="118">Shunsuke Kikuchi</person></staff>
+<staff gid="507401862"><task>Original creator</task><person id="5417">Fujiko F. Fujio</person></staff>
+<staff gid="519763714"><task>Character Design</task><person id="2218">Tsukasa Tannai</person></staff>
+<staff gid="4098822116"><task>Character Design</task><person id="2670">Kazuyuki Kobayashi</person></staff>
+<staff gid="2704797857"><task>Character Design</task><person id="3151">Hajime Watanabe</person></staff>
+<staff gid="3513988443"><task>Art Director</task><person id="251">Shichiro Kobayashi</person></staff>
+<staff gid="1544363175"><task>Art Director</task><person id="20299">Satoshi Shibata</person></staff>
+<staff gid="2043452979"><task>Chief Animation Director</task><person id="2218">Tsukasa Tannai</person></staff>
+<staff gid="2934924119"><task>Chief Animation Director</task><person id="2670">Kazuyuki Kobayashi</person></staff>
+<staff gid="2701831893"><task>Chief Animation Director</task><person id="3151">Hajime Watanabe</person></staff>
+<staff gid="2231124993"><task>Chief Animation Director</task><person id="3152">Nobuyuki Tokinaga</person></staff>
+<staff gid="1535049150"><task>Chief Animation Director</task><person id="57581">Shojuro Yamauchi</person></staff>
+<staff gid="2440550830"><task>Director of Photography</task><person id="2898">Hiroaki Edamitsu</person></staff>
+<staff gid="3262902624"><task>Director of Photography</task><person id="54358">Shigeo Sugimura</person></staff>
+<staff gid="3014899355"><task>Executive producer</task><person id="21977">Mikio Wakana</person></staff>
+<staff gid="3311408325"><task>Producer</task><person id="1606">Kenji Shimizu</person></staff>
+<staff gid="2935273488"><task>Producer</task><person id="3995">Yutaka Sugiyama</person></staff>
+<staff gid="2353496760"><task>Producer</task><person id="4345">Akio Wakana</person></staff>
+<staff gid="2582848910"><task>Producer</task><person id="4580">Yoshihiro Suzuki</person></staff>
+<staff gid="2123810439"><task>Producer</task><person id="36746">Tateshi Yamazaki</person></staff>
+<staff gid="2302885201"><task>Producer</task><person id="52951">Yoshio Kataoka</person></staff>
+<staff gid="3922281152"><task>Producer</task><person id="61225">Minoru Wada</person></staff>
+<staff gid="3991232447"><task>Producer</task><person id="61226">Kazuhiko Ishikawa</person></staff>
+<staff gid="2893792740"><task>Producer</task><person id="61227">Tetsuo Kanno</person></staff>
+<cast gid="1549803918" lang="ES"><role>Kaoru 'Goril·la' Kumada</role><person id="50504">Aleix Estadella</person></cast>
+<cast gid="1672238167" lang="ES"><role>Kôji 'Tongari' Togari</role><person id="50515">Vicky Martínez</person></cast>
+<cast gid="1598498779" lang="ES"><role>Nonohana Miyoko</role><person id="50738">Nuria Doménech</person></cast>
+<cast gid="1650155493" lang="ES"><role>Kiteretsu</role><person id="50760">Estívaliz Lizárraga</person></cast>
+<cast gid="2607833829" lang="ES"><role>Gorila</role><person id="59600">Anselmo Herrero</person></cast>
+<cast gid="3566297061" lang="ES"><role>Kôji Tongari </role><person id="59601">Pedro Sánchez</person></cast>
+<cast gid="1981802749" lang="ES"><role>Korosuke</role><person id="59605">Mikel Gandía</person></cast>
+<cast gid="3310586695" lang="ES"><role>Kiteretsu</role><person id="62608">Elisa Beuter</person></cast>
+<cast gid="2393855253" lang="ES"><role>Nonohana Miyoko</role><person id="62926">Mar Roca</person></cast>
+<cast gid="2829196434" lang="ES"><role>Korosuke</role><person id="62976">Maria Josep Guasch</person></cast>
+<cast gid="2506395184" lang="TL"><role>Buta Gorilla</role><person id="38916">Robert Brillantes</person></cast>
+<cast gid="889567938" lang="TL"><role>Tongari</role><person id="38916">Robert Brillantes</person></cast>
+<cast gid="3493222941" lang="TL"><role>Kiteretsu Kite</role><person id="66364">Julius Figueroa</person></cast>
+<cast gid="3566765309" lang="TL"><role>Korosuke</role><person id="66404">Ely Martin</person></cast>
+<credit gid="2196129530"><task>Animation Production</task><company id="29">Studio Gallop</company></credit>
+<credit gid="1765587734"><task>Production</task><company id="162">Fuji TV</company></credit>
+<credit gid="3567229049"><task>Production</task><company id="454">Asatsu</company></credit></anime></ann>

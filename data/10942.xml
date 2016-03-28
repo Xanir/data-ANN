@@ -1,0 +1,913 @@
+<ann><anime id="10942" gid="1712941943" type="TV" name="Fairy Tail" precision="TV" generated-on="2016-03-26T14:08:00Z">
+<related-prev rel="adapted from" id="6872"/>
+<related-next id="12322" rel="side story"/>
+<related-next id="13785" rel="sequel"/>
+<related-next id="15799" rel="sequel"/>
+<related-next id="17834" rel="prequel"/>
+<info gid="2072016032" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A10942-39.jpg" width="150" height="200"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A10942-39.jpg" width="150" height="200"/><img src="http://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A10942-39.jpg" width="248" height="331"/></info>
+<info gid="459322794" type="Main title" lang="EN">Fairy Tail</info>
+<info gid="1442184650" type="Alternative title" lang="JA">フェアリーテイル</info>
+<info gid="1757606708" type="Alternative title" lang="ZH-TW">魔導少年</info>
+<info gid="2889854353" type="Genres">action</info>
+<info gid="3398217516" type="Genres">comedy</info>
+<info gid="1710752562" type="Genres">drama</info>
+<info gid="2523564454" type="Genres">magic</info>
+<info gid="3473409901" type="Themes">developing powers</info>
+<info gid="2004506681" type="Themes">dragons</info>
+<info gid="692425031" type="Themes">ecchi</info>
+<info gid="1462937134" type="Themes">fanservice</info>
+<info gid="2857062246" type="Themes">fighting</info>
+<info gid="3730720471" type="Themes">magical creatures</info>
+<info gid="1727916538" type="Objectionable content">OC</info>
+<info gid="2615989787" type="Plot Summary">Lucy is a 17-year-old girl, who wants to be a full-fledged mage. One day when visiting Harujion Town, she meets Natsu, a young man who gets sick easily by any type of transportation. But Natsu isn't just any ordinary kid, he's a member of one of the world's most infamous mage guilds: Fairy Tail.</info>
+<info gid="3634916482" type="Running time">24</info>
+<info gid="2017714871" type="Number of episodes">175</info>
+<info gid="1872602336" type="Vintage">2009-10-12 to 2013-03-30</info>
+<info gid="3403249665" type="Vintage">2010-09-30 (Animax Asia)</info>
+<info gid="2732272958" type="Vintage">2011-10-31 (Philippines, GMA Network)</info>
+<info gid="390141151" type="Vintage">2013-06-03 (Portugal, SIC K)</info>
+<info gid="1270217786" type="Vintage">2016-01-06 (Italy, Rai 4)</info>
+<info gid="1517171169" type="Opening Theme">#1: &quot;Snow Fairy&quot; by FUNKIST (eps 1-11)</info>
+<info gid="1838431055" type="Opening Theme">#2: &quot;S.O.W. Sense of Wonder&quot; (S.O.W.センスオブワンダー) by Idoling!!! (eps 12-24)</info>
+<info gid="1099206124" type="Opening Theme">#3: &quot;ft.&quot; by FUNKIST (eps 25-35)</info>
+<info gid="1938908513" type="Opening Theme">#4: &quot;R.P.G. ~Rockin' Playing Game&quot; by SuG (eps 36-48)</info>
+<info gid="3045653331" type="Opening Theme">#5: &quot;Egao no Mahō&quot; (エガオノマホウ) by MAGIC PARTY (eps 49-60)</info>
+<info gid="1748516650" type="Opening Theme">#6: &quot;Fiesta&quot; by +Plus (eps 61-72)</info>
+<info gid="2006155366" type="Opening Theme">#7: &quot;Evidence&quot; by Daisy x Daisy (eps 73-85)</info>
+<info gid="2561515610" type="Opening Theme">#8: &quot;The Rock City Boy&quot; by JAMIL (eps 86-98)</info>
+<info gid="2863004295" type="Opening Theme">#9: &quot;Towa no Kizuna&quot; (永久のキズナ) by Daisy x Daisy (eps 99-111)</info>
+<info gid="1592111944" type="Opening Theme">#10: &quot;I Wish&quot; by Milky Bunny</info>
+<info gid="2409110303" type="Opening Theme">#11: &quot;Hajimari no Sora&quot; (はじまりの空; &quot;Sky of Beginning&quot;) by +Plus (eps 125-137)</info>
+<info gid="2273151010" type="Opening Theme">#12: &quot;Tenohira&quot; (テノヒラ; &quot;Palm of the Hand&quot;) by HERO (eps 138-)</info>
+<info gid="2004594495" type="Opening Theme">#13: &quot;breakthrough&quot; by GOING UNDER GROUND (eps 151-166)</info>
+<info gid="3156239895" type="Opening Theme">#14: &quot;Fairy Tail ~Yakusoku no Hi~&quot; (フェアリーテイル~約束の日~; Fairy Tail ~The Promised Day~) by Chihiro Yonekura (eps 167-)</info>
+<info gid="1360795756" type="Ending Theme">#1: &quot;Kanpeki gu~no ne&quot; (完璧ぐ～のね) by Watarirouka Hashiri Tai (eps 1-11)</info>
+<info gid="2508096472" type="Ending Theme">#2: &quot;Tsuioku Merry-Go-Round&quot; (追憶メリーゴーランド) by onelifecrew (eps 12-24)</info>
+<info gid="2521347310" type="Ending Theme">#3: &quot;Gomen ne, Watashi.&quot; (ごめんね, 私。) by Shiho Nanba (eps 25-35)</info>
+<info gid="2999736724" type="Ending Theme">#4: &quot;Kimi ga Iru Kara&quot; (君がいるから) by Mikuni Shimokawa (eps 36-)</info>
+<info gid="2868864605" type="Ending Theme">#5: &quot;HOLY SHINE&quot; by Daisy X Daisy</info>
+<info gid="3047543950" type="Ending Theme">#6: &quot;Be as One&quot; by w-inds (eps 61-72)</info>
+<info gid="1927888678" type="Ending Theme">#7: &quot;Hitori Samishiku&quot; (ひとりさみしく) by ShaNa (eps 73-85)</info>
+<info gid="2723005670" type="Ending Theme">#8: &quot;Don't think.Feel !!!&quot; by Idoling!!! (eps 86-98)</info>
+<info gid="3626034044" type="Ending Theme">#9: &quot;Kono Te Nobashite&quot; (この手を伸ばして; &quot;Reach Out This Hand&quot;) by Hi-Fi Camp (eps 99-)</info>
+<info gid="2265992441" type="Ending Theme">#10: &quot;Boys Be Ambitious!!&quot; (ボーイズ・ビー・アンビシャス) by Hi-Fi Camp</info>
+<info gid="2518731217" type="Ending Theme">#11: &quot;Glitter&quot; (Starving Trancer Remix) by Another Infinity feat. Mayumi Morinaga (eps 125-137)</info>
+<info gid="2704880478" type="Ending Theme">#12: &quot;Yell ~Kagayaku Tame no Mono~&quot; (YELL～輝くためのもの～; &quot;The Thing For Shining&quot;) by Sata Andagi (eps 138-)</info>
+<info gid="2004186775" type="Ending Theme">#13: &quot;Kimi ga Kureta Mono&quot; (キミがくれたもの; &quot;What you gave me&quot;) by Shizuka Kudo</info>
+<info gid="2169385568" type="Ending Theme">#14: &quot;We're the Stars&quot; by Aimi (eps 167-)</info>
+<info gid="2245967531" type="Official website" lang="EN" href="http://www.animax-asia.com/shows/fairy-tail">Fairy Tail on Animax Asia</info>
+<info gid="1444735807" type="Official website" lang="EN" href="http://beta.funimation.com/fairy-tail">Funimation Fairy Tail Offical Website</info>
+<info gid="2104681594" type="Official website" lang="JA" href="https://twitter.com/fairytail_PR">TVアニメ FAIRY TAIL 公式 (Official Twitter)</info>
+<info gid="2730375775" type="Official website" lang="JA" href="http://kc.kodansha.co.jp/fairytail/">TVアニメ「FAIRY TAIL」スベシャルサイト</info>
+<info gid="2335372418" type="Official website" lang="JA" href="http://www.tv-tokyo.co.jp/anime/fairytail/">テレビ東京・あにてれ FAIRY TAIL</info>
+<ratings nb_votes="2296" weighted_score="7.5078" bayesian_score="7.50788"/>
+<episode num="1">
+<title gid="1813412706" lang="EN">Fairy Tail</title></episode>
+<episode num="2">
+<title gid="2085742822" lang="EN">Fire Dragons, Monkeys and Cows</title></episode>
+<episode num="3">
+<title gid="4049618376" lang="EN">Invade! The Everlue Ma</title></episode>
+<episode num="4">
+<title gid="2379286750" lang="EN">Dear Kaby</title></episode>
+<episode num="5">
+<title gid="2076044305" lang="EN">The Armoured Wizard</title></episode>
+<episode num="6">
+<title gid="1336924049" lang="EN">The Fairies in the Wind</title></episode>
+<episode num="7">
+<title gid="3293512922" lang="EN">Flame and Wind</title></episode>
+<episode num="8">
+<title gid="1830231489" lang="EN">The Strongest Team!!!</title></episode>
+<episode num="9">
+<title gid="1253755006" lang="EN">Natsu, Eat The Village</title></episode>
+<episode num="10">
+<title gid="1937702869" lang="EN">Natsu vs Erza</title></episode>
+<episode num="11">
+<title gid="2405493190" lang="EN">Cursed Island</title></episode>
+<episode num="12">
+<title gid="3141782096" lang="EN">Moon Drip</title></episode>
+<episode num="13">
+<title gid="2196481672" lang="EN">Natsu Vs Yuuka The Wave</title></episode>
+<episode num="14">
+<title gid="1630822884" lang="EN">Kiss my hand</title></episode>
+<episode num="15">
+<title gid="627544884" lang="EN">Eternal Magic</title></episode>
+<episode num="16">
+<title gid="2709525833" lang="EN">Decisive Battle on Galuna Island</title></episode>
+<episode num="17">
+<title gid="1933219114" lang="EN">Burst</title></episode>
+<episode num="18">
+<title gid="1766629597" lang="EN">Reach it! To that Sky!</title></episode>
+<episode num="19">
+<title gid="2991333848" lang="EN">Change Ring</title></episode>
+<episode num="20">
+<title gid="2170298432" lang="EN">Natsu, and the Dragon's Egg</title></episode>
+<episode num="21">
+<title gid="1624222056" lang="EN">The Ghost Govenor</title></episode>
+<episode num="22">
+<title gid="903032538" lang="EN">Lucy Heartfilia</title></episode>
+<episode num="23">
+<title gid="3498534250" lang="EN">15 Minutes</title></episode>
+<episode num="24">
+<title gid="259739053" lang="EN">So No One Sees the Tears</title></episode>
+<episode num="25">
+<title gid="2058202519" lang="EN">A Flower Blooms in the Rain</title></episode>
+<episode num="26">
+<title gid="3398396343" lang="EN">Flame Wings</title></episode>
+<episode num="27">
+<title gid="3307490037" lang="EN">The Two Dragon Slayers</title></episode>
+<episode num="28">
+<title gid="1380639624" lang="EN">Fairy Law</title></episode>
+<episode num="29">
+<title gid="2983256680" lang="EN">My Resolve</title></episode>
+<episode num="30">
+<title gid="2569660426" lang="EN">Next Generation</title></episode>
+<episode num="31">
+<title gid="2517230801" lang="EN">The Star That Cannot Return to the Heavens</title></episode>
+<episode num="32">
+<title gid="1911355052" lang="EN">Celestial Spirit King</title></episode>
+<episode num="33">
+<title gid="3193000645" lang="EN">Tower of Heaven</title></episode>
+<episode num="34">
+<title gid="1964459152" lang="EN">Jellal</title></episode>
+<episode num="35">
+<title gid="2630907027" lang="EN">Voice in the Darkness</title></episode>
+<episode num="36">
+<title gid="3604451890" lang="EN">Heaven's Game</title></episode>
+<episode num="37">
+<title gid="1720649728" lang="EN">Heart's Armor</title></episode>
+<episode num="38">
+<title gid="2273880144" lang="EN">Destiny</title></episode>
+<episode num="39">
+<title gid="1759508830" lang="EN">A Prayer Under the Holy Light</title></episode>
+<episode num="40">
+<title gid="2079450120" lang="EN">Titania, Falls</title></episode>
+<episode num="41">
+<title gid="3176227608" lang="EN">HOME</title></episode>
+<episode num="42">
+<title gid="1709947921" lang="EN">Battle of Fairy Tail</title></episode>
+<episode num="43">
+<title gid="919911119" lang="EN">Defeat Your Friends to Save Your Friends</title></episode>
+<episode num="44">
+<title gid="1363918995" lang="EN">Thunder Palace</title></episode>
+<episode num="45">
+<title gid="1031365647" lang="EN">Satan's Descent</title></episode>
+<episode num="46">
+<title gid="1943814799" lang="EN">Clash at Kardia Cathedral</title></episode>
+<episode num="47">
+<title gid="1037583905" lang="EN">Triple Dragon</title></episode>
+<episode num="48">
+<title gid="2291332585" lang="EN">Fantasia</title></episode>
+<episode num="49">
+<title gid="2402795107" lang="EN">The Day of the Fateful Encounter</title></episode>
+<episode num="50">
+<title gid="1714038849" lang="EN">Special Request - Watch Out For the Guy You Like!</title></episode>
+<episode num="51">
+<title gid="1991836633" lang="EN">Love &amp; Lucky</title></episode>
+<episode num="52">
+<title gid="2515666195" lang="EN">Allied Forces, Gather Up!</title></episode>
+<episode num="53">
+<title gid="3043648737" lang="EN">Oracion Seis Appears!</title></episode>
+<episode num="54">
+<title gid="2392357611" lang="EN">Sky Maiden</title></episode>
+<episode num="55">
+<title gid="196897051" lang="EN">The Girl And The Ghost</title></episode>
+<episode num="56">
+<title gid="2029575611" lang="EN">Dead Grand Prix</title></episode>
+<episode num="57">
+<title gid="1264914503" lang="EN">Darkness</title></episode>
+<episode num="58">
+<title gid="2179926031" lang="EN">Spirit Vs. Spirit</title></episode>
+<episode num="59">
+<title gid="1326054333" lang="EN">Recollections of Jellal</title></episode>
+<episode num="60">
+<title gid="660544615" lang="EN">March to Destruction</title></episode>
+<episode num="61">
+<title gid="2348578003" lang="EN">Super Aerial Battle! Natsu vs. Cobra</title></episode>
+<episode num="62">
+<title gid="2209497405" lang="EN">Jura, the Tenth Saint</title></episode>
+<episode num="63">
+<title gid="906922755" lang="EN">It Is Your Words</title></episode>
+<episode num="64">
+<title gid="2431629404" lang="EN">Zero</title></episode>
+<episode num="65">
+<title gid="2189042817" lang="EN">From Pegasus to The Fairies</title></episode>
+<episode num="66">
+<title gid="2811307173" lang="EN">The Power of Feelings</title></episode>
+<episode num="67">
+<title gid="1268283870" lang="EN">I'm With You</title></episode>
+<episode num="68">
+<title gid="1412355798" lang="EN">A Guild for Only One</title></episode>
+<episode num="69">
+<title gid="1062064948" lang="EN">Call of the Dragon</title></episode>
+<episode num="70">
+<title gid="2334080588" lang="EN">Natsu vs. Gray!</title></episode>
+<episode num="71">
+<title gid="1488560192" lang="EN">Friendship Will Overcome the Dead</title></episode>
+<episode num="72">
+<title gid="3351971568" lang="EN">Fairy Tail Wizards</title></episode>
+<episode num="73">
+<title gid="2180834212" lang="EN">Rainbow Sakura</title></episode>
+<episode num="74">
+<title gid="2453890412" lang="EN">Wendy's New Big Mission?</title></episode>
+<episode num="75">
+<title gid="2592486662" lang="EN">The 24-Hour Endurance Road Race</title></episode>
+<episode num="76">
+<title gid="1175325137" lang="EN">Gildarts</title></episode>
+<episode num="77">
+<title gid="2676656678" lang="EN">Earthland</title></episode>
+<episode num="78">
+<title gid="2251187173" lang="EN">Edolas</title></episode>
+<episode num="79">
+<title gid="3234182599" lang="EN">Fairy Hunting</title></episode>
+<episode num="80">
+<title gid="4039465254" lang="EN">Key to Hope</title></episode>
+<episode num="81">
+<title gid="1180344596" lang="EN">Fireball</title></episode>
+<episode num="82">
+<title gid="2043340344" lang="EN">Welcome Home</title></episode>
+<episode num="83">
+<title gid="1557440945" lang="EN">Extalia</title></episode>
+<episode num="84">
+<title gid="1616993806" lang="EN">Fly! To Your Friends!</title></episode>
+<episode num="85">
+<title gid="1915828357" lang="EN">Code ETD</title></episode>
+<episode num="86">
+<title gid="1975593348" lang="EN">Erza vs. Erza</title></episode>
+<episode num="87">
+<title gid="2626287144" lang="EN">It's Life!!!!</title></episode>
+<episode num="88">
+<title gid="3700532895" lang="EN">The Great River of Stars is for Pride</title></episode>
+<episode num="89">
+<title gid="3170097659" lang="EN">The Doomsday Dragon Chain Cannon</title></episode>
+<episode num="90">
+<title gid="1761582843" lang="EN">The Boy Back Then</title></episode>
+<episode num="91">
+<title gid="1793168495" lang="EN">Dragon Sense</title></episode>
+<episode num="92">
+<title gid="1546681415" lang="EN">For All Living Things</title></episode>
+<episode num="93">
+<title gid="2640811235" lang="EN">I'm Standing Here!</title></episode>
+<episode num="94">
+<title gid="2127636682" lang="EN">Bye-bye, Edolas バイバイ エドラス</title></episode>
+<episode num="95">
+<title gid="3191387992" lang="EN">Lisanna</title></episode>
+<episode num="96">
+<title gid="2363114053" lang="EN">He Who Erases Life</title></episode>
+<episode num="97">
+<title gid="1204487989" lang="EN">Best Partner</title></episode>
+<episode num="98">
+<title gid="3056359365" lang="EN">Who's The One With The Good Luck?</title></episode>
+<episode num="99">
+<title gid="2719133474" lang="EN">Natsu Vs. Gildarts</title></episode>
+<episode num="100">
+<title gid="1412818058" lang="EN">Mest</title></episode>
+<episode num="101">
+<title gid="3799524775" lang="EN">The Black Mage</title></episode>
+<episode num="102">
+<title gid="3799716941" lang="EN">Soul Of Iron</title></episode>
+<episode num="103">
+<title gid="2695533326" lang="EN">Makarov's Charge</title></episode>
+<episode num="104">
+<title gid="2067354504" lang="EN">Lost Magic</title></episode>
+<episode num="105">
+<title gid="2165442631" lang="EN">&quot;Fire Dragon vs. Flame God&quot;</title></episode>
+<episode num="106">
+<title gid="546388071" lang="EN">The World of Great Magic</title></episode>
+<episode num="107">
+<title gid="3054541296" lang="EN">Arc of Embodiment</title></episode>
+<episode num="108">
+<title gid="1414421191" lang="EN">Door of Humanity</title></episode>
+<episode num="109">
+<title gid="1226544277" lang="EN">Lucy Fire!</title></episode>
+<episode num="110">
+<title gid="2609783956" lang="EN">Dead-End of Despair</title></episode>
+<episode num="111">
+<title gid="2568383954" lang="EN">Tears Of Love And Vigor!</title></episode>
+<episode num="112">
+<title gid="1234965607" lang="EN">The Words I Couldn't Say</title></episode>
+<episode num="113">
+<title gid="2263873012" lang="EN">The Tenrou Tree</title></episode>
+<episode num="114">
+<title gid="1051274506" lang="EN">Erza vs. Azuma</title></episode>
+<episode num="115">
+<title gid="1806859571" lang="EN">Frozen Spirit</title></episode>
+<episode num="116">
+<title gid="1523638309" lang="EN">The Power Of Life</title></episode>
+<episode num="117">
+<title gid="2042052032" lang="EN">Thunder Roar</title></episode>
+<episode num="118">
+<title gid="2613198715" lang="EN">The Man Without The Mark</title></episode>
+<episode num="119">
+<title gid="1549338824" lang="EN">The Deepest Realm</title></episode>
+<episode num="120">
+<title gid="2311960707" lang="EN">Dawn on Tenroujima</title></episode>
+<episode num="121">
+<title gid="3359798364" lang="EN">The Right to Love</title></episode>
+<episode num="122">
+<title gid="1415940987" lang="EN">Hold Hands!</title></episode>
+<episode num="123">
+<title gid="1951617570" lang="EN">Fairy Tail, X791</title></episode>
+<episode num="124">
+<title gid="1149578239" lang="EN">The Seven-Year Gap</title></episode>
+<episode num="125">
+<title gid="1437674410" lang="EN">Magical Ball!</title></episode>
+<episode num="126">
+<title gid="2979889121" lang="EN">The Truly Evil Jiggle Butt Gang!</title></episode>
+<episode num="127">
+<title gid="2112515182" lang="EN">The Terror of Invisible Lucy!</title></episode>
+<episode num="128">
+<title gid="3468481737" lang="EN">Father's Memento</title></episode>
+<episode num="129">
+<title gid="3327193430" lang="EN">Raging Battle! Natsu vs. Laxus!</title></episode>
+<episode num="130">
+<title gid="443151645" lang="EN">Targeted Lucy</title></episode>
+<episode num="131">
+<title gid="2188329180" lang="EN">The Fury of Legion</title></episode>
+<episode num="132">
+<title gid="2470760452" lang="EN">Key of the Starry Sky</title></episode>
+<episode num="133">
+<title gid="2169084708" lang="EN">Traveling Companions</title></episode>
+<episode num="134">
+<title gid="1233371425" lang="EN">Labyrinth Rhapsody</title></episode>
+<episode num="135">
+<title gid="1397080226" lang="EN">Footprints of the Myth</title></episode>
+<episode num="136">
+<title gid="3077105081" lang="EN">True Evil Revisited</title></episode>
+<episode num="137">
+<title gid="2699503545" lang="EN">Something Beyond Reckoning</title></episode>
+<episode num="138">
+<title gid="520613046" lang="EN">The Whereabouts of the Crusade</title></episode>
+<episode num="139">
+<title gid="3595391004" lang="EN">The Time Has Begun</title></episode>
+<episode num="140">
+<title gid="2997637786" lang="EN">The New Oracion Seis Appears!</title></episode>
+<episode num="141">
+<title gid="2147437154" lang="EN">Hunt Down the Infinity Clock!</title></episode>
+<episode num="142">
+<title gid="1839030473" lang="EN">The Dissonance of Battle</title></episode>
+<episode num="143">
+<title gid="2045195064" lang="EN">Anti-Link</title></episode>
+<episode num="144">
+<title gid="2416130493" lang="EN">Unleashed Despair</title></episode>
+<episode num="145">
+<title gid="2541007374" lang="EN">Real Nightmare</title></episode>
+<episode num="146">
+<title gid="558134859" lang="EN">Spiral of Time</title></episode>
+<episode num="147">
+<title gid="2586696444" lang="EN">To the Infinity Castle!</title></episode>
+<episode num="148">
+<title gid="2321144364" lang="EN">An Angel`s Tears</title></episode>
+<episode num="149">
+<title gid="3982089839" lang="EN">I Can Hear the Voices of My Friends!</title></episode>
+<episode num="150">
+<title gid="2600662202" lang="EN">Lucy and Michelle</title></episode>
+<episode num="151">
+<title gid="1903462284" lang="EN">Sabertooth</title></episode>
+<episode num="152">
+<title gid="2712009296" lang="EN">And so, We Aim for the Top</title></episode>
+<episode num="153">
+<title gid="1875297598" lang="EN">Song of the Stars</title></episode>
+<episode num="154">
+<title gid="1203632029" lang="EN">Just Enough Time to Pass Each Other</title></episode>
+<episode num="155">
+<title gid="3934660962" lang="EN">Crocus, the Blooming Capital</title></episode>
+<episode num="156">
+<title gid="762403300" lang="EN">Sky Labyrinth</title></episode>
+<episode num="157">
+<title gid="3752081449" lang="EN">New Guild</title></episode>
+<episode num="158">
+<title gid="1568040708" lang="EN">On a Night of Falling Stars</title></episode>
+<episode num="159">
+<title gid="2934029549" lang="EN">Lucy Versus Flare</title></episode>
+<episode num="160">
+<title gid="3547910045" lang="EN">Bad Omen</title></episode>
+<episode num="161">
+<title gid="1703729663" lang="EN">Chariot</title></episode>
+<episode num="162">
+<title gid="2192291356" lang="EN">Elfman vs. Bacchus</title></episode>
+<episode num="163">
+<title gid="3905060019" lang="EN">Mirajane vs. Jenny</title></episode>
+<episode num="164">
+<title gid="1210492718" lang="EN">Kagura vs. Yukino</title></episode>
+<episode num="165">
+<title gid="3118321207" lang="EN">Grudges are Wrapped in the Silence of the Night</title></episode>
+<episode num="166">
+<title gid="2603787701" lang="EN">Pandemonium</title></episode>
+<episode num="167">
+<title gid="3447711119" lang="EN">100 to 1</title></episode>
+<episode num="168">
+<title gid="2281684224" lang="EN">Laxus vs. Alexei</title></episode>
+<episode num="169">
+<title gid="1345843433" lang="EN">Wendy vs. Cheria</title></episode>
+<episode num="170">
+<title gid="1996011400" lang="EN">Small Fist</title></episode>
+<episode num="171">
+<title gid="1786245648" lang="EN">Naval Battle</title></episode>
+<episode num="172">
+<title gid="2748811359" lang="EN">The Perfume I dedicate to You!</title></episode>
+<episode num="173">
+<title gid="994650093" lang="EN">Battle of the Dragon Slayers</title></episode>
+<episode num="174">
+<title gid="1703862091" lang="EN">Four Dragons</title></episode>
+<episode num="175">
+<title gid="2609252745" lang="EN">Natsu vs. the Twin Dragons</title></episode>
+<review href="http://www.animenewsnetwork.com/review/fairy-tail/bd-dvd-part-18/.97139">Fairy Tail BD+DVD</review>
+<review href="http://www.animenewsnetwork.com/review/fairy-tail/bd-dvd-part-16/.95751">Fairy Tail BD+DVD Parts 16 &amp; 17</review>
+<review href="http://www.animenewsnetwork.com/review/fairy-tail/bd-dvd-part-15/.87434">Fairy Tail Part 15 BD+DVD</review>
+<review href="http://www.animenewsnetwork.com/review/fairy-tail/bd-dvd-part-14/.85928">Fairy Tail BD+DVD</review>
+<review href="http://www.animenewsnetwork.com/review/fairy-tail/bd-dvd-parts-12/.83936">Fairy Tail BD+DVD</review>
+<review href="http://www.animenewsnetwork.com/review/fairy-tail/bd-dvd-part-11/.78514">Fairy Tail BD+DVD - Part 11</review>
+<review href="http://www.animenewsnetwork.com/review/fairy-tail/bd-dvd-part-10/.78261">Fairy Tail BD+DVD Part 10</review>
+<review href="http://www.animenewsnetwork.com/review/fairy-tail/bd-dvd-parts-7-8/.74919">Fairy Tail BD+DVD Parts 7-8</review>
+<review href="http://www.animenewsnetwork.com/review/fairy-tail/bd+dvd-part-6">Fairy Tail BD+DVD 6</review>
+<review href="http://www.animenewsnetwork.com/review/fairy-tail/blu-ray+dvd-part-4">Fairy Tail Blu-Ray + DVD 4</review>
+<review href="http://www.animenewsnetwork.com/review/fairy-tail/blu-ray+dvd-part-3">Fairy Tail Blu-Ray + DVD 3</review>
+<review href="http://www.animenewsnetwork.com/review/fairy-tail/blu-ray+dvd-combo-pack-part-2">Fairy Tail Blu-Ray + DVD 2</review>
+<review href="http://www.animenewsnetwork.com/review/fairy-tail/blu-ray+dvd-combo-pack-part-1">Fairy Tail Blu-Ray + DVD 1</review>
+<release date="2011-11-22" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=18695">Fairy Tail - Part 1 (BD+DVD)</release>
+<release date="2011-12-27" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=19716">Fairy Tail - Part 2 (BD+DVD)</release>
+<release date="2012-01-24" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=19717">Fairy Tail - Part 3 (BD+DVD)</release>
+<release date="2012-02-28" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=19900">Fairy Tail - Part 4 (BD+DVD)</release>
+<release date="2013-04-30" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=23473">Fairy Tail - Collection 1 (BD+DVD)</release>
+<release date="2013-07-23" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=23899">Fairy Tail - Collection 2 (BD+DVD)</release>
+<release date="2013-07-23" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=24125">Fairy Tail - Part 5 (BD+DVD)</release>
+<release date="2013-08-20" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=24126">Fairy Tail - Part 6 (BD+DVD)</release>
+<release date="2013-12-10" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=25372">Fairy Tail - Part 7 (BD+DVD)</release>
+<release date="2014-02-04" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=25373">Fairy Tail - Part 8 (BD+DVD)</release>
+<release date="2014-03-25" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=25625">Fairy Tail - Part 9 (BD+DVD)</release>
+<release date="2014-05-20" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=25889">Fairy Tail - Part 10 (BD+DVD)</release>
+<release date="2014-07-15" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=26918">Fairy Tail - Part 11 (BD+DVD)</release>
+<release date="2014-10-28" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=26919">Fairy Tail - Part 12 (BD+DVD)</release>
+<release date="2014-10-28" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=26920">Fairy Tail - Part 13 (BD+DVD)</release>
+<release date="2014-12-02" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=27546">Fairy Tail - Part 14 (BD+DVD)</release>
+<release date="2015-01-06" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=27438">Fairy Tail - Collection 3 (BD+DVD)</release>
+<release date="2015-03-10" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=27785">Fairy Tail - Part 15 (BD+DVD)</release>
+<release date="2015-06-02" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=28406">Fairy Tail - Collection 4 (BD+DVD)</release>
+<release date="2015-08-25" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=28839">Fairy Tail - Part 16 (BD+DVD)</release>
+<release date="2015-10-06" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=29313">Fairy Tail - Part 17 (BD+DVD)</release>
+<release date="2015-11-03" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=29661">Fairy Tail - Collection 5 (BD+DVD)</release>
+<release date="2015-12-01" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=29675">Fairy Tail - Part 18 (BD+DVD)</release>
+<release date="2016-03-22" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=30708">Fairy Tail - Part 19 (BD+DVD)</release>
+<news datetime="2009-08-01T09:53:31Z" href="http://www.animenewsnetwork.com/news/2009-08-01/fairy-tail-anime-voice-cast-listed-in-shonen-magazine">&lt;cite&gt;Fairy Tail&lt;/cite&gt; Anime's Voice Cast Listed in &lt;cite&gt;Shonen Magazine&lt;/cite&gt;</news>
+<news datetime="2009-10-01T18:58:27Z" href="http://www.animenewsnetwork.com/news/2009-10-01/crunchyroll-gets-sora-no-otoshimono-book-of-bantorra">Crunchyroll Gets &lt;cite&gt;Sora no Otoshimono, Book of Bantorra&lt;/cite&gt; (Update 2)</news>
+<news datetime="2009-10-05T18:55:45Z" href="http://www.animenewsnetwork.com/news/2009-10-05/crunchyroll-gets-fairy-tail-sasameki-koto-anime">Crunchyroll Gets &lt;cite&gt;Fairy Tail, Sasameki Koto&lt;/cite&gt; Anime</news>
+<news datetime="2009-10-09T15:48:58Z" href="http://www.animenewsnetwork.com/news/2009-10-09/fairy-tail-fantasu-anime-special-footage-streamed">&lt;cite&gt;Fairy Tail&lt;/cite&gt; Anime's Special Footage Streamed</news>
+<news datetime="2010-05-05T02:28:01Z" href="http://www.animenewsnetwork.com/news/2010-05-04/japan-animation-dvd-ranking-april-26-may-2">Japan's Animation DVD Ranking, April 26-May 2</news>
+<news datetime="2010-07-09T03:29:15Z" href="http://www.animenewsnetwork.com/news/2010-07-08/karl-to-fushigi-na-to-gets-new-kids-tv-anime-in-fall">&lt;cite&gt;Karl to Fushigi na Tō&lt;/cite&gt; Gets New Kids' TV Anime in Fall</news>
+<news datetime="2010-07-12T02:47:39Z" href="http://www.animenewsnetwork.com/news/2010-07-11/air-gear-manga-to-bundle-original-anime-dvd">&lt;cite&gt;Air Gear&lt;/cite&gt; Manga to Bundle Original Anime DVD (Update 3)</news>
+<news datetime="2010-07-17T10:00:00Z" href="http://www.animenewsnetwork.com/news/2010-07-17/golgo-13-black-butler-ii-captain-tylor-streamed">&lt;cite&gt;Golgo 13&lt;/cite&gt;, &lt;cite&gt;Black Butler II, Captain Tylor&lt;/cite&gt; Streamed</news>
+<news datetime="2010-07-14T16:42:19Z" href="http://www.animenewsnetwork.com/news/2010-07-14/air-gear-black-rock-shooter-love-live-yozakura-promos-streamed">&lt;cite&gt;Air Gear, Black Rock Shooter, Love Live, Yozakura&lt;/cite&gt; Promos Streamed</news>
+<news datetime="2010-07-14T21:30:07Z" href="http://www.animenewsnetwork.com/news/2010-07-14/naruto-fairy-tail-occult-academy-leaked-before-airing">&lt;cite&gt;Naruto, Fairy Tail, Occult Academy&lt;/cite&gt; Leaked Before Airing (Update 4)</news>
+<news datetime="2010-08-06T01:05:10Z" href="http://www.animenewsnetwork.com/news/2010-08-05/japan-animation-tv-ranking-july-19-25">Japan's Animation TV Ranking, July 19-25</news>
+<news datetime="2010-09-12T00:55:17Z" href="http://www.animenewsnetwork.com/news/2010-09-12/fairy-tail-anime-2nd-year-confirmed">&lt;cite&gt;Fairy Tail&lt;/cite&gt; Anime's 2nd Year Confirmed</news>
+<news datetime="2010-09-15T23:56:43Z" href="http://www.animenewsnetwork.com/news/2010-09-15/crunchyroll-adds-squid-girl-kaminomi-letter-bee-2">Crunchyroll Adds &lt;cite&gt;Squid Girl, KamiNomi, Letter Bee 2&lt;/cite&gt;</news>
+<news datetime="2010-10-13T02:44:22Z" href="http://www.animenewsnetwork.com/news/2010-10-12/japan-animation-dvd-ranking-october-4-10-part-2">Japan's Animation DVD Ranking, October 4-10 (Part 2)</news>
+<news datetime="2010-11-13T20:40:05Z" href="http://www.animenewsnetwork.com/news/2010-11-13/go-lion-ultra-maniac-oreimo-togainu-streamed">&lt;cite&gt;Go Lion, Ultra Maniac, Oreimo, Togainu&lt;/cite&gt; Streamed</news>
+<news datetime="2010-12-03T04:55:23Z" href="http://www.animenewsnetwork.com/news/2010-12-02/lucky-star-spice-and-wolf-ii-uta-kata-streamed">&lt;cite&gt;Lucky Star&lt;/cite&gt;, &lt;cite&gt;Spice and Wolf II&lt;/cite&gt;, &lt;cite&gt;Uta∽Kata&lt;/cite&gt; Streamed</news>
+<news datetime="2010-12-17T18:07:44Z" href="http://www.animenewsnetwork.com/news/2010-12-17/nyan-koi-h20-ninomiya-kun-air-movie-beck-streamed">&lt;cite&gt;Nyan Koi!, H20, Ninomiya-kun, Air Movie, Beck&lt;/cite&gt; Streamed</news>
+<news datetime="2010-12-22T21:41:49Z" href="http://www.animenewsnetwork.com/news/2010-12-22/crunchyroll-adds-seitokai-no-ichizon-demonbane-anime">Crunchyroll Adds &lt;cite&gt;Seitokai no Ichizon, Demonbane&lt;/cite&gt; Anime</news>
+<news datetime="2010-12-27T13:54:20Z" href="http://www.animenewsnetwork.com/news/2010-12-27/hell-girl-3-seitokai-no-ichizon-regios-streamed">&lt;cite&gt;Hell Girl 3, Seitokai no Ichizon, Regios&lt;/cite&gt; Streamed</news>
+<news datetime="2010-12-30T23:27:59Z" href="http://www.animenewsnetwork.com/news/2010-12-30/crunchyroll-adds-macademi-canvas-2-venus-to-mamoru">Crunchyroll Adds &lt;cite&gt;Canvas 2&lt;/cite&gt;, &lt;cite&gt;Venus to Mamoru&lt;/cite&gt;, &lt;cite&gt;Macademi&lt;/cite&gt;</news>
+<news datetime="2011-02-12T04:08:20Z" href="http://www.animenewsnetwork.com/news/2011-02-11/strike-witches-2-hero-tales-murder-princess-streamed">&lt;cite&gt;Strike Witches 2, Hero Tales, Murder Princess&lt;/cite&gt; Streamed</news>
+<news datetime="2011-01-16T05:05:12Z" href="http://www.animenewsnetwork.com/news/2011-01-16/japan-animation-tv-ranking-december-27-january-2">Japan's Animation TV Ranking, December 27-January 2</news>
+<news datetime="2011-01-18T18:02:16Z" href="http://www.animenewsnetwork.com/news/2011-01-18/manga-uk-adds-fairy-tail-shikabane-hime-aka">Manga UK Adds &lt;cite&gt;Fairy Tail&lt;/cite&gt;, &lt;cite&gt;Shikabane Hime Aka&lt;/cite&gt;</news>
+<news datetime="2011-03-05T10:11:29Z" href="http://www.animenewsnetwork.com/news/2011-03-05/5th-annual-seiyu-award-winners-announced">5th Annual Seiyū Award Winners Announced</news>
+<news datetime="2011-03-24T03:03:29Z" href="http://www.animenewsnetwork.com/news/2011-03-23/japan-animation-tv-ranking-march-7-13">Japan's Animation TV Ranking, March 7-13</news>
+<news datetime="2011-03-29T02:56:56Z" href="http://www.animenewsnetwork.com/news/2011-03-28/japan-animation-tv-ranking-march-14-20">Japan's Animation TV Ranking, March 14-20</news>
+<news datetime="2011-04-04T03:57:00Z" href="http://www.animenewsnetwork.com/news/2011-04-03/crunchyroll-reports-possible-simulcast-delays">Crunchyroll Reports Possible Simulcast Delays</news>
+<news datetime="2011-04-21T23:46:51Z" href="http://www.animenewsnetwork.com/news/2011-04-22/fairy-tail-to-begin-next-february">&lt;cite&gt;Fairy Tail&lt;/cite&gt; To Begin Next February</news>
+<news datetime="2011-04-22T22:39:10Z" href="http://www.animenewsnetwork.com/news/2011-04-22/funimation-adds-fairy-tail-live-action-treasure-hunter">Funimation Adds &lt;cite&gt;Fairy Tail&lt;/cite&gt;, Live-Action &lt;cite&gt;Treasure Hunter&lt;/cite&gt;</news>
+<news datetime="2011-05-12T19:45:00Z" href="http://www.animenewsnetwork.com/news/2011-05-12/aya-hirano-to-film-at-new-york-city-comic-shop-tonight">Voice Actress Aya Hirano to Film at NYC Shop Tonight</news>
+<news datetime="2011-06-18T03:57:00Z" href="http://www.animenewsnetwork.com/news/2011-06-17/north-american-stream-list/june-10-17">North American Stream List: June 10-17</news>
+<news datetime="2011-06-22T01:24:47Z" href="http://www.animenewsnetwork.com/news/2011-06-21/fairy-tail-english-cast-announced">&lt;cite&gt;Fairy Tail's&lt;/cite&gt; English Cast Announced</news>
+<news datetime="2011-07-06T14:30:00Z" href="http://www.animenewsnetwork.com/news/2011-07-06/north-american-stream-list/june-25-july-4">North American Stream List: June 25–July 4</news>
+<news datetime="2011-07-10T02:30:00Z" href="http://www.animenewsnetwork.com/news/2011-07-09/north-american-stream-list/july-4-8">North American Stream List: July 4–8</news>
+<news datetime="2011-07-12T11:00:00Z" href="http://www.animenewsnetwork.com/news/2011-07-12/japan-animation-dvd-ranking-july-4-10">Japan's Animation DVD Ranking, July 4-10</news>
+<news datetime="2011-07-25T03:30:00Z" href="http://www.animenewsnetwork.com/news/2011-07-24/north-american-stream-list/july-16-22">North American Stream List: July 16-24</news>
+<news datetime="2011-08-02T09:57:18Z" href="http://www.animenewsnetwork.com/news/2011-08-02/fairy-tail-tv-anime-3rd-year-confirmed">&lt;cite&gt;Fairy Tail&lt;/cite&gt; TV Anime's 3rd Year Confirmed</news>
+<news datetime="2011-08-28T08:42:19Z" href="http://www.animenewsnetwork.com/news/2011-08-28/madman-entertainment-announces-new-acquisitions-at-manifest-2011">Madman Entertainment Announces New Acquisitions at Manifest 2011</news>
+<news datetime="2011-08-29T14:15:51Z" href="http://www.animenewsnetwork.com/news/2011-08-30/weekly-wrapup-21/aug-27/aug">Weekly Wrapup 21/Aug - 27/Aug</news>
+<news datetime="2011-09-06T13:58:19Z" href="http://www.animenewsnetwork.com/news/2011-09-06/manga-releases-fairy-tale-in-march-2012">Manga Releases Fairy Tail in March 2012</news>
+<news datetime="2011-09-30T21:48:53Z" href="http://www.animenewsnetwork.com/news/2011-09-30/crunchyroll-to-stream-new-hunter-x-hunger-anime">Crunchyroll to Stream New &lt;cite&gt;Hunter x Hunter&lt;/cite&gt; Anime</news>
+<news datetime="2011-10-09T21:30:00Z" href="http://www.animenewsnetwork.com/news/2011-10-09/north-american-stream-list/october-3-9">North American Stream List: October 3-9</news>
+<news datetime="2011-10-10T17:29:13Z" href="http://www.animenewsnetwork.com/news/2011-10-10/sentai-filmworks-licenses-broken-blade">Sentai Filmworks Licenses &lt;cite&gt;Broken Blade&lt;/cite&gt; Anime Films</news>
+<news datetime="2011-10-16T08:45:00Z" href="http://www.animenewsnetwork.com/news/2011-10-16/fairy-tail-funkist-flutist-yoko-kasugai-passes-away">&lt;cite&gt;Fairy Tail's&lt;/cite&gt; Funkist Flutist Yōko Kasugai Passes Away</news>
+<news datetime="2011-10-16T22:00:00Z" href="http://www.animenewsnetwork.com/news/2011-10-16/north-american-stream-list/october-10-16">North American Stream List: October 10-16</news>
+<news datetime="2011-10-23T21:00:00Z" href="http://www.animenewsnetwork.com/news/2011-10-23/north-american-stream-list/october-17-23">North American Stream List: October 17-23</news>
+<news datetime="2011-11-08T11:30:00Z" href="http://www.animenewsnetwork.com/news/2011-11-08/japan-animation-blu-ray-disc-ranking/october-31-november-6/2">Japan's Animation DVD Ranking: October 31-November 6</news>
+<news datetime="2011-11-23T04:00:00Z" href="http://www.animenewsnetwork.com/news/2011-11-22/north-american-anime-manga-releases/november-20-26">North American Anime, Manga Releases: November 20-26</news>
+<news datetime="2011-12-28T01:05:25Z" href="http://www.animenewsnetwork.com/news/2011-12-27/north-american-anime-manga-releases-december-25-31">North American Anime, Manga Releases, December 25-31</news>
+<news datetime="2012-01-04T20:26:54Z" href="http://www.animenewsnetwork.com/news/2012-01-04/manga-confirms-release-dates-for-tekken/blood-vengeance-fairy-tail-mardock-scramble">Manga Confirms Release Dates for &lt;i&gt;Tekken: Blood Vengeance&lt;/i&gt;, &lt;i&gt;Fairy Tail&lt;/i&gt;, &lt;i&gt;Mardock Scramble&lt;/i&gt;</news>
+<news datetime="2012-01-06T19:01:14Z" href="http://www.animenewsnetwork.com/news/2012-01-06/manga-plans-fairy-tail-for-march-may-july-september">Manga Plans &lt;i&gt;Fairy Tail&lt;/i&gt; for March, May, July, September</news>
+<news datetime="2012-01-31T23:00:00Z" href="http://www.animenewsnetwork.com/news/2012-01-31/north-american-anime-manga-releases-january-29-february-4">North American Anime, Manga Releases, January 29-February 4</news>
+<news datetime="2012-02-03T19:11:30Z" href="http://www.animenewsnetwork.com/news/2012-02-03/spice-and-wolf-among-new-u.k-titles-reported-on-anime-on-line">&lt;i&gt;Spice and Wolf&lt;/i&gt; Among New U.K. Titles Reported on &lt;i&gt;Anime-on-Line&lt;/i&gt;</news>
+<news datetime="2012-02-05T21:00:33Z" href="http://www.animenewsnetwork.com/news/2012-02-05/north-american-stream-list/jan-30-feb-5">North American Stream List: Jan. 30-Feb. 5</news>
+<news datetime="2012-02-13T00:00:00Z" href="http://www.animenewsnetwork.com/news/2012-02-12/north-american-stream-list/february-6-12">North American Stream List: February 6-12</news>
+<news datetime="2012-02-20T00:30:00Z" href="http://www.animenewsnetwork.com/news/2012-02-19/north-american-stream-list/feb-13-19">North American Stream List: Feb. 13-19</news>
+<news datetime="2012-02-23T14:00:00Z" href="http://www.animenewsnetwork.com/news/2012-02-23/newest-fairy-tail-oad-promo-video-streamed">Newest &lt;cite&gt;Fairy Tail&lt;/cite&gt; OAD's Promo Video Streamed</news>
+<news datetime="2012-02-27T04:10:47Z" href="http://www.animenewsnetwork.com/news/2012-02-26/north-american-stream-list/feb.ruary-20-26">North American Stream List: February 20-26</news>
+<news datetime="2012-03-04T08:24:05Z" href="http://www.animenewsnetwork.com/news/2012-03-04/fairy-tail-debuts-on-monday">&lt;i&gt;Fairy Tail&lt;/i&gt; Debuts on Monday</news>
+<news datetime="2012-05-20T11:04:28Z" href="http://www.animenewsnetwork.com/news/2012-05-20/solid-state-society-blu-ray-live-action-yatterman-released-monday">&lt;i&gt;Solid State Society&lt;/i&gt; Blu-ray, Live-action &lt;i&gt;Yatterman&lt;/i&gt; Released Monday</news>
+<news datetime="2012-07-28T21:19:59Z" href="http://www.animenewsnetwork.com/news/2012-07-28/funi-adds-seikishi-yamato/r-one-piece/strong-world-fairy-tail-film-akira">Funi Adds &lt;cite&gt;Seikishi, Yamato: R, One Piece: Strong World, Fairy Tail&lt;/cite&gt; Film, &lt;cite&gt;Akira&lt;/cite&gt;</news>
+<news datetime="2012-08-22T04:20:39Z" href="http://www.animenewsnetwork.com/news/2012-08-22/fairy-tale-film-opened-with-weekend-no.1-per-screen-average">&lt;cite&gt;Fairy Tail&lt;/cite&gt; Film Opened with Weekend's #1 Per-Screen Average</news>
+<news datetime="2012-10-28T13:40:10Z" href="http://www.animenewsnetwork.com/news/2012-10-28/anime-announcements-at-london-mcm-expo">Anime Announcements at London MCM Expo</news>
+<news datetime="2013-02-12T19:30:00Z" href="http://www.animenewsnetwork.com/news/2013-02-12/japan-animation-dvd-ranking-february-4-10">Japan's Animation DVD Ranking, February 4-10</news>
+<news datetime="2013-03-02T09:30:00Z" href="http://www.animenewsnetwork.com/news/2013-03-02/fairy-tail-anime-tv-run-to-end-on-march-30">&lt;cite&gt;Fairy Tail&lt;/cite&gt; Anime's TV Run to End on March 30</news>
+<news datetime="2013-03-07T03:25:29Z" href="http://www.animenewsnetwork.com/news/2013-03-06/fairy-tail-creator-mashima/anime-is-not-over-yet">&lt;cite&gt;Fairy Tail&lt;/cite&gt; Creator Mashima: Anime Is Not Over Yet</news>
+<news datetime="2013-03-16T15:11:53Z" href="http://www.animenewsnetwork.com/news/2013-03-16/manga-entertainment-announce-appleseed-xiii-and-fairy-tail-season-2">Manga Entertainment Announce &lt;i&gt;Appleseed XIII&lt;/i&gt; and &lt;i&gt;Fairy Tail&lt;/i&gt; Season 2</news>
+<news datetime="2013-03-30T04:01:00Z" href="http://www.animenewsnetwork.com/news/2013-03-30/final-fairy-tail-episode-ends-with-to-be-continued-message">Final &lt;cite&gt;Fairy Tail&lt;/cite&gt; Episode Ends With 'To Be Continued' Message</news>
+<news datetime="2013-04-30T19:30:00Z" href="http://www.animenewsnetwork.com/news/2013-04-30/north-american-anime-manga-releases-april-28-may-4">North American Anime, Manga Releases, April 28-May 4</news>
+<news datetime="2013-06-01T18:50:00Z" href="http://www.animenewsnetwork.com/interest/2013-06-01/funimation-reveals-haganai-tv-anime-dub-cast-trailer">Funimation Reveals &lt;cite&gt;Haganai&lt;/cite&gt; TV Anime's Dub Cast, Trailer</news>
+<news datetime="2013-07-11T06:55:50Z" href="http://www.animenewsnetwork.com/news/2013-07-11/fairy-tail-tv-anime-project-relaunched">&lt;cite&gt;Fairy Tail&lt;/cite&gt; TV Anime Project Relaunched</news>
+<news datetime="2013-07-19T17:40:00Z" href="http://www.animenewsnetwork.com/news/2013-07-19/fairy-tail-x-rave-master-crossover-anime-promo-posted">&lt;cite&gt;Fairy Tail&lt;/cite&gt; x &lt;cite&gt;Rave Master&lt;/cite&gt; Crossover Anime's Promo Posted</news>
+<news datetime="2013-07-23T20:15:00Z" href="http://www.animenewsnetwork.com/news/2013-07-23/north-american-anime-manga-releases-july-21-27">North American Anime, Manga Releases, July 21-27</news>
+<news datetime="2013-08-10T20:29:37Z" href="http://www.animenewsnetwork.com/news/2013-08-10/funimation-adds-cowboy-bebop-escaflowne-outlaw-star-more">Funimation Adds &lt;cite&gt;Cowboy Bebop, Escaflowne, Outlaw Star&lt;/cite&gt;, More</news>
+<news datetime="2013-08-20T22:30:00Z" href="http://www.animenewsnetwork.com/news/2013-08-20/north-american-anime-manga-releases-august-18-24">North American Anime, Manga Releases, August 18-24</news>
+<news datetime="2013-09-07T21:27:09Z" href="http://www.animenewsnetwork.com/news/2013-09-07/fairy-tail-blu-ray-editions-from-5th-volume">&lt;i&gt;Fairy Tail&lt;/i&gt; Blu-Ray Editions from 5th Volume</news>
+<news datetime="2013-12-10T22:00:00Z" href="http://www.animenewsnetwork.com/news/2013-12-10/north-american-anime-manga-releases-december-8-14">North American Anime, Manga Releases, December 8-14</news>
+<news datetime="2014-02-04T21:37:53Z" href="http://www.animenewsnetwork.com/news/2014-02-04/north-american-anime-manga-releases-february-2-8">North American Anime, Manga Releases, February 2-8</news>
+<news datetime="2014-03-25T22:50:02Z" href="http://www.animenewsnetwork.com/news/2014-03-25/north-american-anime-manga-releases-march-23-29">North American Anime, Manga Releases, March 23-29</news>
+<news datetime="2014-04-15T20:45:25Z" href="http://www.animenewsnetwork.com/news/2014-04-15/north-american-anime-manga-releases-april-13-19">North American Anime, Manga Releases, April 13-19</news>
+<news datetime="2014-05-20T22:30:53Z" href="http://www.animenewsnetwork.com:/news/2014-05-21/north-american-anime-manga-releases-may-18-24/.74741">North American Anime, Manga Releases, May 18-24</news>
+<news datetime="2014-07-16T20:30:45Z" href="http://www.animenewsnetwork.com:/news/2014-07-17/north-american-anime-manga-releases-july-13-19/.76713">North American Anime, Manga Releases, July 13-19</news>
+<news datetime="2014-08-12T20:00:00Z" href="http://www.animenewsnetwork.com:/news/2014-08-13/madman-adds-complete-seasons-of-fairy-tail-and-black-butler-to-animelab/.77552">Madman Adds Complete Seasons of Fairy Tail and Black Butler to AnimeLab</news>
+<news datetime="2014-08-25T11:25:00Z" href="http://www.animenewsnetwork.com:/news/2014-08-25/orenchi-no-furo-jijo-new-promo-introduces-new-cast/.77986">&lt;cite&gt;Orenchi no Furo Jijō&lt;/cite&gt;'s New Promo Introduces New Cast</news>
+<news datetime="2014-09-16T20:40:00Z" href="http://www.animenewsnetwork.com:/news/2014-09-16/north-american-anime-manga-releases-september-14-20/.78842">North American Anime, Manga Releases, September 14-20</news>
+<news datetime="2014-10-03T21:05:06Z" href="http://www.animenewsnetwork.com:/news/2014-10-03/funimation-streams-gonna-be-the-twin-tails-in-search-of-the-lost-future-daitoshokan-no-hitsujikai-garo-bahamut-laughing-under-the-clouds-lord-marksman-and-vanadis/.79536">Funimation Streams &lt;cite&gt;Gonna be the Twin-Tails!!, In Search of the Lost Future, Daitoshokan no Hitsujikai, Garo, Bahamut, Laughing Under the Clouds, Lord Marksman &amp; Vanadis&lt;/cite&gt;</news>
+<news datetime="2014-10-28T21:20:00Z" href="http://www.animenewsnetwork.com:/news/2014-10-28/north-american-anime-manga-releases-october-26-november-1/.80433">North American Anime, Manga Releases, October 26-November 1</news>
+<news datetime="2014-12-02T22:40:00Z" href="http://www.animenewsnetwork.com:/news/2014-12-02/north-american-anime-manga-releases-november-30-december-6/.81688">North American Anime, Manga Releases, November 30-December 6</news>
+<news datetime="2014-12-18T07:47:35Z" href="http://www.animenewsnetwork.com:/news/2014-12-18/hanabee-7-days-of-christmas-announces-the-ambition-of-oda-nobuna/.82321">Hanabee's 7 Days of Christmas Announces The Ambition of Oda Nobuna</news>
+<news datetime="2014-12-19T21:40:00Z" href="http://www.animenewsnetwork.com:/news/2014-12-19/funimation-to-stream-kamisama-kiss-2-tokyo-ghoul-a-shonen-hollywood-holly-stage-for-50/.82411">Funimation to Stream &lt;cite&gt;Kamisama Kiss 2, Tokyo Ghoul √A, Shōnen Hollywood - Holly Stage for 50&lt;/cite&gt;</news>
+<news datetime="2015-01-06T22:15:00Z" href="http://www.animenewsnetwork.com:/news/2015-01-06/north-american-anime-manga-releases-january-4-10/.82969">North American Anime, Manga Releases, January 4-10</news>
+<news datetime="2015-01-18T07:32:26Z" href="http://www.animenewsnetwork.com:/news/2015-01-18/otorimonogatari-released-monday/.83377">&lt;i&gt;Otorimonogatari&lt;/i&gt; Released Monday</news>
+<news datetime="2015-01-28T22:00:00Z" href="http://www.animenewsnetwork.com:/news/2015-01-28/funimation-kodansha-develop-free-to-play-fairy-tail-game/.83813">Funimation, Kodansha Develop Free-to-Play &lt;cite&gt;Fairy Tail&lt;/cite&gt; Game</news>
+<news datetime="2015-02-28T02:45:00Z" href="http://www.animenewsnetwork.com:/news/2015-02-27/idoling-idol-group-to-break-up-in-october/.85457">Idoling!!! Idol Group to Break Up in October</news>
+<news datetime="2015-03-10T20:10:42Z" href="http://www.animenewsnetwork.com:/news/2015-03-10/north-american-anime-manga-releases-march-8-14/.85825">North American Anime, Manga Releases, March 8-14</news>
+<news datetime="2015-03-29T00:28:49Z" href="http://www.animenewsnetwork.com:/news/2015-03-28/funimation-licenses-the-disappearance-of-nagato-yuki-chan-show-by-rock-anime/.86453">Funimation Licenses &lt;cite&gt;The Disappearance of Nagato Yuki-chan, Show By Rock!!&lt;/cite&gt; Anime</news>
+<news datetime="2015-06-02T20:50:00Z" href="http://www.animenewsnetwork.com:/news/2015-06-02/north-american-anime-manga-releases-may-31-june-6/.88846">North American Anime, Manga Releases, May 31-June 6</news>
+<news datetime="2015-08-25T22:10:00Z" href="http://www.animenewsnetwork.com:/news/2015-08-25/north-american-anime-manga-releases-august-23-29/.92133">North American Anime, Manga Releases, August 23-29</news>
+<news datetime="2015-08-27T20:40:00Z" href="http://www.animenewsnetwork.com:/news/2015-08-27/new-fairy-tail-novel-coming-in-october/.92162">New &lt;cite&gt;Fairy Tail&lt;/cite&gt; Novel Coming in October</news>
+<news datetime="2015-09-13T00:41:55Z" href="http://www.animenewsnetwork.com:/news/2015-09-13/a-certain-magical-index-and-009-re-cyborg-released-monday/.92870">&lt;i&gt;A Certain Magical Index&lt;/i&gt; and &lt;i&gt;009 Re:Cyborg&lt;/i&gt; Released Monday</news>
+<news datetime="2015-10-06T21:45:00Z" href="http://www.animenewsnetwork.com:/news/2015-10-06/north-american-anime-manga-releases-october-4-10/.93867">North American Anime, Manga Releases, October 4-10</news>
+<news datetime="2015-11-03T22:40:00Z" href="http://www.animenewsnetwork.com:/news/2015-11-03/north-american-anime-manga-releases-november-1-7/.94975">North American Anime, Manga Releases, November 1-7</news>
+<news datetime="2015-12-01T23:47:20Z" href="http://www.animenewsnetwork.com:/news/2015-12-01/north-american-anime-manga-releases-november-29-december-5/.95987">North American Anime, Manga Releases, November 29-December 5</news>
+<news datetime="2015-12-22T05:25:00Z" href="http://www.animenewsnetwork.com:/news/2015-12-22/funimation-to-stream-dimension-w-grimgar-pandora-divine-gate-prince-of-stride-dagashikashi-with-dub/.96800">Funimation to Stream &lt;cite&gt;Dimension W, Grimgar, Pandora, Divine Gate, Prince of Stride, Dagashikashi&lt;/cite&gt; With Dub</news>
+<news datetime="2016-03-22T21:20:00Z" href="http://www.animenewsnetwork.com:/news/2016-03-22/north-american-anime-manga-releases-march-20-26/.100129">North American Anime, Manga Releases, March 20-26</news>
+<staff gid="2030085662"><task>Director</task><person id="28779">Shinji Ishihira</person></staff>
+<staff gid="418825056"><task>Series Composition</task><person id="10424">Masashi Sogo</person></staff>
+<staff gid="1483689752"><task>Script</task><person id="1623">Atsuhiro Tomioka</person></staff>
+<staff gid="3233027523"><task>Script</task><person id="8134">Shoji Yonemura</person></staff>
+<staff gid="3571667431"><task>Script</task><person id="8956">Fumihiko Shimo</person></staff>
+<staff gid="1881367562"><task>Script</task><person id="10424">Masashi Sogo</person></staff>
+<staff gid="1951679974"><task>Storyboard</task><person id="588">Hiroyuki Fukushima</person></staff>
+<staff gid="2906269668"><task>Storyboard</task><person id="5854">Yasuo Iwamoto</person></staff>
+<staff gid="3497293482"><task>Storyboard</task><person id="7756">Susumu Nishizawa</person></staff>
+<staff gid="3362935537"><task>Storyboard</task><person id="9692">Yusaku Saotome</person></staff>
+<staff gid="1862923746"><task>Storyboard</task><person id="14936">Hirokazu Hisayuki</person></staff>
+<staff gid="937367144"><task>Storyboard</task><person id="18301">Yoshiyuki Asai</person></staff>
+<staff gid="2124249492"><task>Storyboard</task><person id="25206">Noriaki Saito</person></staff>
+<staff gid="2081982153"><task>Storyboard</task><person id="28779">Shinji Ishihira</person></staff>
+<staff gid="1566228377"><task>Storyboard</task><person id="36193">Kenji Yasuda</person></staff>
+<staff gid="98379442"><task>Storyboard</task><person id="41489">Mamoru Enomoto</person></staff>
+<staff gid="2790397899"><task>Storyboard</task><person id="41759">Naomichi Yamato</person></staff>
+<staff gid="847818634"><task>Storyboard</task><person id="55754">Jun'ichi Wada</person></staff>
+<staff gid="2881102013"><task>Storyboard</task><person id="72971">Masaomi Ando</person></staff>
+<staff gid="2702778716"><task>Storyboard</task><person id="78489">Lee Kan Min</person></staff>
+<staff gid="2643955038"><task>Storyboard</task><person id="83683">Mashu Itō</person></staff>
+<staff gid="943308358"><task>Storyboard</task><person id="84674">Kyōhei Ishiguro</person></staff>
+<staff gid="3215400968"><task>Storyboard</task><person id="89915">Touma Shirakawa</person></staff>
+<staff gid="1519083442"><task>Storyboard</task><person id="98074">Yoshiyuki Sanami</person></staff>
+<staff gid="1944149487"><task>Storyboard</task><person id="99200">Tsuyoshi Hida</person></staff>
+<staff gid="1191979634"><task>Storyboard</task><person id="116202">Takahiko Kyōgoku</person></staff>
+<staff gid="2964540098"><task>Episode Director</task><person id="588">Hiroyuki Fukushima</person></staff>
+<staff gid="1786494157"><task>Episode Director</task><person id="5854">Yasuo Iwamoto</person></staff>
+<staff gid="3051570052"><task>Episode Director</task><person id="7588">Tetsuya Watanabe</person></staff>
+<staff gid="850822110"><task>Episode Director</task><person id="7596">Nobuhiro Takamoto</person></staff>
+<staff gid="1528725134"><task>Episode Director</task><person id="9475">Yoshihisa Matsumoto</person></staff>
+<staff gid="2227330154"><task>Episode Director</task><person id="9692">Yusaku Saotome</person></staff>
+<staff gid="2070963403"><task>Episode Director</task><person id="11433">Masayuki Oozeki</person></staff>
+<staff gid="2217283358"><task>Episode Director</task><person id="13830">Hirokazu Yamada</person></staff>
+<staff gid="2588853125"><task>Episode Director</task><person id="16712">Kazunobu Shimizu</person></staff>
+<staff gid="3600859172"><task>Episode Director</task><person id="18301">Yoshiyuki Asai</person></staff>
+<staff gid="2935022415"><task>Episode Director</task><person id="19231">Shigeru Yamazaki</person></staff>
+<staff gid="2365996859"><task>Episode Director</task><person id="20966">Hiroshi Kimura</person></staff>
+<staff gid="1312376478"><task>Episode Director</task><person id="21263">Shigetaka Ikeda</person></staff>
+<staff gid="1817702167"><task>Episode Director</task><person id="24727">Hiroshi Tamada</person></staff>
+<staff gid="2355519736"><task>Episode Director</task><person id="25206">Noriaki Saito</person></staff>
+<staff gid="3188761899"><task>Episode Director</task><person id="30665">Yasushi Muroya</person></staff>
+<staff gid="645106437"><task>Episode Director</task><person id="34172">Yoshitaka Makino</person></staff>
+<staff gid="411053832"><task>Episode Director</task><person id="34849">Mitsuhiro Yoneda</person></staff>
+<staff gid="1761006682"><task>Episode Director</task><person id="35549">Kiichi Suzuno</person></staff>
+<staff gid="929700421"><task>Episode Director</task><person id="38217">Yasuyuki Fuse</person></staff>
+<staff gid="2621932247"><task>Episode Director</task><person id="39253">Daisuke Tsukushi</person></staff>
+<staff gid="1128838790"><task>Episode Director</task><person id="41489">Mamoru Enomoto</person></staff>
+<staff gid="3036433805"><task>Episode Director</task><person id="41759">Naomichi Yamato</person></staff>
+<staff gid="2092831855"><task>Episode Director</task><person id="46102">Hazuki Mizumoto</person></staff>
+<staff gid="1275007566"><task>Episode Director</task><person id="46243">Takeyuki Yanase</person></staff>
+<staff gid="2789794581"><task>Episode Director</task><person id="51192">Takahiro Majima</person></staff>
+<staff gid="2120744733"><task>Episode Director</task><person id="55754">Jun'ichi Wada</person></staff>
+<staff gid="1816925610"><task>Episode Director</task><person id="56195">Satoshi Shimizu</person></staff>
+<staff gid="3545841168"><task>Episode Director</task><person id="72971">Masaomi Ando</person></staff>
+<staff gid="2191610766"><task>Episode Director</task><person id="75704">Nanako Sasaki</person></staff>
+<staff gid="1716664652"><task>Episode Director</task><person id="77075">Shunichi Yoshizawa</person></staff>
+<staff gid="1726722318"><task>Episode Director</task><person id="78489">Lee Kan Min</person></staff>
+<staff gid="2787174781"><task>Episode Director</task><person id="79368">Eisuke Hayashi</person></staff>
+<staff gid="2553077295"><task>Episode Director</task><person id="80280">Yūsuke Onoda</person></staff>
+<staff gid="2683309703"><task>Episode Director</task><person id="84674">Kyōhei Ishiguro</person></staff>
+<staff gid="1996912215"><task>Episode Director</task><person id="99200">Tsuyoshi Hida</person></staff>
+<staff gid="3035095156"><task>Episode Director</task><person id="101083">QZo</person></staff>
+<staff gid="2373114635"><task>Episode Director</task><person id="105993">Hitomi Efuku</person></staff>
+<staff gid="3296517423"><task>Episode Director</task><person id="108024">Kazunobu Fuseki</person></staff>
+<staff gid="2593589066"><task>Episode Director</task><person id="116202">Takahiko Kyōgoku</person></staff>
+<staff gid="977422306"><task>Unit Director</task><person id="588">Hiroyuki Fukushima</person></staff>
+<staff gid="2758380987"><task>Unit Director</task><person id="8561">Hiroshi Ishiodori</person></staff>
+<staff gid="1310983660"><task>Unit Director</task><person id="36193">Kenji Yasuda</person></staff>
+<staff gid="827624671"><task>Unit Director</task><person id="41759">Naomichi Yamato</person></staff>
+<staff gid="3035168996"><task>Unit Director</task><person id="45619">Yuu Nobuta</person></staff>
+<staff gid="1868297072"><task>Unit Director</task><person id="46102">Hazuki Mizumoto</person></staff>
+<staff gid="2626346643"><task>Unit Director</task><person id="79368">Eisuke Hayashi</person></staff>
+<staff gid="2849743399"><task>Unit Director</task><person id="108024">Kazunobu Fuseki</person></staff>
+<staff gid="2705873841"><task>Music</task><person id="37756">Yasuharu Takanashi</person></staff>
+<staff gid="1287701309"><task>Original creator</task><person id="12763">Hiro Mashima</person></staff>
+<staff gid="557907855"><task>Character Design</task><person id="78632">Aoi Yamamoto</person></staff>
+<staff gid="2358316681"><task>Art Director</task><person id="43081">Junko Shimizu</person></staff>
+<staff gid="1879010145"><task>Chief Animation Director</task><person id="35547">Takao Sano</person></staff>
+<staff gid="2495497307"><task>Animation Director</task><person id="1966">Kenichiro Suzuki</person></staff>
+<staff gid="2040669597"><task>Animation Director</task><person id="2276">Kazuyuki Igai</person></staff>
+<staff gid="1118638752"><task>Animation Director</task><person id="3399">Satoshi Kimura</person></staff>
+<staff gid="2023399768"><task>Animation Director</task><person id="3615">Masahiro Sekiguchi</person></staff>
+<staff gid="3998803938"><task>Animation Director</task><person id="4085">Satoru Minowa</person></staff>
+<staff gid="1127145248"><task>Animation Director</task><person id="5113">Atsushi Aono</person></staff>
+<staff gid="2642888137"><task>Animation Director</task><person id="5626">Seiji Kishimoto</person></staff>
+<staff gid="2199963341"><task>Animation Director</task><person id="7332">Shunji Murata</person></staff>
+<staff gid="768038079"><task>Animation Director</task><person id="7488">Toshiko Sasaki</person></staff>
+<staff gid="2267183447"><task>Animation Director</task><person id="9240">Sadahiko Sakamaki</person></staff>
+<staff gid="618425037"><task>Animation Director</task><person id="11823">Tomoaki Chishima</person></staff>
+<staff gid="2017162133"><task>Animation Director</task><person id="12383">Masayuki Tanaka</person></staff>
+<staff gid="3119856855"><task>Animation Director</task><person id="12765">Kang Won Kim</person></staff>
+<staff gid="858545689"><task>Animation Director</task><person id="14936">Hirokazu Hisayuki</person></staff>
+<staff gid="3461776195"><task>Animation Director</task><person id="16459">Yuka Takashina</person></staff>
+<staff gid="692912912"><task>Animation Director</task><person id="17489">Takahisa Ichikawa</person></staff>
+<staff gid="2854733753"><task>Animation Director</task><person id="19142">Yousuke Kabashima</person></staff>
+<staff gid="2309895169"><task>Animation Director</task><person id="21593">Noritomo Hattori</person></staff>
+<staff gid="3779911818"><task>Animation Director</task><person id="22226">Kenji Shinohara</person></staff>
+<staff gid="2337681335"><task>Animation Director</task><person id="22611">Osamu Ohkubo</person></staff>
+<staff gid="947152583"><task>Animation Director</task><person id="25196">Mikio Fujiwara</person></staff>
+<staff gid="585553092"><task>Animation Director</task><person id="25200">Konomi Sakurai</person></staff>
+<staff gid="3054970765"><task>Animation Director</task><person id="25213">Shinako Okayama</person></staff>
+<staff gid="2201730351"><task>Animation Director</task><person id="26748">Tomohiro Koyama</person></staff>
+<staff gid="1813096453"><task>Animation Director</task><person id="26749">Tomoki Mizuno</person></staff>
+<staff gid="3098043194"><task>Animation Director</task><person id="29596">Shinya Ojiri</person></staff>
+<staff gid="3515019394"><task>Animation Director</task><person id="29711">Takashi Uchida</person></staff>
+<staff gid="993908508"><task>Animation Director</task><person id="30645">Yuji Ushijima</person></staff>
+<staff gid="438861597"><task>Animation Director</task><person id="31453">Jouji Yanase</person></staff>
+<staff gid="2636767085"><task>Animation Director</task><person id="31780">Tomoshige Inayoshi</person></staff>
+<staff gid="2159062579"><task>Animation Director</task><person id="31781">Asako Inayoshi</person></staff>
+<staff gid="221004983"><task>Animation Director</task><person id="32693">Hiroki Ikeshita</person></staff>
+<staff gid="2100261176"><task>Animation Director</task><person id="33103">Teruhiko Yamazaki</person></staff>
+<staff gid="3051057362"><task>Animation Director</task><person id="33269">Shigenori Taniguchi</person></staff>
+<staff gid="2360446954"><task>Animation Director</task><person id="33277">Futoshi Higashide</person></staff>
+<staff gid="1887659200"><task>Animation Director</task><person id="35659">Satoshi Hata</person></staff>
+<staff gid="1027295336"><task>Animation Director</task><person id="36268">Atsushi Soga</person></staff>
+<staff gid="3502322413"><task>Animation Director</task><person id="36453">Nobuhiko Kawakami</person></staff>
+<staff gid="3933243615"><task>Animation Director</task><person id="44254">Emi Honda</person></staff>
+<staff gid="2236284110"><task>Animation Director</task><person id="46736">Nobuharu Ishido</person></staff>
+<staff gid="1444752904"><task>Animation Director</task><person id="47047">Akiko Matsuo</person></staff>
+<staff gid="2950029914"><task>Animation Director</task><person id="47468">Mariko Ito</person></staff>
+<staff gid="1949791485"><task>Animation Director</task><person id="47667">Masakazu Yamagishi</person></staff>
+<staff gid="2982380992"><task>Animation Director</task><person id="47785">Naomi Yoshida</person></staff>
+<staff gid="2419470890"><task>Animation Director</task><person id="49576">Miyuki Koga</person></staff>
+<staff gid="1689988645"><task>Animation Director</task><person id="52328">Masaki Inada</person></staff>
+<staff gid="1259296207"><task>Animation Director</task><person id="52805">Masanori Iizuka</person></staff>
+<staff gid="678201895"><task>Animation Director</task><person id="53145">Jung-Duk Seo</person></staff>
+<staff gid="2732322674"><task>Animation Director</task><person id="53683">Kanta Suzuki</person></staff>
+<staff gid="2281782691"><task>Animation Director</task><person id="53824">Seong Ho Park</person></staff>
+<staff gid="1730386017"><task>Animation Director</task><person id="58830">Masato Numazu</person></staff>
+<staff gid="1846701771"><task>Animation Director</task><person id="59990">Sayaka Koiso</person></staff>
+<staff gid="2066161144"><task>Animation Director</task><person id="61753">Tatsunori Sakamoto</person></staff>
+<staff gid="1616125506"><task>Animation Director</task><person id="63936">Kosuke Yoshida</person></staff>
+<staff gid="3196918901"><task>Animation Director</task><person id="72184">Yuya Takahashi</person></staff>
+<staff gid="2441360404"><task>Animation Director</task><person id="72698">Michinori Shiga</person></staff>
+<staff gid="1028599187"><task>Animation Director</task><person id="73162">Ryo Haga</person></staff>
+<staff gid="1293408790"><task>Animation Director</task><person id="78073">Masaaki Yamamoto</person></staff>
+<staff gid="1617759290"><task>Animation Director</task><person id="78092">Hiroko Kuurube</person></staff>
+<staff gid="2215050560"><task>Animation Director</task><person id="78093">Erika Arakawa</person></staff>
+<staff gid="1248196160"><task>Animation Director</task><person id="78109">Kiryou Iwamoto</person></staff>
+<staff gid="1726488026"><task>Animation Director</task><person id="78489">Lee Kan Min</person></staff>
+<staff gid="1728347872"><task>Animation Director</task><person id="78613">Noriko Ogura</person></staff>
+<staff gid="1293284275"><task>Animation Director</task><person id="78632">Aoi Yamamoto</person></staff>
+<staff gid="1998004383"><task>Animation Director</task><person id="78996">Jun Hanzawa</person></staff>
+<staff gid="2841394217"><task>Animation Director</task><person id="80011">Jiemon Futsuzawa</person></staff>
+<staff gid="2863552221"><task>Animation Director</task><person id="80155">Hiromi Sakamoto</person></staff>
+<staff gid="1732110563"><task>Animation Director</task><person id="80810">Hitoshi Miyajima</person></staff>
+<staff gid="2700023778"><task>Animation Director</task><person id="81376">Hidenori Kane</person></staff>
+<staff gid="2150867940"><task>Animation Director</task><person id="82921">Aki Nishizaki</person></staff>
+<staff gid="661597184"><task>Animation Director</task><person id="83170">Katsunori Kikuchi</person></staff>
+<staff gid="2173163354"><task>Animation Director</task><person id="84651">Hyung Woo Shin</person></staff>
+<staff gid="870463224"><task>Animation Director</task><person id="85248">Eiichi Tokukura</person></staff>
+<staff gid="1019242608"><task>Animation Director</task><person id="85639">Seok Pyo Hong</person></staff>
+<staff gid="1993797720"><task>Animation Director</task><person id="87945">Jo Won Hee</person></staff>
+<staff gid="1905786248"><task>Animation Director</task><person id="89644">Masatsugu Yamamoto</person></staff>
+<staff gid="2798400596"><task>Animation Director</task><person id="97656">Karuta Sorashima</person></staff>
+<staff gid="3043666004"><task>Animation Director</task><person id="99160">Hyun Woo Ju</person></staff>
+<staff gid="2161066028"><task>Animation Director</task><person id="101848">Suk Pyo Song</person></staff>
+<staff gid="3267959956"><task>Animation Director</task><person id="104656">Emi Kouno</person></staff>
+<staff gid="1612308156"><task>Animation Director</task><person id="105654">Shiori Mikuni</person></staff>
+<staff gid="809507697"><task>Animation Director</task><person id="114880">Yeong Beom Kim</person></staff>
+<staff gid="3104820120"><task>Art design</task><person id="51903">Hiroshi Izumi</person></staff>
+<staff gid="3334093542"><task>Art design</task><person id="63226">Yohei Kodama</person></staff>
+<staff gid="1683996695"><task>Sound Director</task><person id="10427">Shoji Hata</person></staff>
+<staff gid="1973154334"><task>Director of Photography</task><person id="18393">Atsushi Iwasaki</person></staff>
+<staff gid="1530252244"><task>Director of Photography</task><person id="48275">Youichirou Satou</person></staff>
+<staff gid="1622596844"><task>Producer</task><person id="16602">Taihei Yamanishi</person></staff>
+<staff gid="1416634603"><task>Producer</task><person id="17530">Tomonori Ochikoshi</person></staff>
+<staff gid="2018099111"><task>Producer</task><person id="80003">Yoshikazu Kuretani</person></staff>
+<cast gid="2575569004" lang="EN"><role>Gildarts Clive</role><person id="1064">Jason Douglas</person></cast>
+<cast gid="1422423197" lang="EN"><role>Elfman</role><person id="1386">Christopher R. Sabat</person></cast>
+<cast gid="2430484202" lang="EN"><role>Loke</role><person id="1388">Eric Vale</person></cast>
+<cast gid="1687720671" lang="EN"><role>Mirajane</role><person id="2074">Monica Rial</person></cast>
+<cast gid="3415841633" lang="EN"><role>Lisanna</role><person id="7107">Carrie Savage</person></cast>
+<cast gid="762155188" lang="EN"><role>Laxus Dreyar</role><person id="7108">Patrick Seitz</person></cast>
+<cast gid="1268143427" lang="EN"><role>Lyon Bastia</role><person id="10063">Jerry Jewell</person></cast>
+<cast gid="2193009150" lang="EN"><role>Cana Alberona</role><person id="13966">Jamie Marchi</person></cast>
+<cast gid="2875443529" lang="EN"><role>Erza Scarlet</role><person id="20342">Colleen Clinkenbeard</person></cast>
+<cast gid="2020068574" lang="EN"><role>Makarov</role><person id="26226">R. Bruce Elliot</person></cast>
+<cast gid="1991701095" lang="EN"><role>Jellal Fernandes/Siegrain</role><person id="29209">Robert McCollum</person></cast>
+<cast gid="2707523026" lang="EN"><role>Mystogan</role><person id="29209">Robert McCollum</person></cast>
+<cast gid="2401074966" lang="EN"><role>Mavis Vermillion</role><person id="31217">Leah Clark</person></cast>
+<cast gid="3152592397" lang="EN"><role>Juvia Loxar</role><person id="31220">Brina Palencia</person></cast>
+<cast gid="3113801607" lang="EN"><role>Zeref</role><person id="35993">Joel McDonald</person></cast>
+<cast gid="995317216" lang="EN"><role>Ultear Milkovich</role><person id="39188">Lydia Mackay</person></cast>
+<cast gid="1443096635" lang="EN"><role>Wendy</role><person id="44595">Brittney Karbowski</person></cast>
+<cast gid="1822287611" lang="EN"><role>Natsu Dragneel</role><person id="62405">Todd Haberkorn</person></cast>
+<cast gid="1001318255" lang="EN"><role>Gajeel Redfox</role><person id="62650">David Wald</person></cast>
+<cast gid="3898567027" lang="EN"><role>Lucy Heartfilia</role><person id="64331">Cherami Leigh</person></cast>
+<cast gid="1912837761" lang="EN"><role>Carla</role><person id="71281">Jad Saxton</person></cast>
+<cast gid="1435856632" lang="EN"><role>Levy McGarden</role><person id="72546">Kristi Bingham</person></cast>
+<cast gid="1069024252" lang="EN"><role>Gray Fullbuster</role><person id="81349">Newton Pittman</person></cast>
+<cast gid="3526492533" lang="EN"><role>Happy</role><person id="81350">Tia Ballard</person></cast>
+<cast gid="3722419922" lang="EN"><role>Romeo</role><person id="83913">Lindsay Seidel</person></cast>
+<cast gid="1669827663" lang="EN"><role>Romeo</role><person id="84749">Kayla Carlyle</person></cast>
+<cast gid="2736174004" lang="EN"><role>Pantherlily</role><person id="93813">Rick Keeling</person></cast>
+<cast gid="682220238" lang="EN"><role>Levy McGarden</role><person id="105710">Kristi Kang</person></cast>
+<cast gid="3565329934" lang="ES"><role>Erza Scarlet</role><person id="69006">Silvia Cabrera</person></cast>
+<cast gid="3642584336" lang="ES"><role>Juvia Loxar</role><person id="69006">Silvia Cabrera</person></cast>
+<cast gid="2295820302" lang="ES"><role>Lucy Heartfilia</role><person id="69008">Eva Bau</person></cast>
+<cast gid="1262317472" lang="ES"><role>Happy</role><person id="71210">Nina Romero</person></cast>
+<cast gid="1501686073" lang="ES"><role>Wendy Marvell</role><person id="71210">Nina Romero</person></cast>
+<cast gid="1861390888" lang="ES"><role>Gray Fullbuster</role><person id="71215">José Garcia Tos</person></cast>
+<cast gid="2295349884" lang="ES"><role>Siegrain</role><person id="71215">José Garcia Tos</person></cast>
+<cast gid="294049844" lang="ES"><role>Elfman Strauss</role><person id="71216">Rafael Ordonez Arrieta</person></cast>
+<cast gid="2424908617" lang="ES"><role>Jellal Fernandes</role><person id="71216">Rafael Ordonez Arrieta</person></cast>
+<cast gid="2921328450" lang="ES"><role>Lyon Bastia</role><person id="71216">Rafael Ordonez Arrieta</person></cast>
+<cast gid="3537422206" lang="ES"><role>Makarov Dreyar</role><person id="71216">Rafael Ordonez Arrieta</person></cast>
+<cast gid="2066049577" lang="ES"><role>Mystogan</role><person id="71216">Rafael Ordonez Arrieta</person></cast>
+<cast gid="1168227831" lang="ES"><role>Pantherlily</role><person id="71216">Rafael Ordonez Arrieta</person></cast>
+<cast gid="2021194117" lang="ES"><role>Loke</role><person id="71218">Dario Torrent</person></cast>
+<cast gid="613489416" lang="ES"><role>Cana Alberona</role><person id="71918">Rosa López</person></cast>
+<cast gid="1034063097" lang="ES"><role>Juvia Loxar</role><person id="71918">Rosa López</person></cast>
+<cast gid="3614874470" lang="ES"><role>Levy McGarden</role><person id="71918">Rosa López</person></cast>
+<cast gid="1962963344" lang="ES"><role>Natsu Dragneel</role><person id="73753">Enric Puig</person></cast>
+<cast gid="1969510763" lang="ES"><role>Gajeel Redfox</role><person id="76259">Jorge Tejedor</person></cast>
+<cast gid="885299752" lang="ES"><role>Mirajane Strauss</role><person id="85572">Eva Andrés</person></cast>
+<cast gid="1855935772" lang="ES"><role>Charle</role><person id="128832">Greta Ruiz</person></cast>
+<cast gid="2578422784" lang="ES"><role>Lisanna Strauss</role><person id="128832">Greta Ruiz</person></cast>
+<cast gid="2707589806" lang="FR"><role>Oul</role><person id="27189">Odile Schmitt</person></cast>
+<cast gid="3328678151" lang="FR"><role>Jycrain</role><person id="28718">Thierry Bourdon</person></cast>
+<cast gid="2513031204" lang="FR"><role>Carla</role><person id="29182">Frédérique Marlot</person></cast>
+<cast gid="2615058010" lang="FR"><role>Aquarius</role><person id="29282">Annabelle Roux</person></cast>
+<cast gid="3281087661" lang="FR"><role>Kana</role><person id="29282">Annabelle Roux</person></cast>
+<cast gid="3064610871" lang="FR"><role>Karen</role><person id="29290">Catherine Lafond</person></cast>
+<cast gid="2504583527" lang="FR"><role>Polyussica</role><person id="29290">Catherine Lafond</person></cast>
+<cast gid="2861618484" lang="FR"><role>Roméo</role><person id="29393">Brigitte Lecordier</person></cast>
+<cast gid="1863882742" lang="FR"><role>José</role><person id="30002">François Siener</person></cast>
+<cast gid="2183245799" lang="FR"><role>Alya</role><person id="40019">Benoît Allemane</person></cast>
+<cast gid="1844608917" lang="FR"><role>Taurus</role><person id="40019">Benoît Allemane</person></cast>
+<cast gid="1656708733" lang="FR"><role>Milianna</role><person id="43189">Jessica Barrier</person></cast>
+<cast gid="1985435274" lang="FR"><role>Ultia</role><person id="43189">Jessica Barrier</person></cast>
+<cast gid="1400131162" lang="FR"><role>Lisanna</role><person id="45000">Caroline Combes</person></cast>
+<cast gid="1063939223" lang="FR"><role>Lucky</role><person id="45000">Caroline Combes</person></cast>
+<cast gid="1423310298" lang="FR"><role>Evergreen</role><person id="45055">Catherine Desplaces</person></cast>
+<cast gid="2951621599" lang="FR"><role>Virgo</role><person id="45055">Catherine Desplaces</person></cast>
+<cast gid="2561188470" lang="FR"><role>Léon</role><person id="45155">Rémi Caillebot</person></cast>
+<cast gid="269635474" lang="FR"><role>Horologium</role><person id="45711">Stéphane Ronchewski</person></cast>
+<cast gid="1671803036" lang="FR"><role>Macao</role><person id="45713">Emmanuel Gradi</person></cast>
+<cast gid="3423315135" lang="FR"><role>Makarof</role><person id="49439">Gilbert Levy</person></cast>
+<cast gid="3917630116" lang="FR"><role>Jubia</role><person id="51640">Isabelle Volpe</person></cast>
+<cast gid="2829265287" lang="FR"><role>Erza Scarlett</role><person id="51641">Chantal Baroin</person></cast>
+<cast gid="2881421330" lang="FR"><role>Yajima</role><person id="51695">Gérard Surugue</person></cast>
+<cast gid="1781554721" lang="FR"><role>Biska</role><person id="53018">Sarah Marot</person></cast>
+<cast gid="3218691629" lang="FR"><role>sting yourcelf</role><person id="54390">Bruno Meyere</person></cast>
+<cast gid="1085305843" lang="FR"><role>José Porla</role><person id="55617">Frédéric Souterelle</person></cast>
+<cast gid="2899716921" lang="FR"><role>Elfman</role><person id="55620">Julien Chatelet</person></cast>
+<cast gid="2007683495" lang="FR"><role>lecter</role><person id="55847">Jessie Lambotte</person></cast>
+<cast gid="1883743578" lang="FR"><role>Loki</role><person id="57018">Tony Marot</person></cast>
+<cast gid="3758304939" lang="FR"><role>Happy</role><person id="65515">Fanny Bloc</person></cast>
+<cast gid="3469292080" lang="FR"><role>Natsu Dragnir</role><person id="66320">Arnaud Laurent</person></cast>
+<cast gid="2138322773" lang="FR"><role>Mirajane</role><person id="69308">Kelly Marot</person></cast>
+<cast gid="1361529953" lang="FR"><role>Gajil</role><person id="70472">Jérémy Zylberberg</person></cast>
+<cast gid="1702998468" lang="FR"><role>Grey Fullbuster</role><person id="70473">Emmanuel Rausenberger</person></cast>
+<cast gid="2302193759" lang="FR"><role>Arzack</role><person id="79281">Grégory Laisné</person></cast>
+<cast gid="1375067495" lang="FR"><role>Hibiki Laytis</role><person id="79281">Grégory Laisné</person></cast>
+<cast gid="1332923158" lang="FR"><role>Lucy Heartfilia</role><person id="82933">Marie Nonnenmacher</person></cast>
+<cast gid="2608411444" lang="FR"><role>Midnight</role><person id="85935">Thomas Sagols</person></cast>
+<cast gid="1439816273" lang="IT"><role>Lluvia Loxar</role><person id="25901">Perla Liberatori</person></cast>
+<cast gid="1532098909" lang="IT"><role>Gajeel Redfox</role><person id="26062">Christian Iansante</person></cast>
+<cast gid="1743377943" lang="IT"><role>Loki</role><person id="26195">Alessio De Filippis</person></cast>
+<cast gid="3377910255" lang="IT"><role>Happy</role><person id="26246">Monica Bertolotti</person></cast>
+<cast gid="2341250064" lang="IT"><role>Makarov Dreyar</role><person id="26307">Angelo Nicotra</person></cast>
+<cast gid="2132295030" lang="IT"><role>Charle</role><person id="26548">Maura Cenciarelli</person></cast>
+<cast gid="809829352" lang="IT"><role>Cana Alberona</role><person id="28459">Paola Majano</person></cast>
+<cast gid="2200542118" lang="IT"><role>Gray Fullbuster</role><person id="29555">Daniele Raffaeli</person></cast>
+<cast gid="3051166119" lang="IT"><role>Ultear Milkovich</role><person id="40724">Valeria Vidali</person></cast>
+<cast gid="3401091972" lang="IT"><role>Elsa Scarlet</role><person id="40726">Eleonora Reti</person></cast>
+<cast gid="3249689311" lang="IT"><role>Levy McGarden</role><person id="51111">Gaia Bolognesi</person></cast>
+<cast gid="1769639309" lang="IT"><role>Laxus Dreyar</role><person id="52607">Alberto Angrisano</person></cast>
+<cast gid="3098078665" lang="IT"><role>Gerard Fernandez</role><person id="53697">Emiliano Coltorti</person></cast>
+<cast gid="2170809457" lang="IT"><role>Mistgun</role><person id="53697">Emiliano Coltorti</person></cast>
+<cast gid="1352647491" lang="IT"><role>Natsu Dragonil</role><person id="59722">Manuel Meli</person></cast>
+<cast gid="2885003931" lang="IT"><role>Wendy Marvell</role><person id="70851">Joy Saltarelli</person></cast>
+<cast gid="2086498655" lang="IT"><role>Mirajane Strauss</role><person id="73988">Emanuela Damasio</person></cast>
+<cast gid="3682464140" lang="IT"><role>Elfman Strauss</role><person id="74592">Andrea Lavagnino</person></cast>
+<cast gid="2730321460" lang="IT"><role>Lucy Heartfilia</role><person id="113142">Chiara Oliviero</person></cast>
+<cast gid="3162246434" lang="IT"><role>Zeref Dragonil</role><person id="144488">Emanuele Ruzza</person></cast>
+<cast gid="2383996965" lang="JA"><role>Charle</role><person id="386">Yui Horie</person></cast>
+<cast gid="2116964594" lang="JA"><role>Juvia Loxar</role><person id="438">Mai Nakahara</person></cast>
+<cast gid="1442476405" lang="JA"><role>Zeref</role><person id="443">Akira Ishida</person></cast>
+<cast gid="1492855378" lang="JA"><role>Gildarts Clive</role><person id="722">Kazuhiko Inoue</person></cast>
+<cast gid="2864918766" lang="JA"><role>Luxus Dreher</role><person id="780">Katsuyuki Konishi</person></cast>
+<cast gid="1300468739" lang="JA"><role>Happy</role><person id="808">Rie Kugimiya</person></cast>
+<cast gid="2850805629" lang="JA"><role>Makarov</role><person id="1173">Shinpachi Tsuji</person></cast>
+<cast gid="2111555550" lang="JA"><role>Jeral</role><person id="1289">Daisuke Namikawa</person></cast>
+<cast gid="1041543974" lang="JA"><role>Mystogan</role><person id="1289">Daisuke Namikawa</person></cast>
+<cast gid="1024266494" lang="JA"><role>Erza Scarlet</role><person id="1376">Sayaka Ohara</person></cast>
+<cast gid="3317936366" lang="JA"><role>Loki</role><person id="1506">Daisuke Kishio</person></cast>
+<cast gid="2709685550" lang="JA"><role>Mavis Vermilion</role><person id="3166">Mamiko Noto</person></cast>
+<cast gid="540372090" lang="JA"><role>Aries</role><person id="5596">Sayaka Narita</person></cast>
+<cast gid="3412962331" lang="JA"><role>Ultear</role><person id="5735">Miyuki Sawashiro</person></cast>
+<cast gid="2478425351" lang="JA"><role>Lucy Heartfilia</role><person id="6581">Aya Hirano</person></cast>
+<cast gid="3008408448" lang="JA"><role>Kana Alberona</role><person id="13838">Eri Kitamura</person></cast>
+<cast gid="3409065166" lang="JA"><role>Gray Fullbuster</role><person id="15878">Yūichi Nakamura</person></cast>
+<cast gid="1856441045" lang="JA"><role>Gajeel Redfox</role><person id="17481">Wataru Hatano</person></cast>
+<cast gid="2093747301" lang="JA"><role>Pantherlily</role><person id="20365">Hiroki Touchi</person></cast>
+<cast gid="3473908841" lang="JA"><role>Lisanna</role><person id="28607">Harumi Sakurai</person></cast>
+<cast gid="2119029249" lang="JA"><role>Natsu Dragneel</role><person id="28816">Tetsuya Kakihara</person></cast>
+<cast gid="2935951246" lang="JA"><role>Elfman Strauss</role><person id="30785">Hiroki Yasumoto</person></cast>
+<cast gid="3823029218" lang="JA"><role>Mirajane Strauss</role><person id="31092">Ryoko Ono</person></cast>
+<cast gid="1799721772" lang="JA"><role>Levi Macgarden</role><person id="46112">Mariya Ise</person></cast>
+<cast gid="2311854444" lang="JA"><role>Wendy</role><person id="67406">Satomi Satou</person></cast>
+<cast gid="1679324975" lang="KO"><role>Ichiya Vandalay Kotobuki</role><person id="96257">Won-Hyeong Choi</person></cast>
+<cast gid="2772511980" lang="KO"><role>Zeref</role><person id="96272">Jae-Heon Jeong</person></cast>
+<cast gid="2285204238" lang="KO"><role>Freed Justine</role><person id="96296">Jae-Ho Choi</person></cast>
+<cast gid="2848188317" lang="KO"><role>Makarov Dreyer</role><person id="96412">Won Hwang</person></cast>
+<cast gid="970765224" lang="KO"><role>Cana Alberona</role><person id="96500">Myeong-Hui Lee</person></cast>
+<cast gid="2063774982" lang="KO"><role>Loke</role><person id="96501">Seo-Jin Park</person></cast>
+<cast gid="1852772520" lang="KO"><role>Evergreen</role><person id="96503">Min-Jeong Kim</person></cast>
+<cast gid="2848895206" lang="KO"><role>Lucy Heartfilia</role><person id="96504">Yu-Ri Seo</person></cast>
+<cast gid="2920457053" lang="KO"><role>Mystogun</role><person id="96506">Gyeong-Myeong Lim</person></cast>
+<cast gid="3921756591" lang="KO"><role>Laxus Dreyer</role><person id="96509">Jeong-Min Sim</person></cast>
+<cast gid="685455529" lang="KO"><role>Erza Scarlett</role><person id="96511">Ji-Hyeon Lee</person></cast>
+<cast gid="4010219758" lang="KO"><role>Wendy Marvell</role><person id="96543">Hyeon-Ji Kim</person></cast>
+<cast gid="1800290801" lang="KO"><role>Gajeel Redfox</role><person id="96752">Yang Jungeon</person></cast>
+<cast gid="1671397170" lang="KO"><role>Natsu Dragneel</role><person id="116354">Doh-hyeong Nam</person></cast>
+<cast gid="2439688777" lang="KO"><role>Gray Fullbuster</role><person id="127456">Donghun Lee</person></cast>
+<cast gid="2290438835" lang="PT"><role>Gray Fullbuster</role><person id="48565">Sérgio Calvinho</person></cast>
+<cast gid="635986951" lang="PT"><role>Happy</role><person id="72722">Sofia Brito</person></cast>
+<cast gid="2395175538" lang="PT"><role>Angel</role><person id="72900">Sónia Neves</person></cast>
+<cast gid="1917359632" lang="PT"><role>Charles</role><person id="72900">Sónia Neves</person></cast>
+<cast gid="1677537311" lang="PT"><role>Lucy Heartfilia</role><person id="73092">Maria Camões</person></cast>
+<cast gid="2063340421" lang="PT"><role>Natsu Dragnel</role><person id="78425">Michel Simeao</person></cast>
+<cast gid="3663769932" lang="PT"><role>Lucy Heartfilia</role><person id="80069">Carla Garcia</person></cast>
+<cast gid="2267634588" lang="PT"><role>Erza Scarlett</role><person id="122446">Rita Ruaz</person></cast>
+<cast gid="2449703003" lang="PT"><role>Mirajane Strauss</role><person id="122455">Rita Brito</person></cast>
+<cast gid="3588549580" lang="PT"><role>Gajeel Redfox</role><person id="126196">Rui Drumond</person></cast>
+<cast gid="829832807" lang="PT"><role>Mirajane Strauss</role><person id="126201">Joana Lobo Anta</person></cast>
+<cast gid="136747532" lang="PT"><role>Wendy Marvell</role><person id="129751">Cristina Basilio</person></cast>
+<cast gid="2236290902" lang="TL"><role>Elfman Strauss</role><person id="15939">Vincent Gutierrez</person></cast>
+<cast gid="377454945" lang="TL"><role>Laxus Dreyar</role><person id="15939">Vincent Gutierrez</person></cast>
+<cast gid="2033334860" lang="TL"><role>Makarov</role><person id="15939">Vincent Gutierrez</person></cast>
+<cast gid="2082073167" lang="TL"><role>Aries</role><person id="38906">Marvi Medina</person></cast>
+<cast gid="1708389481" lang="TL"><role>Carla</role><person id="38906">Marvi Medina</person></cast>
+<cast gid="2447536389" lang="TL"><role>Erza Scarlet</role><person id="38906">Marvi Medina</person></cast>
+<cast gid="3615705162" lang="TL"><role>Mirajane Strauss</role><person id="38906">Marvi Medina</person></cast>
+<cast gid="1577420853" lang="TL"><role>Ultear Milkovich</role><person id="38906">Marvi Medina</person></cast>
+<cast gid="2443277093" lang="TL"><role>Gray Fullbuster</role><person id="38935">Louie Paraboles</person></cast>
+<cast gid="2189727777" lang="TL"><role>Gajeel Redfox</role><person id="38936">Jefferson Utanes</person></cast>
+<cast gid="2503147398" lang="TL"><role>Jellal Fernandes/Siegrain</role><person id="38936">Jefferson Utanes</person></cast>
+<cast gid="519741322" lang="TL"><role>Loki</role><person id="38936">Jefferson Utanes</person></cast>
+<cast gid="1255651311" lang="TL"><role>Lisanna</role><person id="39024">Grace Cornel</person></cast>
+<cast gid="3350674264" lang="TL"><role>Lucy Heartfilia</role><person id="39024">Grace Cornel</person></cast>
+<cast gid="2652449354" lang="TL"><role>Wendy Marvell</role><person id="39024">Grace Cornel</person></cast>
+<cast gid="3158669250" lang="TL"><role>Happy</role><person id="43334">Michiko Azarcon</person></cast>
+<cast gid="2288228604" lang="TL"><role>Juvia Loxar</role><person id="43334">Michiko Azarcon</person></cast>
+<cast gid="3513249648" lang="TL"><role>Kana Alberona</role><person id="43334">Michiko Azarcon</person></cast>
+<cast gid="1596022601" lang="TL"><role>Levy McGarden</role><person id="43334">Michiko Azarcon</person></cast>
+<cast gid="1723420581" lang="TL"><role>Natsu Dragneel</role><person id="50594">Anthony Steven San Juan</person></cast>
+<cast gid="1036264119" lang="TL"><role>Romeo</role><person id="57604">Klariz Magboo</person></cast>
+<credit gid="1740900991"><task>Animation Production</task><company id="415">Satelight</company></credit>
+<credit gid="1743782741"><task>Animation Production</task><company id="9909">A-1 Pictures</company></credit>
+<credit gid="1915207883"><task>Production</task><company id="88">Kodansha</company></credit>
+<credit gid="1422486144"><task>Production</task><company id="249">Dentsu Inc.</company></credit>
+<credit gid="1454970012"><task>Production</task><company id="262">TV Tokyo</company></credit>
+<credit gid="3016835890"><task>Production</task><company id="269">Pony Canyon</company></credit>
+<credit gid="1856355907"><task>Production</task><company id="9909">A-1 Pictures</company></credit></anime></ann>

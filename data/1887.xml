@@ -1,0 +1,82 @@
+<ann><anime id="1887" gid="307333803" type="movie" name="Doraemon: Nobita's Dinosaur" precision="movie" generated-on="2016-03-27T05:49:40Z">
+<related-prev rel="sequel of" id="1317"/>
+<related-next id="1548" rel="sequel"/>
+<related-next id="1599" rel="sequel"/>
+<related-next id="1888" rel="sequel"/>
+<related-next id="1889" rel="sequel"/>
+<related-next id="1890" rel="sequel"/>
+<related-next id="1891" rel="sequel"/>
+<related-next id="1892" rel="sequel"/>
+<related-next id="1893" rel="sequel"/>
+<related-next id="1894" rel="sequel"/>
+<related-next id="1895" rel="sequel"/>
+<related-next id="1896" rel="sequel"/>
+<related-next id="1904" rel="sequel"/>
+<related-next id="1905" rel="sequel"/>
+<related-next id="1906" rel="sequel"/>
+<related-next id="1907" rel="sequel"/>
+<related-next id="1908" rel="sequel"/>
+<related-next id="1909" rel="sequel"/>
+<related-next id="1910" rel="sequel"/>
+<related-next id="1912" rel="sequel"/>
+<related-next id="1913" rel="sequel"/>
+<related-next id="1914" rel="sequel"/>
+<related-next id="1915" rel="sequel"/>
+<related-next id="1916" rel="sequel"/>
+<related-next id="1917" rel="sequel"/>
+<related-next id="1918" rel="sequel"/>
+<related-next id="1919" rel="sequel"/>
+<related-next id="3839" rel="sequel"/>
+<related-next id="3930" rel="sequel"/>
+<related-next id="3970" rel="sequel"/>
+<related-next id="3974" rel="sequel"/>
+<related-next id="3990" rel="sequel"/>
+<related-next id="5769" rel="remake"/>
+<related-next id="7483" rel="sequel"/>
+<related-next id="8394" rel="sequel"/>
+<related-next id="10173" rel="sequel"/>
+<related-next id="10973" rel="sequel"/>
+<related-next id="13227" rel="sequel"/>
+<related-next id="14486" rel="sequel"/>
+<related-next id="16522" rel="sequel"/>
+<info gid="2617743812" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A1887-14.jpg" width="200" height="150"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A1887-14.jpg" width="200" height="150"/><img src="http://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A1887-14.jpg" width="500" height="375"/><img src="http://cdn.animenewsnetwork.com/images/encyc/A1887-14.jpg" width="640" height="480"/></info>
+<info gid="25266795" type="Main title" lang="EN">Doraemon: Nobita's Dinosaur</info>
+<info gid="3556551291" type="Alternative title" lang="ES">Doraemon el gato robot</info>
+<info gid="3006805590" type="Alternative title" lang="IT">Doraemon nel paese preistorico</info>
+<info gid="2250850209" type="Alternative title" lang="JA">Doraemon: Nobita No Kyoryu</info>
+<info gid="126686042" type="Alternative title" lang="EN">Nobita's Dinosaur</info>
+<info gid="3593603508" type="Alternative title" lang="JA">のび太の恐竜</info>
+<info gid="3090634592" type="Genres">adventure</info>
+<info gid="2372452826" type="Genres">drama</info>
+<info gid="2605346880" type="Genres">science fiction</info>
+<info gid="2456436963" type="Themes">bounty hunters</info>
+<info gid="3104383670" type="Objectionable content">AA</info>
+<info gid="2106967584" type="Plot Summary">Nobita finds a fossilized dinosaur egg by accident, and with the help of Doraemon's tools, they hatched the egg and began raising the dinosaur. Knowing that they can't keep the dinosaur forever, Nobita was forced to send it back to prehistoric times where a group of hunters from the future threatens to endanger the dinosaurs. Determined to save the dinosaurs from the claws of the hunters, Doraemon and the gang returns to the past and sets out in a prehistoric adventure.</info>
+<info gid="1295924793" type="Running time">92</info>
+<info gid="1819489469" type="Vintage">1980</info>
+<info gid="3215367039" type="Premiere date">1980-03-15 (Japan)</info>
+<ratings nb_votes="34" weighted_score="6.953" bayesian_score="7.11063"/>
+<staff gid="1966215886"><task>Director</task><person id="2181">Hiroshi Fukutomi</person></staff>
+<staff gid="1974110905"><task>Script</task><person id="6677">Hiroshi Fujimoto</person></staff>
+<staff gid="864341215"><task>Script</task><person id="10356">Seiji Matsuoka</person></staff>
+<staff gid="674114190"><task>Script</task><person id="40302">Motoo Abiko</person></staff>
+<staff gid="1346383015"><task>Music</task><person id="118">Shunsuke Kikuchi</person></staff>
+<staff gid="747707333"><task>Original creator</task><person id="6677">Hiroshi Fujimoto</person></staff>
+<staff gid="1722670546"><task>Original creator</task><person id="40302">Motoo Abiko</person></staff>
+<staff gid="2448847171"><task>Art Director</task><person id="3372">Shôhei Kawamoto</person></staff>
+<staff gid="3301655017"><task>Animation Director</task><person id="222">Toshiyuki Honda</person></staff>
+<staff gid="1900649480"><task>Sound Director</task><person id="2949">Yasuo Uragami</person></staff>
+<staff gid="2465890714"><task>Sound Director</task><person id="8141">Akira Ookuma</person></staff>
+<staff gid="2710520241"><task>Director of Photography</task><person id="4272">Katsuji Misawa</person></staff>
+<staff gid="3125426237"><task>Producer</task><person id="64355">Sankichiro Kusube</person></staff>
+<staff gid="1216113262"><task>Producer</task><person id="64356">Soichi Bessho</person></staff>
+<cast gid="2311112273" lang="ES"><role>Nobita Nobi</role><person id="23473">Araceli de Leon</person></cast>
+<cast gid="3411551194" lang="ES"><role>Doraemon</role><person id="40054">Hector Lee</person></cast>
+<cast gid="542769457" lang="IT"><role>Nobita Nobi</role><person id="25912">Alessio Cigliano</person></cast>
+<cast gid="1895597731" lang="IT"><role>Doraemon</role><person id="26559">Graziella Polesinanti</person></cast>
+<cast gid="2157241822" lang="JA"><role>Nobita</role><person id="3410">Noriko Ohara</person></cast>
+<cast gid="1757847135" lang="JA"><role>Doraemon</role><person id="7244">Nobuyo Oyama</person></cast>
+<credit gid="1405921396"><task>Animation Production</task><company id="8779">Shin-Ei Animation</company></credit>
+<credit gid="1584795521"><task>Production</task><company id="160">TV Asahi</company></credit>
+<credit gid="2549636829"><task>Production</task><company id="1017">Shogakukan Productions Co., Ltd.</company></credit>
+<credit gid="1989591674"><task>Production</task><company id="8779">Shin-Ei Animation</company></credit></anime></ann>

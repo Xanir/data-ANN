@@ -1,0 +1,40 @@
+<ann><anime id="8749" gid="2030501355" type="special" name="Gundam Seed Character Theater" precision="special" generated-on="2016-03-27T03:09:30Z">
+<related-prev rel="related to" id="883"/>
+<related-prev rel="related to" id="2669"/>
+<related-prev rel="part of" id="4189"/>
+<info gid="2826697917" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A8749-15.jpg" width="200" height="161"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A8749-15.jpg" width="200" height="161"/></info>
+<info gid="2748827135" type="Main title" lang="EN">Gundam Seed Character Theater</info>
+<info gid="215384295" type="Alternative title" lang="JA">Tanekyara Gekijō</info>
+<info gid="2133230402" type="Alternative title" lang="JA">たねきゃら劇場</info>
+<info gid="2809266425" type="Genres">comedy</info>
+<info gid="3116157956" type="Objectionable content">TA</info>
+<info gid="1875679231" type="Plot Summary">The first two shorts feature the original Seed cast and deal with an attempt by Yzak Joule to reclaim his his honor from Athrun Zala after having been one-upped at seemingly every contest with him since his childhood. The last two shorts feature the Minerva crew sent back in time on comical missions from Gil in an attempt to disrupt key events of the Seed era with disastrous yet hilarious effect.</info>
+<info gid="2882264978" type="Running time">4</info>
+<info type="Vintage">2007-06-22</info>
+<info gid="2480627845" type="Official website" lang="JA" href="http://www.xg-seed.net/supernova/index.html">SEED SUPERNOVA Official Site</info>
+<ratings nb_votes="101" weighted_score="7.6478" bayesian_score="7.63356"/>
+<episode num="1">
+<title gid="1771598631" lang="EN">Gundam Jealousy: Contact Volume</title></episode>
+<episode num="2">
+<title gid="1391093447" lang="EN">Gundam Jealousy: Beach Volley Volume</title></episode>
+<episode num="3">
+<title gid="3760491672" lang="EN">Mission Dullindal Destiny 1</title></episode>
+<episode num="4">
+<title gid="2296980286" lang="EN">Mission Dullindal Destiny 2</title></episode>
+<staff gid="1993969079"><task>Director</task><person id="8064">Yoshitomo Yonetani</person></staff>
+<staff gid="581557403"><task>Script</task><person id="63399">Yoichi Kato</person></staff>
+<staff gid="871576628"><task>Storyboard</task><person id="8064">Yoshitomo Yonetani</person></staff>
+<staff gid="29073567"><task>Unit Director</task><person id="8064">Yoshitomo Yonetani</person></staff>
+<staff gid="3158527681"><task>Animation Director</task><person id="2628">Kenichi Ohnuki</person></staff>
+<staff gid="2755491729"><task>Animation Director</task><person id="35599">Hiroshi Arisawa</person></staff>
+<cast gid="322703323" lang="JA"><role>Athrun Zala</role><person id="443">Akira Ishida</person></cast>
+<cast gid="1383491054" lang="JA"><role>Lunamaria Hawke</role><person id="527">Maaya Sakamoto</person></cast>
+<cast gid="1363680772" lang="JA"><role>Yzak Joule</role><person id="529">Tomokazu Seki</person></cast>
+<cast gid="909258129" lang="JA"><role>Rey Za Burrel</role><person id="693">Toshihiko Seki</person></cast>
+<cast gid="2626033663" lang="JA"><role>Lacus Clyne</role><person id="697">Rie Tanaka</person></cast>
+<cast gid="470596599" lang="JA"><role>Meyrin Hawke</role><person id="912">Fumiko Orikasa</person></cast>
+<cast gid="1566504347" lang="JA"><role>Kira Yamato</role><person id="1374">Souichiro Hoshi</person></cast>
+<cast gid="2880031153" lang="JA"><role>Shinn Asuka</role><person id="5894">Kenichi Suzumura</person></cast>
+<cast gid="2609016924" lang="JA"><role>Cagalli Yula Athha</role><person id="7665">Naomi Shindoh</person></cast>
+<cast gid="1167889051" lang="JA"><role>Dearka Elsman</role><person id="7666">Akira Sasanuma</person></cast>
+<credit gid="3722601922"><task>Production</task><company id="34">Sunrise</company></credit></anime></ann>

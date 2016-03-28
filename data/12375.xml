@@ -1,0 +1,131 @@
+<ann><anime id="12375" gid="1751962757" type="TV" name="World God Only Knows Season Two" precision="TV" generated-on="2016-03-27T04:03:12Z">
+<related-prev rel="sequel of" id="11571"/>
+<related-next id="13200" rel="sequel"/>
+<info gid="1266873465" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A12375-13.jpg" width="200" height="200"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A12375-13.jpg" width="200" height="200"/><img src="http://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A12375-13.jpg" width="320" height="320"/></info>
+<info gid="2889082789" type="Main title" lang="EN">The World God Only Knows Season Two</info>
+<info gid="3415064117" type="Alternative title" lang="JA">Kami Nomi zo Shiru Sekai II</info>
+<info gid="602692196" type="Alternative title" lang="JA">Kaminomizo Shiru Sekai II</info>
+<info gid="1249160629" type="Alternative title" lang="FR">Que sa volonté soit faite saison 2</info>
+<info gid="2141381435" type="Alternative title" lang="EN">The World God Only Knows II</info>
+<info gid="2262250376" type="Alternative title" lang="JA">神のみぞ知るセカイⅡ</info>
+<info gid="3248909788" type="Genres">adventure</info>
+<info gid="2193053226" type="Genres">comedy</info>
+<info gid="2812426863" type="Genres">drama</info>
+<info gid="3742127830" type="Genres">magic</info>
+<info gid="1309650201" type="Genres">romance</info>
+<info gid="514979635" type="Themes">demons</info>
+<info gid="3579180624" type="Themes">harem</info>
+<info gid="2189933297" type="Themes">otaku</info>
+<info gid="1239813495" type="Themes">parody</info>
+<info gid="2665233065" type="Themes">school life</info>
+<info gid="1945827252" type="Themes">spirits</info>
+<info gid="3647924562" type="Objectionable content">OC</info>
+<info gid="3261685541" type="Plot Summary">Katsuragi is back, and together with Elsie the hunt for loose souls continues on. This time however, they are joined by Elsie's friend and fellow Demon, Haqua.</info>
+<info gid="3401676015" type="Running time">24</info>
+<info gid="2095462360" type="Number of episodes">12</info>
+<info gid="522138723" type="Vintage">2011-04-11</info>
+<info gid="1991921496" type="Vintage">2011-04-11 to 2011-09-16</info>
+<info gid="1504759848" type="Opening Theme">&quot;A Whole New World God Only Knows&quot; by Oratorio The World God Only Knows</info>
+<info gid="1661205992" type="Ending Theme">#1: &quot;Ai no Yokan&quot; (アイノヨカン) by Kami nomi Zo Shiri-tai (eps 1-3, 5-7, 9-11)</info>
+<info gid="1163489879" type="Ending Theme">#2: &quot;Ai no Yokan from Kaketama-tai&quot; (アイノヨカン from 駆け魂隊) by Kaketama-tai (eps 4, 8)</info>
+<info gid="2046660143" type="Ending Theme">#3: &quot;God Only Knows Daisan Tobari&quot; (God only knows 第三幕; &quot;God Only Knows the Third Act&quot;) by Oratorio The World God Only Knows featuring ELISA (ep 12)</info>
+<info gid="2167990697" type="Insert song">&quot;Hajimete Koi o Shita Kioku ~Piano Banzō~&quot; (初めて恋をした記憶 ～ピアノ伴奏～) by Kana Asumi (ep 7)</info>
+<info gid="2446142888" type="Insert song">&quot;Hajimete Koi o Shita Kioku&quot; (初めて恋をした記憶) by Kana Asumi (ep 7)</info>
+<info gid="3693887866" type="Insert song">&quot;Happy End&quot; by Hiro Shimono &amp; Sakura Tange (ep 12)</info>
+<info gid="1058427297" type="Insert song">&quot;Uraharabu&quot; (ウラハラブ) by Nao Toyama (ep 12)</info>
+<info gid="2092071160" type="Official website" lang="JA" href="http://kaminomi.jp/index.html">神のみぞ知るセカイ アニメ公式サイト</info>
+<ratings nb_votes="1417" weighted_score="7.531" bayesian_score="7.53093"/>
+<episode num="1">
+<title gid="2081268749" lang="EN">FLAG.1.0 Flower in Bloom</title></episode>
+<episode num="2">
+<title gid="2873057652" lang="EN">FLAG 2.0 Problem Solved by the Fist</title></episode>
+<episode num="3">
+<title gid="1353414533" lang="EN">FLAG 3.0 The District Chief Arrives.</title></episode>
+<episode num="4">
+<title gid="1679029640" lang="EN">FLAG 4.0 The District Chief Regains Her Honor.</title></episode>
+<episode num="5">
+<title gid="1139724163" lang="EN">FLAG 5.0 It Always Rains at the End of a Hard Journey</title></episode>
+<episode num="6">
+<title gid="1662911382" lang="EN">Flag 6.0 10% Chance of Rain</title></episode>
+<episode num="7">
+<title gid="3410714266" lang="EN">FLAG 7.0 Singing in the Rain</title></episode>
+<episode num="8">
+<title part="A" gid="1903306823" lang="EN">FLAG 8.0 First Errand</title>
+<title part="B" gid="1907468732" lang="EN">FLAG 8.5 Afternoon Tea for Three.</title></episode>
+<episode num="9">
+<title gid="2644203246" lang="EN">FLAG 9.0 Year 2 Class B Mr. Nagase</title></episode>
+<episode num="10">
+<title gid="498451339" lang="EN">Flag 10.0 School ★ Wars</title></episode>
+<episode num="11">
+<title gid="1691871551" lang="EN">Flag 11.0 A Sun In Your Heart, Always</title></episode>
+<episode num="12">
+<title gid="953842603" lang="EN">Flag 12.0 Summer Wars</title></episode>
+<release date="2012-08-07" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=20872">The World God Only Knows Season Two - Complete Collection (Blu-Ray)</release>
+<release date="2012-08-07" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=20871">The World God Only Knows Season Two - Complete Collection (DVD)</release>
+<news datetime="2011-04-04T03:57:00Z" href="http://www.animenewsnetwork.com/news/2011-04-03/crunchyroll-reports-possible-simulcast-delays">Crunchyroll Reports Possible Simulcast Delays</news>
+<news datetime="2011-09-17T16:45:00Z" href="http://www.animenewsnetwork.com/news/2011-09-17/singer-elisa-to-puts-career-on-hold-due-to-fatigue">Singer Elisa to Put Career on Hold Due to Fatigue (Update 2)</news>
+<news datetime="2012-08-07T22:45:00Z" href="http://www.animenewsnetwork.com/news/2012-08-07/north-american-anime-manga-releases-august-5-11">North American Anime, Manga Releases, August 5-11</news>
+<staff gid="1889111148"><task>Director</task><person id="21225">Shigehito Takayanagi</person></staff>
+<staff gid="3029030920"><task>Series Composition</task><person id="1685">Hideyuki Kurata</person></staff>
+<staff gid="3107666492"><task>Script</task><person id="1685">Hideyuki Kurata</person></staff>
+<staff gid="3040274956"><task>Storyboard</task><person id="2270">Tomomi Mochizuki</person></staff>
+<staff gid="1456544050"><task>Storyboard</task><person id="4093">Michio Fukuda</person></staff>
+<staff gid="2202488324"><task>Storyboard</task><person id="9463">Yoshihiro Oka</person></staff>
+<staff gid="1136737975"><task>Storyboard</task><person id="10003">Mitsuko Kase</person></staff>
+<staff gid="3464267741"><task>Storyboard</task><person id="12548">Tsutomu Yabuki</person></staff>
+<staff gid="3707864207"><task>Storyboard</task><person id="39098">Tetsuo Ichimura</person></staff>
+<staff gid="1634443945"><task>Storyboard</task><person id="41128">Yoshihide Yuuzumi</person></staff>
+<staff gid="2726463227"><task>Storyboard</task><person id="83480">Jun Soga</person></staff>
+<staff gid="1871734957"><task>Storyboard</task><person id="83653">Mitsutoshi Satō</person></staff>
+<staff gid="1541756573"><task>Storyboard</task><person id="92079">Kotomi Deai</person></staff>
+<staff gid="3380173242"><task>Unit Director</task><person id="2270">Tomomi Mochizuki</person></staff>
+<staff gid="798497218"><task>Unit Director</task><person id="9463">Yoshihiro Oka</person></staff>
+<staff gid="2409400063"><task>Unit Director</task><person id="31750">Miho Hirao</person></staff>
+<staff gid="3364288031"><task>Unit Director</task><person id="32692">Hideaki Uehara</person></staff>
+<staff gid="2596191744"><task>Unit Director</task><person id="39098">Tetsuo Ichimura</person></staff>
+<staff gid="2630681004"><task>Unit Director</task><person id="39253">Daisuke Tsukushi</person></staff>
+<staff gid="3724992355"><task>Unit Director</task><person id="41128">Yoshihide Yuuzumi</person></staff>
+<staff gid="2814935574"><task>Unit Director</task><person id="83480">Jun Soga</person></staff>
+<staff gid="2934986739"><task>Unit Director</task><person id="83653">Mitsutoshi Satō</person></staff>
+<staff gid="249358663"><task>Unit Director</task><person id="88214">Kenichiro Komaya</person></staff>
+<staff gid="1560029752"><task>Unit Director</task><person id="92079">Kotomi Deai</person></staff>
+<staff gid="2728271163"><task>Music</task><person id="146">Hayato Matsuo</person></staff>
+<staff gid="2751375011"><task>Original creator</task><person id="80473">Tamiki Wakaki</person></staff>
+<staff gid="2898864532"><task>Character Design</task><person id="2813">Akio Watanabe</person></staff>
+<staff gid="1237043666"><task>Art Director</task><person id="107647">Ayumi Satō</person></staff>
+<staff gid="3533198150"><task>Chief Animation Director</task><person id="2274">Yoshikazu Samura</person></staff>
+<staff gid="2479263358"><task>Chief Animation Director</task><person id="16550">Toshie Kawamura</person></staff>
+<staff gid="1062610154"><task>Chief Animation Director</task><person id="34986">Sachiko Sugimoto</person></staff>
+<staff gid="2421828287"><task>Animation Director</task><person id="16550">Toshie Kawamura</person></staff>
+<staff gid="2283679173"><task>Animation Director</task><person id="18315">Hiromi Suzuki</person></staff>
+<staff gid="1211827521"><task>Animation Director</task><person id="24184">Eiji Komatsu</person></staff>
+<staff gid="1294677039"><task>Animation Director</task><person id="34986">Sachiko Sugimoto</person></staff>
+<staff gid="1609647806"><task>Animation Director</task><person id="35575">Momoko Makiuchi</person></staff>
+<staff gid="1151337149"><task>Animation Director</task><person id="37373">Naoaki Houjou</person></staff>
+<staff gid="2062538104"><task>Animation Director</task><person id="46666">Akio Hirakawa</person></staff>
+<staff gid="1487437744"><task>Animation Director</task><person id="47494">Mitsunori Yamaguchi</person></staff>
+<staff gid="1696647904"><task>Animation Director</task><person id="49909">Takeshi Oda</person></staff>
+<staff gid="2870845743"><task>Animation Director</task><person id="59711">Masahiro Suwa</person></staff>
+<staff gid="3526581925"><task>Animation Director</task><person id="60208">Manabu Nii</person></staff>
+<staff gid="2675181922"><task>Animation Director</task><person id="72184">Yuya Takahashi</person></staff>
+<staff gid="1795410090"><task>Animation Director</task><person id="76999">Akane Umezu</person></staff>
+<staff gid="3338297024"><task>Animation Director</task><person id="84999">Emi Hirano</person></staff>
+<staff gid="2369806708"><task>Sound Director</task><person id="979">Yoshikazu Iwanami</person></staff>
+<staff gid="1894813810"><task>Director of Photography</task><person id="25502">Kazuhiro Yamada</person></staff>
+<cast gid="2169625975" lang="EN"><role>Keima Katsuragi</role><person id="2517">Chris Patton</person></cast>
+<cast gid="1661805756" lang="EN"><role>Jun Nagase</role><person id="3516">Cynthia Martinez</person></cast>
+<cast gid="1181951403" lang="EN"><role>Haqua du Lot Herminium</role><person id="7798">Jessica Boone</person></cast>
+<cast gid="1233416923" lang="EN"><role>Elysia de Lute Ima</role><person id="12493">Luci Christian</person></cast>
+<cast gid="1648925573" lang="EN"><role>Chihiro Kosaka</role><person id="44595">Brittney Karbowski</person></cast>
+<cast gid="3091213592" lang="EN"><role>Kusunoki Kasuga</role><person id="58058">Maggie Flecknoe</person></cast>
+<cast gid="2804742604" lang="EN"><role>Miss Nikaido</role><person id="58058">Maggie Flecknoe</person></cast>
+<cast gid="2047414923" lang="FR"><role>Hakua du lot Herminium</role><person id="131296">Margot Blanchet</person></cast>
+<cast gid="2652397592" lang="JA"><role>Keima Katsuragi</role><person id="7636">Hiro Shimono</person></cast>
+<cast gid="2673376557" lang="JA"><role>Kusunoki Kasuga</role><person id="17254">Ami Koshimizu</person></cast>
+<cast gid="2448027708" lang="JA"><role>Chihiro Kosaka</role><person id="60780">Kana Asumi</person></cast>
+<cast gid="1716611836" lang="JA"><role>Jun Nagase</role><person id="62870">Aki Toyosaki</person></cast>
+<cast gid="1867718652" lang="JA"><role>Haqua d'rot Herminium</role><person id="63462">Saori Hayami</person></cast>
+<cast gid="1728841385" lang="JA"><role>Elysia de Lute Ima</role><person id="66684">Kanae Itō</person></cast>
+<credit gid="1883723270"><task>Animation Production</task><company id="5491">Manglobe</company></credit>
+<credit gid="3056631008"><task>Production</task><company id="262">TV Tokyo</company></credit>
+<credit gid="2175446362"><task>Production</task><company id="8953">Geneon Universal Entertainment</company></credit></anime></ann>

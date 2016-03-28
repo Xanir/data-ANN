@@ -1,0 +1,284 @@
+<ann><anime id="10157" gid="2904174088" type="TV" name="Mobile Suit Gundam 00 Second Season" precision="TV" generated-on="2016-03-27T04:01:43Z">
+<related-prev rel="part of" id="4189"/>
+<related-prev rel="sequel of" id="8190"/>
+<related-next id="10744" rel="sequel"/>
+<related-next id="10961" rel="compilation"/>
+<related-next id="12522" rel="side story"/>
+<related-next id="13762" rel="adaptation"/>
+<related-next id="13769" rel="adaptation"/>
+<info gid="2096902005" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A10157-12.jpg" width="200" height="200"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A10157-12.jpg" width="200" height="200"/><img src="http://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A10157-12.jpg" width="500" height="500"/></info>
+<info gid="2869738051" type="Main title" lang="EN">Mobile Suit Gundam 00 Second Season</info>
+<info gid="1140396110" type="Alternative title" lang="EN">Gundam 00 Second Season</info>
+<info gid="418568696" type="Alternative title" lang="JA">Kidō Senshi Gundam Double O Second Season</info>
+<info gid="747313971" type="Alternative title" lang="JA">機動戦士ガンダム00 &lt;ダブルオー&gt; セカンドシーズン</info>
+<info gid="2559726664" type="Alternative title" lang="ZH-TW">機動戰士鋼彈00 SECOND SEASON</info>
+<info gid="2091531389" type="Genres">action</info>
+<info gid="1300035857" type="Genres">drama</info>
+<info gid="3409689930" type="Genres">science fiction</info>
+<info gid="1793549965" type="Themes">mecha</info>
+<info gid="2112635255" type="Themes">military</info>
+<info gid="2491725515" type="Themes">real robot</info>
+<info gid="1640248980" type="Themes">war</info>
+<info gid="3539337855" type="Objectionable content">TA</info>
+<info gid="886482965" type="Plot Summary">2312 A.D. Four years have passed since the final battle between Celestial Being and the UN Forces. Humanity, after having established the Earth Sphere Federation, forms an independent security force, A-LAWS, separate from the formal Federation army to further unify nations and the will of mankind. But in reality it is simply inhumane oppressing anti-government powers, doctrines, and ideologies in the name of unity. Setsuna F. Seiei, after surviving the battle four years ago, has decided to once again fight with his Gundam.</info>
+<info gid="881039908" type="Running time">24</info>
+<info gid="2394366724" type="Number of episodes">25</info>
+<info gid="1631410291" type="Vintage">2008-10-05 to 2009-03-29</info>
+<info gid="1776969555" type="Vintage">2009-06-29 to 2009-09-21 (USA, Sci Fi Network - Ani-Monday)</info>
+<info gid="2560322586" type="Vintage">2010-11-09 to 2010-12-13 (Philippines, Hero - Mighty Metal Squad)</info>
+<info gid="2157395277" type="Vintage">2013-02-26 to 2013-03-19 (Philippines, TV5 Animega)</info>
+<info gid="2606514276" type="Opening Theme">#1: &quot;Hakanaku mo Towa no Kanashi&quot; (儚くも永久のカナシ; Fleeting and Everlasting Sorrow) by UVERworld (eps 2-13)</info>
+<info gid="2291709788" type="Opening Theme">#2: &quot;Namida no Mukou (泪のムコウ; Across from the Tears)&quot; by Stereopony (eps 14-25)</info>
+<info gid="1938246266" type="Ending Theme">#1: &quot;Hakanaku mo Towa no Kanashi (儚くも永久のカナシ; Fleeting and Everlasting Sorrow)&quot; by UVERworld (ep 1)</info>
+<info gid="3277525985" type="Ending Theme">#2: &quot;Prototype&quot; by Chiaki Ishikawa (eps 2-13)</info>
+<info gid="2118962130" type="Ending Theme">#3: &quot;TOMORROW&quot; by Ayumi Tsunematsu (ep 14)</info>
+<info gid="3426272585" type="Ending Theme">#4: &quot;trust you&quot; by Yuna Ito (eps 15-24)</info>
+<info gid="1934908445" type="Ending Theme">#5: &quot;DAYBREAK'S BELL&quot; by L'arc~en~Ciel (ep 25)</info>
+<info gid="2459681052" type="Insert song">&quot;Unlimited Sky&quot; by Tommy heavenly6 (ep 7)</info>
+<info gid="2337539167" type="Official website" lang="JA" href="http://www.mbs.jp/gundam00/">MBS's Gundam 00 Site</info>
+<info gid="2242832627" type="Official website" lang="JA" href="http://www.gundam00.net/">機動戦士ガンダムOO [ダブルオー]</info>
+<ratings nb_votes="1500" weighted_score="8.2249" bayesian_score="8.21887"/>
+<episode num="1">
+<title gid="2128720844" lang="EN">The Angel's Second Advent</title></episode>
+<episode num="2">
+<title gid="2174232064" lang="EN">Twin Drive</title></episode>
+<episode num="3">
+<title gid="1257016265" lang="EN">Allelujah Rescue Operation</title></episode>
+<episode num="4">
+<title gid="2855401819" lang="EN">Reason for Fighting</title></episode>
+<episode num="5">
+<title gid="2581267826" lang="EN">Burning Homeland</title></episode>
+<episode num="6">
+<title gid="2868177818" lang="EN">Scar</title></episode>
+<episode num="7">
+<title gid="3417721242" lang="EN">Reunion and Separation</title></episode>
+<episode num="8">
+<title gid="2097681720" lang="EN">Pure Distortion</title></episode>
+<episode num="9">
+<title gid="1785322764" lang="EN">Unerasable Past</title></episode>
+<episode num="10">
+<title gid="3057308519" lang="EN">Light from the Sky</title></episode>
+<episode num="11">
+<title gid="1805204517" lang="EN">00's Voice</title></episode>
+<episode num="12">
+<title gid="1248391151" lang="EN">Waiting in Space</title></episode>
+<episode num="13">
+<title gid="2142918274" lang="EN">Assault of Memento Mori</title></episode>
+<episode num="14">
+<title gid="1825270482" lang="EN">A Song is Heard</title></episode>
+<episode num="15">
+<title gid="2446458591" lang="EN">Paean of the Rebellion</title></episode>
+<episode num="16">
+<title gid="1465179151" lang="EN">Prelude to Tragedy</title></episode>
+<episode num="17">
+<title gid="3444639232" lang="EN">In Midst of Scattered Light</title></episode>
+<episode num="18">
+<title gid="2658175391" lang="EN">Mixed Feelings</title></episode>
+<episode num="19">
+<title gid="1783218176" lang="EN">Shadow of the Innovators</title></episode>
+<episode num="20">
+<title gid="1671662536" lang="EN">Anew Return</title></episode>
+<episode num="21">
+<title gid="4005541459" lang="EN">The Door to Reform</title></episode>
+<episode num="22">
+<title gid="2335224123" lang="EN">For Future's Sake</title></episode>
+<episode num="23">
+<title gid="2641811782" lang="EN">Flower of Life</title></episode>
+<episode num="24">
+<title gid="2158216986" lang="EN">BEYOND</title></episode>
+<episode num="25">
+<title gid="501606667" lang="EN">Rebirth</title></episode>
+<review href="http://www.animenewsnetwork.com/review/mobile-suit-gundam-00/dvd-season-2">Gundam 00 DVD Season 2 Part 1</review>
+<release date="2010-04-06" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=15830">Mobile Suit Gundam 00: Second Season - Part 1 (DVD)</release>
+<release date="2010-04-06" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=16292">Mobile Suit Gundam 00: Second Season - Part 1 [Special Edition] (DVD)</release>
+<release date="2010-07-06" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=16612">Mobile Suit Gundam 00: Second Season - Part 2 (DVD)</release>
+<release date="2010-07-06" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=16611">Mobile Suit Gundam 00: Second Season - Part 2 [Special Edition] (DVD)</release>
+<release date="2010-10-19" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=17660">Mobile Suit Gundam 00: Second Season - Part 3 (DVD)</release>
+<release date="2010-10-19" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=17659">Mobile Suit Gundam 00: Second Season - Part 3 [Special Edition] (DVD)</release>
+<release date="2010-12-07" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=18550">Mobile Suit Gundam 00: Second Season - Part 4 (DVD)</release>
+<release date="2010-12-07" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=18549">Mobile Suit Gundam 00: Second Season - Part 4 [Special Edition] (DVD)</release>
+<release date="2012-02-07" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=20240">Mobile Suit Gundam 00 - Complete Season 2 [Anime Legends] (DVD)</release>
+<news datetime="2008-12-22T22:10:19Z" href="http://www.animenewsnetwork.com/news/2008-12-22/bleach-yu-gi-oh-shugo-chara-singles-rank-no.2-8-9">&lt;cite&gt;Bleach, Yu-Gi-Oh, Shugo Chara&lt;/cite&gt; Singles Rank #2, 8, 9</news>
+<news datetime="2009-03-11T03:23:48Z" href="http://www.animenewsnetwork.com/news/2009-03-10/japanese-animation-dvd-ranking-march-3-9">Japanese Animation DVD Ranking, March 3-9</news>
+<news datetime="2009-03-18T03:57:00Z" href="http://www.animenewsnetwork.com/news/2009-03-17/japanese-animation-dvd-ranking-march-10-16">Japanese Animation DVD Ranking, March 10-16</news>
+<news datetime="2009-03-29T09:01:33Z" href="http://www.animenewsnetwork.com/news/2009-03-29/mobile-suit-gundam-00-film-to-open-in-japan-in-2010">&lt;cite&gt;Mobile Suit Gundam 00&lt;/cite&gt; Film to Open in Japan in 2010</news>
+<news datetime="2009-04-08T02:45:31Z" href="http://www.animenewsnetwork.com/news/2009-04-07/japanese-animation-dvd-ranking-march-31-april-6">Japanese Animation DVD Ranking, March 31-April 6</news>
+<news datetime="2009-04-15T03:26:45Z" href="http://www.animenewsnetwork.com/news/2009-04-14/japanese-animation-dvd-ranking-april-7-13">Japanese Animation DVD Ranking, April 7-13</news>
+<news datetime="2009-04-29T02:51:23Z" href="http://www.animenewsnetwork.com/news/2009-04-28/japanese-animation-dvd-ranking-april-21-28">Japanese Animation DVD Ranking, April 21-28</news>
+<news datetime="2009-05-06T02:24:46Z" href="http://www.animenewsnetwork.com/news/2009-05-05/japanese-animation-dvd-ranking-april-27-may-3">Japanese Animation DVD Ranking, April 27-May 3</news>
+<news datetime="2009-07-08T02:14:47Z" href="http://www.animenewsnetwork.com/news/2009-07-07/japanese-animation-dvd-ranking-june-29-july-5">Japanese Animation DVD Ranking, June 29-July 5</news>
+<news datetime="2009-09-16T11:49:40Z" href="http://www.animenewsnetwork.com/news/2009-09-16/japanese-animation-dvd-ranking-september-7-13">Japanese Animation DVD Ranking, September 7-13</news>
+<news datetime="2011-01-14T15:20:41Z" href="http://www.animenewsnetwork.com/news/2011-01-14/18-arrested-in-japan-for-uploading-via-share-program">18 Arrested in Japan for Uploading via Share Program</news>
+<staff gid="1128667361"><task>Director</task><person id="3891">Seiji Mizushima</person></staff>
+<staff gid="2874506091"><task>Series Composition</task><person id="515">Yousuke Kuroda</person></staff>
+<staff gid="2898094630"><task>Screenplay</task><person id="515">Yousuke Kuroda</person></staff>
+<staff gid="1752435379"><task>Storyboard</task><person id="3614">Shigeru Ueda</person></staff>
+<staff gid="1915790592"><task>Storyboard</task><person id="3891">Seiji Mizushima</person></staff>
+<staff gid="2991791660"><task>Storyboard</task><person id="11363">Masaki Kitamura</person></staff>
+<staff gid="1702952913"><task>Storyboard</task><person id="14480">Iwao Teraoka</person></staff>
+<staff gid="3272464397"><task>Storyboard</task><person id="14907">Kazuki Tsunoda</person></staff>
+<staff gid="1007650197"><task>Storyboard</task><person id="23846">Kenji Nagasaki</person></staff>
+<staff gid="3482116913"><task>Storyboard</task><person id="74573">Masaki Takuno</person></staff>
+<staff gid="4004039030"><task>Episode Director</task><person id="3614">Shigeru Ueda</person></staff>
+<staff gid="870176511"><task>Episode Director</task><person id="3891">Seiji Mizushima</person></staff>
+<staff gid="3239013565"><task>Episode Director</task><person id="11363">Masaki Kitamura</person></staff>
+<staff gid="2013626631"><task>Episode Director</task><person id="14907">Kazuki Tsunoda</person></staff>
+<staff gid="933441909"><task>Episode Director</task><person id="23846">Kenji Nagasaki</person></staff>
+<staff gid="2600404110"><task>Episode Director</task><person id="54076">Takahiro Natori</person></staff>
+<staff gid="2561134621"><task>Episode Director</task><person id="63401">Shinya Watada</person></staff>
+<staff gid="2455161061"><task>Episode Director</task><person id="74573">Masaki Takuno</person></staff>
+<staff gid="1733852105"><task>Episode Director</task><person id="74574">Masanori Takahashi</person></staff>
+<staff gid="1216666024"><task>Music</task><person id="140">Kenji Kawai</person></staff>
+<staff gid="680877332"><task>Original creator</task><person id="19">Hajime Yatate</person></staff>
+<staff gid="2609097886"><task>Original creator</task><person id="100">Yoshiyuki Tomino</person></staff>
+<staff gid="2226594923"><task>Character Design</task><person id="8334">Michinori Chiba</person></staff>
+<staff gid="1902905622"><task>Character Design</task><person id="28742">Yun Kouga</person></staff>
+<staff gid="988286007"><task>Art Director</task><person id="20585">Takeshi Satou</person></staff>
+<staff gid="2570411933"><task>Animation Director</task><person id="2628">Kenichi Ohnuki</person></staff>
+<staff gid="2171294692"><task>Animation Director</task><person id="8334">Michinori Chiba</person></staff>
+<staff gid="1677860299"><task>Animation Director</task><person id="9521">Kunihiro Abe</person></staff>
+<staff gid="1682758053"><task>Animation Director</task><person id="11208">Ken Ootsuka</person></staff>
+<staff gid="4090335427"><task>Animation Director</task><person id="13865">Hiromitsu Morishita</person></staff>
+<staff gid="2097973425"><task>Animation Director</task><person id="14471">Seiichi Nakatani</person></staff>
+<staff gid="3270923668"><task>Animation Director</task><person id="15797">Hiroshi Matsuda</person></staff>
+<staff gid="344362248"><task>Animation Director</task><person id="20775">Takuro Shinbo</person></staff>
+<staff gid="956578612"><task>Animation Director</task><person id="22551">Kenichi Takase</person></staff>
+<staff gid="2121873795"><task>Animation Director</task><person id="35599">Hiroshi Arisawa</person></staff>
+<staff gid="2404608543"><task>Animation Director</task><person id="37880">Masanori Nishii</person></staff>
+<staff gid="3547933725"><task>Animation Director</task><person id="41803">Tetsuya Matsukawa</person></staff>
+<staff gid="3127973126"><task>Animation Director</task><person id="52738">Kayo Ikeda</person></staff>
+<staff gid="1262584146"><task>Animation Director</task><person id="74575">Ryoichi Imaizumi</person></staff>
+<staff gid="2962071934"><task>Mechanical design</task><person id="123">Kunio Okawara</person></staff>
+<staff gid="479380745"><task>Mechanical design</task><person id="1618">Kanetake Ebikawa</person></staff>
+<staff gid="2412467771"><task>Mechanical design</task><person id="3080">Kenji Teraoka</person></staff>
+<staff gid="3284841262"><task>Mechanical design</task><person id="10091">Hitoshi Fukuchi</person></staff>
+<staff gid="1573270920"><task>Mechanical design</task><person id="13842">Naohiro Washio</person></staff>
+<staff gid="1738981933"><task>Mechanical design</task><person id="14471">Seiichi Nakatani</person></staff>
+<staff gid="2745729293"><task>Mechanical design</task><person id="38526">Takayuki Yanase</person></staff>
+<staff gid="3717037693"><task>Art design</task><person id="571">Nobuto Sue</person></staff>
+<staff gid="2243583004"><task>Art design</task><person id="39282">Kazushige Kanehira</person></staff>
+<staff gid="1085465693"><task>Sound Director</task><person id="317">Masafumi Mima</person></staff>
+<staff gid="1565102746"><task>Cgi Director</task><person id="78826">Yoshikazu Kon</person></staff>
+<staff gid="2013112404"><task>Director of Photography</task><person id="29199">Takeshi Katsurayama</person></staff>
+<staff gid="1968652874"><task>Director of Photography</task><person id="74970">Yui Tanaka</person></staff>
+<staff gid="3626053547"><task>Executive producer</task><person id="11373">Yasuo Miyakawa</person></staff>
+<staff gid="2528642479"><task>Executive producer</task><person id="14945">Seiji Takeda</person></staff>
+<staff gid="1280539875"><task>Producer</task><person id="13586">Hiro Maruyama</person></staff>
+<staff gid="602754102"><task>Producer</task><person id="66620">Hiroomi Iketani</person></staff>
+<cast gid="1492924747" lang="DE"><role>Setsuna F. Seiei</role><person id="22711">Konrad Bösherz</person></cast>
+<cast gid="1173371128" lang="DE"><role>Sumeragi Lee Noriega</role><person id="22738">Ann Vielhaben</person></cast>
+<cast gid="2479653842" lang="DE"><role>Tieria Erde</role><person id="49359">Michael Baral</person></cast>
+<cast gid="1154893486" lang="DE"><role>Lockon Stratos</role><person id="75662">Peter Lontzek</person></cast>
+<cast gid="1125952256" lang="DE"><role>Soma Peries</role><person id="78678">Nicole Hannak</person></cast>
+<cast gid="3003957760" lang="DE"><role>Allelujah Haptism</role><person id="86077">Hendrik Martz</person></cast>
+<cast gid="1097385329" lang="DE"><role>Marina Ismail</role><person id="86081">Anita Hopt</person></cast>
+<cast gid="543613843" lang="DE"><role>Louise Halevy</role><person id="111986">Josefin Hagen</person></cast>
+<cast gid="1928819040" lang="EN"><role>Louise Halevy</role><person id="738">Kelly Sheridan</person></cast>
+<cast gid="3786336432" lang="EN"><role>Billy Katagiri</role><person id="739">Kirby Morrow</person></cast>
+<cast gid="1062448601" lang="EN"><role>Mister Bushido/Graham Aker</role><person id="740">Paul Dobson</person></cast>
+<cast gid="2935725122" lang="EN"><role>Lasse Aeon</role><person id="741">Andrew Francis</person></cast>
+<cast gid="1801623258" lang="EN"><role>Homer Katagiri</role><person id="742">Brian Drummond</person></cast>
+<cast gid="2461748082" lang="EN"><role>Ali Al-Saachez</role><person id="746">Scott McNeil</person></cast>
+<cast gid="991665112" lang="EN"><role>Sergei Smirnov</role><person id="750">Michael Dobson</person></cast>
+<cast gid="3070975836" lang="EN"><role>Patrick Colasour</role><person id="751">Trevor Devall</person></cast>
+<cast gid="2913777747" lang="EN"><role>Mileina Vashti</role><person id="1598">Andrea Libman</person></cast>
+<cast gid="3219763491" lang="EN"><role>Shirin Bakhtiar</role><person id="1601">Ellen Kennedy</person></cast>
+<cast gid="4078075773" lang="EN"><role>Regene Regetta</role><person id="2457">Nicole Oliver</person></cast>
+<cast gid="3539041135" lang="EN"><role>Andrei Smirnov</role><person id="2964">Brent Miller</person></cast>
+<cast gid="2585464749" lang="EN"><role>Soran Ibrahim / Setsuna F. Seiei</role><person id="2969">Brad Swaile</person></cast>
+<cast gid="619769952" lang="EN"><role>Feldt Grace</role><person id="3933">Chantal Strand</person></cast>
+<cast gid="3328241550" lang="EN"><role>Tieria Erde</role><person id="3935">Samuel Vincent</person></cast>
+<cast gid="900787512" lang="EN"><role>Klaus Grad</role><person id="3939">Alistair Abell</person></cast>
+<cast gid="2698926606" lang="EN"><role>Kati Mannequin</role><person id="3945">Cathy Weseluck</person></cast>
+<cast gid="1229982269" lang="EN"><role>Leesa Kujo / Sumeragi Lee Noriega</role><person id="4325">Lisa Ann Beley</person></cast>
+<cast gid="1833133792" lang="EN"><role>Revive Revival</role><person id="4760">Jillian Michaels</person></cast>
+<cast gid="2295121235" lang="EN"><role>Haro</role><person id="4906">Tabitha St. Germain</person></cast>
+<cast gid="637045360" lang="EN"><role>Marie Parfacy / Soma Peries</role><person id="4906">Tabitha St. Germain</person></cast>
+<cast gid="1867447736" lang="EN"><role>Allelujah Haptism</role><person id="4953">Richard Ian Cox</person></cast>
+<cast gid="971923704" lang="EN"><role>Anew Returner</role><person id="5100">Lalainia Lindbjerg</person></cast>
+<cast gid="962964058" lang="EN"><role>Ribbons Almark</role><person id="8671">Michael Adamthwaite</person></cast>
+<cast gid="2755689115" lang="EN"><role>Hiling Care</role><person id="8963">Brenna O'Brien</person></cast>
+<cast gid="2980451512" lang="EN"><role>Nena Trinity</role><person id="16751">Nicole Bouma</person></cast>
+<cast gid="900564506" lang="EN"><role>Saji Crossroad</role><person id="16932">Gabe Khouth</person></cast>
+<cast gid="2167117993" lang="EN"><role>Ian Vashti</role><person id="31091">Peter New</person></cast>
+<cast gid="1429488424" lang="EN"><role>Wang Liu Mei</role><person id="42121">Maryke Hendrikse</person></cast>
+<cast gid="2492443261" lang="EN"><role>Marina Ismail</role><person id="51567">Paula Lindberg</person></cast>
+<cast gid="3203660707" lang="EN"><role>Lyle Dylandy / Lockon Stratos</role><person id="71660">Alex Zahara</person></cast>
+<cast gid="2247123553" lang="FR"><role>Allelujah Haptism</role><person id="29431">Mathias Kozlowski</person></cast>
+<cast gid="2574105483" lang="FR"><role>Ribbons Almark</role><person id="38385">Thomas Guitard</person></cast>
+<cast gid="3521661624" lang="FR"><role>Tieria Erde</role><person id="43197">Benjamin Pascal</person></cast>
+<cast gid="2271692709" lang="FR"><role>Lockon Stratos</role><person id="47653">Constantin Pappas</person></cast>
+<cast gid="1342823422" lang="FR"><role>Setsuna F. Seiei</role><person id="65509">Mathieu Doang</person></cast>
+<cast gid="2223890648" lang="JA"><role>Billy Katagiri</role><person id="384">Yuji Ueda</person></cast>
+<cast gid="2146161721" lang="JA"><role>Revive Revival</role><person id="411">Mitsuki Saiga</person></cast>
+<cast gid="2203792570" lang="JA"><role>Allelujah Haptism</role><person id="507">Hiroyuki Yoshino</person></cast>
+<cast gid="3014567784" lang="JA"><role>Lyle Dylandy / Lockon Stratos</role><person id="659">Shinichiro Miki</person></cast>
+<cast gid="2309088686" lang="JA"><role>Shirin Bakhtiar</role><person id="698">Michiko Neya</person></cast>
+<cast gid="2584060133" lang="JA"><role>Patrick Colasour</role><person id="798">Kenji Hamada</person></cast>
+<cast gid="3656816139" lang="JA"><role>Nena Trinity</role><person id="808">Rie Kugimiya</person></cast>
+<cast gid="931179887" lang="JA"><role>Kati Mannequin</role><person id="845">Minami Takayama</person></cast>
+<cast gid="1420910276" lang="JA"><role>Ali Al-Saachez</role><person id="949">Keiji Fujiwara</person></cast>
+<cast gid="3648617145" lang="JA"><role>Sergei Smirnov</role><person id="1178">Unshou Ishizuka</person></cast>
+<cast gid="876835111" lang="JA"><role>Saji Crossroad</role><person id="1207">Miyu Irino</person></cast>
+<cast gid="1707697870" lang="JA"><role>Ian Vashti</role><person id="1256">Hideyuki Umezu</person></cast>
+<cast gid="1230459946" lang="JA"><role>Andrei Smirnov</role><person id="1495">Tetsu Shiratori</person></cast>
+<cast gid="2728826684" lang="JA"><role>Regene Regetta</role><person id="5108">Romi Park</person></cast>
+<cast gid="424988350" lang="JA"><role>Tieria Erde</role><person id="5902">Hiroshi Kamiya</person></cast>
+<cast gid="2115245203" lang="JA"><role>Setsuna F. Seiei</role><person id="10397">Mamoru Miyano</person></cast>
+<cast gid="3416110860" lang="JA"><role>Haro</role><person id="10403">Arisa Ogasawara</person></cast>
+<cast gid="1678984020" lang="JA"><role>Marie Parfacy / Soma Peries</role><person id="10403">Arisa Ogasawara</person></cast>
+<cast gid="3602282145" lang="JA"><role>Louise Halevy</role><person id="13834">Chiwa Saito</person></cast>
+<cast gid="1671487857" lang="JA"><role>Graham Aker / Mister Bushido</role><person id="15878">Yūichi Nakamura</person></cast>
+<cast gid="2659599502" lang="JA"><role>Anew Returner</role><person id="16480">Ryoko Shiraishi</person></cast>
+<cast gid="3981194624" lang="JA"><role>Marina Ismail</role><person id="18042">Ayumi Tsunematsu</person></cast>
+<cast gid="1342271673" lang="JA"><role>Klaus Grado</role><person id="18533">Tokuyoshi Kawashima</person></cast>
+<cast gid="2036222906" lang="JA"><role>Lasse Aeon</role><person id="20365">Hiroki Touchi</person></cast>
+<cast gid="2546162190" lang="JA"><role>Sumeragi Lee Noriega</role><person id="21164">Youko Honna</person></cast>
+<cast gid="3173573742" lang="JA"><role>Wang Liu Mei</role><person id="51932">Kei Shindou</person></cast>
+<cast gid="1414397722" lang="JA"><role>Feldt Grace</role><person id="56455">Ayahi Takagaki</person></cast>
+<cast gid="2219750228" lang="JA"><role>Hiling Care</role><person id="58756">Miyuki Kawasho</person></cast>
+<cast gid="1447368991" lang="JA"><role>Mileina Vashti</role><person id="63126">Haruka Tomatsu</person></cast>
+<cast gid="1803856857" lang="JA"><role>Ribbons Almark</role><person id="74576">Noboru Sōgetsu</person></cast>
+<cast gid="3130608332" lang="TL"><role>Ian Vashti</role><person id="15937">Fourth Lee</person></cast>
+<cast gid="2684656817" lang="TL"><role>Klaus Grado</role><person id="15937">Fourth Lee</person></cast>
+<cast gid="2446927143" lang="TL"><role>Soran Ibrahim/Setsuna F. Seiei</role><person id="15937">Fourth Lee</person></cast>
+<cast gid="3359616486" lang="TL"><role>Andrei Smirnov</role><person id="38902">Jose Amado Santiago</person></cast>
+<cast gid="4073340681" lang="TL"><role>Tieria Erde</role><person id="38902">Jose Amado Santiago</person></cast>
+<cast gid="1963896200" lang="TL"><role>Tieria Erde</role><person id="38904">Yeyet Masangcay</person></cast>
+<cast gid="3964891365" lang="TL"><role>Lyle Dylandy/Lockon Stratos</role><person id="38916">Robert Brillantes</person></cast>
+<cast gid="1780450659" lang="TL"><role>Ali al-Saachez</role><person id="38923">Arnold Abad</person></cast>
+<cast gid="675211465" lang="TL"><role>Anew Returner</role><person id="39030">Rona Aguilar</person></cast>
+<cast gid="2974743989" lang="TL"><role>Haro</role><person id="39030">Rona Aguilar</person></cast>
+<cast gid="2246860157" lang="TL"><role>Shirin Bakhtiar</role><person id="39030">Rona Aguilar</person></cast>
+<cast gid="2703521003" lang="TL"><role>Wang Liu Mei</role><person id="39030">Rona Aguilar</person></cast>
+<cast gid="1434019086" lang="TL"><role>Feldt Grace</role><person id="39769">Candice Arellano</person></cast>
+<cast gid="397766656" lang="TL"><role>Feldt Grace</role><person id="42178">Hazel Hernan</person></cast>
+<cast gid="1847771274" lang="TL"><role>Marie Parfacy/Soma Peries</role><person id="42178">Hazel Hernan</person></cast>
+<cast gid="2106371937" lang="TL"><role>Marina Ismail</role><person id="42178">Hazel Hernan</person></cast>
+<cast gid="2180705095" lang="TL"><role>Hiling Care</role><person id="43334">Michiko Azarcon</person></cast>
+<cast gid="2884203441" lang="TL"><role>Mileina Vashti</role><person id="43334">Michiko Azarcon</person></cast>
+<cast gid="1930539783" lang="TL"><role>Regene Regetta</role><person id="43334">Michiko Azarcon</person></cast>
+<cast gid="2114675520" lang="TL"><role>Graham Aker/Mister Bushido</role><person id="46208">Rene Tandoc</person></cast>
+<cast gid="1897652618" lang="TL"><role>Sergei Smirnov</role><person id="46208">Rene Tandoc</person></cast>
+<cast gid="2079051355" lang="TL"><role>Billy Katagiri</role><person id="50594">Anthony Steven San Juan</person></cast>
+<cast gid="3033760331" lang="TL"><role>Revive Revival</role><person id="50594">Anthony Steven San Juan</person></cast>
+<cast gid="3880794892" lang="TL"><role>Ribbons Almark</role><person id="50594">Anthony Steven San Juan</person></cast>
+<cast gid="1045632476" lang="TL"><role>Allelujah Haptism</role><person id="51485">Rafael Miranda</person></cast>
+<cast gid="2753241209" lang="TL"><role>Kati Manequin</role><person id="60653">Margo Borgona</person></cast>
+<cast gid="3239372673" lang="TL"><role>Leesa Kujo/Sumeragi Lee Noriega</role><person id="60653">Margo Borgona</person></cast>
+<cast gid="3506733699" lang="TL"><role>Louise Halevy</role><person id="60653">Margo Borgona</person></cast>
+<cast gid="3566197625" lang="TL"><role>Nena Trinity</role><person id="60653">Margo Borgona</person></cast>
+<cast gid="2885162588" lang="TL"><role>Graham Aker/Mister Bushido</role><person id="62734">RYAN BONDOC</person></cast>
+<cast gid="2085127752" lang="TL"><role>Saji Crossroad</role><person id="63521">Bryan Homecillo</person></cast>
+<cast gid="2914822711" lang="TL"><role>Soran Ibrahim / Setsuna F. Seiei</role><person id="63521">Bryan Homecillo</person></cast>
+<cast gid="1472653776" lang="TL"><role>Ali Al-Saachez</role><person id="66517">Marvil Ramirez</person></cast>
+<cast gid="1791980468" lang="TL"><role>Lasse Aeon</role><person id="66517">Marvil Ramirez</person></cast>
+<cast gid="2434279687" lang="TL"><role>Lyle Dylandy/Lockon Stratos</role><person id="66517">Marvil Ramirez</person></cast>
+<cast gid="2427055382" lang="TL"><role>Saji Crossroad</role><person id="66517">Marvil Ramirez</person></cast>
+<cast gid="2625488626" lang="TL"><role>Leesa Kujo/Sumeragi Lee Noriega</role><person id="73970">ayen dangcalan</person></cast>
+<cast gid="3042025831" lang="TL"><role>Louise Halevy</role><person id="73970">ayen dangcalan</person></cast>
+<cast gid="3782955819" lang="TL"><role>Allelujah Haptism</role><person id="74907">Lemuel Jana</person></cast>
+<cast gid="323391012" lang="TL"><role>Patrick Colasour</role><person id="74907">Lemuel Jana</person></cast>
+<credit gid="1777903554"><task>Animation Production</task><company id="34">Sunrise</company></credit>
+<credit gid="2950635812"><task>Production</task><company id="34">Sunrise</company></credit>
+<credit gid="3236888894"><task>Production</task><company id="10442">Mainichi Broadcasting System</company></credit></anime></ann>

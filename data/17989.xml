@@ -1,0 +1,25 @@
+<ann><anime id="17989" gid="3371150344" type="OAV" name="One-Punch Man: Road to Hero" precision="OAV" generated-on="2016-03-26T08:20:52Z">
+<related-prev rel="prequel of" id="16840"/>
+<info gid="1569347411" type="Main title" lang="EN">One-Punch Man: Road to Hero</info>
+<info gid="858727299" type="Alternative title" lang="JA">ONE PUNCH MAN ロード・トゥー・ヒーロー</info>
+<info gid="3982321581" type="Alternative title" lang="JA">ワンパンマン ロード・トゥー・ヒーロー</info>
+<info gid="2880389171" type="Vintage">2015-12-04 (bundled with 10th manga volume)</info>
+<info gid="1352400104" type="Opening Theme">&quot;The Hero!! ~Ikareru Ken ni Honō o Tsukeru~&quot; (THE HERO!! ～怒れる拳に火をつけろ～;The Hero!! Set Fire to the Furious Fist) by JAM Project</info>
+<info gid="2623817681" type="Ending Theme">&quot;Hoshi Yori Saki ni Mitsukete Ageru&quot; (星より先に見つけてあげる;I'll Find It Before the Stars for You) by Hiroko Moriguchi</info>
+<ratings nb_votes="47" weighted_score="6.8716" bayesian_score="7.01274"/>
+<episode num="1">
+<title gid="1314171291" lang="EN">Road to Hero</title></episode>
+<staff gid="1929368301"><task>Script</task><person id="100976">Tomohiro Suzuki</person></staff>
+<staff gid="2966978668"><task>Storyboard</task><person id="84034">Yuzuru Tachikawa</person></staff>
+<staff gid="3265203088"><task>Episode Director</task><person id="47493">Minoru Yamaoka</person></staff>
+<staff gid="2900200474"><task>Chief Animation Director</task><person id="48183">Chikashi Kubota</person></staff>
+<staff gid="2598658867"><task>Animation Director</task><person id="81072">Ryōta Azuma</person></staff>
+<staff gid="2981563988"><task>Animation Director</task><person id="88915">Naoko Minai</person></staff>
+<staff gid="2405581318"><task>Animation Director</task><person id="100561">Eiko Mishima</person></staff>
+<staff gid="2328074878"><task>Animation Director</task><person id="101473">Ayu Ogata</person></staff>
+<staff gid="3291114792"><task>Animation Director</task><person id="129170">Boya Liang</person></staff>
+<cast gid="2388671392" lang="JA"><role>Yamikingyo</role><person id="20597">Yoshimitsu Shimoyama</person></cast>
+<cast gid="712258476" lang="JA"><role>Tailor</role><person id="68750">Cho</person></cast>
+<cast gid="1458006581" lang="JA"><role>Genos</role><person id="114052">Kaito Ishikawa</person></cast>
+<cast gid="3059510613" lang="JA"><role>Saitama</role><person id="123459">Makoto Furukawa</person></cast>
+<credit gid="3272141935"><task>Animation Production</task><company id="48">Madhouse</company></credit></anime></ann>

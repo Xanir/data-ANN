@@ -1,0 +1,352 @@
+<ann><anime id="12120" gid="2615118542" type="TV" name="Puella Magi Madoka Magica" precision="TV" generated-on="2016-03-27T03:10:30Z">
+<related-next id="12706" rel="related"/>
+<related-next id="14363" rel="compilation"/>
+<related-next id="14364" rel="compilation"/>
+<related-next id="15921" rel="related"/>
+<related-next id="17390" rel="spinoff"/>
+<related-next id="17392" rel="spinoff"/>
+<info gid="1971178306" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A12120-47.jpg" width="150" height="200"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A12120-47.jpg" width="150" height="200"/></info>
+<info gid="2512138179" type="Main title" lang="EN">Puella Magi Madoka Magica</info>
+<info gid="1610535719" type="Alternative title" lang="EN">Madoka Magica</info>
+<info gid="2829718569" type="Alternative title" lang="JA">Mahō Shōjo Madoka Magica</info>
+<info gid="2109457111" type="Alternative title" lang="RU">Девочка-волшебница Мадока</info>
+<info gid="2294003667" type="Alternative title" lang="AR">الفتاة الساحرة مادوكا ماجيكا</info>
+<info gid="2931126014" type="Alternative title" lang="JA">魔法少女まどか★マギカ</info>
+<info gid="676474772" type="Alternative title" lang="ZH-TW">魔法少女小圓</info>
+<info gid="2933355739" type="Genres">action</info>
+<info gid="952272799" type="Genres">drama</info>
+<info gid="2087340372" type="Genres">magic</info>
+<info gid="2353722372" type="Genres">psychological</info>
+<info gid="963562451" type="Genres">thriller</info>
+<info gid="2612633084" type="Themes">death</info>
+<info gid="2081026784" type="Themes">fighting</info>
+<info gid="2376137976" type="Themes">magical girl</info>
+<info gid="1781275868" type="Themes">moe</info>
+<info gid="195654739" type="Themes">tragedy</info>
+<info gid="2477573456" type="Themes">witches</info>
+<info gid="1549364584" type="Objectionable content">TA</info>
+<info gid="1754461414" type="Plot Summary">After experiencing a bizarre dream, Madoka Kaname, a kind 14-year-old girl, encounters a magical creature named Kyube. Madoka and her friend Sayaka Miki are offered the opportunity of gaining magical powers if they agree to make a contract with the strange little being. He will also grant them one wish, but in exchange they shall risk their lives by accepting the responsibility of fighting witches. Invisible to human eyes, witches are catalysts of despair in the areas they inhabit. An ally of Kyube, a magical girl named Mami Tomoe, befriends and encourages the two girls to accept the contract. For an unknown reason, another magical girl named Homura Akemi is determined to prevent Madoka from accepting the deal.</info>
+<info gid="1200394934" type="Running time">24</info>
+<info gid="1091469597" type="Number of episodes">12</info>
+<info gid="2089916089" type="Vintage">2011-01-06 to 2011-04-21</info>
+<info gid="2725662894" type="Vintage">2012-02-05 to 2012-04-22 (Italy - Rai 4)</info>
+<info gid="1188233796" type="Vintage">2013-06-29 (Australia - ABC3)</info>
+<info gid="1752847873" type="Vintage">2014-01-05 (Germany - Animax Germany)</info>
+<info gid="278312127" type="Opening Theme">&quot;Connect&quot; (コネクト) by ClariS</info>
+<info gid="2728789855" type="Ending Theme">#1: &quot;See You Tomorrow&quot; by Aoi Yūki (eps 1-2)</info>
+<info gid="2434926602" type="Ending Theme">#2: &quot;Magia&quot; by Kalafina (eps 3-8)</info>
+<info gid="2590785803" type="Ending Theme">#3: &quot;And I'm Home&quot; by Eri Kitamura &amp; Ai Nonaka (ep 9)</info>
+<info gid="2987851289" type="Ending Theme">#4: &quot;Connect&quot; (コネクト) by ClariS (eps 10, 12)</info>
+<info gid="2534505924" type="Insert song">&quot;Ave Maria&quot; by Bach/Gounod (ep 5)</info>
+<info gid="2423098456" type="Insert song">&quot;La fille aux cheveux de lin (The Girl with the Flaxen Hair)&quot; by Claude Debussy (ep 6)</info>
+<info gid="1315392261" type="Insert song">&quot;Magia&quot; by Kalafina (eps 1-2,10)</info>
+<info gid="3145701070" type="Official website" lang="EN" href="http://madokamagicausa.com/">Madoka Magica USA | Aniplex USA</info>
+<info gid="2474278453" type="Official website" lang="JA" href="http://www.aniplex.co.jp/lineup/anime/madokamagica/">Puella Magi Madoka Magica | Aniplex Official Site</info>
+<info gid="1822141626" type="Official website" lang="EN" href="http://www.madman.com.au/series/home/16771/">Madman's Official Puella Magi Madoka Magica Sales Site</info>
+<info gid="3674808126" type="Official website" lang="JA" href="http://www.madoka-magica.com/"></info>
+<info gid="2341758036" type="Official website" lang="JA" href="http://www.madoka-magica.com/">魔法少女まどか★マギカ</info>
+<ratings nb_votes="3290" weighted_score="8.5683" bayesian_score="8.56419"/>
+<episode num="1">
+<title gid="1703163265" lang="EN">As if I met Her In My Dream</title></episode>
+<episode num="2">
+<title gid="3462001173" lang="EN">That's Really Nice Of You</title></episode>
+<episode num="3">
+<title gid="266038637" lang="EN">I'm Not Afraid Anymore</title></episode>
+<episode num="4">
+<title gid="3458921736" lang="EN">There are Miracles and Magic</title></episode>
+<episode num="5">
+<title gid="1327886065" lang="EN">I Have Absolutely No Regrets</title></episode>
+<episode num="6">
+<title gid="3364660600" lang="EN">This Just Isn't Right</title></episode>
+<episode num="7">
+<title gid="1634950264" lang="EN">Can you Face your True Feelings?</title></episode>
+<episode num="8">
+<title gid="821926108" lang="EN">I'm Such a Fool</title></episode>
+<episode num="9">
+<title gid="1295497271" lang="EN">That, I Will Not Allow</title></episode>
+<episode num="10">
+<title gid="2305387519" lang="EN">I Can't Depend on Anyone Anymore</title></episode>
+<episode num="11">
+<title gid="1213527271" lang="EN">The Final Sign Left</title></episode>
+<episode num="12">
+<title gid="3210592377" lang="EN">You're my best friend</title></episode>
+<review href="http://www.animenewsnetwork.com/review/puella-magi-madoka-magica/vol-3">Puella Magi Madoka Magica Vol. 3 Blu-ray</review>
+<review href="http://www.animenewsnetwork.com/review/puella-magi-madoka-magica/limited-edition-blu-ray-vol-2">Puella Magi Madoka Magica Vol. 2 Blu-Ray</review>
+<review href="http://www.animenewsnetwork.com/review/puella-magi-madoka-magica">Puella Magi Madoka Magica Vol. 1 Blu-Ray</review>
+<release date="2012-02-14" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=19882">Puella Magi Madoka Magica (Blu-Ray 1)</release>
+<release date="2012-04-10" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=19885">Puella Magi Madoka Magica (Blu-Ray 2)</release>
+<release date="2012-06-12" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=19888">Puella Magi Madoka Magica (Blu-Ray 3)</release>
+<release date="2012-10-29" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=21126">Puella Magi Madoka Magica - Complete Series Collection [UK] (Blu-Ray)</release>
+<release date="2012-04-18" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=21060">Puella Magi Madoka Magica [AU] (Blu-Ray 1)</release>
+<release date="2012-06-06" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=21061">Puella Magi Madoka Magica [AU] (Blu-Ray 2)</release>
+<release date="2012-08-01" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=21062">Puella Magi Madoka Magica [AU] (Blu-Ray 3)</release>
+<release date="2012-04-18" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=21059">Puella Magi Madoka Magica [Limited Edition with box] [AU] (Blu-Ray 1)</release>
+<release date="2012-02-14" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=19881">Puella Magi Madoka Magica [Limited Edition with CD] (BD+DVD 1)</release>
+<release date="2012-04-10" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=19884">Puella Magi Madoka Magica [Limited Edition with CD] (BD+DVD 2)</release>
+<release date="2012-06-12" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=19887">Puella Magi Madoka Magica [Limited Edition with CD] (BD+DVD 3)</release>
+<release date="2012-02-14" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=19883">Puella Magi Madoka Magica (DVD 1)</release>
+<release date="2012-04-10" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=19886">Puella Magi Madoka Magica (DVD 2)</release>
+<release date="2012-06-12" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=19889">Puella Magi Madoka Magica (DVD 3)</release>
+<release date="2012-10-29" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=21125">Puella Magi Madoka Magica - Complete Series Collection (DVD)</release>
+<release date="2012-04-18" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=21065">Puella Magi Madoka Magica (DVD 1)</release>
+<release date="2012-06-06" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=21064">Puella Magi Madoka Magica (DVD 2)</release>
+<release date="2012-08-01" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=21063">Puella Magi Madoka Magica (DVD 3)</release>
+<release date="2012-04-18" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=21066">Puella Magi Madoka Magica [Limited Edition with box] (DVD 1)</release>
+<news datetime="2010-10-28T10:37:43Z" href="http://www.animenewsnetwork.com/news/2010-10-28/new-shinbo/shaft-anime-to-be-maho-shojo-madoka-magika">New Shinbo/Shaft Anime to Be &lt;cite&gt;Mahō Shōjo Madoka Magica&lt;/cite&gt;</news>
+<news datetime="2011-03-15T03:55:00Z" href="http://www.animenewsnetwork.com/news/2011-03-14/japanese-comic-ranking-february-28-march-6">Japanese Comic Ranking, February 28-March 6</news>
+<news datetime="2011-03-16T05:11:55Z" href="http://www.animenewsnetwork.com/news/2011-03-16/this-week-madoka-magica-not-aired-in-self-restraint">This Week's &lt;cite&gt;Madoka Magica&lt;/cite&gt; Not Aired in 'Self-Restraint'</news>
+<news datetime="2011-03-19T17:51:38Z" href="http://www.animenewsnetwork.com/news/2011-03-19/anime/manga-releases-delayed-after-quake/part-iii">Anime/Manga Releases Delayed After Quake: Part III</news>
+<news datetime="2011-03-23T11:25:28Z" href="http://www.animenewsnetwork.com/news/2011-03-23/madoka-magica-airing-streaming-delayed-for-now">&lt;cite&gt;Madoka Magica's&lt;/cite&gt; Airing, Streaming Delayed 'For Now'</news>
+<news datetime="2011-04-10T10:01:55Z" href="http://www.animenewsnetwork.com/news/2011-04-10/madoka-magica-anime-to-resume-on-april-21">&lt;cite&gt;Madoka Magica&lt;/cite&gt; Anime to Resume on April 21</news>
+<news datetime="2011-04-18T15:30:00Z" href="http://www.animenewsnetwork.com/news/2011-04-18/katteni-kaizo-comedy-anime-opening-footage-streamed">&lt;cite&gt;Katteni Kaizō&lt;/cite&gt; Comedy Anime's Opening Footage Streamed</news>
+<news datetime="2011-04-22T10:00:00Z" href="http://www.animenewsnetwork.com/news/2011-04-22/madoka-magica-finale-earns-2.3-percent-rating-in-osaka-area">&lt;cite&gt;Madoka Magica&lt;/cite&gt; Finale Earns 2.3% Rating in Osaka Area</news>
+<news datetime="2011-04-28T11:00:00Z" href="http://www.animenewsnetwork.com/news/2011-04-28/madoka-magica-1-sells-22000-as-no.1-selling-january-anime-bd">&lt;cite&gt;Madoka Magica&lt;/cite&gt; 1 Sells 22,000 as #1 Selling January TV Anime BD</news>
+<news datetime="2011-04-28T15:30:00Z" href="http://www.animenewsnetwork.com/news/2011-04-28/katteni-kaizo-comedy-ending-anime-sequence-streamed">&lt;cite&gt;Katteni Kaizō, Amagami SS&lt;/cite&gt; Video Anime's Promos Streamed</news>
+<news datetime="2011-05-03T08:45:00Z" href="http://www.animenewsnetwork.com/news/2011-05-03/japan-animation-dvd-ranking-april-25-may-1-part-1">Japan's Animation DVD Ranking, April 25-May 1 (Part 1)</news>
+<news datetime="2011-05-03T19:45:00Z" href="http://www.animenewsnetwork.com/news/2011-05-03/madoka-magica-1-sells-53000-as-no.1-tv-anime-bd-in-1st-week">&lt;cite&gt;Madoka Magica&lt;/cite&gt; 1 Sells 53,000 as #1 TV Anime BD in 1st Week</news>
+<news datetime="2011-05-04T02:45:00Z" href="http://www.animenewsnetwork.com/news/2011-05-03/japan-animation-dvd-ranking-april-25-may-1-part-2">Japan's Animation DVD Ranking, April 25-May 1 (Part 2)</news>
+<news datetime="2011-05-06T02:19:47Z" href="http://www.animenewsnetwork.com/news/2011-05-05/kalafina-trio-to-perform-at-anime-expo-in-l.a">Kalafina Trio to Perform at Anime Expo in L.A.</news>
+<news datetime="2011-05-08T03:46:28Z" href="http://www.animenewsnetwork.com/news/2011-05-07/japan-animation-blu-ray-disc-ranking-april-25-may-1">Japan's Animation Blu-ray Disc Ranking, April 25-May 1</news>
+<news datetime="2011-05-09T15:15:00Z" href="http://www.animenewsnetwork.com/news/2011-05-09/fate/zero-hoshikaka-lupin-promo-videos-streamed">&lt;cite&gt;Fate/Zero, HoshiKaka, Lupin&lt;/cite&gt; Promo Videos Streamed</news>
+<news datetime="2011-05-11T02:45:00Z" href="http://www.animenewsnetwork.com/news/2011-05-10/japan-animation-dvd-ranking-may-2-8">Japan's Animation DVD Ranking, May 2-8</news>
+<news datetime="2011-05-15T15:24:01Z" href="http://www.animenewsnetwork.com/news/2011-05-16/weekly-wrapup-14/5">Weekly Wrapup 9/5 - 14/5</news>
+<news datetime="2011-05-15T22:00:00Z" href="http://www.animenewsnetwork.com/news/2011-05-15/japan-animation-blu-ray-disc-ranking-may-2-8">Japan's Animation Blu-ray Disc Ranking, May 2-8</news>
+<news datetime="2011-05-19T16:19:50Z" href="http://www.animenewsnetwork.com/news/2011-05-20/madman-announces-dance-in-the-vampire-bund-other-titles">Madman Announces Dance in the Vampire Bund, Other Titles</news>
+<news datetime="2011-05-20T03:57:00Z" href="http://www.animenewsnetwork.com/news/2011-05-19/japan-animation-dvd-ranking-may-9-15-part-2">Japan's Animation DVD Ranking, May 9-15 (Part 2)</news>
+<news datetime="2011-05-23T14:58:02Z" href="http://www.animenewsnetwork.com/news/2011-05-24/weekly-wrapup-15/5-21/5">Weekly Wrapup 15/5 - 21/5</news>
+<news datetime="2011-05-23T16:00:00Z" href="http://www.animenewsnetwork.com/news/2011-05-23/japan-animation-blu-ray-disc-ranking-may-9-15">Japan's Animation Blu-ray Disc Ranking, May 9-15</news>
+<news datetime="2011-05-26T18:00:00Z" href="http://www.animenewsnetwork.com/news/2011-05-26/japan-animation-blu-ray-disc-ranking-may-16-22">Japan's Animation Blu-ray Disc Ranking, May 16-22</news>
+<news datetime="2011-05-28T21:15:40Z" href="http://www.animenewsnetwork.com/news/2011-05-28/aniplex-ships-rurouni-kenshin-ova/film-bds-in-japan-u.s-on-same-day">Aniplex Ships &lt;cite&gt;Rurouni Kenshin&lt;/cite&gt; OVA/Film BDs in Japan, U.S. on Same Day</news>
+<news datetime="2011-05-31T10:30:00Z" href="http://www.animenewsnetwork.com/news/2011-05-31/japan-animation-dvd-ranking-may-23-29-part-1">Japan's Animation DVD Ranking, May 23-29 (Part 1)</news>
+<news datetime="2011-05-31T19:55:00Z" href="http://www.animenewsnetwork.com/news/2011-05-31/madoka-magica-tops-weekly-bd-chart-for-2nd-straight-time">&lt;cite&gt;Madoka Magica&lt;/cite&gt; Tops Weekly BD Chart for 2nd Straight Time</news>
+<news datetime="2011-05-31T23:00:37Z" href="http://www.animenewsnetwork.com/news/2011-05-31/5-tv-anime-blu-ray-discs-each-sold-10000+in-same-week">5 TV Anime Blu-ray Discs Each Sold 10,000+ in Same Week</news>
+<news datetime="2011-06-02T03:45:00Z" href="http://www.animenewsnetwork.com/news/2011-06-01/japan-animation-dvd-ranking-may-23-29-part-2">Japan's Animation DVD Ranking, May 23-29 (Part 2)</news>
+<news datetime="2011-06-07T14:15:00Z" href="http://www.animenewsnetwork.com/news/2011-06-07/japan-animation-blu-ray-disc-ranking/may-23-29-may-30-june-5">Japan's Animation Blu-ray Disc Ranking: May 23-29, May 30-June 5</news>
+<news datetime="2011-06-14T03:44:48Z" href="http://www.animenewsnetwork.com/news/2011-06-13/weekly-playboy/gen-urobuchi-plans-more-anime-by-2012">&lt;cite&gt;Weekly Playboy:&lt;/cite&gt; Gen Urobuchi Plans More Anime by 2012</news>
+<news datetime="2011-06-14T08:23:30Z" href="http://www.animenewsnetwork.com/news/2011-06-14/japan-animation-blu-ray-disc-ranking/june-6-12">Japan's Animation Blu-ray Disc Ranking: June 6-12</news>
+<news datetime="2011-06-16T14:43:25Z" href="http://www.animenewsnetwork.com/news/2011-06-17/madman-butler-for-a-day-art-competition-winners-announced">Madman's Butler For A Day art competition winners announced</news>
+<news datetime="2011-06-18T13:00:00Z" href="http://www.animenewsnetwork.com/news/2011-06-18/negima-hayate-the-combat-butler-films-teaser-posted">&lt;cite&gt;Negima, Hayate the Combat Butler&lt;/cite&gt; Films' Teaser Posted</news>
+<news datetime="2011-06-21T02:47:08Z" href="http://www.animenewsnetwork.com/news/2011-06-20/nitroplus-president-takaki-kosaka-to-attend-anime-expo">Nitroplus President Takaki Kosaka to Attend Anime Expo</news>
+<news datetime="2011-06-21T08:30:00Z" href="http://www.animenewsnetwork.com/news/2011-06-21/japan-animation-blu-ray-disc-ranking/june-13-19">Japan's Animation Blu-ray Disc Ranking: June 13-19</news>
+<news datetime="2011-06-22T01:40:43Z" href="http://www.animenewsnetwork.com/news/2011-06-21/1-million-stream-free-madoka-magica-in-japan-taiwan">1 Million Stream Free &lt;cite&gt;Madoka Magica&lt;/cite&gt; in Japan, Taiwan</news>
+<news datetime="2011-06-22T19:30:00Z" href="http://www.animenewsnetwork.com/news/2011-06-22/top-selling-blu-ray-discs-in-japan/2011-first-half">Top-Selling Blu-ray Discs in Japan: 2011 (First Half)</news>
+<news datetime="2011-06-24T11:15:00Z" href="http://www.animenewsnetwork.com/news/2011-06-24/usagi-drop/bunny-drop-anime-opening-sequence-posted">&lt;cite&gt;Usagi Drop/Bunny Drop&lt;/cite&gt; Anime's Opening Sequence Posted</news>
+<news datetime="2011-06-28T18:45:00Z" href="http://www.animenewsnetwork.com/news/2011-06-28/japan-animation-dvd-ranking-june-20-26">Japan's Animation DVD Ranking, June 20-26</news>
+<news datetime="2011-07-01T21:56:59Z" href="http://www.animenewsnetwork.com/news/2011-07-01/aniplex-usa-adds-madoka-magica-blue-exorcist-on-home-video">Aniplex USA Adds &lt;cite&gt;Madoka Magica, Blue Exorcist&lt;/cite&gt; on Home Video</news>
+<news datetime="2011-07-05T11:45:00Z" href="http://www.animenewsnetwork.com/news/2011-07-05/japan-animation-blu-ray-disc-ranking/june-27-july-2">Japan's Animation Blu-ray Disc Ranking: June 27-July 3</news>
+<news datetime="2011-07-05T13:00:00Z" href="http://www.animenewsnetwork.com/news/2011-07-05/japan-animation-dvd-ranking-june-27-july-3">Japan's Animation DVD Ranking, June 27-July 3</news>
+<news datetime="2011-07-07T13:00:00Z" href="http://www.animenewsnetwork.com/news/2011-07-07/newspaper/ntv-not-airing-ponyo-due-to-quake">Newspaper: NTV Not Airing &lt;cite&gt;Ponyo&lt;/cite&gt; Due to Quake</news>
+<news datetime="2011-07-12T08:45:00Z" href="http://www.animenewsnetwork.com/news/2011-07-12/japan-animation-blu-ray-disc-ranking/july-4-10">Japan's Animation Blu-ray Disc Ranking: July 4-10</news>
+<news datetime="2011-07-14T01:00:00Z" href="http://www.animenewsnetwork.com/news/2011-07-13/otakon-to-host-madoka-magica-u.s-premiere-producer">Otakon to Host &lt;cite&gt;Madoka Magica's&lt;/cite&gt; U.S. Premiere, Producer</news>
+<news datetime="2011-07-19T08:20:00Z" href="http://www.animenewsnetwork.com/news/2011-07-19/japan-animation-blu-ray-disc-ranking/july-11-17">Japan's Animation Blu-ray Disc Ranking: July 11-17</news>
+<news datetime="2011-07-29T17:30:00Z" href="http://www.animenewsnetwork.com/news/2011-07-29/negima-hayate-the-combat-butler-films-trailer-posted">&lt;cite&gt;Negima, Hayate the Combat Butler&lt;/cite&gt; Films' Trailer Posted</news>
+<news datetime="2011-07-29T19:38:12Z" href="http://www.animenewsnetwork.com/news/2011-07-29/aniplex-usa-to-dub-madoka-magica-into-english">Aniplex USA to Dub &lt;cite&gt;Madoka Magica&lt;/cite&gt; Into English</news>
+<news datetime="2011-08-02T11:15:00Z" href="http://www.animenewsnetwork.com/news/2011-08-02/japan-animation-blu-ray-disc-ranking/july-25-31">Japan's Animation Blu-ray Disc Ranking: July 25-31</news>
+<news datetime="2011-08-13T04:01:00Z" href="http://www.animenewsnetwork.com/news/2011-08-13/newtype-ufotable-to-host-anime-awards">Newtype, Ufotable to Host Anime Awards</news>
+<news datetime="2011-08-13T11:45:43Z" href="http://www.animenewsnetwork.com/news/2011-08-13/hidamari-sketch-gets-4th-season-green-lit">&lt;cite&gt;Hidamari Sketch/Sunshine Sketch&lt;/cite&gt; Anime Gets 4th Season</news>
+<news datetime="2011-08-16T08:45:00Z" href="http://www.animenewsnetwork.com/news/2011-08-16/japan-animation-blu-ray-disc-ranking/august-8-14">Japan's Animation Blu-ray Disc Ranking: August 8-14</news>
+<news datetime="2011-08-16T15:15:00Z" href="http://www.animenewsnetwork.com/news/2011-08-16/japanese-stores-list-madoka-magica-no.12-director-edit">Japanese Stores List &lt;cite&gt;Madoka Magica&lt;/cite&gt; #12 Director's Edit</news>
+<news datetime="2011-08-20T13:30:15Z" href="http://www.animenewsnetwork.com/news/2011-08-20/fate/zero-tv-anime-kiritsugu-emiya/saber-ad-streamed">&lt;cite&gt;Fate/Zero&lt;/cite&gt; TV Anime's Kiritsugu Emiya/Saber Ad Streamed</news>
+<news datetime="2011-08-27T15:15:00Z" href="http://www.animenewsnetwork.com/news/2011-08-27/fate/zero-tv-anime-waver/rider-ad-streamed">&lt;cite&gt;Fate/Zero&lt;/cite&gt; TV Anime's Waver/Rider Ad Streamed</news>
+<news datetime="2011-08-29T12:30:00Z" href="http://www.animenewsnetwork.com/news/2011-08-29/fate/zero-tv-anime-2nd-promo-video-streamed">&lt;cite&gt;Fate/Zero&lt;/cite&gt; TV Anime's 2nd Promo Video Streamed</news>
+<news datetime="2011-08-30T12:00:00Z" href="http://www.animenewsnetwork.com/news/2011-08-30/japan-animation-blu-ray-disc-ranking/august-22-28">Japan's Animation Blu-ray Disc Ranking: August 22-28</news>
+<news datetime="2011-08-30T22:45:00Z" href="http://www.animenewsnetwork.com/news/2011-08-30/madoka-magica-5-is-5th-bd-volume-to-sell-50000+">&lt;cite&gt;Madoka Magica&lt;/cite&gt; 5 is 5th BD Volume to Sell 50,000+</news>
+<news datetime="2011-09-09T23:30:00Z" href="http://www.animenewsnetwork.com/news/2011-09-09/fate/zero-tv-anime-kirei/assasin-ryunosuke/caster-ads-streamed">&lt;cite&gt;Fate/Zero&lt;/cite&gt; TV Anime's Kirei/Assasin, Ryūnosuke/Caster Ads Streamed</news>
+<news datetime="2011-09-06T09:30:25Z" href="http://www.animenewsnetwork.com/news/2011-09-06/japan-animation-dvd-ranking-august-29-september-4">Japan's Animation DVD Ranking, August 29-September 4</news>
+<news datetime="2011-09-13T08:30:00Z" href="http://www.animenewsnetwork.com/news/2011-09-13/japan-animation-blu-ray-disc-ranking/september-5-11">Japan's Animation Blu-ray Disc Ranking: September 5-11</news>
+<news datetime="2011-09-15T20:00:24Z" href="http://www.animenewsnetwork.com/news/2011-09-15/ny-anime-festival-to-host-tiger-and-bunny-producer-masayuki-ozaki">NY Anime Festival to Host &lt;cite&gt;Tiger &amp; Bunny&lt;/cite&gt; Producer Masayuki Ozaki</news>
+<news datetime="2011-09-17T15:50:00Z" href="http://www.animenewsnetwork.com/news/2011-09-17/fate/zero-tv-anime-kayneth/lancer-ads-streamed">&lt;cite&gt;Fate/Zero&lt;/cite&gt; TV Anime's Kayneth/Lancer Ads Streamed</news>
+<news datetime="2011-09-20T21:30:00Z" href="http://www.animenewsnetwork.com/news/2011-09-20/ny-anime-fest-to-host-u.s-premieres-of-guilty-crown-fate/zero">NY Anime Fest to Host U.S. Premieres of &lt;cite&gt;Guilty Crown&lt;/cite&gt;, &lt;cite&gt;Fate/Zero&lt;/cite&gt;</news>
+<news datetime="2011-09-21T02:30:47Z" href="http://www.animenewsnetwork.com/news/2011-09-20/aniplex-to-stream-fate/zero-worldwide-in-8-languages">Aniplex to Stream &lt;cite&gt;Fate/Zero&lt;/cite&gt; Worldwide in 8 Subbed Languages</news>
+<news datetime="2011-09-24T23:00:00Z" href="http://www.animenewsnetwork.com/news/2011-09-24/fate/zero-tv-anime-kariya-mato/berserker-ads-streamed">&lt;cite&gt;Fate/Zero&lt;/cite&gt; TV Anime's Kariya Matō/Berserker Ads Streamed</news>
+<news datetime="2011-09-27T00:00:00Z" href="http://www.animenewsnetwork.com/news/2011-09-26/singapore-anime-festival-asia-announces-guest-lineup-theme-song">Singapore's Anime Festival Asia Announces Guest Lineup, Theme Song</news>
+<news datetime="2011-09-27T08:45:00Z" href="http://www.animenewsnetwork.com/news/2011-09-27/japan-animation-blu-ray-disc-ranking/september-19-25">Japan's Animation Blu-ray Disc Ranking: September 19-25</news>
+<news datetime="2011-09-27T14:40:00Z" href="http://www.animenewsnetwork.com/news/2011-09-27/japan-animation-dvd-ranking-september-19-25">Japan's Animation DVD Ranking, September 19-25</news>
+<news datetime="2012-01-22T14:45:20Z" href="http://www.animenewsnetwork.com/news/2012-01-23/weekly-wrapup-15/jan-21/jan">Weekly Wrapup 15/Jan - 21/Jan</news>
+<news datetime="2011-10-01T12:30:00Z" href="http://www.animenewsnetwork.com/news/2011-10-01/fate/zero-tv-anime-tokiomi-tohsaka/archer-ad-streamed">&lt;cite&gt;Fate/Zero&lt;/cite&gt; TV Anime's Tokiomi Tohsaka/Archer Ad Streamed</news>
+<news datetime="2011-10-04T11:45:00Z" href="http://www.animenewsnetwork.com/news/2011-10-04/japan-animation-blu-ray-disc-ranking/september-26-october-2">Japan's Animation Blu-ray Disc Ranking: September 26-October 2</news>
+<news datetime="2011-10-06T12:30:00Z" href="http://www.animenewsnetwork.com/news/2011-10-06/fate/zero-bd-box-release-to-add-cut-scenes">&lt;cite&gt;Fate/Zero&lt;/cite&gt; BD Box Release to Add Cut Scenes</news>
+<news datetime="2011-10-09T17:45:00Z" href="http://www.animenewsnetwork.com/news/2011-10-09/madoka-magica-wins-12-of-21-newtype-anime-awards">&lt;cite&gt;Madoka Magica&lt;/cite&gt; Wins 12 of 21 Newtype Anime Awards</news>
+<news datetime="2011-10-10T03:57:00Z" href="http://www.animenewsnetwork.com/news/2011-10-09/japan-animation-dvd-ranking-september-26-october-2">Japan's Animation DVD Ranking, September 26-October 2</news>
+<news datetime="2011-10-11T08:55:00Z" href="http://www.animenewsnetwork.com/news/2011-10-11/japan-animation-blu-ray-disc-ranking/october-3-9">Japan's Animation Blu-ray Disc Ranking: October 3-9</news>
+<news datetime="2011-10-14T16:46:00Z" href="http://www.animenewsnetwork.com/news/2011-10-14/madoka-magica-to-get-english-bds-starting-february-14">&lt;cite&gt;Madoka Magica&lt;/cite&gt; to Get English BDs Starting February 14</news>
+<news datetime="2011-10-31T11:45:00Z" href="http://www.animenewsnetwork.com/news/2011-10-31/madoka-magica-nominated-for-nihon-sf-taisho-award">&lt;cite&gt;Madoka Magica&lt;/cite&gt; Nominated for Nihon SF Taishō Award</news>
+<news datetime="2011-11-07T14:15:15Z" href="http://www.animenewsnetwork.com/news/2011-11-07/madoka-magica-film-project-launches">&lt;cite&gt;Madoka Magica&lt;/cite&gt; Film Project Launches</news>
+<news datetime="2011-11-08T08:00:00Z" href="http://www.animenewsnetwork.com/news/2011-11-08/madoka-magica-film-project-to-be-trilogy">&lt;cite&gt;Madoka Magica&lt;/cite&gt; Film Project to Be Trilogy</news>
+<news datetime="2011-11-09T07:45:00Z" href="http://www.animenewsnetwork.com/news/2011-11-09/houbunsha-ume-aoki-to-start-manga-time-kirara-carino-mag">Houbunsha, Ume Aoki to Start &lt;cite&gt;Manga Time Kirara Carino&lt;/cite&gt; Mag</news>
+<news datetime="2011-11-10T16:20:00Z" href="http://www.animenewsnetwork.com/news/2011-11-10/lone-wolf-and-cub-koike-to-create-magical-girl-story">&lt;cite&gt;Lone Wolf &amp; Cub's&lt;/cite&gt; Koike to Create Magical Girl Story</news>
+<news datetime="2011-12-01T04:46:07Z" href="http://www.animenewsnetwork.com/news/2011-12-01/madman-entertainment-announces-new-acquisitions-for-2012">Madman Entertainment Announces New Acquisitions For 2012</news>
+<news datetime="2011-12-01T19:31:02Z" href="http://www.animenewsnetwork.com/news/2011-12-01/aniplex-confirms-u.s-release-of-fate/zero-bd-boxes">Aniplex Confirms U.S. Release of &lt;cite&gt;Fate/Zero&lt;/cite&gt; BD Boxes</news>
+<news datetime="2011-12-04T19:00:00Z" href="http://www.animenewsnetwork.com/news/2011-12-05/weekly-wrapup-27/nov-3/dec">Weekly Wrapup 27/Nov - 3/Dec</news>
+<news datetime="2011-12-12T04:30:54Z" href="http://www.animenewsnetwork.com/news/2011-12-11/karyu-no-miya-wins-japanese-sci-fi-award-over-madoka-magica">&lt;cite&gt;Karyu no Miya&lt;/cite&gt; Wins Japanese Sci-Fi Award Over &lt;cite&gt;Madoka Magica&lt;/cite&gt;</news>
+<news datetime="2011-12-15T06:30:00Z" href="http://www.animenewsnetwork.com/news/2011-12-15/madoka-magica-saturn-apartments-win-media-arts-awards">&lt;cite&gt;Madoka Magica, Saturn Apartments&lt;/cite&gt; Win Media Arts Awards</news>
+<news datetime="2011-12-17T03:22:39Z" href="http://www.animenewsnetwork.com/news/2011-12-16/madoka-magica-english-dubbed-trailer-streamed">&lt;cite&gt;Madoka Magica&lt;/cite&gt; English-Dubbed Trailer Streamed</news>
+<news datetime="2011-12-24T16:25:00Z" href="http://www.animenewsnetwork.com/news/2011-12-24/nisemongatari-anime-program-tv-ad-streamed">&lt;cite&gt;Nisemonogatari&lt;/cite&gt; Anime's Program TV Ad Streamed</news>
+<news datetime="2011-12-27T16:50:45Z" href="http://www.animenewsnetwork.com/news/2011-12-27/japan-women-soccer-world-cup-champion-inspires-manga">Japan's Women's Soccer World Cup Champion Inspires Manga</news>
+<news datetime="2011-12-27T21:45:00Z" href="http://www.animenewsnetwork.com/news/2011-12-27/1st-anime-contents-expo-title-list-announced">1st Anime Contents Expo's Title List Announced</news>
+<news datetime="2012-01-03T04:39:19Z" href="http://www.animenewsnetwork.com/news/2012-01-02/gen-urobuchi-confirms-he-is-writing-fate/zero-drama-cd">Gen Urobuchi Confirms He Is Writing &lt;cite&gt;Fate/Zero&lt;/cite&gt; Drama CD</news>
+<news datetime="2012-01-03T19:53:19Z" href="http://www.animenewsnetwork.com/news/2012-01-03/crunchyroll-to-simulcast-nisemonogatari-anime">Crunchyroll to Simulcast &lt;cite&gt;Nisemonogatari&lt;/cite&gt; Anime</news>
+<news datetime="2012-02-02T15:50:47Z" href="http://www.animenewsnetwork.com/news/2012-02-02/1st-madoka-magica-episode-streamed-in-english-in-6-countries">1st &lt;cite&gt;Madoka Magica&lt;/cite&gt; Episode Streamed in English in 6 Countries</news>
+<news datetime="2012-02-05T21:00:33Z" href="http://www.animenewsnetwork.com/news/2012-02-05/north-american-stream-list/jan-30-feb-5">North American Stream List: Jan. 30-Feb. 5</news>
+<news datetime="2012-02-14T23:00:00Z" href="http://www.animenewsnetwork.com/news/2012-02-14/north-american-anime-manga-releases-february-12-18">North American Anime, Manga Releases, February 12-18</news>
+<news datetime="2012-02-15T21:00:00Z" href="http://www.animenewsnetwork.com/news/2012-02-15/crackle-hulu-also-stream-puella-magi-madoka-magica-anime">Crackle, Hulu Also Stream &lt;cite&gt;Puella Magi Madoka Magica&lt;/cite&gt; Anime</news>
+<news datetime="2012-02-16T06:30:45Z" href="http://www.animenewsnetwork.com/news/2012-02-16/poppy-hill-madoka-magica-tiger-and-bunny-win-tokyo-anime-fair-awards">&lt;cite&gt;Poppy Hill, Madoka Magica, Tiger &amp; Bunny&lt;/cite&gt; Win Tokyo Anime Fair's Awards</news>
+<news datetime="2012-02-20T00:30:00Z" href="http://www.animenewsnetwork.com/news/2012-02-19/north-american-stream-list/feb-13-19">North American Stream List: Feb. 13-19</news>
+<news datetime="2012-02-22T04:33:59Z" href="http://www.animenewsnetwork.com/news/2012-02-21/man-arrested-for-uploading-madoka-magica-via-share-program">Man Arrested for Uploading &lt;cite&gt;Madoka Magica&lt;/cite&gt; via Share Program</news>
+<news datetime="2012-02-27T04:10:47Z" href="http://www.animenewsnetwork.com/news/2012-02-26/north-american-stream-list/feb.ruary-20-26">North American Stream List: February 20-26</news>
+<news datetime="2012-02-27T16:03:09Z" href="http://www.animenewsnetwork.com/news/2012-02-28/voice-actor-cristina-vee-attending-supanova-as-special-guest">Voice Actor Cristina Vee Attending Supanova As Special Guest</news>
+<news datetime="2012-02-27T18:30:00Z" href="http://www.animenewsnetwork.com/news/2012-02-27/fate/zero-bd-box-i-extras-trailer-streamed">&lt;cite&gt;Fate/Zero&lt;/cite&gt; BD Box I's Extras Trailer Streamed</news>
+<news datetime="2012-03-21T20:00:00Z" href="http://www.animenewsnetwork.com/news/2012-03-21/5th-madoka-magica-episode-streamed-in-english-in-6-countries">5th &lt;cite&gt;Madoka Magica&lt;/cite&gt; Episode Streamed in English in 6 Countries</news>
+<news datetime="2012-04-01T01:09:55Z" href="http://www.animenewsnetwork.com/news/2012-03-31/2012-madoka-magica-film-2-parts-titled">2012 &lt;cite&gt;Madoka Magica&lt;/cite&gt; Film's 2 Parts Titled</news>
+<news datetime="2012-04-10T21:00:00Z" href="http://www.animenewsnetwork.com/news/2012-04-10/north-american-anime-manga-releases-april-8-14">North American Anime, Manga Releases, April 8-14</news>
+<news datetime="2012-04-28T12:00:00Z" href="http://www.animenewsnetwork.com/news/2012-04-28/megami-magazine-spirits-to-launch-with-madoka-magica">&lt;cite&gt;Megami Magazine Spirits&lt;/cite&gt; to Launch with &lt;cite&gt;Madoka Magica&lt;/cite&gt;</news>
+<news datetime="2012-05-22T13:45:00Z" href="http://www.animenewsnetwork.com/news/2012-05-22/last-madoka-magica-episode-to-be-streamed-in-english">Last &lt;cite&gt;Madoka Magica&lt;/cite&gt; Episode to Be Streamed in English</news>
+<news datetime="2012-05-27T19:53:03Z" href="http://www.animenewsnetwork.com/news/2012-05-27/u.k-anime-industry-announcements-at-mcm-expo">U.K. Anime Industry Announcements at MCM Expo (Updated)</news>
+<news datetime="2012-05-30T23:58:16Z" href="http://www.animenewsnetwork.com/news/2012-05-31/manga-releasing-puella-magi-madoka-magica-on-bd/dvd-october-22">Manga Releasing &lt;i&gt;Puella Magi Madoka Magica&lt;/i&gt; on BD/DVD October 22</news>
+<news datetime="2012-06-07T02:48:28Z" href="http://www.animenewsnetwork.com/news/2012-06-06/madoka-magica-films-slated-for-october-6-and-13">&lt;cite&gt;Madoka Magica&lt;/cite&gt; Films Slated for October 6 &amp; 13</news>
+<news datetime="2012-06-12T23:00:00Z" href="http://www.animenewsnetwork.com/news/2012-06-12/north-american-anime-manga-releases-june-10-16">North American Anime, Manga Releases, June 10-16</news>
+<news datetime="2012-06-18T23:02:45Z" href="http://www.animenewsnetwork.com/news/2012-06-19/manga-entertainment-updates">Manga Entertainment Updates</news>
+<news datetime="2012-06-25T17:08:57Z" href="http://www.animenewsnetwork.com/news/2012-06-25/otakon-to-host-ai-nonaka-voice-of-madoka-magica-kyoko">Otakon to Host Ai Nonaka, Voice of &lt;dfn&gt;Madoka Magica's&lt;/dfn&gt; Kyoko</news>
+<news datetime="2012-07-02T20:00:00Z" href="http://www.animenewsnetwork.com/news/2012-07-02/one-piece-madoka-magica-win-licensing-of-the-year-awards">&lt;cite&gt;One Piece, Madoka Magica&lt;/cite&gt; Win Licensing of the Year Awards</news>
+<news datetime="2012-08-08T14:30:59Z" href="http://www.animenewsnetwork.com/news/2012-08-08/manga-entertainment-confirms-october-release-dates">Manga Entertainment Confirms October Release Dates</news>
+<news datetime="2012-08-19T00:28:41Z" href="http://www.animenewsnetwork.com/news/2012-08-18/last-madoka-magica-key-animation-note-delayed-1-month">Last &lt;cite&gt;Madoka Magica Key Animation Note&lt;/cite&gt; Delayed 1 Month</news>
+<news datetime="2012-10-03T13:04:21Z" href="http://www.animenewsnetwork.com/news/2012-10-03/video/new-manga-entertainment-trailers">Video: New Manga Entertainment Trailers</news>
+<news datetime="2012-10-28T07:17:13Z" href="http://www.animenewsnetwork.com/news/2012-10-28/puella-magi-madoka-magica-released-monday-on-blu-ray-and-dvd">&lt;i&gt;Puella Magi Madoka Magica&lt;/i&gt; Released Monday on Blu-ray and DVD</news>
+<news datetime="2012-11-12T15:51:13Z" href="http://www.animenewsnetwork.com/news/2012-11-12/1st-2-madoka-magica-films-earn-over-1-billion-yen">1st 2 &lt;cite&gt;Madoka Magica&lt;/cite&gt; Films Earn Over 1 Billion Yen</news>
+<news datetime="2013-02-16T04:51:58Z" href="http://www.animenewsnetwork.com/news/2013-02-15/remote-virus-suspect-bought-same-madoka-nendoroid-seen-in-suicide-note">'Remote Virus' Suspect Bought Same Madoka Nendoroid Seen in Suicide Note</news>
+<news datetime="2013-03-08T15:00:00Z" href="http://www.animenewsnetwork.com/news/2013-03-08/hidamari-sketch-graduation-episode-promo-streamed">&lt;cite&gt;Hidamari Sketch&lt;/cite&gt;'s Graduation Episode Promo Streamed</news>
+<news datetime="2013-05-16T02:05:47Z" href="http://www.animenewsnetwork.com/news/2013-05-15/daisuki-anime-streaming-site-launches">Daisuki Anime Streaming Site Launches</news>
+<news datetime="2013-06-18T01:46:21Z" href="http://www.animenewsnetwork.com/news/2013-06-18/puelli-magi-madoka-magica-to-screen-on-australian-free-to-air-from-end-of-june">Puelli Magi Madoka Magica to screen on Australian Free to Air from end of June</news>
+<news datetime="2013-07-06T02:41:24Z" href="http://www.animenewsnetwork.com/news/2013-07-05/viz-media-adds-gargantia-blood-lad-tv-anime">Viz Media Adds &lt;cite&gt;Gargantia, Blood Lad&lt;/cite&gt; TV Anime</news>
+<news datetime="2013-07-09T06:29:21Z" href="http://www.animenewsnetwork.com/news/2013-07-09/madoka-magica-anime-earns-over-40-billion-yen-in-goods">&lt;cite&gt;Madoka Magica&lt;/cite&gt; Anime Earns Over 40 Billion Yen in Goods</news>
+<news datetime="2013-07-30T08:25:25Z" href="http://www.animenewsnetwork.com/news/2013-07-30/japan-animation-blu-ray-disc-ranking-july-22-28">Japan's Animation Blu-ray Disc Ranking, July 22-28</news>
+<news datetime="2013-09-03T01:45:00Z" href="http://www.animenewsnetwork.com/interest/2013-09-02/kana-asumi-voices-new-magical-girl-in-3rd-madoka-magica-film">Kana Asumi Voices New Magical Girl in 3rd &lt;cite&gt;Madoka Magica&lt;/cite&gt; Film</news>
+<news datetime="2013-09-20T14:50:00Z" href="http://www.animenewsnetwork.com/news/2013-09-20/buy-madoka-magica-for-vita-chat-with-homura-and-mami-on-phone-hotline">Buy Madoka Magica for Vita, Chat With Homura &amp; Mami on Phone Hotline</news>
+<news datetime="2013-09-28T02:30:00Z" href="http://www.animenewsnetwork.com/news/2013-09-27/infinite-stratos-2-anime-promo-previews-opening-song">&lt;cite&gt;Infinite Stratos 2&lt;/cite&gt; Anime's Promo Previews Opening Song</news>
+<news datetime="2013-10-26T03:37:26Z" href="http://www.animenewsnetwork.com/news/2013-10-25/d-fragments-tv-anime-staff-cast-unveiled">&lt;cite&gt;D-Fragments&lt;/cite&gt; TV Anime's Staff, Cast Unveiled</news>
+<news datetime="2014-01-14T13:00:10Z" href="http://www.animenewsnetwork.com/news/2014-01-14/manga-entertainment-licenses-gargantia-on-the-verdurous-planet">Manga Entertainment Licenses &lt;i&gt;Gargantia on the Verdurous Planet&lt;/i&gt;</news>
+<news datetime="2014-11-08T13:00:00Z" href="http://www.animenewsnetwork.com:/news/2014-11-08/madoka-magica-characters-get-cameos-in-princess-punt-mobile-game/.80796">&lt;cite&gt;Madoka Magica&lt;/cite&gt; Characters Get Cameos in &lt;cite&gt;Princess Punt&lt;/cite&gt; Mobile Game</news>
+<news datetime="2015-06-01T08:00:00Z" href="http://www.animenewsnetwork.com:/news/2015-06-01/free-anime-in-australia-1-june-7-june/.88789">Free Anime in Australia: 1/June - 7/June</news>
+<news datetime="2015-08-31T08:00:00Z" href="http://www.animenewsnetwork.com:/news/2015-08-31/free-anime-in-australia-31-august-6-september/.92336">Free Anime in Australia: 31/August - 6/September</news>
+<news datetime="2015-11-26T18:10:00Z" href="http://www.animenewsnetwork.com:/news/2015-11-26/madoka-magica-concept-movie-hints-at-new-work/.95830">&lt;cite&gt;Madoka Magica&lt;/cite&gt; 'Concept Movie' Hints at New Work</news>
+<news datetime="2015-12-08T06:00:00Z" href="http://www.animenewsnetwork.com:/news/2015-12-08/madoka-magica-concept-movie-will-be-core-of-new-project/.96224">&lt;cite&gt;Madoka Magica&lt;/cite&gt; Concept Movie Will Be Core of New Project</news>
+<staff gid="2402054452"><task>Series Director</task><person id="61248">Yukihiro Miyamoto</person></staff>
+<staff gid="2032659790"><task>Director</task><person id="1610">Akiyuki Shinbo</person></staff>
+<staff gid="859939973"><task>Series Composition</task><person id="68860">Gen Urobuchi</person></staff>
+<staff gid="2609451785"><task>Script</task><person id="68860">Gen Urobuchi</person></staff>
+<staff gid="2481927791"><task>Storyboard</task><person id="1724">Shinsaku Sasaki</person></staff>
+<staff gid="2310829942"><task>Storyboard</task><person id="5852">Yoshiharu Ashino</person></staff>
+<staff gid="1512260119"><task>Storyboard</task><person id="15734">Masayoshi Nishida</person></staff>
+<staff gid="2931213783"><task>Storyboard</task><person id="20712">Shinichi Omata</person></staff>
+<staff gid="2286234798"><task>Storyboard</task><person id="65000">Tomohiko Ito</person></staff>
+<staff gid="984189005"><task>Storyboard</task><person id="79397">Tomoyuki Itamura</person></staff>
+<staff gid="2573350897"><task>Storyboard</task><person id="99793">Noriko Nanashima</person></staff>
+<staff gid="1391424835"><task>Episode Director</task><person id="20712">Shinichi Omata</person></staff>
+<staff gid="2900295889"><task>Episode Director</task><person id="49283">Yuki Yase</person></staff>
+<staff gid="668824058"><task>Episode Director</task><person id="51185">Fujiaki Asari</person></staff>
+<staff gid="2984383429"><task>Episode Director</task><person id="51192">Takahiro Majima</person></staff>
+<staff gid="2583334319"><task>Episode Director</task><person id="61248">Yukihiro Miyamoto</person></staff>
+<staff gid="2339822928"><task>Episode Director</task><person id="75018">Masahiro Mukai</person></staff>
+<staff gid="907464845"><task>Episode Director</task><person id="75410">Toshiaki Kidokoro</person></staff>
+<staff gid="3488018610"><task>Episode Director</task><person id="79397">Tomoyuki Itamura</person></staff>
+<staff gid="1864354126"><task>Episode Director</task><person id="82057">Kotono Watanabe</person></staff>
+<staff gid="2667441062"><task>Episode Director</task><person id="83166">Takashi Kawabata</person></staff>
+<staff gid="1671249344"><task>Music</task><person id="3914">Yuki Kajiura</person></staff>
+<staff gid="2671054327"><task>Original Character Design</task><person id="58763">Ume Aoki</person></staff>
+<staff gid="1372205781"><task>Character Design</task><person id="32">Takahiro Kishida</person></staff>
+<staff gid="2180966152"><task>Art Director</task><person id="59346">Kunihiko Inaba</person></staff>
+<staff gid="990245145"><task>Chief Animation Director</task><person id="13590">Mika Takahashi</person></staff>
+<staff gid="2831621444"><task>Chief Animation Director</task><person id="26469">Junichiro Taniguchi</person></staff>
+<staff gid="2004785211"><task>Animation Director</task><person id="3615">Masahiro Sekiguchi</person></staff>
+<staff gid="1728560867"><task>Animation Director</task><person id="5833">Tomoaki Kado</person></staff>
+<staff gid="1560628050"><task>Animation Director</task><person id="10443">Shinichi Miyamae</person></staff>
+<staff gid="1077503996"><task>Animation Director</task><person id="11869">Naoto Nakamura</person></staff>
+<staff gid="904148598"><task>Animation Director</task><person id="13590">Mika Takahashi</person></staff>
+<staff gid="2452128258"><task>Animation Director</task><person id="18928">Toshiyuki Fujisawa</person></staff>
+<staff gid="2646049213"><task>Animation Director</task><person id="19927">Miyuki Katayama</person></staff>
+<staff gid="1276177722"><task>Animation Director</task><person id="26469">Junichiro Taniguchi</person></staff>
+<staff gid="1698275896"><task>Animation Director</task><person id="33121">Yoshiaki Ito</person></staff>
+<staff gid="2705813907"><task>Animation Director</task><person id="33289">Ryo Kobayashi</person></staff>
+<staff gid="1607004483"><task>Animation Director</task><person id="34057">Junichi Fukunaga</person></staff>
+<staff gid="4243026224"><task>Animation Director</task><person id="41405">Yuuji Kondou</person></staff>
+<staff gid="1780640783"><task>Animation Director</task><person id="41666">Ryouma Ebata</person></staff>
+<staff gid="1465487709"><task>Animation Director</task><person id="47024">Kazuya Shiotsuki</person></staff>
+<staff gid="1810648900"><task>Animation Director</task><person id="48439">Noboru Jitsuhara</person></staff>
+<staff gid="672175392"><task>Animation Director</task><person id="51373">Masaru Koseki</person></staff>
+<staff gid="1336094103"><task>Animation Director</task><person id="51394">Fuyumi Toriyama</person></staff>
+<staff gid="130334118"><task>Animation Director</task><person id="60969">Yasutoshi Iwasaki</person></staff>
+<staff gid="3040690326"><task>Animation Director</task><person id="71567">Kazuhisa Kosuga</person></staff>
+<staff gid="2093083223"><task>Animation Director</task><person id="77715">Motoki Matsumoto</person></staff>
+<staff gid="1018502743"><task>Animation Director</task><person id="78627">Tomohiro Kamitani</person></staff>
+<staff gid="2089209765"><task>Animation Director</task><person id="78996">Jun Hanzawa</person></staff>
+<staff gid="3977117172"><task>Animation Director</task><person id="80810">Hitoshi Miyajima</person></staff>
+<staff gid="916896285"><task>Animation Director</task><person id="82556">Mayuko Matsumoto</person></staff>
+<staff gid="2961564783"><task>Animation Director</task><person id="99694">Akiyuki Matsumoto</person></staff>
+<staff gid="3271778347"><task>Animation Director</task><person id="99794">Akihiko Itō</person></staff>
+<staff gid="2292754038"><task>Animation Director</task><person id="107452">Yoshino Honda</person></staff>
+<staff gid="2109398761"><task>Sound Director</task><person id="254">Yota Tsuruoka</person></staff>
+<staff gid="1417702189"><task>Director of Photography</task><person id="59896">Shinichiro Eto</person></staff>
+<staff gid="1579236913"><task>Producer</task><person id="13586">Hiro Maruyama</person></staff>
+<staff gid="1423323647"><task>Producer</task><person id="20984">Atsuhiro Iwakami</person></staff>
+<staff gid="2392725493"><task>Producer</task><person id="39394">Kozue Kananiwa</person></staff>
+<staff gid="2705555030"><task>Producer</task><person id="80255">Osamu Hosokawa</person></staff>
+<staff gid="2510365652"><task>Producer</task><person id="90274">Ikuo Kato</person></staff>
+<staff gid="3787390664"><task>Producer</task><person id="98396">Yoshinao Doi</person></staff>
+<cast gid="1424434892" lang="DE"><role>Kyubey</role><person id="22723">Rubina Kuraoka</person></cast>
+<cast gid="765198162" lang="DE"><role>Mami Tomoe</role><person id="22745">Julia Meynen</person></cast>
+<cast gid="620549560" lang="DE"><role>Kyouko Sakura</role><person id="22747">Ilona Otto</person></cast>
+<cast gid="2735791174" lang="DE"><role>Tomohisa Kaname</role><person id="30216">Jaron Löwenberg</person></cast>
+<cast gid="1792870916" lang="DE"><role>Kazuko Saotome</role><person id="31506">Silvia Missbach</person></cast>
+<cast gid="1835834435" lang="DE"><role>Madoka Kaname</role><person id="33571">Lydia Morgenstern</person></cast>
+<cast gid="1810415951" lang="DE"><role>Sayaka Miki</role><person id="47284">Esra Vural</person></cast>
+<cast gid="3083529980" lang="DE"><role>Homura Akemi</role><person id="47936">Kaya Möller</person></cast>
+<cast gid="2978978254" lang="DE"><role>Junko Kaname</role><person id="61241">Katrin Zimmermann</person></cast>
+<cast gid="1757021990" lang="DE"><role>Kyousuke Kamijou</role><person id="65799">Christian Zeiger</person></cast>
+<cast gid="1272882783" lang="DE"><role>Hitomi Shizuki</role><person id="70250">Josephine Schmidt</person></cast>
+<cast gid="2494355856" lang="EN"><role>Tomohisa Kaname</role><person id="1390">Kyle Hebert</person></cast>
+<cast gid="2350950248" lang="EN"><role>Mami Tomoe</role><person id="2563">Carrie Keranen</person></cast>
+<cast gid="2581178236" lang="EN"><role>Junko Kaname</role><person id="7107">Carrie Savage</person></cast>
+<cast gid="2872293674" lang="EN"><role>Kazuko Saotome</role><person id="7109">Karen Strassman</person></cast>
+<cast gid="2041342401" lang="EN"><role>Kyosuke Kamijo</role><person id="59220">Marianne Miller</person></cast>
+<cast gid="2656647901" lang="EN"><role>Homura Akemi</role><person id="68135">Cristina Vee</person></cast>
+<cast gid="1834952093" lang="EN"><role>Kyoko Sakura</role><person id="70779">Lauren Landa</person></cast>
+<cast gid="2824529515" lang="EN"><role>Hitomi Shizuki</role><person id="70781">Shelby Lindley</person></cast>
+<cast gid="1480322324" lang="EN"><role>Madoka Kaname</role><person id="95337">Christine Marie Cabanos</person></cast>
+<cast gid="836256390" lang="EN"><role>Kyubey</role><person id="95781">Cassandra Lee</person></cast>
+<cast gid="2681620773" lang="EN"><role>Sayaka Miki</role><person id="104914">Sarah Williams</person></cast>
+<cast gid="1809504702" lang="ES"><role>Tomohisa Kaname</role><person id="32388">Carlos Lladó</person></cast>
+<cast gid="1959488598" lang="ES"><role>Madoka Kaname</role><person id="32390">Carmen Ambrós</person></cast>
+<cast gid="1623736720" lang="ES"><role>Junko Kaname</role><person id="50521">Maria Rosa Guillén</person></cast>
+<cast gid="2515655280" lang="ES"><role>Kazuko Saotome</role><person id="50521">Maria Rosa Guillén</person></cast>
+<cast gid="2066952762" lang="ES"><role>Sayaka Miki</role><person id="50562">Carmen Calvell</person></cast>
+<cast gid="2668767640" lang="ES"><role>Homura Akemi</role><person id="50568">Ariadna Jiménez</person></cast>
+<cast gid="1788775063" lang="ES"><role>Tatsuya Kaname</role><person id="50568">Ariadna Jiménez</person></cast>
+<cast gid="2133123110" lang="ES"><role>Kyosuke Kamijo</role><person id="68581">Cesc Martínez</person></cast>
+<cast gid="1884904796" lang="ES"><role>Kyoko Sakura</role><person id="124203">Marga López</person></cast>
+<cast gid="2405884441" lang="ES"><role>Hitomi Shizuki</role><person id="124235">Assumpta Massut��</person></cast>
+<cast gid="1587192324" lang="ES"><role>Mami Tomoe</role><person id="124236">Violeta Bibiloni</person></cast>
+<cast gid="2249050578" lang="ES"><role>Kyubey</role><person id="127345">Inmaculada Villalonga</person></cast>
+<cast gid="2649179784" lang="IT"><role>Kyubei</role><person id="66105">Loretta Di Pisa</person></cast>
+<cast gid="2961058473" lang="IT"><role>Madoka Kaname</role><person id="70851">Joy Saltarelli</person></cast>
+<cast gid="1559527712" lang="IT"><role>Homura Akemi</role><person id="71347">Alessia Amendola</person></cast>
+<cast gid="2205066334" lang="JA"><role>Kazuko Saotome</role><person id="777">Junko Iwao</person></cast>
+<cast gid="2585651641" lang="JA"><role>Tomohisa Kaname</role><person id="955">Tetsuya Iwanaga</person></cast>
+<cast gid="1715759146" lang="JA"><role>Mami Tomoe</role><person id="5179">Kaori Mizuhashi</person></cast>
+<cast gid="1481872721" lang="JA"><role>Tatsuya Kaname</role><person id="5179">Kaori Mizuhashi</person></cast>
+<cast gid="2235109638" lang="JA"><role>Junko Kaname</role><person id="12602">Yuko Goto</person></cast>
+<cast gid="1883205931" lang="JA"><role>Kyōko Sakura</role><person id="13321">Ai Nonaka</person></cast>
+<cast gid="3033369065" lang="JA"><role>Homura Akemi</role><person id="13834">Chiwa Saito</person></cast>
+<cast gid="2677391683" lang="JA"><role>Sayaka Miki</role><person id="13838">Eri Kitamura</person></cast>
+<cast gid="2533499932" lang="JA"><role>Kyubey</role><person id="28606">Emiri Katō</person></cast>
+<cast gid="791148566" lang="JA"><role>Hitomi Shizuki</role><person id="30284">Ryoko Shintani</person></cast>
+<cast gid="2433787144" lang="JA"><role>Madoka Kaname</role><person id="68107">Aoi Yūki</person></cast>
+<cast gid="900493092" lang="JA"><role>Kyōsuke Kamijō</role><person id="71294">Seiko Yoshida</person></cast>
+<credit gid="3757478282"><task>Animation Production</task><company id="677">SHAFT</company></credit>
+<credit gid="1937060622"><task>Production</task><company id="52">MOVIC</company></credit>
+<credit gid="3050903159"><task>Production</task><company id="677">SHAFT</company></credit>
+<credit gid="1937258827"><task>Production</task><company id="1257">Aniplex</company></credit>
+<credit gid="2350719667"><task>Production</task><company id="1583">Nitroplus</company></credit>
+<credit gid="332652356"><task>Production</task><company id="3519">Hakuhodo DY Media Partners</company></credit>
+<credit gid="744794759"><task>Production</task><company id="5873">Houbunsha</company></credit>
+<credit gid="3773037740"><task>Production</task><company id="9623">Madoka Partners</company></credit>
+<credit gid="2007908216"><task>Production</task><company id="10442">Mainichi Broadcasting System</company></credit></anime></ann>

@@ -1,0 +1,53 @@
+<ann><anime id="10961" gid="1532565482" type="OAV" name="Mobile Suit Gundam 00 Special Edition" precision="OAV" generated-on="2016-03-27T05:51:26Z">
+<related-prev rel="part of" id="4189"/>
+<related-prev rel="compilation of" id="8190"/>
+<related-prev rel="compilation of" id="10157"/>
+<info gid="1686357881" type="Main title" lang="EN">Mobile Suit Gundam 00 Special Edition</info>
+<info gid="490426889" type="Alternative title" lang="JA">Kidō Senshi Gundam 00 Special Edition</info>
+<info gid="273325550" type="Alternative title" lang="JA">機動戦士ガンダム00 スペシャルエディション</info>
+<info gid="470343421" type="Genres">action</info>
+<info gid="3100486807" type="Genres">drama</info>
+<info gid="2690448506" type="Genres">science fiction</info>
+<info gid="3441614060" type="Themes">mecha</info>
+<info gid="1307383972" type="Themes">military</info>
+<info gid="680097933" type="Themes">real robot</info>
+<info gid="2930706883" type="Themes">war</info>
+<info gid="1787045775" type="Objectionable content">TA</info>
+<info gid="2246695216" type="Running time">90</info>
+<info gid="2198318299" type="Number of episodes">3</info>
+<info gid="206261550" type="Vintage">2009-10-27 (Volume 1)</info>
+<info gid="1700673997" type="Vintage">2009-12-22 (Volume 2)</info>
+<info gid="1737943792" type="Vintage">2010-02-23 (Volume 3)</info>
+<info gid="1287296066" type="Ending Theme">#01: &quot;I (ai)&quot; by Mille Face</info>
+<info gid="3466543318" type="Ending Theme">#02: &quot;Core&quot; by Mille Face</info>
+<info gid="1557209410" type="Ending Theme">#03: &quot;Refrain&quot; by Mille Face</info>
+<info gid="3379174055" type="Official website" lang="JA" href="http://www.gundam00.net"></info>
+<ratings nb_votes="35" weighted_score="7.7274" bayesian_score="7.67201"/>
+<episode num="1">
+<title gid="2987020940" lang="EN">Celestial Being</title></episode>
+<episode num="2">
+<title gid="3645540772" lang="EN">End of World</title></episode>
+<episode num="3">
+<title gid="1573448579" lang="EN">Return the World</title></episode>
+<news datetime="2009-11-11T03:38:47Z" href="http://www.animenewsnetwork.com/news/2009-11-10/japanese-animation-dvd-ranking-november-2-8">Japanese Animation DVD Ranking, November 2-8</news>
+<news datetime="2009-11-12T13:50:08Z" href="http://www.animenewsnetwork.com/news/2009-11-12/japan-animation-blu-ray-disc-ranking-november-2-8">Japan's Animation Blu-ray Disc Ranking, November 2-8</news>
+<news datetime="2009-11-18T03:12:02Z" href="http://www.animenewsnetwork.com/news/2009-11-17/japanese-animation-dvd-ranking-november-9-15">Japanese Animation DVD Ranking, November 9-15</news>
+<news datetime="2009-11-19T13:26:51Z" href="http://www.animenewsnetwork.com/news/2009-11-19/japan-animation-blu-ray-disc-ranking-november-9-15">Japan's Animation Blu-ray Disc Ranking, November 9-15</news>
+<staff gid="3079563987"><task>Director</task><person id="3891">Seiji Mizushima</person></staff>
+<staff gid="1788076835"><task>Screenplay</task><person id="515">Yousuke Kuroda</person></staff>
+<staff gid="1283429972"><task>Music</task><person id="140">Kenji Kawai</person></staff>
+<staff gid="1117343463"><task>Original creator</task><person id="19">Hajime Yatate</person></staff>
+<staff gid="3781598054"><task>Original creator</task><person id="100">Yoshiyuki Tomino</person></staff>
+<staff gid="2946345490"><task>Character Design</task><person id="8334">Michinori Chiba</person></staff>
+<staff gid="3481172263"><task>Character Design</task><person id="28742">Yun Kouga</person></staff>
+<staff gid="3937593795"><task>Animation Director</task><person id="2628">Kenichi Ohnuki</person></staff>
+<staff gid="1363077651"><task>Animation Director</task><person id="11208">Ken Ootsuka</person></staff>
+<staff gid="1099267108"><task>Animation Director</task><person id="14471">Seiichi Nakatani</person></staff>
+<staff gid="3718210795"><task>Animation Director</task><person id="20775">Takuro Shinbo</person></staff>
+<staff gid="2469153117"><task>Animation Director</task><person id="22551">Kenichi Takase</person></staff>
+<cast gid="2047027034" lang="JA"><role>Allelujah Haptism</role><person id="507">Hiroyuki Yoshino</person></cast>
+<cast gid="1969318574" lang="JA"><role>Lockon Stratos</role><person id="659">Shinichiro Miki</person></cast>
+<cast gid="2148496382" lang="JA"><role>Tieria Erde</role><person id="5902">Hiroshi Kamiya</person></cast>
+<cast gid="1638690941" lang="JA"><role>Setsuna F Seiei</role><person id="10397">Mamoru Miyano</person></cast>
+<credit gid="3880265227"><task>Production</task><company id="34">Sunrise</company></credit>
+<credit gid="3239675670"><task>Production</task><company id="10442">Mainichi Broadcasting System</company></credit></anime></ann>

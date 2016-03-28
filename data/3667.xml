@@ -1,0 +1,41 @@
+<ann><anime id="3667" gid="1704451924" type="movie" name="Kinnikuman: Haresugata! Seigi Chōjin" precision="movie" generated-on="2016-03-27T03:57:23Z">
+<related-prev rel="sequel of" id="3668"/>
+<related-next id="3665" rel="sequel"/>
+<info gid="1842049442" type="Main title" lang="JA">Kinnikuman: Haresugata! Seigi Chōjin</info>
+<info gid="1767508831" type="Alternative title" lang="EN">Kinnikuman: Hour-of-Triumph! Justice Superman</info>
+<info gid="1705219282" type="Alternative title" lang="JA">キン肉マン 晴れ姿！正義超人</info>
+<info gid="2097826054" type="Genres">adventure</info>
+<info gid="1577741556" type="Genres">comedy</info>
+<info gid="1177948694" type="Genres">science fiction</info>
+<info gid="2428248232" type="Genres">tournament</info>
+<info gid="2259978085" type="Objectionable content">OC</info>
+<info type="Vintage">1985-12-21</info>
+<info gid="2449094022" type="Premiere date">1985-12-21 (Japan)</info>
+<ratings nb_votes="1" weighted_score="7"/>
+<staff gid="1844357317"><task>Director</task><person id="9460">Takenori Kawada</person></staff>
+<staff gid="2671663667"><task>Script</task><person id="3976">Haruya Yamazaki</person></staff>
+<staff gid="1211394919"><task>Music</task><person id="25852">Shinsuke Kazato</person></staff>
+<staff gid="1301780430"><task>Original Manga</task><person id="17238">Takashi Shimada</person></staff>
+<staff gid="1873524416"><task>Original Manga</task><person id="23053">Yoshinori Nakai</person></staff>
+<staff gid="2363834551"><task>Character Design</task><person id="13388">Toshio Mori</person></staff>
+<staff gid="708702472"><task>Producer</task><person id="1484">Takeshi Tamiya</person></staff>
+<cast gid="1057497938" lang="JA"><role>Terryman</role><person id="490">Hideyuki Tanaka</person></cast>
+<cast gid="1205485919" lang="JA"><role>Geronimo</role><person id="852">Kaneto Shiozawa</person></cast>
+<cast gid="2565928387" lang="JA"><role>Warsman</role><person id="869">Hideyuki Hori</person></cast>
+<cast gid="1804985661" lang="JA"><role>Robin Mask</role><person id="871">Daisuke Gouri</person></cast>
+<cast gid="2267976038" lang="JA"><role>Buffaloman</role><person id="930">Masaharu Satou</person></cast>
+<cast gid="2224236412" lang="JA"><role>Iwao</role><person id="930">Masaharu Satou</person></cast>
+<cast gid="2521472262" lang="JA"><role>Kinkotsuman</role><person id="1015">Issei Futamata</person></cast>
+<cast gid="1959877767" lang="JA"><role>Shuten Doji</role><person id="1259">Shozo Iizuka</person></cast>
+<cast gid="1916902752" lang="JA"><role>Rikishiman</role><person id="1505">Masashi Hirose</person></cast>
+<cast gid="1532585569" lang="JA"><role>Kinnikuman</role><person id="1583">Akira Kamiya</person></cast>
+<cast gid="3853518401" lang="JA"><role>Meat-kun</role><person id="1593">Minori Matsushima</person></cast>
+<cast gid="2278648428" lang="JA"><role>Ramenman</role><person id="1669">Banjou Ginga</person></cast>
+<cast gid="337395684" lang="JA"><role>Detective Gobugari</role><person id="2069">Kouji Totani</person></cast>
+<cast gid="783348763" lang="JA"><role>Brocken Jr.</role><person id="2762">Tetsuo Mizutori</person></cast>
+<cast gid="1990433459" lang="JA"><role>Yosaku-san</role><person id="2762">Tetsuo Mizutori</person></cast>
+<cast gid="3267021094" lang="JA"><role>Kinkotsu-Obaba</role><person id="4111">Keiko Yamamoto</person></cast>
+<cast gid="1501023153" lang="JA"><role>Nachiguron</role><person id="4111">Keiko Yamamoto</person></cast>
+<cast gid="743283524" lang="JA"><role>Mari-hime</role><person id="7252">Chisato Nakajima</person></cast>
+<cast gid="2465131444" lang="JA"><role>Nakano-san</role><person id="7674">Sanji Hase</person></cast>
+<credit gid="292997401"><task>Production</task><company id="145">Toei Animation</company></credit></anime></ann>

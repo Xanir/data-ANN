@@ -1,0 +1,252 @@
+<ann><anime id="5746" gid="493220148" type="TV" name="Utawarerumono" precision="TV" generated-on="2016-03-27T03:10:34Z">
+<related-next id="9034" rel="spinoff"/>
+<related-next id="10189" rel="related"/>
+<related-next id="17186" rel="related"/>
+<info gid="3309699189" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A5746-20.jpg" width="200" height="200"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A5746-20.jpg" width="200" height="200"/><img src="http://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A5746-20.jpg" width="464" height="464"/></info>
+<info gid="3695846962" type="Main title" lang="JA">Utawarerumono</info>
+<info gid="2193810007" type="Alternative title" lang="DE">Heldenlied</info>
+<info gid="2055514830" type="Alternative title" lang="FR">Le Chant des Rêves</info>
+<info gid="1620866547" type="Alternative title" lang="EN">The One Being Sung</info>
+<info gid="2870991075" type="Alternative title" lang="JA">うたわれるもの</info>
+<info gid="1243005959" type="Alternative title" lang="ZH-TW">受讚頌者</info>
+<info gid="3058245286" type="Genres">adventure</info>
+<info gid="1340480979" type="Genres">drama</info>
+<info gid="2258080903" type="Genres">fantasy</info>
+<info gid="1099936303" type="Genres">science fiction</info>
+<info gid="2654503118" type="Themes">mecha</info>
+<info gid="682483165" type="Themes">military</info>
+<info gid="2218524874" type="Themes">war</info>
+<info gid="2618319737" type="Objectionable content">TA</info>
+<info gid="293242007" type="Plot Summary">An injured, amnesiac man with a mysterious mask is found abandoned in the forest. After he is nurtured back to health, he is given the name Hakuoro. After saving the village from a wrathful deity, he adopts the role of the village's leader. Although wishing to live in peace, fate eventually forces him down the path of war and battle...</info>
+<info gid="773857926" type="Running time">23</info>
+<info gid="2374821030" type="Number of episodes">26</info>
+<info gid="1849414986" type="Vintage">2006-04-03 to 2006-09-25</info>
+<info gid="829135697" type="Opening Theme">&quot;Musouka (夢想歌)&quot; by Suara</info>
+<info gid="921126600" type="Ending Theme">#1: &quot;Madoromi no Rinne (まどろみの輪廻)&quot; by Eri Kawai (eps 1-25)</info>
+<info gid="3332978254" type="Ending Theme">#2: &quot;Kimi ga Tame (キミガタメ)&quot; by Suara (ep 26)</info>
+<info gid="3435186558" type="Official website" lang="EN" href="http://funimation.com/utawarerumono/">Funimation's Official Utawarerumono Website</info>
+<info gid="1451508991" type="Official website" lang="EN" href="http://www.madman.com.au/actions/series.do?method=home&amp;videogramId=11155">Madman's Official Utawarerumono Sales Site</info>
+<info gid="1082124137" type="Official website" lang="JA" href="http://www.mxtv.co.jp/utaware/">Tokyo MX TV's Utawarerumono Website</info>
+<info gid="1693599353" type="Official website" lang="JA" href="http://www.utaware.net/">Utawarerumono</info>
+<info gid="1425364000" type="Official website" lang="JA" href="http://www.vap.co.jp/utaware/">Utawarerumono @ VAP</info>
+<ratings nb_votes="2088" weighted_score="7.7622" bayesian_score="7.76072"/>
+<episode num="1">
+<title gid="1709287785" lang="EN">Something Uninvited</title></episode>
+<episode num="2">
+<title gid="3459232875" lang="EN">King of the Wasted Forest</title></episode>
+<episode num="3">
+<title gid="1054473921" lang="EN">Purple Amber</title></episode>
+<episode num="4">
+<title gid="2476612140" lang="EN">Road that you cannot turn back</title></episode>
+<episode num="5">
+<title gid="2328958118" lang="EN">Daughter of the forest</title></episode>
+<episode num="6">
+<title gid="1187977250" lang="EN">Power that gathers</title></episode>
+<episode num="7">
+<title gid="1220213476" lang="EN">Advance Towards The Emperor</title></episode>
+<episode num="8">
+<title gid="2185983990" lang="EN">The Arbitrator</title></episode>
+<episode num="9">
+<title gid="2916940072" lang="EN">Taboo</title></episode>
+<episode num="10">
+<title gid="3107319974" lang="EN">Mercenary</title></episode>
+<episode num="11">
+<title gid="2667350755" lang="EN">The Eternal Promise</title></episode>
+<episode num="12">
+<title gid="2723888462" lang="EN">Unrest</title></episode>
+<episode num="13">
+<title gid="3213925308" lang="EN">The Bloody War</title></episode>
+<episode num="14">
+<title gid="3619764608" lang="EN">Ravages Of War</title></episode>
+<episode num="15">
+<title gid="1571837412" lang="EN">The End Of The Party</title></episode>
+<episode num="16">
+<title gid="3303821482" lang="EN">The End Of The War</title></episode>
+<episode num="17">
+<title gid="1761564092" lang="EN">Young Emperor</title></episode>
+<episode num="18">
+<title gid="1344649482" lang="EN">Released Army</title></episode>
+<episode num="19">
+<title gid="2208868614" lang="EN">Farewell</title></episode>
+<episode num="20">
+<title gid="1255100876" lang="EN">First Battle</title></episode>
+<episode num="21">
+<title gid="1269977939" lang="EN">Large Seal</title></episode>
+<episode num="22">
+<title gid="1164396108" lang="EN">Contract Of Mourning</title></episode>
+<episode num="23">
+<title gid="1577268857" lang="EN">The Heart's Whereabouts</title></episode>
+<episode num="24">
+<title gid="177083992" lang="EN">Those That Fall Into Ruin</title></episode>
+<episode num="25">
+<title gid="3218241287" lang="EN">Ancient Traces Of Dreams</title></episode>
+<episode num="26">
+<title gid="1716694549" lang="EN">The One Being Sung</title></episode>
+<review href="http://www.animenewsnetwork.com/review/utawarerumono-collection">Utawarerumono Collection DVD</review>
+<review href="http://www.animenewsnetwork.com/review/utawarerumono/dvd-6">Utawarerumono DVD 6</review>
+<review href="http://www.animenewsnetwork.com/review/utawarerumono/dvd-5">Utawarerumono DVD 5</review>
+<review href="http://www.animenewsnetwork.com/review/utawarerumono/dvd-2">Utawarerumono DVD 2</review>
+<review href="http://www.animenewsnetwork.com/review/utawarerumono/dvd-1">Utawarerumono DVD 1</review>
+<release date="2009-11-03" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=14970">Utawarerumono - Complete Collection (Viridian Collection) (DVD)</release>
+<release date="2007-01-16" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=7930">Utawarerumono - Mask of a Stranger (DVD 1)</release>
+<release date="2007-05-15" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=8528">Utawarerumono - A Haunted Past (DVD 3)</release>
+<release date="2007-07-24" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=8991">Utawarerumono - Price of Freedom (DVD 4)</release>
+<release date="2007-08-28" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=9262">Utawarerumono - Beast Within (DVD 5)</release>
+<release date="2007-01-30" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=8161">Utawarerumono - In the Face of Evil + Box (DVD 2)</release>
+<release date="2007-03-20" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=8160">Utawarerumono - In the Face of Evil (DVD 2)</release>
+<release date="2007-09-25" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=9750">Utawarerumono - A Song for Posterity (DVD 6)</release>
+<release date="2009-01-27" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=12744">Utawarerumono - Box Set (DVD)</release>
+<release date="2007-12-05" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=11145">Utawarerumono Collection (DVD)</release>
+<news datetime="2008-01-22T18:55:16Z" href="http://www.animenewsnetwork.com/news/2008-01-22/adv-films-uk-switches-from-us-run-office-to-uk-partner">ADV Films UK Switches from US-Run Office to UK Partner</news>
+<news datetime="2008-01-24T16:40:32Z" href="http://www.animenewsnetwork.com/news/2008-01-24/tokyopop-germany-puts-all-dvd-releases-on-pause">Tokyopop Germany Puts All DVD Releases on &quot;Pause&quot;</news>
+<news datetime="2008-01-28T23:30:00Z" href="http://www.animenewsnetwork.com/news/2008-01-28/adv-films-removes-titles-from-website">ADV Films Removes Titles from Website</news>
+<news datetime="2008-01-30T19:45:30Z" href="http://www.animenewsnetwork.com/news/2008-01-30/adv-films-removes-titles-from-website-update">ADV Films Removes Titles from Website - Update</news>
+<news datetime="2008-02-16T18:53:23Z" href="http://www.animenewsnetwork.com/news/2008-02-16/konami-quiz-magic-academy">Konami's &lt;cite&gt;Quiz Magic Academy&lt;/cite&gt; Arcade Games Get Anime</news>
+<news datetime="2008-02-25T22:44:04Z" href="http://www.animenewsnetwork.com/news/2008-02-25/bandai-visual-usa-picks-up-sola-anime">Bandai Visual USA Picks Up &lt;cite&gt;sola&lt;/cite&gt; Anime</news>
+<news datetime="2008-07-04T13:01:00Z" href="http://www.animenewsnetwork.com/news/2008-07-04/funimation-picks-up-over-30-former-ad-vision-titles">Funimation Picks Up Over 30 Former AD Vision Titles</news>
+<news datetime="2008-07-31T19:00:00Z" href="http://www.animenewsnetwork.com/news/2008-07-31/tentai-senshi-sunred-tv-anime-confirmed-for-october">&lt;cite&gt;Tentai Senshi Sunred&lt;/cite&gt; TV Anime Confirmed for October</news>
+<news datetime="2008-08-05T18:28:48Z" href="http://www.animenewsnetwork.com/news/2008-08-05/aria-utawarerumono-singer/songwriter-eri-kawai-dies">&lt;cite&gt;Aria, Utawarerumono&lt;/cite&gt; Singer/Songwriter Eri Kawai Dies</news>
+<news datetime="2008-10-13T22:33:27Z" href="http://www.animenewsnetwork.com/news/2008-10-13/media-blasters-announces-amaenaideyo-dvd-release">Media Blasters Announces &lt;cite&gt;Amaenaideyo!!&lt;/cite&gt; DVD Release</news>
+<news datetime="2008-12-19T04:12:56Z" href="http://www.animenewsnetwork.com/news/2008-12-18/live-action-manga-to-spoof-u.s-tv-24-show-in-japan">'Live-Action Manga' to Spoof U.S. TV's &lt;cite&gt;24&lt;/cite&gt; Show in Japan</news>
+<news datetime="2009-01-28T20:10:54Z" href="http://www.animenewsnetwork.com/news/2009-01-28/tears-to-tiara-rpg-anime-made-into-manga-in-february">&lt;cite&gt;Tears to Tiara&lt;/cite&gt; RPG, Anime Made into Manga in February</news>
+<news datetime="2009-02-17T18:30:24Z" href="http://www.animenewsnetwork.com/news/2009-02-17/animax-asia-to-simulcast-tears-to-tiara">Animax-Asia To Simulcast Tears to Tiara</news>
+<news datetime="2010-02-26T04:48:48Z" href="http://www.animenewsnetwork.com/news/2010-02-25/funimation-streams-more-anime-online">Funimation Streams More Anime Online</news>
+<news datetime="2010-03-04T12:00:00Z" href="http://www.animenewsnetwork.com/news/2010-03-04/shattered-angels-gunslinger-girl-ova-more-streamed">&lt;cite&gt;Shattered Angels, Gunslinger Girl&lt;/cite&gt; OVA, More Streamed</news>
+<news datetime="2010-03-10T04:53:51Z" href="http://www.animenewsnetwork.com/news/2010-03-09/funimation-streams-vampire-bund-baka-and-test-009-1-last-exile">Funimation Streams &lt;cite&gt;Vampire Bund, Baka &amp; Test, 009-1, Last Exile&lt;/cite&gt;</news>
+<news datetime="2010-03-23T15:00:00Z" href="http://www.animenewsnetwork.com/news/2010-03-23/funimation-streams-initial-d/fourth-stage-nerima-daikon-brothers">Funimation Streams &lt;cite&gt;Initial D: Fourth Stage&lt;/cite&gt;, &lt;cite&gt;Nerima Daikon Brothers&lt;/cite&gt;</news>
+<news datetime="2010-03-31T10:00:00Z" href="http://www.animenewsnetwork.com/news/2010-03-31/funimation-streams-d.gray-man-druaga-witchblade-more">Funimation Streams &lt;cite&gt;D.Gray-man, Druaga, Witchblade&lt;/cite&gt;, More</news>
+<news datetime="2010-04-10T15:45:00Z" href="http://www.animenewsnetwork.com/news/2010-04-10/4kids-streams-sonic-x-funimation-streams-slayers-e-r">4Kids Streams &lt;cite&gt;Sonic X&lt;/cite&gt;, Funimation Streams &lt;cite&gt;Slayers E-R&lt;/cite&gt;</news>
+<news datetime="2010-10-22T11:22:54Z" href="http://www.animenewsnetwork.com/news/2010-10-22/north-american-anime-manga-releases-october-17-23">North American Anime, Manga Releases October 17-23</news>
+<news datetime="2010-11-28T14:33:29Z" href="http://www.animenewsnetwork.com/news/2010-11-28/voice-actress-ryoka-yuzuki-to-release-original-anime">Voice Actress Ryoka Yuzuki to Release Original Anime</news>
+<news datetime="2011-03-09T03:52:41Z" href="http://www.animenewsnetwork.com/news/2011-03-08/sora-no-kiseki-rpg-gets-anime">&lt;cite&gt;Eiyū Densetsu: Sora no Kiseki&lt;/cite&gt; RPG Gets Anime</news>
+<news datetime="2011-06-12T16:38:01Z" href="http://www.animenewsnetwork.com/news/2011-06-13/weeklywrapup5jun11jun">Weekly Wrapup 5/Jun - 11/Jun</news>
+<news datetime="2011-07-10T02:30:00Z" href="http://www.animenewsnetwork.com/news/2011-07-09/north-american-stream-list/july-4-8">North American Stream List: July 4–8</news>
+<news datetime="2012-01-30T22:00:00Z" href="http://www.animenewsnetwork.com/news/2012-01-30/adv-court-documents-reveal-amounts-paid-for-29-anime-titles">ADV Court Documents Reveal Amounts Paid for 29 Anime Titles</news>
+<news datetime="2013-06-13T15:30:00Z" href="http://www.animenewsnetwork.com/news/2013-06-13/bushiroad-future-card-buddyfight-tcg-gets-tv-anime">Bushiroad's &lt;cite&gt;Future Card Buddyfight&lt;/cite&gt; TCG Gets TV Anime</news>
+<news datetime="2013-09-20T11:39:36Z" href="http://www.animenewsnetwork.com/news/2013-09-20/6-new-commercials-for-pokemon/the-origin-aired">6 New Commercials For &lt;cite&gt;Pokémon: The Origin&lt;/cite&gt; Aired</news>
+<news datetime="2013-10-01T05:00:00Z" href="http://www.animenewsnetwork.com/news/2013-10-01/toranoana-stores-parent-acquires-game-maker-aquaplus">Toranoana Stores' Parent Acquires Game Maker Aquaplus</news>
+<news datetime="2013-10-10T20:50:00Z" href="http://www.animenewsnetwork.com/news/2013-10-10/aquapazza-introduces-team-utawarerumono-in-trailer">&lt;cite&gt;AquaPazza&lt;/cite&gt; Introduces Team &lt;cite&gt;Utawarerumono&lt;/cite&gt; in Trailer</news>
+<news datetime="2015-11-30T10:30:00Z" href="http://www.animenewsnetwork.com:/news/2015-11-30/yuko-gibu-joins-utawarerumono-futari-no-hakuoro-game-cast/.95930">Yuko Gibu Joins &lt;i&gt;Utawarerumono: Futari no Hakuoro&lt;/i&gt; Game's Cast</news>
+<staff gid="1125658041"><task>Director</task><person id="35713">Tomoki Kobayashi</person></staff>
+<staff gid="541952779"><task>Series Composition</task><person id="18612">Makoto Uezu</person></staff>
+<staff gid="2762590962"><task>Script</task><person id="15012">Yoshifumi Fukushima</person></staff>
+<staff gid="1626916091"><task>Script</task><person id="18612">Makoto Uezu</person></staff>
+<staff gid="1966410393"><task>Script</task><person id="19679">Masashi Suzuki</person></staff>
+<staff gid="2370860341"><task>Script</task><person id="67347">Yutaka Nada</person></staff>
+<staff gid="2321599621"><task>Storyboard</task><person id="5455">Shinji Satoh</person></staff>
+<staff gid="691952312"><task>Storyboard</task><person id="10817">Hitoshi Nanba</person></staff>
+<staff gid="2337128634"><task>Storyboard</task><person id="11374">Hiroyuki Yano</person></staff>
+<staff gid="3388077383"><task>Storyboard</task><person id="16180">Jouji Shimura</person></staff>
+<staff gid="2116253806"><task>Storyboard</task><person id="22171">Kouji Fukazawa</person></staff>
+<staff gid="1118565787"><task>Storyboard</task><person id="35713">Tomoki Kobayashi</person></staff>
+<staff gid="3528995566"><task>Storyboard</task><person id="56174">Toshiyuki Kashiyama</person></staff>
+<staff gid="1900402086"><task>Storyboard</task><person id="128474">Seiji Okuda</person></staff>
+<staff gid="1926916591"><task>Episode Director</task><person id="3949">Kiyotaka Isako</person></staff>
+<staff gid="1698567432"><task>Episode Director</task><person id="12553">Masahiko Watanabe</person></staff>
+<staff gid="1952754404"><task>Episode Director</task><person id="16180">Jouji Shimura</person></staff>
+<staff gid="2766477115"><task>Episode Director</task><person id="20966">Hiroshi Kimura</person></staff>
+<staff gid="1915488708"><task>Episode Director</task><person id="22171">Kouji Fukazawa</person></staff>
+<staff gid="2035185792"><task>Episode Director</task><person id="28003">Kazuhisa Nakamura</person></staff>
+<staff gid="2250808679"><task>Episode Director</task><person id="31718">Yumi Kamakura</person></staff>
+<staff gid="2282411405"><task>Episode Director</task><person id="35713">Tomoki Kobayashi</person></staff>
+<staff gid="1357119024"><task>Episode Director</task><person id="36450">Motoki Tanaka</person></staff>
+<staff gid="975337721"><task>Episode Director</task><person id="37273">Shuuji Miyahara</person></staff>
+<staff gid="1850844522"><task>Episode Director</task><person id="46698">Hironobu Aoyagi</person></staff>
+<staff gid="2345180644"><task>Episode Director</task><person id="56174">Toshiyuki Kashiyama</person></staff>
+<staff gid="2546478246"><task>Music</task><person id="55424">Miyu Nakamura</person></staff>
+<staff gid="2367571927"><task>Music</task><person id="55426">Hijiri Anze</person></staff>
+<staff gid="1122008305"><task>Original Character Design</task><person id="133190">Tatsuki Amazume</person></staff>
+<staff gid="2053745794"><task>Character Design</task><person id="11461">Masahiko Nakata</person></staff>
+<staff gid="3277264881"><task>Art Director</task><person id="252">Kenji Kato</person></staff>
+<staff gid="2323398909"><task>Chief Animation Director</task><person id="11461">Masahiko Nakata</person></staff>
+<staff gid="601881209"><task>Animation Director</task><person id="8042">Shinichi Yoshino</person></staff>
+<staff gid="1793829724"><task>Animation Director</task><person id="11461">Masahiko Nakata</person></staff>
+<staff gid="3175987242"><task>Animation Director</task><person id="14380">Takuya Matsumoto</person></staff>
+<staff gid="1829495269"><task>Animation Director</task><person id="15209">Naoto Hosoda</person></staff>
+<staff gid="1115543006"><task>Animation Director</task><person id="23136">Yumenosuke Tokuda</person></staff>
+<staff gid="3877684350"><task>Animation Director</task><person id="23366">Yasunori Yamaguchi</person></staff>
+<staff gid="2452297330"><task>Animation Director</task><person id="24484">Yuki Chika</person></staff>
+<staff gid="2806151102"><task>Animation Director</task><person id="26748">Tomohiro Koyama</person></staff>
+<staff gid="2486335907"><task>Animation Director</task><person id="28003">Kazuhisa Nakamura</person></staff>
+<staff gid="1846171828"><task>Animation Director</task><person id="29599">Takuji Yoshimoto</person></staff>
+<staff gid="4153466819"><task>Animation Director</task><person id="36450">Motoki Tanaka</person></staff>
+<staff gid="1241944493"><task>Animation Director</task><person id="58238">Hirokazu Shouji</person></staff>
+<staff gid="1761264392"><task>Animation Director</task><person id="59445">Machi Ikejima</person></staff>
+<staff gid="1932905193"><task>Animation Director</task><person id="79530">Yasukazu Tōkairin</person></staff>
+<staff gid="1374144779"><task>Animation Director</task><person id="101786">Yu Cheon Kim</person></staff>
+<staff gid="693596568"><task>Sound Director</task><person id="12296">Susumu Aketagawa</person></staff>
+<staff gid="1910483316"><task>Cgi Director</task><person id="2043">Makoto Sato</person></staff>
+<staff gid="2990753801"><task>Director of Photography</task><person id="12398">Takaya Mizutani</person></staff>
+<staff gid="1408045253"><task>Executive producer</task><person id="194">Toshiaki Okuno</person></staff>
+<staff gid="480517103"><task>Executive producer</task><person id="196">Mitsuru Ohshima</person></staff>
+<staff gid="1985771689"><task>Executive producer</task><person id="49519">Yoshiyuki Ito</person></staff>
+<staff gid="1922665928"><task>Executive producer</task><person id="88025">Kouji Ichihashi</person></staff>
+<staff gid="1073527147"><task>Producer</task><person id="6709">Toshio Hatanaka</person></staff>
+<staff gid="1921892098"><task>Producer</task><person id="8171">Yutaro Mochizuki</person></staff>
+<staff gid="1363192007"><task>Producer</task><person id="25255">Yasuo Ueda</person></staff>
+<staff gid="1223331730"><task>Producer</task><person id="60003">Katsumi Koike</person></staff>
+<cast gid="3165944207" lang="DE"><role>Nuwangi</role><person id="22711">Konrad Bösherz</person></cast>
+<cast gid="261524813" lang="DE"><role>Suonkasu</role><person id="22715">Bernhard Völger</person></cast>
+<cast gid="1837049128" lang="DE"><role>Camus</role><person id="22733">Marie Schramm</person></cast>
+<cast gid="1340687593" lang="DE"><role>Benawi</role><person id="22734">Viktor Neumann</person></cast>
+<cast gid="2240939284" lang="DE"><role>Eluluu</role><person id="28547">Marie Bierstedt</person></cast>
+<cast gid="3702573561" lang="DE"><role>Urutori</role><person id="30273">Sabine Arnhold</person></cast>
+<cast gid="2161541518" lang="DE"><role>Touka</role><person id="30322">Victoria Sturm</person></cast>
+<cast gid="2452490380" lang="DE"><role>Hakuoro</role><person id="30323">Johannes Baasner</person></cast>
+<cast gid="1496204341" lang="DE"><role>Oboro</role><person id="31000">Ozan Uenal</person></cast>
+<cast gid="1066589059" lang="DE"><role>Yuzuha</role><person id="33571">Lydia Morgenstern</person></cast>
+<cast gid="1494977044" lang="DE"><role>Inkalla</role><person id="42009">Roland Hemmo</person></cast>
+<cast gid="3120022925" lang="DE"><role>Kuuya Amrulineulka</role><person id="47813">Tanya Kahana</person></cast>
+<cast gid="2567605424" lang="DE"><role>Dorj</role><person id="49243">Kathrin Neusser</person></cast>
+<cast gid="353256257" lang="DE"><role>Gura</role><person id="49243">Kathrin Neusser</person></cast>
+<cast gid="2235446025" lang="DE"><role>Karula</role><person id="50308">Vera Teltz</person></cast>
+<cast gid="2742649291" lang="DE"><role>Aruruu</role><person id="60865">Jamie-Lee Blank</person></cast>
+<cast gid="384913609" lang="DE"><role>Kurou</role><person id="65797">Marco Bräutigam</person></cast>
+<cast gid="1007975288" lang="DE"><role>Derihourai</role><person id="71580">Martin Kautz</person></cast>
+<cast gid="2414354971" lang="EN"><role>Kurou</role><person id="1064">Jason Douglas</person></cast>
+<cast gid="2643407931" lang="EN"><role>Urutori</role><person id="1067">Kelly Manison</person></cast>
+<cast gid="3214556632" lang="EN"><role>Yuzuha</role><person id="2074">Monica Rial</person></cast>
+<cast gid="3369459443" lang="EN"><role>Tuskuru</role><person id="2492">Marcy Bannor</person></cast>
+<cast gid="2451801521" lang="EN"><role>Dii</role><person id="2502">John Gremillion</person></cast>
+<cast gid="2263445154" lang="EN"><role>Hakuoro</role><person id="2502">John Gremillion</person></cast>
+<cast gid="1882429194" lang="EN"><role>Benawi</role><person id="2516">Vic Mignogna</person></cast>
+<cast gid="1514093752" lang="EN"><role>Oboro</role><person id="2517">Chris Patton</person></cast>
+<cast gid="1186584428" lang="EN"><role>Sasante</role><person id="2525">John Swasey</person></cast>
+<cast gid="3058702572" lang="EN"><role>Eluluu</role><person id="3660">Kira Vincent-Davis</person></cast>
+<cast gid="2386984303" lang="EN"><role>Karula</role><person id="4919">Shelley Calene-Black</person></cast>
+<cast gid="1339245501" lang="EN"><role>Nuwangi</role><person id="7734">Greg Ayres</person></cast>
+<cast gid="2929939326" lang="EN"><role>Kuuya</role><person id="12493">Luci Christian</person></cast>
+<cast gid="2751884154" lang="EN"><role>Sakuya</role><person id="13929">Allison Sumrall</person></cast>
+<cast gid="4034969424" lang="EN"><role>Derihourai</role><person id="14187">Nomed Kaerf</person></cast>
+<cast gid="659895960" lang="EN"><role>Dii</role><person id="14187">Nomed Kaerf</person></cast>
+<cast gid="2325127985" lang="EN"><role>Aruruu</role><person id="18267">Sasha Paysinger</person></cast>
+<cast gid="2578365309" lang="EN"><role>Mukkuru</role><person id="21905">K.C. Jones</person></cast>
+<cast gid="1288309603" lang="EN"><role>Camus</role><person id="21909">Serena Varghese</person></cast>
+<cast gid="2684184360" lang="EN"><role>Hauenkua</role><person id="37623">Blake Shepard</person></cast>
+<cast gid="1816481934" lang="EN"><role>Inkalla</role><person id="44594">Andrew Love</person></cast>
+<cast gid="1769983646" lang="EN"><role>Suonkasu</role><person id="58056">Josh Grelle</person></cast>
+<cast gid="1632029525" lang="EN"><role>Touka</role><person id="59207">Sofia Mendez</person></cast>
+<cast gid="3227996539" lang="JA"><role>Yuzuha</role><person id="438">Mai Nakahara</person></cast>
+<cast gid="2503037877" lang="JA"><role>Eruru</role><person id="545">Ryoka Yuzuki</person></cast>
+<cast gid="3679954281" lang="JA"><role>Karura</role><person id="547">Atsuko Tanaka</person></cast>
+<cast gid="1579561747" lang="JA"><role>Kamyu</role><person id="808">Rie Kugimiya</person></cast>
+<cast gid="2064797908" lang="JA"><role>Tuskuru</role><person id="834">Hisako Kyouda</person></cast>
+<cast gid="1556979303" lang="JA"><role>Dii</role><person id="1014">Shuuichi Ikeda</person></cast>
+<cast gid="2887497967" lang="JA"><role>Benawi</role><person id="1289">Daisuke Namikawa</person></cast>
+<cast gid="3966347721" lang="JA"><role>Urutori</role><person id="1376">Sayaka Ohara</person></cast>
+<cast gid="3013756562" lang="JA"><role>Sakuya</role><person id="5179">Kaori Mizuhashi</person></cast>
+<cast gid="2686287016" lang="JA"><role>Aruru</role><person id="5735">Miyuki Sawashiro</person></cast>
+<cast gid="1830361100" lang="JA"><role>Hakuoro</role><person id="8136">Rikiya Koyama</person></cast>
+<cast gid="964950197" lang="JA"><role>Suonkasu</role><person id="12163">Takayuki Kondou</person></cast>
+<cast gid="2089443865" lang="JA"><role>Kuuya</role><person id="18645">Akira Tomisaka</person></cast>
+<cast gid="733922819" lang="JA"><role>Oboro</role><person id="18654">Daisuke Kirii</person></cast>
+<cast gid="1993589303" lang="JA"><role>Kurou</role><person id="20355">Tsuyoshi Koyama</person></cast>
+<cast gid="1032574727" lang="JA"><role>Mukkuru</role><person id="20597">Yoshimitsu Shimoyama</person></cast>
+<cast gid="2756913946" lang="JA"><role>Derihourai</role><person id="37186">Masayuki Katou</person></cast>
+<cast gid="1382211814" lang="JA"><role>Touka</role><person id="45288">Kaya Miyake</person></cast>
+<cast gid="2435411367" lang="TL"><role>Hakuoro</role><person id="39767">Richie Padilla</person></cast>
+<cast gid="849026223" lang="TL"><role>Tuskuru</role><person id="42700">Gloria De Guzman</person></cast>
+<cast gid="1849907335" lang="TL"><role>Eruru</role><person id="56874">Jenny Bituin</person></cast>
+<cast gid="2609673458" lang="TL"><role>Aruru</role><person id="62726">ROXANNE MANATO</person></cast>
+<credit gid="1725711719"><task>Animation Production</task><company id="1211">Oriental Light and Magic</company></credit>
+<credit gid="1582504648"><task>Production</task><company id="5362">Utawarerumono Production Team</company></credit></anime></ann>

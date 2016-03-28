@@ -1,0 +1,65 @@
+<ann><anime id="14219" gid="2072617037" type="OAV" name="Deadman Wonderland" precision="OAV" generated-on="2016-03-27T03:57:16Z">
+<related-prev rel="prequel of" id="11826"/>
+<info gid="3541660148" type="Main title" lang="EN">Deadman Wonderland</info>
+<info gid="1821365960" type="Alternative title" lang="JA">デッドマン・ワンダーランド</info>
+<info gid="1713736853" type="Genres">action</info>
+<info gid="2662861233" type="Genres">drama</info>
+<info gid="2635523206" type="Genres">horror</info>
+<info gid="2187994340" type="Genres">magic</info>
+<info gid="889259023" type="Themes">Crime</info>
+<info gid="824100101" type="Themes">police</info>
+<info gid="440824988" type="Themes">revenge</info>
+<info gid="3904322803" type="Themes">superpowers</info>
+<info gid="1334084822" type="Objectionable content">TA</info>
+<info gid="2620451737" type="Plot Summary">Kiyomasa Senji was a policeman before he was arrested and imprisoned in Deadman Wonderland. His abilities during his time as an officer caught the eyes of a gang that wishes to recruit him.</info>
+<info gid="2178195132" type="Running time">half hour</info>
+<info gid="837763986" type="Number of episodes">1</info>
+<info type="Vintage">2011-10-08</info>
+<info gid="1479733483" type="Official website" lang="JA" href="http://dwl.jp/">Deadman Wonderland Official Website</info>
+<ratings nb_votes="290" weighted_score="6.9123" bayesian_score="6.9385"/>
+<staff gid="2274446171"><task>Director</task><person id="2184">Koichi Hatsumi</person></staff>
+<staff gid="1378839359"><task>Series Composition</task><person id="10527">Yasuyuki Muto</person></staff>
+<staff gid="1728146917"><task>Script</task><person id="26740">Yasutomo Yamada</person></staff>
+<staff gid="3025853982"><task>Storyboard</task><person id="2184">Koichi Hatsumi</person></staff>
+<staff gid="2383040645"><task>Storyboard</task><person id="3826">Hiroshi Yamazaki</person></staff>
+<staff gid="1569479032"><task>Episode Director</task><person id="3826">Hiroshi Yamazaki</person></staff>
+<staff gid="1567139381"><task>Unit Director</task><person id="2184">Koichi Hatsumi</person></staff>
+<staff gid="1546719416"><task>Music</task><person id="66001">NARASAKI</person></staff>
+<staff gid="1639244510"><task>Original creator</task><person id="55601">Kazuma Kondou</person></staff>
+<staff gid="3087522008"><task>Original creator</task><person id="55602">Jinsei Kataoka</person></staff>
+<staff gid="2704723959"><task>Character Design</task><person id="1029">Masaki Yamada</person></staff>
+<staff gid="1773559085"><task>Art Director</task><person id="35767">Michie Watanabe</person></staff>
+<staff gid="1349073606"><task>Chief Animation Director</task><person id="1029">Masaki Yamada</person></staff>
+<staff gid="2137106881"><task>Animation Director</task><person id="33829">Sho Yamamoto</person></staff>
+<staff gid="2034352893"><task>Animation Director</task><person id="35580">Hirokazu Kojima</person></staff>
+<staff gid="841841739"><task>Animation Director</task><person id="58402">Yuka Koiso</person></staff>
+<staff gid="1812200116"><task>Animation Director</task><person id="78752">Yōko Kutsuzawa</person></staff>
+<staff gid="2079879377"><task>Mechanical design</task><person id="38526">Takayuki Yanase</person></staff>
+<staff gid="1218771756"><task>Sound Director</task><person id="979">Yoshikazu Iwanami</person></staff>
+<staff gid="1581434616"><task>Director of Photography</task><person id="29199">Takeshi Katsurayama</person></staff>
+<staff gid="2327215967"><task>Executive producer</task><person id="243">Naotaka Yoshida</person></staff>
+<staff gid="2001919840"><task>Executive producer</task><person id="9550">Shinichiro Kobayashi</person></staff>
+<staff gid="2276730812"><task>Executive producer</task><person id="13740">Takeshi Yasuda</person></staff>
+<staff gid="2125918370"><task>Executive producer</task><person id="19270">Tsuneo Takechi</person></staff>
+<staff gid="689650531"><task>Executive producer</task><person id="81091">Hiroyasu Asami</person></staff>
+<staff gid="3189952803"><task>Producer</task><person id="25504">Takashi Kochiyama</person></staff>
+<staff gid="720605261"><task>Producer</task><person id="88065">Hisashi Imamoto</person></staff>
+<cast gid="1321301142" lang="DE"><role>Hinata Mukai</role><person id="48995">Tatjana Pokorny</person></cast>
+<cast gid="2227097544" lang="EN"><role>Hinata Mukai</role><person id="1109">Cynthia Cranz</person></cast>
+<cast gid="1339282926" lang="EN"><role>Domon</role><person id="1131">Kent Williams</person></cast>
+<cast gid="3042985372" lang="EN"><role>Senji Kiyomasa</role><person id="7108">Patrick Seitz</person></cast>
+<cast gid="2637693944" lang="EN"><role>Keigo Ugachi</role><person id="10063">Jerry Jewell</person></cast>
+<cast gid="2604558235" lang="EN"><role>Izuru Tsukiyoshi</role><person id="106830">Lara Woodhull</person></cast>
+<cast gid="744232142" lang="JA"><role>Domon</role><person id="1178">Unshou Ishizuka</person></cast>
+<cast gid="661606961" lang="JA"><role>Keigo Ugachi</role><person id="8073">Kishô Taniyama</person></cast>
+<cast gid="2788585255" lang="JA"><role>Izuru Tsukiyoshi</role><person id="12420">Fuyuka Oura</person></cast>
+<cast gid="891434413" lang="JA"><role>Senji Kiyomasa</role><person id="37186">Masayuki Katou</person></cast>
+<cast gid="1251595423" lang="JA"><role>Hinata Mukai</role><person id="91009">Ai Kayano</person></cast>
+<credit gid="1840500943"><task>Animation Production</task><company id="5491">Manglobe</company></credit>
+<credit gid="2573590544"><task>Production</task><company id="82">Kadokawa Shoten</company></credit>
+<credit gid="3074977192"><task>Production</task><company id="614">The Klockworx Co., Ltd.</company></credit>
+<credit gid="572764085"><task>Production</task><company id="4087">Kadokawa Pictures</company></credit>
+<credit gid="2867716578"><task>Production</task><company id="5110">AMG Entertainment</company></credit>
+<credit gid="60134000"><task>Production</task><company id="5491">Manglobe</company></credit>
+<credit gid="2674810368"><task>Production</task><company id="6420">D.N. Dream Partners</company></credit>
+<credit gid="2349565614"><task>Production</task><company id="9844">Deadman Wonderland Building G</company></credit></anime></ann>

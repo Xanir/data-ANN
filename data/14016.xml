@@ -1,0 +1,352 @@
+<ann><anime id="14016" gid="3145211654" type="TV" name="Saint Seiya Omega" precision="TV" generated-on="2016-03-27T01:44:57Z">
+<related-prev rel="related to" id="429"/>
+<related-next id="15141" rel="adaptation"/>
+<info gid="1290964980" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A14016-1290964980.1328598263.jpg" width="200" height="149"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A14016-1290964980.1328598263.jpg" width="200" height="149"/><img src="http://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A14016-1290964980.1328598263.jpg" width="300" height="223"/></info>
+<info gid="3281755326" type="Main title" lang="JA">Saint Seiya Omega</info>
+<info gid="1429184839" type="Alternative title" lang="FR">Les Chevaliers du Zodiaque Ω</info>
+<info gid="1702007055" type="Alternative title" lang="PT">Os Cavaleiros do Zodíaco Ômega</info>
+<info gid="376435375" type="Alternative title" lang="PT">Os Cavaleiros do Zodíaco Ω</info>
+<info gid="2226712708" type="Alternative title" lang="JA">聖闘士星矢Ω</info>
+<info gid="1928428120" type="Genres">adventure</info>
+<info gid="1318184945" type="Genres">drama</info>
+<info gid="3016756036" type="Genres">fantasy</info>
+<info gid="3059918595" type="Themes">fighting</info>
+<info gid="3630946997" type="Themes">special abilities</info>
+<info gid="3915908733" type="Themes">tragedy</info>
+<info gid="1428046295" type="Objectionable content">TA</info>
+<info gid="752035664" type="Plot Summary">The god of war and guardian of his namesake planet, Mars, was once sealed away by Seiya, but time has passed and his revival is at hand. Meanwhile, Saori Kido (Athena) is raising the boy Kōga, whose life Seiya saved, and he's been training every day to become a Saint in order to prepare for the coming crisis... Unaware of his destiny, when Kōga awakens to the power of his Cosmo hidden inside him, the curtain will rise upon the legend of a new Saint.</info>
+<info gid="1500637121" type="Running time">23</info>
+<info gid="873237059" type="Number of episodes">97</info>
+<info gid="1789505539" type="Vintage">2012-03-31 (Brazil - Premiere Date)</info>
+<info gid="2130063715" type="Vintage">2012-03-31 (France - Premiere Date)</info>
+<info gid="2349237252" type="Vintage">2012-03-31 (Japan - Premiere Date)</info>
+<info gid="1065107028" type="Vintage">2012-03-31 (Taiwan - Premiere Date)</info>
+<info gid="2870809684" type="Vintage">2012-04-01 to 2014-03-30 (Japan - TV Asahi Broadcast)</info>
+<info gid="1016362058" type="Vintage">2014 (TV Azteca 7 - México)</info>
+<info gid="1914892786" type="Vintage">2014-03-10 (ETC...TV - Chile)</info>
+<info gid="2369476489" type="Opening Theme">#1: &quot;Pegasus Fantasy ver.Ω&quot; by MAKE-UP with Shoko Nakagawa (eps 1-27)</info>
+<info gid="3336456530" type="Opening Theme">#2: &quot;Next Generation&quot; (新星Ω神話) by √5 (eps 28-)</info>
+<info gid="1603377592" type="Opening Theme">#2: &quot;Shinsei Ω Shinwa -Next Generation-&quot; (新星Ω神話 -next generation-) by √5 (rootfive) (eps 28-51)</info>
+<info gid="1608194690" type="Opening Theme">#3: &quot;Mirai Saint Omega ~Saint Evolution~&quot; (未来聖闘士Ω～セイントエボリューション～) by Nagareda Project</info>
+<info gid="1493980019" type="Opening Theme">#4: &quot;Senkou Strings&quot; by Cyntia (eps 78-)</info>
+<info gid="2130080501" type="Insert song">&quot;Bravely&quot; by Hikaru Midorikawa (ep 86, ep 89)</info>
+<info gid="4109222818" type="Insert song">&quot;I'll Be There&quot; by Shoko Nakagawa (ep 91)</info>
+<info gid="2511227176" type="Insert song">&quot;Inochi no Hana&quot; by Hiromi Tsuru (ep 92)</info>
+<info gid="1576495109" type="Insert song">&quot;Spirit of Saint&quot; by Tohru Furuya (ep 95)</info>
+<info gid="1536141540" type="Insert song">&quot;Undercover of the Moonlight&quot; by Tatsuhisa Susuki (ep 56)</info>
+<info gid="3001189427" type="Official website" lang="PT" href="http://cavzodiaco.com.br/">Brazilian Official Saint Seiya Fanclub</info>
+<info gid="1965808317" type="Official website" lang="EN" href="http://www.crunchyroll.com/seiya-omega">Crunchroll's &lt;i&gt;Saint Seiya Omega&lt;/i&gt; site</info>
+<info gid="752873635" type="Official website" lang="JA" href="http://www.toei-anim.co.jp/tv/seiya/">聖闘士星矢Ω-セイントセイヤオメガ- 公式サイト 東映アニメーション</info>
+<info gid="3712929813" type="Official website" lang="JA" href="http://www.tv-asahi.co.jp/seiya-koga/">聖闘士星矢Ω｜テレビ朝日</info>
+<ratings nb_votes="90" weighted_score="5.6131" bayesian_score="5.85414"/>
+<episode num="1">
+<title gid="2164299905" lang="EN">Seiya Saves My Life! Legendary Saint Fighter's Resurrection!</title></episode>
+<episode num="2">
+<title gid="1421913187" lang="EN">Departure! A New Generation of Saints!</title></episode>
+<episode num="3">
+<title gid="3959613200" lang="EN">The Law of the Mask! The Wind Saint Appears!</title></episode>
+<episode num="4">
+<title gid="3470000485" lang="EN">The Son of a Hero! Ryūhō Versus Kōga!</title></episode>
+<episode num="5">
+<title gid="2175536229" lang="EN">A Selection Exam! The Deadly Camp Challenge!</title></episode>
+<episode num="6">
+<title gid="3641566117" lang="EN">The Curtain Raises! The Saint Fights!</title></episode>
+<episode num="7">
+<title gid="2472250172" lang="EN">The Fist of Friendship! Strike, Pegasus Meteor Punch!</title></episode>
+<episode num="8">
+<title gid="3374203307" lang="EN">Fateful Meeting! The Smashing Gold Saint!</title></episode>
+<episode num="9">
+<title gid="2045538331" lang="EN">The Crisis of Sanctuary! Dash, Ninja Saint!</title></episode>
+<episode num="10">
+<title gid="2458291011" lang="EN">Suicidal Rescue! One More Gold Saint!</title></episode>
+<episode num="11">
+<title gid="3201990864" lang="EN">Protect Aria! The Attack of Sonia, the Pursuer!</title></episode>
+<episode num="12">
+<title gid="644969908" lang="EN">The Inherited Cosmo! Shun, the Legendary Saint!</title></episode>
+<episode num="13">
+<title gid="1946947871" lang="EN">Seiya's Message! To You, I Entrust Athena!</title></episode>
+<episode num="14">
+<title gid="597187171" lang="EN">Reunion in My Homeland! Mentor and Disciple Duel in the Snowfields!</title></episode>
+<episode num="15">
+<title gid="2376928761" lang="EN">Poisoned Fangs Attack! Conspiracy at the Second Ruins!</title></episode>
+<episode num="16">
+<title gid="2241435297" lang="EN">At the Star of Destiny's Side! The Way of Living of a Saint!</title></episode>
+<episode num="17">
+<title gid="3509705573" lang="EN">Protect Them! The Cloth Repairer and the Legendary Ore!</title></episode>
+<episode num="18">
+<title gid="3020426229" lang="EN">The Flames of Revenge! Sōma, The Battle of Destiny!</title></episode>
+<episode num="19">
+<title gid="2134009904" lang="EN">The Secret of the Five Old Peaks! Pass It Down, Father, the Fighting Spirit of Shiryū!</title></episode>
+<episode num="20">
+<title gid="3659666980" lang="EN">For Aria's Sake! Eden's Wrathful Lightning Strike!</title></episode>
+<episode num="21">
+<title gid="3079622708" lang="EN">The Flightless Pegasus! The Journey of Forfeit!</title></episode>
+<episode num="22">
+<title gid="2268333242" lang="EN">Feelings Toward My Friends! The Pride of the Saints and the Way of the Shinobi!</title></episode>
+<episode num="23">
+<title gid="2323889739" lang="EN">Invading the Enemy Camp! Young Saints, Together Again!</title></episode>
+<episode num="24">
+<title gid="3037992762" lang="EN">Aiming For A Reunion! Let's Go, To The Last Ruins!</title></episode>
+<episode num="25">
+<title gid="2108147953" lang="EN">Unknown Territory! The Moment of a Chance Meeting!</title></episode>
+<episode num="26">
+<title gid="1852083970" lang="EN">Reminiscence and Revenge! The Trap of the Ruins of Darkness!</title></episode>
+<episode num="27">
+<title gid="525618273" lang="EN">The End of the Journey! The Light of the Girl and the Youths!</title></episode>
+<episode num="28">
+<title gid="1589047925" lang="EN">The Strongest Army! The Gathering of Gold Saints!</title></episode>
+<episode num="29">
+<title gid="1485333621" lang="EN">The Beginning of a New Battle! The Zodiac Temples!</title></episode>
+<episode num="30">
+<title gid="3202355757" lang="EN">Wondrous Power! The Taurus Saint!</title></episode>
+<episode num="31">
+<title gid="3427923653" lang="EN">The Crossroad of Fate! The Enigma of Gemini!</title></episode>
+<episode num="32">
+<title gid="1175222231" lang="EN">Fearing the Truth! The Unearthly Atmosphere of Cancer!</title></episode>
+<episode num="33">
+<title gid="2363929146" lang="EN">The Essence of Cosmo! The Seventh Sense!</title></episode>
+<episode num="34">
+<title gid="1187564853" lang="EN">Between Life and Death! Battle at the Underworld!</title></episode>
+<episode num="35">
+<title gid="2025724143" lang="EN">The Fist of the Lion! Eden's Sorrowful Battle!</title></episode>
+<episode num="36">
+<title gid="3301768936" lang="EN">Sublime Pride! Mycenae's Kingly Fist!</title></episode>
+<episode num="37">
+<title gid="2972507018" lang="EN">The Unshakable Guardian! The Virgo Gold Saint!</title></episode>
+<episode num="38">
+<title gid="2411497158" lang="EN">The Heroic Betrayal! Eden's Determined Fighting Spirit!</title></episode>
+<episode num="39">
+<title gid="2265118430" lang="EN">Reunion in Libra! Clash, Gold vs Gold!</title></episode>
+<episode num="40">
+<title gid="3134676623" lang="EN">Sonia's Resolution! The Chain of Fate Is Broken!</title></episode>
+<episode num="41">
+<title gid="3679396576" lang="EN">Tokisada's Ambition! The Champion Beyond Time!</title></episode>
+<episode num="42">
+<title gid="3675754336" lang="EN">The Traitorous Gold Saint! Ionia versus Kouga!</title></episode>
+<episode num="43">
+<title gid="1352286661" lang="EN">Resurrection of the War God! Break Into the Last Temple!</title></episode>
+<episode num="44">
+<title gid="306150211" lang="EN">For my friends! The Hidden Power in Kōga!</title></episode>
+<episode num="45">
+<title gid="3716503723" lang="EN">The Malevolent War God! Mars and Ludwig!&quot;</title></episode>
+<episode num="46">
+<title gid="1110724351" lang="EN">Koga and Eden! Young Cosmo, Slay the Darkneess!&quot;</title></episode>
+<episode num="47">
+<title gid="263539162" lang="EN">The Only Hope! A New Battlefield!</title></episode>
+<episode num="48">
+<title gid="2919316958" lang="EN">Gather Friends! Koga's Overflowing Cosmo!</title></episode>
+<episode num="49">
+<title gid="2830333976" lang="EN">The Ruler of Darkness! The Terror of Abzu!</title></episode>
+<episode num="50">
+<title gid="1549575031" lang="EN">Take it to Seiya! The Wish of the Young Saints!</title></episode>
+<episode num="51">
+<title gid="782021505" lang="EN">Shine, Koga! The Final Battle Between Light and Darkness!</title></episode>
+<episode num="52">
+<title gid="1635630757" lang="EN">The New Cloth! Take Flight, New Pegasus!</title></episode>
+<episode num="53">
+<title gid="2505742163" lang="EN">The Reunion! Souma, Let Your Spirit's Flame Burn!</title></episode>
+<episode num="54">
+<title gid="1728846438" lang="EN">Strengthen My Courage! Cloth, Be Reborn!</title></episode>
+<episode num="55">
+<title gid="1292679506" lang="EN">The Irreplaceable One! Dragon, Awake!</title></episode>
+<episode num="56">
+<title gid="125258458" lang="EN">Resound in my Heart! Haruto's Shout!</title></episode>
+<episode num="57">
+<title gid="2391884625" lang="EN">Defeat Pegasus! Eden, The Warrior Of Solitude!</title></episode>
+<episode num="58">
+<title gid="1745531625" lang="EN">The Four Great Kings Arive! Athena vs. Pallas Complete Showdown!</title></episode>
+<episode num="59">
+<title gid="2881882757" lang="EN">The Bond Between Brothers! Andromeda Shun Joins the Battle!</title></episode>
+<episode num="60">
+<title gid="2815941625" lang="EN">The Star of Steel! Subaru, Embrace Your Fighting Spirit of Steel!</title></episode>
+<episode num="61">
+<title gid="2763094041" lang="EN">A Great Army Approaches! The Battle to Defend Palaestra!</title></episode>
+<episode num="62">
+<title gid="3121073812" lang="EN">Genbu's Deadly Battle! Excalibur vs. the Sword of Libra</title></episode>
+<episode num="63">
+<title gid="1582713113" lang="EN">Seiya, Head to the Frontlines! Athena's Decision!</title></episode>
+<episode num="64">
+<title gid="2575426962" lang="EN">Go Forward, Saint! The Innaccesible Road to Palace Belda!</title></episode>
+<news datetime="2012-02-06T21:18:29Z" href="http://www.animenewsnetwork.com/news/2012-02-06/saint-seiya-returns-in-new-omega-tv-anime-series">&lt;cite&gt;Saint Seiya&lt;/cite&gt; Returns in New &lt;cite&gt;Omega&lt;/cite&gt; TV Anime Series</news>
+<news datetime="2012-03-08T21:45:00Z" href="http://www.animenewsnetwork.com/news/2012-03-08/saint-seiya-omega-tv-anime-cast-revealed">&lt;cite&gt;Saint Seiya Omega&lt;/cite&gt; TV Anime's Cast Revealed</news>
+<news datetime="2012-03-10T04:26:49Z" href="http://www.animenewsnetwork.com/news/2012-03-09/saint-seiya-omega-premiere-to-be-simulcast-in-taiwan-brazil-france">&lt;cite&gt;Saint Seiya Omega&lt;/cite&gt; Premiere to Be Simulcast in Taiwan, Brazil, France</news>
+<news datetime="2012-03-23T23:30:00Z" href="http://www.animenewsnetwork.com/news/2012-03-23/saint-seiya-omega-tv-anime-3rd-ad-aired">&lt;cite&gt;Saint Seiya Omega&lt;/cite&gt; TV Anime 3rd Ad Aired</news>
+<news datetime="2012-03-25T15:00:00Z" href="http://www.animenewsnetwork.com/news/2012-03-25/saint-seiya-omega-tv-anime-4th-ad-aired-with-athena">&lt;cite&gt;Saint Seiya Omega&lt;/cite&gt; TV Anime 4th Ad Aired with Athena</news>
+<news datetime="2012-03-30T19:49:14Z" href="http://www.animenewsnetwork.com/news/2012-03-30/crunchyroll-to-stream-saint-seiya-omega-tv-anime">Crunchyroll to Stream &lt;cite&gt;Saint Seiya Omega&lt;/cite&gt; TV Anime</news>
+<news datetime="2013-03-08T21:00:00Z" href="http://www.animenewsnetwork.com/news/2013-03-08/saint-seiya-omega-new-arc-staff-cast-revealed">&lt;cite&gt;Saint Seiya Omega&lt;/cite&gt; New Arc's Staff, Cast Revealed</news>
+<news datetime="2014-02-24T04:05:00Z" href="http://www.animenewsnetwork.com/news/2014-02-23/saint-seiya-omega-tv-anime-to-end-in-march">&lt;cite&gt;Saint Seiya Omega&lt;/cite&gt; TV Anime to End in March (Update 3)</news>
+<staff gid="2025387835"><task>Series Director</task><person id="31129">Tatsuya Nagamine</person></staff>
+<staff gid="2909205250"><task>Series Director</task><person id="83522">Morio Hatano</person></staff>
+<staff gid="2467160696"><task>Series Director</task><person id="94753">Kōhei Kureta</person></staff>
+<staff gid="1651334816"><task>Series Composition</task><person id="110">Reiko Yoshida</person></staff>
+<staff gid="2844735429"><task>Series Composition</task><person id="31128">Yoshimi Narita</person></staff>
+<staff gid="3161487798"><task>Script</task><person id="110">Reiko Yoshida</person></staff>
+<staff gid="1463473915"><task>Script</task><person id="429">Michiko Yokote</person></staff>
+<staff gid="502998744"><task>Script</task><person id="31128">Yoshimi Narita</person></staff>
+<staff gid="2500504230"><task>Script</task><person id="38270">Akatsuki Yamatoya</person></staff>
+<staff gid="2428285347"><task>Script</task><person id="66437">Makoto Koyama</person></staff>
+<staff gid="738408030"><task>Script</task><person id="75770">Isao Murayama</person></staff>
+<staff gid="3330831534"><task>Script</task><person id="82056">Yūji Kobayashi</person></staff>
+<staff gid="3731306932"><task>Script</task><person id="111883">Itsuki Itō</person></staff>
+<staff gid="2737545085"><task>Storyboard</task><person id="3875">Yoshitaka Fujimoto</person></staff>
+<staff gid="1742218524"><task>Storyboard</task><person id="4039">Yukio Kaizawa</person></staff>
+<staff gid="3534792512"><task>Storyboard</task><person id="6688">Nobuhiro Kondo</person></staff>
+<staff gid="2198110137"><task>Storyboard</task><person id="7756">Susumu Nishizawa</person></staff>
+<staff gid="1253813129"><task>Storyboard</task><person id="8979">Tomoharu Katsumata</person></staff>
+<staff gid="982763192"><task>Storyboard</task><person id="11208">Ken Ootsuka</person></staff>
+<staff gid="3390229697"><task>Storyboard</task><person id="11437">Eisaku Inoue</person></staff>
+<staff gid="1622533349"><task>Storyboard</task><person id="13655">Masahiro Hosoda</person></staff>
+<staff gid="1569077003"><task>Storyboard</task><person id="15200">Fumitoshi Oizaki</person></staff>
+<staff gid="2985665808"><task>Storyboard</task><person id="18292">Naotoshi Shida</person></staff>
+<staff gid="2178446492"><task>Storyboard</task><person id="23206">Yoshitaka Yashima</person></staff>
+<staff gid="1965228041"><task>Storyboard</task><person id="25784">Hiroyuki Kakudou</person></staff>
+<staff gid="3619817205"><task>Storyboard</task><person id="35794">Kouhei Hatano</person></staff>
+<staff gid="1716793444"><task>Storyboard</task><person id="39761">Koichiro Sohtome</person></staff>
+<staff gid="2093861752"><task>Storyboard</task><person id="40491">Kimitoshi Chioka</person></staff>
+<staff gid="1739473250"><task>Storyboard</task><person id="57467">Masato Jinbo</person></staff>
+<staff gid="2873538666"><task>Storyboard</task><person id="65739">Toshinori Fukuzawa</person></staff>
+<staff gid="1188054556"><task>Storyboard</task><person id="83522">Morio Hatano</person></staff>
+<staff gid="1354500942"><task>Storyboard</task><person id="83689">Takeshi Furuta</person></staff>
+<staff gid="2750794809"><task>Storyboard</task><person id="101214">Rie Matsumoto</person></staff>
+<staff gid="1729218035"><task>Storyboard</task><person id="109728">Makoto Sonoda</person></staff>
+<staff gid="2243312759"><task>Storyboard</task><person id="109870">Takayuki Mochimaru</person></staff>
+<staff gid="2962057880"><task>Episode Director</task><person id="2273">Masao Ookubo</person></staff>
+<staff gid="3205805035"><task>Episode Director</task><person id="3154">Osamu Sekita</person></staff>
+<staff gid="1202116080"><task>Episode Director</task><person id="4039">Yukio Kaizawa</person></staff>
+<staff gid="2421521868"><task>Episode Director</task><person id="8979">Tomoharu Katsumata</person></staff>
+<staff gid="3457873053"><task>Episode Director</task><person id="9471">Takao Iwai</person></staff>
+<staff gid="3483700840"><task>Episode Director</task><person id="24181">Hideki Hiroshima</person></staff>
+<staff gid="3380818032"><task>Episode Director</task><person id="25784">Hiroyuki Kakudou</person></staff>
+<staff gid="2049872318"><task>Episode Director</task><person id="31129">Tatsuya Nagamine</person></staff>
+<staff gid="2331366291"><task>Episode Director</task><person id="35794">Kouhei Hatano</person></staff>
+<staff gid="1095448684"><task>Episode Director</task><person id="40491">Kimitoshi Chioka</person></staff>
+<staff gid="1901976940"><task>Episode Director</task><person id="46243">Takeyuki Yanase</person></staff>
+<staff gid="3612155480"><task>Episode Director</task><person id="83220">Ryōta Nakamura</person></staff>
+<staff gid="1741001227"><task>Episode Director</task><person id="83522">Morio Hatano</person></staff>
+<staff gid="2497770000"><task>Episode Director</task><person id="94753">Kōhei Kureta</person></staff>
+<staff gid="1677001457"><task>Episode Director</task><person id="95348">Masato Mitsuka</person></staff>
+<staff gid="3854246457"><task>Episode Director</task><person id="101214">Rie Matsumoto</person></staff>
+<staff gid="4111925847"><task>Episode Director</task><person id="109728">Makoto Sonoda</person></staff>
+<staff gid="1790214502"><task>Unit Director</task><person id="83522">Morio Hatano</person></staff>
+<staff gid="3583923655"><task>Music</task><person id="114">Toshihiko Sahashi</person></staff>
+<staff gid="2951006122"><task>Original creator</task><person id="7821">Masami Kurumada</person></staff>
+<staff gid="2562314822"><task>Character Design</task><person id="64">Yoshihiko Umakoshi</person></staff>
+<staff gid="2740707664"><task>Character Design</task><person id="41905">Keiichi Ichikawa</person></staff>
+<staff gid="3707270567"><task>Art Director</task><person id="15081">Kentaro Akiyama</person></staff>
+<staff gid="2747609911"><task>Art</task><person id="2844">Ken Tokushige</person></staff>
+<staff gid="3498604847"><task>Art</task><person id="4042">Yoshito Watanabe</person></staff>
+<staff gid="4150427565"><task>Art</task><person id="6178">Osamu Honda</person></staff>
+<staff gid="1675471044"><task>Art</task><person id="10192">Tadashi Kudo</person></staff>
+<staff gid="2730628845"><task>Art</task><person id="11158">Yoshiyuki Shikano</person></staff>
+<staff gid="2998035878"><task>Art</task><person id="15081">Kentaro Akiyama</person></staff>
+<staff gid="2780143219"><task>Art</task><person id="15270">Makoto Suwada</person></staff>
+<staff gid="3020803713"><task>Art</task><person id="18957">Tomoko Yoshida</person></staff>
+<staff gid="1033418041"><task>Art</task><person id="20299">Satoshi Shibata</person></staff>
+<staff gid="1276634874"><task>Art</task><person id="25188">Akio Shimada</person></staff>
+<staff gid="2244507302"><task>Art</task><person id="41823">Yukiko Kitamura</person></staff>
+<staff gid="2954583959"><task>Chief Animation Director</task><person id="64">Yoshihiko Umakoshi</person></staff>
+<staff gid="3808801295"><task>Chief Animation Director</task><person id="34469">Yosuke Yabumoto</person></staff>
+<staff gid="2129364387"><task>Chief Animation Director</task><person id="82147">Emiko Miyamoto</person></staff>
+<staff gid="1415301365"><task>Animation Director</task><person id="64">Yoshihiko Umakoshi</person></staff>
+<staff gid="3204335852"><task>Animation Director</task><person id="4110">Yasuhiro Namatame</person></staff>
+<staff gid="808585792"><task>Animation Director</task><person id="4491">Akihiro Asanuma</person></staff>
+<staff gid="1340505071"><task>Animation Director</task><person id="4581">Noboru Koizumi</person></staff>
+<staff gid="2727212736"><task>Animation Director</task><person id="7595">Akira Takahashi</person></staff>
+<staff gid="2399467007"><task>Animation Director</task><person id="11522">Youichi Ohnishi</person></staff>
+<staff gid="1622052655"><task>Animation Director</task><person id="18289">Mariko Aoki</person></staff>
+<staff gid="2269147081"><task>Animation Director</task><person id="18314">Terumi Nishii</person></staff>
+<staff gid="3764416272"><task>Animation Director</task><person id="18356">Takaaki Fukuyo</person></staff>
+<staff gid="3659388217"><task>Animation Director</task><person id="19484">Setsuko Nobuzane</person></staff>
+<staff gid="3539751206"><task>Animation Director</task><person id="20775">Takuro Shinbo</person></staff>
+<staff gid="2006348412"><task>Animation Director</task><person id="22429">Mitsuru Soma</person></staff>
+<staff gid="2094677700"><task>Animation Director</task><person id="22551">Kenichi Takase</person></staff>
+<staff gid="698104636"><task>Animation Director</task><person id="23206">Yoshitaka Yashima</person></staff>
+<staff gid="1318058062"><task>Animation Director</task><person id="30645">Yuji Ushijima</person></staff>
+<staff gid="2762131987"><task>Animation Director</task><person id="31017">Mamoru Hoshino</person></staff>
+<staff gid="2408848095"><task>Animation Director</task><person id="34413">Kazuhiro Ota</person></staff>
+<staff gid="1619310006"><task>Animation Director</task><person id="34469">Yosuke Yabumoto</person></staff>
+<staff gid="2244925384"><task>Animation Director</task><person id="41905">Keiichi Ichikawa</person></staff>
+<staff gid="1506175262"><task>Animation Director</task><person id="43090">Kei Takeuchi</person></staff>
+<staff gid="1047957863"><task>Animation Director</task><person id="46243">Takeyuki Yanase</person></staff>
+<staff gid="2095960953"><task>Animation Director</task><person id="47673">Tatsuo Nakajima</person></staff>
+<staff gid="1008886284"><task>Animation Director</task><person id="71278">Masahiro Ando</person></staff>
+<staff gid="2981529836"><task>Animation Director</task><person id="82147">Emiko Miyamoto</person></staff>
+<staff gid="3502028463"><task>Producer</task><person id="80323">Gō Wakabayashi</person></staff>
+<staff gid="3575527385"><task>Producer</task><person id="81219">Tomoharu Matsuhisa</person></staff>
+<cast gid="331065175" lang="ES"><role>Ichi de Hidra</role><person id="23445">Daniel Abundis</person></cast>
+<cast gid="2160178942" lang="ES"><role>Kiki de Aries</role><person id="23445">Daniel Abundis</person></cast>
+<cast gid="834290603" lang="ES"><role>Saori Kido</role><person id="23479">Maria Fernanda Morales</person></cast>
+<cast gid="1740016669" lang="ES"><role>Medea</role><person id="23484">Ruth Toscano</person></cast>
+<cast gid="2277083226" lang="ES"><role>Seiya de Sagitario</role><person id="23490">Jesus Barrero</person></cast>
+<cast gid="2825258869" lang="ES"><role>Apsu</role><person id="31134">Rolando De la Fuente</person></cast>
+<cast gid="425396129" lang="ES"><role>Soma de León</role><person id="52007">Héctor Rocha</person></cast>
+<cast gid="3157453502" lang="ES"><role>Koga de Pegaso</role><person id="56822">Daniel Lacy</person></cast>
+<cast gid="3209457077" lang="ES"><role>Marte</role><person id="71283">Salvador Reyes</person></cast>
+<cast gid="1440397355" lang="ES"><role>Yuna de Aguila</role><person id="76030">Jahel Morga</person></cast>
+<cast gid="2600298548" lang="ES"><role>Aria</role><person id="84453">Diana Huicochea</person></cast>
+<cast gid="1565780588" lang="ES"><role>Haruto de Lobo</role><person id="118911">Gerardo Alonso</person></cast>
+<cast gid="1595903669" lang="ES"><role>Ryuho de Dragón</role><person id="119649">Héctor Mena</person></cast>
+<cast gid="754414889" lang="ES"><role>Edén de Orion</role><person id="140365">Juan David Allende</person></cast>
+<cast gid="2924530888" lang="FR"><role>Seiya du Sagittaire</role><person id="16173">Eric Legrand</person></cast>
+<cast gid="1222345533" lang="FR"><role>Saori Kido/Athena</role><person id="28707">Virginie Ledieu</person></cast>
+<cast gid="2743053376" lang="FR"><role>fudo de la vierge</role><person id="29284">Alexandre Gillet</person></cast>
+<cast gid="3431310768" lang="FR"><role>hati</role><person id="29284">Alexandre Gillet</person></cast>
+<cast gid="2249322297" lang="FR"><role>Sôma du Petit Lion</role><person id="38771">Benoit Dupac</person></cast>
+<cast gid="2707692209" lang="FR"><role>l'esprit de l'armure du verseau</role><person id="38776">Bruno Magne</person></cast>
+<cast gid="3395379784" lang="FR"><role>ymir de la griffe</role><person id="39993">Marie Millet</person></cast>
+<cast gid="2488292216" lang="FR"><role>halimede</role><person id="39995">Thierry Buisson</person></cast>
+<cast gid="3113947438" lang="FR"><role>Mars</role><person id="40006">Antoine Nouel</person></cast>
+<cast gid="1811724366" lang="FR"><role>shiryu</role><person id="43197">Benjamin Pascal</person></cast>
+<cast gid="1826504784" lang="FR"><role>greip</role><person id="44998">Fabrice Fara</person></cast>
+<cast gid="762144129" lang="FR"><role>mila</role><person id="45711">Stéphane Ronchewski</person></cast>
+<cast gid="2435845931" lang="FR"><role>shiryu du dragon</role><person id="45711">Stéphane Ronchewski</person></cast>
+<cast gid="1199423526" lang="FR"><role>ban du petit lion</role><person id="47653">Constantin Pappas</person></cast>
+<cast gid="2434017252" lang="FR"><role>ikki du phénix</role><person id="51162">Julien Kramer</person></cast>
+<cast gid="917312238" lang="FR"><role>Nachi</role><person id="51648">Luc Boulad</person></cast>
+<cast gid="1737255648" lang="FR"><role>Sutur</role><person id="51648">Luc Boulad</person></cast>
+<cast gid="2114417533" lang="FR"><role>apsu</role><person id="55747">Vincent Ribeiro</person></cast>
+<cast gid="2671401657" lang="FR"><role>europe</role><person id="55747">Vincent Ribeiro</person></cast>
+<cast gid="2044071913" lang="FR"><role>celeris</role><person id="56410">Jacques Bouanich</person></cast>
+<cast gid="1514156505" lang="FR"><role>Kôga de Pégase</role><person id="57040">Maxime Baudoin</person></cast>
+<cast gid="1132912262" lang="FR"><role>Eden d'Orion</role><person id="57276">Alexandre N'Guyen</person></cast>
+<cast gid="1487275965" lang="FR"><role>Ryuoh du Dragon</role><person id="60646">Olivier Podesta</person></cast>
+<cast gid="208413343" lang="FR"><role>Sôma du Petit Lion</role><person id="60973">Benoit Du Pac</person></cast>
+<cast gid="2640150021" lang="FR"><role>Yuna de l'Aigle</role><person id="63600">Maëlys Ricordeau</person></cast>
+<cast gid="2040036965" lang="FR"><role>hyoga</role><person id="105826">Franck Sportis</person></cast>
+<cast gid="1582371377" lang="FR"><role>Shaina du Serpentaire</role><person id="118417">Victoria Grosbois</person></cast>
+<cast gid="2305631071" lang="FR"><role>Haruto du Loup</role><person id="121172">Luc Harden</person></cast>
+<cast gid="2664933708" lang="FR"><role>Saturne</role><person id="126247">Benjamin Bollen</person></cast>
+<cast gid="1373290593" lang="FR"><role>Subaru</role><person id="126247">Benjamin Bollen</person></cast>
+<cast gid="1353698386" lang="JA"><role>Aquila Yuna</role><person id="278">Satsuki Yukino</person></cast>
+<cast gid="3176637246" lang="JA"><role>Hornet Sonia/Scorpio Sonia</role><person id="503">Aya Hisakawa</person></cast>
+<cast gid="1834421048" lang="JA"><role>Pallas</role><person id="511">Hiromi Tsuru</person></cast>
+<cast gid="2171739750" lang="JA"><role>Pegasus Kōga</role><person id="546">Hikaru Midorikawa</person></cast>
+<cast gid="2155012953" lang="JA"><role>Lionet Sōma</role><person id="780">Katsuyuki Konishi</person></cast>
+<cast gid="3793781163" lang="JA"><role>Sagittarius Seiya</role><person id="1105">Tohru Furuya</person></cast>
+<cast gid="1126568178" lang="JA"><role>Shaina</role><person id="1249">Mami Koyama</person></cast>
+<cast gid="1294242356" lang="JA"><role>Mars</role><person id="2172">Hidekatsu Shibata</person></cast>
+<cast gid="1907642189" lang="JA"><role>Aria</role><person id="3166">Mamiko Noto</person></cast>
+<cast gid="2246899138" lang="JA"><role>Saturne</role><person id="4762">Yuu Mizushima</person></cast>
+<cast gid="2569420124" lang="JA"><role>Subaru</role><person id="4762">Yuu Mizushima</person></cast>
+<cast gid="3706047094" lang="JA"><role>Titan</role><person id="6632">Eiji Takemoto</person></cast>
+<cast gid="927870939" lang="JA"><role>Wolf Haruto</role><person id="14071">Tatsuhisa Suzuki</person></cast>
+<cast gid="2121545895" lang="JA"><role>Dragon Ryūhō</role><person id="28816">Tetsuya Kakihara</person></cast>
+<cast gid="2643796145" lang="JA"><role>Orion Eden</role><person id="48696">Junichi Suwabe</person></cast>
+<cast gid="2871563344" lang="JA"><role>Athena/Saori Kido</role><person id="64237">Shoko Nakagawa</person></cast>
+<cast gid="1724275464" lang="PT"><role>Saori Kido/Atena</role><person id="48761">Letícia Quinto</person></cast>
+<cast gid="1090501764" lang="PT"><role>Sônia de Vespa</role><person id="48817">Suzy Pereira</person></cast>
+<cast gid="3398396416" lang="PT"><role>Yuna de Águia</role><person id="48823">Luísa Palomanes</person></cast>
+<cast gid="3425672787" lang="PT"><role>Seiya de Sagitário</role><person id="48884">Hermes Baroli</person></cast>
+<cast gid="2066812402" lang="PT"><role>Aria</role><person id="55192">Flora Paulita</person></cast>
+<cast gid="3043307479" lang="PT"><role>Marte</role><person id="55587">Luiz Carlos Persy</person></cast>
+<cast gid="1787794409" lang="PT"><role>Ryuhou de Dragão</role><person id="57937">Antônio Akira</person></cast>
+<cast gid="275433838" lang="PT"><role>Haruto de Lobo</role><person id="80942">Felipe Zilse</person></cast>
+<cast gid="1050111309" lang="PT"><role>Medea</role><person id="84348">Zodja Pereira</person></cast>
+<cast gid="512758838" lang="PT"><role>Souma de Leão Menor</role><person id="84368">Fabio Campos</person></cast>
+<cast gid="1285141675" lang="PT"><role>Éden de Órion</role><person id="89761">Diego Lima</person></cast>
+<cast gid="3230649360" lang="PT"><role>Ionia de Capricórnio</role><person id="104609">Emerson Camargo</person></cast>
+<cast gid="2810649345" lang="PT"><role>Kouga de Pégaso</role><person id="117639">Caio Guarnieri</person></cast>
+<credit gid="3007243796"><task>Animation Production</task><company id="145">Toei Animation</company></credit>
+<credit gid="2229032148"><task>Production</task><company id="145">Toei Animation</company></credit>
+<credit gid="2815571831"><task>Production</task><company id="160">TV Asahi</company></credit>
+<credit gid="2319807274"><task>Production</task><company id="249">Dentsu Inc.</company></credit></anime></ann>

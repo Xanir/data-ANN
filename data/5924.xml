@@ -1,0 +1,66 @@
+<ann><anime id="5924" gid="3016546055" type="ONA" name="King of Fighters: Another Day" precision="ONA" generated-on="2016-03-27T02:06:35Z">
+<info gid="1344220940" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A5924-8.jpg" width="200" height="200"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A5924-8.jpg" width="200" height="200"/></info>
+<info gid="1880086295" type="Main title" lang="EN">The King of Fighters: Another Day</info>
+<info gid="3822597830" type="Alternative title" lang="EN">KOF: Another Day</info>
+<info gid="1561825837" type="Genres">action</info>
+<info gid="3414114023" type="Genres">drama</info>
+<info gid="553858853" type="Themes">martial arts</info>
+<info gid="3426065624" type="Plot Summary">Four stories that take place after the events of KOF: Maximum Impact. The first episode involve Alba and Soiree Meira who now spend their days protecting the citizens of Southtown after the demise of Duke and his gang.</info>
+<info gid="3415730000" type="Running time">10</info>
+<info gid="2051089615" type="Number of episodes">4</info>
+<info gid="1612319900" type="Vintage">2005-12-02 (Episode #1)</info>
+<info gid="2506984148" type="Vintage">2006-01-06 (Episode #2)</info>
+<info gid="2403083963" type="Vintage">2006-02-03 (Episode #3)</info>
+<info gid="3648281753" type="Vintage">2006-03-03 (Episode #4)</info>
+<info gid="2821300139" type="Ending Theme">&quot;Regret&quot; by Dakota Star</info>
+<ratings nb_votes="206" weighted_score="6.3997" bayesian_score="6.46637"/>
+<episode num="1">
+<title gid="2143324098" lang="EN">all out</title></episode>
+<episode num="2">
+<title gid="2485473516" lang="EN">accede</title></episode>
+<episode num="3">
+<title gid="1836713656" lang="EN">in the dark</title></episode>
+<episode num="4">
+<title gid="936391763" lang="EN">all over</title></episode>
+<staff gid="2657591938"><task>Director</task><person id="15162">Masaki Tachibana</person></staff>
+<staff gid="2138566517"><task>Script</task><person id="48408">Fumio Asanuma</person></staff>
+<staff gid="3865381841"><task>Music</task><person id="50280">Daiki Kasho</person></staff>
+<staff gid="3284413469"><task>Original Character Design</task><person id="48410">Falcoon</person></staff>
+<staff gid="2078597446"><task>Character Design</task><person id="28136">Makoto Shimomura</person></staff>
+<staff gid="773453002"><task>Art Director</task><person id="311">Yusuke Takeda</person></staff>
+<staff gid="2963035957"><task>Art</task><person id="1824">Seiki Tamura</person></staff>
+<staff gid="2493745180"><task>3D Director</task><person id="407">Makoto Endo</person></staff>
+<staff gid="1663307504"><task>Sound Director</task><person id="424">Kazuhiro Wakabayashi</person></staff>
+<staff gid="1139467544"><task>Director of Photography</task><person id="5725">Hiroshi Tanaka</person></staff>
+<cast gid="2863352146" lang="EN"><role>Maxima</role><person id="80346">Mike Jarmus</person></cast>
+<cast gid="592043964" lang="EN"><role>Terry Bogard</role><person id="80347">Tony Carroll</person></cast>
+<cast gid="1345705838" lang="EN"><role>Iori Yagami</role><person id="80348">Eric Summerer</person></cast>
+<cast gid="1960699569" lang="EN"><role>Luise Meyrink</role><person id="80349">Katrin Biemann</person></cast>
+<cast gid="1513161460" lang="EN"><role>Mai Shiranui</role><person id="80350">Sheryl Stanley</person></cast>
+<cast gid="2549194574" lang="EN"><role>Rock Howard</role><person id="80351">Mike Lane</person></cast>
+<cast gid="2058308911" lang="EN"><role>Ralf Jones</role><person id="80352">Scott Casey</person></cast>
+<cast gid="3060967794" lang="EN"><role>Soiree Meira</role><person id="80353">Ed Bishop</person></cast>
+<cast gid="1122633061" lang="EN"><role>Alba Meira</role><person id="80354">Jayson Wooley</person></cast>
+<cast gid="2235448514" lang="EN"><role>Kyo Kusanagi</role><person id="80355">Andrew Roth</person></cast>
+<cast gid="2835538978" lang="EN"><role>K'</role><person id="80356">Andrew Scott</person></cast>
+<cast gid="1780806483" lang="EN"><role>Athena Asamiya</role><person id="80357">Lily Kong</person></cast>
+<cast gid="1551115648" lang="EN"><role>Clark Still</role><person id="80358">Sean Michaels</person></cast>
+<cast gid="2355683361" lang="EN"><role>Billy Kane</role><person id="80359">Marc Donovan</person></cast>
+<cast gid="1421278909" lang="EN"><role>Lien Neville</role><person id="80360">Claire Caponigro</person></cast>
+<cast gid="1271407173" lang="JA"><role>Maxima</role><person id="780">Katsuyuki Konishi</person></cast>
+<cast gid="1972653607" lang="JA"><role>Iori Yagami</role><person id="875">Kunihiko Yasui</person></cast>
+<cast gid="3402675550" lang="JA"><role>Athena Asamiya</role><person id="4269">Haruna Ikezawa</person></cast>
+<cast gid="2721067978" lang="JA"><role>Rock Howard</role><person id="6632">Eiji Takemoto</person></cast>
+<cast gid="2574502145" lang="JA"><role>Soiree Meira</role><person id="8861">Kouji Haramaki</person></cast>
+<cast gid="2441876867" lang="JA"><role>Terry Bogard</role><person id="13427">Satoshi Hashimoto</person></cast>
+<cast gid="2090050871" lang="JA"><role>K'</role><person id="13651">Yuki Matsuda</person></cast>
+<cast gid="2337345359" lang="JA"><role>Lien Neville</role><person id="29103">Fumiko Inoue</person></cast>
+<cast gid="2969904621" lang="JA"><role>Ralf Jones</role><person id="46846">Monster Maezuka</person></cast>
+<cast gid="2140998875" lang="JA"><role>Billy Kane</role><person id="50274">Seijirou</person></cast>
+<cast gid="2193523138" lang="JA"><role>Mai Shiranui</role><person id="50275">Akoya Sogi</person></cast>
+<cast gid="1556548747" lang="JA"><role>Luise Meyrink</role><person id="50276">Hiroko Tsuji</person></cast>
+<cast gid="1510293729" lang="JA"><role>Kyo Kusanagi</role><person id="50277">Masahiro Nonaka</person></cast>
+<cast gid="2553648858" lang="JA"><role>Clark Steel</role><person id="50279">Yoshinori Shima</person></cast>
+<cast gid="1470634190" lang="JA"><role>Ash Crimson</role><person id="50638">Sônosuke Nagashiro</person></cast>
+<cast gid="3203304282" lang="JA"><role>Alba Meira</role><person id="118141">Yuki Sato</person></cast>
+<credit gid="2232771820"><task>Production</task><company id="337">Production I.G</company></credit></anime></ann>

@@ -1,0 +1,442 @@
+<ann><anime id="10179" gid="3609310819" type="TV" name="Hetalia - Axis Powers" precision="TV" generated-on="2016-03-27T03:22:58Z">
+<related-prev rel="adapted from" id="10178"/>
+<related-next id="11097" rel="related"/>
+<related-next id="11720" rel="sequel"/>
+<info gid="1017887856" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A10179-24.jpg" width="200" height="200"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A10179-24.jpg" width="200" height="200"/><img src="http://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A10179-24.jpg" width="215" height="215"/></info>
+<info gid="1011049696" type="Main title" lang="EN">Hetalia - Axis Powers</info>
+<info gid="434751652" type="Alternative title" lang="JA">ヘタリア Axis Powers</info>
+<info gid="1263483115" type="Alternative title" lang="ZH-TW">義呆利</info>
+<info gid="3619593485" type="Genres">comedy</info>
+<info gid="1079363116" type="Themes">bishounen</info>
+<info gid="1926255733" type="Themes">historical</info>
+<info gid="417660822" type="Themes">moe</info>
+<info gid="1805334940" type="Themes">parody</info>
+<info gid="1186246754" type="Objectionable content">OC</info>
+<info gid="1535408128" type="Plot Summary">Italy, once home of the strongest empire in the world, has changed. This is the story of Italy, now a cowardly pasta-loving fool, and his friends (other personified countries of the world) as they live through strange moments in world history.</info>
+<info gid="1584928040" type="Running time">5</info>
+<info gid="2199120871" type="Vintage">2009-01-24</info>
+<info gid="1115660772" type="Vintage">2012-10-05 to 2012-10-18 (Philippines, Hero - Kid's Squad)</info>
+<info gid="2149337493" type="Opening Theme">&quot;The World of Hetalia&quot; by ???</info>
+<info gid="1176675000" type="Ending Theme">#1: &quot;Marukaite Chikyuu&quot; by Daisuke Namikawa</info>
+<info gid="333432724" type="Ending Theme">#2: &quot;Marukaite Chikyuu&quot; by Hiroki Yasumoto (ep 27)</info>
+<info gid="2151702958" type="Ending Theme">#3: &quot;Marukaite Chikyuu&quot; by Hiroki Takahashi (ep 30)</info>
+<info gid="1810077575" type="Ending Theme">#4: &quot;Marukaite Chikyuu&quot; by Yasuhiro Takato (ep 43)</info>
+<info gid="2627491766" type="Ending Theme">#5: &quot;Marukaite Chikyuu&quot; by Noriaki Sugiyama (ep 46)</info>
+<info gid="2118371957" type="Ending Theme">#6: &quot;Marukaite Chikyuu&quot; by Masaya Onosaka (ep 47)</info>
+<info gid="1933846837" type="Ending Theme">#7: &quot;Marukaite Chikyuu&quot; by Katsuyuki Konishi (ep 49)</info>
+<info gid="2640643429" type="Ending Theme">#8: &quot;Marukaite Chikyuu&quot; by Yuki Kaida (ep 58)</info>
+<info gid="2121234159" type="Ending Theme">#9: &quot;Hata Futte Parade&quot; by Daisuke Namikawa (ep 62)</info>
+<info gid="2562788067" type="Official website" lang="EN" href="http://www.funimation.com/hetalia/">Hetalia: Axis Powers- The Official Website (English)</info>
+<info gid="2911035422" type="Official website" lang="EN" href="http://manga.co.uk/titles/hetalia-axis-powers-complete-series-1">Manga UK's Official Hetalia Axis Powers Sales Site</info>
+<info gid="717847207" type="Official website" lang="EN" href="http://www.madman.com.au/series/home/15895">Madman's Official Hetalia: Axis Powers Sales Site</info>
+<info gid="2706209046" type="Official website" lang="JA" href="http://hetalia.com/">ヘタリアドットコム：TVアニメ「ヘタリア Hetalia Axis Powers」公式サイト</info>
+<ratings nb_votes="1004" weighted_score="7.393" bayesian_score="7.39466"/>
+<episode num="1">
+<title part="A" gid="3118958190" lang="EN">Meeting of the world</title>
+<title part="B" gid="598279748" lang="EN">Prologue</title>
+<title part="C" gid="1825627661" lang="EN">Chibitalia part 1</title></episode>
+<episode num="2">
+<title part="A" gid="1688780416" lang="EN">WW1</title>
+<title part="B" gid="2159996368" lang="EN">Chibitalia part 2</title>
+<title part="C" gid="1878376458" lang="EN">WW1 part 2</title></episode>
+<episode num="3">
+<title part="A" gid="1153886325" lang="EN">Italy's song</title>
+<title part="B" gid="2327346356" lang="EN">Italy gets a job (WW1)</title>
+<title part="C" gid="554183131" lang="EN">Italy becomes an ally (WW2)</title></episode>
+<episode num="4">
+<title part="A" gid="2236984106" lang="EN">Meet Japan</title>
+<title part="B" gid="2735476013" lang="EN">U-Boat miniatures</title>
+<title part="C" gid="3320775451" lang="EN">Chibitalia part 3</title></episode>
+<episode num="5">
+<title part="A" gid="1913360895" lang="EN">Shouting S.O.S At The Center Of The World!</title>
+<title part="B" gid="2119716083" lang="EN">Becoming Germany's Ally</title>
+<title part="C" gid="2492985306" lang="EN">Becoming Germany's Ally, take 2</title>
+<title part="D" gid="3505826733" lang="EN">S.O.S, part 2</title>
+<title part="E" gid="3374898824" lang="EN">Chibitalia Pt.4</title>
+<title part="F" gid="998838522" lang="EN">S.O.S, part 3</title>
+<title gid="1832526310" lang="EN">Shouting S.O.S At The Center Of The World!</title></episode>
+<episode num="6">
+<title part="A" gid="2633113631" lang="EN">Surveillance</title>
+<title part="B" gid="2446951981" lang="EN">Hello, I Am A Freeloader</title>
+<title part="C" gid="3179145432" lang="EN">Roasting Marshmallows</title>
+<title part="D" gid="2901727905" lang="EN">Chibitalia pt.5</title>
+<title part="E" gid="430211907" lang="EN">Roasting Marshmallows pt.2</title>
+<title part="F" gid="943285754" lang="EN">Freeloader Taking Control</title>
+<title gid="2245667679" lang="EN">G. An Unexpected Guest</title></episode>
+<episode num="7">
+<title part="A" gid="2071174622" lang="EN">Allied Forces</title>
+<title part="B" gid="2870588238" lang="EN">Meet My Big Brother!</title>
+<title part="C" gid="712265512" lang="EN">Good Luck! Big Brother!</title>
+<title part="D" gid="2299010793" lang="EN">Chibitalia pt.6</title></episode>
+<episode num="8">
+<title part="A" gid="771421667" lang="EN">Captured!</title>
+<title part="B" gid="2779117819" lang="EN">Captured again</title>
+<title part="C" gid="1723899541" lang="EN">Prisoners</title>
+<title part="D" gid="1957484908" lang="EN">Chibitalia pt.7</title></episode>
+<episode num="9">
+<title part="A" gid="1320492440" lang="EN">I'm The Hero, Of Course!</title>
+<title part="B" gid="2823277434" lang="EN">Allied Forces</title>
+<title part="C" gid="1689901751" lang="EN">Divide and conquer</title>
+<title part="D" gid="691563005" lang="EN">Chibitalia pt.8</title>
+<title part="E" gid="2121544032" lang="EN">All will become one...</title></episode>
+<episode num="10">
+<title part="A" gid="620958851" lang="EN">Left Out</title>
+<title part="B" gid="3382541002" lang="EN">A History Of Victory And Defeat</title>
+<title part="C" gid="2079742971" lang="EN">A History Of More Victories And Defeats</title>
+<title part="D" gid="2377754985" lang="EN">Chibitalia pt.9</title></episode>
+<episode num="11">
+<title part="A" gid="3772473484" lang="EN">Chibitalia pt.10</title>
+<title part="B" gid="2329291359" lang="EN">England's Special Friends</title>
+<title part="C" gid="3143411414" lang="EN">Germany Vs.Italy</title></episode>
+<episode num="12">
+<title part="A" gid="608686460" lang="EN">England, I Have Something To Tell You...</title>
+<title part="B" gid="1217306912" lang="EN">Secret Training With 007</title>
+<title part="C" gid="3822420063" lang="EN">Japan Vs. Italy</title></episode>
+<episode num="13">
+<title part="A" gid="1692602742" lang="EN">How (Not) To Handle Your Inferiors</title>
+<title part="B" gid="3415325858" lang="EN">England's Revenge</title>
+<title part="C" gid="809739156" lang="EN">Revenge, take 2</title>
+<title part="D" gid="2014463698" lang="EN">Russia's Curse</title>
+<title part="E" gid="2289201789" lang="EN">Russia and France, take 2</title></episode>
+<episode num="14">
+<title part="A" gid="2714657435" lang="EN">The Italian Army</title>
+<title part="B" gid="2486347577" lang="EN">The Special Abilities Of Italy</title>
+<title part="C" gid="489023413" lang="EN">A German Simulator</title>
+<title part="D" gid="1116105890" lang="EN">In France</title></episode>
+<episode num="15">
+<title part="A" gid="1667730910" lang="EN">Foreigner Food</title>
+<title part="B" gid="607672893" lang="EN">Western Indecency</title>
+<title part="C" gid="3150288076" lang="EN">Training For War: How To Salute</title>
+<title part="D" gid="1558711368" lang="EN">Training Pt.2</title>
+<title part="E" gid="2887469241" lang="EN">The Largest Souvenir For A Friend</title></episode>
+<episode num="16">
+<title part="A" gid="756042442" lang="EN">Teensy Japan</title>
+<title part="B" gid="1079134068" lang="EN">He Invented Hiragana</title>
+<title part="C" gid="1370582163" lang="EN">He's (Not) My Brother</title>
+<title part="D" gid="1731228252" lang="EN">The Rabbit Pounds The Moon</title></episode>
+<episode num="17">
+<title part="A" gid="2902824233" lang="EN">Cleaning Out The Storage</title>
+<title gid="2505145408" lang="EN">America's Cleaning Of The Storage, Part 1</title>
+<title part="B" gid="3144762577" lang="EN">Supersize You!</title>
+<title part="C" gid="1512072428" lang="EN">The French-Style Diet</title>
+<title part="D" gid="2205937596" lang="EN">The Chinese-Style Diet</title>
+<title part="E" gid="2722271270" lang="EN">The Japanese-Style Diet</title>
+<title part="F" gid="2524348509" lang="EN">Memories In The Storage</title></episode>
+<episode num="18">
+<title part="A" gid="919792933" lang="EN">Allies Attack!</title>
+<title part="B" gid="2943080082" lang="EN">The Second Raid</title></episode>
+<episode num="19">
+<title part="A" gid="257800242" lang="EN">Portable Chinatown</title>
+<title part="B" gid="2362961976" lang="EN">Fear Of The English Army</title>
+<title part="C" gid="3187407536" lang="EN">The Invisible Ally</title>
+<title part="D" gid="2817516490" lang="EN">Fast As A Tank</title>
+<title part="E" gid="3071977711" lang="EN">A spy among us</title></episode>
+<episode num="20">
+<title part="A" gid="2013217634" lang="EN">Italian Hand-Grenade</title>
+<title gid="2160444261" lang="EN">America's Cleaning Of The Storage, Part 2</title>
+<title part="B" gid="962529262" lang="EN">England's Egg</title>
+<title part="C" gid="1324310823" lang="EN">Eggland</title>
+<title part="D" gid="1679569636" lang="EN">America's Cleaning Of The Storage</title></episode>
+<episode num="21">
+<title part="A" gid="3403090168" lang="EN">Chibitalia pt.11</title>
+<title part="B" gid="3703915961" lang="EN">It's Sealand-kun!</title>
+<title part="C" gid="1100191085" lang="EN">Let's Greet People!</title>
+<title part="D" gid="2569558944" lang="EN">Let's Persuade People!</title>
+<title part="E" gid="1040423274" lang="EN">The Power Of Italy</title></episode>
+<episode num="22">
+<title part="A" gid="2848968963" lang="EN">Chibitalia pt.12</title></episode>
+<episode num="23">
+<title part="A" gid="1240095666" lang="EN">Liechtenstein And Her Beloved Brother</title>
+<title part="B" gid="2193661383" lang="EN">Liechtenstein And Her Beloved Brother part 2</title>
+<title part="C" gid="2278011462" lang="EN">The Effect Of Tomatoes</title>
+<title part="D" gid="534351586" lang="EN">For Some Reason, They Sleep Together</title></episode>
+<episode num="24">
+<title part="A" gid="1957007993" lang="EN">Shipwrecked</title>
+<title part="B" gid="1561473253" lang="EN">Liechtenstein And Her Beloved Brother, Part 3</title>
+<title part="C" gid="667924451" lang="EN">Liechtenstein And Her Beloved Brother, Part 4</title>
+<title part="D" gid="1784120485" lang="EN">Liechtenstein And Her Beloved Brother, Part 5</title>
+<title part="E" gid="590043673" lang="EN">Liechtenstein And Her Beloved Brother, Part 6</title></episode>
+<episode num="25">
+<title part="A" gid="1718798937" lang="EN">America And England</title>
+<title part="B" gid="2347487646" lang="EN">Liechtenstein And Her Beloved Brother, Part 7</title>
+<title part="C" gid="2002498970" lang="EN">Liechtenstein And Her Beloved Brother, Part 8</title>
+<title part="D" gid="1475010599" lang="EN">Liechtenstein And Her Beloved Brother, Part 9</title></episode>
+<episode num="26">
+<title part="A" gid="1938101057" lang="EN">England Note #1</title>
+<title part="B" gid="2380689228" lang="EN">England Note #2</title>
+<title part="C" gid="2367209006" lang="EN">England Note #3</title>
+<title part="D" gid="1435026374" lang="EN">Return Of The Chair</title></episode>
+<episode num="27">
+<title part="A" gid="2671100015" lang="EN">Diary Entry #1: Cooking</title>
+<title part="B" gid="1828994173" lang="EN">Diary Entry #2: He's Always Bullied</title>
+<title part="C" gid="2563364339" lang="EN">Diary Entry #3: Invasion</title>
+<title part="D" gid="3789992205" lang="EN">Diary Entry #4: Friend</title></episode>
+<episode num="28">
+<title gid="2804305102" lang="EN">:) In The World</title></episode>
+<episode num="29">
+<title part="A" gid="2715492865" lang="EN">Why Did Russia Dive?</title>
+<title part="B" gid="791150842" lang="EN">The Three Baltic States</title>
+<title part="C" gid="1549742458" lang="EN">Latvia Stretched</title>
+<title part="D" gid="1961883541" lang="EN">All Over The Place</title>
+<title part="E" gid="705971320" lang="EN">Falling For Ice Cream</title></episode>
+<episode num="30">
+<title part="A" gid="705710613" lang="EN">England And The Tengu Chair</title>
+<title part="B" gid="2715751982" lang="EN">England At The Hot Spring</title>
+<title part="C" gid="472506869" lang="EN">Kappa And England</title>
+<title gid="706135295" lang="EN">The Ghost Culture Of England And Japan</title></episode>
+<episode num="31">
+<title part="A" gid="1008957880" lang="EN">Christmas At Hetalia Academy</title>
+<title gid="1741554774" lang="EN">Academy Hetalia Christmas</title>
+<title part="B" gid="2217949993" lang="EN">As for America...</title>
+<title part="C" gid="694319205" lang="EN">As for Russia...</title>
+<title part="D" gid="640142261" lang="EN">And...as for China</title>
+<title part="E" gid="1429023672" lang="EN">As for France...</title>
+<title part="F" gid="2027917536" lang="EN">As for Finland...</title></episode>
+<episode num="32">
+<title part="A" gid="2445403098" lang="EN">Intrusive Rome</title>
+<title part="B" gid="2791587711" lang="EN">Grandson-Crazy Rome</title>
+<title part="C" gid="2325274496" lang="EN">Grandpa Rome and Indecency</title>
+<title part="D" gid="1967333592" lang="EN">History with Rome</title>
+<title part="E" gid="3019590640" lang="EN">Grandpa's Fall</title>
+<title gid="2747439662" lang="EN">With Grandpa Rome</title></episode>
+<episode num="33">
+<title part="A" gid="1524761614" lang="EN">I Hate This Kind Of Cafe (Part 1)</title>
+<title part="B" gid="2073021384" lang="EN">Wish Upon A Star</title>
+<title part="C" gid="1207083922" lang="EN">I Hate This Kind Of Cafe (Part 2)</title></episode>
+<episode num="34">
+<title part="A" gid="3267924023" lang="EN">Hello World! Hello Italy! (part 1)</title>
+<title part="B" gid="2815134204" lang="EN">Hello World! Hello Italy! (part 2)</title>
+<title part="C" gid="809184130" lang="EN">Hello World! Hello Italy! (part 3)</title>
+<title part="D" gid="3401203997" lang="EN">Hello World! Hello Italy! (part 4)</title>
+<title part="E" gid="2721099504" lang="EN">Who's Been Drawing These Pictures?</title>
+<title part="F" gid="1679752911" lang="EN">Who's Been Drawing These Pictures? (part 2)</title></episode>
+<episode num="35">
+<title part="A" gid="1507167495" lang="EN">Fly, Canada-san, Fly! (Part 1)</title>
+<title part="B" gid="2440493901" lang="EN">France-niichan and the Olympian Romance</title>
+<title part="C" gid="3696468977" lang="EN">Fly, Canada-san, Fly! (Part 2)</title></episode>
+<episode num="36">
+<title gid="1368676843" lang="EN">Why Americans Love Spring</title></episode>
+<episode num="37">
+<title part="A" gid="2506966118" lang="EN">A New Alliance</title>
+<title part="B" gid="1927260929" lang="EN">Italy's Nightmare</title>
+<title part="C" gid="3745003432" lang="EN">Advice from France</title>
+<title part="D" gid="1129586841" lang="EN">Escape Foiled</title>
+<title gid="1672495358" lang="EN">The Pact of Steel</title></episode>
+<episode num="38">
+<title part="A" gid="1052933996" lang="EN">The Letter</title>
+<title part="B" gid="1941305141" lang="EN">The Pact of Steel</title>
+<title part="C" gid="1558631778" lang="EN">Fly, Canada-san, Fly! (part 3)</title></episode>
+<episode num="39">
+<title part="A" gid="1997143142" lang="EN">Holy Roman Empire and Chibitalia</title>
+<title part="B" gid="1800062898" lang="EN">The Battle For The New World</title>
+<title part="C" gid="1619830338" lang="EN">Our Little Brother</title>
+<title part="D" gid="837551822" lang="EN">England the flag crusher</title>
+<title gid="3504633115" lang="EN">The Battle For America</title></episode>
+<episode num="40">
+<title part="A" gid="2741185991" lang="EN">F### You</title>
+<title part="B" gid="2226631873" lang="EN">Coup de Grace</title>
+<title part="C" gid="1635074276" lang="EN">An Older Brother's Sense Of Responsibility</title>
+<title part="D" gid="962879462" lang="EN">Another Dream</title>
+<title gid="1074078275" lang="EN">The Battle For America, Part 2</title></episode>
+<episode num="41">
+<title part="A" gid="1819603625" lang="EN">I'm Going To Try Reducing Japan's Willpower!</title>
+<title part="B" gid="3434677269" lang="EN">I'm Going To Try Reducing Russia's Willpower!</title>
+<title part="C" gid="1064231372" lang="EN">Manipulating Public Opinions With Big Brother France</title>
+<title part="D" gid="3455289393" lang="EN">Can't Read The Atmosphere</title></episode>
+<episode num="42">
+<title part="A" gid="2558336301" lang="EN">Ukraine</title>
+<title part="B" gid="2071811005" lang="EN">Belarus</title></episode>
+<episode num="43">
+<title part="A" gid="2464906273" lang="EN">The Day She Left</title>
+<title part="B" gid="2177320741" lang="EN">The One Who Came Back</title>
+<title part="C" gid="1689083145" lang="EN">One-Man Relationship</title>
+<title part="D" gid="3433993432" lang="EN">The Baltic Strangers</title>
+<title part="E" gid="1521792322" lang="EN">The Scarf</title>
+<title part="F" gid="1061492595" lang="EN">Advice From France: How To Make Others Like You</title></episode>
+<episode num="44">
+<title part="A" gid="785351602" lang="EN">The Rabbit Will Die Of Loneliness</title>
+<title part="B" gid="2223701336" lang="EN">Japan-kun and America-kun</title>
+<title part="C" gid="1841402954" lang="EN">Fly, Canada-san, Fly!</title></episode>
+<episode num="45">
+<title gid="2155453423" lang="EN">Liechtenstein's Journal Of Swiss Dopiness.</title></episode>
+<episode num="46">
+<title part="A" gid="1773017576" lang="EN">Mine Test</title>
+<title part="B" gid="774134418" lang="EN">English Fashion In The Middle Ages</title>
+<title part="C" gid="1345090897" lang="EN">Me and Goldy</title>
+<title gid="1486686891" lang="EN">Medieval England's Clothes And Hair</title></episode>
+<episode num="47">
+<title part="A" gid="2260374628" lang="EN">Something Written As The Immediate Effect</title>
+<title part="B" gid="3039804662" lang="EN">Poland And Ponies</title>
+<title part="C" gid="3058959034" lang="EN">Parting Time And America</title></episode>
+<episode num="48">
+<title part="A" gid="2195609714" lang="EN">Let's Play Soccer!</title>
+<title part="B" gid="2235832572" lang="EN">The Long-Awaited Deep Emotion Is Ruined</title>
+<title part="C" gid="1712855770" lang="EN">Helmetalia</title>
+<title part="D" gid="2221029232" lang="EN">In Vienna</title></episode>
+<episode num="49">
+<title part="A" gid="1547448602" lang="EN">Japan and the Footsteps of Westernization</title>
+<title part="B" gid="1330716979" lang="EN">Elasticity is Also One of Their Skills</title>
+<title part="C" gid="2382177268" lang="EN">Canada-san and the One-Sided Goodwill</title></episode>
+<episode num="50">
+<title part="A" gid="949005918" lang="EN">Let's Do &quot;Table Turning&quot;</title>
+<title part="B" gid="2388566888" lang="EN">Even If I Become An Old Man...</title></episode>
+<episode num="51">
+<title part="A" gid="2044952254" lang="EN">Hello World! Hello Italy!</title>
+<title part="B" gid="2847836354" lang="EN">America's Situation With Ghosts</title></episode>
+<episode num="52">
+<title part="A" gid="1045494898" lang="EN">Holy Roman Empire's Playtime In The River</title>
+<title part="B" gid="2663375370" lang="EN">Japan-kun and America-kun</title>
+<title part="C" gid="3017305631" lang="EN">Fly Canada-san, Fly!</title></episode>
+<review href="http://www.animenewsnetwork.com/review/hetalia-world-series/dvd-season-04">Hetalia World Series DVD</review>
+<review href="http://www.animenewsnetwork.com/review/hetalia-season-1dvd">Hetalia: Axis Powers Season 1 Collection DVD</review>
+<review href="http://www.animenewsnetwork.com/review/hetalia/axis-powers/dvd-season-02">Hetalia: Axis Powers Season 2 DVD</review>
+<review href="http://www.animenewsnetwork.com/review/hetalia/axis-powers/dvd-season-01">Hetalia: Axis Powers DVD</review>
+<release date="2010-09-14" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=17581">Hetalia: Axis Powers - Season 01 (DVD)</release>
+<release date="2010-10-26" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=17687">Hetalia: Axis Powers - Season 02 (DVD)</release>
+<release date="2012-03-06" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=20207">Hetalia: Axis Powers - The Complete Series (DVD)</release>
+<release date="2013-07-09" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=24069">Hetalia: Axis Powers - The Complete Series [Anime Classics] (DVD)</release>
+<release date="2010-11-03" href="http://www.animenewsnetwork.com/encyclopedia/releases.php?id=18522">Hetalia: Axis Powers Season 1 Collection (DVD 1)</release>
+<news datetime="2008-12-28T14:51:14Z" href="http://www.animenewsnetwork.com/news/2008-12-28/maria-holic-queen-blade-tayutama-hetalia-promos-posted">&lt;cite&gt;Maria Holic, Queen's Blade, Tayutama, Hetalia&lt;/cite&gt; Promos Posted</news>
+<news datetime="2009-01-09T04:57:00Z" href="http://www.animenewsnetwork.com/news/2009-01-08/hetalia-axis-powers-pasta-sauces-offered-in-japan">&lt;cite&gt;Hetalia - Axis Powers&lt;/cite&gt; Pasta Sauces Offered in Japan</news>
+<news datetime="2009-01-13T11:41:37Z" href="http://www.animenewsnetwork.com/news/2009-01-13/korean-protests-call-for-hetalia-anime-cancellation">Korean Protests Call for &lt;cite&gt;Hetalia&lt;/cite&gt; Anime's Cancellation (Update 2)</news>
+<news datetime="2009-01-16T03:06:30Z" href="http://www.animenewsnetwork.com/news/2009-01-15/japan-kids-station-cancels-its-hetalia-anime-run">Japan's Kids Station Cancels Its &lt;cite&gt;Hetalia&lt;/cite&gt; Anime Run</news>
+<news datetime="2009-02-07T05:20:58Z" href="http://www.animenewsnetwork.com/news/2009-02-07/hetalia-anime-seen-by-200000-on-web-60000-on-phones">&lt;cite&gt;Hetalia&lt;/cite&gt; Anime Seen by 200,000 on Web, 60,000 on Phones</news>
+<news datetime="2009-04-16T03:02:14Z" href="http://www.animenewsnetwork.com/news/2009-04-15/hetalia-second-season-green-lit">&lt;cite&gt;Hetalia&lt;/cite&gt; Anime's Second Season Green-Lit</news>
+<news datetime="2009-04-29T02:51:23Z" href="http://www.animenewsnetwork.com/news/2009-04-28/japanese-animation-dvd-ranking-april-21-28">Japanese Animation DVD Ranking, April 21-28</news>
+<news datetime="2009-05-06T02:24:46Z" href="http://www.animenewsnetwork.com/news/2009-05-05/japanese-animation-dvd-ranking-april-27-may-3">Japanese Animation DVD Ranking, April 27-May 3</news>
+<news datetime="2009-05-13T02:05:59Z" href="http://www.animenewsnetwork.com/news/2009-05-12/japanese-animation-dvd-ranking-may-4-10">Japanese Animation DVD Ranking, May 4-10</news>
+<news datetime="2009-05-20T03:51:44Z" href="http://www.animenewsnetwork.com/news/2009-05-19/japanese-animation-dvd-ranking-may-11-17">Japanese Animation DVD Ranking, May 11-17</news>
+<news datetime="2009-05-27T02:37:36Z" href="http://www.animenewsnetwork.com/news/2009-05-26/japanese-animation-dvd-ranking-may-18-24">Japanese Animation DVD Ranking, May 18-24</news>
+<news datetime="2009-06-03T03:57:00Z" href="http://www.animenewsnetwork.com/news/2009-06-02/japanese-animation-dvd-ranking-may-25-31">Japanese Animation DVD Ranking, May 25-31</news>
+<news datetime="2009-06-10T15:20:11Z" href="http://www.animenewsnetwork.com/news/2009-06-10/japanese-animation-dvd-ranking-june-1-7">Japanese Animation DVD Ranking, June 1-7</news>
+<news datetime="2009-06-17T02:37:24Z" href="http://www.animenewsnetwork.com/news/2009-06-16/japanese-animation-dvd-ranking-june-8-14">Japanese Animation DVD Ranking, June 8-14</news>
+<news datetime="2009-06-24T18:43:49Z" href="http://www.animenewsnetwork.com/news/2009-06-24/japanese-animation-dvd-ranking-june-8-14">Japanese Animation DVD Ranking, June 8-14</news>
+<news datetime="2009-07-29T16:01:37Z" href="http://www.animenewsnetwork.com/news/2009-07-29/japanese-animation-dvd-ranking-july-20-26">Japanese Animation DVD Ranking, July 20-26</news>
+<news datetime="2009-08-05T02:45:29Z" href="http://www.animenewsnetwork.com/news/2009-08-04/japanese-animation-dvd-ranking-july-27-august-2">Japanese Animation DVD Ranking, July 27-August 2</news>
+<news datetime="2009-09-24T01:41:22Z" href="http://www.animenewsnetwork.com/news/2009-09-23/hetalia-axis-powers-film-green-lit-for-2010">&lt;cite&gt;Hetalia - Axis Powers&lt;/cite&gt; Film Green-Lit for 2010</news>
+<news datetime="2009-09-30T03:46:29Z" href="http://www.animenewsnetwork.com/news/2009-09-29/japanese-animation-dvd-ranking-september-21-27">Japanese Animation DVD Ranking, September 21-27</news>
+<news datetime="2009-10-07T04:44:01Z" href="http://www.animenewsnetwork.com/news/2009-10-07/japanese-animation-dvd-ranking-september-28-october-4">Japanese Animation DVD Ranking, September 28-October 4</news>
+<news datetime="2009-10-14T07:53:35Z" href="http://www.animenewsnetwork.com/news/2009-10-14/japanese-animation-dvd-ranking-october-5-11">Japanese Animation DVD Ranking, October 5-11</news>
+<news datetime="2009-10-21T03:00:00Z" href="http://www.animenewsnetwork.com/news/2009-10-20/japanese-animation-dvd-ranking-october-12-18">Japanese Animation DVD Ranking, October 12-18</news>
+<news datetime="2009-10-28T03:40:41Z" href="http://www.animenewsnetwork.com/news/2009-10-27/japanese-animation-dvd-ranking-october-19-25">Japanese Animation DVD Ranking, October 19-25</news>
+<news datetime="2009-11-04T03:33:01Z" href="http://www.animenewsnetwork.com/news/2009-11-03/japanese-animation-dvd-ranking-october-26-november-1">Japanese Animation DVD Ranking, October 26-November 1</news>
+<news datetime="2009-11-18T03:12:02Z" href="http://www.animenewsnetwork.com/news/2009-11-17/japanese-animation-dvd-ranking-november-9-15">Japanese Animation DVD Ranking, November 9-15</news>
+<news datetime="2009-12-07T15:44:38Z" href="http://www.animenewsnetwork.com/news/2009-12-07/starry-sky-drama-cd-series-gets-anime-green-lit">&lt;cite&gt;Starry Sky&lt;/cite&gt; Drama CD/Game Series Gets Anime Green-Lit (Update 2)</news>
+<news datetime="2009-12-08T03:52:10Z" href="http://www.animenewsnetwork.com/news/2009-12-07/macross-f-sheryl-mayn-put-albums-in-weekly-top-10">&lt;cite&gt;Macross F's&lt;/cite&gt; Sheryl, May'n Put Albums in Weekly Top 10</news>
+<news datetime="2009-12-11T02:06:52Z" href="http://www.animenewsnetwork.com/news/2009-12-10/hetalia-anime-third-season-green-lit">&lt;cite&gt;Hetalia&lt;/cite&gt; Anime's Third Season Green-Lit</news>
+<news datetime="2009-12-30T03:13:11Z" href="http://www.animenewsnetwork.com/news/2009-12-29/japan-animation-dvd-ranking-december-21-27">Japan's Animation DVD Ranking, December 21-27</news>
+<news datetime="2010-01-08T20:01:36Z" href="http://www.animenewsnetwork.com/news/2010-01-08/funimation-gets-hetalia-the-sacred-blacksmith-anime">Funimation Gets &lt;cite&gt;Hetalia, The Sacred Blacksmith&lt;/cite&gt; Anime</news>
+<news datetime="2010-01-13T03:19:53Z" href="http://www.animenewsnetwork.com/news/2010-01-12/japan-animation-dvd-ranking-december-28-january-10">Japan's Animation DVD Ranking, December 28-January 10</news>
+<news datetime="2010-02-24T02:59:56Z" href="http://www.animenewsnetwork.com/news/2010-02-23/hetalia-fan-disk-to-include-unstreamed-episode">&lt;cite&gt;Hetalia&lt;/cite&gt; Fan Disk to Include Unstreamed Episode</news>
+<news datetime="2010-03-03T02:44:56Z" href="http://www.animenewsnetwork.com/news/2010-03-02/japan-animation-dvd-ranking-february-22-28">Japan's Animation DVD Ranking, February 22-28</news>
+<news datetime="2010-03-17T02:39:26Z" href="http://www.animenewsnetwork.com/news/2010-03-16/japan-animation-dvd-ranking-march-8-14">Japan's Animation DVD Ranking, March 8-14</news>
+<news datetime="2010-03-24T02:42:55Z" href="http://www.animenewsnetwork.com/news/2010-03-23/japan-animation-dvd-ranking-march-15-21">Japan's Animation DVD Ranking, March 15-21</news>
+<news datetime="2010-03-27T10:00:00Z" href="http://www.animenewsnetwork.com/news/2010-03-27/b-gata-h-kei-hetalia-working-promo-videos-streamed">&lt;cite&gt;B Gata H Kei&lt;/cite&gt;, &lt;cite&gt;Hetalia&lt;/cite&gt;, &lt;cite&gt;Working!!&lt;/cite&gt; Promo Videos Streamed</news>
+<news datetime="2010-03-31T03:14:24Z" href="http://www.animenewsnetwork.com/news/2010-03-30/japan-animation-dvd-ranking-march-22-28">Japan's Animation DVD Ranking, March 22-28</news>
+<news datetime="2010-04-07T03:00:56Z" href="http://www.animenewsnetwork.com/news/2010-04-06/japan-animation-dvd-ranking-march-29-april-4">Japan's Animation DVD Ranking, March 29-April 4</news>
+<news datetime="2010-04-14T02:52:13Z" href="http://www.animenewsnetwork.com/news/2010-04-13/japan-animation-dvd-ranking-march-29-april-4">Japan's Animation DVD Ranking, April 5-11</news>
+<news datetime="2010-04-21T02:55:49Z" href="http://www.animenewsnetwork.com/news/2010-04-20/japan-animation-dvd-ranking-april-12-18">Japan's Animation DVD Ranking, April 12-18</news>
+<news datetime="2010-04-23T10:24:26Z" href="http://www.animenewsnetwork.com/news/2010-04-23/anison-mate-mag-to-debut-in-may-fanroad-mag-to-return">&lt;cite&gt;AniSon Mate&lt;/cite&gt; Mag to Debut in May, &lt;cite&gt;Fanroad&lt;/cite&gt; Mag to Return</news>
+<news datetime="2010-05-02T09:09:52Z" href="http://www.animenewsnetwork.com/news/2010-05-02/funi-streams-hetalia-tp-confirms-manga-plans">Funimation Streams &lt;cite&gt;Hetalia&lt;/cite&gt;, Tokyopop Confirms Manga Plans</news>
+<news datetime="2010-05-09T01:47:23Z" href="http://www.animenewsnetwork.com/news/2010-05-08/vampire-knight-fmp-petite-cossette-gundam-w-streamed">&lt;cite&gt;Vampire Knight, FMP!, Petite Cossette, Gundam W&lt;/cite&gt; Streamed</news>
+<news datetime="2010-05-27T20:12:28Z" href="http://www.animenewsnetwork.com/news/2010-05-27/sengoku-basara-eden-of-the-east-hetalia-promos-streamed">&lt;cite&gt;Sengoku Basara,&lt;/cite&gt; &lt;cite&gt;Eden of the East, Hetalia&lt;/cite&gt; Promos Streamed</news>
+<news datetime="2010-05-28T03:53:25Z" href="http://www.animenewsnetwork.com/news/2010-05-27/legends-of-the-dark-king-negima-streamed">&lt;cite&gt;Legends of the Dark King&lt;/cite&gt;, &lt;cite&gt;Negima&lt;/cite&gt; Streamed</news>
+<news datetime="2010-06-03T21:22:29Z" href="http://www.animenewsnetwork.com/news/2010-06-03/japan-animation-dvd-ranking-may-24-30">Japan's Animation DVD Ranking, May 24-30</news>
+<news datetime="2010-06-05T08:34:57Z" href="http://www.animenewsnetwork.com/news/2010-06-06/hidamari-sketch-sacred-blacksmith-negima-streamed">&lt;cite&gt;Hidamari Sketch, Sacred Blacksmith, Negima!&lt;/cite&gt; Streamed</news>
+<news datetime="2010-06-15T03:57:26Z" href="http://www.animenewsnetwork.com/news/2010-06-14/bleach-2nd-hell-girl-season-streamed">&lt;cite&gt;Bleach&lt;/cite&gt;, 2nd &lt;cite&gt;Hell Girl&lt;/cite&gt;  Season Streamed</news>
+<news datetime="2010-06-16T02:21:25Z" href="http://www.animenewsnetwork.com/news/2010-06-15/japan-animation-dvd-ranking-june-7-13">Japan's Animation DVD Ranking, June 7-13</news>
+<news datetime="2010-06-22T03:48:05Z" href="http://www.animenewsnetwork.com/news/2010-06-21/samurai-harem-kaze-no-stigma-area-88-streamed">&lt;cite&gt;Samurai Harem, Kaze no Stigma, Area 88&lt;/cite&gt; Streamed</news>
+<news datetime="2010-06-30T03:41:40Z" href="http://www.animenewsnetwork.com/news/2010-06-29/japan-animation-dvd-ranking-june-21-27">Japan's Animation DVD Ranking, June 21-27</news>
+<news datetime="2010-07-07T02:24:30Z" href="http://www.animenewsnetwork.com/news/2010-07-06/japan-animation-dvd-ranking-june-28-july-4">Japan's Animation DVD Ranking, June 28-July 4</news>
+<news datetime="2010-07-07T05:49:06Z" href="http://www.animenewsnetwork.com/news/2010-07-07/funimation-announces-partial-english-cast-for-hetalia">Funimation Announces Partial English Cast for &lt;cite&gt;Hetalia&lt;/cite&gt; (Update 8)</news>
+<news datetime="2010-07-17T10:00:00Z" href="http://www.animenewsnetwork.com/news/2010-07-17/golgo-13-black-butler-ii-captain-tylor-streamed">&lt;cite&gt;Golgo 13&lt;/cite&gt;, &lt;cite&gt;Black Butler II, Captain Tylor&lt;/cite&gt; Streamed</news>
+<news datetime="2010-07-16T20:51:28Z" href="http://www.animenewsnetwork.com/news/2010-07-16/funimation-announces-remaining-english-hetalia-cast">Funimation Announces Remaining English &lt;cite&gt;Hetalia&lt;/cite&gt; Cast (Update 2)</news>
+<news datetime="2010-07-21T14:59:14Z" href="http://www.animenewsnetwork.com/news/2010-07-21/yoshihiro-nishimura-masanori-mimoto-mika-hijii-at-cci">Yoshihiro Nishimura, Masanori Mimoto, Mika Hijii at CCI</news>
+<news datetime="2010-07-30T13:20:00Z" href="http://www.animenewsnetwork.com/news/2010-07-30/hetalia-4th-anime-season-green-lit-for-september">&lt;cite&gt;Hetalia's&lt;/cite&gt; 4th Anime Season Green-Lit for September</news>
+<news datetime="2010-08-05T02:17:38Z" href="http://www.animenewsnetwork.com/news/2010-08-04/hetalia-promo-videos-birdy-english-cast-and-promo-posted">&lt;cite&gt;Hetalia&lt;/cite&gt; Promo Videos, &lt;cite&gt;Birdy&lt;/cite&gt; English Cast &amp; Promo Posted</news>
+<news datetime="2010-08-19T22:00:00Z" href="http://www.animenewsnetwork.com/news/2010-08-20/madman-ent-announces-new-acquisitions">Madman Ent announces new acquisitions</news>
+<news datetime="2010-09-01T02:46:31Z" href="http://www.animenewsnetwork.com/news/2010-08-31/japan-animation-dvd-ranking-august-23-29">Japan's Animation DVD Ranking, August 23-29</news>
+<news datetime="2010-09-14T17:03:47Z" href="http://www.animenewsnetwork.com/interest/2010-09-14/north-american-anime-manga-releases-september-12-18">North American Anime, Manga Releases, September 12-18</news>
+<news datetime="2010-10-26T20:15:39Z" href="http://www.animenewsnetwork.com/news/2010-10-26/north-american-anime-manga-releases-october-24-30">North American Anime, Manga Releases October 24-30</news>
+<news datetime="2010-10-26T08:41:18Z" href="http://www.animenewsnetwork.com/news/2010-10-26/japan-animation-dvd-ranking-october-18-24-part-1">Japan's Animation DVD Ranking, October 18-24 (Part 1)</news>
+<news datetime="2010-10-27T03:24:56Z" href="http://www.animenewsnetwork.com/news/2010-10-26/japan-animation-dvd-ranking-october-18-24-part-2">Japan's Animation DVD Ranking, October 18-24 (Part 2)</news>
+<news datetime="2010-11-09T15:41:32Z" href="http://www.animenewsnetwork.com/news/2010-11-10/hetalia-anime-film-dvd-to-add-new-ending-sequence">&lt;cite&gt;Hetalia&lt;/cite&gt; Anime Film's DVD to Add New Ending Sequence</news>
+<news datetime="2010-11-13T20:40:05Z" href="http://www.animenewsnetwork.com/news/2010-11-13/go-lion-ultra-maniac-oreimo-togainu-streamed">&lt;cite&gt;Go Lion, Ultra Maniac, Oreimo, Togainu&lt;/cite&gt; Streamed</news>
+<news datetime="2010-12-28T18:00:54Z" href="http://www.animenewsnetwork.com/news/2010-12-28/north-american-anime-manga-releases/dec-26-jan-1">North American Anime, Manga Releases: Dec. 26-Jan. 1</news>
+<news datetime="2010-12-29T02:41:11Z" href="http://www.animenewsnetwork.com/news/2010-12-28/japan-animation-dvd-ranking-december-20-26-part-2">Japan's Animation DVD Ranking, December 20-26 (Part 2)</news>
+<news datetime="2011-02-12T04:08:20Z" href="http://www.animenewsnetwork.com/news/2011-02-11/strike-witches-2-hero-tales-murder-princess-streamed">&lt;cite&gt;Strike Witches 2, Hero Tales, Murder Princess&lt;/cite&gt; Streamed</news>
+<news datetime="2011-01-07T13:13:09Z" href="http://www.animenewsnetwork.com/news/2011-01-07/japan-animation-dvd-ranking-december-27-january-2-part-2">Japan's Animation DVD Ranking, December 27-January 2 (Part 2)</news>
+<news datetime="2011-02-01T08:59:46Z" href="http://www.animenewsnetwork.com/news/2011-02-01/japan-animation-dvd-ranking-january-24-30-part-1">Japan's Animation DVD Ranking, January 24-30 (Part 1)</news>
+<news datetime="2011-02-10T04:41:22Z" href="http://www.animenewsnetwork.com/news/2011-02-09/funimation-storm-delayed-simulcasts-now-online">Funimation's Storm-Delayed Simulcasts Now Online</news>
+<news datetime="2011-02-25T09:12:16Z" href="http://www.animenewsnetwork.com/news/2011-02-25/hetalia-world-series-1st-extra-episode-runs-in-march">&lt;cite&gt;Hetalia World Series'&lt;/cite&gt; 1st Extra Episode Runs in March</news>
+<news datetime="2011-03-11T11:33:53Z" href="http://www.animenewsnetwork.com/news/2011-03-11/anime/manga/game-events-cancelled-after-march-11-quake">Anime/Manga/Game Events Cancelled After March 11 Quake</news>
+<news datetime="2011-04-05T12:30:00Z" href="http://www.animenewsnetwork.com/news/2011-04-05/japan-animation-dvd-ranking-march-28-april-3">Japan's Animation DVD Ranking, March 28-April 3</news>
+<news datetime="2011-04-06T02:43:45Z" href="http://www.animenewsnetwork.com/news/2011-04-05/japan-animation-dvd-ranking-march-28-april-3-part-2">Japan's Animation DVD Ranking, March 28-April 3 (Part 2)</news>
+<news datetime="2011-04-13T12:00:00Z" href="http://www.animenewsnetwork.com/news/2011-04-13/north-american-anime-manga-releases/april-10-16">North American Anime, Manga Releases: April 10-16</news>
+<news datetime="2011-05-11T18:30:00Z" href="http://www.animenewsnetwork.com/news/2011-05-11/anime-central-to-host-hetalia-shirohata-nomura">Anime Central to Host &lt;cite&gt;Hetalia's&lt;/cite&gt; Shirohata, Nomura</news>
+<news datetime="2011-05-31T10:30:00Z" href="http://www.animenewsnetwork.com/news/2011-05-31/japan-animation-dvd-ranking-may-23-29-part-1">Japan's Animation DVD Ranking, May 23-29 (Part 1)</news>
+<news datetime="2011-06-02T03:45:00Z" href="http://www.animenewsnetwork.com/news/2011-06-01/japan-animation-dvd-ranking-may-23-29-part-2">Japan's Animation DVD Ranking, May 23-29 (Part 2)</news>
+<news datetime="2011-06-19T12:47:06Z" href="http://www.animenewsnetwork.com/news/2011-06-19/madman-acquisitions-announced-at-supanova-sydney">Madman Acquisitions Announced at Supanova Sydney</news>
+<news datetime="2011-06-27T17:03:21Z" href="http://www.animenewsnetwork.com/news/2011-06-28/weekly-wrapup-19/jun-25/jun">Weekly Wrapup 19/Jun - 25/Jun</news>
+<news datetime="2011-06-27T17:00:00Z" href="http://www.animenewsnetwork.com/news/2011-06-28/hetalia-season-1-review-now-on-ann-au">Hetalia Season 1 Review Now On ANN|au</news>
+<news datetime="2011-07-01T01:00:00Z" href="http://www.animenewsnetwork.com/news/2011-06-30/voice-actress-cassandra-hodges-passes-away">Voice Actress Cassandra Hodges Passes Away</news>
+<news datetime="2011-07-04T23:00:00Z" href="http://www.animenewsnetwork.com/news/2011-07-04/memorial-fund-service-for-voice-actress-cassandra-hodges">Memorial Fund, Service for Voice Actress Cassandra Hodges</news>
+<news datetime="2011-07-22T12:50:00Z" href="http://www.animenewsnetwork.com/news/2011-07-22/2-more-hetalia-world-series-extra-episodes-streaming">2 More &lt;cite&gt;Hetalia World Series&lt;/cite&gt; Extra Episodes Streaming</news>
+<news datetime="2011-08-20T03:51:44Z" href="http://www.animenewsnetwork.com/news/2011-08-19/funimation-lists-new-hetalia-voice-actors">Funimation Lists New &lt;cite&gt;Hetalia&lt;/cite&gt; Voice Actors</news>
+<news datetime="2011-10-13T23:46:37Z" href="http://www.animenewsnetwork.com/news/2011-10-13/kami-voice-film-to-have-anime-sequence-by-production-i.g">&lt;cite&gt;Kami Voice&lt;/cite&gt; Film to Have Anime Sequence by Production I.G</news>
+<news datetime="2011-11-28T02:30:00Z" href="http://www.animenewsnetwork.com/news/2011-11-27/north-american-stream-list/november-21-27">North American Stream List: November 21-27</news>
+<news datetime="2011-12-19T21:30:00Z" href="http://www.animenewsnetwork.com/news/2011-12-19/hiiro-no-kakera-anime-staff-cast-date-listed">&lt;cite&gt;Hiiro no Kakera&lt;/cite&gt; Anime's Staff, Cast, Date Listed</news>
+<news datetime="2012-01-18T03:12:55Z" href="http://www.animenewsnetwork.com/news/2012-01-17/north-american-anime-manga-releases/january-15-21">North American Anime, Manga Releases: January 15-21</news>
+<news datetime="2012-02-13T00:00:00Z" href="http://www.animenewsnetwork.com/news/2012-02-12/north-american-stream-list/february-6-12">North American Stream List: February 6-12</news>
+<news datetime="2012-02-20T00:30:00Z" href="http://www.animenewsnetwork.com/news/2012-02-19/north-american-stream-list/feb-13-19">North American Stream List: Feb. 13-19</news>
+<news datetime="2012-02-22T20:00:00Z" href="http://www.animenewsnetwork.com/news/2012-02-22/hiiro-no-kakera-anime-1st-promo-streamed">&lt;cite&gt;Hiiro no Kakera&lt;/cite&gt; Anime's 1st Promo Streamed</news>
+<news datetime="2012-07-03T21:30:00Z" href="http://www.animenewsnetwork.com/news/2012-07-03/north-american-anime-manga-releases-july-1-7">North American Anime, Manga Releases, July 1-7</news>
+<news datetime="2012-07-26T14:10:01Z" href="http://www.animenewsnetwork.com/news/2012-07-26/hetalia-fourth-season-scheduled-for-december">&lt;i&gt;Hetalia&lt;/i&gt;'s Fourth Season Scheduled for December</news>
+<news datetime="2012-08-13T23:18:51Z" href="http://www.animenewsnetwork.com/news/2012-08-14/manga-entertainment-confirms-december-release-dates">Manga Entertainment Confirms December Release Dates</news>
+<news datetime="2012-12-10T11:26:36Z" href="http://www.animenewsnetwork.com/news/2012-12-10/hetalia/world-series-season-four-released-today">&lt;i&gt;Hetalia: World Series&lt;/i&gt; Season Four Released Today</news>
+<news datetime="2013-07-10T00:45:00Z" href="http://www.animenewsnetwork.com/news/2013-07-09/north-american-anime-manga-releases-july-7-13">North American Anime, Manga Releases, July 7-13</news>
+<news datetime="2013-09-03T09:20:00Z" href="http://www.animenewsnetwork.com/news/2013-09-03/japan-animation-dvd-ranking-august-26-september-1">Japan's Animation DVD Ranking, August 26-September 1</news>
+<news datetime="2014-05-08T13:31:08Z" href="http://www.animenewsnetwork.com/news/2014-05-08/supanova-expo-announces-maile-flanagan-as-special-guest">Supanova Expo Announces Maile Flanagan As Special Guest</news>
+<news datetime="2014-12-13T23:30:00Z" href="http://www.animenewsnetwork.com:/news/2014-12-13/daisuke-namikawa-sings-new-hetalia-anime-theme-song-as-italy/.82095">Daisuke Namikawa Sings New &lt;cite&gt;Hetalia&lt;/cite&gt; Anime's Theme Song as Italy</news>
+<news datetime="2015-01-29T17:24:31Z" href="http://www.animenewsnetwork.com:/news/2015-01-29/viewster-adds-death-parade-and-yatterman-night/.83845">Viewster Adds &lt;i&gt;Death Parade&lt;/i&gt; and &lt;i&gt;Yatterman Night&lt;/i&gt;</news>
+<news datetime="2015-02-02T05:45:00Z" href="http://www.animenewsnetwork.com:/news/2015-02-02/meiji-tokyo-renka-film-deen-staff-july-opening-unveiled/.83982">&lt;cite&gt;Meiji Tokyo Renka&lt;/cite&gt; Film's Deen Staff, July Opening Unveiled</news>
+<news datetime="2015-07-31T16:08:23Z" href="http://www.animenewsnetwork.com:/news/2015-07-31/viewster-adds-hetalia-the-world-twinkle/.91135">Viewster Adds &lt;i&gt;Hetalia The World Twinkle&lt;/i&gt;</news>
+<staff gid="481638743"><task>Director</task><person id="11408">Bob Shirohata</person></staff>
+<staff gid="3328689845"><task>Series Composition</task><person id="10616">Takuya Hiramitsu</person></staff>
+<staff gid="1962074251"><task>Original creator</task><person id="72529">Hidekaz Himaruya</person></staff>
+<staff gid="1655426774"><task>Character Design</task><person id="17971">Masaaki Kannan</person></staff>
+<staff gid="1388840129"><task>Sound Director</task><person id="10616">Takuya Hiramitsu</person></staff>
+<staff gid="1007755419"><task>Director of Photography</task><person id="67693">Akira Shimozaki</person></staff>
+<staff gid="1183978263"><task>Producer</task><person id="56715">Mika Nomura</person></staff>
+<cast gid="1251264615" lang="EN"><role>America</role><person id="1388">Eric Vale</person></cast>
+<cast gid="3002697654" lang="EN"><role>Germany</role><person id="7108">Patrick Seitz</person></cast>
+<cast gid="2229584360" lang="EN"><role>Russia</role><person id="10063">Jerry Jewell</person></cast>
+<cast gid="1979416640" lang="EN"><role>Japan</role><person id="10793">Christopher Bevins</person></cast>
+<cast gid="3405850880" lang="EN"><role>China</role><person id="20345">Clarine Harp</person></cast>
+<cast gid="1841399487" lang="EN"><role>United Kingdom/England</role><person id="59221">Scott Freeman</person></cast>
+<cast gid="1939142548" lang="EN"><role>Italy</role><person id="62405">Todd Haberkorn</person></cast>
+<cast gid="1608396491" lang="EN"><role>France</role><person id="65527">J. Michael Tatum</person></cast>
+<cast gid="1224704750" lang="JA"><role>America</role><person id="780">Katsuyuki Konishi</person></cast>
+<cast gid="3551155706" lang="JA"><role>Italy</role><person id="1289">Daisuke Namikawa</person></cast>
+<cast gid="3406205801" lang="JA"><role>France</role><person id="1456">Masaya Onosaka</person></cast>
+<cast gid="758545121" lang="JA"><role>Russia</role><person id="1462">Yasuhiro Takato</person></cast>
+<cast gid="2521662419" lang="JA"><role>Japan</role><person id="2164">Hiroki Takahashi</person></cast>
+<cast gid="2889989000" lang="JA"><role>United Kingdom</role><person id="3176">Noriaki Sugiyama</person></cast>
+<cast gid="2342935902" lang="JA"><role>China</role><person id="7347">Yuki Kaida</person></cast>
+<cast gid="699825621" lang="JA"><role>Germany</role><person id="30785">Hiroki Yasumoto</person></cast>
+<cast gid="1742366847" lang="TL"><role>America</role><person id="38936">Jefferson Utanes</person></cast>
+<cast gid="2661847433" lang="TL"><role>Germany</role><person id="38936">Jefferson Utanes</person></cast>
+<cast gid="2856650761" lang="TL"><role>Narrator</role><person id="38936">Jefferson Utanes</person></cast>
+<cast gid="2363726063" lang="TL"><role>England</role><person id="39805">Jojo Galvez</person></cast>
+<cast gid="1504551833" lang="TL"><role>China</role><person id="42178">Hazel Hernan</person></cast>
+<cast gid="1222165379" lang="TL"><role>Narrator</role><person id="42178">Hazel Hernan</person></cast>
+<cast gid="1726286224" lang="TL"><role>Canada</role><person id="50594">Anthony Steven San Juan</person></cast>
+<cast gid="3268579231" lang="TL"><role>France</role><person id="50594">Anthony Steven San Juan</person></cast>
+<cast gid="2259776687" lang="TL"><role>Italy</role><person id="50594">Anthony Steven San Juan</person></cast>
+<cast gid="3745003555" lang="TL"><role>Russia</role><person id="50594">Anthony Steven San Juan</person></cast>
+<cast gid="2421080509" lang="TL"><role>Japan</role><person id="107892">Rean Delos Reyes</person></cast>
+<cast gid="818665730" lang="TL"><role>Romano</role><person id="107892">Rean Delos Reyes</person></cast>
+<credit gid="2171659594"><task>Animation Production</task><company id="35">Studio DEEN</company></credit>
+<credit gid="3685497293"><task>Production</task><company id="52">MOVIC</company></credit>
+<credit gid="1938293955"><task>Production</task><company id="369">Media Factory</company></credit>
+<credit gid="1262802312"><task>Production</task><company id="1805">Frontier Works</company></credit></anime></ann>

@@ -1,0 +1,56 @@
+<ann><anime id="4621" gid="1950893593" type="movie" name="Pikachu and Pichu" precision="movie" generated-on="2016-03-27T01:07:41Z">
+<related-prev rel="related to" id="831"/>
+<related-next id="15663" rel="spinoff"/>
+<info gid="1693352841" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A4621-7.jpg" width="167" height="200"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A4621-7.jpg" width="167" height="200"/><img src="http://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A4621-7.jpg" width="200" height="240"/></info>
+<info gid="1742339868" type="Main title" lang="EN">Pikachu and Pichu</info>
+<info gid="2194669526" type="Alternative title" lang="JA">Pichu to Pikachu</info>
+<info gid="3099213129" type="Alternative title" lang="PT">Pikachu e Pichu</info>
+<info gid="3280312524" type="Alternative title" lang="EN">ピチューとピカチュウ</info>
+<info gid="2013089995" type="Genres">adventure</info>
+<info gid="1228750723" type="Genres">comedy</info>
+<info gid="1860857020" type="Objectionable content">AA</info>
+<info gid="2199037054" type="Plot Summary">As Ash and company decide to rest in the city, they let all of their Pokemon out to relax. While Pikachu and the other Pokemon are enjoying their free-time, Ash, Misty, and Brock go to &quot;get something ready&quot;. On the top of another neighboring building, Pikachu spies two small Pichus in a slight dilema. Eager to help, Pikachu rushes to help them and is instantly swept up in their strange adventure.</info>
+<info type="Vintage">2000-07-08</info>
+<info gid="3189566052" type="Premiere date">2000-07-08 (Japan)</info>
+<info gid="3729492419" type="Opening Theme">&quot;Pichuu Pika Swing&quot; by Neo Pockets</info>
+<info gid="347050860" type="Ending Theme">&quot;Tomodachi Kinenbu&quot; by Noriko Sakai</info>
+<info gid="2957298978" type="Official website" lang="JA" href="http://www.pokemon.co.jp/anime/movie/2000/pika.html">Pichu to Pikachu @ Pocket Monster Official Site</info>
+<ratings nb_votes="300" weighted_score="5.6327" bayesian_score="5.71121"/>
+<news datetime="2009-09-03T08:10:25Z" href="http://www.animenewsnetwork.com/news/2009-09-03/actress/singer-noriko-sakai-charged-dismissed-from-agency">Actress/Singer Noriko Sakai Charged, Dismissed from Agency</news>
+<staff gid="1746354944"><task>Director</task><person id="3943">Kunihiko Yuyama</person></staff>
+<staff gid="3676122603"><task>Screenplay</task><person id="3905">Hideki Sonoda</person></staff>
+<staff gid="2645748881"><task>Storyboard</task><person id="10189">Yuji Asada</person></staff>
+<staff gid="1489688775"><task>Music</task><person id="18527">Hirokazu Tanaka</person></staff>
+<staff gid="1783319630"><task>Music</task><person id="104259">Ken Shima</person></staff>
+<staff gid="3211107987"><task>Original creator</task><person id="3902">Satoshi Tajiri</person></staff>
+<staff gid="1111802733"><task>Character Design</task><person id="8114">Sayuri Ichiishi</person></staff>
+<staff gid="1862931410"><task>Character Design</task><person id="15372">Norihiro Matsubara</person></staff>
+<staff gid="2305416119"><task>Animation Director</task><person id="8113">Akihiro Tamagawa</person></staff>
+<staff gid="2247658813"><task>Sound Director</task><person id="317">Masafumi Mima</person></staff>
+<staff gid="3442054586"><task>Executive producer</task><person id="8469">Masakazu Kubo</person></staff>
+<staff gid="2037319693"><task>Executive producer</task><person id="89962">Takashi Kawaguchi</person></staff>
+<staff gid="721898634"><task>Producer</task><person id="9586">Choji Yoshikawa</person></staff>
+<staff gid="3001124244"><task>Producer</task><person id="9589">Takemoto Mori</person></staff>
+<staff gid="1308400555"><task>Producer</task><person id="10502">Yukako Matsusako</person></staff>
+<cast gid="384320069" lang="DA"><role>Meowth</role><person id="45139">Peter Zhelder</person></cast>
+<cast gid="2817354365" lang="DE"><role>Pikachu</role><person id="846">Ikue Ohtani</person></cast>
+<cast gid="1867096609" lang="DE"><role>Meowth</role><person id="28627">Gerhard Acktun</person></cast>
+<cast gid="1990716527" lang="EN"><role>Pikachu</role><person id="846">Ikue Ohtani</person></cast>
+<cast gid="1631805576" lang="EN"><role>Meowth</role><person id="8345">Addie Blaustein</person></cast>
+<cast gid="2279552098" lang="IT"><role>Misty</role><person id="25938">Alessandra Karpoff</person></cast>
+<cast gid="2790324872" lang="IT"><role>Brock</role><person id="26038">Luca Bottale</person></cast>
+<cast gid="3083746202" lang="IT"><role>Narrator</role><person id="26042">Federico Danti</person></cast>
+<cast gid="498124068" lang="IT"><role>Meowth</role><person id="53454">Giuseppe Calvetti</person></cast>
+<cast gid="2896255768" lang="JA"><role>Pichu</role><person id="504">Satomi Koorogi</person></cast>
+<cast gid="991446541" lang="JA"><role>Pichu</role><person id="658">Yumi Touma</person></cast>
+<cast gid="1846098748" lang="JA"><role>Pikachu</role><person id="846">Ikue Ohtani</person></cast>
+<cast gid="1452469181" lang="NL"><role>Meowth</role><person id="21866">Jan Nonhof</person></cast>
+<cast gid="1090498142" lang="NL"><role>Ash</role><person id="22021">Christa Lips</person></cast>
+<cast gid="2733684632" lang="NL"><role>Misty</role><person id="22022">Marlies Somers</person></cast>
+<cast gid="2153931945" lang="NL"><role>Brock</role><person id="22023">Fred Meijer</person></cast>
+<cast gid="3110243524" lang="NL"><role>Verteller</role><person id="22024">Jeroen Keers</person></cast>
+<cast gid="2524241770" lang="PT"><role>Pichu</role><person id="504">Satomi Koorogi</person></cast>
+<cast gid="3109494076" lang="PT"><role>Pichu</role><person id="658">Yumi Touma</person></cast>
+<cast gid="2877349910" lang="PT"><role>Pikachu</role><person id="846">Ikue Ohtani</person></cast>
+<cast gid="1228346302" lang="PT"><role>Meowth</role><person id="49537">Márcio Simões</person></cast>
+<credit gid="2281286956"><task>Production</task><company id="620">Nintendo</company></credit></anime></ann>

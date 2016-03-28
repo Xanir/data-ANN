@@ -1,0 +1,59 @@
+<ann><anime id="3556" gid="2434592713" type="movie" name="Mazinger Z Vs. Devilman" precision="movie" generated-on="2016-03-27T03:40:06Z">
+<related-prev rel="spinoff of" id="578"/>
+<related-prev rel="spinoff of" id="1100"/>
+<info gid="4003317555" type="Picture" src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A3556-11.jpg" width="200" height="150"><img src="http://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A3556-11.jpg" width="200" height="150"/></info>
+<info gid="2112603226" type="Main title" lang="EN">Mazinger Z Vs. Devilman</info>
+<info gid="3183984405" type="Alternative title" lang="JA">Devilman contre Mazinger Z</info>
+<info gid="2223997969" type="Alternative title" lang="FR">Le Retour de Goldorak</info>
+<info gid="2376708024" type="Alternative title" lang="FR">Mazinger contre Devilman</info>
+<info gid="699350449" type="Alternative title" lang="ES">Mazinger Z contra Devilman</info>
+<info gid="2845438181" type="Alternative title" lang="FR">Mazinger Z contre Devilman</info>
+<info gid="2713488979" type="Alternative title" lang="FR">Mazinger Z contre la Tribu des Démons</info>
+<info gid="1857049930" type="Alternative title" lang="JA">マジンガーＺ対デビルマン</info>
+<info gid="1660782286" type="Genres">action</info>
+<info gid="1009686195" type="Genres">adventure</info>
+<info gid="3953395703" type="Genres">science fiction</info>
+<info gid="885011706" type="Themes">mecha</info>
+<info gid="307235828" type="Themes">super robot</info>
+<info gid="2869206584" type="Objectionable content">OC</info>
+<info gid="3602723944" type="Running time">25</info>
+<info type="Vintage">1973-07-18</info>
+<info gid="3296150194" type="Premiere date">1973-07-18 (Japan)</info>
+<info gid="1742435893" type="Ending Theme">&quot;Sora Tobu Mazinger Z&quot; by Ichiro Mizuki Ichirou and Columbia Yurikago-Kai</info>
+<ratings nb_votes="38" weighted_score="6.4756" bayesian_score="6.74256"/>
+<staff gid="1147300877"><task>Script</task><person id="41233">Susumu Takaku</person></staff>
+<staff gid="2067226183"><task>Screenplay</task><person id="8992">Susumu Takahisa</person></staff>
+<staff gid="3945364287"><task>Music</task><person id="17031">Chuumei Watanabe</person></staff>
+<staff gid="2514762951"><task>Music</task><person id="22683">Goh Misawa</person></staff>
+<staff gid="2871357670"><task>Original creator</task><person id="3140">Go Nagai</person></staff>
+<staff gid="2319369881"><task>Character Design</task><person id="2665">Kazuo Komatsubara</person></staff>
+<staff gid="3181100580"><task>Animation Director</task><person id="22679">Sonaharu Katsumata</person></staff>
+<staff gid="867991047"><task>Art design</task><person id="3226">Mataji Urata</person></staff>
+<staff gid="1910991065"><task>Producer</task><person id="22677">Syunichi Noboriishi</person></staff>
+<cast gid="1756332878" lang="ES"><role>Akira Fudo/Devilman</role><person id="32389">Marc Zanni</person></cast>
+<cast gid="1157309297" lang="ES"><role>Koji Kabuto</role><person id="33714">Jordi Pons</person></cast>
+<cast gid="2365323545" lang="ES"><role>Shiro Kabuto</role><person id="50364">Geni Rey</person></cast>
+<cast gid="1786921745" lang="ES"><role>Dr. Hell</role><person id="50739">Francisco Garriga</person></cast>
+<cast gid="2591684910" lang="ES"><role>Professor Gennosuke Yumi</role><person id="52337">Enric Isasi-Isasmendi</person></cast>
+<cast gid="2523220322" lang="ES"><role>Baron Ashura</role><person id="52353">Aurora García</person></cast>
+<cast gid="3538074499" lang="ES"><role>Sayaka Yumi</role><person id="62927">Victoria Pagès</person></cast>
+<cast gid="1481301244" lang="ES"><role>Boss</role><person id="64167">Xavier De LLorens</person></cast>
+<cast gid="2252358597" lang="ES"><role>Silen</role><person id="83554">Pilar Gefaell</person></cast>
+<cast gid="873537695" lang="FR"><role>Dr Hell</role><person id="3744">Tony Joudrier</person></cast>
+<cast gid="2634490155" lang="FR"><role>Alcor Kabuto</role><person id="39987">Olivier Jankovic</person></cast>
+<cast gid="2104697887" lang="FR"><role>Akira Fudo / Devilman</role><person id="45993">Pascal Germain</person></cast>
+<cast gid="3402810970" lang="FR"><role>Baron Ashura</role><person id="45993">Pascal Germain</person></cast>
+<cast gid="1830566295" lang="FR"><role>Boss</role><person id="51624">Michel Tugot-Doris</person></cast>
+<cast gid="1739342155" lang="FR"><role>Baronne Ashura</role><person id="51738">Cathy Cerda</person></cast>
+<cast gid="1816622296" lang="FR"><role>Sayaka Yumi</role><person id="63571">Susan Sindberg</person></cast>
+<cast gid="1921908013" lang="JA"><role>Kohji Kabuto</role><person id="1023">Hiroya Ishimaru</person></cast>
+<cast gid="957999682" lang="JA"><role>Sayaka Yumi</role><person id="1593">Minori Matsushima</person></cast>
+<cast gid="2554531482" lang="JA"><role>Boss</role><person id="2071">Hiroshi Ohtake</person></cast>
+<cast gid="2738399094" lang="JA"><role>Baron Ashura</role><person id="2172">Hidekatsu Shibata</person></cast>
+<cast gid="2304723665" lang="JA"><role>Professor Gennosuke Yumi</role><person id="2394">Jouji Yanami</person></cast>
+<cast gid="876309062" lang="JA"><role>Doctor Hell</role><person id="5682">Kousei Tomita</person></cast>
+<cast gid="1181465922" lang="JA"><role>Akira Fudoh/Devilman</role><person id="7238">Ryouichi Tanaka</person></cast>
+<cast gid="2079753590" lang="JA"><role>Shiroh Kabuto</role><person id="7361">Kazuko Sawada</person></cast>
+<cast gid="2650327538" lang="JA"><role>Baron Ashura</role><person id="9123">Haruko Kitahama</person></cast>
+<credit gid="735377321"><task>Production</task><company id="145">Toei Animation</company></credit>
+<credit gid="2741837948"><task>Production</task><company id="764">Dynamic Planning</company></credit></anime></ann>
